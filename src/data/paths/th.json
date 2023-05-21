@@ -1,0 +1,30 @@
+{
+  "destruction": {
+    "id": "destruction",
+    "name": "ทำลายล้าง"
+  },
+  "the-hunt": {
+    "id": "the-hunt",
+    "name": "ล่าสังหาร"
+  },
+  "erudition": {
+    "id": "erudition",
+    "name": "ปัญญา"
+  },
+  "harmony": {
+    "id": "harmony",
+    "name": "ประสาน"
+  },
+  "nihility": {
+    "id": "nihility",
+    "name": "ลบล้าง"
+  },
+  "preservation": {
+    "id": "preservation",
+    "name": "อนุรักษ์"
+  },
+  "abundance": {
+    "id": "abundance",
+    "name": "เฟื่องฟู"
+  }
+}

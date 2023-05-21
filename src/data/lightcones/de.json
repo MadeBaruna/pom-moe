@@ -1,0 +1,410 @@
+{
+  "arrows": {
+    "id": "arrows",
+    "name": "Pfeile",
+    "path": "the-hunt",
+    "rarity": 3
+  },
+  "cornucopia": {
+    "id": "cornucopia",
+    "name": "Füllhorn",
+    "path": "abundance",
+    "rarity": 3
+  },
+  "collapsing-sky": {
+    "id": "collapsing-sky",
+    "name": "Zusammenbruch des Himmels",
+    "path": "destruction",
+    "rarity": 3
+  },
+  "amber": {
+    "id": "amber",
+    "name": "Bernstein",
+    "path": "preservation",
+    "rarity": 3
+  },
+  "void": {
+    "id": "void",
+    "name": "Leere",
+    "path": "nihility",
+    "rarity": 3
+  },
+  "chorus": {
+    "id": "chorus",
+    "name": "Chor",
+    "path": "harmony",
+    "rarity": 3
+  },
+  "data-bank": {
+    "id": "data-bank",
+    "name": "Datenbank",
+    "path": "erudition",
+    "rarity": 3
+  },
+  "darting-arrow": {
+    "id": "darting-arrow",
+    "name": "Wurfpfeil",
+    "path": "the-hunt",
+    "rarity": 3
+  },
+  "fine-fruit": {
+    "id": "fine-fruit",
+    "name": "Feines Obst",
+    "path": "abundance",
+    "rarity": 3
+  },
+  "shattered-home": {
+    "id": "shattered-home",
+    "name": "Zerstörtes Zuhause",
+    "path": "destruction",
+    "rarity": 3
+  },
+  "defense": {
+    "id": "defense",
+    "name": "Verteidigung",
+    "path": "preservation",
+    "rarity": 3
+  },
+  "loop": {
+    "id": "loop",
+    "name": "Schleife",
+    "path": "nihility",
+    "rarity": 3
+  },
+  "meshing-cogs": {
+    "id": "meshing-cogs",
+    "name": "Einklang der Zahnräder",
+    "path": "harmony",
+    "rarity": 3
+  },
+  "passkey": {
+    "id": "passkey",
+    "name": "Generalschlüssel",
+    "path": "erudition",
+    "rarity": 3
+  },
+  "adversarial": {
+    "id": "adversarial",
+    "name": "Gegensätzliches",
+    "path": "the-hunt",
+    "rarity": 3
+  },
+  "multiplication": {
+    "id": "multiplication",
+    "name": "Aufschwung",
+    "path": "abundance",
+    "rarity": 3
+  },
+  "mutual-demise": {
+    "id": "mutual-demise",
+    "name": "Gemeinsamer Untergang",
+    "path": "destruction",
+    "rarity": 3
+  },
+  "pioneering": {
+    "id": "pioneering",
+    "name": "Pionierarbeit",
+    "path": "preservation",
+    "rarity": 3
+  },
+  "hidden-shadow": {
+    "id": "hidden-shadow",
+    "name": "Verborgener Schatten",
+    "path": "nihility",
+    "rarity": 3
+  },
+  "mediation": {
+    "id": "mediation",
+    "name": "Vermittlung",
+    "path": "harmony",
+    "rarity": 3
+  },
+  "sagacity": {
+    "id": "sagacity",
+    "name": "Weisheit",
+    "path": "erudition",
+    "rarity": 3
+  },
+  "post-op-conversation": {
+    "id": "post-op-conversation",
+    "name": "Ein Gespräch nach der OP",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "good-night-and-sleep-well": {
+    "id": "good-night-and-sleep-well",
+    "name": "Gute Nacht, schlaf schön",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "day-one-of-my-new-life": {
+    "id": "day-one-of-my-new-life",
+    "name": "Der erste Tag meines neuen Lebens",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "only-silence-remains": {
+    "id": "only-silence-remains",
+    "name": "Nur die Stille bleibt",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "memories-of-the-past": {
+    "id": "memories-of-the-past",
+    "name": "Erinnerungen an die Vergangenheit",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "the-moles-welcome-you": {
+    "id": "the-moles-welcome-you",
+    "name": "Die Maulwürfe heißen dich willkommen",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "the-birth-of-the-self": {
+    "id": "the-birth-of-the-self",
+    "name": "Die Geburt des Selbst",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "shared-feeling": {
+    "id": "shared-feeling",
+    "name": "Gefühl der Gemeinsamkeit",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "eyes-of-the-prey": {
+    "id": "eyes-of-the-prey",
+    "name": "Die Augen der Beute",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "landaus-choice": {
+    "id": "landaus-choice",
+    "name": "Landaus Wahl",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "swordplay": {
+    "id": "swordplay",
+    "name": "Schwertkampf",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "planetary-rendezvous": {
+    "id": "planetary-rendezvous",
+    "name": "Planetarisches Rendezvous",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "a-secret-vow": {
+    "id": "a-secret-vow",
+    "name": "Ein geheimes Gelübde",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "make-the-world-clamor": {
+    "id": "make-the-world-clamor",
+    "name": "Die Welt in Aufruhr versetzen",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "perfect-timing": {
+    "id": "perfect-timing",
+    "name": "Perfektes Timing",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "resolution-shines-as-pearls-of-sweat": {
+    "id": "resolution-shines-as-pearls-of-sweat",
+    "name": "Die Entschlusskraft glitzert als Schweißperlen",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "trend-of-the-universal-market": {
+    "id": "trend-of-the-universal-market",
+    "name": "Trend des universellen Markts",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "subscribe-for-more": {
+    "id": "subscribe-for-more",
+    "name": "Abonniere für mehr!",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "dance-dance-dance": {
+    "id": "dance-dance-dance",
+    "name": "Tanz! Tanz! Tanz!",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "under-the-blue-sky": {
+    "id": "under-the-blue-sky",
+    "name": "Unter dem blauen Himmel",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "geniuses-repose": {
+    "id": "geniuses-repose",
+    "name": "Die Rast der Genies",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "quid-pro-quo": {
+    "id": "quid-pro-quo",
+    "name": "Quid pro quo",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "fermata": {
+    "id": "fermata",
+    "name": "Fermate",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "we-are-wildfire": {
+    "id": "we-are-wildfire",
+    "name": "Wir sind Wildfeuer",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "river-flows-in-spring": {
+    "id": "river-flows-in-spring",
+    "name": "Flüsse plätschern im Frühling",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "past-and-future": {
+    "id": "past-and-future",
+    "name": "Vergangenheit und Zukunft",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "woof-walk-time": {
+    "id": "woof-walk-time",
+    "name": "Wuff! Zeit zum Laufen!",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "the-seriousness-of-breakfast": {
+    "id": "the-seriousness-of-breakfast",
+    "name": "Die Ernsthaftigkeit des Frühstücks",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "warmth-shortens-cold-nights": {
+    "id": "warmth-shortens-cold-nights",
+    "name": "Warme Nächte dauern nicht lange",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "we-will-meet-again": {
+    "id": "we-will-meet-again",
+    "name": "Wir werden uns wiedersehen",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "this-is-me": {
+    "id": "this-is-me",
+    "name": "Das bin ich!",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "return-to-darkness": {
+    "id": "return-to-darkness",
+    "name": "Rückkehr in die Dunkelheit",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "carve-the-moon-weave-the-clouds": {
+    "id": "carve-the-moon-weave-the-clouds",
+    "name": "Den Mond schnitzen, die Wolken weben",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "nowhere-to-run": {
+    "id": "nowhere-to-run",
+    "name": "Nirgends zu fliehen",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "today-is-another-peaceful-day": {
+    "id": "today-is-another-peaceful-day",
+    "name": "Heute ist wieder ein friedlicher Tag",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "night-on-the-milky-way": {
+    "id": "night-on-the-milky-way",
+    "name": "Nacht auf der Milchstraße",
+    "path": "erudition",
+    "rarity": 5
+  },
+  "in-the-night": {
+    "id": "in-the-night",
+    "name": "In der Nacht",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "something-irreplaceable": {
+    "id": "something-irreplaceable",
+    "name": "Etwas Unersetzliches",
+    "path": "destruction",
+    "rarity": 5
+  },
+  "but-the-battle-isnt-over": {
+    "id": "but-the-battle-isnt-over",
+    "name": "Der Kampf ist nicht vorbei",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "in-the-name-of-the-world": {
+    "id": "in-the-name-of-the-world",
+    "name": "Im Namen der Welt",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "moment-of-victory": {
+    "id": "moment-of-victory",
+    "name": "Moment des Sieges",
+    "path": "preservation",
+    "rarity": 5
+  },
+  "before-dawn": {
+    "id": "before-dawn",
+    "name": "Vor der Dämmerung",
+    "path": "erudition",
+    "rarity": 5
+  },
+  "sleep-like-the-dead": {
+    "id": "sleep-like-the-dead",
+    "name": "Schlafen wie die Toten",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "time-waits-for-no-one": {
+    "id": "time-waits-for-no-one",
+    "name": "Die Zeit wartet auf niemanden",
+    "path": "abundance",
+    "rarity": 5
+  },
+  "on-the-fall-of-an-aeon": {
+    "id": "on-the-fall-of-an-aeon",
+    "name": "Der Niedergang eines Äons",
+    "path": "destruction",
+    "rarity": 5
+  },
+  "cruising-in-the-stellar-sea": {
+    "id": "cruising-in-the-stellar-sea",
+    "name": "Fahrt durch das Sternenmeer",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "texture-of-memories": {
+    "id": "texture-of-memories",
+    "name": "Textur der Erinnerungen",
+    "path": "preservation",
+    "rarity": 5
+  }
+}

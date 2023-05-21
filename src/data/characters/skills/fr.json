@@ -1,0 +1,4013 @@
+{
+  "march-7th": {
+    "attack": {
+      "name": "Flèche du froid glacial",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de March 7th à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Par le pouvoir de la mignonnerie",
+      "desc": "Accorde un bouclier à un allié unique qui absorbe une quantité de DGT équivalente à <span style=\"color: #f29e38ff\">{1}</span> de la DÉF de March 7th + <span style=\"color: #f29e38ff\">{4}</span> pendant {2} tours.\\nSi le pourcentage de PV actuel de l'allié est supérieur ou égal à {3}, les chances que les ennemis attaquent cet allié augmentent considérablement.",
+      "values": [
+        [
+          38,
+          40,
+          43,
+          45,
+          48,
+          49,
+          51,
+          53,
+          55,
+          57,
+          59,
+          61,
+          63,
+          65,
+          67
+        ],
+        [
+          3
+        ],
+        [
+          30
+        ],
+        [
+          190,
+          304,
+          390,
+          475,
+          532,
+          589,
+          632,
+          675,
+          717,
+          760,
+          803,
+          846,
+          888,
+          931,
+          974
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Cascade glaciale",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de March 7th à tous les ennemis. Les ennemis touchés ont {2} de <u>chances de base</u> d'être gelés pendant {3} tour.\\nLes ennemis gelés ne peuvent pas agir et subissent des DGT de glace <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de March 7th au début de chaque tour.",
+      "values": [
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          50
+        ],
+        [
+          1
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Girl Power",
+      "desc": "Lorsqu'un allié bénéficiant d'un bouclier est attaqué par un ennemi, March 7th <u>contre</u> immédiatement, infligeant des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ. Cet effet peut être déclenché {2} fois par tour.",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1001_Normal.png"
+    },
+    "technique": {
+      "name": "Beauté glacée",
+      "desc": "Attaque immédiatement un ennemi. Il y a {1} de <u>chances de base</u> de geler un ennemi aléatoire pendant {2} tour après être entré en combat.\\nUn ennemi gelé ne peut pas agir et subit des DGT de glace <u>additionnels</u> équivalents à {3} de l'ATQ de March 7th au début de chaque tour.",
+      "values": [
+        [
+          100
+        ],
+        [
+          1
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "dan-heng": {
+    "attack": {
+      "name": "Lance perce-nuages : Vent du nord",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dan Heng à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Lance perce-nuages : Torrent",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dan Heng à un ennemi unique.\\nEn cas de coup critique, il y a {4} de <u>chances de base</u> de réduire la VIT de la cible de {2} pendant {3} tours.",
+      "values": [
+        [
+          130,
+          143,
+          156,
+          169,
+          182,
+          195,
+          211,
+          227,
+          244,
+          260,
+          273,
+          286,
+          299,
+          312,
+          325
+        ],
+        [
+          12
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Rêve éthéré",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dan Heng à un ennemi unique. Si l'ennemi est ralenti, le multiplicateur de DGT de l'ultime augmente de <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ],
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Portée supérieure",
+      "desc": "Lorsque Dan Heng est la cible de la capacité d'un allié, la <u>PÉN de RÉS</u> de vent de sa prochaine attaque augmente de <span style=\"color: #f29e38ff\">{1}</span>. Cet effet peut être déclenché à nouveau après {2} tours.",
+      "values": [
+        [
+          18,
+          20,
+          22,
+          23,
+          25,
+          27,
+          29,
+          31,
+          34,
+          36,
+          38,
+          40,
+          41,
+          43,
+          45
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1002_Normal.png"
+    },
+    "technique": {
+      "name": "Pointe affûtée",
+      "desc": "Après utilisation de la technique de Dan Heng, son ATQ augmente de {1} pendant {2} tours au début du combat suivant.",
+      "values": [
+        [
+          40
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "himeko": {
+    "attack": {
+      "name": "Accordage de la lame de scie",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Himeko à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Détonation en fusion",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Himeko à un ennemi unique et des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Himeko aux ennemis adjacents.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Éclat céleste",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Himeko à tous les ennemis. Himeko régénère {2} points d'énergie supplémentaires pour chaque ennemi vaincu.",
+      "values": [
+        [
+          138,
+          147,
+          156,
+          166,
+          175,
+          184,
+          196,
+          207,
+          218,
+          230,
+          239,
+          248,
+          258,
+          267,
+          276
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Ruée vers la victoire",
+      "desc": "Lorsqu'un ennemi subit une Rupture de faiblesse, Himeko obtient 1 point de Charge ({2} points max).\\nSi la Charge de Himeko est au maximum lorsqu'un allié attaque, Himeko effectue immédiatement 1 <u>attaque de suivi</u> et inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ à tous les ennemis, consommant tous les points de Charge.\\nHimeko obtient 1 point de Charge en début de combat.",
+      "values": [
+        [
+          70,
+          77,
+          84,
+          91,
+          98,
+          105,
+          114,
+          122,
+          131,
+          140,
+          147,
+          154,
+          161,
+          168,
+          175
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1003_Normal.png"
+    },
+    "technique": {
+      "name": "Combustion incomplète",
+      "desc": "Crée une dimension qui dure {4} secondes après utilisation de la technique. Après être entré en combat avec des ennemis dans la dimension, il y a {1} de <u>chances de base</u> d'augmenter les DGT de feu subis par les ennemis de {2} pendant {3} tours. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "values": [
+        [
+          100
+        ],
+        [
+          10
+        ],
+        [
+          2
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
+  "welt": {
+    "attack": {
+      "name": "Suppression de la gravité",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Welt à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Frontière du vide",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Welt à un ennemi unique et inflige des DGT 2 fois supplémentaires, infligeant à chaque fois des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Welt à un ennemi aléatoire. Les attaques qui touchent un ennemi ont <span style=\"color: #f29e38ff\">{2}</span> de <u>chances de base</u> de réduire sa VIT de {3} pendant {4} tours.",
+      "values": [
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68,
+          72,
+          76,
+          79,
+          83,
+          86,
+          90
+        ],
+        [
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80
+        ],
+        [
+          10
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Trou noir synthétique",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Welt à tous les ennemis, avec {3} de <u>chances de base</u> d'emprisonner les ennemis touchés pendant 1 tour.\\nLes ennemis emprisonnés voient leurs <u>actions retardées</u> de <span style=\"color: #f29e38ff\">{2}</span> et leur VIT réduite de {4}.",
+      "values": [
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          32,
+          33,
+          34,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          42,
+          43,
+          44
+        ],
+        [
+          100
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Distorsion temporelle",
+      "desc": "Lorsqu'il touche un ennemi qui est ralenti, Welt lui inflige des DGT imaginaires <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ.",
+      "values": [
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1004_Normal.png"
+    },
+    "technique": {
+      "name": "Emprisonnement gravitationnel",
+      "desc": "Crée une dimension qui dure {4} secondes après utilisation de la technique. Les ennemis dans cette dimension voient leur vitesse de déplacement réduite de {5}. Après être entré en combat avec des ennemis dans la dimension, il y a {1} de <u>chances de base</u> d'emprisonner les ennemis pour 1 tour.\\nLes ennemis emprisonnés voient leurs <u>actions retardées</u> de {2} et leur VIT réduite de {3}. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "values": [
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ],
+        [
+          15
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "arlan": {
+    "attack": {
+      "name": "Ruée éclair",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ d'Arlan à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Briseur de chaînes",
+      "desc": "Consomme {1} des PV max d'Arlan pour infliger des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{2}</span> de son ATQ à un ennemi unique. Si les PV d'Arlan ne sont pas suffisants, ses PV sont réduits à 1 après utilisation de sa compétence.",
+      "values": [
+        [
+          15
+        ],
+        [
+          120,
+          132,
+          144,
+          156,
+          168,
+          180,
+          195,
+          210,
+          225,
+          240,
+          252,
+          264,
+          276,
+          288,
+          300
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Châtiment frénétique",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ d'Arlan à un ennemi unique et des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ d'Arlan aux ennemis adjacents.",
+      "values": [
+        [
+          192,
+          205,
+          218,
+          230,
+          243,
+          256,
+          272,
+          288,
+          304,
+          320,
+          333,
+          346,
+          358,
+          371,
+          384
+        ],
+        [
+          96,
+          102,
+          109,
+          115,
+          122,
+          128,
+          136,
+          144,
+          152,
+          160,
+          166,
+          173,
+          179,
+          186,
+          192
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Douleur et colère",
+      "desc": "Augmente les DGT d'Arlan pour chaque pourcentage de PV en dessous de ses PV max, jusqu'à un maximum de <span style=\"color: #f29e38ff\">{1}</span> de DGT supplémentaires.",
+      "values": [
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68,
+          72,
+          76,
+          79,
+          83,
+          86,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1008_Normal.png"
+    },
+    "technique": {
+      "name": "Moisson rapide",
+      "desc": "Attaque immédiatement un ennemi. Inflige des DGT de foudre équivalents à {1} de l'ATQ d'Arlan à tous les ennemis après être entré en combat.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
+  "asta": {
+    "attack": {
+      "name": "Rayon spectral",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ d'Asta à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Tempête de météores",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ d'Asta à un ennemi unique et inflige des DGT 4 fois supplémentaires, infligeant à chaque fois des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ d'Asta à un ennemi aléatoire.",
+      "values": [
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Bénédiction astrale",
+      "desc": "Augmente la VIT de tous les alliés de <span style=\"color: #f29e38ff\">{1}</span> pendant {2} tours.",
+      "values": [
+        [
+          36,
+          37,
+          39,
+          40,
+          42,
+          43,
+          45,
+          47,
+          48,
+          50,
+          51,
+          53,
+          54,
+          56,
+          57
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Astrométrie",
+      "desc": "Obtient 1 cumul de Chargement pour chaque ennemi différent touché par Asta, et 1 cumul supplémentaire si l'ennemi touché a une Faiblesse au feu.\\nPour chaque cumul de Chargement d'Asta, l'ATQ de tous les alliés augmente de <span style=\"color: #f29e38ff\">{1}</span>, effet cumulable jusqu'à {2} fois.\\nDès son deuxième tour, le compte de cumuls de Chargement d'Asta diminue de {3} au début de chaque tour.",
+      "values": [
+        [
+          7,
+          7.7,
+          8.4,
+          9.1,
+          9.8,
+          10.5,
+          11.4,
+          12.3,
+          13.1,
+          14,
+          14.7,
+          15.4,
+          16.1,
+          16.8,
+          17.5
+        ],
+        [
+          5
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1009_Normal.png"
+    },
+    "technique": {
+      "name": "Coup de génie",
+      "desc": "Attaque immédiatement un ennemi. Inflige des DGT de feu équivalents à {1} de l'ATQ d'Asta à tous les ennemis après être entré en combat.",
+      "values": [
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
+  "herta": {
+    "attack": {
+      "name": "Qu'est-ce que tu regardes ?",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Herta à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Une offre à ne pas manquer",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Herta à tous les ennemis. Lorsque le pourcentage de PV d'un ennemi est supérieur ou égal à {2}, les DGT qui lui sont infligés augmentent de {3}.",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          50
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "La magie, c'est exquis",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Herta à tous les ennemis.",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "On n'est pas mieux servi que par soi-même",
+      "desc": "Lorsque l'attaque d'un allié réduit le pourcentage de PV d'un ennemi à {1} ou moins, Herta lance une <u>attaque de suivi</u> qui inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{2}</span> de son ATQ à tous les ennemis.",
+      "values": [
+        [
+          50
+        ],
+        [
+          25,
+          26,
+          28,
+          29,
+          31,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1013_Normal.png"
+    },
+    "technique": {
+      "name": "Il y a de la marge de progression",
+      "desc": "Après utilisation de sa technique, l'ATQ de Herta augmente de {1} pendant {2} tours au début du combat suivant.",
+      "values": [
+        [
+          40
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "bronya": {
+    "attack": {
+      "name": "Tir du mistral",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Bronya à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Redéploiement de combat",
+      "desc": "Dissipe un <u>malus</u> d'un allié, lui permet d'agir immédiatement et augmente ses DGT de <span style=\"color: #f29e38ff\">{1}</span> pendant {3} tour.\\nLorsque cette compétence est utilisée sur Bronya, elle ne peut pas agir immédiatement à nouveau.",
+      "values": [
+        [
+          33,
+          36,
+          40,
+          43,
+          46,
+          50,
+          54,
+          58,
+          62,
+          66,
+          69,
+          73,
+          76,
+          79,
+          83
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "La marche de Belobog",
+      "desc": "Augmente l'ATQ de tous les alliés de <span style=\"color: #f29e38ff\">{1}</span> et augmente leurs DGT critiques d'un montant équivalent à <span style=\"color: #f29e38ff\">{2}</span> des DGT critiques de Bronya + <span style=\"color: #f29e38ff\">{3}</span> pendant {4} tours.",
+      "values": [
+        [
+          33,
+          35,
+          37,
+          40,
+          42,
+          44,
+          47,
+          50,
+          52,
+          55,
+          57,
+          59,
+          62,
+          64,
+          66
+        ],
+        [
+          12,
+          12.4,
+          12.8,
+          13.2,
+          13.6,
+          14,
+          14.5,
+          15,
+          15.5,
+          16,
+          16.4,
+          16.8,
+          17.2,
+          17.6,
+          18
+        ],
+        [
+          12,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[f1]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Première de cordée",
+      "desc": "Après utilisation de son ATQ normale, l'action suivante de Bronya est <u>avancée</u> de <span style=\"color: #f29e38ff\">{1}</span>.",
+      "values": [
+        [
+          15,
+          16,
+          18,
+          19,
+          21,
+          22,
+          24,
+          26,
+          28,
+          30,
+          31,
+          33,
+          34,
+          36,
+          38
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1101_Normal.png"
+    },
+    "technique": {
+      "name": "Bannière de commandement",
+      "desc": "Après utilisation de la technique de Bronya, l'ATQ de tous les alliés augmente de {1} pendant {2} tours au début du combat suivant.",
+      "values": [
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "seele": {
+    "attack": {
+      "name": "Représailles",
+      "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Seele à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Lame rengainée",
+      "desc": "Augmente la VIT de Seele de {2} pendant {3} tours et inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Seele à un ennemi unique.",
+      "values": [
+        [
+          110,
+          121,
+          132,
+          143,
+          154,
+          165,
+          179,
+          193,
+          206,
+          220,
+          231,
+          242,
+          253,
+          264,
+          275
+        ],
+        [
+          25
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Volée de papillons",
+      "desc": "Seele entre immédiatement dans l'état amélioré et inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ à un ennemi unique.",
+      "values": [
+        [
+          255,
+          272,
+          289,
+          306,
+          323,
+          340,
+          361,
+          383,
+          404,
+          425,
+          442,
+          459,
+          476,
+          493,
+          510
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Résurgence",
+      "desc": "Lorsqu'elle élimine un ennemi avec son ATQ normale, sa compétence ou son ultime, Seele entre dans l'état amélioré et bénéficie d'un <u>tour supplémentaire</u>. Lorsqu'elle est dans l'état amélioré, les DGT de ses attaques augmentent de <span style=\"color: #f29e38ff\">{1}</span> pendant {2} tour.\\nLes ennemis vaincus pendant le <u>tour supplémentaire</u> accordé par « Résurgence » ne déclenchent pas « Résurgence » à nouveau.",
+      "values": [
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1102_Normal.png"
+    },
+    "technique": {
+      "name": "Illusion fantôme",
+      "desc": "Après utilisation de sa technique, Seele devient furtive pendant {1} secondes. Lorsque Furtivité est active, Seele ne peut pas être détectée par les ennemis. Si elle entre en combat en attaquant un ennemi, elle bénéficie immédiatement de l'état amélioré.",
+      "values": [
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
+  "serval": {
+    "attack": {
+      "name": "Coup de tonnerre rugissant",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Serval à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Éclair rapide",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Serval à un ennemi unique et des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Serval aux ennemis adjacents, avec {3} de <u>chances de base</u> de stupéfier les ennemis touchés pendant {4} tours.\\nLes ennemis stupéfiés subissent des dégâts de foudre sur la durée équivalents à <span style=\"color: #f29e38ff\">{5}</span> de l'ATQ de Serval au début de chaque tour.",
+      "values": [
+        [
+          70,
+          77,
+          84,
+          91,
+          98,
+          105,
+          114,
+          122,
+          131,
+          140,
+          147,
+          154,
+          161,
+          168,
+          175
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ],
+        [
+          80
+        ],
+        [
+          2
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          62,
+          70,
+          80,
+          92,
+          104,
+          109,
+          114,
+          120,
+          125,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Fièvre mécanique",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Serval à tous les ennemis. Augmente la durée de l'effet Stupéfaction de {2} tours pour les ennemis souffrant déjà de cet effet.",
+      "values": [
+        [
+          108,
+          115,
+          122,
+          130,
+          137,
+          144,
+          153,
+          162,
+          171,
+          180,
+          187,
+          194,
+          202,
+          209,
+          216
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Accords galvaniques",
+      "desc": "Après avoir attaqué, Serval inflige des DGT de foudre <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ à tous les ennemis stupéfiés.",
+      "values": [
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68,
+          72,
+          76,
+          79,
+          83,
+          86,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1103_Normal.png"
+    },
+    "technique": {
+      "name": "Bonsoir Belobog",
+      "desc": "Attaque immédiatement un ennemi. Inflige des DGT de foudre équivalents à {4} de l'ATQ de Serval à un ennemi aléatoire après être entré en combat, avec {1} de <u>chances de base</u> que tous les ennemis soient stupéfiés pendant {3} tours.\\nLes ennemis stupéfiés subissent des dégâts de foudre sur la durée équivalents à {2} de l'ATQ de Serval au début de chaque tour.",
+      "values": [
+        [
+          100
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "gepard": {
+    "attack": {
+      "name": "Poing de la conviction",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Gepard à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Frappe intimidante",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Gepard à un ennemi unique avec {2} de <u>chances de base</u> de geler l'ennemi pendant {3} tour.\\nUn ennemi gelé ne peut pas agir et subit des DGT de glace <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de Gepard au début de chaque tour.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          65
+        ],
+        [
+          1
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Rempart d'endurance",
+      "desc": "Accorde à tous les alliés un bouclier qui absorbe une quantité de DGT équivalente à <span style=\"color: #f29e38ff\">{1}</span> de la DÉF de Gepard + <span style=\"color: #f29e38ff\">{3}</span> pendant {2} tours.",
+      "values": [
+        [
+          30,
+          32,
+          34,
+          36,
+          38,
+          39,
+          41,
+          42,
+          44,
+          45,
+          47,
+          48,
+          50,
+          51,
+          53
+        ],
+        [
+          3
+        ],
+        [
+          150,
+          240,
+          308,
+          375,
+          420,
+          465,
+          499,
+          533,
+          566,
+          600,
+          634,
+          668,
+          701,
+          735,
+          769
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Volonté inflexible",
+      "desc": "Au lieu de tomber <u>à terre</u> lorsqu'il subit un coup fatal, Gepard restaure immédiatement <span style=\"color: #f29e38ff\">{1}</span> de ses PV max. Cet effet ne peut se déclencher qu'une fois par combat.",
+      "values": [
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1104_Normal.png"
+    },
+    "technique": {
+      "name": "Camaraderie",
+      "desc": "Après utilisation de la technique de Gepard, tous les alliés gagnent un bouclier qui absorbe des DGT équivalents à {1} de la DÉF de Gepard + {3} pendant {2} tours au début du combat suivant.",
+      "values": [
+        [
+          24
+        ],
+        [
+          2
+        ],
+        [
+          150
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
+  "natasha": {
+    "attack": {
+      "name": "Derrière la bonté",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Natasha à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Aimer, guérir et choisir",
+      "desc": "Soigne un allié unique à hauteur de <span style=\"color: #f29e38ff\">{1}</span> des PV max de Natasha + <span style=\"color: #f29e38ff\">{4}</span>. Soigne encore l'allié à hauteur de <span style=\"color: #f29e38ff\">{2}</span> des PV max de Natasha + <span style=\"color: #f29e38ff\">{5}</span> au début de chaque tour pendant {3} tours.",
+      "values": [
+        [
+          7,
+          7.4,
+          7.9,
+          8.3,
+          8.7,
+          9.1,
+          9.5,
+          9.8,
+          10.2,
+          10.5,
+          10.8,
+          11.2,
+          11.6,
+          11.9,
+          12.3
+        ],
+        [
+          4.8,
+          5.1,
+          5.4,
+          5.7,
+          6,
+          6.2,
+          6.5,
+          6.7,
+          7,
+          7.2,
+          7.4,
+          7.7,
+          7.9,
+          8.2,
+          8.4
+        ],
+        [
+          2
+        ],
+        [
+          70,
+          112,
+          144,
+          175,
+          196,
+          217,
+          233,
+          249,
+          264,
+          280,
+          296,
+          312,
+          327,
+          343,
+          359
+        ],
+        [
+          48,
+          77,
+          98,
+          120,
+          134,
+          149,
+          160,
+          170,
+          181,
+          192,
+          203,
+          214,
+          224,
+          235,
+          246
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Cadeau de la renaissance",
+      "desc": "Soigne tous les alliés à hauteur de <span style=\"color: #f29e38ff\">{1}</span> des PV max de Natasha + <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          9.2,
+          9.8,
+          10.4,
+          10.9,
+          11.5,
+          12,
+          12.4,
+          12.9,
+          13.3,
+          13.8,
+          14.3,
+          14.7,
+          15.2,
+          15.6,
+          16.1
+        ],
+        [
+          92,
+          147,
+          189,
+          230,
+          258,
+          285,
+          306,
+          327,
+          347,
+          368,
+          389,
+          409,
+          430,
+          451,
+          472
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Innervation",
+      "desc": "Lorsque Natasha soigne des alliés dont le pourcentage de PV est inférieur ou égal à {1}, les soins qu'elle prodigue augmentent de <span style=\"color: #f29e38ff\">{2}</span>. Cet effet fonctionne également sur les soins continus.",
+      "values": [
+        [
+          30
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1105_Normal.png"
+    },
+    "technique": {
+      "name": "Recherche sur l'hypnose",
+      "desc": "Attaque immédiatement un ennemi. Inflige des DGT physiques équivalents à {4} de l'ATQ de Natasha à un ennemi aléatoire avec {1} de <u>chances de base</u> d'affaiblir tous les ennemis après être entré en combat.\\nLes ennemis affaiblis infligent {2} de DGT en moins aux alliés pendant {3} tour.",
+      "values": [
+        [
+          100
+        ],
+        [
+          30
+        ],
+        [
+          1
+        ],
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "pela": {
+    "attack": {
+      "name": "Tir givré",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Pela à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Morsure du givre",
+      "desc": "Supprime {2} <u>bonus</u> et inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Pela à un ennemi unique.",
+      "values": [
+        [
+          105,
+          115,
+          126,
+          136,
+          147,
+          158,
+          171,
+          184,
+          197,
+          210,
+          220,
+          231,
+          242,
+          252,
+          263
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Suppression de zone",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de Pela à tous les ennemis, avec {1} de <u>chances de base</u> d'infliger Exposé à tous les ennemis.\\nLorsqu'ils sont exposés, les ennemis voient leur DÉF réduite de <span style=\"color: #f29e38ff\">{2}</span> pendant {3} tours.",
+      "values": [
+        [
+          100
+        ],
+        [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        [
+          2
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Collecte de données",
+      "desc": "Si l'ennemi subit un <u>malus</u> après l'attaque de Pela, cette dernière régénère <span style=\"color: #f29e38ff\">{1}</span> points d'énergie supplémentaires. Cet effet ne peut être déclenché qu'1 fois par attaque.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.8,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ]
+      ],
+      "format": [
+        "[f1]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1106_Normal.png"
+    },
+    "technique": {
+      "name": "Frappe préventive",
+      "desc": "Attaque immédiatement un ennemi. Pela inflige des DGT de glace équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat, avec {1} de <u>chances de base</u> de diminuer la DÉF de tous les ennemis de {2} pendant {3} tours.",
+      "values": [
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          2
+        ],
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "clara": {
+    "attack": {
+      "name": "Je veux aider",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Clara à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Svarog veille sur toi",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Clara à tous les ennemis et des DGT physiques supplémentaires équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Clara aux ennemis marqués par Svarog d'une Marque de contre.\\nToutes les Marques de contre sont supprimées après utilisation de cette compétence.",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "C'est une promesse, pas un ordre",
+      "desc": "Après utilisation de l'ultime de Clara, les DGT qu'elle subit sont réduits de <span style=\"color: #f29e38ff\">{4}</span> supplémentaires et ses chances d'être attaquée par des ennemis sont fortement augmentées pendant {3} tours.\\nD'autre part, le <u>contre</u> de Svarog est renforcé. Lorsqu'un allié est attaqué, Svarog lance immédiatement un <u>contre</u> et son multiplicateur de DGT contre l'ennemi augmente de <span style=\"color: #f29e38ff\">{2}</span>. Les ennemis adjacents subissent 50 % des DGT infligés à la cible ennemie. Le <u>contre</u> renforcé peut prendre effet {5} fois.",
+      "values": [
+        [
+          5
+        ],
+        [
+          96,
+          102,
+          109,
+          115,
+          122,
+          128,
+          136,
+          144,
+          152,
+          160,
+          166,
+          173,
+          179,
+          186,
+          192
+        ],
+        [
+          2
+        ],
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Parce qu'on est une famille",
+      "desc": "Sous la protection de Svarog, les DGT subis par Clara lorsqu'elle est touchée par des attaques ennemies sont réduits de {3}. Svarog marque les ennemis qui attaquent Clara de sa Marque de contre et riposte avec un <u>contre</u>, infligeant des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Clara.",
+      "values": [
+        [
+          1
+        ],
+        [
+          80,
+          88,
+          96,
+          104,
+          112,
+          120,
+          130,
+          140,
+          150,
+          160,
+          168,
+          176,
+          184,
+          192,
+          200
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1107_Normal.png"
+    },
+    "technique": {
+      "name": "Le prix de la victoire",
+      "desc": "Attaque immédiatement un ennemi. Les chances pour Clara de se faire attaquer par des ennemis augmentent pendant {1} tours en entrant en combat.",
+      "values": [
+        [
+          2
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]",
+        ""
+      ]
+    }
+  },
+  "sampo": {
+    "attack": {
+      "name": "Lames éblouissantes",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Sampo à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Amour rebondissant",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Sampo à un ennemi unique et inflige des DGT {1} fois supplémentaires, infligeant à chaque fois des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Sampo à un ennemi aléatoire.",
+      "values": [
+        [
+          4
+        ],
+        [
+          28,
+          31,
+          34,
+          36,
+          39,
+          42,
+          46,
+          49,
+          53,
+          56,
+          59,
+          62,
+          64,
+          67,
+          70
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Cadeau surprise",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Sampo à tous les ennemis, avec {4} de <u>chances de base</u> d'augmenter les dégâts sur la durée subis par les cibles de <span style=\"color: #f29e38ff\">{2}</span> pendant {3} tours.",
+      "values": [
+        [
+          96,
+          102,
+          109,
+          115,
+          122,
+          128,
+          136,
+          144,
+          152,
+          160,
+          166,
+          173,
+          179,
+          186,
+          192
+        ],
+        [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Dague de bourrasque",
+      "desc": "Les attaques de Sampo ont {1} de <u>chances de base</u> d'infliger Faille du vent pendant {3} tours.\\nLes ennemis affectés par Faille du vent subissent des dégâts de vent sur la durée équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Sampo au début de chaque tour. Faille du vent peut être cumulé jusqu'à {4} fois.",
+      "values": [
+        [
+          65
+        ],
+        [
+          20,
+          22,
+          24,
+          26,
+          28,
+          31,
+          35,
+          40,
+          46,
+          52,
+          55,
+          57,
+          60,
+          62,
+          65
+        ],
+        [
+          3
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1108_Normal.png"
+    },
+    "technique": {
+      "name": "Éblouissement",
+      "desc": "Après utilisation de la technique de Sampo, les ennemis situés dans une zone définie subissent Aveuglement pendant {1} secondes. Les ennemis aveuglés ne peuvent pas détecter votre équipe.\\nLorsqu'un combat est lancé contre un ennemi aveuglé, il y a {2} de <u>chances fixes</u> de retarder l'action de tous les ennemis de {3}.",
+      "values": [
+        [
+          10
+        ],
+        [
+          100
+        ],
+        [
+          25
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "hook": {
+    "attack": {
+      "name": "Héhé ! Attention, ça brûle !",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Hook à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Hé ! Tu te souviens de moi ?",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Hook à un ennemi unique, avec {2} de <u>chances de base</u> de lui infliger Brûlure pendant {3} tours.\\nLes ennemis affectés par l'état Brûlure subissent des dégâts de feu sur la durée équivalents à <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de Hook au début de chaque tour.",
+      "values": [
+        [
+          120,
+          132,
+          144,
+          156,
+          168,
+          180,
+          195,
+          210,
+          225,
+          240,
+          252,
+          264,
+          276,
+          288,
+          300
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          39,
+          44,
+          50,
+          58,
+          65,
+          68,
+          72,
+          75,
+          78,
+          81
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Boom ! Ça prend feu !",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Hook à un ennemi unique.\\nAprès utilisation de l'ultime, la prochaine compétence utilisée est renforcée, infligeant des DGT à la cible ennemie et aux ennemis adjacents.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Ha ! De l'huile sur le feu !",
+      "desc": "Lorsque Hook attaque une cible affectée par l'état Brûlure, elle inflige des DGT de feu <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ et régénère {2} points d'énergie supplémentaires.",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1109_Normal.png"
+    },
+    "technique": {
+      "name": "Aïe ! Regarde-moi ce bazar !",
+      "desc": "Attaque immédiatement un ennemi. Hook inflige des DGT de feu équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat. D'autre part, il y a {1} de <u>chances de base</u> d'infliger Brûlure à tous les ennemis pendant {3} tours.\\nLes ennemis affectés par l'état Brûlure subissent des dégâts de feu sur la durée équivalents à {2} de l'ATQ de Hook au début de chaque tour.",
+      "values": [
+        [
+          100
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Hé ! Tu te souviens de moi ?",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Hook à un ennemi unique, avec {2} de <u>chances de base</u> de lui infliger Brûlure pendant {3} tours. Inflige également des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{5}</span> de l'ATQ de Hook aux ennemis adjacents.\\nLes ennemis affectés par l'état Brûlure subissent des dégâts de feu sur la durée équivalents à <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de Hook au début de chaque tour.",
+      "values": [
+        [
+          140,
+          154,
+          168,
+          182,
+          196,
+          210,
+          227,
+          245,
+          263,
+          280,
+          294,
+          308,
+          322,
+          336,
+          350
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          39,
+          44,
+          50,
+          58,
+          65,
+          68,
+          72,
+          75,
+          78,
+          81
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "qingque": {
+    "attack": {
+      "name": "Bonne pioche",
+      "desc": "Lance une tuile de jade de la série dont Qingque a le moins de tuiles en main pour infliger des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Qingque à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Coup de pouce",
+      "desc": "Pioche immédiatement {1} tuiles de jade et augmente les DGT de <span style=\"color: #f29e38ff\">{2}</span> jusqu'à la fin du tour en cours. Cet effet peut être cumulé jusqu'à {3} fois. Le tour ne prend pas fin après l'utilisation de cette compétence.",
+      "values": [
+        [
+          2
+        ],
+        [
+          14,
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          29,
+          31,
+          32,
+          34,
+          35
+        ],
+        [
+          4
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Quatre pungs en main ? Tout va bien !",
+      "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Qingque à tous les ennemis et accorde 4 tuiles de jade de la même série.",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Jade céleste",
+      "desc": "Au début du tour de chaque allié, Qingque pioche 1 tuile au hasard parmi 3 séries différentes et peut posséder jusqu'à 4 tuiles à la fois.\\nSi Qingque commence son tour avec 4 tuiles de la même série, elle les utilise toutes et entre dans l'état « Kong caché ».\\nDans cet état, Qingque ne peut plus utiliser sa compétence. D'autre part, son ATQ augmente de <span style=\"color: #f29e38ff\">{1}</span> et son ATQ normale « Bonne pioche » est renforcée pour devenir « C'est la tuile ! ». L'état « Kong caché » prend fin après utilisation de « C'est la tuile ! ».",
+      "values": [
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68,
+          72,
+          76,
+          79,
+          83,
+          86,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1201_Normal.png"
+    },
+    "technique": {
+      "name": "Accro aux jeux",
+      "desc": "Après utilisation de la technique, Qingque pioche {1} tuiles de jade en début de combat.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "C'est la tuile !",
+      "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Qingque à un ennemi unique et des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Qingque aux ennemis adjacents.\\n« C'est la tuile ! » ne permet pas de récupérer de points de compétence.",
+      "values": [
+        [
+          120,
+          144,
+          168,
+          192,
+          216,
+          240,
+          264,
+          288,
+          312
+        ],
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "tingyun": {
+    "attack": {
+      "name": "Expulsion",
+      "desc": "Tingyun inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Mélodie apaisante",
+      "desc": "Accorde une bénédiction à un allié unique qui augmente son ATQ de <span style=\"color: #f29e38ff\">{2}</span>, dans la limite de <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ actuelle de Tingyun.\\nLorsque l'allié béni attaque, il inflige des DGT de foudre <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{1}</span> de sa propre ATQ 1 fois.\\nLa bénédiction dure {3} tours et n'est effective que sur le dernier personnage à bénéficier de la compétence de Tingyun.",
+      "values": [
+        [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ],
+        [
+          3
+        ],
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Bienveillance des nuages",
+      "desc": "Régénère {1} points d'énergie à un allié unique et augmente les DGT qu'il inflige de <span style=\"color: #f29e38ff\">{3}</span> pendant {2} tours.",
+      "values": [
+        [
+          50
+        ],
+        [
+          2
+        ],
+        [
+          20,
+          23,
+          26,
+          29,
+          32,
+          35,
+          39,
+          43,
+          46,
+          50,
+          53,
+          56,
+          59,
+          62,
+          65
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Déluge d'étincelles pourpres",
+      "desc": "Lorsque Tingyun attaque un ennemi, l'allié béni inflige immédiatement des DGT de foudre <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{1}</span> de sa propre ATQ au même ennemi.",
+      "values": [
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1202_Normal.png"
+    },
+    "technique": {
+      "name": "Douce brise",
+      "desc": "Tingyun régénère immédiatement {1} points d'énergie lorsqu'elle utilise sa technique.",
+      "values": [
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
+  "jing-yuan": {
+    "attack": {
+      "name": "Feux de la lumière",
+      "desc": "Jing Yuan inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Zénith tonitruant",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Jing Yuan à tous les ennemis et augmente le nombre de frappes par action du Seigneur de la foudre de {2} pour le tour suivant.",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Porteur de lumière",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Jing Yuan à tous les ennemis et augmente le nombre de frappes par action du Seigneur de la foudre de {2} pour le tour suivant.",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Annihilation du prana",
+      "desc": "Invoque le Seigneur de la foudre en début de combat. Le Seigneur de la foudre dispose d'une VIT de base de {1} et d'un nombre de frappes par action de base de {4}. Lorsque le Seigneur de la foudre agit, ses frappes sont considérées comme des <u>attaques de suivi</u>, chacune infligeant des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Jing Yuan à un ennemi unique, et les ennemis adjacents subissent également des DGT de foudre équivalents à {5} des DGT infligés à l'ennemi principal.\\nLe nombre de frappes par action du Seigneur de la foudre peut atteindre un maximum de {6}. Chaque fois que le nombre de frappes par action du Seigneur de la foudre augmente de 1, sa VIT augmente de {3}. Une fois l'action du Seigneur de la foudre terminée, sa VIT et son nombre de frappes par action retrouvent leurs valeurs de base.\\nLorsque Jing Yuan est <u>à terre</u>, le Seigneur de la foudre disparaît.\\nLorsque Jing Yuan est affecté par un <u>malus de contrôle</u>, le Seigneur de la foudre ne peut plus agir.",
+      "values": [
+        [
+          60
+        ],
+        [
+          33,
+          36,
+          40,
+          43,
+          46,
+          50,
+          54,
+          58,
+          62,
+          66,
+          69,
+          73,
+          76,
+          79,
+          83
+        ],
+        [
+          10
+        ],
+        [
+          3
+        ],
+        [
+          25
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1204_Normal.png"
+    },
+    "technique": {
+      "name": "Invocation d'esprit",
+      "desc": "Après utilisation de la technique, le nombre de frappes par action du Seigneur de la foudre augmente de {1} au premier tour du combat suivant.",
+      "values": [
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
+  "sushang": {
+    "attack": {
+      "name": "Escrime perce-nuages : Étoile brillante",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Sushang à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Escrime perce-nuages : Chute de montagne",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Sushang à un ennemi unique. De plus, il y a {3} de chances de déclencher Posture de l'épée lors du coup final, ce qui inflige à l'ennemi des DGT physiques <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Sushang.\\nSi l'ennemi est affecté par <u>Rupture de faiblesse</u>, le déclenchement de Posture de l'épée est garanti.",
+      "values": [
+        [
+          105,
+          115,
+          126,
+          136,
+          147,
+          158,
+          171,
+          184,
+          197,
+          210,
+          220,
+          231,
+          242,
+          252,
+          263
+        ],
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          33
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Forme de Taixu : Héraut de l'aube",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Sushang à un ennemi unique et avance immédiatement l'action de Sushang de 100 %. De plus, l'ATQ de Sushang augmente de <span style=\"color: #f29e38ff\">{4}</span> et l'utilisation de sa compétence a 2 chances supplémentaires de déclencher Posture de l'épée pendant {2} tours.\\nLorsque Posture de l'épée est déclenchée par les chances supplémentaires, elle inflige {3} des DGT initiaux.",
+      "values": [
+        [
+          192,
+          205,
+          218,
+          230,
+          243,
+          256,
+          272,
+          288,
+          304,
+          320,
+          333,
+          346,
+          358,
+          371,
+          384
+        ],
+        [
+          2
+        ],
+        [
+          50
+        ],
+        [
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          25,
+          27,
+          28,
+          30,
+          31,
+          32,
+          34,
+          35,
+          36
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Lame dansante",
+      "desc": "Lorsqu'un ennemi subit une Rupture de faiblesse sur le champ de bataille, la VIT de Sushang augmente de <span style=\"color: #f29e38ff\">{1}</span> pendant {2} tours.",
+      "values": [
+        [
+          15,
+          15.5,
+          16,
+          16.5,
+          17,
+          17.5,
+          18.13,
+          18.75,
+          19.38,
+          20,
+          20.5,
+          21,
+          21.5,
+          22,
+          22.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f2]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1206_Normal.png"
+    },
+    "technique": {
+      "name": "Escrime perce-nuages : Cri de guerre",
+      "desc": "Attaque immédiatement un ennemi. Sushang inflige des DGT physiques équivalents à {1} de son ATQ à tous les ennemis en entrant en combat.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
+  "yanqing": {
+    "attack": {
+      "name": "Épine de givre",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yanqing à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Salve d'aiguillons",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yanqing à un ennemi unique et active Osmose avec l'acier pendant 1 tour.",
+      "values": [
+        [
+          110,
+          121,
+          132,
+          143,
+          154,
+          165,
+          179,
+          193,
+          206,
+          220,
+          231,
+          242,
+          253,
+          264,
+          275
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Béatitude au milieu de l'averse",
+      "desc": "Augmente les chances de coup critique de Yanqing de {1}. Si Osmose avec l'acier est active, augmente les DGT critiques de Yanqing de <span style=\"color: #f29e38ff\">{2}</span> supplémentaires. Ce <u>bonus</u> dure 1 tour avant d'infliger des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{3}</span> de l'ATQ de Yanqing à un ennemi unique.",
+      "values": [
+        [
+          60
+        ],
+        [
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60
+        ],
+        [
+          210,
+          224,
+          238,
+          252,
+          266,
+          280,
+          298,
+          315,
+          332,
+          350,
+          364,
+          378,
+          392,
+          406,
+          420
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Connexion avec la lame",
+      "desc": "Lorsque Osmose avec l'acier est active, Yanqing est moins susceptible d'être attaqué par des ennemis. Ses chances de coup critique augmentent de <span style=\"color: #f29e38ff\">{1}</span> et ses DGT critiques de <span style=\"color: #f29e38ff\">{2}</span>. Lorsque Yanqing attaque un ennemi, il a <span style=\"color: #f29e38ff\">{3}</span> de <u>chances fixes</u> de lancer une <u>attaque de suivi</u>, infligeant des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{4}</span> de son ATQ à l'ennemi, avec {6} de <u>chances de base</u> de le geler pendant 1 tour.\\nLa cible gelée ne peut pas agir et subit des DGT de glace <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{5}</span> de l'ATQ de Yanqing au début de chaque tour.\\nLorsque Yanqing subit des DGT, l'effet Osmose avec l'acier disparaît.",
+      "values": [
+        [
+          15,
+          15.5,
+          16,
+          16.5,
+          17,
+          17.5,
+          18.1,
+          18.8,
+          19.4,
+          20,
+          20.5,
+          21,
+          21.5,
+          22,
+          22.5
+        ],
+        [
+          15,
+          16,
+          18,
+          19,
+          21,
+          22,
+          24,
+          26,
+          28,
+          30,
+          31,
+          33,
+          34,
+          36,
+          38
+        ],
+        [
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ],
+        [
+          65
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1209_Normal.png"
+    },
+    "technique": {
+      "name": "La seule et unique lame",
+      "desc": "Après utilisation de sa technique, les DGT de Yanqing augmentent de {2} pendant {3} tours contre les ennemis dont les PV sont supérieurs ou égaux à {1} au début du combat suivant.",
+      "values": [
+        [
+          50
+        ],
+        [
+          30
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "bailu": {
+    "attack": {
+      "name": "Diagnostic musclé",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Bailu à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Chanter parmi les nuages",
+      "desc": "Soigne immédiatement un allié unique à hauteur de <span style=\"color: #f29e38ff\">{1}</span> des PV max de Bailu + <span style=\"color: #f29e38ff\">{2}</span>. Bailu soigne ensuite les alliés de manière aléatoire {4} fois. Après chaque soin, les PV restaurés par le soin suivant diminuent de {3}.",
+      "values": [
+        [
+          7.8,
+          8.3,
+          8.8,
+          9.3,
+          9.7,
+          10.1,
+          10.5,
+          10.9,
+          11.3,
+          11.7,
+          12.1,
+          12.5,
+          12.9,
+          13.3,
+          13.7
+        ],
+        [
+          78,
+          125,
+          160,
+          195,
+          218,
+          242,
+          259,
+          277,
+          294,
+          312,
+          330,
+          347,
+          365,
+          382,
+          400
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Foudroyés par la félicité",
+      "desc": "Soigne immédiatement tous les alliés à hauteur de <span style=\"color: #f29e38ff\">{1}</span> des PV max de Bailu + <span style=\"color: #f29e38ff\">{2}</span>.\\nBailu accorde Revigoration aux alliés qui ne bénéficient pas encore de cet effet et prolonge l'effet d'1 tour pour ceux qui en bénéficient déjà.\\nL'effet de Revigoration peut durer jusqu'à {3} tours. Cet effet n'est pas cumulable.",
+      "values": [
+        [
+          9,
+          9.6,
+          10.1,
+          10.7,
+          11.3,
+          11.7,
+          12.2,
+          12.6,
+          13.1,
+          13.5,
+          13.9,
+          14.4,
+          14.8,
+          15.3,
+          15.7
+        ],
+        [
+          90,
+          144,
+          185,
+          225,
+          252,
+          279,
+          299,
+          320,
+          340,
+          360,
+          380,
+          401,
+          421,
+          441,
+          461
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Gourde d'élixir",
+      "desc": "Lorsqu'un allié qui bénéficie de Revigoration est touché, restaure ses PV à hauteur de <span style=\"color: #f29e38ff\">{1}</span> des PV max de Bailu + <span style=\"color: #f29e38ff\">{2}</span>. Cet effet peut se déclencher {5} fois.\\nQuand un allié subit un coup fatal, il ne tombe pas <u>à terre</u>, mais Bailu le soigne immédiatement à hauteur de <span style=\"color: #f29e38ff\">{3}</span> de ses propres PV max + <span style=\"color: #f29e38ff\">{4}</span>. Cet effet peut être déclenché 1 fois par combat.",
+      "values": [
+        [
+          3.6,
+          3.8,
+          4.1,
+          4.3,
+          4.5,
+          4.7,
+          4.9,
+          5,
+          5.2,
+          5.4,
+          5.6,
+          5.8,
+          5.9,
+          6.1,
+          6.3
+        ],
+        [
+          36,
+          58,
+          74,
+          90,
+          101,
+          112,
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          168,
+          176,
+          185
+        ],
+        [
+          12,
+          13,
+          13,
+          14,
+          15,
+          16,
+          16,
+          17,
+          17,
+          18,
+          19,
+          19,
+          20,
+          20,
+          21
+        ],
+        [
+          120,
+          192,
+          246,
+          300,
+          336,
+          372,
+          399,
+          426,
+          453,
+          480,
+          507,
+          534,
+          561,
+          588,
+          615
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1211_Normal.png"
+    },
+    "technique": {
+      "name": "Flânerie sous la pluie",
+      "desc": "Après utilisation de la technique, tous les alliés sont revigorés pendant {1} tours au début du combat suivant.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
+  "trailblazer": {
+    "attack": {
+      "name": "Feu fendeur de glace",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ {M#du pionnier}{F#de la pionnière} à un ennemi unique et gagne 1 cumul de Volonté du magma.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Ambre incandescent",
+      "desc": "Augmente la réduction de DGT {M#du pionnier}{F#de la pionnière} de <span style=\"color: #f29e38ff\">{1}</span> et lui accorde 1 cumul de Volonté du magma, avec {2} de <u>chances de base</u> de provoquer tous les ennemis pendant {3} tour.",
+      "values": [
+        [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        [
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Lance de guerre enflammée",
+      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ {M#du pionnier}{F#de la pionnière} + <span style=\"color: #f29e38ff\">{2}</span> de sa DÉF à tous les ennemis. La prochaine ATQ normale est automatiquement renforcée et ne coûte pas de Volonté du magma.",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Trésor des Architectes",
+      "desc": "Chaque fois que {M#le pionnier}{F#la pionnière} est {M#touché}{F#touchée}, {M#il}{F#elle} obtient 1 cumul de Volonté du magma pour un maximum de {3} cumuls.\\nLorsque Volonté du magma atteint au moins 4 cumuls, l'ATQ normale {M#du pionnier}{F#de la pionnière} est renforcée, infligeant des DGT à un ennemi unique et aux ennemis adjacents.\\nLorsque {M#le pionnier}{F#la pionnière} utilise l'ATQ normale, la compétence ou l'ultime, {M#il}{F#elle} accorde un bouclier qui absorbe des DGT équivalents à <span style=\"color: #f29e38ff\">{1}</span> de sa propre DÉF + <span style=\"color: #f29e38ff\">{4}</span> à tous les alliés. Le bouclier dure {2} tours.",
+      "values": [
+        [
+          4,
+          4.3,
+          4.5,
+          4.7,
+          5,
+          5.2,
+          5.4,
+          5.6,
+          5.8,
+          6,
+          6.2,
+          6.4,
+          6.6,
+          6.8,
+          7
+        ],
+        [
+          2
+        ],
+        [
+          8
+        ],
+        [
+          20,
+          32,
+          41,
+          50,
+          56,
+          62,
+          67,
+          71,
+          76,
+          80,
+          85,
+          89,
+          94,
+          98,
+          103
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_8003_Normal.png"
+    },
+    "technique": {
+      "name": "Appel de la Gardienne",
+      "desc": "Après utilisation de la technique, gagne un bouclier qui absorbe des DGT équivalents à {1} de la DÉF {M#du pionnier}{F#de la pionnière} + {2} pendant {3} tour au début du combat suivant.",
+      "values": [
+        [
+          30
+        ],
+        [
+          384
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Feu fendeur de glace",
+      "desc": "Consomme 4 cumuls de Volonté du magma pour renforcer l'ATQ normale, et inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ {M#du pionnier}{F#de la pionnière} à un ennemi unique et des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{2}</span> de son ATQ aux ennemis adjacents.",
+      "values": [
+        [
+          90,
+          99,
+          108,
+          117,
+          126,
+          135,
+          146,
+          158,
+          169
+        ],
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "physical": {
+    "id": "physical",
+    "name": "Vật Lý"
+  },
+  "fire": {
+    "id": "fire",
+    "name": "Hỏa"
+  },
+  "ice": {
+    "id": "ice",
+    "name": "Băng"
+  },
+  "lightning": {
+    "id": "lightning",
+    "name": "Lôi"
+  },
+  "wind": {
+    "id": "wind",
+    "name": "Phong"
+  },
+  "quantum": {
+    "id": "quantum",
+    "name": "Lượng Tử"
+  },
+  "imaginary": {
+    "id": "imaginary",
+    "name": "Số Ảo"
+  }
+}

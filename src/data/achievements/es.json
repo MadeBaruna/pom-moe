@@ -1,0 +1,2434 @@
+{
+  "1": {
+    "name": "Yo, Trazacaminos",
+    "achievements": [
+      {
+        "id": 4010101,
+        "name": "Ámbar inextinguible",
+        "desc": "Anda por la Vía de la Conservación.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010201,
+        "name": "Estaba escrito (I)",
+        "desc": "Ten 1 cono de luz de nivel 40.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010202,
+        "name": "Estaba escrito (II)",
+        "desc": "Ten 1 cono de luz de nivel 60.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010203,
+        "name": "Estaba escrito (III)",
+        "desc": "Ten 1 cono de luz de nivel 80.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010103,
+        "name": "Siempre hay tiempo para el amor",
+        "desc": "Ten 4 conos de luz de nivel 80.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4080201,
+        "name": "No me lo pongas demasiado fácil (I)",
+        "desc": "Alcanza el nivel de Equilibrio 1.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010301,
+        "name": "Infancia",
+        "desc": "Alcanza el nivel 40 con cualquier personaje.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080202,
+        "name": "No me lo pongas demasiado fácil (II)",
+        "desc": "Alcanza el nivel de Equilibrio 3.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010302,
+        "name": "En el mundo",
+        "desc": "Alcanza el nivel 60 con cualquier personaje.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080203,
+        "name": "No me lo pongas demasiado fácil (III)",
+        "desc": "Alcanza el nivel de Equilibrio 6.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010303,
+        "name": "Mi universidad",
+        "desc": "Alcanza el nivel 80 con cualquier personaje.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010102,
+        "name": "El final de la infancia",
+        "desc": "Alcanza el nivel 80 con 4 personajes.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010501,
+        "name": "Vías y Rastros (I)",
+        "desc": "Activa o mejora Rastros de personaje 3 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010502,
+        "name": "Vías y Rastros (II)",
+        "desc": "Activa o mejora Rastros de personaje 20 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010503,
+        "name": "Vías y Rastros (III)",
+        "desc": "Activa o mejora Rastros de personaje 50 veces.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010504,
+        "name": "Vías y Rastros (IV)",
+        "desc": "Activa o mejora Rastros de personaje 100 veces.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4012302,
+        "name": "Llegué a la meta",
+        "desc": "Mejora al máximo todos los Rastros de un personaje.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010104,
+        "name": "Artefactos divinos de 4 estrellas",
+        "desc": "Potencia 1 artefacto de 4 estrellas hasta el nivel máximo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010105,
+        "name": "Artefactos divinos de 5 estrellas",
+        "desc": "Potencia 1 artefacto de 5 estrellas hasta el nivel máximo.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010401,
+        "name": "Armado hasta los dientes",
+        "desc": "Potencia 4 artefactos al nivel 15.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4012301,
+        "name": "Armadura suprema",
+        "desc": "Equipa a un personaje con artefactos de 5 estrellas y niv. 15 en todos los espacios.",
+        "rarity": 3,
+        "version": "1.0"
+      }
+    ]
+  },
+  "2": {
+    "name": "Rastros luminosos",
+    "achievements": [
+      {
+        "id": 4022302,
+        "name": "Riqueza fuera de serie",
+        "desc": "Obtén 99999998 créditos en total.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020201,
+        "name": "Guía del tripulante galáctico",
+        "desc": "Obtén 10 personajes.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020202,
+        "name": "Registro de la tripulación del Expreso",
+        "desc": "Obtén 20 personajes.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020203,
+        "name": "Migración interestelar",
+        "desc": "Obtén 50 personajes.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020401,
+        "name": "Ondas en el Mar de Dirac (I)",
+        "desc": "Obtén 10 tipos de conos de luz.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020402,
+        "name": "Ondas en el Mar de Dirac (II)",
+        "desc": "Obtén 20 tipos de conos de luz.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020403,
+        "name": "Ondas en el Mar de Dirac (III)",
+        "desc": "Obtén 40 tipos de conos de luz.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020502,
+        "name": "Tesoro supremo del inframundo",
+        "desc": "Obtén 1 artefacto de 5 estrellas.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020503,
+        "name": "Falsificación extraña",
+        "desc": "Obtén 5 artefacto(s) de 5 estrellas en la máquina sintetizadora multiusos.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020701,
+        "name": "Miembro de Diamante de la Paz Interastral",
+        "desc": "Obtén 1000000 créditos en total.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020702,
+        "name": "Miembro de Diamante Supremo de la Paz Interastral",
+        "desc": "Obtén 10000000 créditos en total.",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  },
+  "3": {
+    "name": "Ferrocarril a las estrellas",
+    "achievements": [
+      {
+        "id": 4030101,
+        "name": "Mi hogar está en las estrellas",
+        "desc": "Comienza un viaje por la galaxia infinita.\\n<color=#8790abff>※¡Felicidades! ¡Embarcaste en el Expreso Astral!</color>",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4030102,
+        "name": "Eterna noche invernal",
+        "desc": "Tras sobrevivir a la ventisca...\\n<color=#8790abff>※Llegaste a la ciudad llamada Belobog.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030103,
+        "name": "Un mundo perdido",
+        "desc": "Descubre los secretos del subsuelo de Jarilo-VI.\\n<color=#8790abff>※Así que hay gente que vive bajo tierra...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030104,
+        "name": "Medio mago de Oz",
+        "desc": "Derrota al hombre de hojalata y a la niña.\\n<color=#8790abff>※¡Svarog y Clara ahora son tus amigos!</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030105,
+        "name": "Se aleja el invierno",
+        "desc": "Cambia Belobog empezando por ti mismo.\\n<color=#8790abff>※El primer paso es derrotar a Cocolia, la Guardiana Suprema.</color>",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4030201,
+        "name": "Coquetería raposiana",
+        "desc": "La diplomacia no es más que un intercambio de opiniones...\\n<color=#8790abff>※Debate con los líderes del Luofu de Xianzhou.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030202,
+        "name": "Nadie escapa de la omniscia",
+        "desc": "Quien la hace, la paga. Todos los criminales serán capturados.\\n<color=#8790abff>※Captura a Kafka, la cazadora de Estelaron.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032305,
+        "name": "Visita atenta",
+        "desc": "La persona que observa el viento está al lado de la mesa y te observa...\\n<color=#8790abff>※Encuentra a Qingque, quien está inmersa en la partida.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032307,
+        "name": "Los profetas no hacen profecías",
+        "desc": "Presencia el misterio de la Matriz de la Comisión de Adivinación.\\n<color=#8790abff>※Interroga a Kafka con la Matriz del Presagio y desafía al oráculo con esa predicción...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032308,
+        "name": "Todos a por el ciervo",
+        "desc": "El horno no se apaga y el ciervo está en silencio.\\n<color=#8790abff>※Salva a la Comisión de Artesanía de la crisis.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032306,
+        "name": "Adiós al ciervo",
+        "desc": "Intenta andar por la Vía de la Cacería...\\n<color=#8790abff>※Ayuda a Xianzhou a derrotar al Cérvido Azabache, la abominación de la Abundancia.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032309,
+        "name": "Como una hidra",
+        "desc": "Sé testigo de la historia de Dan Shu.\\n<color=#8790abff>※ Descubre la verdadera identidad de Dan Shu y presencia el resurgimiento de los Discípulos de Sanctus Medicus.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  },
+  "4": {
+    "name": "Indagación de misterios",
+    "achievements": [
+      {
+        "id": 4040201,
+        "name": "Hasta que la luz nos lleve",
+        "desc": "Activa 5 anclas del espacio en la Estación Espacial Herta.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040202,
+        "name": "Un mundo cerrado",
+        "desc": "Activa 14 anclas del espacio en Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4042307,
+        "name": "Caminos de los inmortales",
+        "desc": "Activa 10 anclas del espacio en el Luofu de Xianzhou.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040101,
+        "name": "Jugador legítimo de juegos de rol",
+        "desc": "Abre 30 tesoros en la Estación Espacial Herta.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4040102,
+        "name": "¿A qué precio?",
+        "desc": "Abre 110 tesoros en Belobog.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4042308,
+        "name": "Calderilla",
+        "desc": "Abre 100 tesoros en el Luofu de Xianzhou.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040301,
+        "name": "Impulsos destructivos",
+        "desc": "Destruye 100 objetos destruibles.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040302,
+        "name": "Libre albedrío destructivo",
+        "desc": "Destruye 1000 objetos destruibles.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4040601,
+        "name": "Por sorpresa",
+        "desc": "Entra en combate con ataques de los tipos correspondientes 100 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040602,
+        "name": "No tengo ojos en la nuca",
+        "desc": "Cae en una emboscada durante tu exploración.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040603,
+        "name": "La tercera habilidad",
+        "desc": "Usa técnicas 50 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040604,
+        "name": "La tercera dimensión",
+        "desc": "Usa técnicas 300 veces.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080401,
+        "name": "Informe de presentación",
+        "desc": "Obtén 10 materiales de lectura en la Estación Espacial Herta.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080402,
+        "name": "Resumen literario",
+        "desc": "Obtén 50 materiales de lectura en la Estación Espacial Herta.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080403,
+        "name": "No es literatura basura",
+        "desc": "Obtén 20 materiales de lectura en Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080404,
+        "name": "Cronista de la Ciudad del Siempreinvierno",
+        "desc": "Obtén 80 materiales de lectura en Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4022403,
+        "name": "Adicto a los libros",
+        "desc": "Obtén 30 materiales de lectura en el Luofu de Xianzhou.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4022404,
+        "name": "Ratón de biblioteca",
+        "desc": "Obtén 80 materiales de lectura en el Luofu de Xianzhou.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040407,
+        "name": "Alerta roja",
+        "desc": "Completa el desafío del enemigo poderoso 5 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040408,
+        "name": "Supresión de alto nivel",
+        "desc": "Completa el desafío del enemigo poderoso 15 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040503,
+        "name": "Inspección rutinaria",
+        "desc": "Completa Incursión bélica 1 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040504,
+        "name": "Sin logro no hago nada",
+        "desc": "Completa Incursión bélica 9 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040701,
+        "name": "Puerco de Tíndalos",
+        "desc": "Captura al Chanchito Dimensional 1 vez.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040702,
+        "name": "Cajero automático por fases",
+        "desc": "Captura al Chanchito Dimensional 10 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4042301,
+        "name": "Socialización sensorial",
+        "desc": "Reúne todas las burbujas del recuerdo desperdigadas por la Estación Espacial Herta.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040403,
+        "name": "Maravilla inaudita",
+        "desc": "Encuentra todos los tesoros de Maravilla inaudita.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040404,
+        "name": "El problema de los siete puentes",
+        "desc": "Encuentra todos los tesoros de los puentes de rechazo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040409,
+        "name": "El nacimiento de la tragedia",
+        "desc": "Encuentra todos los tesoros del Laberinto de cajas.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040402,
+        "name": "Sísifo de las minas",
+        "desc": "Completa la prueba final de los carros mineros.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040406,
+        "name": "El cuento de los topos",
+        "desc": "Completa la colección de «Los topos aventureros».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040410,
+        "name": "El rojo al rojo y el blanco al blanco",
+        "desc": "Completa Umbral del fluido magnetorreológico 10 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051101,
+        "name": "No se puede desperdiciar",
+        "desc": "Saca una bebida con sabor a pan de Jim Roger del cubo de la basura.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040411,
+        "name": "La metáfora de la caverna",
+        "desc": "Completa el Hexanexus 30 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040412,
+        "name": "Nornoroeste",
+        "desc": "Completa el desafío de la brújula rompeformaciones 20 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "5": {
+    "name": "Recuerdos de un viaje contigo",
+    "achievements": [
+      {
+        "id": 4051001,
+        "name": "Adivina quién soy",
+        "desc": "Completa la misión de acompañante «Ya me conoces».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051002,
+        "name": "Las tribulaciones del joven Arlan",
+        "desc": "Completa la misión de acompañante «Un giro inesperado».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051003,
+        "name": "Un regalo de reyes",
+        "desc": "Completa la misión de acompañante «El regalo de Hook».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051004,
+        "name": "Qué tranquilas son las afueras",
+        "desc": "Completa la misión de acompañante «Inmunidad a la ventisca».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051005,
+        "name": "Clara y el sol",
+        "desc": "Completa la misión de acompañante «Un afecto inusitado».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051006,
+        "name": "Todo sobre Serval: autobiografía",
+        "desc": "Completa la misión de acompañante «Éramos unos niños».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051103,
+        "name": "Un mapa de <unbreak>17</unbreak> años",
+        "desc": "Encuentra todos los materiales de lectura relacionados con Asta durante la misión «Vacuidad serena».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051104,
+        "name": "Diamantes y óxido",
+        "desc": "Dale la transcripción a Bernard en la misión «Para la estrella sombría».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051105,
+        "name": "Adiós, cazador de cometas",
+        "desc": "Reúne tres cartas del cazador de cometas durante la misión «Fuera de alcance».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051106,
+        "name": "¿Anda sola?",
+        "desc": "Completa la misión «La paradoja de la guía» y sé testigo del final de la androide.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051107,
+        "name": "Encuentros en la sexta fase",
+        "desc": "Obtén la capacidad de comunicarte con los buabuabós en la misión «Misa de réquiem».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052302,
+        "name": "Usar y tirar",
+        "desc": "Encuentra y habla con todas las marionetas de Herta que hay en la Estación Espacial.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052304,
+        "name": "Por los recuerdos olvidados",
+        "desc": "Visita el memorial del investigador Eikura Shuu.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052305,
+        "name": "¡Hora de descansar!",
+        "desc": "Desactiva los robots pequeños de la Estación Espacial 6 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052306,
+        "name": "Puerta a un nuevo mundo",
+        "desc": "Utiliza la puerta a un nuevo mundo (objeto raro).",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052307,
+        "name": "Solo es un número",
+        "desc": "Utiliza la pistola evaluadora (objeto raro).",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052308,
+        "name": "Todos los reinos acaban cayendo",
+        "desc": "Utiliza el objeto raro Peso insoportable y descifra el contenido del sonido misterioso.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052309,
+        "name": "Regar según convenga",
+        "desc": "Habla con la planta extraña y visítala al día siguiente.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051108,
+        "name": "La psicología de la avaricia",
+        "desc": "Consigue el tesoro auténtico en la misión «Sabiduría de supervivencia».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051109,
+        "name": "Esperando a mañana",
+        "desc": "Encuentra todas las cosas de Julian en la misión «El tesoro de Hook».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080601,
+        "name": "Altura moral",
+        "desc": "Enfréntate al protector de la propiedad pública y muéstrale el coste de detenerte (o consigue que admita humildemente su error).",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051110,
+        "name": "El ciclo de vida de los objetos de software",
+        "desc": "Elige no formatear al pequeño robot en la misión «Un afecto inusitado (II)».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080602,
+        "name": "De fuera",
+        "desc": "Devuelve la caja de música que encontraste en Villarremache a su desesperada dueña.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051111,
+        "name": "Por un aliento yo espero",
+        "desc": "Elige formatear al pequeño robot en la misión «Un afecto inusitado (II)».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080603,
+        "name": "¡¿<unbreak>50</unbreak> créditos?!",
+        "desc": "Reúne todos los carteles de \"Se busca\" de la tripulación del Expreso que hay en Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052310,
+        "name": "¡Cómo brillan!",
+        "desc": "Obtén 3 monedas antiguas.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080604,
+        "name": "Hacia el noroeste",
+        "desc": "Encuentra a... Pom-Pom en el globo terráqueo de Jarilo-VI.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052311,
+        "name": "Vivir al límite",
+        "desc": "Resuelve el conflicto en la estación de teleférico de Belobog a la vez que evitas un problema moral.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080605,
+        "name": "Donde empezó todo",
+        "desc": "Regresa a la sala donde se guardaba el Estelaron y rememora un recuerdo borroso.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052312,
+        "name": "Ayuda a los necesitados",
+        "desc": "Encuentra el módulo de lenguaje y dáselo a Fidora, la mecánica aficionada.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080606,
+        "name": "Una buena persona",
+        "desc": "Pasa la prueba de integridad preparada por un misterioso investigador.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052313,
+        "name": "Efecto Mandela",
+        "desc": "Entra en contacto con el callejón de Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052314,
+        "name": "Inmunidad natural",
+        "desc": "Consigue la receta del arroz frito hablando con Gertie en el Gran Hotel Goethe.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052315,
+        "name": "La La La La Land",
+        "desc": "Consigue la partitura para el fonógrafo hablando con Tamila en el Teatro Dorado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052316,
+        "name": "La trampa de la ciudad invernal",
+        "desc": "Escucha el rap completo de la vagabunda.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052317,
+        "name": "Solo para mayores de <unbreak>12</unbreak> años",
+        "desc": "Participa en la competencia Puño Oscuro y obtén la victoria final.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052349,
+        "name": "Mariposa y avispa a la vez",
+        "desc": "Domina las cinco categorías del Gran Torneo de Villarroca.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4052318,
+        "name": "Forajido",
+        "desc": "Desentierra el tesoro escondido en el distrito administrativo de Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052319,
+        "name": "Los males de la banalidad",
+        "desc": "Completa todos los acertijos del Laberinto de cajas en la misión «Recipiente de la mediocridad».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052320,
+        "name": "El cuarto topo",
+        "desc": "Encuentra todos los tesoros escondidos en la misión «Los topos aventureros».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052321,
+        "name": "«Los topos aventureros» para adultos",
+        "desc": "Compra «Los topos aventureros: el tesoro invisible» a la librera de Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052323,
+        "name": "Una vida sencilla",
+        "desc": "Recibe un mensaje de Luhui tras completar la misión «Estás despedida».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052324,
+        "name": "Carpe Diem, Festina Lente y Tempus Fugit",
+        "desc": "Recibe todos los mensajes sobre el entusiasmo decreciente de Chengjie tras completar la misión «Un maestro y un amigo».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052325,
+        "name": "Estafa cibernética",
+        "desc": "Decide que la belleza raposiana se entregue en la misión «Desde Xianzhou con amor».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052326,
+        "name": "Tootsie",
+        "desc": "Decide que la belleza raposiana revele su verdadera identidad en la misión «Desde Xianzhou con amor».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052327,
+        "name": "Un secreto hace a una mujer",
+        "desc": "Decide que la belleza raposiana continúe siendo misteriosa en la misión «Desde Xianzhou con amor».",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052328,
+        "name": "Los siete errores de las robogrullas: pereza",
+        "desc": "Convence a la robogrulla deprimida de que regrese al trabajo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052329,
+        "name": "Más vale siete robogrullas en mano",
+        "desc": "Ayuda a Mensajería La Grulla a recuperar todas las robogrullas perdidas.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052330,
+        "name": "Actuar con un propósito",
+        "desc": "Gana la competencia del estómago más grande del Luofu de Xianzhou de forma justa y honesta.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052331,
+        "name": "En la guerra y en el amor, todo vale",
+        "desc": "Gana la competencia del estómago más grande del Luofu de Xianzhou de una forma poco honorable.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052332,
+        "name": "Derrota vergonzosa",
+        "desc": "Pierde la competencia del estómago más grande del Luofu de Xianzhou.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052333,
+        "name": "Lejos del mundanal ruido",
+        "desc": "Habla con el Inmortal en un jarrón y obtén su regalo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052334,
+        "name": "Que será, será",
+        "desc": "Habla con el Inmortal en un jarrón y rechaza su regalo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052335,
+        "name": "¡Ciao, Hexanexus!",
+        "desc": "Completa 15 desafíos de Hexanexus de la Sociedad Hex.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052336,
+        "name": "Vamos, ponme a prueba",
+        "desc": "Completa 15 nuevos desafíos de Hexanexus de la Sociedad Hex.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052337,
+        "name": "Un trabajo interminable",
+        "desc": "Examina los armarios de los archivos de la Sede de la Premonición Divina 7 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052338,
+        "name": "Cuando terminan las oraciones",
+        "desc": "Impide que la turista extraña lance una moneda al motor del astroesquife.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052339,
+        "name": "Vuelo cancelado",
+        "desc": "Ayuda a la turista extraña a lanzar una moneda al motor del astroesquife.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052340,
+        "name": "Trae pa' cá",
+        "desc": "Recupera los créditos que robó el estafador.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052341,
+        "name": "Que se queden ahí",
+        "desc": "No recuperes los créditos que robó el estafador.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052342,
+        "name": "La avaricia rompe el saco",
+        "desc": "Recupera más créditos de los que robó el estafador.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052343,
+        "name": "Los siete errores de las robogrullas: lujuria",
+        "desc": "Sigue a la robogrulla cortés y encuentra el libro ilustrado retenido en la aduana.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052344,
+        "name": "Los siete errores de las robogrullas: gula",
+        "desc": "Completa una apuesta con la robogrulla insatisfecha.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052345,
+        "name": "Los siete errores de las robogrullas: avaricia",
+        "desc": "Explora la montaña de paquetes que protege el Dragón Malvado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052346,
+        "name": "Los siete errores de las robogrullas: envidia",
+        "desc": "Completa el desafío de la robogrulla resentida.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052347,
+        "name": "Los siete errores de las robogrullas: ira",
+        "desc": "Derrota a los salteadores de caminos con la robogrulla valiente.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052348,
+        "name": "Los siete errores de las robogrullas: orgullo",
+        "desc": "Completa el desafío de quienes se autodenominan \"los Cuatro Siniestros del Luofu\".",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "6": {
+    "name": "La gloria de la determinación",
+    "achievements": [
+      {
+        "id": 4060101,
+        "name": "Las sombras mueren varias veces (I)",
+        "desc": "Derrota a la Sombra paralizada 100 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060102,
+        "name": "Las sombras mueren varias veces (II)",
+        "desc": "Derrota a la Sombra paralizada 400 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060103,
+        "name": "Las sombras mueren varias veces (III)",
+        "desc": "Derrota a la Sombra paralizada 800 veces.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060201,
+        "name": "El día de los trífidos (I)",
+        "desc": "Derrota al Cáliz 100 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060202,
+        "name": "El día de los trífidos (II)",
+        "desc": "Derrota al Cáliz 500 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060203,
+        "name": "El día de los trífidos (III)",
+        "desc": "Derrota al Cáliz 1000 veces.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060301,
+        "name": "El fantasma de la caverna (I)",
+        "desc": "Completa Caverna de la corrosión 100 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060302,
+        "name": "El fantasma de la caverna (II)",
+        "desc": "Completa Caverna de la corrosión 400 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060303,
+        "name": "El fantasma de la caverna (III)",
+        "desc": "Completa Caverna de la corrosión 800 veces.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060401,
+        "name": "Ecos de la guerra (I)",
+        "desc": "Completa Ecos de la guerra 1 vez.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060402,
+        "name": "Ecos de la guerra (II)",
+        "desc": "Completa Ecos de la guerra 10 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "7": {
+    "name": "Ansia de batalla",
+    "achievements": [
+      {
+        "id": 4070101,
+        "name": "Imparable",
+        "desc": "Usa habilidades definitivas 4 veces seguidas.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070201,
+        "name": "Hasta que se rompa del todo",
+        "desc": "Inflige Ruptura de Debilidad #2[i] veces a un enemigo en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070301,
+        "name": "Paliza con todas las de la ley",
+        "desc": "Inflige de una vez una cantidad de daño igual o superior a 1000.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070302,
+        "name": "Impacto Ki",
+        "desc": "Inflige de una vez una cantidad de daño igual o superior a 20000.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070303,
+        "name": "Aniquilación total",
+        "desc": "Inflige de una vez una cantidad de daño igual o superior a 150000.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070401,
+        "name": "Puños normales consecutivos",
+        "desc": "Inflige 2000 pts. de daño en un solo ataque.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070402,
+        "name": "Espada de Taixu",
+        "desc": "Inflige 40000 pts. de daño en un solo ataque.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070403,
+        "name": "Onda destructiva",
+        "desc": "Inflige 300000 pts. de daño en un solo ataque.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070421,
+        "name": "Suscripción VIP a Trauma Team",
+        "desc": "Realiza una curación de más de 8000 pts. de una vez.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070441,
+        "name": "Barrera",
+        "desc": "Un aliado tiene un efecto de escudo de más de 5000 pts. a la vez.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070501,
+        "name": "Melodía de escarcha y llamas",
+        "desc": "Inflige Congelación y Quemadura a la vez a 1 enemigo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070502,
+        "name": "Recuerdos, arrepentimiento y espinas",
+        "desc": "Afecta con #2[i] estados de Daño con el tiempo a la vez a <unbreak>1</unbreak> enemigo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070601,
+        "name": "Sueños eléctricos",
+        "desc": "Derrota a 3 enemigos en una sola batalla utilizando Daño de Ruptura de Rayo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070602,
+        "name": "Fahrenheit <unbreak>451</unbreak>",
+        "desc": "Derrota a 3 enemigos en una sola batalla utilizando Daño de Ruptura de Fuego.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070603,
+        "name": "Viento solar",
+        "desc": "Derrota a 3 enemigos en una sola batalla utilizando Daño de Ruptura de Viento.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070604,
+        "name": "El hombre demolido",
+        "desc": "Derrota a 3 enemigos en una sola batalla utilizando Daño de Ruptura Físico.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070605,
+        "name": "Lanzarrayos (I)",
+        "desc": "Derrota a 20 enemigos utilizando Daño de Ruptura de Rayo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070606,
+        "name": "Lanzarrayos (II)",
+        "desc": "Derrota a 60 enemigos utilizando Daño de Ruptura de Rayo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070607,
+        "name": "Lanzallamas (I)",
+        "desc": "Derrota a 20 enemigos utilizando Daño de Ruptura de Fuego.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070608,
+        "name": "Lanzallamas (II)",
+        "desc": "Derrota a 60 enemigos utilizando Daño de Ruptura de Fuego.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070609,
+        "name": "Lanzahuracanes (I)",
+        "desc": "Derrota a 20 enemigos utilizando Daño de Ruptura de Viento.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070610,
+        "name": "Lanzahuracanes (II)",
+        "desc": "Derrota a 60 enemigos utilizando Daño de Ruptura de Viento.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070611,
+        "name": "Lanzadirectos (I)",
+        "desc": "Derrota a 20 enemigos utilizando Daño de Ruptura Físico.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070612,
+        "name": "Lanzadirectos (II)",
+        "desc": "Derrota a 60 enemigos utilizando Daño de Ruptura Físico.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070701,
+        "name": "Si algo no funciona, mecánica cuántica",
+        "desc": "Inflige Ruptura de Debilidad Cuántica 5 veces en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070702,
+        "name": "Las frías ecuaciones",
+        "desc": "Inflige Ruptura de Debilidad de Hielo 5 veces en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070703,
+        "name": "Los números imaginarios no lo explican todo",
+        "desc": "Inflige Ruptura de Debilidad Imaginaria 5 veces en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070704,
+        "name": "Lanzacuanto (I)",
+        "desc": "Inflige Ruptura de Debilidad Cuántica 100 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070705,
+        "name": "Lanzacuanto (II)",
+        "desc": "Inflige Ruptura de Debilidad Cuántica 300 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070706,
+        "name": "Lanzahielo (I)",
+        "desc": "Inflige Ruptura de Debilidad de Hielo 100 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070707,
+        "name": "Lanzahielo (II)",
+        "desc": "Inflige Ruptura de Debilidad de Hielo 300 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070708,
+        "name": "Lanzaimaginario (I)",
+        "desc": "Inflige Ruptura de Debilidad Imaginaria 100 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070709,
+        "name": "Lanzaimaginario (II)",
+        "desc": "Inflige Ruptura de Debilidad Imaginaria 300 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070801,
+        "name": "Ataque preventivo",
+        "desc": "Derrota a 1 enemigo utilizando técnicas.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070802,
+        "name": "Lanzatécnicas (I)",
+        "desc": "Derrota a 10 enemigos en total utilizando técnicas.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070803,
+        "name": "Dos al cuerpo, uno a la cabeza",
+        "desc": "Derrota a 3 enemigos con ataques adicionales en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070804,
+        "name": "Lanzaadicionales (I)",
+        "desc": "Derrota a 80 enemigos con ataques adicionales.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070805,
+        "name": "Lanzaadicionales (II)",
+        "desc": "Derrota a 240 enemigos con ataques adicionales.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070806,
+        "name": "Un cuchillito...",
+        "desc": "Derrota a 3 enemigos usando Daño con el tiempo en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070807,
+        "name": "Lanzatiempo (I)",
+        "desc": "Derrota a 80 enemigos utilizando Daño con el tiempo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070808,
+        "name": "Lanzatiempo (II)",
+        "desc": "Derrota a 240 enemigos utilizando Daño con el tiempo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070810,
+        "name": "Sin ánimo de ofender",
+        "desc": "Elimina efectos positivos de enemigos 5 veces durante una batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070812,
+        "name": "El exorcista",
+        "desc": "Elimina estados negativos de aliados 5 veces durante una batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071001,
+        "name": "Helado perpetuo",
+        "desc": "Congela a 1 enemigo durante <unbreak>#2[i]</unbreak> turnos seguidos.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071002,
+        "name": "Los que van a morir te saludan",
+        "desc": "Derrota a un enemigo cuando a un personaje le quede menos del 1% de PV.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071003,
+        "name": "De uno en uno",
+        "desc": "Comienza la batalla con 4 personajes y gánala cuando quede <unbreak>#2[i]</unbreak> en pie.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071004,
+        "name": "Recuerda que morirás",
+        "desc": "Recibe un golpe letal del enemigo cuando tengas el 100% de PV.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071005,
+        "name": "Energía Grandet",
+        "desc": "Consigue que un personaje tenga el 100% de su energía al principio del turno durante <unbreak>4</unbreak> turnos seguidos.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071006,
+        "name": "Como una flor en el camposanto",
+        "desc": "Revive a 2 aliados que hubieran sido derrotados en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071007,
+        "name": "A perro flaco...",
+        "desc": "Inflige un total de 20000 pts. de daño a enemigos con Ruptura de Debilidad en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071008,
+        "name": "Dejadme solo",
+        "desc": "Un personaje recibe un total de 10000 pts. de daño en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071009,
+        "name": "Rompedor en serie",
+        "desc": "Inflige Ruptura de Debilidad a 4 enemigos en una sola acción.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071012,
+        "name": "Mano divina",
+        "desc": "Derrota a todos los enemigos usando técnicas tras entrar en combate.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071013,
+        "name": "Siempre vengo preparado",
+        "desc": "Al comienzo del turno, un personaje tiene 5 o más efectos positivos a la vez.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071014,
+        "name": "Estrella de la autopista",
+        "desc": "Los aliados realizan 100 acciones en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071015,
+        "name": "Instinto de supervivencia",
+        "desc": "Gana una batalla cuando los 4 aliados tengan un porcentaje de PV igual o inferior al 0%",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071016,
+        "name": "Hora de las batallas",
+        "desc": "Los aliados tienen 10 turnos de acción sin que el enemigo mueva.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071017,
+        "name": "Canto mortal",
+        "desc": "Sé eliminado a la vez que un enemigo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071018,
+        "name": "Matar moscas a cañonazos",
+        "desc": "En un único ataque, inflige #2[i] pts. de daño o más a un enemigo cuyo porcentaje de PV sea igual o inferior al <unbreak>0%</unbreak>.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071401,
+        "name": "Los privilegios del protagonista",
+        "desc": "Inflige Ruptura de Debilidad a enemigos 3 veces en una sola batalla con el Trazacaminos de la Vía de la Destrucción.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071501,
+        "name": "Cuatro piruetas y media",
+        "desc": "Activa el talento de Herta con el ataque de un aliado y logra que gire 5 veces.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071502,
+        "name": "El poder de las fichas",
+        "desc": "Consigue que Qingque comience su turno en el estado Cuarteto oculto 3 turnos seguidos.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071503,
+        "name": "Es mi turno",
+        "desc": "Consigue que Seele mueva 5 veces seguidas antes de la acción del siguiente aliado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071504,
+        "name": "La prueba del trece",
+        "desc": "Consigue que Svarog bloquee ataques contra Clara 13 veces en una batalla.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071505,
+        "name": "Amante del café",
+        "desc": "Una taza de café por la mañana, otra por la tarde y otra por la noche refrescan la mente.\\n<color=#8790abff>※Usa la habilidad definitiva de Himeko 3 veces en una batalla.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071506,
+        "name": "Sobreprotección",
+        "desc": "Gana 1 batallas sin que los escudos que otorga Gepard reciban daño.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071603,
+        "name": "Cuando suena el himno nacional",
+        "desc": "La aliada Bronya usa Marcha de Belobog 1 veces en batallas contra los jefes Gepard, Cocolia y Bronya.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071607,
+        "name": "El tonto de mi hermano",
+        "desc": "Serval inflige el golpe final en una batalla victoriosa contra el jefe Gepard.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071608,
+        "name": "Mi ex mejor amiga",
+        "desc": "Serval inflige el golpe final en una batalla victoriosa contra el jefe Cocolia.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071609,
+        "name": "¿También tú, Bronya?",
+        "desc": "Bronya inflige el golpe final en una batalla victoriosa contra el jefe Cocolia.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071610,
+        "name": "Escúchame...",
+        "desc": "Usa al Trazacaminos en la batalla contra el jefe Kafka y entra en el estado de Dominación.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072001,
+        "name": "¡Qué falta de respeto!",
+        "desc": "4 personajes del equipo encolerizan a la Sombra de la Guardiana.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072002,
+        "name": "Proeza marcial",
+        "desc": "Derrota a la Sombra de la Guardiana sin encolerizarla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072003,
+        "name": "¡Ataquen sin tener en cuenta el coste!",
+        "desc": "Activa el Reflejo de escudo del Teniente Crinargenta 4 veces y derrótalo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072004,
+        "name": "Primero hay que atrapar al jefe",
+        "desc": "Derrota al Teniente Crinargenta sin eliminar a los Guardias Crinargenta.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072008,
+        "name": "Huargo lisiado",
+        "desc": "Derrota al Huargo Autómata sin activar Orden de talado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072012,
+        "name": "Regurgitación",
+        "desc": "Consigue que el Merodeador Glacial fracase al usar Devoración de derivados.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072013,
+        "name": "Donde más duele",
+        "desc": "Derrota al Motor Antimateria sin eliminar a las manos de la Bestia del Juicio Final en Ecos de la guerra.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072014,
+        "name": "Disrupción de cataclismos",
+        "desc": "Evita que la Bestia del Juicio Final use Final inminente en Ecos de la guerra.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072016,
+        "name": "Qué guardias tan lindos",
+        "desc": "Derrota a Bronya sin eliminar a los Guardias Crinargenta.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072017,
+        "name": "Disparen al caballo",
+        "desc": "Derrota al Aplastador del Vacío cuando esté apuntando a un aliado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072018,
+        "name": "Calma chicha",
+        "desc": "Impide que el Creavendavales pueda usar su habilidad Tormenta de viento al no haber ningún aliado afectado por Intemperie.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072019,
+        "name": "Código de caballería",
+        "desc": "Derrota a Gepard sin eliminar a los Guardias Crinargenta que invoca.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072020,
+        "name": "Chaqueta metálica",
+        "desc": "Sobrevive a la Explosión controlada del Brazo Robótico Auxiliar.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072022,
+        "name": "Hombro izquierdo, brazo derecho, brazo derecho, brazo derecho",
+        "desc": "Derrota a Svarog tras eliminar 4 Brazos Robóticos Auxiliares.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072023,
+        "name": "Hielo picado casero",
+        "desc": "Derrota 4 veces a la Pica Glacial que invoca Cocolia.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072024,
+        "name": "Peregrinación de Canossa",
+        "desc": "Interrumpe la Furia de los santos de la tundra de Cocolia cuando la está cargando.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072026,
+        "name": "Directo al grano",
+        "desc": "Derrota a Cocolia sin eliminar a Bronya.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072027,
+        "name": "Corazón ardiente",
+        "desc": "Derrota a Cocolia, Madre de Falsedades, sin que ningún aliado sea congelado durante la batalla en Ecos de la guerra.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072101,
+        "name": "Amnesia accidental",
+        "desc": "Despeja el Recuerdo de escala de Sombra de la Podredumbre y haz que fracase su habilidad Liberación de la edad dorada.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072103,
+        "name": "Fuego amigo",
+        "desc": "Derrota al Guarda Aurúmata con la Luz de vela del Ingenio Encantado: Pezdragón Iluminador.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072104,
+        "name": "Aurúmata enfurecido",
+        "desc": "Consigue que el Guarda Aurúmata entre en el estado de Ira 3 veces durante una batalla.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072105,
+        "name": "Voluntad de acero",
+        "desc": "Disipa la Dominación del jefe Kafka 3 veces en una sola batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "8": {
+    "name": "Alegrías efímeras",
+    "achievements": [
+      {
+        "id": 4080101,
+        "name": "Semana del planeta",
+        "desc": "Inicia sesión 7 días seguidos.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4082303,
+        "name": "Mes del planeta",
+        "desc": "Inicia sesión 30 días en total.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4082301,
+        "name": "Año del planeta",
+        "desc": "Inicia sesión 365 días en total.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4080301,
+        "name": "La utopía de Diógenes",
+        "desc": "¡Descubre todo lo que Belobog tiene que ofrecer!\\n<color=#8790abff>※¡Conseguiste todos los objetos útiles que había en los cubos de basura!</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080302,
+        "name": "Insaciable",
+        "desc": "Estar demasiado lleno nunca es positivo...\\n<color=#8790abff>※Usa agente emético 1 veces.</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080303,
+        "name": "Esto huele un poco raro",
+        "desc": "Hasta la basura tiene alguna utilidad.\\n<color=#8790abff>※Usa basura para sintetizar consumibles 10 veces.</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080304,
+        "name": "La rueda del karma",
+        "desc": "Haz que el ser supremo que vive en nuestros corazones menee la cabeza y suspire.\\n<color=#8790abff>※Encuentra la forma de usar Elogio de la moral.</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080305,
+        "name": "Santo",
+        "desc": "Haz que el ser supremo que vive en nuestros corazones te dedique un pulgar hacia arriba.\\n<color=#8790abff>※Consigue Elogio de la moral 20 veces.</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070901,
+        "name": "Tres son multitud",
+        "desc": "Gana una batalla con un equipo que tenga 3 personajes de la misma Vía.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072305,
+        "name": "El comodín",
+        "desc": "Forma un equipo con Sampo y 20 personajes más y gana al menos 1 batalla.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070902,
+        "name": "Combina y gana",
+        "desc": "Gana una batalla con un equipo que tenga 3 personajes del mismo tipo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071601,
+        "name": "Familia feliz",
+        "desc": "Gana 1 batallas con un equipo compuesto por Himeko, Welt, Dan Heng y Siete de Marzo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080501,
+        "name": "Trazacaminos de sangre caliente",
+        "desc": "Elige opciones de diálogo apasionadas 5 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071602,
+        "name": "Arquitectos y antiguos Arquitectos",
+        "desc": "Gana 1 batallas con un equipo compuesto por Bronya, Gepard, Pela y Serval.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080502,
+        "name": "Trazacaminos pesimista",
+        "desc": "Elige opciones de diálogo pesimistas 5 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080503,
+        "name": "Trazacaminos canadiense",
+        "desc": "Elige opciones de diálogo en las que te disculpas 5 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080504,
+        "name": "Trazacaminos silencioso",
+        "desc": "Elige mantenerte en silencio durante un diálogo 5 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080505,
+        "name": "Disco rayado",
+        "desc": "Elige opciones de diálogo repetitivas 3 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080506,
+        "name": "El significado de la elección",
+        "desc": "Elige opciones de diálogo específicas de género 3 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070903,
+        "name": "Lobo solitario",
+        "desc": "Gana 10 batallas con un solo personaje en el equipo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070904,
+        "name": "Por el Señor del Ámbar",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de la Vía de la Conservación.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070905,
+        "name": "Orden de exterminación",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de la Vía de la Destrucción.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070906,
+        "name": "Alianza Xianzhou",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de la Vía de la Cacería.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070907,
+        "name": "Logro sin sentido",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de la Vía de la Nihilidad.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070908,
+        "name": "Gran acuerdo",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de la Vía de la Armonía.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070909,
+        "name": "El conocimiento es poder",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de la Vía de la Erudición.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070910,
+        "name": "Milagros de Yaoshi",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de la Vía de la Abundancia.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070911,
+        "name": "Sumisión tempestuosa",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de tipo Viento.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070912,
+        "name": "La llamada de la tormenta",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de tipo Rayo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070913,
+        "name": "Conflagración total",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de tipo Fuego.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070914,
+        "name": "Dinastía del glaciar",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de tipo Hielo.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070915,
+        "name": "Prueba cuántica",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de tipo Cuántico.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070916,
+        "name": "Ley imaginaria",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de tipo Imaginario.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070917,
+        "name": "Háblale al puño",
+        "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de tipo Físico.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "9": {
+    "name": "El universo en una cáscara de nuez",
+    "achievements": [
+      {
+        "id": 4090201,
+        "name": "La primera y última libertad",
+        "desc": "Entra en combate con 4 personajes con un porcentaje de PV igual o inferior al <unbreak>#2[i]%</unbreak> en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090202,
+        "name": "El arte de amar",
+        "desc": "Los aliados reciben escudos 50 veces en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090203,
+        "name": "¡No te muevas!",
+        "desc": "Mantén congelado a un enemigo durante 10 turnos en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090204,
+        "name": "Sistema de reacciones elementales",
+        "desc": "Inflige un daño de cualquier tipo igual o superior al 5 en un único ataque en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090205,
+        "name": "Tu rival tiene problemas de conexión",
+        "desc": "Todos los aliados realizan acciones consecutivas 20 veces en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090206,
+        "name": "Veinticuatro poemas de amor y una canción desesperada",
+        "desc": "Todos los aliados tienen un porcentaje de PV igual o inferior al 0% al ganar una batalla en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090207,
+        "name": "La luna es el corazón que baila en la oscuridad",
+        "desc": "Inflige los estados negativos de Electrocución, Quemadura, Sangrado e Intemperie a 3 enemigos o más a la vez en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090301,
+        "name": "Buenas noches, amigos míos",
+        "desc": "Derrota a 15 enemigos en total en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090303,
+        "name": "Ready Player One",
+        "desc": "Derrota a 1000 enemigos en total en el Universo Simulado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4090501,
+        "name": "Psicología del consumismo",
+        "desc": "Obtén 500 fragmentos cósmicos.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090503,
+        "name": "Gran magnate de los negocios",
+        "desc": "Obtén 20000 fragmentos cósmicos.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4091001,
+        "name": "Una experiencia especial",
+        "desc": "Encuentra 10 eventos especiales en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4091003,
+        "name": "Una experiencia no tan especial",
+        "desc": "Encuentra 100 eventos especiales en el Universo Simulado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092301,
+        "name": "Una habitación propia",
+        "desc": "Completa la exploración del Mundo 1 del Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092302,
+        "name": "Escalera infinita",
+        "desc": "Completa la exploración del Universo Simulado en el nivel de dificultad 2 o superior.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092303,
+        "name": "Rey del infinito",
+        "desc": "Completa la exploración del Universo Simulado en el nivel de dificultad 4 o superior.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092312,
+        "name": "Fiebre destructiva",
+        "desc": "Rompe 20 objetos destruibles en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092313,
+        "name": "Capullo de rosa",
+        "desc": "Rompe 400 objetos destruibles en el Universo Simulado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092314,
+        "name": "Adrenalina",
+        "desc": "Potencia bendiciones de forma activa 10 veces en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092315,
+        "name": "La buena suerte es contagiosa",
+        "desc": "Potencia bendiciones de forma activa 200 veces en el Universo Simulado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092316,
+        "name": "¿Sueñan los caracoles biónicos con árboles eléctricos?",
+        "desc": "Activa 2 habilidades en el árbol de habilidades.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092317,
+        "name": "Experto escalador",
+        "desc": "Activa 26 habilidades en el árbol de habilidades.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092318,
+        "name": "Bolsillo cambiante",
+        "desc": "Desbloquea 3 objetos raros en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092319,
+        "name": "El universo es un juego",
+        "desc": "Desbloquea 40 objetos raros en el Universo Simulado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092320,
+        "name": "¿Dónde está mi pokeball?",
+        "desc": "Captura al Chanchito 1 veces en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092321,
+        "name": "Chanchitos futbolistas",
+        "desc": "Captura al Chanchito 66 veces en el Universo Simulado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092322,
+        "name": "¡Que no escape!",
+        "desc": "Deja escapar al Chanchito 1 veces en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092323,
+        "name": "La existencia precede a la esencia",
+        "desc": "Desbloquea 12 bendiciones de la Vía de la Conservación en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092324,
+        "name": "Los recuerdos te vigilan",
+        "desc": "Desbloquea 12 bendiciones de la Vía de la Reminiscencia en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092325,
+        "name": "Caos hermoso",
+        "desc": "Desbloquea 12 bendiciones de la Vía de la Exultación en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092326,
+        "name": "La velocidad de expansión del universo",
+        "desc": "Desbloquea 12 bendiciones de la Vía de la Cacería en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092327,
+        "name": "El demoledor",
+        "desc": "Desbloquea 12 bendiciones de la Vía de la Destrucción en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092328,
+        "name": "Agnosticismo",
+        "desc": "Desbloquea 12 bendiciones de la Vía de la Nihilidad en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092329,
+        "name": "Exhalación",
+        "desc": "Desbloquea 12 bendiciones de la Vía de la Abundancia en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092330,
+        "name": "El insecto milenario dentro del ámbar",
+        "desc": "Ten 10 o más bendiciones de la Vía de la Conservación al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092331,
+        "name": "Vigilas a los recuerdos",
+        "desc": "Ten 10 o más bendiciones de la Vía de la Reminiscencia al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092332,
+        "name": "Solo es por diversión",
+        "desc": "Ten 10 o más bendiciones de la Vía de la Exultación al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092333,
+        "name": "La velocidad de los pensamientos",
+        "desc": "Ten 10 o más bendiciones de la Vía de la Cacería al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092334,
+        "name": "No mires las explosiones",
+        "desc": "Ten 10 o más bendiciones de la Vía de la Destrucción al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092335,
+        "name": "La plaga de las fantasías",
+        "desc": "Ten 10 o más bendiciones de la Vía de la Nihilidad al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092336,
+        "name": "La respiración de los ángeles",
+        "desc": "Ten 10 o más bendiciones de la Vía de la Abundancia al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092337,
+        "name": "Eres un caprichoso",
+        "desc": "Ten bendiciones de 6 o más Vías distintas al despejar el Universo Simulado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092338,
+        "name": "Yo soy el protagonista",
+        "desc": "Ten 6 bendiciones o menos al despejar el Universo Simulado en la dificultad 2 o superior.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092339,
+        "name": "Colección privada",
+        "desc": "Ten 22 bendiciones o más al despejar el Universo Simulado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092340,
+        "name": "Estrategia triangular",
+        "desc": "Gira cartas 3 veces en un evento Nildis del Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092341,
+        "name": "Bola maestra",
+        "desc": "Ten 8 o más objetos raros al despejar el Universo Simulado.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092342,
+        "name": "Ensoñación de 4 estrellas",
+        "desc": "Ten 0 o menos fragmentos cósmicos al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092343,
+        "name": "El dinero da la felicidad",
+        "desc": "Ten 1024 o más fragmentos cósmicos al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092344,
+        "name": "En llamas más allá de Orión",
+        "desc": "Pierde contra enemigos de élite en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092345,
+        "name": "Brillo en la puerta de Tannhauser",
+        "desc": "Pierde contra el jefe en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092346,
+        "name": "¡Despierta!",
+        "desc": "Pierde la batalla de un evento Nildis en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092347,
+        "name": "Como lágrimas en la lluvia",
+        "desc": "Pierde la batalla de un evento de taberna en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092349,
+        "name": "Juego de consola",
+        "desc": "Despeja el Universo Simulado en la dificultad 2 o superior sin usar el descargador.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092350,
+        "name": "Si puedo evitar que un corazón se rompa",
+        "desc": "Despeja el Universo Simulado en la dificultad 2 o superior sin romper ningún objeto destruible.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092351,
+        "name": "Gran Hotel Budapest",
+        "desc": "Despeja el Universo Simulado en la dificultad 2 o superior usando técnicas 25 veces.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092352,
+        "name": "El aleph es el universo",
+        "desc": "Despeja el Universo Simulado en la dificultad 2 o superior con un equipo compuesto por un solo personaje.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092353,
+        "name": "Coherencia",
+        "desc": "Despeja el Universo Simulado en la dificultad 2 o superior usando 4 personajes de la misma Vía.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092361,
+        "name": "¿Este juego no tiene un trofeo de platino?",
+        "desc": "Despeja el Universo Simulado (dificultad 2 o superior) con todos los personajes al máximo de PV al final de cada batalla.",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  }
+}

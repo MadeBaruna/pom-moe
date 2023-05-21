@@ -1,0 +1,30 @@
+{
+  "destruction": {
+    "id": "destruction",
+    "name": "Разрушение"
+  },
+  "the-hunt": {
+    "id": "the-hunt",
+    "name": "Охота"
+  },
+  "erudition": {
+    "id": "erudition",
+    "name": "Эрудиция"
+  },
+  "harmony": {
+    "id": "harmony",
+    "name": "Гармония"
+  },
+  "nihility": {
+    "id": "nihility",
+    "name": "Небытие"
+  },
+  "preservation": {
+    "id": "preservation",
+    "name": "Сохранение"
+  },
+  "abundance": {
+    "id": "abundance",
+    "name": "Изобилие"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "arrows": {
+    "id": "arrows",
+    "name": "Стрелы",
+    "path": "the-hunt",
+    "rarity": 3
+  },
+  "cornucopia": {
+    "id": "cornucopia",
+    "name": "Рог изобилия",
+    "path": "abundance",
+    "rarity": 3
+  },
+  "collapsing-sky": {
+    "id": "collapsing-sky",
+    "name": "Падение небес",
+    "path": "destruction",
+    "rarity": 3
+  },
+  "amber": {
+    "id": "amber",
+    "name": "Янтарь",
+    "path": "preservation",
+    "rarity": 3
+  },
+  "void": {
+    "id": "void",
+    "name": "Пустота",
+    "path": "nihility",
+    "rarity": 3
+  },
+  "chorus": {
+    "id": "chorus",
+    "name": "Хор",
+    "path": "harmony",
+    "rarity": 3
+  },
+  "data-bank": {
+    "id": "data-bank",
+    "name": "База данных",
+    "path": "erudition",
+    "rarity": 3
+  },
+  "darting-arrow": {
+    "id": "darting-arrow",
+    "name": "Выпущенная стрела",
+    "path": "the-hunt",
+    "rarity": 3
+  },
+  "fine-fruit": {
+    "id": "fine-fruit",
+    "name": "Спелый плод",
+    "path": "abundance",
+    "rarity": 3
+  },
+  "shattered-home": {
+    "id": "shattered-home",
+    "name": "Расколовшийся дом",
+    "path": "destruction",
+    "rarity": 3
+  },
+  "defense": {
+    "id": "defense",
+    "name": "Оборона",
+    "path": "preservation",
+    "rarity": 3
+  },
+  "loop": {
+    "id": "loop",
+    "name": "Петля",
+    "path": "nihility",
+    "rarity": 3
+  },
+  "meshing-cogs": {
+    "id": "meshing-cogs",
+    "name": "Сцепленные шестерни",
+    "path": "harmony",
+    "rarity": 3
+  },
+  "passkey": {
+    "id": "passkey",
+    "name": "Ключ от всех дверей",
+    "path": "erudition",
+    "rarity": 3
+  },
+  "adversarial": {
+    "id": "adversarial",
+    "name": "Противостояние",
+    "path": "the-hunt",
+    "rarity": 3
+  },
+  "multiplication": {
+    "id": "multiplication",
+    "name": "Размножение",
+    "path": "abundance",
+    "rarity": 3
+  },
+  "mutual-demise": {
+    "id": "mutual-demise",
+    "name": "Совместная гибель",
+    "path": "destruction",
+    "rarity": 3
+  },
+  "pioneering": {
+    "id": "pioneering",
+    "name": "Новые горизонты",
+    "path": "preservation",
+    "rarity": 3
+  },
+  "hidden-shadow": {
+    "id": "hidden-shadow",
+    "name": "Скрытая тень",
+    "path": "nihility",
+    "rarity": 3
+  },
+  "mediation": {
+    "id": "mediation",
+    "name": "Созвучие",
+    "path": "harmony",
+    "rarity": 3
+  },
+  "sagacity": {
+    "id": "sagacity",
+    "name": "Проницательность",
+    "path": "erudition",
+    "rarity": 3
+  },
+  "post-op-conversation": {
+    "id": "post-op-conversation",
+    "name": "Беседа после операции",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "good-night-and-sleep-well": {
+    "id": "good-night-and-sleep-well",
+    "name": "Спокойной ночи и мирного сна",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "day-one-of-my-new-life": {
+    "id": "day-one-of-my-new-life",
+    "name": "Первый день моей новой жизни",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "only-silence-remains": {
+    "id": "only-silence-remains",
+    "name": "Остаётся лишь тишина",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "memories-of-the-past": {
+    "id": "memories-of-the-past",
+    "name": "Воспоминания о прошлом",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "the-moles-welcome-you": {
+    "id": "the-moles-welcome-you",
+    "name": "Кроты приветствуют тебя",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "the-birth-of-the-self": {
+    "id": "the-birth-of-the-self",
+    "name": "Зарождение себя",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "shared-feeling": {
+    "id": "shared-feeling",
+    "name": "Общие чувства",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "eyes-of-the-prey": {
+    "id": "eyes-of-the-prey",
+    "name": "Взгляд жертвы",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "landaus-choice": {
+    "id": "landaus-choice",
+    "name": "Выбор Ландау",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "swordplay": {
+    "id": "swordplay",
+    "name": "Фехтование",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "planetary-rendezvous": {
+    "id": "planetary-rendezvous",
+    "name": "Свидание со звёздами",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "a-secret-vow": {
+    "id": "a-secret-vow",
+    "name": "Тайная клятва",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "make-the-world-clamor": {
+    "id": "make-the-world-clamor",
+    "name": "Пусть мир не стихает",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "perfect-timing": {
+    "id": "perfect-timing",
+    "name": "Идеальное время",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "resolution-shines-as-pearls-of-sweat": {
+    "id": "resolution-shines-as-pearls-of-sweat",
+    "name": "Решимость блестит подобно жемчужинам пота",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "trend-of-the-universal-market": {
+    "id": "trend-of-the-universal-market",
+    "name": "Тренд галактического рынка",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "subscribe-for-more": {
+    "id": "subscribe-for-more",
+    "name": "Больше подписок!",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "dance-dance-dance": {
+    "id": "dance-dance-dance",
+    "name": "Танцуй! Танцуй! Танцуй!",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "under-the-blue-sky": {
+    "id": "under-the-blue-sky",
+    "name": "Под голубым небом",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "geniuses-repose": {
+    "id": "geniuses-repose",
+    "name": "Отдых гениев",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "quid-pro-quo": {
+    "id": "quid-pro-quo",
+    "name": "Равноценный обмен",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "fermata": {
+    "id": "fermata",
+    "name": "Фермата",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "we-are-wildfire": {
+    "id": "we-are-wildfire",
+    "name": "Мы - Дикий Огонь",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "river-flows-in-spring": {
+    "id": "river-flows-in-spring",
+    "name": "Весенние потоки рек",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "past-and-future": {
+    "id": "past-and-future",
+    "name": "Прошлое и будущее",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "woof-walk-time": {
+    "id": "woof-walk-time",
+    "name": "Гав! Время прогулок!",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "the-seriousness-of-breakfast": {
+    "id": "the-seriousness-of-breakfast",
+    "name": "Важность завтрака",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "warmth-shortens-cold-nights": {
+    "id": "warmth-shortens-cold-nights",
+    "name": "Холодные ночи короче, когда ты рядом",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "we-will-meet-again": {
+    "id": "we-will-meet-again",
+    "name": "Мы ещё встретимся",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "this-is-me": {
+    "id": "this-is-me",
+    "name": "Это я!",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "return-to-darkness": {
+    "id": "return-to-darkness",
+    "name": "Назад во тьму",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "carve-the-moon-weave-the-clouds": {
+    "id": "carve-the-moon-weave-the-clouds",
+    "name": "Вырезать луну и кроить облака",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "nowhere-to-run": {
+    "id": "nowhere-to-run",
+    "name": "Бежать некуда",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "today-is-another-peaceful-day": {
+    "id": "today-is-another-peaceful-day",
+    "name": "Сегодня тоже мирный день",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "night-on-the-milky-way": {
+    "id": "night-on-the-milky-way",
+    "name": "Ночь на Млечном Пути",
+    "path": "erudition",
+    "rarity": 5
+  },
+  "in-the-night": {
+    "id": "in-the-night",
+    "name": "В ночи",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "something-irreplaceable": {
+    "id": "something-irreplaceable",
+    "name": "Что-то незаменимое",
+    "path": "destruction",
+    "rarity": 5
+  },
+  "but-the-battle-isnt-over": {
+    "id": "but-the-battle-isnt-over",
+    "name": "Битва не окончена",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "in-the-name-of-the-world": {
+    "id": "in-the-name-of-the-world",
+    "name": "Во имя мира",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "moment-of-victory": {
+    "id": "moment-of-victory",
+    "name": "Момент победы",
+    "path": "preservation",
+    "rarity": 5
+  },
+  "before-dawn": {
+    "id": "before-dawn",
+    "name": "До заката",
+    "path": "erudition",
+    "rarity": 5
+  },
+  "sleep-like-the-dead": {
+    "id": "sleep-like-the-dead",
+    "name": "Мертвецкий сон",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "time-waits-for-no-one": {
+    "id": "time-waits-for-no-one",
+    "name": "Время никого не ждёт",
+    "path": "abundance",
+    "rarity": 5
+  },
+  "on-the-fall-of-an-aeon": {
+    "id": "on-the-fall-of-an-aeon",
+    "name": "О падении Эона",
+    "path": "destruction",
+    "rarity": 5
+  },
+  "cruising-in-the-stellar-sea": {
+    "id": "cruising-in-the-stellar-sea",
+    "name": "Круиз по галактике",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "texture-of-memories": {
+    "id": "texture-of-memories",
+    "name": "Материя памяти",
+    "path": "preservation",
+    "rarity": 5
+  }
+}

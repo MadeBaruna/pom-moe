@@ -1,0 +1,410 @@
+{
+  "arrows": {
+    "id": "arrows",
+    "name": "Flèches",
+    "path": "the-hunt",
+    "rarity": 3
+  },
+  "cornucopia": {
+    "id": "cornucopia",
+    "name": "Corne d'abondance",
+    "path": "abundance",
+    "rarity": 3
+  },
+  "collapsing-sky": {
+    "id": "collapsing-sky",
+    "name": "Effondrement céleste",
+    "path": "destruction",
+    "rarity": 3
+  },
+  "amber": {
+    "id": "amber",
+    "name": "Ambre",
+    "path": "preservation",
+    "rarity": 3
+  },
+  "void": {
+    "id": "void",
+    "name": "Néant",
+    "path": "nihility",
+    "rarity": 3
+  },
+  "chorus": {
+    "id": "chorus",
+    "name": "Chœur",
+    "path": "harmony",
+    "rarity": 3
+  },
+  "data-bank": {
+    "id": "data-bank",
+    "name": "Banque de données",
+    "path": "erudition",
+    "rarity": 3
+  },
+  "darting-arrow": {
+    "id": "darting-arrow",
+    "name": "Flèche plongeante",
+    "path": "the-hunt",
+    "rarity": 3
+  },
+  "fine-fruit": {
+    "id": "fine-fruit",
+    "name": "Fruit délicat",
+    "path": "abundance",
+    "rarity": 3
+  },
+  "shattered-home": {
+    "id": "shattered-home",
+    "name": "Demeure brisée",
+    "path": "destruction",
+    "rarity": 3
+  },
+  "defense": {
+    "id": "defense",
+    "name": "Défense",
+    "path": "preservation",
+    "rarity": 3
+  },
+  "loop": {
+    "id": "loop",
+    "name": "Boucle",
+    "path": "nihility",
+    "rarity": 3
+  },
+  "meshing-cogs": {
+    "id": "meshing-cogs",
+    "name": "Roues d'engrenage",
+    "path": "harmony",
+    "rarity": 3
+  },
+  "passkey": {
+    "id": "passkey",
+    "name": "Clé du savoir",
+    "path": "erudition",
+    "rarity": 3
+  },
+  "adversarial": {
+    "id": "adversarial",
+    "name": "Résistance",
+    "path": "the-hunt",
+    "rarity": 3
+  },
+  "multiplication": {
+    "id": "multiplication",
+    "name": "Démultiplication",
+    "path": "abundance",
+    "rarity": 3
+  },
+  "mutual-demise": {
+    "id": "mutual-demise",
+    "name": "Destruction mutuelle",
+    "path": "destruction",
+    "rarity": 3
+  },
+  "pioneering": {
+    "id": "pioneering",
+    "name": "Expansion",
+    "path": "preservation",
+    "rarity": 3
+  },
+  "hidden-shadow": {
+    "id": "hidden-shadow",
+    "name": "Ombre cachée",
+    "path": "nihility",
+    "rarity": 3
+  },
+  "mediation": {
+    "id": "mediation",
+    "name": "Harmonisation",
+    "path": "harmony",
+    "rarity": 3
+  },
+  "sagacity": {
+    "id": "sagacity",
+    "name": "Sagacité",
+    "path": "erudition",
+    "rarity": 3
+  },
+  "post-op-conversation": {
+    "id": "post-op-conversation",
+    "name": "Conversation post-opératoire",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "good-night-and-sleep-well": {
+    "id": "good-night-and-sleep-well",
+    "name": "Bonne nuit et dors bien",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "day-one-of-my-new-life": {
+    "id": "day-one-of-my-new-life",
+    "name": "Premier jour de ma nouvelle vie",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "only-silence-remains": {
+    "id": "only-silence-remains",
+    "name": "Seul le silence subsiste",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "memories-of-the-past": {
+    "id": "memories-of-the-past",
+    "name": "Souvenirs du passé",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "the-moles-welcome-you": {
+    "id": "the-moles-welcome-you",
+    "name": "Bienvenue chez les Taupes",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "the-birth-of-the-self": {
+    "id": "the-birth-of-the-self",
+    "name": "La naissance du moi",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "shared-feeling": {
+    "id": "shared-feeling",
+    "name": "Sentiment partagé",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "eyes-of-the-prey": {
+    "id": "eyes-of-the-prey",
+    "name": "Les yeux de la proie",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "landaus-choice": {
+    "id": "landaus-choice",
+    "name": "Le choix de Landau",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "swordplay": {
+    "id": "swordplay",
+    "name": "Jeu d'épée",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "planetary-rendezvous": {
+    "id": "planetary-rendezvous",
+    "name": "Rendez-vous avec les planètes",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "a-secret-vow": {
+    "id": "a-secret-vow",
+    "name": "Vœu secret",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "make-the-world-clamor": {
+    "id": "make-the-world-clamor",
+    "name": "Clameur du monde",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "perfect-timing": {
+    "id": "perfect-timing",
+    "name": "Timing parfait",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "resolution-shines-as-pearls-of-sweat": {
+    "id": "resolution-shines-as-pearls-of-sweat",
+    "name": "Résolution brillante",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "trend-of-the-universal-market": {
+    "id": "trend-of-the-universal-market",
+    "name": "Tendance du marché cosmique",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "subscribe-for-more": {
+    "id": "subscribe-for-more",
+    "name": "Abonnez-vous !",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "dance-dance-dance": {
+    "id": "dance-dance-dance",
+    "name": "Ça n'arrête pas de danser !",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "under-the-blue-sky": {
+    "id": "under-the-blue-sky",
+    "name": "Sous le ciel bleu",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "geniuses-repose": {
+    "id": "geniuses-repose",
+    "name": "Repos des génies",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "quid-pro-quo": {
+    "id": "quid-pro-quo",
+    "name": "Échange de bons procédés",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "fermata": {
+    "id": "fermata",
+    "name": "Point d'orgue",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "we-are-wildfire": {
+    "id": "we-are-wildfire",
+    "name": "On est les Feux sauvages",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "river-flows-in-spring": {
+    "id": "river-flows-in-spring",
+    "name": "Une rivière au printemps",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "past-and-future": {
+    "id": "past-and-future",
+    "name": "Passé et futur",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "woof-walk-time": {
+    "id": "woof-walk-time",
+    "name": "Ouaf ! C'est l'heure de la promenade !",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "the-seriousness-of-breakfast": {
+    "id": "the-seriousness-of-breakfast",
+    "name": "Le petit-déjeuner, c'est sacré",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "warmth-shortens-cold-nights": {
+    "id": "warmth-shortens-cold-nights",
+    "name": "Chaleur au cœur de la nuit froide",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "we-will-meet-again": {
+    "id": "we-will-meet-again",
+    "name": "Ce n'est que partie remise",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "this-is-me": {
+    "id": "this-is-me",
+    "name": "C'est moi !",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "return-to-darkness": {
+    "id": "return-to-darkness",
+    "name": "Retour aux ténèbres",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "carve-the-moon-weave-the-clouds": {
+    "id": "carve-the-moon-weave-the-clouds",
+    "name": "Nuages taillés dans la lune",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "nowhere-to-run": {
+    "id": "nowhere-to-run",
+    "name": "Sans échappatoire",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "today-is-another-peaceful-day": {
+    "id": "today-is-another-peaceful-day",
+    "name": "Encore une belle journée qui s'annonce",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "night-on-the-milky-way": {
+    "id": "night-on-the-milky-way",
+    "name": "Nuit sur la voie lactée",
+    "path": "erudition",
+    "rarity": 5
+  },
+  "in-the-night": {
+    "id": "in-the-night",
+    "name": "Dans la nuit",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "something-irreplaceable": {
+    "id": "something-irreplaceable",
+    "name": "Quelque chose d'irremplaçable",
+    "path": "destruction",
+    "rarity": 5
+  },
+  "but-the-battle-isnt-over": {
+    "id": "but-the-battle-isnt-over",
+    "name": "Le combat n'est pas terminé",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "in-the-name-of-the-world": {
+    "id": "in-the-name-of-the-world",
+    "name": "Au nom du monde",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "moment-of-victory": {
+    "id": "moment-of-victory",
+    "name": "Moment de victoire",
+    "path": "preservation",
+    "rarity": 5
+  },
+  "before-dawn": {
+    "id": "before-dawn",
+    "name": "Avant l'aube",
+    "path": "erudition",
+    "rarity": 5
+  },
+  "sleep-like-the-dead": {
+    "id": "sleep-like-the-dead",
+    "name": "D'un sommeil de mort",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "time-waits-for-no-one": {
+    "id": "time-waits-for-no-one",
+    "name": "Le temps n'attend pas",
+    "path": "abundance",
+    "rarity": 5
+  },
+  "on-the-fall-of-an-aeon": {
+    "id": "on-the-fall-of-an-aeon",
+    "name": "La chute d'un Aiôn",
+    "path": "destruction",
+    "rarity": 5
+  },
+  "cruising-in-the-stellar-sea": {
+    "id": "cruising-in-the-stellar-sea",
+    "name": "Exploration de la mer stellaire",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "texture-of-memories": {
+    "id": "texture-of-memories",
+    "name": "Texture des Mémoires",
+    "path": "preservation",
+    "rarity": 5
+  }
+}

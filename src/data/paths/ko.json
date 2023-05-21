@@ -1,0 +1,30 @@
+{
+  "destruction": {
+    "id": "destruction",
+    "name": "파멸"
+  },
+  "the-hunt": {
+    "id": "the-hunt",
+    "name": "수렵"
+  },
+  "erudition": {
+    "id": "erudition",
+    "name": "지식"
+  },
+  "harmony": {
+    "id": "harmony",
+    "name": "화합"
+  },
+  "nihility": {
+    "id": "nihility",
+    "name": "공허"
+  },
+  "preservation": {
+    "id": "preservation",
+    "name": "보존"
+  },
+  "abundance": {
+    "id": "abundance",
+    "name": "풍요"
+  }
+}

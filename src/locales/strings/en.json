@@ -1,0 +1,24 @@
+{
+  "menu": {
+    "warpCounter": "Warp Counter",
+    "planner": "Planner",
+    "calculator": "Calculator",
+    "todolist": "To-do List"
+  },
+  "banner": {
+    "character": "Character Banner",
+    "lightcone": "Light Cone Banner",
+    "standard": "Permanent Banner",
+    "beginner": "Beginner Banner"
+  },
+  "warp": {
+    "import": {
+      "title": "Import Warp History",
+      "selectFile": "Click to Select or Drop <span>{{filename}}</span> file here",
+      "method": {
+        "pc1": "Method 1",
+        "pc2": "Method 2"
+      }
+    }
+  }
+}

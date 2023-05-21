@@ -1,0 +1,2434 @@
+{
+  "1": {
+    "name": "Tôi, Nhà Khai Phá",
+    "achievements": [
+      {
+        "id": 4010101,
+        "name": "Hổ Phách Lửa Bất Diệt",
+        "desc": "Nhà Khai Phá bước lên Vận Mệnh \"Bảo Hộ\"",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010201,
+        "name": "Trong Nguồn Vận Mệnh (1)",
+        "desc": "Có 1 Nón Ánh Sáng đạt cấp 40",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010202,
+        "name": "Trong Nguồn Vận Mệnh (2)",
+        "desc": "Có 1 Nón Ánh Sáng đạt cấp 60",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010203,
+        "name": "Trong Nguồn Vận Mệnh (3)",
+        "desc": "Có 1 Nón Ánh Sáng đạt cấp 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010103,
+        "name": "Thời Gian Đủ Để Yêu",
+        "desc": "Có 4 Nón Ánh Sáng đạt cấp 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4080201,
+        "name": "Vượt Qua Khó Khăn (1)",
+        "desc": "Cân Bằng đạt cấp 1",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010301,
+        "name": "Tuổi Thơ",
+        "desc": "Nhân vật ngẫu nhiên đạt cấp 40",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080202,
+        "name": "Vượt Qua Khó Khăn (2)",
+        "desc": "Cân Bằng đạt cấp 3",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010302,
+        "name": "Giữa Nhân Gian",
+        "desc": "Nhân vật ngẫu nhiên đạt cấp 60",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080203,
+        "name": "Vượt Qua Khó Khăn (3)",
+        "desc": "Cân Bằng đạt cấp 6",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010303,
+        "name": "Đại Học Của Tôi",
+        "desc": "Nhân vật ngẫu nhiên đạt cấp 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010102,
+        "name": "Kết Thúc Của Tuổi Thơ",
+        "desc": "4 nhân vật đạt cấp 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010501,
+        "name": "Vết Tích Vận Mệnh (1)",
+        "desc": "Tích lũy kích hoạt hoặc tăng Vết Tích nhân vật 3 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010502,
+        "name": "Vết Tích Vận Mệnh (2)",
+        "desc": "Tích lũy kích hoạt hoặc tăng Vết Tích nhân vật 20 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010503,
+        "name": "Vết Tích Vận Mệnh (3)",
+        "desc": "Tích lũy kích hoạt hoặc tăng Vết Tích nhân vật 50 lần",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010504,
+        "name": "Vết Tích Vận Mệnh (4)",
+        "desc": "Tích lũy kích hoạt hoặc tăng Vết Tích nhân vật 100 lần",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4012302,
+        "name": "Đường Nên Đi, Ta Đều Đi",
+        "desc": "Tất cả Vết Tích của nhân vật ngẫu nhiên, tăng đến cấp tối đa",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010104,
+        "name": "Thánh - Di Vật (4)",
+        "desc": "Cường hoá 1 Di Vật 4 sao đến cấp cao nhất",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010105,
+        "name": "Thánh - Di Vật (5)",
+        "desc": "Cường hoá 1 Di Vật 5 sao đến cấp cao nhất",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010401,
+        "name": "Vũ Trang Đầy Đủ",
+        "desc": "Cường hoá 4 Di Vật đến cấp 15",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4012301,
+        "name": "Chiến Giáp Chí Tôn",
+        "desc": "Tất cả bộ phận của nhân vật ngẫu nhiên, trang bị Di Vật 5 Sao cấp 15",
+        "rarity": 3,
+        "version": "1.0"
+      }
+    ]
+  },
+  "2": {
+    "name": "Dấu Vết Năm Tháng",
+    "achievements": [
+      {
+        "id": 4022302,
+        "name": "Con Nhà Giàu Hào Quang Lấp Lánh",
+        "desc": "Tích lũy nhận 99999998 điểm tín dụng",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020201,
+        "name": "Hướng Dẫn Hành Khách Ngân Hà",
+        "desc": "Nhận 10 nhân vật",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020202,
+        "name": "Danh Sách Đăng Ký Hành Khách Đội Tàu",
+        "desc": "Nhận 20 nhân vật",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020203,
+        "name": "Hành Tinh Dịch Chuyển",
+        "desc": "Nhận 50 nhân vật",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020401,
+        "name": "Gợn Sóng Biển Dirac (1)",
+        "desc": "Nhận 10 loại Nón Ánh Sáng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020402,
+        "name": "Gợn Sóng Biển Dirac (2)",
+        "desc": "Nhận 20 loại Nón Ánh Sáng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020403,
+        "name": "Gợn Sóng Biển Dirac (3)",
+        "desc": "Nhận 40 loại Nón Ánh Sáng",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020502,
+        "name": "Kho Báu Vực Sâu",
+        "desc": "Nhận 1 Di Vật 5 Sao",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020503,
+        "name": "Hàng Giả Kỳ Dị",
+        "desc": "Nhận 5 Di Vật 5 sao từ Máy Ghép Vạn Năng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020701,
+        "name": "Hội Viên Kim Cương Hành Tinh Hòa Bình",
+        "desc": "Tích lũy nhận 1000000 điểm tín dụng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020702,
+        "name": "Hội Viên Vàng Hành Tinh Hòa Bình",
+        "desc": "Tích lũy nhận 10000000 điểm tín dụng",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  },
+  "3": {
+    "name": "Đường Ray Đến Những Vì Sao",
+    "achievements": [
+      {
+        "id": 4030101,
+        "name": "Quần Tinh - Nơi Ta Thuộc Về",
+        "desc": "Mở Chuyến Hành Trình Đến Dải Ngân Hà Bao La\\n<color=#8790abff>※Chúc mừng! Bạn đã tham gia vào Đội Tàu Astral!</color>",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4030102,
+        "name": "Đêm Ở Thành Everwinter",
+        "desc": "Sau màn tuyết phủ trắng trời...\\n<color=#8790abff>※Bạn đã đến thành phố mang tên Belobog</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030103,
+        "name": "Thế Giới Thất Lạc",
+        "desc": "Phát hiện bí mật bên dưới Jarilo-VI\\n<color=#8790abff>※Quả nhiên có người sống ở dưới lòng đất...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030104,
+        "name": "1/2 Phù Thuỷ Xứ Oz",
+        "desc": "Đánh bại Người Sắt và Bé Gái\\n<color=#8790abff>※Svarog và Clara trở thành đồng hành của bạn!</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030105,
+        "name": "Mùa Đông Sẽ Qua",
+        "desc": "Thay đổi Belobog, bắt đầu từ chỗ của ta\\n<color=#8790abff>※Đầu tiên chính là lật đổ Đấng Bảo Vệ Tối Cao Cocolia...</color>",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4030201,
+        "name": "Cáo Đang Đi Dạo",
+        "desc": "Cái gọi là ngoại giao, chính là trao đổi ý kiến với nhau...\\n<color=#8790abff>※Gặp gỡ (những) người lãnh đạo của Xianzhou Luofu</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030202,
+        "name": "Pháp Nhãn Vô Di",
+        "desc": "Thiên đạo luân hồi, kẻ phạm pháp chắc chắn bị bắt\\n<color=#8790abff>※Bắt Thợ Săn Stellaron Kafka thành công</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032305,
+        "name": "Thăm Hỏi Ân Cần",
+        "desc": "Người quản gió ở bàn bên cạnh nhìn bạn... \\n<color=#8790abff>※Tìm thấy Qingque đang mải mê chơi bài...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032307,
+        "name": "Người Thông Tỏ Sẽ Không Mê Tín",
+        "desc": "Chứng kiến bí mật trận pháp của Sở Thiên Tượng\\n<color=#8790abff>※Dùng Ma Trận Tiên Tri thẩm vấn Kafka, nhìn thấu để chống lại lời tiên tri...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032308,
+        "name": "Vòng Xoáy Tranh Đoạt",
+        "desc": "Lò lửa rực cháy, tiếng kêu tắt lịm\\n<color=#8790abff>※Cứu Sở Công Nghiệp khỏi mối nguy</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032306,
+        "name": "Chưa Biết Ai Thắng Ai",
+        "desc": "Thử bước đi trên vận mệnh Săn Bắn...\\n<color=#8790abff>※Giúp Xianzhou đánh bại Tà Vật Trù Phú \"Huyền Lộc\"</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032309,
+        "name": "Rắn Độc Khắp Nơi",
+        "desc": "Chứng kiến câu chuyện của Dan Shu\\n<color=#8790abff>※Phát hiện thân phận thật sự của Dan Shu, chứng kiến Bí Truyền Dược Vương trỗi dậy</color>",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  },
+  "4": {
+    "name": "Khám Phá Bí Ẩn",
+    "achievements": [
+      {
+        "id": 4040201,
+        "name": "Cho Đến Khi Ánh Sáng Đưa Ta Đi",
+        "desc": "Kích hoạt 5 Mỏ Neo Không Gian ở Trạm Không Gian Herta",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040202,
+        "name": "Thế Giới Không Mở",
+        "desc": "Kích hoạt 14 Mỏ Neo Không Gian ở Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4042307,
+        "name": "Thẳng Đường Tiên Lộ",
+        "desc": "Kích hoạt 10 Mỏ Neo Không Gian ở Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040101,
+        "name": "Người Chơi Nhập Vai Hợp Chuẩn",
+        "desc": "Mở 30 lần Chiến Lợi Phẩm Trạm Không Gian Herta",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4040102,
+        "name": "Cái Giá Phải Trả Là Gì?",
+        "desc": "Mở 110 lần Chiến Lợi Phẩm Belobog",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4042308,
+        "name": "Tiền Tài Là Chuyện Nhỏ",
+        "desc": "Mở 100 lần Chiến Lợi Phẩm Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040301,
+        "name": "Xung Đột Hủy Diệt",
+        "desc": "Phá vỡ 100 Vật Có Thể Phá Hủy",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040302,
+        "name": "Ý Chí Hủy Diệt Tự Do",
+        "desc": "Phá vỡ 1000 Vật Có Thể Phá Hủy",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4040601,
+        "name": "Tấn Công Bất Ngờ",
+        "desc": "Dùng đòn tấn công với thuộc tính tương ứng để vào chiến đấu 100 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040602,
+        "name": "Phía Sau Không Có Mắt",
+        "desc": "Bị phục kích khi khám phá",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040603,
+        "name": "Kỹ Năng Thứ Ba",
+        "desc": "Thi triển Bí Kỹ 50 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040604,
+        "name": "Chiều Không Gian Thứ Ba",
+        "desc": "Thi triển Bí Kỹ 300 lần",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080401,
+        "name": "Báo Cáo Mở Đầu",
+        "desc": "Thu thập 10 Tài Liệu từ Trạm Không Gian Herta",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080402,
+        "name": "Khái Quát Lịch Sử",
+        "desc": "Thu thập 50 Tài Liệu từ Trạm Không Gian Herta",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080403,
+        "name": "Không Phải Văn Học Rác",
+        "desc": "Thu thập 20 Tài Liệu từ Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080404,
+        "name": "Nhà Sử Học Thành Everwinter",
+        "desc": "Thu thập 80 Tài Liệu từ Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4022403,
+        "name": "Cần Cù Hiếu Học",
+        "desc": "Thu thập 30 Tài Liệu từ Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4022404,
+        "name": "Học Cao Hiểu Rộng",
+        "desc": "Thu thập 80 Tài Liệu từ Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040407,
+        "name": "Cảnh Báo Tên Đỏ",
+        "desc": "Hoàn thành 5 lần khiêu chiến cường địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040408,
+        "name": "Đàn Áp Cấp Độ",
+        "desc": "Hoàn thành 15 lần khiêu chiến cường địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040503,
+        "name": "Du Ngoạn Không Gian",
+        "desc": "Hoàn thành 1 lần Khám Phá Chiến Đấu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040504,
+        "name": "Không Có Thành Tựu Mà Muốn Đi Phó Bản?",
+        "desc": "Hoàn thành 9 lần Khám Phá Chiến Đấu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040701,
+        "name": "Heo Tindalos",
+        "desc": "Bắt Heo Đất Không Gian 1 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040702,
+        "name": "ATM Pha Sóng",
+        "desc": "Bắt Heo Đất Không Gian 10 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4042301,
+        "name": "Cảm Quan Kết Giao",
+        "desc": "Thu thập tất cả Bong Bóng Ký Ức rải rác trong Trạm Không Gian Herta",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040403,
+        "name": "Vật Liệu Hiếm Có",
+        "desc": "Tìm tất cả chiến lợi phẩm hiếm",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040404,
+        "name": "Vấn Đề 7 Chiếc Cầu",
+        "desc": "Tìm tất cả chiến lợi phẩm Cầu Đẩy",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040409,
+        "name": "Sự Ra Đời Của Bi Kịch",
+        "desc": "Tìm tất cả chiến lợi phẩm Rương Kẻ Ngốc",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040402,
+        "name": "Sisyphus Khu Mỏ",
+        "desc": "Hoàn thành kiểm tra Công Nhân Xe Khoáng cuối cùng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040406,
+        "name": "Câu Chuyện Chuột Chũi",
+        "desc": "Thu thập tất cả Đội Chuột Chũi Phiêu Lưu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040410,
+        "name": "Đỏ Đỏ, Trắng Trắng",
+        "desc": "Hoàn thành 10 lần phá ngưỡng lưu chất từ biến",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051101,
+        "name": "Lãng Phí Thật Đáng Xấu Hổ",
+        "desc": "Lấy Soda Bánh Mì Jim Roger trong thùng rác",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040411,
+        "name": "Lời Ví Von Hang Động",
+        "desc": "Hoàn thành 30 lần Khối Lục Giác",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040412,
+        "name": "Bắc Tây Bắc",
+        "desc": "Hoàn thành 20 lần La Bàn Phá Trận",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "5": {
+    "name": "Hồi Ức Đồng Hành Cùng Bạn",
+    "achievements": [
+      {
+        "id": 4051001,
+        "name": "Đoán Xem Tôi Là Ai",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Có Biết Tôi Không\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051002,
+        "name": "Nỗi Phiền Muộn Của Thiếu Niên Arlan",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Hiểu Lầm Ngoài Ý Muốn\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051003,
+        "name": "Món Quà Hiền Giả",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Món Quà Của Hook\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051004,
+        "name": "Ngoại Thành Tĩnh Lặng",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Miễn Dịch Gió Tuyết\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051005,
+        "name": "Clara Và Mặt Trời",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Chút Ân Tình Hiếm Hoi\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051006,
+        "name": "Nước Mắt Nhẹ Vơi",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Chỉ Là Trẻ Nhỏ\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051103,
+        "name": "Bản Đồ <unbreak>17</unbreak> Tuổi",
+        "desc": "Thu thập tài liệu về Asta trong Không Gian Cõi Lặng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051104,
+        "name": "Kim Cương Và Gỉ Sắt",
+        "desc": "Giao Bản Chuyển Dịch cho Bernard trong nhiệm vụ \"Đến: Ngôi Sao Ảm Đạm\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051105,
+        "name": "Tạm Biệt, Thợ Săn Sao Chổi",
+        "desc": "Thu thập 3 bức Thư Từ Thợ Săn Sao Chổi trong nhiệm vụ Chỉ Có Thể Ngắm Nhìn",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051106,
+        "name": "Cô Ấy Đi Một Mình?",
+        "desc": "Hoàn thành nhiệm vụ Nghịch Lý Hướng Dẫn, chứng kiến kết cục của Android",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051107,
+        "name": "Tiếp Xúc Loại Thứ 6",
+        "desc": "Trong nhiệm vụ Lễ Cầu Siêu nhận được năng lực có thể trò chuyện với Wubbaboo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052302,
+        "name": "Dùng Một Lần",
+        "desc": "Trong Trạm Không Gian tìm thấy tất cả Herta và trò chuyện với cô ấy",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052304,
+        "name": "Vì Kỷ Niệm Đã Lãng Quên",
+        "desc": "Thăm Đài Tưởng Niệm của nhà nghiên cứu Eikura Shuu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052305,
+        "name": "Tách... Quẹt Thẻ Tan Ca!",
+        "desc": "Tắt máy Robot trong Trạm Không Gian 6 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052306,
+        "name": "Cánh Cổng Thế Giới Mới",
+        "desc": "Sử dụng Vật Thể Lạ \"Cánh Cổng Thế Giới Mới\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052307,
+        "name": "Chỉ Là Một Con Số",
+        "desc": "Sử dụng Vật Thể Lạ \"Súng Chấm Điểm\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052308,
+        "name": "Vương Quyền Không Bền Vững",
+        "desc": "Sử dụng Vật Thể Lạ \"Sức Nặng Khó Chống Đỡ\", đồng thời phá giải âm thanh thần bí.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052309,
+        "name": "Rèn Theo Năng Khiếu",
+        "desc": "Nói chuyện với thực vật kỳ lạ, tiếp tục đến thăm nó vào ngày thứ 2",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051108,
+        "name": "Tâm Lý Học Tham Lam",
+        "desc": "Trong nhiệm vụ Trí Tuệ Sinh Tồn lấy được kho báu thật",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051109,
+        "name": "Chỉ Mong Ngày Mai",
+        "desc": "Trong nhiệm vụ Bảo Bối Của Hook tìm tất cả vật phẩm của Julian",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080601,
+        "name": "Công Bằng Và Lý Lẽ",
+        "desc": "Đối chất với Người Bảo Vệ Của Công, cho anh ta biết cái giá phải trả vì đã ngăn cản bạn (hoặc phải cúi mình nhận sai)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051110,
+        "name": "Vòng Đời Của Phần Mềm",
+        "desc": "Trong nhiệm vụ Chút Ân Tình Hiếm Hoi-2 chọn Robot Nhỏ không theo định dạng nào",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080602,
+        "name": "Người Xứ Khác",
+        "desc": "Giao Hộp Nhạc tìm được ở Thị Trấn Rivet cho chủ nhân đang rất đau lòng của nó.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051111,
+        "name": "Khi Hơi Thở Còn Mãi",
+        "desc": "Trong nhiệm vụ Chút Ân Tình Hiếm Hoi-2 chọn Robot Nhỏ để định dạng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080603,
+        "name": "<unbreak>50</unbreak> Điểm Tín Dụng?!",
+        "desc": "Thu thập lệnh truy nã thành viên Đội Tàu Astral được dán ở mọi ngóc ngách của Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052310,
+        "name": "Nhẵn Nhụi, Sáng Lóa",
+        "desc": "Nhận 3 Đồng Xu Cổ Đại",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080604,
+        "name": "Đi Về Hướng... Tây Bắc",
+        "desc": "Trên mô hình hành tinh của Jarilo-VI tìm... ừm... Pom-Pom?",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052311,
+        "name": "Đội Gỡ Mìn",
+        "desc": "Giải quyết nguy cơ Trạm Cáp Treo Belobog, đồng thời tránh tình trạng nguy hiểm về đạo đức",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080605,
+        "name": "Nơi Giấc Mơ Bắt Đầu",
+        "desc": "Quay về phòng từng chứa Stellaron, khơi gợi lại một phần ký ức mờ nhạt.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052312,
+        "name": "Sự Hấp Tấp Của Người Nóng Vội",
+        "desc": "Tìm thấy Trung Khu Ngôn Ngữ Logic, đồng thời giao nó cho Thợ Cơ Khí Nghiệp Dư Fidora",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080606,
+        "name": "Đứa Trẻ Ngoan Thành Thật",
+        "desc": "Vượt qua khảo nghiệm đạo đức do nhà nghiên cứu thần bí đưa ra.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052313,
+        "name": "Hiệu Ứng Mandela",
+        "desc": "Tiếp xúc \"hẻm sau\" của Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052314,
+        "name": "Tuy Bẩn Nhưng Ăn Vào Không Bệnh",
+        "desc": "Khi nói chuyện với Gertie, chủ Siêu Khách Sạn Goethe, nhận menu cơm chiên.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052315,
+        "name": "La La Land",
+        "desc": "Lấy bản nhạc phổ của Máy Hát trong khi trò chuyện với nữ diễn viên Tamila ở Nhà Hát Hoàng Kim",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052316,
+        "name": "Cạm Bẫy Thành Everwinter",
+        "desc": "Nghe hoàn chỉnh 1 lần Rap Kẻ Lang Thang",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052317,
+        "name": "Dành Cho <unbreak>12</unbreak> Tuổi Trở Lên",
+        "desc": "Tham gia \"Cuộc Thi Nắm Đấm Đen Tối\" và giành chiến thắng cuối cùng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052349,
+        "name": "Múa Như Bướm, Chích Như Ong",
+        "desc": "Xưng Bá 5 Giải Đấu Siêu Cấp Boulder",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4052318,
+        "name": "Cuồng đồ ngoài vòng pháp luật",
+        "desc": "Khai quật kho báu giấu trong đài phun nước của Belobog - Khu Hành Chính",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052319,
+        "name": "Cái Ác Tầm Thường",
+        "desc": "Trong nhiệm vụ Rương Của Kẻ Tầm Thường hoàn thành tất cả câu đố Rương Kẻ Ngốc",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052320,
+        "name": "Chuột Chũi Thứ 4",
+        "desc": "Trong nhiệm vụ Đội Chuột Chũi Phiêu Lưu, tìm thấy tất cả rương ẩn",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052321,
+        "name": "Bản Trưởng Thành Siêu Cấp \"Đội Chuột Chũi Phiêu Lưu\"",
+        "desc": "Tại tiệm sách của Belobog mua \"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052323,
+        "name": "Cuộc Sống Giản Dị",
+        "desc": "Sau khi hoàn thành nhiệm vụ Sa Thải, nhận được tin nhắn báo cáo tình hình gần đây của Luhui",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052324,
+        "name": "Một Hồi Dũng Mãnh, Hai Hồi Giảm, Ba Hồi Cạn",
+        "desc": "Sau khi hoàn thành nhiệm vụ \"Vừa Thầy Vừa Bạn\", nhận được tất cả tin nhắn nhiệt tình giảm sút của Chengjie",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052325,
+        "name": "Lừa Gạt Trên Mạng",
+        "desc": "Trong nhiệm vụ \"Câu Chuyện Tình Yêu Từ Xianzhou\", chọn để Hồ Tiên tự thú",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052326,
+        "name": "Tootsie",
+        "desc": "Trong nhiệm vụ \"Câu Chuyện Tình Yêu Từ Xianzhou\", chọn để Hồ Tiên công khai thân phận thật sự",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052327,
+        "name": "Bí Mật Làm Nên Phụ Nữ",
+        "desc": "Trong nhiệm vụ \"Câu Chuyện Tình Yêu Từ Xianzhou\", chọn để Hồ Tiên tiếp tục thần bí",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052328,
+        "name": "7 Sự Cố Của Chim Robot: Lười Biếng",
+        "desc": "Thuyết phục Chim Robot \"buồn\" quay lại làm việc",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052329,
+        "name": "Ngàn chim trên cây, không bằng bảy chim trong tay",
+        "desc": "Giúp Chuyển Phát Nhanh Hạc Vận tìm lại tất cả Chim Robot đi lạc",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052330,
+        "name": "Có Cớ Ra Tay",
+        "desc": "Đường hoàng chiến thắng cuộc thi Vua Dạ Dày Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052331,
+        "name": "Dùng Mưu Phá Kế",
+        "desc": "Chiến thắng cuộc thi Vua Dạ Dày Xianzhou Luofu bằng cách không quang minh chính đại lắm",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052332,
+        "name": "Thất Bại Ê Chề",
+        "desc": "Thất bại trong cuộc thi Vua Dạ Dày Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052333,
+        "name": "Thế Ngoại Xa Vời Đoạn Nhân Gian",
+        "desc": "Nói chuyện với Tiên Trong Hũ, lấy được quà đáp lễ từ trong hũ",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052334,
+        "name": "Vô Tư Khảng Khái Tan Theo Gió",
+        "desc": "Nói chuyện với Tiên Trong Hũ, từ chối quà đáp lễ của tiên nhân",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052335,
+        "name": "Người lập phương ra khỏi Xianzhou",
+        "desc": "Hoàn thành khiêu chiến 15 Khối Lục Giác trong Bí Hội Lập Phương",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052336,
+        "name": "Lấy thứ này để thử thách ta à",
+        "desc": "Hoàn thành khiêu chiến 15 Khối Lục Giác phiên bản mới trong Bí Hội Lập Phương",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052337,
+        "name": "Công Việc Bận Rộn",
+        "desc": "Tại Phủ Thần Sách, xem tủ hồ sơ 7 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052338,
+        "name": "Khi Cầu Nguyện Kết Thúc",
+        "desc": "Ngăn du khách kỳ quái ném đồng xu vào Động Cơ Thuyền Sao",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052339,
+        "name": "Hủy Chuyến Bay",
+        "desc": "Giúp du khách kỳ quái ném đồng xu vào Động Cơ Thuyền Sao",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052340,
+        "name": "Trở Về",
+        "desc": "Thu hồi điểm tín dụng bị lừa từ chỗ kẻ lừa đảo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052341,
+        "name": "Không Thu Nhặt",
+        "desc": "Không thu hồi điểm tín dụng bị lừa từ chỗ kẻ lừa đảo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052342,
+        "name": "Lòng Tham Không Đáy",
+        "desc": "Đòi quá mức điểm tín dụng bị lừa từ chỗ kẻ lừa đảo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052343,
+        "name": "7 Sự Cố Của Chim Robot: Sắc Dục",
+        "desc": "Đi theo Chim Robot Quý Tộc và tìm thấy tập vẽ bị hải quan giữ lại",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052344,
+        "name": "7 Sự Cố Của Chim Robot: Ham Ăn",
+        "desc": "Hoàn thành 1 lần đánh cược với Chim Robot",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052345,
+        "name": "7 Sự Cố Của Chim Robot: Tham Lam",
+        "desc": "Khám phá Núi Chuyển Phát Nhanh được Ác Long bảo vệ",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052346,
+        "name": "7 Sự Cố Của Chim Robot: Đố Kỵ",
+        "desc": "Hoàn thành khiêu chiến Chim Robot Oán Giận",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052347,
+        "name": "7 Sự Cố Của Chim Robot: Bạo Nộ",
+        "desc": "Cùng Chim Robot Dũng Cảm chiến thắng ác đồ cản đường",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052348,
+        "name": "7 Sự Cố Của Chim Robot: Ngạo Mạn",
+        "desc": "Hoàn thành khiêu chiến \"Tứ Đại Ác Nhân Luofu\" (tự xưng)",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "6": {
+    "name": "Vinh Quang Bất Khuất",
+    "achievements": [
+      {
+        "id": 4060101,
+        "name": "Trăm Ảnh Thoáng Qua 1",
+        "desc": "Đánh bại Hư Ảnh Ngưng Đọng 100 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060102,
+        "name": "Trăm Ảnh Thoáng Qua 4",
+        "desc": "Đánh bại Hư Ảnh Ngưng Đọng 400 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060103,
+        "name": "Trăm Ảnh Thoáng Qua 8",
+        "desc": "Đánh bại Hư Ảnh Ngưng Đọng 800 lần",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060201,
+        "name": "Hoa Quỷ Ngân Hà (1)",
+        "desc": "Đánh bại Đài Hoa Nhân Tạo 100 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060202,
+        "name": "Hoa Quỷ Ngân Hà (2)",
+        "desc": "Đánh bại Đài Hoa Nhân Tạo 500 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060203,
+        "name": "Hoa Quỷ Ngân Hà (3)",
+        "desc": "Đánh bại Đài Hoa Nhân Tạo 1000 lần",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060301,
+        "name": "Bóng Ma Hang Động (1)",
+        "desc": "Vượt ải Hang Động Xâm Thực 100 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060302,
+        "name": "Bóng Ma Hang Động (2)",
+        "desc": "Vượt ải Hang Động Xâm Thực 400 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060303,
+        "name": "Bóng Ma Hang Động (3)",
+        "desc": "Vượt ải Hang Động Xâm Thực 800 lần",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060401,
+        "name": "Dư Âm Chiến Đấu (1)",
+        "desc": "Vượt ải Dư Âm Chiến Đấu 1 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060402,
+        "name": "Dư Âm Chiến Đấu (2)",
+        "desc": "Vượt ải Dư Âm Chiến Đấu 10 lần",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "7": {
+    "name": "Chiến Ý Sục Sôi",
+    "achievements": [
+      {
+        "id": 4070101,
+        "name": "Không Thể Cản Phá",
+        "desc": "Liên tục thi triển 4 lần Tuyệt Kỹ",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070201,
+        "name": "Phá Thủ",
+        "desc": "Trong 1 trận phá vỡ Điểm Yếu #2[i] lần cho cùng 1 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070301,
+        "name": "Cú Đấm Mạnh Mẽ",
+        "desc": "Gây sát thương từ 1000 điểm trở lên trong 1 lần tấn công",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070302,
+        "name": "Bành Trướng Sức Mạnh",
+        "desc": "Gây sát thương từ 20000 điểm trở lên trong 1 lần tấn công",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070303,
+        "name": "Phá Hủy Hoàn Toàn",
+        "desc": "Gây sát thương từ 150000 điểm trở lên trong 1 lần tấn công",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070401,
+        "name": "Cú Đấm Liên Hoàn",
+        "desc": "1 lần tấn công gây 2000 điểm sát thương",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070402,
+        "name": "Thần Kiếm Thái Hư",
+        "desc": "1 lần tấn công gây 40000 điểm sát thương",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070403,
+        "name": "Diệt Thế Chấn Động",
+        "desc": "1 lần tấn công gây 300000 điểm sát thương",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070421,
+        "name": "Nhóm Gây Thương Tích",
+        "desc": "Lượng trị liệu mà nhân vật phe ta cung cấp trong 1 lần trên 8000 điểm",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070441,
+        "name": "Thành Lũy",
+        "desc": "Tổng lượng Khiên của 1 nhân vật trên 5000 điểm",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070501,
+        "name": "Bài Ca Băng Và Lửa",
+        "desc": "Khiến 1 kẻ địch đồng thời rơi vào hai trạng thái Đóng Băng và Thiêu Đốt",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070502,
+        "name": "Hồi Ức, Bi Thương Và Gai Góc",
+        "desc": "Khiến 1 kẻ địch cùng lúc rơi vào <unbreak>#2[i]</unbreak> trạng thái sát thương duy trì",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070601,
+        "name": "Giấc Mơ Điện Tử",
+        "desc": "Trong 1 trận, tiêu diệt 3 kẻ địch với sát thương phá vỡ thuộc tính Lôi",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070602,
+        "name": "<unbreak>451</unbreak>° F",
+        "desc": "Trong 1 trận, tiêu diệt 3 kẻ địch với sát thương phá vỡ thuộc tính Hỏa",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070603,
+        "name": "Gió Mặt Trời",
+        "desc": "Trong 1 trận, tiêu diệt 3 kẻ địch với sát thương phá vỡ thuộc tính Phong",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070604,
+        "name": "Người Bị Hủy Diệt",
+        "desc": "Trong 1 trận, tiêu diệt 3 kẻ địch với sát thương phá vỡ thuộc tính Vật Lý",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070605,
+        "name": "Phá Trận Lôi I",
+        "desc": "Tiêu diệt 20 kẻ địch với sát thương phá vỡ thuộc tính Lôi",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070606,
+        "name": "Phá Trận Lôi II",
+        "desc": "Tiêu diệt 60 kẻ địch với sát thương phá vỡ thuộc tính Lôi",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070607,
+        "name": "Phá Trận Hỏa I",
+        "desc": "Tiêu diệt 20 kẻ địch với sát thương phá vỡ thuộc tính Hỏa",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070608,
+        "name": "Phá Trận Hỏa II",
+        "desc": "Tiêu diệt 60 kẻ địch với sát thương phá vỡ thuộc tính Hỏa",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070609,
+        "name": "Phá Trận Phong I",
+        "desc": "Tiêu diệt 20 kẻ địch với sát thương phá vỡ thuộc tính Phong",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070610,
+        "name": "Phá Trận Phong II",
+        "desc": "Tiêu diệt 60 kẻ địch với sát thương phá vỡ thuộc tính Phong",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070611,
+        "name": "Phá Trận Vật Lý I",
+        "desc": "Tiêu diệt 20 kẻ địch với sát thương phá vỡ thuộc tính Vật Lý",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070612,
+        "name": "Phá Trận Vật Lý II",
+        "desc": "Tiêu diệt 60 kẻ địch với sát thương phá vỡ thuộc tính Vật Lý",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070701,
+        "name": "Gặp Chuyện Không Quyết, Vật Lý Lượng Tử",
+        "desc": "Trong 1 trận gây Phá Vỡ Điểm Yếu Lượng Tử 5 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070702,
+        "name": "Phương Trình Lạnh Lẽo",
+        "desc": "Trong 1 trận gây Phá Vỡ Điểm Yếu Băng 5 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070703,
+        "name": "Số Ảo Không Thể Lý Giải Tất Cả",
+        "desc": "Trong 1 trận gây Phá Vỡ Điểm Yếu Số Ảo 5 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070704,
+        "name": "Phá Trận Lượng Tử I",
+        "desc": "Kích hoạt tích lũy 100 lần hiệu ứng Phá Vỡ thuộc tính Lượng Tử",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070705,
+        "name": "Phá Trận Lượng Tử II",
+        "desc": "Kích hoạt tích lũy 300 lần hiệu ứng Phá Vỡ thuộc tính Lượng Tử",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070706,
+        "name": "Phá Trận Băng I",
+        "desc": "Kích hoạt tích lũy 100 lần hiệu ứng Phá Vỡ thuộc tính Băng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070707,
+        "name": "Phá Trận Băng II",
+        "desc": "Kích hoạt tích lũy 300 lần hiệu ứng Phá Vỡ thuộc tính Băng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070708,
+        "name": "Phá Trận Số Ảo I",
+        "desc": "Kích hoạt tích lũy 100 lần hiệu ứng Phá Vỡ thuộc tính Số Ảo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070709,
+        "name": "Phá Trận Số Ảo II",
+        "desc": "Kích hoạt tích lũy 300 lần hiệu ứng Phá Vỡ thuộc tính Số Ảo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070801,
+        "name": "Giáng Đòn Phủ Đầu",
+        "desc": "Sử dụng sát thương Bí Kỹ tiêu diệt 1 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070802,
+        "name": "Phá Trận Bí Kỹ I",
+        "desc": "Tích lũy sử dụng sát thương Bí Kỹ tiêu diệt 10 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070803,
+        "name": "Thủ Thuật Xạ Kích Mozambique",
+        "desc": "Trong 1 trận dùng đòn tấn công tăng cường để tiêu diệt 3 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070804,
+        "name": "Phá Trận Truy Kích I",
+        "desc": "Tích lũy sử dụng đòn tấn công tăng cường để tiêu diệt 80 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070805,
+        "name": "Phá Trận Truy Kích II",
+        "desc": "Tích lũy sử dụng đòn tấn công tăng cường để tiêu diệt 240 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070806,
+        "name": "Một Thanh Đao Nhỏ...",
+        "desc": "Trong 1 trận tiêu diệt 3 kẻ địch bằng sát thương duy trì",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070807,
+        "name": "Phá Trận Sát Thương I",
+        "desc": "Tích lũy sử dụng sát thương duy trì tiêu diệt 80 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070808,
+        "name": "Phá Trận Sát Thương II",
+        "desc": "Tích lũy sử dụng sát thương duy trì tiêu diệt 240 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070810,
+        "name": "Vô Ý Mạo Phạm",
+        "desc": "Trong 1 trận, tích lũy giải trừ 5 lần hiệu ứng buff của kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070812,
+        "name": "Người Đuổi Quỷ",
+        "desc": "Trong 1 trận, tích lũy giải trừ 5 lần Hiệu Ứng Xấu cho mục tiêu phe ta",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071001,
+        "name": "Máy Đóng Băng",
+        "desc": "Đóng băng liên tục 1 kẻ địch <unbreak>#2[i]</unbreak> hiệp",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071002,
+        "name": "Kẻ Hấp Hối Chào Bạn",
+        "desc": "Tiêu diệt địch trong điều kiện có 1 nhân vật bất kỳ HP dưới 1%",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071003,
+        "name": "Để Ta Đương Đầu",
+        "desc": "Khi 4 nhân vật vào chiến đấu, sau khi chiến thắng chỉ có <unbreak>#2[i]</unbreak> nhân vật còn có thể chiến đấu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071004,
+        "name": "Tất Cả Phải Chết",
+        "desc": "Chịu đòn tấn công chí mạng từ kẻ địch trong tình trạng HP đủ 100%",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071005,
+        "name": "Bệ Năng Lượng",
+        "desc": "Một nhân vật bất kỳ duy trì Năng Lượng ở mức 100% khi bắt đầu mỗi hiệp, liên tục <unbreak>4</unbreak> hiệp.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071006,
+        "name": "Hoa Qua Thành Phố Chết",
+        "desc": "Trong 1 trận, khiến 2 nhân vật ở trạng thái không thể chiến đấu khôi phục về trạng thái chiến đấu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071007,
+        "name": "Giậu Đổ Bìm Leo",
+        "desc": "Trong 1 trận đấu, tích lũy gây 20000 sát thương cho kẻ địch trong trạng thái Phá Vỡ Điểm Yếu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071008,
+        "name": "Thương Vong Giáp Trụ",
+        "desc": "Trong 1 trận đấu, 1 nhân vật chịu tích lũy 10000 sát thương",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071009,
+        "name": "Mỗi Đòn Kích Phá",
+        "desc": "Trong 1 lần hành động, gây Phá Vỡ Điểm Yếu cho 4 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071012,
+        "name": "Thiên Hòa",
+        "desc": "Dùng Bí Kỹ tiêu diệt toàn bộ địch sau khi vào chiến đấu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071013,
+        "name": "Chưa Chuẩn Bị Thì Không Đánh",
+        "desc": "Khi bắt đầu hiệp của một nhân vật bất kỳ, sở hữu cùng lúc 5 loại hiệu ứng buff trở lên",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071014,
+        "name": "Ngôi Sao Cực Tốc",
+        "desc": "Toàn phe ta trong 1 trận tích lũy hành động 100 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071015,
+        "name": "Sinh Tồn Khắc Nghiệt",
+        "desc": "Chiến thắng khi 4 nhân vật trong đội cùng có Phần Trăm HP từ 0% trở xuống",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071016,
+        "name": "Thời Gian Viên Đạn",
+        "desc": "Đơn vị địch không hành động trong thời gian đơn vị phe ta hành động 10 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071017,
+        "name": "Bài Ca Diệt Vong",
+        "desc": "Trong chiến đấu, cùng hủy diệt với phe địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071018,
+        "name": "Dao Trâu Giết Gà",
+        "desc": "Trong 1 lần tấn công, gây #2[i] điểm sát thương trở lên cho kẻ địch có Phần Trăm HP hiện tại nhỏ hơn hoặc bằng <unbreak>0%</unbreak>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071401,
+        "name": "Đặc Quyền Nhân Vật Chính",
+        "desc": "Trong 1 trận, sử dụng Nhà Khai Phá Vận Mệnh Hủy Diệt gây Phá Vỡ Điểm Yếu 3 lần lên kẻ địch",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071501,
+        "name": "Xoay 4 Vòng Rưỡi",
+        "desc": "Sau khi mục tiêu phe ta gây ra đòn tấn công đơn, Herta sẽ kích hoạt xoay Thiên Phú 5 vòng",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071502,
+        "name": "Sóng Cuộn",
+        "desc": "Dùng Qingque ở trạng thái \"Khung Xám\" khi bắt đầu trong 3 hiệp liên tục",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071503,
+        "name": "Hiệp Của Tôi",
+        "desc": "Trước khi nhân vật kế tiếp của phe ta hành động, khiến Seele liên tục hành động 5 lần",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071504,
+        "name": "<unbreak>13</unbreak> Thí Luyện",
+        "desc": "Trong 1 trận đấu, khiến Svarog giúp Clara đỡ đòn tấn công 13 lần.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071505,
+        "name": "Người Yêu Thích Cà Phê",
+        "desc": "Mỗi Sáng Trưa Tối Một Ly Cà Phê, Sảng Khoái\\n<color=#8790abff>※Trong 1 trận đấu, dùng Himeko thi triển Tuyệt Kỹ 3 lần</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071506,
+        "name": "Phòng Vệ Quá Độ",
+        "desc": "Chiến thắng 1 trận khi Khiên do nhân vật phe ta Gepard thi triển, không bị bất cứ tổn thất nào",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071603,
+        "name": "Khi Quốc Ca Vang Vọng",
+        "desc": "Dùng nhân vật phe ta Bronya thi triển 1 lần \"Khúc Quân Hành Belobog\" khi đối chiến với Gepard, Cocolia và Bronya.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071607,
+        "name": "Cậu Em Ngu Ngốc Của Tôi...",
+        "desc": "Dùng nhân vật phe ta Serval hoàn thành đòn chiến thắng cuối cùng, khi đối chiến với Gepard",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071608,
+        "name": "Cho Người Bạn Cùng Bàn",
+        "desc": "Dùng nhân vật phe ta Serval hoàn thành đòn chiến thắng cuối cùng, khi đối chiến với Cocolia",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071609,
+        "name": "Còn Cô, Bronya?",
+        "desc": "Dùng nhân vật phe ta Bronya hoàn thành đòn chiến thắng cuối cùng, khi đối chiến với Cocolia",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071610,
+        "name": "Nghe Ta Nói...",
+        "desc": "Dùng Nhà Khai Phá đối chiến Kafka, đồng thời rơi vào trạng thái \"Chi Phối\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072001,
+        "name": "Không Nói Lý Lẽ",
+        "desc": "Trong đội có 4 nhân vật chọc giận Hư Ảnh Đấng Bảo Vệ",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072002,
+        "name": "Công Bằng Và Lý Lẽ",
+        "desc": "Tiêu diệt Hư Ảnh Đấng Bảo Vệ mà không chọc giận nó",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072003,
+        "name": "Cường Công! Bất Cứ Giá Nào!",
+        "desc": "Kích hoạt trên 4 lần Hiệu Úy Bờm Bạc \"Khiên Phản\", đồng thời đánh bại nó",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072004,
+        "name": "Bắt Giặc Phải Bắt Đầu Sỏ",
+        "desc": "Trong điều kiện không tiêu diệt Thiết Vệ Bờm Bạc, đánh bại Hiệu Úy Bờm Bạc",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072008,
+        "name": "Sói Què",
+        "desc": "Trong điều kiện không kích hoạt \"Lệnh Đốn Ngã\", đánh bại Cỗ Máy Tự Động \"Sói Nanh Nhọn\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072012,
+        "name": "Nhai Lại",
+        "desc": "Khiến Kẻ Lang Thang Lạnh Giá \"Sinh Vật Nuốt Chửng\" thất bại",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072013,
+        "name": "Đánh Người Phải Lựa Chỗ Đau",
+        "desc": "Trong \"Dư Âm Chiến Đấu\", với điều kiện không tiêu diệt đôi tay của Quái Thú Tận Thế, đánh bại Động Cơ Phản Vật Chất",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072014,
+        "name": "Tai Ương Chưa Đến",
+        "desc": "Trong \"Dư Âm Chiến Đấu\", ngăn cản Quái Thú Tận Thế thi triển \"Tận Thế Sắp Đến\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072016,
+        "name": "Thiết Vệ Đáng Yêu",
+        "desc": "Trong điều kiện không tiêu diệt Thiết Vệ Bờm Bạc, đánh bại Bronya",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072017,
+        "name": "Đánh Vào Trọng Điểm",
+        "desc": "Tiêu diệt Chiến Binh Hư Không - Kẻ Chà Đạp khi hắn nhắm vào nhân vật phe ta",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072018,
+        "name": "Không Có Mục Tiêu",
+        "desc": "Khiến Kẻ Mời Gió thi triển kỹ năng \"Mũi Tên Bão Tố\" thất bại, vì trong trận không có mục tiêu nào của phe ta rơi vào trạng thái Bào Mòn",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072019,
+        "name": "Lý Tưởng Kỵ Sĩ",
+        "desc": "Đánh bại Gepard với điều kiện không tiêu diệt Thiết Vệ Bờm Bạc được triệu hồi",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072020,
+        "name": "Lớp Giáp Kim Loại",
+        "desc": "Sống sót sau khi bị kỹ năng Kích Nổ Kiểm Soát của Cánh Tay Robot Hỗ Trợ tấn công",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072022,
+        "name": "Vai Trái Tay Phải, Tay Phải Và Tay Phải",
+        "desc": "Trong điều kiện tiêu diệt 4 Cánh Tay Robot Hỗ Trợ, đánh bại Svarog",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072023,
+        "name": "Đá Xay Nhà Làm",
+        "desc": "Tiêu diệt Mũi Băng mà Cocolia triệu hồi 4 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072024,
+        "name": "Canossa Hối Lỗi",
+        "desc": "Làm gián đoạn việc thi triển kỹ năng \"Cơn Thịnh Nộ Của Thánh Đồ Vương Quốc Tuyết\" khi Cocolia tụ lực",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072026,
+        "name": "Nợ Ai Nấy Trả",
+        "desc": "Trong điều kiện không đánh bại Bronya, đánh bại Cocolia",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072027,
+        "name": "Lồng Ngực Lửa Cháy",
+        "desc": "Trong \"Dư Âm Chiến Đấu\", với điều kiện phe ta không ai bị Đóng Băng suốt quá trình, đánh bại Cocolia, Người Mẹ Hư Vô",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072101,
+        "name": "Mất Trí Đột Ngột",
+        "desc": "Xóa \"Ký Ức Khắc Ghi\" của Hư Ảnh Kẻ Xâm Chiếm, khiến đối phương thất bại khi thi triển \"Phóng Thích Năm Tháng Huy Hoàng\".",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072103,
+        "name": "Robot Sao Lại Sát Thương Robot",
+        "desc": "Dùng \"Hoa Nến\" do Cơ Giáp Nhập Ma - Cá Rồng Đèn thi triển tiêu diệt Gác Cổng Kim Nhân",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072104,
+        "name": "Kim Nhân Giận Dữ",
+        "desc": "Trong 1 trận đấu, tích lũy khiến Gác Cổng Kim Nhân vào trạng thái bạo nộ 3 lần",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072105,
+        "name": "Ý Chí Gang Thép",
+        "desc": "Trong 1 trận đấu, tích lũy giải trừ 3 lần trạng thái \"Chi Phối\" do Kafka thi triển.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "8": {
+    "name": "Vui Vẻ Phút Chốc",
+    "achievements": [
+      {
+        "id": 4080101,
+        "name": "Tuần Trái Đất",
+        "desc": "Đăng nhập liên tục 7 ngày",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4082303,
+        "name": "Tháng Trái Đất",
+        "desc": "Đăng nhập tích lũy 30 ngày",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4082301,
+        "name": "Năm Trái Đất",
+        "desc": "Đăng nhập tích lũy 365 ngày",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4080301,
+        "name": "Địa Đàng Diogenes",
+        "desc": "Danh thiếp khám phá Belobog!\\n<color=#8790abff>※Đồ vật còn xài được trong thùng rác đều vô túi của bạn!</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080302,
+        "name": "Không Thể Đủ Đầy",
+        "desc": "Có lúc quá đầy đủ cũng không phải chuyện tốt...\\n<color=#8790abff>※Dùng 1 lần \"Thuốc Gây Nôn\"</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080303,
+        "name": "Mùi Vị Tệ Hại",
+        "desc": "Ngay cả một mảnh rác cũng có công dụng của nó\\n<color=#8790abff>※Tích lũy dùng \"rác\" để ghép vật tiêu hao 10 lần</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080304,
+        "name": "Nghiệp Báo",
+        "desc": "Hãy để sự tồn tại cao cả trong tim chúng tôi cũng phải lắc đầu thở dài với bạn\\n<color=#8790abff>※Nghĩ cách dùng hết \"Lời Khen Cao Thượng\"</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080305,
+        "name": "Thánh Nhân",
+        "desc": "Hãy để sự tồn tại cao cả trong tim chúng tôi giơ ngón cái lên \"like\"\\n<color=#8790abff>※Tích lũy nhận 20 lần \"Lời Khen Cao Thượng\"</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070901,
+        "name": "Ba Người Một Đội",
+        "desc": "Chiến thắng với điều kiện trong đội có 3 nhân vật cùng Vận Mệnh",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072305,
+        "name": "Joker Đa Năng",
+        "desc": "Tích lũy dùng 20 nhân vật tổ đội cùng Sampo, đồng thời chiến thắng ít nhất 1 trận.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070902,
+        "name": "Match-3",
+        "desc": "Chiến thắng với điều kiện trong đội có 3 nhân vật cùng thuộc tính",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071601,
+        "name": "Người Nhà-Tương Thân Tương Ái",
+        "desc": "Chiến thắng 1 trận khi thiết lập đội 4 người gồm Himeko, Welt, Dan Heng, March 7th",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080501,
+        "name": "Nhà Khai Phá Máu Lửa",
+        "desc": "Chọn lựa chọn máu lửa trong các đoạn đối thoại 5 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071602,
+        "name": "Đấng Kiến Tạo (Và Đấng Kiến Tạo Tiền Nhiệm)",
+        "desc": "Chiến thắng 1 trận khi thiết lập đội 4 người gồm Bronya, Gepard, Pela, Serval",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080502,
+        "name": "Nhà Khai Phá Bi Quan",
+        "desc": "Chọn lựa chọn bi quan trong các đoạn đối thoại 5 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080503,
+        "name": "Nhà Khai Phá Có Lỗi",
+        "desc": "Chọn lựa chọn xin lỗi trong các đoạn đối thoại 5 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080504,
+        "name": "Nhà Khai Phá Trầm Tư",
+        "desc": "Chọn lựa chọn trầm tư trong các đoạn đối thoại 5 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080505,
+        "name": "Máy Lặp Lại",
+        "desc": "Chọn lựa chọn lặp lại lời nói trong các đoạn đối thoại 3 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080506,
+        "name": "Ý Nghĩa Lựa Chọn",
+        "desc": "Chọn lựa chọn dành riêng cho mỗi giới tính trong các đoạn đối thoại 3 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070903,
+        "name": "Sói Đơn Độc",
+        "desc": "Chiến thắng 10 trận khi trong đội chỉ có 1 nhân vật",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070904,
+        "name": "Gửi Chúa Tể Amber",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật Vận Mệnh Bảo Hộ",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070905,
+        "name": "Thanh Tẩy Thế Giới",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật Vận Mệnh Hủy Diệt",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070906,
+        "name": "Liên Minh Xianzhou",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật Vận Mệnh Săn Bắn",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070907,
+        "name": "Thành Tựu Vô Nghĩa",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật Vận Mệnh Hư Vô",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070908,
+        "name": "Hòa Hợp Vô Tận",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật Vận Mệnh Hòa Hợp",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070909,
+        "name": "Tri Thức Là Sức Mạnh",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật Vận Mệnh Tri Thức",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070910,
+        "name": "Kỳ Tích Yaoshi",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật Vận Mệnh Trù Phú",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070911,
+        "name": "Cuồng Phong Thần Phục",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật thuộc tính Phong",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070912,
+        "name": "Sấm Sét Triệu Hồi",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật thuộc tính Lôi",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070913,
+        "name": "Lửa Thiêu Tàn Lụi",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật thuộc tính Hỏa",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070914,
+        "name": "Chủ Nhân Băng Giá",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật thuộc tính Băng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070915,
+        "name": "Thử Nghiệm Lượng Tử",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật thuộc tính Lượng Tử",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070916,
+        "name": "Quy Luật Số Ảo",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật thuộc tính Số Ảo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070917,
+        "name": "Nói Chuyện Bằng Nắm Đấm",
+        "desc": "Chiến thắng #2[i] trận khi trong đội có <unbreak>4</unbreak> nhân vật thuộc tính Vật Lý",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "9": {
+    "name": "Vũ Trụ Trong Vỏ Quả",
+    "achievements": [
+      {
+        "id": 4090201,
+        "name": "Tự Do Lần Đầu Và Cũng Là Cuối Cùng",
+        "desc": "Trong Vũ Trụ Mô Phỏng, khi vào chiến đấu, Phần Trăm HP hiện tại của 4 nhân vật phe ta đều từ <unbreak>#2[i]%</unbreak> trở xuống",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090202,
+        "name": "Nghệ Thuật Tình Yêu",
+        "desc": "Trong chiến đấu Vũ Trụ Mô Phỏng, số lần tích lũy nhận Khiên của tất cả nhân vật phe ta đạt 50",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090203,
+        "name": "Không Được Nhúc Nhích!",
+        "desc": "Trong chiến đấu Vũ Trụ Mô Phỏng, khiến 1 kẻ địch bất kỳ Đóng Băng trong 10 hiệp",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090204,
+        "name": "Cơ Chế Phản Ứng Nguyên Tố",
+        "desc": "Trong chiến đấu Vũ Trụ Mô Phỏng, một lần tấn công gây cho kẻ địch 5 loại sát thương thuộc tính trở lên",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090205,
+        "name": "Đối Thủ Của Bạn Kết Nối Mạng Yếu",
+        "desc": "Trong chiến đấu Vũ Trụ Mô Phỏng, tất cả nhân vật phe ta tích lũy hành động liên tục 20 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090206,
+        "name": "<unbreak>24</unbreak> Bài Thơ Tình Và 1 Bài Ca Tuyệt Vọng",
+        "desc": "Khi chiến thắng Vũ Trụ Mô Phỏng, Phần Trăm HP hiện tại của tất cả nhân vật phe ta từ 0% trở xuống",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090207,
+        "name": "Trái Tim Nhảy Múa Trong Bóng Đêm Là Mặt Trăng",
+        "desc": "Trong chiến đấu của Vũ Trụ Mô Phỏng, khiến tối thiểu 3 kẻ địch cùng lúc rơi vào 4 loại Hiệu Ứng Xấu Sốc Điện, Thiêu Đốt, Chảy Máu, Bào Mòn",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090301,
+        "name": "Ngủ Ngon Nào Bạn Tôi",
+        "desc": "Trong Vũ Trụ Mô Phỏng, tích lũy tiêu diệt 15 kẻ địch",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090303,
+        "name": "Người Chơi Hạng Nhất",
+        "desc": "Trong Vũ Trụ Mô Phỏng, tích lũy tiêu diệt 1000 kẻ địch",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4090501,
+        "name": "Tâm Lý Học Chủ Nghĩa Tiêu Dùng",
+        "desc": "Tích lũy nhận 500 Mảnh Vũ Trụ",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090503,
+        "name": "Ông Trùm Thương Mại Giỏi Giang",
+        "desc": "Tích lũy nhận 20000 Mảnh Vũ Trụ",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4091001,
+        "name": "Trải Nghiệm Đặc Biệt",
+        "desc": "Trong Vũ Trụ Mô Phỏng, tích lũy gặp 10 lần sự kiện đặc biệt",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4091003,
+        "name": "Trải Nghiệm Không Đặc Biệt Lắm",
+        "desc": "Trong Vũ Trụ Mô Phỏng, tích lũy gặp 100 lần sự kiện đặc biệt",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092301,
+        "name": "Căn Phòng Riêng",
+        "desc": "Hoàn thành khám phá \"Vũ Trụ Mô Phỏng - Thế Giới 1\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092302,
+        "name": "Bậc Thang Penrose",
+        "desc": "Hoàn thành khám phá \"Vũ Trụ Mô Phỏng\" độ khó 2 trở lên",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092303,
+        "name": "Bá Chủ Không Gian",
+        "desc": "Hoàn thành khám phá \"Vũ Trụ Mô Phỏng\" độ khó 4 trở lên",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092312,
+        "name": "Phá Vỡ Cuồng Nhiệt",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", phá vỡ 20 lần Vật Có Thể Phá Hủy",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092313,
+        "name": "Búp Hoa Hồng",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", phá vỡ 400 lần Vật Có Thể Phá Hủy",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092314,
+        "name": "Nhịp Độ Cao",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy chủ động cường hóa 10 lần Chúc Phúc",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092315,
+        "name": "May Mắn Lây Lan",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy chủ động cường hóa 200 lần Chúc Phúc",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092316,
+        "name": "Ốc Android Có Mơ Về Cây Điện Không...",
+        "desc": "Trong Cây Kỹ Năng, tích lũy kích hoạt kỹ năng 2 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092317,
+        "name": "Cao Thủ Trèo Cây",
+        "desc": "Trong Cây Kỹ Năng, tích lũy kích hoạt kỹ năng 26 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092318,
+        "name": "Túi Thần Thông Của Ta",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy mở khóa 3 Vật Thể Lạ",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092319,
+        "name": "Vũ Trụ Ngàn Sao, Một Cuộc Chơi",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy mở khóa 40 Vật Thể Lạ",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092320,
+        "name": "Bóng Tinh Linh Của Ta Đâu?",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", bắt Heo Đất 1 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092321,
+        "name": "Đội Bóng Heo Xinh",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", bắt Heo Đất 66 lần",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092322,
+        "name": "Đừng Để Nó Chạy Mất!",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", thả Heo Đất 1 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092323,
+        "name": "Bản Chất Tồn Tại",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy mở khóa 12 Chúc Phúc Vận Mệnh \"Bảo Hộ\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092324,
+        "name": "Ký Ức Nhìn Thấy Tôi",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy mở khóa 12 Chúc Phúc Vận Mệnh \"Ký Ức\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092325,
+        "name": "Tạo Nên Sự Hỗn Loạn Tuyệt Đẹp",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy mở khóa 12 Chúc Phúc Vận Mệnh \"Vui Vẻ\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092326,
+        "name": "Tốc Độ Bành Trướng Vũ Trụ",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy mở khóa 12 Chúc Phúc Vận Mệnh \"Săn Bắn\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092327,
+        "name": "Vua Phá Hoại Vô Địch",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy mở khóa 12 Chúc Phúc Vận Mệnh \"Hủy Diệt\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092328,
+        "name": "Thuyết Ngộ Đạo",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy mở khóa 12 Chúc Phúc Vận Mệnh \"Hư Vô\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092329,
+        "name": "Hơi Thở",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", tích lũy mở khóa 12 Chúc Phúc Vận Mệnh \"Trù Phú\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092330,
+        "name": "Sâu Ngàn Năm Trong Hổ Phách",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Chúc Phúc Vận Mệnh \"Bảo Hộ\" mang theo lớn hơn hoặc bằng 10",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092331,
+        "name": "Bạn Nhìn Thấy Ký Ức",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Chúc Phúc Vận Mệnh \"Ký Ức\" mang theo lớn hơn hoặc bằng 10",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092332,
+        "name": "Vẽ Chơi Thôi, Không Cần Để Ý",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Chúc Phúc Vận Mệnh \"Vui Vẻ\" mang theo lớn hơn hoặc bằng 10",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092333,
+        "name": "Tốc Độ Dòng Suy Nghĩ",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Chúc Phúc Vận Mệnh \"Săn Bắn\" mang theo lớn hơn hoặc bằng 10",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092334,
+        "name": "Đừng Quay Đầu Nhìn Cháy Nổ",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Chúc Phúc Vận Mệnh \"Hủy Diệt\" mang theo lớn hơn hoặc bằng 10",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092335,
+        "name": "Bệnh Dịch Trong Ảo Tưởng",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Chúc Phúc Vận Mệnh \"Hư Vô\" mang theo lớn hơn hoặc bằng 10",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092336,
+        "name": "Hơi Thở Của Đại Thiên Sứ",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Chúc Phúc Vận Mệnh \"Trù Phú\" mang theo lớn hơn hoặc bằng 10",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092337,
+        "name": "Tâm Tính Thất Thường",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Vận Mệnh mang theo từ Chúc Phúc lớn hơn hoặc bằng 6",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092338,
+        "name": "Sân Khấu Sói Cô Độc",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", tổng số Chúc Phúc mang theo nhỏ hơn hoặc bằng 6 (Độ khó 2 trở lên)",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092339,
+        "name": "Nhà Sưu Tầm Cá Nhân",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", tổng số Chúc Phúc mang theo lớn hơn hoặc bằng 22",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092340,
+        "name": "3 Góc Chiến Lược",
+        "desc": "Trong \"Vũ Trụ Mô Phỏng\", dạng Sự Kiện Nildis 1 lần, lật bài đạt 3 lần",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092341,
+        "name": "Quả Cầu Đại Sư",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Vật Thể Lạ mang theo lớn hơn hoặc bằng 8",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092342,
+        "name": "Giấc Mộng Ban Ngày 4 Sao",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", có Mảnh Vũ Trụ nhỏ hơn hoặc bằng 0",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092343,
+        "name": "Có Tiền Thật Tốt!",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", có Mảnh Vũ Trụ lớn hơn hoặc bằng 1024",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092344,
+        "name": "Chòm Sao Thợ Săn Bùng Cháy",
+        "desc": "Thất bại khi chiến đấu với Kẻ Địch Tinh Anh trong \"Vũ Trụ Mô Phỏng\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092345,
+        "name": "Cổng Tannhauser Nhấp Nháy",
+        "desc": "Thất bại khi chiến đấu với Thủ Lĩnh Phe Địch trong \"Vũ Trụ Mô Phỏng\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092346,
+        "name": "Tỉnh Dậy Đi!",
+        "desc": "Thất bại khi chiến đấu trong \"Vũ Trụ Mô Phỏng\" Sự Kiện Nildis",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092347,
+        "name": "Giọt Lệ Trong Mưa",
+        "desc": "Thất bại khi chiến đấu trong \"Vũ Trụ Mô Phỏng\" Sự Kiện Quán Rượu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092349,
+        "name": "Console Game",
+        "desc": "Vượt ải \"Vũ Trụ Mô Phỏng\" trong điều kiện không dùng Thiết Bị Tải (Độ khó 2 trở lên)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092350,
+        "name": "Giá Như Tôi Có Thể Không Làm Tan Vỡ Một Trái Tim",
+        "desc": "Vượt ải \"Vũ Trụ Mô Phỏng\" trong điều kiện không phá hủy bất cứ Vật Có Thể Phá Hủy nào (Độ khó 2 trở lên)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092351,
+        "name": "Siêu Khách Sạn Budapest",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\" (Độ khó 2 trở lên), tích lũy thi triển 25 lần Bí Kỹ",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092352,
+        "name": "Aleph Là Vũ Trụ",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\" (Độ khó 2 trở lên), đội ra trận chỉ có 1 nhân vật",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092353,
+        "name": "Vào Một Đêm Sao Chổi Đến",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\" (Độ khó 2 trở lên), xuất chiến 4 nhân vật có Vận Mệnh giống nhau",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092361,
+        "name": "Game Này Không Có Cúp Bạch Kim À?",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\" (Từ độ khó 2 trở lên), mỗi trận thắng, HP hiện tại của tất cả nhân vật phe ta bằng Giới Hạn HP của từng người.",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  }
+}

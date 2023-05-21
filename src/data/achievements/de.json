@@ -1,0 +1,2434 @@
+{
+  "1": {
+    "name": "Ich, Trailblazer",
+    "achievements": [
+      {
+        "id": 4010101,
+        "name": "Ewig brennender Bernstein",
+        "desc": "Tritt auf den Pfad der Bewahrung.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010201,
+        "name": "Das Schicksal lockt (I)",
+        "desc": "Besitze 1 Lichtkegel der St. 40.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010202,
+        "name": "Das Schicksal lockt (II)",
+        "desc": "Besitze 1 Lichtkegel der St. 60.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010203,
+        "name": "Das Schicksal lockt (III)",
+        "desc": "Besitze 1 Lichtkegel der St. 80.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010103,
+        "name": "Es ist immer Zeit für die Liebe",
+        "desc": "Besitze 4 Lichtkegel der St. 80.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4080201,
+        "name": "Nicht zu einfach machen (I)",
+        "desc": "Erreiche Balance-Stufe 1.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010301,
+        "name": "Meine Kindheit",
+        "desc": "Erreiche Figurenstufe 40 mit einer beliebigen Figur.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080202,
+        "name": "Nicht zu einfach machen (II)",
+        "desc": "Erreiche Balance-Stufe 3.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010302,
+        "name": "Unter den Menschen",
+        "desc": "Erreiche Figurenstufe 60 mit einer beliebigen Figur.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080203,
+        "name": "Nicht zu einfach machen (III)",
+        "desc": "Erreiche Balance-Stufe 6.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010303,
+        "name": "Meine Universitäten",
+        "desc": "Erreiche Figurenstufe 80 mit einer beliebigen Figur.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010102,
+        "name": "Kein Kind mehr",
+        "desc": "Verstärke 4 Figuren auf St. 80.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010501,
+        "name": "Pfadspuren (I)",
+        "desc": "Aktiviere oder erhöhe die Spuren von Figuren 3-mal.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010502,
+        "name": "Pfadspuren (II)",
+        "desc": "Aktiviere oder erhöhe die Spuren von Figuren 20-mal.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010503,
+        "name": "Pfadspuren (III)",
+        "desc": "Aktiviere oder erhöhe die Spuren von Figuren 50-mal.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010504,
+        "name": "Pfadspuren (IV)",
+        "desc": "Aktiviere oder erhöhe die Spuren von Figuren 100-mal.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4012302,
+        "name": "Mehr geht nicht",
+        "desc": "Bringe alle Spuren einer beliebigen Figur auf die höchste Stufe.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010104,
+        "name": "Göttliche Relikte (IV)",
+        "desc": "Bringe ein 4-Sterne-Relikt auf die höchste Stufe.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010105,
+        "name": "Göttliche Relikte (V)",
+        "desc": "Bringe ein 5-Sterne-Relikt auf die höchste Stufe.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010401,
+        "name": "Bis an die Zähne bewaffnet",
+        "desc": "Bringe 4 Relikte auf St. 15.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4012301,
+        "name": "Hochgerüstete Kampfmaschine",
+        "desc": "Statte alle Reliktplätze einer beliebigen Figur mit 5-Sterne-Relikten der Stufe 15 aus.",
+        "rarity": 3,
+        "version": "1.0"
+      }
+    ]
+  },
+  "2": {
+    "name": "Spuren des Meteors",
+    "achievements": [
+      {
+        "id": 4022302,
+        "name": "Megareicher Lichtbändiger",
+        "desc": "Erhalte insgesamt 99999998 Credits.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020201,
+        "name": "Expresspassagier-Reiseführer durch die Galaxis",
+        "desc": "Erhalte 10 Figuren.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020202,
+        "name": "Register der Expresspassagiere",
+        "desc": "Erhalte 20 Figuren.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020203,
+        "name": "Die große interastrale Migration",
+        "desc": "Erhalte 50 Figuren.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020401,
+        "name": "Wellen auf dem Dirac-Meer (I)",
+        "desc": "Erhalte 10 Typen von Lichtkegeln.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020402,
+        "name": "Wellen auf dem Dirac-Meer (II)",
+        "desc": "Erhalte 20 Typen von Lichtkegeln.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020403,
+        "name": "Wellen auf dem Dirac-Meer (III)",
+        "desc": "Erhalte 40 Typen von Lichtkegeln.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020502,
+        "name": "Größter Schatz der Unterwelt",
+        "desc": "Erhalte ein 5-Sterne-Relikt.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020503,
+        "name": "Seltsame Fälschung",
+        "desc": "Erhalte 5 5-Sterne-Relikt(e) durch die Omni-Synthesemaschine.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020701,
+        "name": "Interastrales Friedens-Diamantmitglied",
+        "desc": "Erhalte insgesamt 1000000 Credits.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020702,
+        "name": "Interastrales Friedens-Diamantführungsmitglied",
+        "desc": "Erhalte insgesamt 10000000 Credits.",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  },
+  "3": {
+    "name": "Schienen zu den Sternen",
+    "achievements": [
+      {
+        "id": 4030101,
+        "name": "Mein Herz hängt an den Sternen",
+        "desc": "Starte eine Reise durch die riesige Galaxie.\\n<color=#8790abff>※ Herzlichen Glückwunsch! Du bist nun an Bord des Astralexpresses!</color>",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4030102,
+        "name": "Immerwinternacht",
+        "desc": "Nachdem du den Schneevorhang durchquert hast,\\n<color=#8790abff>※ bist du in einer Stadt namens Belobog angekommen.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030103,
+        "name": "Verlorene Welt",
+        "desc": "Entdecke das Geheimnis unter Jarilo-VI.\\n<color=#8790abff>※ Es gibt Menschen, die im Untergrund leben ...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030104,
+        "name": "Der halbe Zauberer von Oz",
+        "desc": "Besiege den Blechmann und das kleine Mädchen.\\n<color=#8790abff>※ Svarog und Clara haben sich mit dir angefreundet!</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030105,
+        "name": "Die letzten Tage des Winters",
+        "desc": "Der erste Schritt zur Besserung bist du\\n<color=#8790abff>※ Der erste Schritt ist es, die Oberste Wächterin Cocolia zu bezwingen ...</color>",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4030201,
+        "name": "Flanierender Fuchs",
+        "desc": "Diplomatie ist nur ein Austausch von Meinungen ...\\n<color=#8790abff>※ Besprich dich mit den Anführer(n) der Xianzhou Luofu.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030202,
+        "name": "Der grenzenlose Allwissende",
+        "desc": "Was man sät, das wird man ernten. Alle Kriminellen werden gefangen genommen.\\n<color=#8790abff>※ Schnappe die Stellaron-Jägerin Kafka.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032305,
+        "name": "Aufmerksamer Besuch",
+        "desc": "Die Person, die Wache hält, steht neben dem Tisch und beobachtet dich ...\\n<color=#8790abff>※ Finde Qingque, die in ihr Kartenspiel vertieft ist ...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032307,
+        "name": "Seher machen keine Prophezeiungen",
+        "desc": "Beobachte das Geheimnis der Matrix der Wahrsagekommission.\\n<color=#8790abff>※ Verhöre Kafka mit der Matrix der Voraussicht und tritt die Prophezeiung mit der Einsicht entgegen ...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032308,
+        "name": "Alle auf der Jagd",
+        "desc": "Der Ofen ist entfacht, der Hirsch zum Schweigen gebracht.\\n<color=#8790abff>※ Rette die Kunsthandwerkskommission aus der Krise.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032306,
+        "name": "Schlächter unseres Hirschfreundes",
+        "desc": "Versuche, dem Pfad der Jagd zu folgen ...\\n<color=#8790abff>※ Hilf der Xianzhou-Flotte, den Schwarzhirsch, eine Ausgeburt des Überflusses, zu besiegen.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032309,
+        "name": "Hydras in Hülle und Fülle",
+        "desc": "Erlebe Dan Shus Geschichte\\n<color=#8790abff>※ Entdecke Dan Shus wahre Identität und erlebe den Aufstieg der Jünger des Santus Medicus</color>.",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  },
+  "4": {
+    "name": "Geheimnissen auf den Grund gehen",
+    "achievements": [
+      {
+        "id": 4040201,
+        "name": "Bis das Licht uns holt",
+        "desc": "Aktiviere 5 Sternenanker in der Herta-Raumstation.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040202,
+        "name": "Ungeöffnete Welt",
+        "desc": "Aktiviere 14 Sternenanker in Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4042307,
+        "name": "Wohin der himmlische Pfad auch führen mag",
+        "desc": "Aktiviere 10 Sternenanker auf der Xianzhou Luofu.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040101,
+        "name": "Echter Rollenspieler",
+        "desc": "Öffne 30-mal einen Schatz in der Herta-Raumstation.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4040102,
+        "name": "Aber zu welchem Preis?",
+        "desc": "Öffne 110-mal einen Schatz in Belobog.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4042308,
+        "name": "Ein kleines Vermögen",
+        "desc": "Öffne 100-mal Schätze auf der Xianzhou Luofu.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040301,
+        "name": "Destruktiver Impuls",
+        "desc": "Zerstöre 100 zerstörbare Objekte.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040302,
+        "name": "Freier Wille der Zerstörung",
+        "desc": "Zerstöre 1000 zerstörbare Objekte.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4040601,
+        "name": "Überraschungsangriff",
+        "desc": "Ziehe 100-mal mit Angriffen passender Typen in den Kampf.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040602,
+        "name": "Keine Augen im Hinterkopf",
+        "desc": "Erlebe einen Überfall während der Erkundung.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040603,
+        "name": "Drittfähigkeit",
+        "desc": "Verwende 50-mal eine Technik.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040604,
+        "name": "Dritte Dimension",
+        "desc": "Verwende 300-mal eine Technik.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080401,
+        "name": "Dissertationsvorschlag",
+        "desc": "Sammle 10 lesbare Elemente in der Herta-Raumstation.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080402,
+        "name": "Literaturkritik",
+        "desc": "Sammle 50 lesbare Elemente in der Herta-Raumstation.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080403,
+        "name": "Hochwertige Literatur",
+        "desc": "Sammle 20 lesbare Elemente in Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080404,
+        "name": "Historiker der Winterstadt",
+        "desc": "Sammle 80 lesbare Elemente in Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4022403,
+        "name": "Die Nase in den Büchern",
+        "desc": "Sammle 30 lesbare Elemente auf der Xianzhou Luofu.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4022404,
+        "name": "Universalgelehrter",
+        "desc": "Sammle 80 lesbare Elemente auf der Xianzhou Luofu.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040407,
+        "name": "Warnung: Roter Name",
+        "desc": "Schließe die Herausforderung: Mächtiger Gegner 5-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040408,
+        "name": "Level-Unterdrückung",
+        "desc": "Schließe die Herausforderung: Mächtiger Gegner 15-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040503,
+        "name": "Wandeln zwischen Domänen",
+        "desc": "Schließe Kriegerische Exkursion 1-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040504,
+        "name": "Was, Raids ohne Erfolge?",
+        "desc": "Schließe Kriegerische Exkursion 9-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040701,
+        "name": "Tindalos Piggy",
+        "desc": "Fange Warp-Sparschwein 1-mal ein.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040702,
+        "name": "Phasen-Geldautomat",
+        "desc": "Fange Warp-Sparschwein 10-mal ein.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4042301,
+        "name": "Sensorische Sozialisierung",
+        "desc": "Sammle alle Erinnerungsblasen, die in der Herta-Raumstation verteilt sind.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040403,
+        "name": "Unirdisches Wunder",
+        "desc": "Finde alle Schätze des Unirdischen Wunders.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040404,
+        "name": "Das Brückenproblem",
+        "desc": "Finde alle Schätze der Abstoßbrücke.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040409,
+        "name": "Die Geburt der Tragödie",
+        "desc": "Finde alle Schätze in der Truhe des Narren.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040402,
+        "name": "Sisyphus der Minen",
+        "desc": "Absolviere den finalen Minenwagen-Test.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040406,
+        "name": "Die Geschichte der Maulwürfe",
+        "desc": "Sammle alle Seiten von „Die abenteuerlustigen Maulwürfe“.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040410,
+        "name": "Rot zu Rot und Weiß zu Weiß",
+        "desc": "Schließe den Regler für magnetorheologische Flüssigkeiten 10-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051101,
+        "name": "Wag nicht, es zu verschwenden",
+        "desc": "Hol Jim Rogers Backsoda aus einer Mülltonne.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040411,
+        "name": "Allegorie der Höhle",
+        "desc": "Schließe den Hexanexus 30-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040412,
+        "name": "Nord bei Nordwest",
+        "desc": "Schließe den Formationsbrechenden Kompass 20-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "5": {
+    "name": "Erinnerungen mit dir",
+    "achievements": [
+      {
+        "id": 4051001,
+        "name": "Wer bin ich?",
+        "desc": "Schließe die Begleitermission Du_kennst_mich_schon ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051002,
+        "name": "Die Leiden des jungen Arlan",
+        "desc": "Schließe die Begleitermission „Eine überraschende Wendung“ ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051003,
+        "name": "Geschenk des Weisen",
+        "desc": "Schließe die Begleitermission „Hooks Geschenk“ ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051004,
+        "name": "Außerhalb der Stadt ist es ruhig",
+        "desc": "Schließe die Begleitermission „Immunität gegen Schneesturm“ ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051005,
+        "name": "Clara und die Sonne",
+        "desc": "Schließe die Begleitermission „Seltene Zuneigung“ ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051006,
+        "name": "Die tropfenden Tränen",
+        "desc": "Schließe die Begleitermission „Nur ein Kind“ ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051103,
+        "name": "Karte der siebzehn Jahre",
+        "desc": "Finde in der Mission „Leere des Locus Silentii“ alle lesbaren Elemente zu Asta.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051104,
+        "name": "Diamant und Rost",
+        "desc": "Überreiche Bernard in der Mission „An: Den vagen Stern“ das Log.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051105,
+        "name": "Lebewohl, Kometenjäger",
+        "desc": "Sammle in der Mission „Außer Reichweite“ drei „Briefe des Kometenjägers“.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051106,
+        "name": "Geht sie allein?",
+        "desc": "Schließe die Mission „Führungs-Paradoxon“ ab und erlebe das Ende des Androiden.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051107,
+        "name": "Unheimliche Begegnungen der sechsten Art",
+        "desc": "Erwirb in der Mission „Totenmesse“ die Fähigkeit, mit Wubbies zu kommunizieren.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052302,
+        "name": "Austauschbar",
+        "desc": "Finde alle Herta-Marionetten in der Raumstation und sprich mit ihnen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052304,
+        "name": "Für die vergessenen Erinnerungen",
+        "desc": "Besuche das Denkmal des Forschers Eikura Shuu.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052305,
+        "name": "Feierabend!",
+        "desc": "Schalte den kleinen Roboter in der Raumstation 6-mal aus.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052306,
+        "name": "Tür zu einer neuen Welt",
+        "desc": "Verwende die Kuriosität „Tür zu einer neuen Welt“.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052307,
+        "name": "Nur eine Zahl",
+        "desc": "Verwende die Kuriosität „Bewertungspistole“.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052308,
+        "name": "Alle Königreiche gehen unter",
+        "desc": "Verwende die Kuriosität „Unerträgliches Gewicht“ und entschlüssele den geheimnisvollen Klang.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052309,
+        "name": "Gießen nach Bedarf",
+        "desc": "Sprich mit der seltsamen Pflanze und besuche sie am nächsten Tag wieder.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051108,
+        "name": "Psychologie der Habgier",
+        "desc": "Gelange in der Mission „Überlebensweisheit“ in den Besitz des wahren Schatzes.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051109,
+        "name": "Warten auf morgen",
+        "desc": "Finde in der Mission „Hooks Schatz“ alle Gegenstände von Julian.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080601,
+        "name": "Tugendhaft und gerecht",
+        "desc": "Stelle den Beschützer öffentlichen Eigentums zur Rede und zeig ihm, dass es sich nicht lohnt, dir Probleme zu machen. (Eine Entschuldigung von ihm würde auch ausreichen.)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051110,
+        "name": "Der Lebenszyklus von Softwareobjekten",
+        "desc": "Entscheide dich in der Mission „Seltene Zuneigung (Teil 2)“ dafür, den kleinen Roboter nicht zu formatieren.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080602,
+        "name": "Außenweltler",
+        "desc": "Bring die Spieluhr aus Nietstadt zu ihrem untröstlichen Besitzer zurück.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051111,
+        "name": "Für einen Atemzug verweile ich",
+        "desc": "Entscheide dich in der Mission „Seltene Zuneigung (Teil 2)“, den kleinen Roboter zu formatieren.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080603,
+        "name": "<unbreak>50</unbreak> Credits?!",
+        "desc": "Sammle alle Steckbriefe der Express-Crew in Belobog ein.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052310,
+        "name": "Glänzend und glatt",
+        "desc": "Erhalte 3 uralte Münzen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080604,
+        "name": "Gehe nach ... Nordwesten",
+        "desc": "Ich habe in einer Planarsphäre auf Jarilo-VI ... ähm ... Pom-Pom entdeckt?",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052311,
+        "name": "Hurt Locker",
+        "desc": "Löse die Krise an der Seilbahnstation Belobog und vermeide gleichzeitig ethische Risiken.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080605,
+        "name": "Wo alles begann",
+        "desc": "Kehre in den Raum, wo das Stellaron aufbewahrt wurde, zurück und rufe eine schleierhafte Erinnerung auf.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052312,
+        "name": "Hilf denen in Not",
+        "desc": "Finde das Sprachmodul und gib es der Hobbymechanikerin Fidora.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080606,
+        "name": "Ein ehrliches Kind",
+        "desc": "Bestehe den Integritätstest, der dir von einem mysteriösen Forscher auferlegt wird.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052313,
+        "name": "Der Mandela-Effekt",
+        "desc": "Nimm Kontakt zu Belobogs „Hintergasse“ auf.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052314,
+        "name": "Natürliche Immunität",
+        "desc": "Unterhalte dich mit der Managerin vom Grandhotel Goethe Gertie und erhalte das Rezept für Bratreis.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052315,
+        "name": "Lā Lá Lǎ Là Land",
+        "desc": "Unterhalte dich mit Tamila im Goldenen Theater und erhalte die Partitur für das Grammophon.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052316,
+        "name": "Winterstadt-Trap",
+        "desc": "Hör dir den Rap des Vagabunden bis zu Ende an.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052317,
+        "name": "Nur ab <unbreak>12</unbreak> Jahren",
+        "desc": "Nimm am Turnier der dunklen Faust teil und werde der ultimative Champion.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052349,
+        "name": "Schwebe wie ein Schmetterling, stich wie eine Biene",
+        "desc": "Dominiere alle 5 Turniere der Felsenstadt-Superliga.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4052318,
+        "name": "Die Kelly-Gang",
+        "desc": "Grabe den im Brunnen des Verwaltungsbezirks von Belobog versteckten Schatz aus.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052319,
+        "name": "Das Böse der Banalität",
+        "desc": "Schließe alle Rätsel der Truhe des Narren in der Mission „Behältnis des Mittelmaßes“ ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052320,
+        "name": "Der vierte kleine Maulwurf",
+        "desc": "Finde alle versteckten Schätze in der Mission „Die abenteuerlustigen Maulwürfe“.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052321,
+        "name": "„Die abenteuerlustigen Maulwürfe“: Total erwachsene Ausgabe",
+        "desc": "Kaufe <i>Die abenteuerlustigen Maulwürfe: Verborgener Schatz</i> bei der Buchhändlerin von Belobog.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052323,
+        "name": "Ein einfaches Leben",
+        "desc": "Erhalte nach dem Abschluss der Mission „Gefeuert“ eine Nachricht von Luhui.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052324,
+        "name": "Bringe meine ganze Kraft auf, bin pessimistisch und gebe dann auf",
+        "desc": "Erhalte nach dem Abschluss der Mission „Ein Lehrer und ein Freund“ alle Texte über Chengjies schwindende Leidenschaft.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052325,
+        "name": "Cyberbetrug",
+        "desc": "Entscheide bei der Mission „Verlockung der Liebe in Xianzhou“, dass die foxianische Schönheit sich stellt.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052326,
+        "name": "Tootsie",
+        "desc": "Entscheide bei der Mission „Verlockung der Liebe in Xianzhou“, dass die foxianische Schönheit ihre wahre Identität preisgibt.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052327,
+        "name": "Ein Geheimnis macht die Frau zur Frau",
+        "desc": "Entscheide bei der Mission „Verlockung der Liebe in Xianzhou“, dass die foxianische Schönheit ihre Tarnung aufrecht erhält.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052328,
+        "name": "Die sieben Irrtümer des Mechakranichs: Faulheit",
+        "desc": "Überzeuge den depressiven Mechakranich davon, seine Arbeit wieder aufzunehmen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052329,
+        "name": "Besser sieben Spatzen in der Hand als tausend Tauben auf dem Dach",
+        "desc": "Hilf Kranich Express, alle verlorenen Mechakraniche wiederzufinden.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052330,
+        "name": "Zielorientiert handeln",
+        "desc": "Gewinne den Fressmeister-Wettbewerb der Xianzhou Luofu ehrlich und fair.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052331,
+        "name": "Schummeln ist der Schlüssel",
+        "desc": "Gewinne den Fressmeister-Wettbewerb der Xianzhou Luofu auf hinterhältige Weise.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052332,
+        "name": "Totale Niederlage",
+        "desc": "Verliere den Fressmeister-Wettbewerb der Xianzhou Luofu.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052333,
+        "name": "Weltabgewandt",
+        "desc": "Sprich mit dem Unsterblichen in der Vase und erhalte sein Geschenk aus der Vase.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052334,
+        "name": "Möge mein Verlangen mit dem Wind verwehen",
+        "desc": "Sprich mit dem Unsterblichen in einer Vase und lehne sein Geschenk ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052335,
+        "name": "Hexer, verschwinde aus Xianzhou",
+        "desc": "Schließe 15 Hexanexus-Herausforderung(en) des Hex-Clubs ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052336,
+        "name": "Los, stellt mich auf die Probe",
+        "desc": "Schließe 15 neue Hexanexus-Herausforderung(en) des Hex-Clubs ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052337,
+        "name": "Arbeit ohne Ende",
+        "desc": "Untersuche 7-mal Aktenschränke beim Thron der göttlichen Vorsehung.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052338,
+        "name": "Die Verbrechen, die uns verbinden",
+        "desc": "Halte den seltsamen Touristen davon ab, Münzen in den Sternskiffmotor zu werfen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052339,
+        "name": "Flug gestrichen",
+        "desc": "Hilf dem seltsamen Touristen, Münzen in den Sternskiffmotor zu werfen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052340,
+        "name": "Wie wir einmal waren",
+        "desc": "Hol die Credits von dem Betrüger zurück, der sie gestohlen hat.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052341,
+        "name": "Belassen wir es dabei",
+        "desc": "Hol die Credits von dem Betrüger, der sie gestohlen hat, nicht zurück.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052342,
+        "name": "Gier ohne Grenzen",
+        "desc": "Hol mehr Credits von dem Betrüger zurück, als er gestohlen hat.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052343,
+        "name": "Die sieben Irrtümer des Mechakranichs: Lust",
+        "desc": "Folge dem Mechakranich-Gentleman, um das vom Zoll zurückgehaltene Bilderbuch zu finden.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052344,
+        "name": "Die sieben Irrtümer des Mechakranichs: Völlerei",
+        "desc": "Schließe eine Wette mit dem unglücklichen Mechakranich ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052345,
+        "name": "Die sieben Irrtümer des Mechakranichs: Gier",
+        "desc": "Erforsche den „Berg der Lieferungen“, der vom „bösen Drachen“ beschützt wird.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052346,
+        "name": "Die sieben Irrtümer des Mechakranichs: Neid",
+        "desc": "Schließe die Herausforderung des verbitterten Mechakranichs ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052347,
+        "name": "Die sieben Irrtümer des Mechakranichs: Zorn",
+        "desc": "Besiege mit dem mutigen Mechakranichs die Wegelagerer.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052348,
+        "name": "Die sieben Irrtümer des Mechakranichs: Stolz",
+        "desc": "Schließe die sogenannte Herausforderung der „Verrufenen Vier der Luofu“ ab.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "6": {
+    "name": "Ruhm des Unbeugsamen",
+    "achievements": [
+      {
+        "id": 4060101,
+        "name": "Schatten sterben unendlich oft (I)",
+        "desc": "Besiege Ruhenden Schatten 100-mal.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060102,
+        "name": "Schatten sterben unendlich oft (IV)",
+        "desc": "Besiege Ruhenden Schatten 400-Mal.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060103,
+        "name": "Schatten sterben unendlich oft (VIII)",
+        "desc": "Besiege Ruhenden Schatten 800-mal.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060201,
+        "name": "Tage der Triffids (I)",
+        "desc": "Besiege die Blütenkelche 100-mal.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060202,
+        "name": "Tage der Triffids (II)",
+        "desc": "Besiege die Blütenkelche 500-mal.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060203,
+        "name": "Tage der Triffids (III)",
+        "desc": "Besiege die Blütenkelche 1000-mal.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060301,
+        "name": "Das Phantom der Höhle (I)",
+        "desc": "Schließe Höhle der Korrosion 100-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060302,
+        "name": "Das Phantom der Höhle (II)",
+        "desc": "Schließe Höhle der Korrosion 400-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060303,
+        "name": "Das Phantom der Höhle (III)",
+        "desc": "Schließe Höhle der Korrosion 800-mal ab.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060401,
+        "name": "Echo des Krieges (I)",
+        "desc": "Schließe Echo des Krieges 1-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060402,
+        "name": "Echo des Krieges (II)",
+        "desc": "Schließe Echo des Krieges 10-mal ab.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "7": {
+    "name": "Vorfreude auf den Kampf",
+    "achievements": [
+      {
+        "id": 4070101,
+        "name": "Unaufhaltsam",
+        "desc": "Verwende Ultimates 4-mal nacheinander.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070201,
+        "name": "Zerbrechen bis Kaputtgehen",
+        "desc": "Verursache in einem einzigen Kampf #2[i]-mal Schwächebruch an demselben Gegner.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070301,
+        "name": "Ernsthafter Schlag",
+        "desc": "Verursache mit einem einzigen Angriff mindestens 1000 SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070302,
+        "name": "KI-Einschlag",
+        "desc": "Verursache mit einem einzigen Angriff mindestens 20000 SCH.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070303,
+        "name": "Vernichtung",
+        "desc": "Verursache mit einem einzigen Angriff mindestens 150000 SCH.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070401,
+        "name": "Aufeinanderfolgende normale Schläge",
+        "desc": "Verursache mit einem einzigen Angriff 2000 SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070402,
+        "name": "Klinge von Taixu",
+        "desc": "Verursache mit einem einzigen Angriff 40000 SCH.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070403,
+        "name": "Widerhallende Zerstörung",
+        "desc": "Verursache mit einem einzigen Angriff 300000 SCH.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070421,
+        "name": "Spitzensanitäter im Einsatz",
+        "desc": "Erhalte mit einem Verbündeten durch eine einzige Heilung mehr als 8000 LP.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070441,
+        "name": "Erdarbeiten",
+        "desc": "Erhalte mit einem Verbündeten zu einem beliebigen Zeitpunkt eine kombinierte Schildmenge von mehr als 5000.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070501,
+        "name": "Eine Melodie aus Frost und Flamme",
+        "desc": "Verursache bei 1 Gegnern gleichzeitig Eingefroren und Brennen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070502,
+        "name": "Erinnerung, Sorgen und Dorn",
+        "desc": "Verursache bei 1 Gegnern gleichzeitig <unbreak>#2[i]</unbreak> DoT-Effekte.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070601,
+        "name": "Elektrische Träume",
+        "desc": "Besiege 3 Gegner mit Blitzbruch-SCH in einem einzigen Kampf.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070602,
+        "name": "Fahrenheit <unbreak>451</unbreak>",
+        "desc": "Besiege 3 Gegner mit Feuerbruch-SCH in einem einzigen Kampf.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070603,
+        "name": "Sonnensturm",
+        "desc": "Besiege 3 Gegner mit Windbruch-SCH in einem einzigen Kampf.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070604,
+        "name": "Der zerstörte Mann",
+        "desc": "Besiege 3 Gegner mit physischem Bruch-SCH in einem einzigen Kampf.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070605,
+        "name": "Blitz-Brecher (I)",
+        "desc": "Besiege 20 Gegner mit Blitzbruch-SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070606,
+        "name": "Blitz-Brecher (II)",
+        "desc": "Besiege 60 Gegner mit Blitzbruch-SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070607,
+        "name": "Feuer-Brecher (I)",
+        "desc": "Besiege 20 Gegner mit Feuerbruch-SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070608,
+        "name": "Feuer-Brecher (II)",
+        "desc": "Besiege 60 Gegner mit Feuerbruch-SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070609,
+        "name": "Wind-Brecher (I)",
+        "desc": "Besiege 20 Gegner mit Windbruch-SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070610,
+        "name": "Wind-Brecher (II)",
+        "desc": "Besiege 60 Gegner mit Windbruch-SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070611,
+        "name": "Physischer Brecher (I)",
+        "desc": "Besiege 20 Gegner mit physischem Bruch-SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070612,
+        "name": "Physischer Brecher (II)",
+        "desc": "Besiege 60 Gegner mit physischem Bruch-SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070701,
+        "name": "Quantenphysik – Die Heilung der Unentschlossenheit",
+        "desc": "Verursache in einem einzigen Kampf 5-mal Schwächebruch: Quantum.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070702,
+        "name": "Die kalten Gleichungen",
+        "desc": "Verursache in einem einzigen Kampf 5-mal Schwächebruch: Eis.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070703,
+        "name": "Imaginäre Zahlen können nicht alles erklären",
+        "desc": "Verursache in einem einzigen Kampf 5-mal Schwächebruch: Imaginär.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070704,
+        "name": "Quantum-Brecher (I)",
+        "desc": "Verursache insgesamt 100-mal Schwächebruch: Quantum.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070705,
+        "name": "Quantum-Brecher (II)",
+        "desc": "Verursache insgesamt 300-mal Schwächebruch: Quantum.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070706,
+        "name": "Eis-Brecher (I)",
+        "desc": "Verursache insgesamt 100-mal Schwächebruch: Eis.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070707,
+        "name": "Eis-Brecher (II)",
+        "desc": "Verursache insgesamt 300-mal Schwächebruch: Eis.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070708,
+        "name": "Imaginär-Brecher (I)",
+        "desc": "Verursache insgesamt 100-mal Schwächebruch: Imaginär.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070709,
+        "name": "Imaginär-Brecher (II)",
+        "desc": "Verursache insgesamt 300-mal Schwächebruch: Imaginär.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070801,
+        "name": "Präventivschlag",
+        "desc": "Besiege 1 Gegner mit Technik.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070802,
+        "name": "Technik-Brecher (I)",
+        "desc": "Besiege insgesamt 10 Gegner mit Technik.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070803,
+        "name": "Mosambik-Bohrer",
+        "desc": "Besiege in einem einzigen Kampf 3 Gegner mit Folgeangriffen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070804,
+        "name": "Folge-Brecher (I)",
+        "desc": "Besiege insgesamt 80 Gegner mit Folgeangriffen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070805,
+        "name": "Folge-Brecher (II)",
+        "desc": "Besiege insgesamt 240 Gegner mit Folgeangriffen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070806,
+        "name": "Tausend Schnitte ...",
+        "desc": "Besiege in einem Kampf 3 Gegner mit DoT.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070807,
+        "name": "DoT-Brecher (I)",
+        "desc": "Besiege insgesamt 80 Gegner mit DoT.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070808,
+        "name": "DoT-Brecher (II)",
+        "desc": "Besiege insgesamt 240 Gegner mit DoT.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070810,
+        "name": "Nichts für ungut",
+        "desc": "Entferne in einem einzigen Kampf 5-mal Buffs von Gegnern.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070812,
+        "name": "Der Exorzist",
+        "desc": "Entferne in einem einzigen Kampf 5-mal Debuffs von Verbündeten.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071001,
+        "name": "Ewiger Gefrierschrank",
+        "desc": "Friere 1 Gegner für <unbreak>#2[i]</unbreak> Runden in Folge ein.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071002,
+        "name": "Diejenigen, die bald sterben werden, grüßen dich",
+        "desc": "Besiege einen Feind, wenn eine beliebige Figur weniger als 1 % der LP übrig hat.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071003,
+        "name": "Eins gegen Eins",
+        "desc": "Beginne einen Kampf mit 4 Figuren, aber gewinne ihn mit nur <unbreak>#2[i]</unbreak> verbleibender Figur.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071004,
+        "name": "Jeder stirbt einmal",
+        "desc": "Erhalte einen tödlichen Schlag von einem Feind bei 100 % LP.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071005,
+        "name": "Energie Grandet",
+        "desc": "Habe eine beliebige Figur, deren Energie zu Beginn einer Runde bei 100 % liegt, für <unbreak>4</unbreak> Runden hintereinander.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071006,
+        "name": "Wie eine Blume in der Stadt der Toten",
+        "desc": "Belebe in einem einzigen Kampf 2 handlungsunfähige Figur(en) wieder.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071007,
+        "name": "Salz in die Wunde",
+        "desc": "Verursache in einem einzigen Kampf insgesamt 20000 SCH bei Gegnern mit Schwächebruch.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071008,
+        "name": "Rüstungsverschleiß",
+        "desc": "Erleide mit einer Figur in einem Kampf insgesamt 10000 SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071009,
+        "name": "Serienbrecher",
+        "desc": "Verursache mit einer einzigen Aktion Schwächebruch bei 4 Gegnern.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071012,
+        "name": "Himmlische Hand",
+        "desc": "Setze bei Kampfeintritt eine Technik ein und besiege damit alle Gegner.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071013,
+        "name": "Immer vorbereitet sein",
+        "desc": "Lass eine Figur zu Beginn einer Runde 5 oder mehr Buffs haben.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071014,
+        "name": "Hochgeschwindigkeitsstern",
+        "desc": "Führe in einem einzigen Kampf mit den Verbündeten insgesamt 100 Aktionen aus.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071015,
+        "name": "Überleben in Extremsituationen",
+        "desc": "Gewinne einen Kampf, in dem vier Verbündete 0% ihrer LP besitzen.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071016,
+        "name": "Kugelhagel",
+        "desc": "Lass die Verbündeten 10 Runden lang nicht von Gegnern unterbrochen werden.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071017,
+        "name": "Lied des Verderbens",
+        "desc": "Stirb im Kampf mit den Gegnern.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071018,
+        "name": "Mit Kanonen auf Spatzen",
+        "desc": "Füge einem Gegner, der über maximal 0% seiner LP verfügt, mit einem einzigen Angriff mindestens <unbreak>#2[i]</unbreak> SCH zu.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071401,
+        "name": "Privilegien eines Protagonisten",
+        "desc": "Verursache mit dem Trailblazer (Zerstörung) in einem einzigen Kampf 3-mal Schwächebruch bei Gegnern.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071501,
+        "name": "Viereinhalb Pirouetten",
+        "desc": "Löse durch einen Angriff eines Verbündeten Hertas Talent aus und lass sie 5 Drehungen vollführen.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071502,
+        "name": "Steinflut",
+        "desc": "Lass Qingque zu Beginn von 3 aufeinanderfolgenden Runden im Status „Verdeckter Kong“ sein.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071503,
+        "name": "Jetzt bin ich dran",
+        "desc": "Lass Seele 5-mal in Folge agieren, bevor der nächste Verbündete an der Reihe ist.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071504,
+        "name": "Prüfung der Dreizehn",
+        "desc": "Lass Svarog in einem einzigen Kampf 13-mal Angriffe auf Clara abwehren.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071505,
+        "name": "Kaffeeliebhaber",
+        "desc": "Morgens, mittags und abends eine Tasse Kaffee belebt den Geist.\\n<color=#8790abff>※ Setze in einem Kampf 3-mal Himekos Ultimate ein.</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071506,
+        "name": "Überfürsorglich",
+        "desc": "Gewinne 1 Kampf/Kämpfe, ohne dass Gepards Schild SCH erleiden.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071603,
+        "name": "Wenn die Nationalhymne erklingt",
+        "desc": "Lass die Verbündete Bronya beim Kampf gegen Gepard, Cocolia und Bronya jeweils 1-mal den Belobog-Marsch einsetzen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071607,
+        "name": "Dummer kleiner Bruder ...",
+        "desc": "Lass Serval dem Boss Gepard den finalen Treffer verpassen.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071608,
+        "name": "Für dich, weil du in der Schule neben mir sitzt",
+        "desc": "Lass Serval dem Boss Cocolia den finalen Treffer verpassen.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071609,
+        "name": "Et tu, Bronya?",
+        "desc": "Lass Bronya dem Boss Cocolia den finalen Treffer verpassen.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071610,
+        "name": "Hör zu ...",
+        "desc": "Setze den Trailblazer im Kampf gegen den Boss Kafka ein und verursache bei dem Dominieren.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072001,
+        "name": "Was ist das für eine Trickserei?",
+        "desc": "Erzürne den Wächterschatten mit 4 Figur(en) in deinem Team.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072002,
+        "name": "Offen und ehrlich",
+        "desc": "Besiege den Wächterschatten, ohne ihn zu erzürnen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072003,
+        "name": "Angriff! Koste es, was es wolle!",
+        "desc": "Löse mindestens 4-mal die Schildreflexion des Silbermähnen-Leutnants aus und besiege ihn.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072004,
+        "name": "Enthauptungsschlag",
+        "desc": "Besiege einen Silbermähnen-Leutnant, ohne dabei die Silbermähnen-Wachen zu besiegen.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072008,
+        "name": "Gelähmter Wolf",
+        "desc": "Besiege den Automaton „Düsterwolf“, ohne den Fällbefehl auszulösen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072012,
+        "name": "Aufstoßen",
+        "desc": "Verhindere, dass der Eisige Streuner „Anderling verschlingen“ einsetzt.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072013,
+        "name": "Finde die Schwachstelle",
+        "desc": "Zerstöre im „Echo des Krieges“ den Antimaterie-Motor, ohne dabei die beiden Hände der Bestie des Jüngsten Gerichts zu zerstören.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072014,
+        "name": "Kataklysmus-Unterbrechung",
+        "desc": "Verhindere im Echo des Krieges, dass die Bestie des Jüngsten Gerichts Drohendes Unheil einsetzt.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072016,
+        "name": "„Danke für deinen Dienst“",
+        "desc": "Besiege Bronya, ohne dabei die Silbermähnen-Wachen zu besiegen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072017,
+        "name": "Achilles’ Pferd",
+        "desc": "Bezwinge einen Leeren-Ranger: Trampler, während er auf einen Verbündeten zielt.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072018,
+        "name": "Flaute",
+        "desc": "Sorge dafür, dass Sturmbringer den Windfall-Sturm nicht benutzen kann, weil es keinen Verbündeten gibt, der Windscherung erlitt.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072019,
+        "name": "Kodex der Ritterlichkeit",
+        "desc": "Besiege Gepard, ohne die beschworenen Silbermähnen-Wachen zu besiegen.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072020,
+        "name": "Vollmetallgehäuse",
+        "desc": "Überlebe einen Treffer mit der Fähigkeit „Kontrollierte Sprengung“ der Roboterarmeinheit.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072022,
+        "name": "Die rechte Hand der rechten Hand der rechten Hand",
+        "desc": "Zerstöre erst 4 Roboterarmeinheit(en) und besiege dann Svarog.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072023,
+        "name": "Hausgemachtes zerstoßenes Eis",
+        "desc": "Besiege die von Cocolia beschworene Eiskante 4-mal.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072024,
+        "name": "Straße nach Canossa",
+        "desc": "Unterbrich Cocolias Einsatz von „Zorn der Heiligen des Winterlandes“, wenn sie auflädt.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072026,
+        "name": "Rette die Prinzessin",
+        "desc": "Besiege Cocolia, ohne dabei Bronya zu besiegen.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072027,
+        "name": "Glühendes Herz",
+        "desc": "Besiege im Echo des Krieges Cocolia, Mutter der Täuschung, ohne dass ein Verbündeter während des Kampfes eingefroren wird.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072101,
+        "name": "Versehentlicher Gedächtnisverlust",
+        "desc": "Lösche die Gedächtnisskala des Zerfallenden Schattens und sorge dafür, dass seine Fähigkeit Befreiung des Goldenen Zeitalters fehlschlägt.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072103,
+        "name": "Warum sollten sich Roboter gegenseitig verletzen?",
+        "desc": "Verwende die vom Magischen Erfindergeist: Leuchtdrachenfisch geworfene „Kerzenflamme“, um den Aurumaton-Torwächter zu zerstören.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072104,
+        "name": "Zorniger Aurumaton",
+        "desc": "Verursache bei dem Aurumaton-Torwächter in einem einzigen Kampf 3-mal Zorn.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072105,
+        "name": "Wille aus Stahl",
+        "desc": "Hebe in einem einzigen Kampf gegen den Boss Kafka 3-mal Dominiert auf.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "8": {
+    "name": "Moment der Freude",
+    "achievements": [
+      {
+        "id": 4080101,
+        "name": "Erdenwoche",
+        "desc": "Melde dich 7 Tage in Folge im Spiel an.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4082303,
+        "name": "Erdenmonat",
+        "desc": "Melde dich insgesamt 30 Tagen im Spiel an.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4082301,
+        "name": "Erdenjahr",
+        "desc": "Melde dich insgesamt 365 Tagen im Spiel an.",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4080301,
+        "name": "Diogenes’ Utopie",
+        "desc": "Sieh dir an, wofür Belobog berühmt ist!\\n<color=#8790abff>※ Du hast alle nützlichen Dinge aus den Mülltonnen geholt!</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080302,
+        "name": "Unersättlich",
+        "desc": "Manchmal sollte man nicht zu satt sein ...\\n<color=#8790abff>※ Verwende 1-mal Brechmittel.</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080303,
+        "name": "Schlechter Humor",
+        "desc": "Selbst Müll hat seinen Nutzen.\\n<color=#8790abff>※ Setze Müll ein, um 10-mal Verbrauchsgegenstände zu synthetisieren.</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080304,
+        "name": "Karmische Konsequenzen",
+        "desc": "Lass die Höhere Existenz in unseren Herzen aufseufzen.\\n<color=#8790abff>※ Finde einen Weg, um das Lob der hohen Moral zu verwenden.</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080305,
+        "name": "Heilig",
+        "desc": "Lass die Höhere Existenz in unseren Herzen dir einen Daumen nach oben geben.\\n<color=#8790abff>※ Erhalte 20-mal ein Lob der hohen Moral.</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070901,
+        "name": "Dazu braucht es drei",
+        "desc": "Gewinne einen Kampf mit einem Team, das aus 3-Figuren desselben Pfades besteht.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072305,
+        "name": "Vielseitiger Joker",
+        "desc": "Bilde mit Sampo ein Team mit insgesamt 20 Figuren und gewinne mindestens 1 Kampf.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070902,
+        "name": "Dreier-Treffer",
+        "desc": "Gewinne einen Kampf gegen ein Team mit 3 Figuren desselben Typs.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071601,
+        "name": "Glückliche, liebevolle Familie",
+        "desc": "Gewinne 1 Kampf/Kämpfe mit einem Team aus Himeko, Welt, Dan Heng und 7. März.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080501,
+        "name": "Ungestümer Trailblazer",
+        "desc": "Wähle 5-mal eine ungestüme Dialogoption.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071602,
+        "name": "Architekten (und ehemalige Architekten)",
+        "desc": "Gewinne 1 Kampf/Kämpfe mit einem Team aus Bronya, Gepard, Pela und Serval.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080502,
+        "name": "Pessimistischer Trailblazer",
+        "desc": "Wähle 5-mal eine pessimistische Dialogoption.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080503,
+        "name": "Reuevoller Trailblazer",
+        "desc": "Wähle 5-mal eine reuevolle Dialogoption.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080504,
+        "name": "Stiller Trailblazer",
+        "desc": "Wähle 5-mal eine stille Dialogoption.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080505,
+        "name": "Das Echo",
+        "desc": "Wähle 3-mal eine repetitive Dialogoption.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080506,
+        "name": "Die Bedeutung der Entscheidung",
+        "desc": "Wähle 3-mal eine geschlechtsspezifische Dialogoption.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070903,
+        "name": "Einsamer Wolf",
+        "desc": "Gewinne 10 Kämpfe mit nur einer Figur im Team.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070904,
+        "name": "Für den Bernsteinfürsten",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team, in dem <unbreak>4</unbreak> Figuren dem Pfad der Bewahrung folgen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070905,
+        "name": "Vernichtungsbefehl",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team, in dem <unbreak>4</unbreak> Figuren dem Pfad der Zerstörung folgen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070906,
+        "name": "Die Xianzhou-Allianz",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team, in dem <unbreak>4</unbreak> Figuren dem Pfad der Jagd folgen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070907,
+        "name": "Bedeutungsloser Erfolg",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team, in dem <unbreak>4</unbreak> Figuren dem Pfad der Nichtigkeit folgen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070908,
+        "name": "Der große Einklang",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team, in dem <unbreak>4</unbreak> Figuren dem Pfad der Harmonie folgen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070909,
+        "name": "Wissen ist Macht",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team, in dem <unbreak>4</unbreak> Figuren dem Pfad der Gelehrsamkeit folgen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070910,
+        "name": "Yaoshis Wunder",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team, in dem <unbreak>4</unbreak> Figuren dem Pfad des Überflusses folgen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070911,
+        "name": "Stürmische Unterdrückung",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Wind.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070912,
+        "name": "Donnerkeil",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Blitz.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070913,
+        "name": "Flächenbrand",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Feuer.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070914,
+        "name": "Gletscher-Dynast",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Eis.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070915,
+        "name": "Quantum-Test",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Quantum.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070916,
+        "name": "Imaginäres Gesetz",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Imaginär.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070917,
+        "name": "Lass die Fäuste sprechen",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Physisch.",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "9": {
+    "name": "Das Universum zusammengefasst",
+    "achievements": [
+      {
+        "id": 4090201,
+        "name": "Die erste und letzte Freiheit",
+        "desc": "Ziehe in der Universum-Simulation mit 4 Verbündeten in den Kampf, die maximal <unbreak>#2[i]%</unbreak> ihrer LP besitzen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090202,
+        "name": "Die Kunst des Liebens",
+        "desc": "Erhalte in der Universum-Simulation mit den Verbündeten 50-mal Schild.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090203,
+        "name": "Eiskalt erwischt!",
+        "desc": "Friere in der Universum-Simulation einen einzelnen Gegner für 10 Runden ein.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090204,
+        "name": "Elementares Reaktionssystem",
+        "desc": "Verursache in der Universum-Simulation mit einem einzigen Angriff 5 oder mehr Typen von SCH.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090205,
+        "name": "Der Gegner hat eine schlechte Verbindung",
+        "desc": "Führe in der Universum-Simulation mit den Verbündeten 20 aufeinanderfolgende Aktionen aus.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090206,
+        "name": "Vierundzwanzig Liebesgedichte und ein Lied der Hoffnungslosigkeit",
+        "desc": "Lass alle Verbündeten maximal 0% ihrer LP haben, wenn sie einen Kampf in der Universum-Simulation gewinnen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090207,
+        "name": "Das Herz, das im Dunkeln tanzt, nennen wir den Mond",
+        "desc": "Füge in der Universum-Simulation mindestens 3 Gegnern gleichzeitig Schock, Brennen, Bluten und Windscherung zu.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090301,
+        "name": "Gute Nacht, mein Freund",
+        "desc": "Bezwinge insgesamt 15 Gegner in der Universum-Simulation.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090303,
+        "name": "Achtung Spieler Nr. 1",
+        "desc": "Bezwinge insgesamt 1000 Gegner in der Universum-Simulation.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4090501,
+        "name": "Psychologie des Konsums",
+        "desc": "Erhalte Kosmisches Fragment ×500.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090503,
+        "name": "Erstaunlicher Wirtschaftsmagnat",
+        "desc": "Erhalte Kosmisches Fragment ×20000.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4091001,
+        "name": "Eine besondere Erfahrung",
+        "desc": "Erlebe 10 Sonderereignisse in der Universum-Simulation.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4091003,
+        "name": "Keine besondere Erfahrung",
+        "desc": "Erlebe 100 Sonderereignisse in der Universum-Simulation.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092301,
+        "name": "Ein Zimmer für sich allein",
+        "desc": "Schließe die Erkundung der Universum-Simulation: Welt 1 ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092302,
+        "name": "Penrose-Treppe",
+        "desc": "Schließe die Erkundung der Universum-Simulation auf Schwierigkeitsgrad 2 oder höher ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092303,
+        "name": "König der Unendlichkeit",
+        "desc": "Schließe die Erkundung der Universum-Simulation auf Schwierigkeitsgrad 4 oder höher ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092312,
+        "name": "Fiebriger Angriff",
+        "desc": "Zerstöre 20 zerstörbare Objekte in der Universum-Simulation.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092313,
+        "name": "Rosenblüte",
+        "desc": "Zerstöre 400 zerstörbare Objekte in der Universum-Simulation.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092314,
+        "name": "Adrenalin",
+        "desc": "Verstärke 10-mal aktiv die Segen in der Universum-Simulation.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092315,
+        "name": "Ansteckendes Glück",
+        "desc": "Verstärke 200-mal aktiv die Segen in der Universum-Simulation.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092316,
+        "name": "Träumen Androidenschnecken von Elektrobäumen?",
+        "desc": "Aktiviere 2-mal Fähigkeiten im Fähigkeitenbaum.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092317,
+        "name": "Profi-Baumkletterer",
+        "desc": "Aktiviere 26-mal Fähigkeiten im Fähigkeitenbaum.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092318,
+        "name": "Immer mal was Neues",
+        "desc": "Schalte in der Universum-Simulation 3 Kuriositäten frei.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092319,
+        "name": "Die Realität ist ein Spiel",
+        "desc": "Schalte in der Universum-Simulation 40 Kuriositäten frei.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092320,
+        "name": "Wo ist mein Pokéball?",
+        "desc": "Fange in der Universum-Simulation 1-mal Sparschwein ein.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092321,
+        "name": "Schweinchen-Fußballmannschaft",
+        "desc": "Fange in der Universum-Simulation 66-mal Sparschwein ein.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092322,
+        "name": "Er darf nicht entkommen!",
+        "desc": "Lasse in der Universum-Simulation 1-mal Sparschwein entkommen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092323,
+        "name": "Existenz über Essenz",
+        "desc": "Schalte in der Universum-Simulation 12 Segen der Bewahrung frei.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092324,
+        "name": "Erinnerungen, seht mich an",
+        "desc": "Schalte in der Universum-Simulation 12 Segen des Gedenkens frei.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092325,
+        "name": "Wunderschönes Chaos",
+        "desc": "Schalte in der Universum-Simulation 12 Segen des Hochgefühls frei.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092326,
+        "name": "Ausdehnungsgeschwindigkeit des Universums",
+        "desc": "Schalte in der Universum-Simulation 12 Segen der Jagd frei.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092327,
+        "name": "Randale-Ralph",
+        "desc": "Schalte in der Universum-Simulation 12 Segen der Zerstörung frei.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092328,
+        "name": "Gnostizismus",
+        "desc": "Schalte in der Universum-Simulation 12 Segen der Nichtigkeit frei.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092329,
+        "name": "Atme",
+        "desc": "Schalte in der Universum-Simulation 12 Segen des Überflusses frei.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092330,
+        "name": "Millennium-Bug in Bernstein",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen der Bewahrung.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092331,
+        "name": "Du siehst Erinnerungen",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen des Gedenkens.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092332,
+        "name": "Keine Sorge, ist nur Spaß",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen des Hochgefühls.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092333,
+        "name": "Gedankengeschwindigkeit",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen der Jagd.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092334,
+        "name": "Nicht umdrehen, wenn’s explodiert",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen der Zerstörung.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092335,
+        "name": "Die Plage der Fantasien",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen der Nichtigkeit.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092336,
+        "name": "Engelsatem",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen des Überflusses.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092337,
+        "name": "Tausendsassa",
+        "desc": "Besitze beim Abschluss der Universum-Simulation Segen von 6 oder mehr Pfaden.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092338,
+        "name": "Vorhang auf für den einsamen Wolf",
+        "desc": "Besitze beim Abschluss der Universum-Simulation mit Schwierigkeitsgrad 2 oder höher 6 oder weniger Segen.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092339,
+        "name": "Privatsammlung",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 22 oder mehr Segen.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092340,
+        "name": "Dreiecksstrategie",
+        "desc": "Decke in einem einzelnen Nildis-Ereignis in der Universum-Simulation 3 Karten auf.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092341,
+        "name": "Meisterball",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 8 oder mehr Kuriositäten.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092342,
+        "name": "Tagtraum mit Seltenheitsgrad von 4 Sternen",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 0 oder weniger kosmische Fragmente.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092343,
+        "name": "Reichtum hat noch keinem geschadet!",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 1024 oder mehr kosmische Fragmente.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092344,
+        "name": "In Flammen an der Schulter des Orion",
+        "desc": "Verliere in der Universum-Simulation gegen einen Elitegegner.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092345,
+        "name": "Glitzer am Tannhäuser Tor",
+        "desc": "Verliere in der Universum-Simulation gegen den Bossgegner.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092346,
+        "name": "Aufwachen!",
+        "desc": "Verliere den Kampf im Nildis-Ereignis in der Universum-Simulation.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092347,
+        "name": "Verloren wie Tränen im Regen",
+        "desc": "Verliere den Kampf in der Taverne in der Universum-Simulation.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092349,
+        "name": "Einzelspielerspiel",
+        "desc": "Schließe die Universum-Simulation auf Schwierigkeitsgrad 2 oder höher ab, ohne den Downloader zu benutzen.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092350,
+        "name": "Wenn ich verhindern kann, dass ein Herz bricht",
+        "desc": "Schließe die Universum-Simulation auf Schwierigkeitsgrad 2 oder höher ab, ohne zerstörbare Objekte zu zerstören.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092351,
+        "name": "Großes Budapester Hotel",
+        "desc": "Schließe die Universum-Simulation auf Schwierigkeitsgrad 2 oder höher ab und verwende dabei 25-mal Techniken.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092352,
+        "name": "Aleph ist das Universum",
+        "desc": "Schließe die Universum-Simulation auf Schwierigkeitsgrad 2 oder höher mit nur 1 Figur im Team ab.",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092353,
+        "name": "Zusammenhalt",
+        "desc": "Schließe die Universum-Simulation auf Schwierigkeitsgrad 2 oder höher mit 4 Figuren des gleichen Pfads ab.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092361,
+        "name": "Gibt es für dieses Spiel keine Platin-Trophäe?",
+        "desc": "Schließe die Universum-Simulation auf Schwierigkeitsgrad 2 oder höher ab, wobei alle Verbündeten am Ende jedes Kampfes volle LP haben.",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  }
+}

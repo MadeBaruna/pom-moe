@@ -1,0 +1,30 @@
+{
+  "destruction": {
+    "id": "destruction",
+    "name": "Destrucción"
+  },
+  "the-hunt": {
+    "id": "the-hunt",
+    "name": "Cacería"
+  },
+  "erudition": {
+    "id": "erudition",
+    "name": "Erudición"
+  },
+  "harmony": {
+    "id": "harmony",
+    "name": "Armonía"
+  },
+  "nihility": {
+    "id": "nihility",
+    "name": "Nihilidad"
+  },
+  "preservation": {
+    "id": "preservation",
+    "name": "Conservación"
+  },
+  "abundance": {
+    "id": "abundance",
+    "name": "Abundancia"
+  }
+}

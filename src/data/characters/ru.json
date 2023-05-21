@@ -1,0 +1,163 @@
+{
+  "march-7th": {
+    "id": "march-7th",
+    "name": "Март 7",
+    "path": "preservation",
+    "element": "ice",
+    "rarity": 4
+  },
+  "dan-heng": {
+    "id": "dan-heng",
+    "name": "Дань Хэн",
+    "path": "the-hunt",
+    "element": "wind",
+    "rarity": 4
+  },
+  "himeko": {
+    "id": "himeko",
+    "name": "Химеко",
+    "path": "erudition",
+    "element": "fire",
+    "rarity": 5
+  },
+  "welt": {
+    "id": "welt",
+    "name": "Вельт",
+    "path": "nihility",
+    "element": "imaginary",
+    "rarity": 5
+  },
+  "arlan": {
+    "id": "arlan",
+    "name": "Арлан",
+    "path": "destruction",
+    "element": "lightning",
+    "rarity": 4
+  },
+  "asta": {
+    "id": "asta",
+    "name": "Аста",
+    "path": "harmony",
+    "element": "fire",
+    "rarity": 4
+  },
+  "herta": {
+    "id": "herta",
+    "name": "Герта",
+    "path": "erudition",
+    "element": "ice",
+    "rarity": 4
+  },
+  "bronya": {
+    "id": "bronya",
+    "name": "Броня",
+    "path": "harmony",
+    "element": "wind",
+    "rarity": 5
+  },
+  "seele": {
+    "id": "seele",
+    "name": "Зеле",
+    "path": "the-hunt",
+    "element": "quantum",
+    "rarity": 5
+  },
+  "serval": {
+    "id": "serval",
+    "name": "Сервал",
+    "path": "erudition",
+    "element": "lightning",
+    "rarity": 4
+  },
+  "gepard": {
+    "id": "gepard",
+    "name": "Гепард",
+    "path": "preservation",
+    "element": "ice",
+    "rarity": 5
+  },
+  "natasha": {
+    "id": "natasha",
+    "name": "Наташа",
+    "path": "abundance",
+    "element": "physical",
+    "rarity": 4
+  },
+  "pela": {
+    "id": "pela",
+    "name": "Пела",
+    "path": "nihility",
+    "element": "ice",
+    "rarity": 4
+  },
+  "clara": {
+    "id": "clara",
+    "name": "Клара",
+    "path": "destruction",
+    "element": "physical",
+    "rarity": 5
+  },
+  "sampo": {
+    "id": "sampo",
+    "name": "Сампо",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 4
+  },
+  "hook": {
+    "id": "hook",
+    "name": "Хук",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 4
+  },
+  "qingque": {
+    "id": "qingque",
+    "name": "Цинцюэ",
+    "path": "erudition",
+    "element": "quantum",
+    "rarity": 4
+  },
+  "tingyun": {
+    "id": "tingyun",
+    "name": "Тинъюнь",
+    "path": "harmony",
+    "element": "lightning",
+    "rarity": 4
+  },
+  "jing-yuan": {
+    "id": "jing-yuan",
+    "name": "Цзин Юань",
+    "path": "erudition",
+    "element": "lightning",
+    "rarity": 5
+  },
+  "sushang": {
+    "id": "sushang",
+    "name": "Сушан",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 4
+  },
+  "yanqing": {
+    "id": "yanqing",
+    "name": "Яньцин",
+    "path": "the-hunt",
+    "element": "ice",
+    "rarity": 5
+  },
+  "bailu": {
+    "id": "bailu",
+    "name": "Байлу",
+    "path": "abundance",
+    "element": "lightning",
+    "rarity": 5
+  },
+  "trailblazer": {
+    "id": "trailblazer",
+    "name": "Первопроходец",
+    "path": "adaptive",
+    "element": "adaptive",
+    "rarity": 5
+  }
+}

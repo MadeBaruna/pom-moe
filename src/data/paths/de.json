@@ -1,0 +1,30 @@
+{
+  "destruction": {
+    "id": "destruction",
+    "name": "Die Zerstörung"
+  },
+  "the-hunt": {
+    "id": "the-hunt",
+    "name": "Die Jagd"
+  },
+  "erudition": {
+    "id": "erudition",
+    "name": "Die Gelehrsamkeit"
+  },
+  "harmony": {
+    "id": "harmony",
+    "name": "Die Harmonie"
+  },
+  "nihility": {
+    "id": "nihility",
+    "name": "Die Nichtigkeit"
+  },
+  "preservation": {
+    "id": "preservation",
+    "name": "Die Bewahrung"
+  },
+  "abundance": {
+    "id": "abundance",
+    "name": "Der Überfluss"
+  }
+}

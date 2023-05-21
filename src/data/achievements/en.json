@@ -1,0 +1,2434 @@
+{
+  "1": {
+    "name": "I, Trailblazer",
+    "achievements": [
+      {
+        "id": 4010101,
+        "name": "Ever-Burning Amber",
+        "desc": "Tread on the Path of Preservation",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010201,
+        "name": "Destiny Beckons (I)",
+        "desc": "Possess 1 Light Cone at Lv. 40",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010202,
+        "name": "Destiny Beckons (II)",
+        "desc": "Possess 1 Light Cone at Lv. 60",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010203,
+        "name": "Destiny Beckons (III)",
+        "desc": "Possess 1 Light Cone at Lv. 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010103,
+        "name": "There's Always Time for Love",
+        "desc": "Possess 4 Light Cones at Lv. 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4080201,
+        "name": "Don't Make This Too Easy (I)",
+        "desc": "Reach Equilibrium Level 1",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010301,
+        "name": "My Childhood",
+        "desc": "Reach Character Level 40 with any character",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080202,
+        "name": "Don't Make This Too Easy (II)",
+        "desc": "Reach Equilibrium Level 3",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010302,
+        "name": "My Apprenticeship",
+        "desc": "Reach Character Level 60 with any character",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080203,
+        "name": "Don't Make This Too Easy (III)",
+        "desc": "Reach Equilibrium Level 6",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010303,
+        "name": "My Universities",
+        "desc": "Reach Character Level 80 with any character",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010102,
+        "name": "Childhood's End",
+        "desc": "Enhance 4 characters to Lv. 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010501,
+        "name": "Path Traces (I)",
+        "desc": "Activate or level up character Traces 3 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010502,
+        "name": "Path Traces (II)",
+        "desc": "Activate or level up character Traces 20 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010503,
+        "name": "Path Traces (III)",
+        "desc": "Activate or level up character Traces 50 time(s)",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010504,
+        "name": "Path Traces (IV)",
+        "desc": "Activate or level up character Traces 100 time(s)",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4012302,
+        "name": "I Have Finished The Race",
+        "desc": "Level up all Traces for a character to the maximum level",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010104,
+        "name": "Divine Relics (IV)",
+        "desc": "Level up a 4-star Relic to Max level",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4010105,
+        "name": "Divine Relics (V)",
+        "desc": "Level up a 5-star Relic to Max level",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010401,
+        "name": "Armed to the Teeth",
+        "desc": "Level up 4 Relics to Lv.15",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4012301,
+        "name": "Sovereign Warframe",
+        "desc": "Equip a character with level 15 5-star Relics in all their Relic slots",
+        "rarity": 3,
+        "version": "1.0"
+      }
+    ]
+  },
+  "2": {
+    "name": "Vestige of Luminflux",
+    "achievements": [
+      {
+        "id": 4022302,
+        "name": "Mega Rich Light-Bending Guy",
+        "desc": "Obtain 99999998 credits in total",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020201,
+        "name": "The Express Passenger's Guide to the Galaxy",
+        "desc": "Obtain 10 characters",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020202,
+        "name": "Express Crew Roster",
+        "desc": "Obtain 20 characters",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020203,
+        "name": "The Great Interastral Migration",
+        "desc": "Obtain 50 characters",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020401,
+        "name": "Ripples on the Dirac Sea (I)",
+        "desc": "Obtain 10 type(s) of Light Cones",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020402,
+        "name": "Ripples on the Dirac Sea (II)",
+        "desc": "Obtain 20 type(s) of Light Cones",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020403,
+        "name": "Ripples on the Dirac Sea (III)",
+        "desc": "Obtain 40 type(s) of Light Cones",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020502,
+        "name": "Supreme Treasure of the Netherworld",
+        "desc": "Obtain a 5-star Relic",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4020503,
+        "name": "Fate/stranger Fake",
+        "desc": "Obtain 5 5-star Relic(s) from the Omni-Synthesizer",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020701,
+        "name": "Interastral Peace Diamond Membership",
+        "desc": "Obtain 1000000 credits in total",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4020702,
+        "name": "Interastral Peace Supreme Diamond Membership",
+        "desc": "Obtain 10000000 credits in total",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  },
+  "3": {
+    "name": "The Rail Unto the Stars",
+    "achievements": [
+      {
+        "id": 4030101,
+        "name": "My Heart Lies With the Stars",
+        "desc": "Launch a journey into the vast Galaxy\\n<color=#8790abff>※ Congratulations! You've boarded the Astral Express!</color>",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4030102,
+        "name": "Everwinter Night",
+        "desc": "After enduring the snow storm...\\n<color=#8790abff>※ You have arrived at the city named Belobog</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030103,
+        "name": "Lost World",
+        "desc": "Discover the secret beneath Jarilo-VI\\n<color=#8790abff>※ There are people living underground...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030104,
+        "name": "Half the Wizard of Oz",
+        "desc": "Defeat the tin man and the little girl\\n<color=#8790abff>※ Svarog and Clara became your friends!</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030105,
+        "name": "Winter Is Leaving",
+        "desc": "Let's change Belobog, starting with me!\\n<color=#8790abff>※ Step One: Defeat Supreme Guardian Cocolia...</color>",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4030201,
+        "name": "Sauntering Fox",
+        "desc": "Diplomacy is but a trade of opinions...\\n<color=#8790abff>※ Confer with the leader(s) of the Xianzhou Luofu</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4030202,
+        "name": "Omniscia Spares None",
+        "desc": "What goes around comes around. No rogue shall escape capture.\\n<color=#8790abff>※ Successfully capture the Stellaron Hunter Kafka</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032305,
+        "name": "A Professional Onlooker",
+        "desc": "When the wind-watcher watches you...\\n<color=#8790abff>※ Find Qingque, who is \"working hard\" at playing games...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032307,
+        "name": "Prophets Do Not Prophesize",
+        "desc": "Witness the mystery of the Divination Commission's matrix\\n<color=#8790abff>※ Interrogate Kafka with the Matrix of Prescience, and challenge the divination with this foresight...</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032308,
+        "name": "The Deer Hunter",
+        "desc": "The furnace undoused, the deer silenced\\n<color=#8790abff>※ Save the Artisanship Commission from the crisis</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032306,
+        "name": "Slayer of a Very \"Deer\" Friend",
+        "desc": "Try to walk on the Path of The Hunt...\\n<color=#8790abff>※ Help Xianzhou to defeat the Abomination of Abundance, \"Ebon Deer\"</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4032309,
+        "name": "Draconic Opulence",
+        "desc": "Witness Dan Shu's story\\n<color=#8790abff>※ Discover Dan Shu's true identity and witness the rise of the Disciples of Sanctus Medicus</color>",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  },
+  "4": {
+    "name": "Fathom the Unfathomable",
+    "achievements": [
+      {
+        "id": 4040201,
+        "name": "Until the Light Takes Us",
+        "desc": "Activate 5 Space Anchors in the Herta Space Station",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040202,
+        "name": "Unopen World",
+        "desc": "Activate 14 Space Anchors in Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4042307,
+        "name": "Where the Celestial Path May Lead",
+        "desc": "Activate 10 Space Anchors on the Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040101,
+        "name": "Proper Role-Playing Gamer",
+        "desc": "Open Treasures 30 times on the Herta Space Station",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4040102,
+        "name": "But at What Cost?",
+        "desc": "Open Treasures 110 times in Belobog",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4042308,
+        "name": "A Drop in the Bucket",
+        "desc": "Open Treasures 100 time(s) on the Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040301,
+        "name": "Destructive Impulse",
+        "desc": "Destroy 100 destructible objects",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040302,
+        "name": "Free Will of Destruction",
+        "desc": "Destroy 1000 destructible objects",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4040601,
+        "name": "Take by Surprise",
+        "desc": "Enter combat with attacks of corresponding Types for 100 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040602,
+        "name": "Can't See Behind",
+        "desc": "Ambushed during exploration",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040603,
+        "name": "The Tertiary Power",
+        "desc": "Use Technique 50 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040604,
+        "name": "The Tertiary Dimension",
+        "desc": "Use Technique 300 time(s)",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4080401,
+        "name": "Dissertation Proposal",
+        "desc": "Collect 10 readable item(s) in the Herta Space Station",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080402,
+        "name": "Literature Review",
+        "desc": "Collect 50 readable item(s) in the Herta Space Station",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080403,
+        "name": "Non-pulp Fiction",
+        "desc": "Collect 20 readable item(s) in Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080404,
+        "name": "Everwinter City's Resident Historian",
+        "desc": "Collect 80 readable item(s) in Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4022403,
+        "name": "Glued to Books",
+        "desc": "Collect 30 readable items from the Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4022404,
+        "name": "Learned in All Things",
+        "desc": "Collect 80 readable items from the Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040407,
+        "name": "Red-Name Alert",
+        "desc": "Complete the Formidable Foe Challenge 5 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040408,
+        "name": "High-Level Domination",
+        "desc": "Complete the Formidable Foe Challenge 15 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040503,
+        "name": "Inter-Domain Roaming",
+        "desc": "Complete Warring Expedition 1 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040504,
+        "name": "You Want Me to Raid Without Achievements?",
+        "desc": "Complete Warring Expedition 9 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040701,
+        "name": "Tindalos Piggy",
+        "desc": "Capture Warp Trotter 1 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040702,
+        "name": "Phase ATM",
+        "desc": "Capture Warp Trotter 10 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4042301,
+        "name": "Sensory Socialization",
+        "desc": "Collect all Memory Bubbles scattered on the Herta Space Station",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040403,
+        "name": "Unearthly Marvel",
+        "desc": "Find all of the Unearthly Marvel treasures",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040404,
+        "name": "The Seven-Bridges Problem",
+        "desc": "Find all repulsion bridge treasures",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040409,
+        "name": "The Birth of Tragedy",
+        "desc": "Find all of The Fool's Box treasures",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040402,
+        "name": "Sisyphus of the Mines",
+        "desc": "Complete the final Mine Cart Test",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040406,
+        "name": "The Tale of Moles",
+        "desc": "Collect all of <i>The Adventurous Moles</i>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040410,
+        "name": "Red to Red and White to White",
+        "desc": "Complete Magflow Link 10 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051101,
+        "name": "Don't You Dare Waste It",
+        "desc": "Get Jim Roger Bread Soda from a trash can",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040411,
+        "name": "A Metaphor of Caves",
+        "desc": "Complete the Hexanexus 30 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4040412,
+        "name": "North by Northwest",
+        "desc": "Complete the Formation-Breaking Compass 20 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "5": {
+    "name": "The Memories We Share",
+    "achievements": [
+      {
+        "id": 4051001,
+        "name": "Guess Who I Am",
+        "desc": "Complete Companion Mission \"You Already Know Me\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051002,
+        "name": "The Sorrows of Young Arlan",
+        "desc": "Complete Companion Mission \"An Unexpected Turn of Events\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051003,
+        "name": "The Gift of the Magi",
+        "desc": "Complete Companion Mission \"Hook's Gift\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051004,
+        "name": "The Outskirts Here Are Quiet",
+        "desc": "Complete Companion Mission \"Blizzard Immunity\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051005,
+        "name": "Clara and the Sun",
+        "desc": "Complete Companion Mission \"Rarely Affectionate\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051006,
+        "name": "Serval's Faithfull: An Autobiography",
+        "desc": "Complete Companion Mission \"Only A Child\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051103,
+        "name": "Seventeen's Map",
+        "desc": "Find all readable items regarding Asta in the mission \"Emptiness of Locus Silentii\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051104,
+        "name": "Diamond and Rust",
+        "desc": "Give the log to Bernard in the mission, \"To: The Faint Star\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051105,
+        "name": "Farewell, Comet Hunter",
+        "desc": "Collect three \"Letters From the Comet Hunter\" in the mission \"Out of Reach\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051106,
+        "name": "Does She Walk Alone?",
+        "desc": "Complete the mission \"Guide Paradox\" and witness the android's ending",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051107,
+        "name": "Close Encounters of the Sixth Kind",
+        "desc": "Obtain the ability to communicate with Wubbaboos in the mission \"Requiem Mass\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052302,
+        "name": "Disposable",
+        "desc": "Find and talk to all Herta puppets in the space station",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052304,
+        "name": "When Breath Becomes Air",
+        "desc": "Visit the researcher Eikura Shuu's memorial",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052305,
+        "name": "Bzzt! Clock Out!",
+        "desc": "Turn off the little robots in the space station 6 times",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052306,
+        "name": "Door to A New World",
+        "desc": "Use the Curio \"Door to A New World\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052307,
+        "name": "Just A Number",
+        "desc": "Use the Curio \"Rating Pistol\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052308,
+        "name": "No King Rules Forever",
+        "desc": "Use the Curio \"Unbearable Weight\" and decipher the contents of the mysterious sound",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052309,
+        "name": "Green Thumb",
+        "desc": "Talk with the strange plant and visit it again on the next day",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051108,
+        "name": "Greed Psychology",
+        "desc": "Obtain the real treasure in the mission \"Survival Wisdom\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051109,
+        "name": "One Day More",
+        "desc": "Find all of Julian's items in the mission \"Hook's Treasure\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080601,
+        "name": "Moral Higher Ground",
+        "desc": "Confront the Public Property Protector and show him the cost of stopping you (or have him humbly acknowledge his wrongdoing.)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051110,
+        "name": "The Lifecycle of Software Objects",
+        "desc": "Choose not to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080602,
+        "name": "Outworlder",
+        "desc": "Return the music box found in Rivet Town to its heartbroken owner",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051111,
+        "name": "For a Breath I Tarry",
+        "desc": "Choose to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080603,
+        "name": "<unbreak>50</unbreak> Credits!?",
+        "desc": "Collect all wanted posters of the Express Crew in Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052310,
+        "name": "Twinkly, Winkly",
+        "desc": "Obtain 3 Ancient Coin(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080604,
+        "name": "Sweet Pom-Pom O'Mine",
+        "desc": "Try to give the Jarilo-VI's armillary sphere a spin to find... um... Pom-Pom on it?",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052311,
+        "name": "Hurt Locker",
+        "desc": "Solve the crisis at the Belobog cable car station while also avoiding ethical risks",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080605,
+        "name": "Where It All Began",
+        "desc": "Return to the room where the Stellaron was kept and recall a blurred memory",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052312,
+        "name": "Knight in Shining Armor",
+        "desc": "Find the language module and give it to Fidora the amateur mechanic",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080606,
+        "name": "Honest Abe",
+        "desc": "Pass the test of integrity set up by a mysterious researcher",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052313,
+        "name": "The Mandela Effect",
+        "desc": "Contact Belobog's \"back alley\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052314,
+        "name": "Natural Immunity",
+        "desc": "Obtain the recipe for fried rice from talking with Gertie at the Goethe Grand Hotel",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052315,
+        "name": "Lā Lá Lǎ Là Land",
+        "desc": "Obtain the score for the phonograph from talking with Tamila at the Golden Theater",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052316,
+        "name": "Winter City Trap",
+        "desc": "Finish listening to the vagrant's rap",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052317,
+        "name": "For Ages <unbreak>12</unbreak> and Up",
+        "desc": "Participate in the Dark Fist Tournament and become the ultimate winner",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052349,
+        "name": "Dance Like A Butterfly, Sting Like A Bee",
+        "desc": "Dominate all 5 tournaments in the Boulder Town Super League",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4052318,
+        "name": "The Kelly Gang",
+        "desc": "Excavate the treasure hidden in the Belobog Administrative District's fountain",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052319,
+        "name": "The Banality of Evil",
+        "desc": "Finish all the Fool's Box puzzles in the mission \"Vessel of Mediocrity\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052320,
+        "name": "The Fourth Little Mole",
+        "desc": "Find all hidden treasures in the Mission \"The Adventurous Moles\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052321,
+        "name": "<i>The Adventurous Moles</i> Super Grown-Up Edition",
+        "desc": "Buy <i>The Adventurous Moles: Hidden Treasure</i> from the Belobog Book Merchant",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052323,
+        "name": "A Simple Life",
+        "desc": "Receive a text from Luhui after completing the mission \"Fired\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052324,
+        "name": "Carpe Diem, Festina Lente, and Tempus Fugit",
+        "desc": "Revving up, Losing Steam and Running On Empty.\\nReceive all the texts about Chengjie's fading passion after completing the mission \"A Teacher and a Friend\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052325,
+        "name": "Cyber Fraud",
+        "desc": "Choose to have the Foxian Beauty turn themselves in during the mission \"From Xianzhou With Love\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052326,
+        "name": "Tootsie",
+        "desc": "Choose to have the Foxian Beauty reveal their true identity during the mission \"From Xianzhou With Love\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052327,
+        "name": "A Secret Makes a Woman, Woman.",
+        "desc": "Choose to let the Foxian Beauty continue the ruse during the mission \"From Xianzhou With Love\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052328,
+        "name": "The Seven Errors of Cycranes: Sloth",
+        "desc": "Convince the depressed cycrane to return to its job",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052329,
+        "name": "Seven Birds in the Hand Is Worth A Thousand in the Bush",
+        "desc": "Help Heron Express to recover all lost cycranes",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052330,
+        "name": "Fair and Square",
+        "desc": "Win the Xianzhou Luofu Competitive Eater Championship openly and fairly",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052331,
+        "name": "All Is Fair in Love and War",
+        "desc": "Win the Xianzhou Luofu Competitive Eater Championship in underhanded ways",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052332,
+        "name": "From Hero to Zero",
+        "desc": "Lose the Xianzhou Luofu Competitive Eater Championship",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052333,
+        "name": "Far From the Madding Crowd",
+        "desc": "Talk with the Immortal in a Vase and obtain its gift from the vase",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052334,
+        "name": "Let the Wind Blow Where It May",
+        "desc": "Talk with the Immortal in a Vase and refuse its gift",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052335,
+        "name": "Hasta la vista, Hexanexus!",
+        "desc": "Complete 15 Hexanexus challenge(s) from the Hex Club",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052336,
+        "name": "Rubik's Headache",
+        "desc": "Complete 15 new Hexanexus challenge(s) from the Hex Club",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052337,
+        "name": "Labor Omnia Vincit",
+        "desc": "Examine file cabinets in the Seat of Divine Foresight 7 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052338,
+        "name": "The Crimes That Bind",
+        "desc": "Stop the strange tourist from throwing a coin into the starskiff engine",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052339,
+        "name": "Flight Cancelled",
+        "desc": "Help the strange tourist to throw a coin into the starskiff engine",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052340,
+        "name": "Lost and Found",
+        "desc": "Retrieved the credits that the fraudster took",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052341,
+        "name": "Leave It There",
+        "desc": "Did not retrieve the credits that the fraudster took",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052342,
+        "name": "Have Your Cake and Eat It",
+        "desc": "Retrieved more credits from the fraudster than what they took",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052343,
+        "name": "The Seven Errors of Cycranes: Lust",
+        "desc": "Follow the gentlemanly cycrane to find the picture book withheld by customs",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052344,
+        "name": "The Seven Errors of Cycranes: Gluttony",
+        "desc": "Complete a bet with the dissatisfied cycrane",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052345,
+        "name": "The Seven Errors of Cycranes: Greed",
+        "desc": "Explore the \"mountain of deliveries\" protected by the \"evil dragon\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052346,
+        "name": "The Seven Errors of Cycranes: Envy",
+        "desc": "Complete the challenge from the resentful cycrane",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052347,
+        "name": "The Seven Errors of Cycranes: Wrath",
+        "desc": "Defeat the highwaymen with the brave cycrane",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052348,
+        "name": "The Seven Errors of Cycranes: Pride",
+        "desc": "Complete the challenge from the \"Four Great Villains of the Luofu (Self-Proclaimed)\"",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "6": {
+    "name": "Glory of the Unyielding",
+    "achievements": [
+      {
+        "id": 4060101,
+        "name": "Shadows Die Ad Infinitum (I)",
+        "desc": "Defeat Stagnant Shadow 100 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060102,
+        "name": "Shadows Die Ad Infinitum (II)",
+        "desc": "Defeat Stagnant Shadow 400 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060103,
+        "name": "Shadows Die Ad Infinitum (III)",
+        "desc": "Defeat Stagnant Shadow 800 time(s)",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060201,
+        "name": "Day of the Triffids (I)",
+        "desc": "Defeat Calyx 100 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060202,
+        "name": "Day of the Triffids (II)",
+        "desc": "Defeat Calyx 500 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060203,
+        "name": "Day of the Triffids (III)",
+        "desc": "Defeat Calyx 1000 time(s)",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060301,
+        "name": "Phantom of the Cavern (I)",
+        "desc": "Complete Caverns of Corrosion 100 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060302,
+        "name": "Phantom of the Cavern (II)",
+        "desc": "Complete Caverns of Corrosion 400 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060303,
+        "name": "Phantom of the Cavern (III)",
+        "desc": "Complete Caverns of Corrosion 800 time(s)",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4060401,
+        "name": "Echo of War (I)",
+        "desc": "Complete Echo of War 1 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4060402,
+        "name": "Echo of War (II)",
+        "desc": "Complete Echo of War 10 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "7": {
+    "name": "Eager for Battle",
+    "achievements": [
+      {
+        "id": 4070101,
+        "name": "Unstoppable",
+        "desc": "Use 4 Ultimates in a row",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070201,
+        "name": "Break Till Broken",
+        "desc": "Inflict Weakness Break #2[i] time(s) upon the same enemy in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070301,
+        "name": "Serious Punch",
+        "desc": "Deal equal to or more than 1000 DMG in a single attack",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070302,
+        "name": "Ki Impact",
+        "desc": "Deal equal to or more than 20000 DMG in a single attack",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070303,
+        "name": "Annihilation",
+        "desc": "Deal equal to or more than 150000 DMG in a single attack",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070401,
+        "name": "Consecutive Normal Punches",
+        "desc": "Deal 2000 DMG in one attack",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070402,
+        "name": "Blade of Taixu",
+        "desc": "Deal 40000 DMG in one attack",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070403,
+        "name": "Reverberating Ruin",
+        "desc": "Deal 300000 DMG in one attack",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4070421,
+        "name": "Trauma Team Platinum Bundle",
+        "desc": "An ally heals for more than 8000 HP in a single heal",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070441,
+        "name": "Earthwork",
+        "desc": "An ally has a combined Shield effect greater than 5000 at any time",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070501,
+        "name": "A Song of Vice and Dire",
+        "desc": "Inflict both Burn and Freeze upon 1 enemy at the same time",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070502,
+        "name": "Memory, Sorrow, and Thorn",
+        "desc": "Inflict #2[i] DoT effects upon <unbreak>1</unbreak> enemie(s) at the same time",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070601,
+        "name": "Electric Dreams",
+        "desc": "Defeat 3 enemies with Lightning Break DMG in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070602,
+        "name": "Fahrenheit <unbreak>451</unbreak>",
+        "desc": "Defeat 3 enemies with Fire Break DMG in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070603,
+        "name": "Sunstorm",
+        "desc": "Defeat 3 enemies with Wind Break DMG in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070604,
+        "name": "The Demolished Man",
+        "desc": "Defeat 3 enemies with Physical Break DMG in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070605,
+        "name": "Lightning Breaker (I)",
+        "desc": "Defeat 20 enemies with Lightning Break DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070606,
+        "name": "Lightning Breaker (II)",
+        "desc": "Defeat 60 enemies with Lightning Break DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070607,
+        "name": "Fire Breaker (I)",
+        "desc": "Defeat 20 enemies with Fire Break DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070608,
+        "name": "Fire Breaker (II)",
+        "desc": "Defeat 60 enemies with Fire Break DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070609,
+        "name": "Wind Breaker (I)",
+        "desc": "Defeat 20 enemies with Wind Break DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070610,
+        "name": "Wind Breaker (II)",
+        "desc": "Defeat 60 enemies with Wind Break DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070611,
+        "name": "Physical Breaker (I)",
+        "desc": "Defeat 20 enemies with Physical Break DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070612,
+        "name": "Physical Breaker (II)",
+        "desc": "Defeat 60 enemies with Physical Break DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070701,
+        "name": "Schrödinger's Other Cat",
+        "desc": "Inflict 5 Quantum Weakness Breaks in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070702,
+        "name": "The Cold Equations",
+        "desc": "Inflict 5 Ice Weakness Breaks in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070703,
+        "name": "Unimaginably Imaginary",
+        "desc": "Inflict 5 Imaginary Weakness Breaks in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070704,
+        "name": "Quantum Breaker (I)",
+        "desc": "Inflict Quantum Weakness Break 100 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070705,
+        "name": "Quantum Breaker (II)",
+        "desc": "Inflict Quantum Weakness Break 300 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070706,
+        "name": "Ice Breaker (I)",
+        "desc": "Inflict Ice Weakness Break 100 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070707,
+        "name": "Ice Breaker (II)",
+        "desc": "Inflict Ice Weakness Break 300 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070708,
+        "name": "Imaginary Breaker (I)",
+        "desc": "Inflict Imaginary Weakness Break 100 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070709,
+        "name": "Imaginary Breaker (II)",
+        "desc": "Inflict Imaginary Weakness Break 300 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070801,
+        "name": "Preemptive Strike",
+        "desc": "Defeat 1 enemy with Technique DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070802,
+        "name": "Technique Breaker (I)",
+        "desc": "Defeat 10 enemies with Technique DMG",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070803,
+        "name": "Mozambique Drill",
+        "desc": "Defeat 3 enemies with follow-up attacks in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070804,
+        "name": "Follow-Up Breaker (I)",
+        "desc": "Defeat 80 enemies with follow-up attacks",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070805,
+        "name": "Follow-Up Breaker (II)",
+        "desc": "Defeat 240 enemies with follow-up attacks",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070806,
+        "name": "A Thousand Cuts...",
+        "desc": "Defeat 3 enemies using DoT in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070807,
+        "name": "DoT Breaker (I)",
+        "desc": "Defeat 80 enemies with DoT attacks",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070808,
+        "name": "DoT Breaker (II)",
+        "desc": "Defeat 240 enemies with DoT attacks",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070810,
+        "name": "No Offense",
+        "desc": "Remove buffs on enemies 5 time(s) in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070812,
+        "name": "The Exorcist",
+        "desc": "Remove debuffs from allies 5 time(s) in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071001,
+        "name": "Perpetual Freezer",
+        "desc": "Freeze 1 enemies for <unbreak>#2[i]</unbreak> turns in a row",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071002,
+        "name": "Morituri Te Salutant",
+        "desc": "Defeat an enemy when a character has less than 1% of HP left",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071003,
+        "name": "One on One",
+        "desc": "Enter combat with 4 character(s) but win with only <unbreak>#2[i]</unbreak> character(s) still standing",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071004,
+        "name": "All Men Must Die",
+        "desc": "Receive a killing blow from enemies when at 100% HP",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071005,
+        "name": "Energy Grandet",
+        "desc": "Have a character whose Energy is at 100% at the beginning of a turn for <unbreak>4</unbreak> turns in a row",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071006,
+        "name": "Passing as a Flower in the City of the Dead",
+        "desc": "Revive 2 downed character(s) in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071007,
+        "name": "Add Insult to Injury",
+        "desc": "Deal a total of 20000 DMG to enemies inflicted with Weakness Break in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071008,
+        "name": "A Casualty of Armors",
+        "desc": "Receive a total of 10000 DMG on 1 character in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071009,
+        "name": "Serial Breaker",
+        "desc": "Inflict Weakness Break to 4 enemies in a single action",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071012,
+        "name": "Heavenly Hand",
+        "desc": "Use a Technique to defeat all enemies upon entering battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071013,
+        "name": "Always Come Prepared",
+        "desc": "A character has 5 or more buffs at the beginning of a turn",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071014,
+        "name": "Highway Star",
+        "desc": "Allies act for 100 times in a single battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071015,
+        "name": "Extreme Survival",
+        "desc": "Win a battle with all four allies having HP percentages equal to or less than 0%",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071016,
+        "name": "Bullet Time",
+        "desc": "Allies have 10 turns of action unbroken by enemies",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071017,
+        "name": "Perish Song",
+        "desc": "Get knocked out together with the enemy",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071018,
+        "name": "Bring a Gun to a Knife Fight",
+        "desc": "Deal #2[i] DMG or higher to an enemy whose HP percentage is equal to or lower than <unbreak>0%</unbreak> in a single attack",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071401,
+        "name": "Deus Ex Machina",
+        "desc": "Inflict Weakness Break on enemies 3 time(s) using the Trailblazer (Destruction) in a single battle",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071501,
+        "name": "Four-and-a-Half Pirouettes",
+        "desc": "Trigger Herta's talent with an ally's single attack, and have her twirl 5 time(s)",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071502,
+        "name": "Surge of Tiles",
+        "desc": "Qingque starts her turn in the \"Hidden Hand\" state for 3 turn(s) in a row",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071503,
+        "name": "It's My Turn",
+        "desc": "Seele acts 5 time(s) in a row before the next ally unit's turn",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071504,
+        "name": "Trial of Thirteen",
+        "desc": "In a single battle, make Svarog block attacks toward Clara 13 times",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071505,
+        "name": "Coffee Lover",
+        "desc": "A cup of coffee thrice a day, keeps the foggy head at bay\\n<color=#8790abff>※ In a single battle, use Himeko's Ultimate 3 times</color>",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071506,
+        "name": "Over-Protective",
+        "desc": "Win 1 battle(s) without having Gepard's Shields take any DMG",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071603,
+        "name": "When the National Anthem Rings",
+        "desc": "Have ally Bronya use \"The Belobog March\" 1 time(s) when fighting the bosses Gepard, Cocolia, and Bronya respectively",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071607,
+        "name": "Foolish Little Brother...",
+        "desc": "Use Serval to deal the final blow in a victory against boss Gepard",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071608,
+        "name": "Serval's Parting Gift",
+        "desc": "Use Serval to deal the final blow in a victory against boss Cocolia",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071609,
+        "name": "Et tu, Bronya?",
+        "desc": "Use Bronya to deal the final blow in a victory against boss Cocolia",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4071610,
+        "name": "Listen...",
+        "desc": "Use the Trailblazer to fight boss Kafka and become Dominated by her",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072001,
+        "name": "\"I Don't Get No Respect!\"",
+        "desc": "Enrage the Guardian Shadow with 4 character(s) in your team",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072002,
+        "name": "Chad Norris",
+        "desc": "Defeat the Guardian Shadow without enraging it",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072003,
+        "name": "Attack! No Matter the Cost!",
+        "desc": "Trigger Silvermane Lieutenant's Shield Reflect at least 4 time(s) and defeat it",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072004,
+        "name": "Decapitation Strike",
+        "desc": "Defeat the Silvermane Lieutenant without defeating any Silvermane Guards",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072008,
+        "name": "The Limping Lupine",
+        "desc": "Defeat Automaton Direwolf without triggering Felling Order",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072012,
+        "name": "Regurgitation",
+        "desc": "Cause Frigid Prowler to fail to use Devour Otherling",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072013,
+        "name": "Hit It Where It Hurts Most",
+        "desc": "Defeat the Antimatter Engine without defeating either of the Doomsday Beast's hands in Echo of War",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072014,
+        "name": "Cataclysm Disruptor",
+        "desc": "Prevent the Doomsday Beast from using Impending Doom in Echo of War",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072016,
+        "name": "\"Thank You for Your Service\"",
+        "desc": "Defeat Bronya without defeating the Silvermane Guards",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072017,
+        "name": "Achilles' Horse",
+        "desc": "Defeat Voidranger: Trampler when it's aiming at an ally",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072018,
+        "name": "Doldrums",
+        "desc": "Make Stormbringer fail to use Windfall Storm due to having no ally with Wind Shear",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072019,
+        "name": "Code of Chivalry",
+        "desc": "Defeat Gepard without defeating the Silvermane Guards that were summoned",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072020,
+        "name": "Full Metal Jacket",
+        "desc": "Stay alive after being hit by the Auxiliary Robot Arm Unit's Controlled Blasting ability",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072022,
+        "name": "Right-Hand Man's Many Right-Handed Right Hands",
+        "desc": "Defeat Svarog after destroying 4 Auxiliary Robot Arm Unit(s)",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072023,
+        "name": "Homemade Crushed Ice",
+        "desc": "Defeat the Ice Edge summoned by Cocolia 4 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072024,
+        "name": "Road to Canossa",
+        "desc": "Interrupt Cocolia's use of \"Wrath of Winterland Saints\" when she is charging",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072026,
+        "name": "Save the Princess",
+        "desc": "Defeat Cocolia without defeating Bronya",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072027,
+        "name": "Hot-Blooded",
+        "desc": "Defeat Cocolia, Mother of Deception, without any ally being Frozen at any point of the battle in Echo of War",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4072101,
+        "name": "Accidental Amnesia",
+        "desc": "Clear Decaying Shadow's Gauge Recollection and cause its ability, Liberation of the Golden Age, to fail",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072103,
+        "name": "Friendly Fire",
+        "desc": "Defeat the Aurumaton Gatekeeper with the Entranced Ingenium: Illumination Dragonfish's \"Candle Flame\"",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072104,
+        "name": "Wrathful Aurumaton",
+        "desc": "In a single battle, cause Aurumaton Gatekeeper to enter the Wrath state 3 times",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4072105,
+        "name": "Will of Steel",
+        "desc": "In a single battle against Boss Kafka, dispel Dominated 3 times",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "8": {
+    "name": "Moment of Joy",
+    "achievements": [
+      {
+        "id": 4080101,
+        "name": "Earth Week",
+        "desc": "Log in 7 days in a row",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4082303,
+        "name": "Earth Month",
+        "desc": "Log in for a total of 30 days",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4082301,
+        "name": "Earth Year",
+        "desc": "Log in for a total of 365 days",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4080301,
+        "name": "Diogenes' Utopia",
+        "desc": "See what Belobog is famous for!\\n<color=#8790abff>※ You've obtained every useful prop in the trash cans!</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080302,
+        "name": "Insatiable",
+        "desc": "Sometimes, there can be too much of a good thing...\\n<color=#8790abff>※ Use Vomit Inducing Agent 1 time(s)</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080303,
+        "name": "Trashy Humor",
+        "desc": "One man's trash is another man's treasure\\n<color=#8790abff>※ Use Trash to synthesize Consumables 10 times</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080304,
+        "name": "Karmic Wheel",
+        "desc": "Let the Higher Existence that lives within our hearts sigh at you\\n<color=#8790abff>※ Find a way to use up your Praise of High Morals</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080305,
+        "name": "Saint",
+        "desc": "Let the Higher Existence that lives within our hearts give you a thumbs-up\\n<color=#8790abff>※ Obtain Praise of High Morals 20 time(s)</color>",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070901,
+        "name": "It Takes Three",
+        "desc": "Win a battle with a team that has 3 characters of the same Path",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4072305,
+        "name": "Versatile Joker",
+        "desc": "Use a total of 20 character(s) to form a team with Sampo and win at least 1 battle",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070902,
+        "name": "Match-Three",
+        "desc": "Win a battle with a team that has 3 characters of the same Type",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071601,
+        "name": "One Big Happy Family",
+        "desc": "Win 1 battle(s) with a team comprising Himeko, Welt, Dan Heng, and March 7th",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080501,
+        "name": "Hot-Blooded Trailblazer",
+        "desc": "Choose hot-blooded dialogue options 5 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4071602,
+        "name": "Architects (And Former Architects)",
+        "desc": "Win 1 battle(s) with a team comprising Bronya, Gepard, Pela, and Serval",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080502,
+        "name": "Pessimistic Trailblazer",
+        "desc": "Choose pessimistic dialogue options 5 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080503,
+        "name": "Apologetic Trailblazer",
+        "desc": "Choose apologetic dialogue options 5 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080504,
+        "name": "Silent Trailblazer",
+        "desc": "Choose silent dialogue options 5 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080505,
+        "name": "The Echoer",
+        "desc": "Choose repetitive dialogue options 3 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4080506,
+        "name": "The Meaning of Choice",
+        "desc": "Choose gender-specific dialogue options 3 time(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070903,
+        "name": "Lone Wolf",
+        "desc": "Win 10 battles with only one character on the team",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070904,
+        "name": "For the Amber Lord",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Preservation",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070905,
+        "name": "Ablution Dictum",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Destruction",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070906,
+        "name": "The Xianzhou Alliance",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of The Hunt",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070907,
+        "name": "Meaningless Achievement",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Nihility",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070908,
+        "name": "The Great Accord",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Harmony",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070909,
+        "name": "Knowledge Is Power",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Erudition",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070910,
+        "name": "Miracles of Yaoshi",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Abundance",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070911,
+        "name": "Tempestuous Suppression",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Wind-Type character(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070912,
+        "name": "Fulguration Beckoner",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Lightning-Type character(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070913,
+        "name": "Total Conflagration",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Fire-Type character(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070914,
+        "name": "Glacier Dynast",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Ice-Type character(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070915,
+        "name": "Quantum Test",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Quantum-Type character(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070916,
+        "name": "Imaginary Law",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Imaginary-Type character(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4070917,
+        "name": "Speak with Fists",
+        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Physical-Type character(s)",
+        "rarity": 1,
+        "version": "1.0"
+      }
+    ]
+  },
+  "9": {
+    "name": "Universe in a Nutshell",
+    "achievements": [
+      {
+        "id": 4090201,
+        "name": "The First and Last Freedom",
+        "desc": "Enter battle with 4 allies with HP percentage equal to or less than <unbreak>#2[i]%</unbreak> in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090202,
+        "name": "The Art of Loving",
+        "desc": "Allies receive Shields 50 times in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090203,
+        "name": "Freeze!",
+        "desc": "Keep a single enemy Frozen for 10 turns in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090204,
+        "name": "Elemental Reaction System",
+        "desc": "Deal 5 or more Types of DMG in a single attack in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090205,
+        "name": "Your Opponent Has Poor Connection",
+        "desc": "Allies take consecutive actions 20 time(s) in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090206,
+        "name": "Twenty Four Love Poems and a Song of Despair",
+        "desc": "All allies have HP percentages equal to or less than 0% when winning a battle in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090207,
+        "name": "We Call the Heart Dancing in the Dark the Moon",
+        "desc": "Have at least 3 enemy unit(s) be afflicted with Shock, Burn, Bleed, and Wind Shear simultaneously in the Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090301,
+        "name": "Good Night, My Friend",
+        "desc": "Defeat 15 enemies in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090303,
+        "name": "Ready Player One",
+        "desc": "Defeat 1000 enemies in Simulated Universe",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4090501,
+        "name": "Consumerism Psychology",
+        "desc": "Obtain 500 Cosmic Fragment(s)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4090503,
+        "name": "The Great Cosmic Gatsby",
+        "desc": "Obtain 20000 Cosmic Fragment(s)",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4091001,
+        "name": "A Special Experience",
+        "desc": "Encounter 10 Special Event(s) in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4091003,
+        "name": "A Not-So-Special Experience",
+        "desc": "Encounter 100 Special Event(s) in Simulated Universe",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092301,
+        "name": "A Room of One's Own",
+        "desc": "Complete exploring Simulated Universe: World 1",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092302,
+        "name": "Penrose Stairs",
+        "desc": "Complete exploring Simulated Universe at difficulty level 2 or higher",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092303,
+        "name": "King of Infinity",
+        "desc": "Complete exploring Simulated Universe at difficulty level 4 or higher",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092312,
+        "name": "Fevered Strike",
+        "desc": "Break 20 destructible object(s) in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092313,
+        "name": "Rosebud",
+        "desc": "Break 400 destructible object(s) in Simulated Universe",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092314,
+        "name": "Adrenaline",
+        "desc": "Actively Enhance Blessings 10 times in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092315,
+        "name": "Infectious Good Luck",
+        "desc": "Actively Enhance Blessings 200 times in Simulated Universe",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092316,
+        "name": "Do Android Snails Dream of Electric Trees?",
+        "desc": "Activate abilities in the Ability Tree 2 times",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092317,
+        "name": "Expert Tree-Climber",
+        "desc": "Activate abilities in the Ability Tree 26 times",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092318,
+        "name": "My Swiss Army Curios",
+        "desc": "Unlock 3 Curios in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092319,
+        "name": "Life Is but a Game",
+        "desc": "Unlock 40 Curios in Simulated Universe",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092320,
+        "name": "Who Moved My Pokeball?",
+        "desc": "Capture Trotters 1 times in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092321,
+        "name": "A Porcine Football Team",
+        "desc": "Capture Trotters 66 times in Simulated Universe",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092322,
+        "name": "Don't Let It Get Away!",
+        "desc": "Let Trotters escape 1 times in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092323,
+        "name": "Existence Precedes Essence",
+        "desc": "Unlock 12 Blessing(s) of Preservation in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092324,
+        "name": "Memories Look at Me",
+        "desc": "Unlock 12 Blessing(s) of Remembrance in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092325,
+        "name": "Create A Beautiful Chaos",
+        "desc": "Unlock 12 Blessing(s) of Elation in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092326,
+        "name": "Velocity of the Universe's Expansion",
+        "desc": "Unlock 12 Blessing(s) of The Hunt in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092327,
+        "name": "Wreck-It Self",
+        "desc": "Unlock 12 Blessing(s) of Destruction in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092328,
+        "name": "Gnosticism",
+        "desc": "Unlock 12 Blessing(s) of Nihility in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092329,
+        "name": "Exhalation",
+        "desc": "Unlock 12 Blessing(s) of Abundance in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092330,
+        "name": "Millennium Bug in Amber",
+        "desc": "Have 10 or more Blessing(s) of Preservation when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092331,
+        "name": "You See Memories",
+        "desc": "Have 10 or more Blessing(s) of Remembrance when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092332,
+        "name": "Don't Worry Be Happy",
+        "desc": "Have 10 or more Blessing(s) of Elation when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092333,
+        "name": "The Speed of Thought",
+        "desc": "Have 10 or more Blessing(s) of The Hunt when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092334,
+        "name": "Cool Guys Don't Look At Explosions",
+        "desc": "Have 10 or more Blessing(s) of Destruction when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092335,
+        "name": "The Plague of Fantasies",
+        "desc": "Have 10 or more Blessing(s) of Nihility when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092336,
+        "name": "Angel's Breath",
+        "desc": "Have 10 or more Blessing(s) of Abundance when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092337,
+        "name": "A Finger in Every Pie",
+        "desc": "Have Blessings from 6 or more Paths when clearing Simulated Universe",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092338,
+        "name": "An Island Unto Oneself",
+        "desc": "Have 6 or less Blessing(s) when clearing Simulated Universe at difficulty 2 or higher",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092339,
+        "name": "Private Collector",
+        "desc": "Have 22 or more Blessing(s) when clearing Simulated Universe",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092340,
+        "name": "Triangle Strategy",
+        "desc": "Flip cards 3 times in a single Nildis event in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092341,
+        "name": "Master Ball",
+        "desc": "Have 8 or more Curio(s) when clearing Simulated Universe",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092342,
+        "name": "A 4-Star Rarity Daydream",
+        "desc": "Have 0 or less Cosmic Fragment(s) when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092343,
+        "name": "It's Good to Be Rich!",
+        "desc": "Have 1024 or more Cosmic Fragment(s) when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092344,
+        "name": "On Fire off the Shoulder of Orion",
+        "desc": "Lose against Elite enemies in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092345,
+        "name": "Glitter at the Tannhauser Gate",
+        "desc": "Lose against the Boss Enemies in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092346,
+        "name": "Wake Up!",
+        "desc": "Lose the battle in the Nildis event in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092347,
+        "name": "Lost Like Tears in Rain",
+        "desc": "Lose the battle in the tavern event in Simulated Universe",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092349,
+        "name": "Console Game",
+        "desc": "Clear Simulated Universe at difficulty 2 or higher without using the Downloader",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092350,
+        "name": "If I Can Stop One Heart From Breaking",
+        "desc": "Clear Simulated Universe at difficulty 2 or higher without breaking any destructible objects",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092351,
+        "name": "The Grand Budapest Hotel",
+        "desc": "Clear Simulated Universe at difficulty 2 or higher and use Techniques 25 times",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092352,
+        "name": "Aleph Is the Universe",
+        "desc": "Clear Simulated Universe at difficulty 2 or higher with only 1 character in the team",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4092353,
+        "name": "Coherence",
+        "desc": "Clear Simulated Universe at difficulty 2 or higher with 4 characters of the same Path",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4092361,
+        "name": "Does This Game Not Have a Platinum Trophy?",
+        "desc": "Clear Simulated Universe (Difficulty Level 2 and above) with all allies at full HP at the end of every battle",
+        "rarity": 2,
+        "version": "1.0"
+      }
+    ]
+  }
+}

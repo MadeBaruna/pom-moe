@@ -1,0 +1,30 @@
+{
+  "destruction": {
+    "id": "destruction",
+    "name": "La Destruction"
+  },
+  "the-hunt": {
+    "id": "the-hunt",
+    "name": "La Chasse"
+  },
+  "erudition": {
+    "id": "erudition",
+    "name": "L'Érudition"
+  },
+  "harmony": {
+    "id": "harmony",
+    "name": "L'Harmonie"
+  },
+  "nihility": {
+    "id": "nihility",
+    "name": "La Nihilité"
+  },
+  "preservation": {
+    "id": "preservation",
+    "name": "La Préservation"
+  },
+  "abundance": {
+    "id": "abundance",
+    "name": "L'Abondance"
+  }
+}

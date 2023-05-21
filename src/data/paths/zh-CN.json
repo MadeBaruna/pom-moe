@@ -1,0 +1,30 @@
+{
+  "destruction": {
+    "id": "destruction",
+    "name": "毁灭"
+  },
+  "the-hunt": {
+    "id": "the-hunt",
+    "name": "巡猎"
+  },
+  "erudition": {
+    "id": "erudition",
+    "name": "智识"
+  },
+  "harmony": {
+    "id": "harmony",
+    "name": "同谐"
+  },
+  "nihility": {
+    "id": "nihility",
+    "name": "虚无"
+  },
+  "preservation": {
+    "id": "preservation",
+    "name": "存护"
+  },
+  "abundance": {
+    "id": "abundance",
+    "name": "丰饶"
+  }
+}

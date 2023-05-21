@@ -1,0 +1,163 @@
+{
+  "march-7th": {
+    "id": "march-7th",
+    "name": "三月なのか",
+    "path": "preservation",
+    "element": "ice",
+    "rarity": 4
+  },
+  "dan-heng": {
+    "id": "dan-heng",
+    "name": "丹恒",
+    "path": "the-hunt",
+    "element": "wind",
+    "rarity": 4
+  },
+  "himeko": {
+    "id": "himeko",
+    "name": "姫子",
+    "path": "erudition",
+    "element": "fire",
+    "rarity": 5
+  },
+  "welt": {
+    "id": "welt",
+    "name": "ヴェルト",
+    "path": "nihility",
+    "element": "imaginary",
+    "rarity": 5
+  },
+  "arlan": {
+    "id": "arlan",
+    "name": "アーラン",
+    "path": "destruction",
+    "element": "lightning",
+    "rarity": 4
+  },
+  "asta": {
+    "id": "asta",
+    "name": "アスター",
+    "path": "harmony",
+    "element": "fire",
+    "rarity": 4
+  },
+  "herta": {
+    "id": "herta",
+    "name": "ヘルタ",
+    "path": "erudition",
+    "element": "ice",
+    "rarity": 4
+  },
+  "bronya": {
+    "id": "bronya",
+    "name": "ブローニャ",
+    "path": "harmony",
+    "element": "wind",
+    "rarity": 5
+  },
+  "seele": {
+    "id": "seele",
+    "name": "ゼーレ",
+    "path": "the-hunt",
+    "element": "quantum",
+    "rarity": 5
+  },
+  "serval": {
+    "id": "serval",
+    "name": "セーバル",
+    "path": "erudition",
+    "element": "lightning",
+    "rarity": 4
+  },
+  "gepard": {
+    "id": "gepard",
+    "name": "ジェパード",
+    "path": "preservation",
+    "element": "ice",
+    "rarity": 5
+  },
+  "natasha": {
+    "id": "natasha",
+    "name": "ナターシャ",
+    "path": "abundance",
+    "element": "physical",
+    "rarity": 4
+  },
+  "pela": {
+    "id": "pela",
+    "name": "ペラ",
+    "path": "nihility",
+    "element": "ice",
+    "rarity": 4
+  },
+  "clara": {
+    "id": "clara",
+    "name": "クラーラ",
+    "path": "destruction",
+    "element": "physical",
+    "rarity": 5
+  },
+  "sampo": {
+    "id": "sampo",
+    "name": "サンポ",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 4
+  },
+  "hook": {
+    "id": "hook",
+    "name": "フック",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 4
+  },
+  "qingque": {
+    "id": "qingque",
+    "name": "青雀",
+    "path": "erudition",
+    "element": "quantum",
+    "rarity": 4
+  },
+  "tingyun": {
+    "id": "tingyun",
+    "name": "停雲",
+    "path": "harmony",
+    "element": "lightning",
+    "rarity": 4
+  },
+  "jing-yuan": {
+    "id": "jing-yuan",
+    "name": "景元",
+    "path": "erudition",
+    "element": "lightning",
+    "rarity": 5
+  },
+  "sushang": {
+    "id": "sushang",
+    "name": "素裳",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 4
+  },
+  "yanqing": {
+    "id": "yanqing",
+    "name": "彦卿",
+    "path": "the-hunt",
+    "element": "ice",
+    "rarity": 5
+  },
+  "bailu": {
+    "id": "bailu",
+    "name": "白露",
+    "path": "abundance",
+    "element": "lightning",
+    "rarity": 5
+  },
+  "trailblazer": {
+    "id": "trailblazer",
+    "name": "開拓者",
+    "path": "adaptive",
+    "element": "adaptive",
+    "rarity": 5
+  }
+}

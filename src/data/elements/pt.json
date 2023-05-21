@@ -1,0 +1,30 @@
+{
+  "physical": {
+    "id": "physical",
+    "name": "Físico"
+  },
+  "fire": {
+    "id": "fire",
+    "name": "Fogo"
+  },
+  "ice": {
+    "id": "ice",
+    "name": "Gelo"
+  },
+  "lightning": {
+    "id": "lightning",
+    "name": "Raio"
+  },
+  "wind": {
+    "id": "wind",
+    "name": "Vento"
+  },
+  "quantum": {
+    "id": "quantum",
+    "name": "Quântico"
+  },
+  "imaginary": {
+    "id": "imaginary",
+    "name": "Imaginário"
+  }
+}

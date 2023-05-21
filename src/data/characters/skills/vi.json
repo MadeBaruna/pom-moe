@@ -1,0 +1,4013 @@
+{
+  "march-7th": {
+    "attack": {
+      "name": "Mũi Tên Giá Lạnh",
+      "desc": "Gây Sát Thương Băng cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của March 7th.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Dễ Thương Là Chính Nghĩa",
+      "desc": "Cung cấp cho 1 đồng đội tấm khiên có thể triệt tiêu lượng sát thương bằng <span style=\"color: #f29e38ff\">{1}</span> Phòng Thủ của March 7th +<span style=\"color: #f29e38ff\">{4}</span>, duy trì {2} hiệp.\\nNếu phần trăm HP hiện tại của mục tiêu này lớn hơn hoặc bằng {3}, thì xác suất bị kẻ địch tấn công sẽ tăng cao.",
+      "values": [
+        [
+          38,
+          40,
+          43,
+          45,
+          48,
+          49,
+          51,
+          53,
+          55,
+          57,
+          59,
+          61,
+          63,
+          65,
+          67
+        ],
+        [
+          3
+        ],
+        [
+          30
+        ],
+        [
+          190,
+          304,
+          390,
+          475,
+          532,
+          589,
+          632,
+          675,
+          717,
+          760,
+          803,
+          846,
+          888,
+          931,
+          974
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Mưa Tên Băng Giá",
+      "desc": "Gây Sát Thương Băng cho toàn bộ kẻ địch tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của March 7th. Kẻ địch bị tấn công có {2} <u>xác suất cơ bản</u> bị Đóng Băng, duy trì {3} hiệp.\\nTrong trạng thái Đóng Băng, kẻ địch không thể hành động, đồng thời mỗi hiệp đấu bắt đầu sẽ chịu lượng <u>sát thương kèm theo</u> thuộc tính Băng bằng <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của March 7th.",
+      "values": [
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          50
+        ],
+        [
+          1
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Đặc Quyền Thiếu Nữ",
+      "desc": "Sau khi mục tiêu phe ta có Khiên bị mục tiêu địch tấn công, March 7th sẽ lập tức <u>Phản Kích</u> lại kẻ tấn công, gây Sát Thương Băng tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của March 7th. Hiệu ứng này mỗi hiệp có thể kích hoạt {2} lần.",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1001_Normal.png"
+    },
+    "technique": {
+      "name": "Khoảnh Khắc Đóng Băng",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu có {1} <u>xác suất cơ bản</u> khiến 1 kẻ địch ngẫu nhiên bị Đóng Băng, duy trì {2} hiệp.\\nTrong trạng thái Đóng Băng, kẻ địch không thể hành động, đồng thời mỗi hiệp đấu bắt đầu sẽ chịu lượng <u>Sát Thương Băng kèm theo</u> bằng {3} Tấn Công của March 7th.",
+      "values": [
+        [
+          100
+        ],
+        [
+          1
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "dan-heng": {
+    "attack": {
+      "name": "Thương Thuật Vân Kỵ - Gió Bắc",
+      "desc": "Gây Sát Thương Phong cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dan Heng.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Thương Thuật Vân Kỵ - Lũ Cuốn",
+      "desc": "Gây Sát Thương Phong cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dan Heng.\\nKhi Chiến Kỹ gây sát thương kích hoạt bạo kích, có {4} <u>xác suất cơ bản</u> khiến mục tiêu phe địch bị tấn công giảm tốc {2}, duy trì {3} hiệp.",
+      "values": [
+        [
+          130,
+          143,
+          156,
+          169,
+          182,
+          195,
+          211,
+          227,
+          244,
+          260,
+          273,
+          286,
+          299,
+          312,
+          325
+        ],
+        [
+          12
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Giấc Mơ Bồng Lai",
+      "desc": "Gây Sát Thương Phong cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dan Heng. Khi mục tiêu bị tấn công đang trong trạng thái Giảm Tốc, Bội Số Sát Thương Tuyệt Kỹ gây ra tăng <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ],
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Đi Một Ngày Đàng, Học Một Sàng Khôn",
+      "desc": "Khi Dan Heng trở thành mục tiêu thi triển kỹ năng của phe ta, <u>Xuyên Kháng</u> Phong của đòn tấn công tiếp theo tăng <span style=\"color: #f29e38ff\">{1}</span>. Hiệu ứng này sau {2} hiệp có thể kích hoạt lại.",
+      "values": [
+        [
+          18,
+          20,
+          22,
+          23,
+          25,
+          27,
+          29,
+          31,
+          34,
+          36,
+          38,
+          40,
+          41,
+          43,
+          45
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1002_Normal.png"
+    },
+    "technique": {
+      "name": "Mũi Nhọn Tiên Phong",
+      "desc": "Sau khi dùng Bí Kỹ, Tấn Công của Dan Heng khi bắt đầu lần chiến đấu tiếp theo tăng {1}, duy trì {2} hiệp.",
+      "values": [
+        [
+          40
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "himeko": {
+    "attack": {
+      "name": "Chỉnh Đốn Vũ Trang",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Himeko.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Sức Nóng Bùng Nổ",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Himeko, đồng thời gây Sát Thương Hỏa cho mục tiêu lân cận kẻ đó tương đương <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Himeko.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Lửa Thiên Giáng Trần",
+      "desc": "Gây Sát Thương Hỏa cho toàn bộ kẻ địch tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Himeko. Cứ tiêu diệt 1 kẻ địch sẽ hồi thêm cho Himeko {2} Năng Lượng.",
+      "values": [
+        [
+          138,
+          147,
+          156,
+          166,
+          175,
+          184,
+          196,
+          207,
+          218,
+          230,
+          239,
+          248,
+          258,
+          267,
+          276
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Truy Kích Dồn Dập",
+      "desc": "Khi Điểm Yếu của mục tiêu địch bị phá vỡ, Himeko sẽ nhận Nạp Năng Lượng, giới hạn là {2} điểm.\\nSau khi phe ta tấn công, nếu Nạp Năng Lượng của Himeko đạt giới hạn sẽ phát động ngay 1 lần <u>Đòn Đánh Theo Sau</u>, gây Sát Thương Hỏa cho toàn phe địch tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Himeko, đồng thời tiêu hao toàn bộ Nạp Năng Lượng.\\nKhi bắt đầu chiến đấu sẽ nhận 1 điểm Nạp Năng Lượng.",
+      "values": [
+        [
+          70,
+          77,
+          84,
+          91,
+          98,
+          105,
+          114,
+          122,
+          131,
+          140,
+          147,
+          154,
+          161,
+          168,
+          175
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1003_Normal.png"
+    },
+    "technique": {
+      "name": "Lửa Thiêu Âm Ỉ",
+      "desc": "Sau khi dùng Bí Kỹ sẽ tạo ra vùng đặc biệt trong {4} giây. Khi vào chiến đấu với kẻ địch trong vùng này có {1} <u>xác suất cơ bản</u> khiến Sát Thương Hỏa mà kẻ địch phải chịu tăng {2}, duy trì {3} hiệp. Cùng một lúc tối đa chỉ tồn tại 1 hiệu ứng vùng do phe ta tạo ra.",
+      "values": [
+        [
+          100
+        ],
+        [
+          10
+        ],
+        [
+          2
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
+  "welt": {
+    "attack": {
+      "name": "Trọng Lực Áp Chế",
+      "desc": "Gây Sát Thương Số Ảo cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Welt.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Biên Giới Hư Không",
+      "desc": "Gây Sát Thương Số Ảo cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Welt, đồng thời gây thêm 2 lần sát thương. Mỗi lần sát thương sẽ gây cho 1 kẻ địch ngẫu nhiên Sát Thương Số Ảo tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Welt. Khi tấn công chính xác có <span style=\"color: #f29e38ff\">{2}</span> <u>xác suất cơ bản</u> khiến Tốc Độ của kẻ địch bị tấn công giảm {3}, duy trì {4} hiệp.",
+      "values": [
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68,
+          72,
+          76,
+          79,
+          83,
+          86,
+          90
+        ],
+        [
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80
+        ],
+        [
+          10
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Lỗ Đen Mô Phỏng",
+      "desc": "Gây Sát Thương Số Ảo cho toàn phe địch tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Welt, có {3} <u>xác suất cơ bản</u> khiến kẻ địch bị tấn công rơi vào trạng thái Giam Cầm, duy trì 1 hiệp.\\nTrong trạng thái Giam Cầm, hành động của kẻ địch bị <u>trì hoãn</u> <span style=\"color: #f29e38ff\">{2}</span>, Tốc Độ giảm {4}.",
+      "values": [
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          32,
+          33,
+          34,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          42,
+          43,
+          44
+        ],
+        [
+          100
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Bẻ Cong Thời Không",
+      "desc": "Khi đánh trúng kẻ địch trong trạng thái Giảm Tốc sẽ bồi thêm 1 lần <u>Sát Thương Số Ảo đính kèm</u> tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Welt.",
+      "values": [
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1004_Normal.png"
+    },
+    "technique": {
+      "name": "Ngục Tù Trói Buộc",
+      "desc": "Sau khi dùng Bí Kỹ sẽ tạo ra 1 vùng đặc biệt duy trì trong {4}s. Tốc Độ Di Chuyển của kẻ địch trong vùng đặc biệt sẽ bị giảm {5}. Khi vào chiến đấu với kẻ địch trong vùng đặc biệt, có {1} <u>xác suất cơ bản</u> khiến kẻ địch bị Giam Cầm, duy trì 1 hiệp.\\nTrong trạng thái Giam Cầm, kẻ địch bị <u>Trì Hoãn Hành Động</u> {2}, tốc độ giảm {3}. Cùng một lúc chỉ có thể tồn tại 1 hiệu ứng vùng do phe ta tạo ra.",
+      "values": [
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ],
+        [
+          15
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "arlan": {
+    "attack": {
+      "name": "Nhanh Như Sấm Chớp",
+      "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Arlan.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Giải Trừ Giam Cầm",
+      "desc": "Tiêu hao HP bằng {1} Giới Hạn HP của Arlan, để gây cho 1 kẻ địch chỉ định Sát Thương Lôi tương đương <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Arlan. Nếu HP hiện tại không đủ, khi thi triển Chiến Kỹ, HP hiện tại của Arlan sẽ giảm còn 1 điểm.",
+      "values": [
+        [
+          15
+        ],
+        [
+          120,
+          132,
+          144,
+          156,
+          168,
+          180,
+          195,
+          210,
+          225,
+          240,
+          252,
+          264,
+          276,
+          288,
+          300
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Trừng Trị Cuồng Giả",
+      "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Arlan, đồng thời gây Sát Thương Lôi cho mục tiêu lân cận kẻ đó tương đương <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Arlan.",
+      "values": [
+        [
+          192,
+          205,
+          218,
+          230,
+          243,
+          256,
+          272,
+          288,
+          304,
+          320,
+          333,
+          346,
+          358,
+          371,
+          384
+        ],
+        [
+          96,
+          102,
+          109,
+          115,
+          122,
+          128,
+          136,
+          144,
+          152,
+          160,
+          166,
+          173,
+          179,
+          186,
+          192
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Đau Đớn Cùng Cực",
+      "desc": "Tăng sát thương dựa trên phần trăm HP mất đi hiện tại của Arlan, tối đa tăng <span style=\"color: #f29e38ff\">{1}</span> sát thương Arlan gây ra.",
+      "values": [
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68,
+          72,
+          76,
+          79,
+          83,
+          86,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1008_Normal.png"
+    },
+    "technique": {
+      "name": "Dứt Điểm Cực Tốc",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu, sẽ gây Sát Thương Lôi cho toàn bộ kẻ địch tương đương {1} Tấn Công của Arlan.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
+  "asta": {
+    "attack": {
+      "name": "Tia Quang Phổ",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Asta.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Bão Sao Băng",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Asta, đồng thời gây thêm 4 lần sát thương. Mỗi lần sát thương gây Sát Thương Hỏa cho kẻ địch ngẫu nhiên tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Asta.",
+      "values": [
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Lời Cầu Chúc Astral",
+      "desc": "Khiến Tốc Độ của toàn phe ta tăng <span style=\"color: #f29e38ff\">{1}</span> điểm, duy trì {2} hiệp.",
+      "values": [
+        [
+          36,
+          37,
+          39,
+          40,
+          42,
+          43,
+          45,
+          47,
+          48,
+          50,
+          51,
+          53,
+          54,
+          56,
+          57
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Chiêm Tinh Học",
+      "desc": "Mỗi khi đánh trúng 1 kẻ địch khác nhau sẽ nhận được 1 tầng Tụ Năng, nếu điểm yếu của mục tiêu địch bị tấn công là thuộc tính Hỏa thì sẽ nhận thêm 1 tầng Tụ Năng.\\nAsta cứ có 1 tầng Tụ Năng, sẽ khiến toàn bộ phe ta tăng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công, hiệu ứng này tối đa cộng dồn {2} tầng.\\nBắt đầu từ hiệp thứ 2 của bản thân, khi mỗi hiệp bắt đầu, số tầng Tụ Năng của Asta sẽ giảm {3} tầng.",
+      "values": [
+        [
+          7,
+          7.7,
+          8.4,
+          9.1,
+          9.8,
+          10.5,
+          11.4,
+          12.3,
+          13.1,
+          14,
+          14.7,
+          15.4,
+          16.1,
+          16.8,
+          17.5
+        ],
+        [
+          5
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1009_Normal.png"
+    },
+    "technique": {
+      "name": "Ánh Chớp Diệu Kỳ",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu, gây Sát Thương Hỏa cho toàn bộ kẻ địch tương đương {1} Tấn Công của Asta.",
+      "values": [
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
+  "herta": {
+    "attack": {
+      "name": "Nhìn Gì Mà Nhìn",
+      "desc": "Gây Sát Thương Băng cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Herta.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Nhát Búa Đấu Giá Ấn Định",
+      "desc": "Gây Sát Thương Băng bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Herta cho toàn phe địch. Nếu phần trăm HP hiện tại của đơn vị địch lớn hơn hoặc bằng {2}, thì sát thương gây ra cho mục tiêu này tăng {3}.",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          50
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Là Phép Thuật, Tôi Đã Thêm Vào Phép Thuật",
+      "desc": "Gây Sát Thương Băng cho toàn bộ kẻ địch tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Herta.",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Để Tôi!",
+      "desc": "Khi đòn tấn công của mục tiêu bất kỳ phe ta khiến phần trăm HP hiện tại của kẻ địch nhỏ hơn hoặc bằng {1}, thì Herta sẽ phát động <u>Đòn Đánh Theo Sau</u>, gây cho toàn phe địch Sát Thương Băng bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Herta.",
+      "values": [
+        [
+          50
+        ],
+        [
+          25,
+          26,
+          28,
+          29,
+          31,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1013_Normal.png"
+    },
+    "technique": {
+      "name": "Có Thể Ưu Hóa",
+      "desc": "Sau khi dùng Bí Kỹ, Tấn Công của Herta khi bắt đầu lần chiến đấu tiếp theo tăng {1}, duy trì {2} hiệp.",
+      "values": [
+        [
+          40
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "bronya": {
+    "attack": {
+      "name": "Viên Đạn Cưỡi Gió",
+      "desc": "Gây Sát Thương Phong cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Bronya.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Tác Chiến Và Tái Bố Trí",
+      "desc": "Xóa 1 <u>Hiệu Ứng Xấu</u> cho 1 đồng đội, đồng thời khiến mục tiêu này hành động ngay, sát thương gây ra tăng <span style=\"color: #f29e38ff\">{1}</span>, duy trì {3} hiệp.\\nKhi thi triển kỹ năng này cho bản thân, sẽ không thể kích hoạt ngay hiệu quả hành động.",
+      "values": [
+        [
+          33,
+          36,
+          40,
+          43,
+          46,
+          50,
+          54,
+          58,
+          62,
+          66,
+          69,
+          73,
+          76,
+          79,
+          83
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Khúc Quân Hành Belobog",
+      "desc": "Khiến toàn bộ phe ta tăng <span style=\"color: #f29e38ff\">{1}</span> tấn công, đồng thời tăng sát thương bạo kích bằng <span style=\"color: #f29e38ff\">{2}</span> sát thương bạo kích của Bronya +<span style=\"color: #f29e38ff\">{3}</span>, duy trì {4} hiệp.",
+      "values": [
+        [
+          33,
+          35,
+          37,
+          40,
+          42,
+          44,
+          47,
+          50,
+          52,
+          55,
+          57,
+          59,
+          62,
+          64,
+          66
+        ],
+        [
+          12,
+          12.4,
+          12.8,
+          13.2,
+          13.6,
+          14,
+          14.5,
+          15,
+          15.5,
+          16,
+          16.4,
+          16.8,
+          17.2,
+          17.6,
+          18
+        ],
+        [
+          12,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[f1]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Đi Trước Một Bước",
+      "desc": "Sau khi tấn công thường sẽ khiến Bronya <u>Ưu Tiên Hành Động</u> <span style=\"color: #f29e38ff\">{1}</span> cho lần hành động tiếp theo.",
+      "values": [
+        [
+          15,
+          16,
+          18,
+          19,
+          21,
+          22,
+          24,
+          26,
+          28,
+          30,
+          31,
+          33,
+          34,
+          36,
+          38
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1101_Normal.png"
+    },
+    "technique": {
+      "name": "Phía Dưới Ngọn Cờ",
+      "desc": "Sau khi dùng Bí Kỹ, lần khai chiến tiếp theo, khiến toàn phe ta sẽ tăng {1} Tấn Công, duy trì {2} hiệp.",
+      "values": [
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "seele": {
+    "attack": {
+      "name": "Tập Kích Mạnh Mẽ",
+      "desc": "Gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Seele.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Lưỡi Kiếm Trở Về",
+      "desc": "Khiến tốc độ của Seele tăng {2}, đồng thời gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Seele, hiệu ứng tăng tốc duy trì {3} hiệp.",
+      "values": [
+        [
+          110,
+          121,
+          132,
+          143,
+          154,
+          165,
+          179,
+          193,
+          206,
+          220,
+          231,
+          242,
+          253,
+          264,
+          275
+        ],
+        [
+          25
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Loạn Điệp",
+      "desc": "Bước vào trạng thái buff ngay, đồng thời gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Seele.",
+      "values": [
+        [
+          255,
+          272,
+          289,
+          306,
+          323,
+          340,
+          361,
+          383,
+          404,
+          425,
+          442,
+          459,
+          476,
+          493,
+          510
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Tái Hiện",
+      "desc": "Thi triển tấn công thường, Chiến Kỹ, Tuyệt Kỹ tiêu diệt kẻ địch sẽ nhận ngay 1 <u>hiệp tăng thêm</u> và vào trạng thái buff, trong trạng thái này, sát thương tấn công của Seele tăng <span style=\"color: #f29e38ff\">{1}</span>, duy trì {2} hiệp.\\nNếu Seele tiêu diệt kẻ địch trong <u>hiệp tăng thêm</u> nhận từ thiên phú \"Tái Hiện\", thì thiên phú này sẽ không có hiệu lực.",
+      "values": [
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1102_Normal.png"
+    },
+    "technique": {
+      "name": "Bóng Hình Ảo Ảnh",
+      "desc": "Sau khi dùng Bí Kỹ sẽ vào trạng thái Tàng Hình trong {1} giây. Ở trạng thái Ẩn Thân sẽ không bị kẻ địch phát hiện, và khi chủ động tấn công kẻ địch vào chiến đấu, Seele sẽ lập tức vào trạng thái Buff.",
+      "values": [
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
+  "serval": {
+    "attack": {
+      "name": "Thang Âm Sấm Sét",
+      "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Serval.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Lửa Đá Tia Chớp",
+      "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Serval, đồng thời khiến mục tiêu lân cận kẻ đó chịu Sát Thương Lôi tương đương <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Serval, ngoài ra có {3} <u>xác suất cơ bản</u> khiến mục tiêu bị Sốc Điện, duy trì {4} hiệp.\\nTrong trạng thái Sốc Điện, kẻ địch mỗi khi bắt đầu hiệp sẽ chịu Sát Thương Lôi duy trì tương đương <span style=\"color: #f29e38ff\">{5}</span> Tấn Công của Serval.",
+      "values": [
+        [
+          70,
+          77,
+          84,
+          91,
+          98,
+          105,
+          114,
+          122,
+          131,
+          140,
+          147,
+          154,
+          161,
+          168,
+          175
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ],
+        [
+          80
+        ],
+        [
+          2
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          62,
+          70,
+          80,
+          92,
+          104,
+          109,
+          114,
+          120,
+          125,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Trào Lưu Cơ Giới Bùng Nổ!",
+      "desc": "Gây cho toàn phe địch Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Serval, và khiến mục tiêu địch đang ở trạng thái Sốc Điện kéo dài thêm {2} hiệp trạng thái Sốc Điện.",
+      "values": [
+        [
+          108,
+          115,
+          122,
+          130,
+          137,
+          144,
+          153,
+          162,
+          171,
+          180,
+          187,
+          194,
+          202,
+          209,
+          216
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Hợp Âm Cháy Bỏng",
+      "desc": "Sau khi tấn công, gây cho tất cả mục tiêu địch ở trạng thái Sốc Điện một lượng <u>Sát Thương Lôi kèm theo</u> bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Serval.",
+      "values": [
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68,
+          72,
+          76,
+          79,
+          83,
+          86,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1103_Normal.png"
+    },
+    "technique": {
+      "name": "Ngủ Ngon, Belobog",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu, sẽ gây Sát Thương Lôi cho 1 kẻ địch ngẫu nhiên bằng {4} Tấn Công của Serval, đồng thời có {1} <u>xác suất cơ bản</u> khiến mỗi kẻ địch bị Sốc Điện, duy trì {3} hiệp.\\nTrong trạng thái Sốc Điện, kẻ địch mỗi khi bắt đầu hiệp sẽ chịu Sát Thương Lôi duy trì tương đương {2} Tấn Công của Serval.",
+      "values": [
+        [
+          100
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "gepard": {
+    "attack": {
+      "name": "Nắm Đấm Phán Quyết",
+      "desc": "Gây Sát Thương Băng cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Gepard.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Xung Kích Kinh Hoàng",
+      "desc": "Gây Sát Thương Băng cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Gepard, đồng thời có {2} <u>xác suất cơ bản</u> khiến mục tiêu đó bị Đóng Băng, duy trì {3} hiệp.\\nTrong trạng thái Đóng Băng, kẻ địch không thể hành động, đồng thời mỗi hiệp đấu bắt đầu sẽ chịu lượng <u>sát thương kèm theo</u> thuộc tính Băng bằng <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của Gepard.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          65
+        ],
+        [
+          1
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Bức Tường Sừng Sững",
+      "desc": "Tạo Khiên triệt tiêu sát thương tương đương <span style=\"color: #f29e38ff\">{1}</span> Phòng Thủ của Gepard +<span style=\"color: #f29e38ff\">{3}</span> cho toàn phe ta, duy trì {2} hiệp.",
+      "values": [
+        [
+          30,
+          32,
+          34,
+          36,
+          38,
+          39,
+          41,
+          42,
+          44,
+          45,
+          47,
+          48,
+          50,
+          51,
+          53
+        ],
+        [
+          3
+        ],
+        [
+          150,
+          240,
+          308,
+          375,
+          420,
+          465,
+          499,
+          533,
+          566,
+          600,
+          634,
+          668,
+          701,
+          735,
+          769
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Ý Chí Kiên Cường",
+      "desc": "Khi bị tấn công chí mạng, Gepard sẽ không rơi vào <u>trạng thái không thể chiến đấu</u>, và hồi ngay HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của bản thân. Hiệu ứng này trong 1 trận chỉ được kích hoạt 1 lần.",
+      "values": [
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1104_Normal.png"
+    },
+    "technique": {
+      "name": "Chứng Nhận Hữu Tình",
+      "desc": "Sau khi dùng Bí Kỹ, khi bắt đầu lần chiến đấu tiếp theo sẽ tạo Khiên cho toàn phe ta giúp triệt tiêu sát thương tương đương {1} Phòng Thủ của Gepard +{3}, duy trì {2} hiệp.",
+      "values": [
+        [
+          24
+        ],
+        [
+          2
+        ],
+        [
+          150
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
+  "natasha": {
+    "attack": {
+      "name": "Phía Sau Sự Nhân Từ",
+      "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Natasha.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Tình Yêu, Chữa Lành Và Sự Chọn Lựa",
+      "desc": "Lập tức hồi phục cho 1 đồng đội chỉ định một lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Natasha +<span style=\"color: #f29e38ff\">{4}</span>, đồng thời khi mục tiêu bắt đầu mỗi hiệp, sẽ hồi cho đơn vị đó lượng HP bằng <span style=\"color: #f29e38ff\">{2}</span> Giới Hạn HP của Natasha +<span style=\"color: #f29e38ff\">{5}</span>, duy trì {3} hiệp.",
+      "values": [
+        [
+          7,
+          7.4,
+          7.9,
+          8.3,
+          8.7,
+          9.1,
+          9.5,
+          9.8,
+          10.2,
+          10.5,
+          10.8,
+          11.2,
+          11.6,
+          11.9,
+          12.3
+        ],
+        [
+          4.8,
+          5.1,
+          5.4,
+          5.7,
+          6,
+          6.2,
+          6.5,
+          6.7,
+          7,
+          7.2,
+          7.4,
+          7.7,
+          7.9,
+          8.2,
+          8.4
+        ],
+        [
+          2
+        ],
+        [
+          70,
+          112,
+          144,
+          175,
+          196,
+          217,
+          233,
+          249,
+          264,
+          280,
+          296,
+          312,
+          327,
+          343,
+          359
+        ],
+        [
+          48,
+          77,
+          98,
+          120,
+          134,
+          149,
+          160,
+          170,
+          181,
+          192,
+          203,
+          214,
+          224,
+          235,
+          246
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Món Quà Tái Sinh",
+      "desc": "Lập tức hồi cho toàn phe ta lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Natasha +<span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          9.2,
+          9.8,
+          10.4,
+          10.9,
+          11.5,
+          12,
+          12.4,
+          12.9,
+          13.3,
+          13.8,
+          14.3,
+          14.7,
+          15.2,
+          15.6,
+          16.1
+        ],
+        [
+          92,
+          147,
+          189,
+          230,
+          258,
+          285,
+          306,
+          327,
+          347,
+          368,
+          389,
+          409,
+          430,
+          451,
+          472
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Bừng Bừng Sức Sống",
+      "desc": "Khi trị liệu cho mục tiêu của phe ta có phần trăm HP hiện tại nhỏ hơn hoặc bằng {1}, thì lượng trị liệu của Natasha sẽ tăng <span style=\"color: #f29e38ff\">{2}</span>, hiệu ứng này cũng có hiệu lực với hiệu ứng trị liệu liên tục.",
+      "values": [
+        [
+          30
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1105_Normal.png"
+    },
+    "technique": {
+      "name": "Nghiên Cứu Thôi Miên",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu, gây cho 1 kẻ địch ngẫu nhiên một lượng Sát Thương Vật Lý bằng {4} Tấn Công của Natasha, và có {1} <u>xác suất cơ bản</u> khiến mỗi kẻ địch rơi vào trạng thái Suy Yếu.\\nSát thương do kẻ địch ở trạng thái Suy Yếu gây cho phe ta giảm {2}, duy trì {3} hiệp.",
+      "values": [
+        [
+          100
+        ],
+        [
+          30
+        ],
+        [
+          1
+        ],
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "pela": {
+    "attack": {
+      "name": "Xạ Kích Đóng Băng",
+      "desc": "Gây Sát Thương Băng cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Pela.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Tê Cóng",
+      "desc": "Giải trừ {2} <u>hiệu ứng buff</u> của 1 kẻ địch chỉ định, đồng thời gây Sát Thương Băng tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Pela.",
+      "values": [
+        [
+          105,
+          115,
+          126,
+          136,
+          147,
+          158,
+          171,
+          184,
+          197,
+          210,
+          220,
+          231,
+          242,
+          252,
+          263
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Áp Chế Không Gian",
+      "desc": "Có {1} <u>xác suất cơ bản</u> khiến mỗi kẻ địch rơi vào trạng thái Thông Hiểu, đồng thời gây Sát Thương Băng cho toàn bộ kẻ địch tương đương <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của Pela.\\nMục tiêu địch ở trạng thái Thông Hiểu sẽ giảm <span style=\"color: #f29e38ff\">{2}</span> Phòng Thủ, duy trì {3} hiệp.",
+      "values": [
+        [
+          100
+        ],
+        [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        [
+          2
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Thu Thập Dữ Liệu",
+      "desc": "Sau khi thi triển tấn công, nếu kẻ địch rơi vào <u>Hiệu Ứng Xấu</u>, Pela sẽ hồi thêm <span style=\"color: #f29e38ff\">{1}</span> Năng Lượng. Hiệu ứng này mỗi lần tấn công chỉ có thể kích hoạt 1 lần.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.8,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ]
+      ],
+      "format": [
+        "[f1]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1106_Normal.png"
+    },
+    "technique": {
+      "name": "Giáng Đòn Phủ Đầu",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu, sẽ gây cho 1 kẻ địch ngẫu nhiên Sát Thương Băng tương đương {4} Tấn Công của Pela, đồng thời có {1} <u>xác suất cơ bản</u> khiến Phòng Thủ của mỗi kẻ địch giảm {2}, duy trì {3} hiệp.",
+      "values": [
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          2
+        ],
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "clara": {
+    "attack": {
+      "name": "Clara Cũng Muốn Giúp",
+      "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Clara.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Svarog Đang Nhìn Ngươi",
+      "desc": "Gây Sát Thương Vật Lý cho toàn phe địch tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Clara, và gây thêm cho tất cả địch bị Svarog đánh dấu \"Ký Hiệu Phản Kích\" một lượng Sát Thương Vật Lý bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Clara.\\nSau khi thi triển Chiến Kỹ, tất cả \"Ký Hiệu Phản Kích\" sẽ mất hiệu lực.",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Là Hẹn Ước, Không Phải Mệnh Lệnh",
+      "desc": "Sau khi thi triển Tuyệt Kỹ, sát thương Clara phải chịu giảm thêm <span style=\"color: #f29e38ff\">{4}</span>, đồng thời tăng xác suất bị phe địch tấn công, duy trì {3} hiệp.\\nĐồng thời <u>Phản Kích</u> của Svarog được cường hóa, sau khi mục tiêu bất kỳ của phe ta bị tấn công, Svarog sẽ thi triển ngay <u>phản kích</u>, Bội Số Sát Thương gây ra cho mục tiêu địch tăng <span style=\"color: #f29e38ff\">{2}</span>, và gây sát thương cho mục tiêu lân cận kẻ đó bằng 50% của mục tiêu chính. Hiệu ứng cường hóa có thể hiệu lực {5} lần.",
+      "values": [
+        [
+          5
+        ],
+        [
+          96,
+          102,
+          109,
+          115,
+          122,
+          128,
+          136,
+          144,
+          152,
+          160,
+          166,
+          173,
+          179,
+          186,
+          192
+        ],
+        [
+          2
+        ],
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Vì Chúng Ta Là Người Một Nhà",
+      "desc": "Dưới sự bảo vệ của Svarog, sát thương Clara phải chịu giảm {3}. Kẻ đã tấn công Clara sẽ bị Svarog đánh dấu \"Ký Hiệu Phản Kích\" đồng thời chịu sự <u>phản kích</u> của Svarog, gây cho kẻ đó Sát Thương Vật Lý bằng <span style=\"color: #f29e38ff\">{2}</span> tấn công của Clara.",
+      "values": [
+        [
+          1
+        ],
+        [
+          80,
+          88,
+          96,
+          104,
+          112,
+          120,
+          130,
+          140,
+          150,
+          160,
+          168,
+          176,
+          184,
+          192,
+          200
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1107_Normal.png"
+    },
+    "technique": {
+      "name": "Cái Giá Của Chiến Thắng",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu sẽ tăng xác suất Clara bị kẻ địch tấn công, duy trì {1} hiệp.",
+      "values": [
+        [
+          2
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]",
+        ""
+      ]
+    }
+  },
+  "sampo": {
+    "attack": {
+      "name": "Lưỡi Đao Lóe Sáng",
+      "desc": "Gây Sát Thương Phong cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Sampo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Tình Yêu Rộn Ràng",
+      "desc": "Gây sát thương Phong cho 1 kẻ địch chỉ định bằng <span style=\"color: #f29e38ff\">{2}</span> tấn công của Sampo, và gây thêm {1} lần sát thương, mỗi lần sát thương sẽ gây sát thương Phong cho 1 kẻ địch ngẫu nhiên bằng <span style=\"color: #f29e38ff\">{2}</span> tấn công của Sampo.",
+      "values": [
+        [
+          4
+        ],
+        [
+          28,
+          31,
+          34,
+          36,
+          39,
+          42,
+          46,
+          49,
+          53,
+          56,
+          59,
+          62,
+          64,
+          67,
+          70
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Món Quà Bất Ngờ",
+      "desc": "Gây Sát Thương Phong tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Sampo lên toàn phe địch, đồng thời có {4} <u>xác suất cơ bản</u> khiến sát thương duy trì mà kẻ địch bị tấn công phải chịu tăng <span style=\"color: #f29e38ff\">{2}</span>, duy trì {3} hiệp.",
+      "values": [
+        [
+          96,
+          102,
+          109,
+          115,
+          122,
+          128,
+          136,
+          144,
+          152,
+          160,
+          166,
+          173,
+          179,
+          186,
+          192
+        ],
+        [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Dao Găm Xé Gió",
+      "desc": "Sampo đánh trúng kẻ địch sẽ có {1} <u>xác suất cơ bản</u> khiến kẻ đó rơi vào trạng thái Bào Mòn, duy trì {3} hiệp.\\nTrong trạng thái Bào Mòn, khi bắt đầu mỗi hiệp, kẻ địch phải chịu Sát Thương Phong liên tục tương đương <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Sampo. Trạng thái Bào Mòn tối đa cộng dồn {4} tầng.",
+      "values": [
+        [
+          65
+        ],
+        [
+          20,
+          22,
+          24,
+          26,
+          28,
+          31,
+          35,
+          40,
+          46,
+          52,
+          55,
+          57,
+          60,
+          62,
+          65
+        ],
+        [
+          3
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1108_Normal.png"
+    },
+    "technique": {
+      "name": "Tỏa Sáng Rực Rỡ",
+      "desc": "Sau khi dùng Bí Kỹ sẽ khiến kẻ địch trong khu vực nhất định rơi vào trạng thái Mù {1} giây, kẻ địch ở trạng thái Mù không thể phát hiện mục tiêu phe ta.\\nNếu chủ động tấn công kẻ địch rơi vào trạng thái Mù thì khi vào chiến đấu sẽ có {2} <u>xác suất cố định</u> khiến mỗi kẻ địch Trì Hoãn Hành Động {3}.",
+      "values": [
+        [
+          10
+        ],
+        [
+          100
+        ],
+        [
+          25
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "hook": {
+    "attack": {
+      "name": "Ê! Coi Chừng Cháy Nổ",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Hook.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Hey! Còn Nhớ Hook Không?",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Hook, đồng thời có {2} <u>xác suất cơ bản</u> khiến mục tiêu rơi vào trạng thái Thiêu Đốt, duy trì {3} hiệp.\\nTrong trạng thái Thiêu Đốt, khi bắt đầu mỗi hiệp, kẻ địch sẽ chịu Sát Thương Hỏa duy trì tương đương <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của Hook.",
+      "values": [
+        [
+          120,
+          132,
+          144,
+          156,
+          168,
+          180,
+          195,
+          210,
+          225,
+          240,
+          252,
+          264,
+          276,
+          288,
+          300
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          39,
+          44,
+          50,
+          58,
+          65,
+          68,
+          72,
+          75,
+          78,
+          81
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Pùm! Pháo Hoa Tới Đây!",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Hook.\\nSau khi thi triển Tuyệt Kỹ, Chiến Kỹ thi triển lần sau sẽ được cường hóa. Chiến Kỹ sau khi cường hóa sẽ gây sát thương cho kẻ địch chỉ định và cả mục tiêu lân cận kẻ đó.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Ha! Thêm Dầu Vào Lửa",
+      "desc": "Khi tấn công kẻ địch đang trong trạng thái Thiêu Đốt, sẽ bồi thêm 1 lần <u>sát thương kèm theo</u> thuộc tính Hỏa tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Hook, đồng thời hồi thêm {2} Năng Lượng.",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1109_Normal.png"
+    },
+    "technique": {
+      "name": "Haiz! Xem Mớ Bòng Bong Này!",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu, sẽ gây Sát Thương Hỏa cho 1 kẻ địch ngẫu nhiên bằng {4} Tấn Công của Hook, đồng thời có {1} <u>xác suất cơ bản</u> khiến mỗi kẻ địch rơi vào trạng thái Thiêu Đốt, duy trì {3} hiệp.\\nTrong trạng thái Thiêu Đốt, kẻ địch mỗi khi bắt đầu hiệp sẽ chịu Sát Thương Hỏa duy trì tương đương {2} Tấn Công của Hook.",
+      "values": [
+        [
+          100
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Hey! Còn Nhớ Hook Không?",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Hook, đồng thời có {2} <u>xác suất cơ bản</u> khiến mục tiêu rơi vào trạng thái Thiêu Đốt, duy trì {3} hiệp. Ngoài ra gây cho mục tiêu lân cận của kẻ đó Sát Thương Hỏa bằng <span style=\"color: #f29e38ff\">{5}</span> Tấn Công của Hook.\\nKẻ địch trong trạng thái Thiêu Đốt khi bắt đầu mỗi hiệp sẽ chịu Sát Thương Hỏa duy trì tương đương <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của Hook.",
+      "values": [
+        [
+          140,
+          154,
+          168,
+          182,
+          196,
+          210,
+          227,
+          245,
+          263,
+          280,
+          294,
+          308,
+          322,
+          336,
+          350
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          39,
+          44,
+          50,
+          58,
+          65,
+          68,
+          72,
+          75,
+          78,
+          81
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "qingque": {
+    "attack": {
+      "name": "Tự Ù",
+      "desc": "Dùng 1 Quân Bài Quỳnh Ngọc hoa văn ít nhất hiện tại, gây cho 1 kẻ địch chỉ định Sát Thương Lượng Tử tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Qingque.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Quân Bài Cuối Cùng",
+      "desc": "Bốc ngay {1} Quân Bài Quỳnh Ngọc, khiến sát thương do bản thân gây ra tăng <span style=\"color: #f29e38ff\">{2}</span>, duy trì đến khi kết thúc hiệp này. Hiệu ứng này có thể cộng dồn {3} tầng. Sau khi thi triển Chiến Kỹ này, hiệp này sẽ không kết thúc.",
+      "values": [
+        [
+          2
+        ],
+        [
+          14,
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          29,
+          31,
+          32,
+          34,
+          35
+        ],
+        [
+          4
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Bộ Tứ? Ngon Lành!",
+      "desc": "Gây cho toàn bộ phe địch sát thương Lượng Tử bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Qingque, và nhận 4 Quân Bài Quỳnh Ngọc cùng hoa văn.",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Quỳnh Ngọc Đế Viên",
+      "desc": "Khi mục tiêu phe ta bắt đầu hiệp, Qingque sẽ ngẫu nhiên rút 1 quân bài từ 3 Quân Bài Quỳnh Ngọc có hoa văn khác nhau, tối đa cầm 4 Quân Bài Quỳnh Ngọc.\\nKhi Qingque bắt đầu hiệp, nếu số Quân Bài Quỳnh Ngọc có được là 4 và hoa văn giống nhau, Qingque sẽ tiêu hao tất cả Quân Bài Quỳnh Ngọc và vào trạng thái Khung Xám.\\nỞ trạng thái Khung Xám không thể thi triển Chiến Kỹ lần nữa, đồng thời khiến Tấn Công của bản thân tăng <span style=\"color: #f29e38ff\">{1}</span>, Tấn Công Thường \"Tự Ù\" cường hóa thành \"Bộ Tứ Thêm Hoa!\", trạng thái Khung Xám sẽ kết thúc sau khi thi triển \"Bộ Tứ Thêm Hoa!\".",
+      "values": [
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68,
+          72,
+          76,
+          79,
+          83,
+          86,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1201_Normal.png"
+    },
+    "technique": {
+      "name": "Niềm Vui Xếp Bài",
+      "desc": "Sau khi dùng Bí Kỹ, vào trạng thái chiến đấu, Qingque sẽ bốc {1} Quân Bài Quỳnh Ngọc.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Bộ Tứ Thêm Hoa!",
+      "desc": "Gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Qingque, đồng thời gây cho mục tiêu lân cận kẻ đó Sát Thương Lượng Tử tương đương <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Qingque.\\n\"Bộ Tứ Thêm Hoa!\" không thể hồi điểm Chiến Kỹ.",
+      "values": [
+        [
+          120,
+          144,
+          168,
+          192,
+          216,
+          240,
+          264,
+          288,
+          312
+        ],
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "tingyun": {
+    "attack": {
+      "name": "Tiễn Khách",
+      "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Tingyun.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Âm Điệu Nhịp Nhàng",
+      "desc": "Cung cấp \"Ban Phúc\" cho 1 đồng đội, khiến đồng đội đó tăng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công, tối đa không vượt quá <span style=\"color: #f29e38ff\">{4}</span> Tấn Công hiện tại của Tingyun.\\nSau khi mục tiêu được \"Ban Phúc\" thực hiện tấn công sẽ gây thêm 1 lần <u>Sát Thương Lôi kèm theo</u> bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của bản thân mục tiêu đó.\\n\"Ban Phúc\" duy trì {3} hiệp và chỉ có hiệu lực với mục tiêu thi triển Chiến Kỹ mới nhất của Tingyun.",
+      "values": [
+        [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ],
+        [
+          3
+        ],
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Nghi Lễ Áng Mây Lành",
+      "desc": "Hồi phục {1} Năng Lượng cho 1 đồng đội, đồng thời khiến sát thương mà mục tiêu gây ra tăng <span style=\"color: #f29e38ff\">{3}</span>, duy trì {2} hiệp.",
+      "values": [
+        [
+          50
+        ],
+        [
+          2
+        ],
+        [
+          20,
+          23,
+          26,
+          29,
+          32,
+          35,
+          39,
+          43,
+          46,
+          50,
+          53,
+          56,
+          59,
+          62,
+          65
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Cơn Lốc Điện Tím",
+      "desc": "Sau khi kẻ địch bị Tingyun tấn công, mục tiêu nhận \"Ban Phúc\" sẽ lập tức gây cho kẻ địch đó <u>Sát Thương Lôi kèm theo</u> tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của bản thân.",
+      "values": [
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1202_Normal.png"
+    },
+    "technique": {
+      "name": "Làn Gió Êm Dịu",
+      "desc": "Sau khi dùng Bí Kỹ bản thân hồi phục ngay {1} Năng Lượng.",
+      "values": [
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
+  "jing-yuan": {
+    "attack": {
+      "name": "Khoảnh Khắc Ngắn Ngủi",
+      "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Jing Yuan.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Mây Tím Chiếu Rọi",
+      "desc": "Gây cho toàn thể địch Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Jing Yuan, đồng thời tăng {2} lần tấn công của \"Thần Quân\" ở hiệp sau.",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Thân Ta Tỏa Sáng",
+      "desc": "Gây cho toàn thể địch Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Jing Yuan. Đồng thời tăng {2} lần tấn công của \"Thần Quân\" ở hiệp sau.",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Chém Tách Thần Hình",
+      "desc": "Khi bắt đầu chiến đấu sẽ triệu hồi \"Thần Quân\". \"Thần Quân\" ban đầu có {1} điểm tốc độ và {4} lần tấn công, khi hành động sẽ phát động <u>Đòn Đánh Theo Sau</u>, mỗi lần tấn công sẽ gây Sát Thương Lôi cho 1 kẻ địch ngẫu nhiên bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Jing Yuan, đồng thời gây Sát Thương Lôi cho mục tiêu lân cận kẻ đó bằng {5} của mục tiêu chính.\\n\"Thần Quân\" tối đa tích lũy {6} lần tấn công và cứ tăng 1 lần tấn công thì tăng {3} điểm tốc độ, sau khi kết thúc hành động, tốc độ và số lần tấn công sẽ khôi phục lại trạng thái ban đầu.\\nKhi Jing Yuan rơi vào <u>trạng thái không thể chiến đấu</u> thì \"Thần Quân\" biến mất.\\nKhi Jing Yuan chịu ảnh hưởng của <u>Hiệu Ứng Xấu dạng khống chế</u> thì \"Thần Quân\" cũng không thể hành động.",
+      "values": [
+        [
+          60
+        ],
+        [
+          33,
+          36,
+          40,
+          43,
+          46,
+          50,
+          54,
+          58,
+          62,
+          66,
+          69,
+          73,
+          76,
+          79,
+          83
+        ],
+        [
+          10
+        ],
+        [
+          3
+        ],
+        [
+          25
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1204_Normal.png"
+    },
+    "technique": {
+      "name": "Triệu Hồi Uy Linh",
+      "desc": "Sau khi dùng Bí Kỹ, khi bắt đầu lần chiến đấu tiếp theo, số lần tấn công ở hiệp 1 của \"Thần Quân\" tăng {1} lần.",
+      "values": [
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
+  "sushang": {
+    "attack": {
+      "name": "Kiếm Thuật Vân Kỵ - Mây Thuần",
+      "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Sushang.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Kiếm Thuật Vân Kỵ - Núi Đổ",
+      "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Sushang. Đồng thời sau khi thi triển đòn cuối cùng sẽ có {3} xác suất kích hoạt Kiếm Thế, gây <u>sát thương Vật Lý kèm theo</u> bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Sushang.\\nNếu mục tiêu này ở <u>trạng thái Phá Vỡ Điểm Yếu</u>, chắc chắn sẽ thi triển Kiếm Thế.",
+      "values": [
+        [
+          105,
+          115,
+          126,
+          136,
+          147,
+          158,
+          171,
+          184,
+          197,
+          210,
+          220,
+          231,
+          242,
+          252,
+          263
+        ],
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          33
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Vũ Trụ Tiềm Ẩn - Nến Đêm",
+      "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Sushang, và khiến lần hành động tiếp theo của Sushang lập tức ưu tiên 100%. Đồng thời tăng <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của Sushang, và khi thi triển Chiến Kỹ sẽ tăng thêm 2 lần thi triển Kiếm Thế, duy trì {2} hiệp.\\nSát thương của Kiếm Thế được kích hoạt thêm sẽ bằng {3} sát thương ban đầu.",
+      "values": [
+        [
+          192,
+          205,
+          218,
+          230,
+          243,
+          256,
+          272,
+          288,
+          304,
+          320,
+          333,
+          346,
+          358,
+          371,
+          384
+        ],
+        [
+          2
+        ],
+        [
+          50
+        ],
+        [
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          25,
+          27,
+          28,
+          30,
+          31,
+          32,
+          34,
+          35,
+          36
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Lưỡi Kiếm Như Nước",
+      "desc": "Khi trong trận có Điểm Yếu của mục tiêu địch bị phá vỡ, Tốc Độ của Sushang sẽ tăng <span style=\"color: #f29e38ff\">{1}</span>, kéo dài {2} hiệp.",
+      "values": [
+        [
+          15,
+          15.5,
+          16,
+          16.5,
+          17,
+          17.5,
+          18.13,
+          18.75,
+          19.38,
+          20,
+          20.5,
+          21,
+          21.5,
+          22,
+          22.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f2]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1206_Normal.png"
+    },
+    "technique": {
+      "name": "Kiếm Thuật Vân Kỵ - Chấn Động",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu, sẽ gây Sát Thương Vật Lý cho toàn bộ kẻ địch tương đương {1} Tấn Công của Sushang.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
+  "yanqing": {
+    "attack": {
+      "name": "Sương Giá Đầy Trời",
+      "desc": "Gây Sát Thương Băng cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Yanqing.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Xuyên Ba Tấc Nước",
+      "desc": "Gây Sát Thương Băng cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Yanqing, kèm thêm cho Yanqing Kiếm Khôn Hiểu Lòng Người, duy trì 1 hiệp.",
+      "values": [
+        [
+          110,
+          121,
+          132,
+          143,
+          154,
+          165,
+          179,
+          193,
+          206,
+          220,
+          231,
+          242,
+          253,
+          264,
+          275
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Chim Én Vỗ Mưa",
+      "desc": "Tăng cho bản thân {1} Tỷ Lệ Bạo Kích, nếu Yanqing đang ở hiệu ứng Kiếm Khôn Hiểu Lòng Người, sẽ giúp sát thương Bạo Kích của Yanqing tăng thêm <span style=\"color: #f29e38ff\">{2}</span>, <u>hiệu ứng buff</u> duy trì 1 hiệp. Sau đó gây cho 1 kẻ địch chỉ định Sát Thương Băng bằng <span style=\"color: #f29e38ff\">{3}</span> Tấn Công của Yanqing.",
+      "values": [
+        [
+          60
+        ],
+        [
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60
+        ],
+        [
+          210,
+          224,
+          238,
+          252,
+          266,
+          280,
+          298,
+          315,
+          332,
+          350,
+          364,
+          378,
+          392,
+          406,
+          420
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Bóng Kiếm Kề Bên",
+      "desc": "Khi Yanqing ở trong hiệu ứng Kiếm Khôn Hiểu Lòng Người, sẽ giảm xác suất bị tấn công, đồng thời tăng cho bản thân <span style=\"color: #f29e38ff\">{1}</span> Tỷ Lệ Bạo Kích và <span style=\"color: #f29e38ff\">{2}</span> Sát Thương Bạo Kích. Sau khi thi triển tấn công lên mục tiêu địch, có <span style=\"color: #f29e38ff\">{3}</span> <u>xác suất cố định</u> thi triển <u>Đòn Đánh Theo Sau</u>, gây Sát Thương Băng cho mục tiêu tương đương <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của Yanqing, đồng thời có {6} <u>xác suất cơ bản</u> khiến kẻ đó rơi vào trạng thái Đóng Băng, duy trì 1 hiệp.\\nTrong trạng thái Đóng Băng, kẻ địch không thể hành động, đồng thời khi bắt đầu mỗi hiệp sẽ chịu lượng <u>sát thương Băng kèm theo</u> bằng <span style=\"color: #f29e38ff\">{5}</span> Tấn Công của Yanqing.\\nSau khi Yanqing chịu sát thương, Kiếm Khôn Hiểu Lòng Người sẽ biến mất.",
+      "values": [
+        [
+          15,
+          15.5,
+          16,
+          16.5,
+          17,
+          17.5,
+          18.1,
+          18.8,
+          19.4,
+          20,
+          20.5,
+          21,
+          21.5,
+          22,
+          22.5
+        ],
+        [
+          15,
+          16,
+          18,
+          19,
+          21,
+          22,
+          24,
+          26,
+          28,
+          30,
+          31,
+          33,
+          34,
+          36,
+          38
+        ],
+        [
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ],
+        [
+          65
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1209_Normal.png"
+    },
+    "technique": {
+      "name": "Ngự Kiếm Chân Quyết",
+      "desc": "Sau khi dùng Bí Kỹ, khi bắt đầu trận tiếp theo, sát thương Yanqing gây cho kẻ địch có Phần Trăm HP hiện tại lớn hơn hoặc bằng {1} sẽ tăng {2}, duy trì {3} hiệp.",
+      "values": [
+        [
+          50
+        ],
+        [
+          30
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "bailu": {
+    "attack": {
+      "name": "Nhìn, Nghe, Hỏi... Đá!",
+      "desc": "Gây Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{1}</span> tấn công của Bailu cho kẻ địch chỉ định.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Châu Rơi Giữa Mây Ngàn",
+      "desc": "Hồi ngay cho 1 đồng đội chỉ định một lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{2}</span>. Sau đó Bailu sẽ trị liệu {4} lần cho 1 đồng đội ngẫu nhiên, mỗi 1 lần trị liệu thì lượng HP hồi phục cho lần sau sẽ giảm {3}.",
+      "values": [
+        [
+          7.8,
+          8.3,
+          8.8,
+          9.3,
+          9.7,
+          10.1,
+          10.5,
+          10.9,
+          11.3,
+          11.7,
+          12.1,
+          12.5,
+          12.9,
+          13.3,
+          13.7
+        ],
+        [
+          78,
+          125,
+          160,
+          195,
+          218,
+          242,
+          259,
+          277,
+          294,
+          312,
+          330,
+          347,
+          365,
+          382,
+          400
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Rồng Vượt Vực Sâu",
+      "desc": "Lập tức hồi cho toàn phe ta lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{2}</span>.\\nĐối với mục tiêu không có Sinh Mệnh của phe ta, Bailu sẽ cộng Sinh Mệnh vào cho mục tiêu đó, còn mục tiêu đã có Sinh Mệnh, sẽ được kéo dài thời gian Sinh Mệnh thêm 1 hiệp.\\n\"Sinh Mệnh\" có thể duy trì {3} hiệp, hiệu ứng này không thể cộng dồn.",
+      "values": [
+        [
+          9,
+          9.6,
+          10.1,
+          10.7,
+          11.3,
+          11.7,
+          12.2,
+          12.6,
+          13.1,
+          13.5,
+          13.9,
+          14.4,
+          14.8,
+          15.3,
+          15.7
+        ],
+        [
+          90,
+          144,
+          185,
+          225,
+          252,
+          279,
+          299,
+          320,
+          340,
+          360,
+          380,
+          401,
+          421,
+          441,
+          461
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Hành Y Giúp Đời",
+      "desc": "Mục tiêu phe ta có \"Sinh Mệnh\", sau khi bị tấn công sẽ hồi lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{2}</span>, hiệu ứng này có thể kích hoạt {5} lần.\\nKhi đồng đội của Bailu chịu tấn công chí mạng, sẽ không rơi vào <u>trạng thái không thể chiến đấu</u>, Bailu sẽ trị liệu ngay cho mục tiêu đó, hồi HP bằng <span style=\"color: #f29e38ff\">{3}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{4}</span>. Hiệu ứng này có thể kích hoạt 1 lần trong 1 trận.",
+      "values": [
+        [
+          3.6,
+          3.8,
+          4.1,
+          4.3,
+          4.5,
+          4.7,
+          4.9,
+          5,
+          5.2,
+          5.4,
+          5.6,
+          5.8,
+          5.9,
+          6.1,
+          6.3
+        ],
+        [
+          36,
+          58,
+          74,
+          90,
+          101,
+          112,
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          168,
+          176,
+          185
+        ],
+        [
+          12,
+          13,
+          13,
+          14,
+          15,
+          16,
+          16,
+          17,
+          17,
+          18,
+          19,
+          19,
+          20,
+          20,
+          21
+        ],
+        [
+          120,
+          192,
+          246,
+          300,
+          336,
+          372,
+          399,
+          426,
+          453,
+          480,
+          507,
+          534,
+          561,
+          588,
+          615
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1211_Normal.png"
+    },
+    "technique": {
+      "name": "Thong Thả Trong Mưa",
+      "desc": "Sau khi dùng Bí Kỹ, khi bắt đầu lần chiến đấu tiếp theo sẽ kèm thêm Sinh Mệnh cho toàn phe ta, duy trì {1} hiệp.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
+  "trailblazer": {
+    "attack": {
+      "name": "Tia Sáng Xuyên Băng",
+      "desc": "Gây Sát Thương Hỏa tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Nhà Khai Phá cho 1 kẻ địch chỉ định đồng thời cộng thêm 1 tầng \"Ý Chí Sục Sôi\".",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Hổ Phách Lửa Bất Diệt",
+      "desc": "Sau khi thi triển Chiến Kỹ sẽ giảm <span style=\"color: #f29e38ff\">{1}</span> sát thương mà Nhà Khai Phá phải chịu và cộng thêm 1 tầng \"Ý Chí Sục Sôi\", ngoài ra có {2} <u>xác suất cơ bản</u> khiến toàn phe địch rơi vào trạng thái Khiêu Khích, duy trì {3} hiệp.",
+      "values": [
+        [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        [
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Súng Lửa Xung Trận",
+      "desc": "Gây Sát Thương Hỏa cho toàn phe địch tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công +<span style=\"color: #f29e38ff\">{2}</span> Phòng Thủ của Nhà Khai Phá. Khi thi triển Tấn Công Thường ở lần sau, sẽ tự động được cường hóa mà không tiêu hao \"Ý Chí Sục Sôi\".",
+      "values": [
+        [
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          81,
+          88,
+          94,
+          100,
+          105,
+          110,
+          115,
+          120,
+          125
+        ],
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Kho Báu Của Đấng Kiến Tạo",
+      "desc": "Mỗi khi bị tấn công 1 lần sẽ cộng 1 tầng \"Ý Chí Sục Sôi\", tối đa cộng dồn {3} tầng.\\nKhi số tầng \"Ý Chí Sục Sôi\" không dưới 4, Tấn Công Thường sẽ được cường hóa, gây sát thương cho 1 kẻ địch chỉ định và mục tiêu lân cận kẻ đó.\\nSau khi Nhà Khai Phá thi triển Tấn Công Thường, Chiến Kỹ, Tuyệt Kỹ, sẽ cung cấp Khiên cho toàn phe ta để triệt tiêu sát thương bằng <span style=\"color: #f29e38ff\">{1}</span> Phòng Thủ của Nhà Khai Phá +<span style=\"color: #f29e38ff\">{4}</span>, duy trì {2} hiệp.",
+      "values": [
+        [
+          4,
+          4.3,
+          4.5,
+          4.7,
+          5,
+          5.2,
+          5.4,
+          5.6,
+          5.8,
+          6,
+          6.2,
+          6.4,
+          6.6,
+          6.8,
+          7
+        ],
+        [
+          2
+        ],
+        [
+          8
+        ],
+        [
+          20,
+          32,
+          41,
+          50,
+          56,
+          62,
+          67,
+          71,
+          76,
+          80,
+          85,
+          89,
+          94,
+          98,
+          103
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_8003_Normal.png"
+    },
+    "technique": {
+      "name": "Hiệu Lệnh Của Đấng Bảo Vệ",
+      "desc": "Sau khi dùng Bí Kỹ, khi bắt đầu lần chiến đấu tiếp theo sẽ tạo Khiên cho bản thân giúp triệt tiêu sát thương tương đương {1} Phòng Thủ của Nhà Khai Phá +{2}, duy trì {3} hiệp.",
+      "values": [
+        [
+          30
+        ],
+        [
+          384
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Tia Sáng Xuyên Băng",
+      "desc": "Tiêu hao 4 tầng \"Ý Chí Sục Sôi\" để cường hóa Tấn Công Thường. Gây cho 1 kẻ địch chỉ định Sát Thương Hỏa bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Nhà Khai Phá, đồng thời gây cho mục tiêu lân cận của kẻ đó Sát Thương Hỏa tương đương <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Nhà Khai Phá.",
+      "values": [
+        [
+          90,
+          99,
+          108,
+          117,
+          126,
+          135,
+          146,
+          158,
+          169
+        ],
+        [
+          36,
+          40,
+          43,
+          47,
+          50,
+          54,
+          59,
+          63,
+          68
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  }
+}

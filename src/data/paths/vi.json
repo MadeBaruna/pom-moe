@@ -1,0 +1,30 @@
+{
+  "destruction": {
+    "id": "destruction",
+    "name": "Hủy Diệt"
+  },
+  "the-hunt": {
+    "id": "the-hunt",
+    "name": "Săn Bắn"
+  },
+  "erudition": {
+    "id": "erudition",
+    "name": "Tri Thức"
+  },
+  "harmony": {
+    "id": "harmony",
+    "name": "Hòa Hợp"
+  },
+  "nihility": {
+    "id": "nihility",
+    "name": "Hư Vô"
+  },
+  "preservation": {
+    "id": "preservation",
+    "name": "Bảo Hộ"
+  },
+  "abundance": {
+    "id": "abundance",
+    "name": "Trù Phú"
+  }
+}

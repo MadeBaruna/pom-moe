@@ -1,0 +1,30 @@
+{
+  "physical": {
+    "id": "physical",
+    "name": "กายภาพ"
+  },
+  "fire": {
+    "id": "fire",
+    "name": "ไฟ"
+  },
+  "ice": {
+    "id": "ice",
+    "name": "น้ำแข็ง"
+  },
+  "lightning": {
+    "id": "lightning",
+    "name": "สายฟ้า"
+  },
+  "wind": {
+    "id": "wind",
+    "name": "ลม"
+  },
+  "quantum": {
+    "id": "quantum",
+    "name": "ควอนตัม"
+  },
+  "imaginary": {
+    "id": "imaginary",
+    "name": "จินตภาพ"
+  }
+}

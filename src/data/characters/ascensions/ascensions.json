@@ -1,0 +1,2141 @@
+{
+  "march-7th": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 5
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 8
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 5
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 7
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "dan-heng": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 5
+        },
+        {
+          "name": "storm-eye",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 8
+        },
+        {
+          "name": "storm-eye",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 5
+        },
+        {
+          "name": "storm-eye",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 7
+        },
+        {
+          "name": "storm-eye",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "himeko": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 6
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 9
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 6
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 9
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "welt": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 6
+        },
+        {
+          "name": "golden-crown-of-the-past-shadow",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 9
+        },
+        {
+          "name": "golden-crown-of-the-past-shadow",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 6
+        },
+        {
+          "name": "golden-crown-of-the-past-shadow",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 9
+        },
+        {
+          "name": "golden-crown-of-the-past-shadow",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "arlan": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 5
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 8
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 5
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 7
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "asta": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 5
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 8
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 5
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 7
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "herta": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 5
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 8
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 5
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 7
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "bronya": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 6
+        },
+        {
+          "name": "storm-eye",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 9
+        },
+        {
+          "name": "storm-eye",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 6
+        },
+        {
+          "name": "storm-eye",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 9
+        },
+        {
+          "name": "storm-eye",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "seele": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 6
+        },
+        {
+          "name": "void-cast-iron",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 9
+        },
+        {
+          "name": "void-cast-iron",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 6
+        },
+        {
+          "name": "void-cast-iron",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 9
+        },
+        {
+          "name": "void-cast-iron",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "serval": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 5
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 8
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 5
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 7
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "gepard": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "silvermane-badge",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 6
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "silvermane-insignia",
+          "amount": 9
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 6
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "silvermane-medal",
+          "amount": 9
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "natasha": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "ancient-part",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "ancient-part",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "ancient-spindle",
+          "amount": 5
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "ancient-spindle",
+          "amount": 8
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "ancient-engine",
+          "amount": 5
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "ancient-engine",
+          "amount": 7
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "pela": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 5
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 8
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 5
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 7
+        },
+        {
+          "name": "horn-of-snow",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "clara": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "ancient-part",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "ancient-part",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "ancient-spindle",
+          "amount": 6
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "ancient-spindle",
+          "amount": 9
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "ancient-engine",
+          "amount": 6
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "ancient-engine",
+          "amount": 9
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "sampo": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "ancient-part",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "ancient-part",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "ancient-spindle",
+          "amount": 5
+        },
+        {
+          "name": "storm-eye",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "ancient-spindle",
+          "amount": 8
+        },
+        {
+          "name": "storm-eye",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "ancient-engine",
+          "amount": 5
+        },
+        {
+          "name": "storm-eye",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "ancient-engine",
+          "amount": 7
+        },
+        {
+          "name": "storm-eye",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "hook": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "ancient-part",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "ancient-part",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "ancient-spindle",
+          "amount": 5
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "ancient-spindle",
+          "amount": 8
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "ancient-engine",
+          "amount": 5
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "ancient-engine",
+          "amount": 7
+        },
+        {
+          "name": "endotherm-chitin",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "qingque": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 5
+        },
+        {
+          "name": "void-cast-iron",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 8
+        },
+        {
+          "name": "void-cast-iron",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 5
+        },
+        {
+          "name": "void-cast-iron",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 7
+        },
+        {
+          "name": "void-cast-iron",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "tingyun": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "immortal-scionette",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "immortal-scionette",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "immortal-aeroblossom",
+          "amount": 5
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "immortal-aeroblossom",
+          "amount": 8
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "immortal-lumintwig",
+          "amount": 5
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "immortal-lumintwig",
+          "amount": 7
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "jing-yuan": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "immortal-scionette",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "immortal-scionette",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "immortal-aeroblossom",
+          "amount": 6
+        },
+        {
+          "name": "shape-shifters-lightning-staff",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "immortal-aeroblossom",
+          "amount": 9
+        },
+        {
+          "name": "shape-shifters-lightning-staff",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "immortal-lumintwig",
+          "amount": 6
+        },
+        {
+          "name": "shape-shifters-lightning-staff",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "immortal-lumintwig",
+          "amount": 9
+        },
+        {
+          "name": "shape-shifters-lightning-staff",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "sushang": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "artifexs-module",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "artifexs-module",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "artifexs-cogwheel",
+          "amount": 5
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "artifexs-cogwheel",
+          "amount": 8
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "artifexs-gyreheart",
+          "amount": 5
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "artifexs-gyreheart",
+          "amount": 7
+        },
+        {
+          "name": "broken-teeth-of-iron-wolf",
+          "amount": 28
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "yanqing": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 6
+        },
+        {
+          "name": "gelid-chitin",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 9
+        },
+        {
+          "name": "gelid-chitin",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 6
+        },
+        {
+          "name": "gelid-chitin",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 9
+        },
+        {
+          "name": "gelid-chitin",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "bailu": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "extinguished-core",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 6
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "glimmering-core",
+          "amount": 9
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 6
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "squirming-core",
+          "amount": 9
+        },
+        {
+          "name": "lightning-crown-of-the-past-shadow",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
+  "trailblazer": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 3200
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 6400
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 12800
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 5
+        },
+        {
+          "name": "enigmatic-ectostella",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 32000
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 8
+        },
+        {
+          "name": "enigmatic-ectostella",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 64000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 5
+        },
+        {
+          "name": "enigmatic-ectostella",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 128000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 7
+        },
+        {
+          "name": "enigmatic-ectostella",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ]
+}
