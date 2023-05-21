@@ -1,6 +1,6 @@
 {
-	"name": "honkaimoe",
-	"version": "0.0.1",
+	"name": "pom-moe",
+	"version": "0.1.0",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev --port=8151 --host",
