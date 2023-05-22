@@ -54,8 +54,8 @@
 		if (summary === undefined) return;
 
 		percentage = {
-			4: (items4.length / summary.total.all) * 100,
-			5: (items5.length / summary.total.all) * 100
+			4: (items4.length / Math.max(summary.total.all, 1)) * 100,
+			5: (items5.length / Math.max(summary.total.all, 1)) * 100
 		};
 
 		avgPity = {
