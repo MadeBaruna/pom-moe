@@ -9,6 +9,7 @@
 	import { db } from '$utils/db';
 	import type { Banner, BannerType, BannerSummary, WarpItem } from '$types';
 	import '$data/characters';
+	import '$data/lightcones';
 	import '$data/banners';
 	import { banners, maxPities } from '$data/banners';
 
@@ -180,11 +181,13 @@
 							: 'bg-gray-800'}"
 					>
 						<img
-							src="/images/characters-mini/{item.name}.png"
+							src="/images/{item.type === 'character'
+								? 'characters-mini'
+								: 'lightcones'}/{item.name}.png"
 							alt=""
 							class="-ml-2 mr-2 inline h-7 w-7"
 						/>
-						<span class="text-base">{$t(`character.${item.name}`)}</span>
+						<span class="text-base">{$t(`${item.type}.${item.name}`)}</span>
 						<span class="ml-2 inline-block text-base font-medium" style="color: {color(item.pity)}"
 							>{item.pity}</span
 						>

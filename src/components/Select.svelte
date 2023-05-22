@@ -112,7 +112,6 @@
 	function onSelectedChange() {
 		if (updating) return;
 
-		console.log('onSelectedChange');
 		if (selected !== null && !Array.isArray(selected)) {
 			const currentVal = selected.value;
 			state.clear();
