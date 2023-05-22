@@ -8,6 +8,8 @@
 	import Modal from 'svelte-simple-modal';
 	import { modal } from '$utils/modal';
 	import { fly } from 'svelte/transition';
+	import Icon from '@iconify/svelte';
+	import GithubIcon from '@iconify-icons/mdi/github';
 
 	onMount(() => {
 		const lang = getLocalStorageItem('locale');
@@ -34,8 +36,21 @@
 		</Modal>
 	</div>
 	<div class="flex-1" />
-	<footer class="mt-4 w-full max-w-screen-xl py-4 text-white/40">
-		<p>Honkai.moe is not affiliated with HoYoverse.</p>
-		<p>Honkai: Star Rail, game content and materials are trademarks and copyrights of HoYoverse.</p>
+	<footer
+		class="mt-4 flex w-full max-w-screen-xl items-center justify-between px-3 py-4 text-white/40"
+	>
+		<div>
+			<p>Pom.moe is not affiliated with HoYoverse.</p>
+			<p>
+				Honkai: Star Rail, game content and materials are trademarks and copyrights of HoYoverse.
+			</p>
+		</div>
+		<a
+			href="https://github.com/MadeBaruna/pom-moe"
+			class="duration-150 hover:text-white"
+			target="_blank"
+		>
+			<Icon icon={GithubIcon} height={40} />
+		</a>
 	</footer>
 </div>
