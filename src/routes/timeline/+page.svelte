@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
+	import { onMount, tick } from 'svelte';
 	import dayjs from 'dayjs';
 	import duration from 'dayjs/plugin/duration';
 	import timezone from 'dayjs/plugin/timezone';
@@ -13,6 +13,7 @@
 	dayjs.extend(timezone);
 
 	let centeredDiv: HTMLDivElement;
+	let timelineDiv: HTMLDivElement;
 	let offset = 0;
 	let pad = 0;
 
@@ -88,7 +89,7 @@
 		event.preventDefault();
 	}
 
-	onMount(() => {
+	onMount(async () => {
 		now = dayjs();
 		browserTimezone = dayjs.tz.guess();
 		browserUtcOffset = now.utcOffset() / 60;
@@ -100,6 +101,10 @@
 		offset = centeredDiv.offsetLeft;
 		pad = Math.ceil(offset / width);
 		process();
+
+		await tick();
+
+		timelineDiv.scrollTo({ left: nowOffset - window.innerWidth / 2, top: 0, behavior: 'smooth' });
 
 		const interval = setInterval(() => {
 			now = dayjs();
@@ -119,15 +124,15 @@
 </svelte:head>
 
 <div class="flex justify-center">
-	<div class="flex w-full max-w-screen-xl items-center px-3">
-		<div bind:this={centeredDiv} />
+	<div class="mb-8 flex w-full max-w-screen-xl flex-col items-center px-3 md:mb-0 md:flex-row">
+		<div bind:this={centeredDiv} class="w-full md:w-0" />
 		<Title>Timeline</Title>
 		<div class="flex-1" />
 		<p class="leading-tight text-gray-400">{browserTimezone} - {server} Server</p>
 	</div>
 </div>
 {#if !loading}
-	<div class="overflow-x-auto" on:wheel={transformScroll}>
+	<div class="overflow-x-auto" on:wheel={transformScroll} bind:this={timelineDiv}>
 		<div class="relative pt-10" style="height: {totalHeight + 40}px">
 			{#each dates as date, i}
 				<div

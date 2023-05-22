@@ -5,15 +5,17 @@
 	export let icon = '';
 	export let target = '/';
 	export let iconOnly = false;
+	export let close = () => {};
 
 	$: active = $page.url.pathname.startsWith(target);
 </script>
 
 <a
 	href={target}
-	class="relative flex select-none items-center rounded-md py-1 pl-6 duration-150 hover:opacity-100 {active
+	class="relative flex w-fit select-none items-center rounded-md py-1 pl-6 duration-150 hover:opacity-100 {active
 		? 'opacity-100'
 		: 'opacity-70'}"
+	on:click={close}
 >
 	<img src="/icons/{icon}" alt="" class="h-8 w-8" />
 	<span class="whitespace-nowrap pl-2 font-semibold text-white">{label}</span>

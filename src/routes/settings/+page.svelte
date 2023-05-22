@@ -57,8 +57,8 @@
 </script>
 
 <Title>Settings</Title>
-<div class="grid grid-cols-3 gap-4">
-	<div class="mb-4 rounded-md bg-black bg-opacity-30 p-4 ring-1 ring-white/5">
+<div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+	<div class="rounded-md bg-black bg-opacity-30 p-4 ring-1 ring-white/5">
 		<p class="mb-1 font-bold text-white">Profiles</p>
 		<p class="mb-4 text-gray-200">If you have multiple accounts, you can separate them here</p>
 
@@ -77,7 +77,7 @@
 			<Button disabled>Rename</Button>
 		</div>
 	</div>
-	<div class="mb-4 rounded-md bg-black bg-opacity-30 p-4 ring-1 ring-white/5">
+	<div class="rounded-md bg-black bg-opacity-30 p-4 ring-1 ring-white/5">
 		<p class="mb-4 font-bold text-white">Export & Import</p>
 		<Button on:click={exportData} class="text-lg"
 			><Icon class="mr-2" icon={DownloadIcon} /> Download Data</Button

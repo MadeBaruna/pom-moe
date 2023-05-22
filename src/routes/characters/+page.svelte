@@ -86,7 +86,7 @@
 
 <Title>{$t('common.character')}</Title>
 <div class="mb-4 flex flex-col gap-8 md:flex-row">
-	<div class="flex gap-2">
+	<div class="flex justify-center gap-2 md:justify-normal">
 		{#each $elements as element}
 			<button
 				class="duration-150 hover:opacity-80 {filter.elements[element.id] ? '' : 'opacity-30'}"
@@ -102,7 +102,7 @@
 			</button>
 		{/each}
 	</div>
-	<div class="flex flex-wrap gap-2">
+	<div class="flex flex-wrap justify-center gap-2 md:justify-normal">
 		{#each $paths as path}
 			<button
 				class="duration-150 hover:opacity-80 {filter.paths[path.id] ? '' : 'opacity-30'}"

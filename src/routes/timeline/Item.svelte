@@ -83,7 +83,10 @@
 		</div>
 	</div>
 	<div class="sticky inline-flex h-full items-center" style="left: {offset}px;">
-		<span class="name pl-10 pr-4 font-medium text-black/90" style:--color="{event.color}dd">
+		<span
+			class="name left-0 pl-4 pr-4 font-medium text-black/90 md:pl-10"
+			style:--color="{event.color}dd"
+		>
 			{event.name}
 		</span>
 	</div>

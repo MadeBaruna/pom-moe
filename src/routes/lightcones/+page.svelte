@@ -72,7 +72,7 @@
 </svelte:head>
 
 <Title>{$t('common.lightcone')}</Title>
-<div class="mb-8 flex gap-2">
+<div class="mb-8 flex flex-wrap justify-center gap-2 md:justify-normal">
 	{#each $paths as path}
 		<button
 			class="duration-150 hover:opacity-80 {filter.paths[path.id] ? '' : 'opacity-30'}"
@@ -91,7 +91,7 @@
 </div>
 <div class="flex flex-col gap-3">
 	{#each list as lightcones}
-		<div class="mb-8 flex flex-wrap gap-3">
+		<div class="mb-8 flex flex-wrap justify-center gap-3 md:justify-normal">
 			{#each lightcones as lightcone (lightcone.id)}
 				<LightconeCard {lightcone} {showTotal} total={total[lightcone.id] ?? 0} />
 			{/each}

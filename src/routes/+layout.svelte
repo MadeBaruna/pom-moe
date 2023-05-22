@@ -21,7 +21,7 @@
 
 <Header />
 <div class="flex min-h-screen flex-col items-center">
-	<div class="w-full px-3 pt-20 {$page.route.id !== '/timeline' ? 'max-w-screen-xl' : ''}">
+	<div class="w-full pt-20 {$page.route.id !== '/timeline' ? 'max-w-screen-xl px-3' : ''}">
 		<Modal
 			show={$modal}
 			unstyled

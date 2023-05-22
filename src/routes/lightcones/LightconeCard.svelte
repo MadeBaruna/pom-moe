@@ -20,7 +20,7 @@
 	<img
 		src={`/images/lightcones/${lightcone.id}.png`}
 		alt={lightcone.name}
-		class="relative h-auto w-32 {showTotal && total === 0 ? 'brightness-50' : ''}"
+		class="relative h-auto w-28 md:w-32 {showTotal && total === 0 ? 'brightness-50' : ''}"
 		width={128}
 		height={128}
 	/>
