@@ -128,6 +128,7 @@ export type Banner = {
 	zoom: number;
 	featured5: string[];
 	featured4: string[];
+	timezoneDependent?: true;
 };
 
 export type BannerLocale = {

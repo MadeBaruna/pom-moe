@@ -30,9 +30,9 @@
 	const _top = row * (height + margin);
 
 	const nextDiff = next !== null ? dayjs(next.start).diff(_end, 'hour') : Number.MAX_VALUE;
-	const nextNearby = nextDiff < 48;
+	const nextNearby = nextDiff < 12;
 	const prevDiff = prev !== null ? _start.diff(prev.end, 'hour') : Number.MAX_VALUE;
-	const prevNearby = prevDiff < 48;
+	const prevNearby = prevDiff < 12;
 
 	let duration = '';
 	function updateDuration() {
@@ -84,7 +84,9 @@
 	</div>
 	<div class="sticky inline-flex h-full items-center" style="left: {offset}px;">
 		<span
-			class="name left-0 pl-4 pr-4 font-medium text-black/90 md:pl-10"
+			class="name left-0 pr-4 font-medium text-black/90 {!started && !prevNearby
+				? 'pl-4 md:pl-24'
+				: 'pl-4 md:pl-10'}"
 			style:--color="{event.color}dd"
 		>
 			{event.name}
@@ -94,7 +96,7 @@
 		<div
 			class="absolute bottom-0 top-0 z-20 flex items-center {started
 				? 'right-0'
-				: 'left-0'} {nextNearby
+				: '-left-4'} {nextNearby
 				? 'translate-x-1/2'
 				: started
 				? 'translate-x-[120%]'

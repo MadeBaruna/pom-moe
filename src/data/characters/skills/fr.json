@@ -167,7 +167,7 @@
     },
     "technique": {
       "name": "Beauté glacée",
-      "desc": "Attaque immédiatement un ennemi. Il y a {1} de <u>chances de base</u> de geler un ennemi aléatoire pendant {2} tour après être entré en combat.\\nUn ennemi gelé ne peut pas agir et subit des DGT de glace <u>additionnels</u> équivalents à {3} de l'ATQ de March 7th au début de chaque tour.",
+      "desc": "Attaque immédiatement les ennemis. Il y a {1} de <u>chances de base</u> de geler un ennemi aléatoire pendant {2} tour après être entré en combat.\\nUn ennemi gelé ne peut pas agir et subit des DGT de glace <u>additionnels</u> équivalents à {3} de l'ATQ de March 7th au début de chaque tour.",
       "values": [
         [
           100
@@ -687,6 +687,275 @@
       ]
     }
   },
+  "silver-wolf": {
+    "attack": {
+      "name": "Alerte système",
+      "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Louve d'argent à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Autoriser les modifications ?",
+      "desc": "Il y a <span style=\"color: #f29e38ff\">{2}</span> de <u>chances de base</u> d'appliquer 1 Faiblesse du type d'un allié présent sur le champ de bataille à une cible ennemie. Réduit également la RÉS aux DGT de ce type de faiblesse de l'ennemi de {4} pendant {3} tours. Si l'ennemi a déjà ce type de faiblesse, l'effet de réduction de RÉS aux DGT ne sera pas déclenché.\\nChaque ennemi ne peut avoir qu'une seule Faiblesse appliquée par Louve d'argent à la fois. Si Louve d'argent applique une nouvelle Faiblesse, elle remplace la précédente.\\nD'autre part, il y a {5} de <u>chances de base</u> de réduire toutes les RÉS de type de l'ennemi de <span style=\"color: #f29e38ff\">{6}</span> pendant {7} tours.\\nInflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Louve d'argent à cet ennemi.",
+      "values": [
+        [
+          98,
+          108,
+          118,
+          127,
+          137,
+          147,
+          159,
+          172,
+          184,
+          196,
+          206,
+          216,
+          225,
+          235,
+          245
+        ],
+        [
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90
+        ],
+        [
+          2
+        ],
+        [
+          20
+        ],
+        [
+          100
+        ],
+        [
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7,
+          9.1,
+          9.4,
+          9.7,
+          10,
+          10.3,
+          10.5,
+          10.7,
+          11,
+          11.3
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Compte bloqué",
+      "desc": "Il y a <span style=\"color: #f29e38ff\">{2}</span> de <u>chances de base</u> de réduire la DÉF d'une cible ennemie de <span style=\"color: #f29e38ff\">{3}</span> pendant {4} tours. D'autre part, inflige à la cible ennemie des DGT quantiques équivalent à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Louve d'argent.",
+      "values": [
+        [
+          228,
+          243,
+          258,
+          274,
+          289,
+          304,
+          323,
+          342,
+          361,
+          380,
+          395,
+          410,
+          426,
+          441,
+          456
+        ],
+        [
+          85,
+          87,
+          88,
+          90,
+          91,
+          93,
+          94,
+          96,
+          98,
+          100,
+          101,
+          103,
+          104,
+          106,
+          107
+        ],
+        [
+          36,
+          36.9,
+          37.8,
+          38.7,
+          39.6,
+          40.5,
+          41.6,
+          42.8,
+          43.9,
+          45,
+          45.9,
+          46.8,
+          47.7,
+          48.6,
+          49.5
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "En attente de la réponse du système...",
+      "desc": "Louve d'argent peut créer trois types de Bugs : une réduction d'ATQ de <span style=\"color: #f29e38ff\">{1}</span>, une réduction de DÉF de <span style=\"color: #f29e38ff\">{2}</span> ou une réduction de VIT de <span style=\"color: #f29e38ff\">{3}</span>.\\nChaque fois que Louve d'argent attaque, elle a <span style=\"color: #f29e38ff\">{4}</span> de <u>chances de base</u> d'implanter un Bug aléatoire qui dure {5} tours aux cibles attaquées.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          4,
+          4.4,
+          4.8,
+          5.2,
+          5.6,
+          6,
+          6.5,
+          7,
+          7.5,
+          8,
+          8.4,
+          8.8,
+          9.2,
+          9.6,
+          10
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          60,
+          61,
+          62,
+          64,
+          65,
+          66,
+          68,
+          69,
+          71,
+          72,
+          73,
+          74,
+          76,
+          77,
+          78
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1006_Normal.png"
+    },
+    "technique": {
+      "name": "Arrêt forcé du programme",
+      "desc": "Attaque immédiatement. Inflige des DGT quantiques équivalents à {1} de l'ATQ de Louve d'argent à tous les ennemis, ignore les types de faiblesse et réduit la robustesse de tous les ennemis après être entré en combat. Les ennemis qui subissent une Rupture de faiblesse de cette manière déclenchent l'effet de Rupture de faiblesse quantique.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "arlan": {
     "attack": {
       "name": "Ruée éclair",
@@ -817,7 +1086,7 @@
     },
     "technique": {
       "name": "Moisson rapide",
-      "desc": "Attaque immédiatement un ennemi. Inflige des DGT de foudre équivalents à {1} de l'ATQ d'Arlan à tous les ennemis après être entré en combat.",
+      "desc": "Attaque immédiatement les ennemis. Inflige des DGT de foudre équivalents à {1} de l'ATQ d'Arlan à tous les ennemis après être entré en combat.",
       "values": [
         [
           80
@@ -948,7 +1217,7 @@
     },
     "technique": {
       "name": "Coup de génie",
-      "desc": "Attaque immédiatement un ennemi. Inflige des DGT de feu équivalents à {1} de l'ATQ d'Asta à tous les ennemis après être entré en combat.",
+      "desc": "Attaque immédiatement. Inflige des DGT de feu équivalents à {1} de l'ATQ d'Asta à tous les ennemis après être entré en combat.",
       "values": [
         [
           50
@@ -1556,7 +1825,7 @@
     },
     "technique": {
       "name": "Bonsoir Belobog",
-      "desc": "Attaque immédiatement un ennemi. Inflige des DGT de foudre équivalents à {4} de l'ATQ de Serval à un ennemi aléatoire après être entré en combat, avec {1} de <u>chances de base</u> que tous les ennemis soient stupéfiés pendant {3} tours.\\nLes ennemis stupéfiés subissent des dégâts de foudre sur la durée équivalents à {2} de l'ATQ de Serval au début de chaque tour.",
+      "desc": "Attaque immédiatement les ennemis. Inflige des DGT de foudre équivalents à {4} de l'ATQ de Serval à un ennemi aléatoire après être entré en combat, avec {1} de <u>chances de base</u> que tous les ennemis soient stupéfiés pendant {3} tours.\\nLes ennemis stupéfiés subissent des dégâts de foudre sur la durée équivalents à {2} de l'ATQ de Serval au début de chaque tour.",
       "values": [
         [
           100
@@ -1942,7 +2211,7 @@
     },
     "technique": {
       "name": "Recherche sur l'hypnose",
-      "desc": "Attaque immédiatement un ennemi. Inflige des DGT physiques équivalents à {4} de l'ATQ de Natasha à un ennemi aléatoire avec {1} de <u>chances de base</u> d'affaiblir tous les ennemis après être entré en combat.\\nLes ennemis affaiblis infligent {2} de DGT en moins aux alliés pendant {3} tour.",
+      "desc": "Attaque immédiatement les ennemis. Inflige des DGT physiques équivalents à {4} de l'ATQ de Natasha à un ennemi aléatoire avec {1} de <u>chances de base</u> d'affaiblir tous les ennemis après être entré en combat.\\nLes ennemis affaiblis infligent {2} de DGT en moins aux alliés pendant {3} tour.",
       "values": [
         [
           100
@@ -1968,7 +2237,7 @@
   "pela": {
     "attack": {
       "name": "Tir givré",
-      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Pela à un ennemi unique.",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Pela à une cible ennemie unique.",
       "values": [
         [
           50,
@@ -1988,7 +2257,7 @@
     },
     "skill": {
       "name": "Morsure du givre",
-      "desc": "Supprime {2} <u>bonus</u> et inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Pela à un ennemi unique.",
+      "desc": "Supprime {2} <u>bonus</u> et inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Pela à une cible ennemie unique.",
       "values": [
         [
           105,
@@ -2103,7 +2372,7 @@
     },
     "technique": {
       "name": "Frappe préventive",
-      "desc": "Attaque immédiatement un ennemi. Pela inflige des DGT de glace équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat, avec {1} de <u>chances de base</u> de diminuer la DÉF de tous les ennemis de {2} pendant {3} tours.",
+      "desc": "Attaque immédiatement les ennemis. Pela inflige des DGT de glace équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat, avec {1} de <u>chances de base</u> de diminuer la DÉF de tous les ennemis de {2} pendant {3} tours.",
       "values": [
         [
           100
@@ -2290,7 +2559,7 @@
     },
     "technique": {
       "name": "Le prix de la victoire",
-      "desc": "Attaque immédiatement un ennemi. Les chances pour Clara de se faire attaquer par des ennemis augmentent pendant {1} tours en entrant en combat.",
+      "desc": "Attaque immédiatement les ennemis. Les chances pour Clara de se faire attaquer par des ennemis augmentent pendant {1} tours en entrant en combat.",
       "values": [
         [
           2
@@ -2612,7 +2881,7 @@
     },
     "technique": {
       "name": "Aïe ! Regarde-moi ce bazar !",
-      "desc": "Attaque immédiatement un ennemi. Hook inflige des DGT de feu équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat. D'autre part, il y a {1} de <u>chances de base</u> d'infliger Brûlure à tous les ennemis pendant {3} tours.\\nLes ennemis affectés par l'état Brûlure subissent des dégâts de feu sur la durée équivalents à {2} de l'ATQ de Hook au début de chaque tour.",
+      "desc": "Attaque immédiatement les ennemis. Hook inflige des DGT de feu équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat. D'autre part, il y a {1} de <u>chances de base</u> d'infliger Brûlure à tous les ennemis pendant {3} tours.\\nLes ennemis affectés par l'état Brûlure subissent des dégâts de feu sur la durée équivalents à {2} de l'ATQ de Hook au début de chaque tour.",
       "values": [
         [
           100
@@ -2788,7 +3057,7 @@
     },
     "talent": {
       "name": "Jade céleste",
-      "desc": "Au début du tour de chaque allié, Qingque pioche 1 tuile au hasard parmi 3 séries différentes et peut posséder jusqu'à 4 tuiles à la fois.\\nSi Qingque commence son tour avec 4 tuiles de la même série, elle les utilise toutes et entre dans l'état « Kong caché ».\\nDans cet état, Qingque ne peut plus utiliser sa compétence. D'autre part, son ATQ augmente de <span style=\"color: #f29e38ff\">{1}</span> et son ATQ normale « Bonne pioche » est renforcée pour devenir « C'est la tuile ! ». L'état « Kong caché » prend fin après utilisation de « C'est la tuile ! ».",
+      "desc": "Qingque pioche 1 tuile au hasard au début du tour de chaque allié, parmi 3 séries différentes et peut posséder jusqu'à 4 tuiles à la fois.\\nSi Qingque commence son tour avec 4 tuiles de la même série, elle les utilise toutes et entre dans l'état « Kong caché ».\\nDans cet état, Qingque ne peut plus utiliser sa compétence. D'autre part, son ATQ augmente de <span style=\"color: #f29e38ff\">{1}</span> et son ATQ normale « Bonne pioche » est renforcée pour devenir « C'est la tuile ! ». L'état « Kong caché » prend fin après utilisation de « C'est la tuile ! ».",
       "values": [
         [
           36,
@@ -3114,7 +3383,7 @@
     },
     "talent": {
       "name": "Annihilation du prana",
-      "desc": "Invoque le Seigneur de la foudre en début de combat. Le Seigneur de la foudre dispose d'une VIT de base de {1} et d'un nombre de frappes par action de base de {4}. Lorsque le Seigneur de la foudre agit, ses frappes sont considérées comme des <u>attaques de suivi</u>, chacune infligeant des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Jing Yuan à un ennemi unique, et les ennemis adjacents subissent également des DGT de foudre équivalents à {5} des DGT infligés à l'ennemi principal.\\nLe nombre de frappes par action du Seigneur de la foudre peut atteindre un maximum de {6}. Chaque fois que le nombre de frappes par action du Seigneur de la foudre augmente de 1, sa VIT augmente de {3}. Une fois l'action du Seigneur de la foudre terminée, sa VIT et son nombre de frappes par action retrouvent leurs valeurs de base.\\nLorsque Jing Yuan est <u>à terre</u>, le Seigneur de la foudre disparaît.\\nLorsque Jing Yuan est affecté par un <u>malus de contrôle</u>, le Seigneur de la foudre ne peut plus agir.",
+      "desc": "Invoque le Seigneur de la foudre en début de combat. Le Seigneur de la foudre dispose d'une VIT de base de {1} et d'un nombre de frappes par action de base de {4}. Lorsque le Seigneur de la foudre agit, ses frappes sont considérées comme des <u>attaques de suivi</u>, chacune infligeant des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Jing Yuan à un ennemi unique aléatoire, et les ennemis adjacents subissent également des DGT de foudre équivalents à {5} des DGT infligés à l'ennemi principal.\\nLe nombre de frappes par action du Seigneur de la foudre peut atteindre un maximum de {6}. Chaque fois que le nombre de frappes par action du Seigneur de la foudre augmente de 1, sa VIT augmente de {3}. Une fois l'action du Seigneur de la foudre terminée, sa VIT et son nombre de frappes par action retrouvent leurs valeurs de base.\\nLorsque Jing Yuan est <u>à terre</u>, le Seigneur de la foudre disparaît.\\nLorsque Jing Yuan est affecté par un <u>malus de contrôle</u>, le Seigneur de la foudre ne peut plus agir.",
       "values": [
         [
           60
@@ -3167,7 +3436,7 @@
     },
     "technique": {
       "name": "Invocation d'esprit",
-      "desc": "Après utilisation de la technique, le nombre de frappes par action du Seigneur de la foudre augmente de {1} au premier tour du combat suivant.",
+      "desc": "Après utilisation de la technique, le nombre de frappes par action du Seigneur de la foudre augmente de {1} au début du combat suivant.",
       "values": [
         [
           3
@@ -3249,7 +3518,7 @@
     },
     "ultimate": {
       "name": "Forme de Taixu : Héraut de l'aube",
-      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Sushang à un ennemi unique et avance immédiatement l'action de Sushang de 100 %. De plus, l'ATQ de Sushang augmente de <span style=\"color: #f29e38ff\">{4}</span> et l'utilisation de sa compétence a 2 chances supplémentaires de déclencher Posture de l'épée pendant {2} tours.\\nLorsque Posture de l'épée est déclenchée par les chances supplémentaires, elle inflige {3} des DGT initiaux.",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Sushang à un ennemi unique et Sushang agit immédiatement à nouveau. De plus, l'ATQ de Sushang augmente de <span style=\"color: #f29e38ff\">{4}</span> et l'utilisation de sa compétence a 2 chances supplémentaires de déclencher Posture de l'épée pendant {2} tours.\\nLorsque Posture de l'épée est déclenchée par les chances supplémentaires, elle inflige {3} des DGT initiaux.",
       "values": [
         [
           192,
@@ -3338,7 +3607,7 @@
     },
     "technique": {
       "name": "Escrime perce-nuages : Cri de guerre",
-      "desc": "Attaque immédiatement un ennemi. Sushang inflige des DGT physiques équivalents à {1} de son ATQ à tous les ennemis en entrant en combat.",
+      "desc": "Attaque immédiatement les ennemis. Sushang inflige des DGT physiques équivalents à {1} de son ATQ à tous les ennemis en entrant en combat.",
       "values": [
         [
           80
@@ -3346,6 +3615,181 @@
       ],
       "format": [
         "[i]%"
+      ]
+    }
+  },
+  "yukong": {
+    "attack": {
+      "name": "Tir de flèche",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yukong à une cible ennemie.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Salve de courage",
+      "desc": "Obtient {1} cumuls de Rugissement des cordes (maximum de 2 cumuls). Lorsque « Rugissement des cordes » est actif, l'ATQ de tous les alliés augmente de <span style=\"color: #f29e38ff\">{2}</span>, et Yukong perd 1 cumul de « Rugissement des cordes » à la fin de chaque tour allié.\\nAu cours du tour où Yukong obtient « Rugissement des cordes » en utilisant sa compétence, elle ne perd pas de cumul de « Rugissement des cordes ».",
+      "values": [
+        [
+          2
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Crécerelle en piqué",
+      "desc": "Si Yukong bénéficie de « Rugissement des cordes » lorsqu'elle utilise son ultime, les chances de coup critique de tous les alliés augmentent de <span style=\"color: #f29e38ff\">{2}</span> et leurs DGT critiques de <span style=\"color: #f29e38ff\">{3}</span>. D'autre part, inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yukong à un ennemi unique.",
+      "values": [
+        [
+          228,
+          243,
+          258,
+          274,
+          289,
+          304,
+          323,
+          342,
+          361,
+          380,
+          395,
+          410,
+          426,
+          441,
+          456
+        ],
+        [
+          21,
+          22,
+          22,
+          23,
+          24,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          29,
+          30,
+          31,
+          31
+        ],
+        [
+          39,
+          42,
+          44,
+          47,
+          49,
+          52,
+          55,
+          59,
+          62,
+          65,
+          68,
+          70,
+          73,
+          75,
+          78
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Sept épaisseurs, une flèche",
+      "desc": "Les ATQ normales infligent des DGT imaginaires supplémentaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yukong et les DGT à la robustesse de ces attaques augmentent de {2}. Cet effet peut être déclenché une fois tous les {3} tours.",
+      "values": [
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ],
+        [
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Après avoir attaqué un ennemi et rejoint le combat, la résistance de l'ennemi au type correspondant est affaiblie.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1207_Normal.png"
+    },
+    "technique": {
+      "name": "À la poursuite du vent",
+      "desc": "Après utilisation de la technique, entre en mode Sprint pendant {1} secondes. En mode Sprint, la vitesse de déplacement augmente de {2} et Yukong obtient {3} cumuls de « Rugissement des cordes » lorsqu'elle entre en combat en attaquant des ennemis.",
+      "values": [
+        [
+          20
+        ],
+        [
+          35
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
       ]
     }
   },

@@ -335,6 +335,12 @@
     "path": "erudition",
     "rarity": 4
   },
+  "before-the-tutorial-mission-starts": {
+    "id": "before-the-tutorial-mission-starts",
+    "name": "Antes de que comience la misión del tutorial",
+    "path": "nihility",
+    "rarity": 4
+  },
   "night-on-the-milky-way": {
     "id": "night-on-the-milky-way",
     "name": "Noche en la Vía Láctea",
@@ -369,6 +375,18 @@
     "id": "moment-of-victory",
     "name": "El momento de la victoria",
     "path": "preservation",
+    "rarity": 5
+  },
+  "incessant-rain": {
+    "id": "incessant-rain",
+    "name": "Lluvia incesante",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "echoes-of-the-coffin": {
+    "id": "echoes-of-the-coffin",
+    "name": "Ecos del ataúd",
+    "path": "abundance",
     "rarity": 5
   },
   "before-dawn": {

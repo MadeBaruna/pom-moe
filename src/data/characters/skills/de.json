@@ -247,7 +247,7 @@
     },
     "ultimate": {
       "name": "Ätherischer Traum",
-      "desc": "Fügt einem anvisierten Gegner Wind-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Dan Hengs ANG zu. Erhöht den durch Ultimate verursachten SCH-Multiplikator um <span style=\"color: #f29e38ff\">{2}</span>, wenn der Gegner verlangsamt wird.",
+      "desc": "Fügt einem anvisierten Gegner Wind-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Dan Hengs ANG zu. Erhöht den durch Ultimate verursachten SCH-Multiplikator um <span style=\"color: #f29e38ff\">{2}</span>, wenn der Gegner verlangsamt ist.",
       "values": [
         [
           240,
@@ -291,7 +291,7 @@
     },
     "talent": {
       "name": "Überlegene Reichweite",
-      "desc": "Ist Dan Heng Ziel einer Fähigkeit eines Verbündeten, so steigt die Wind-<u>WDS-DUR</u> seines nächsten Angriffs um <span style=\"color: #f29e38ff\">{1}</span>. Dieser Effekt kann nach {2} Rd. erneut ausgelöst werden.",
+      "desc": "Ist Dan Heng Ziel einer Fähigkeit eines Verbündeten, so steigt die <u>Wind-WDS-DUR</u> seines nächsten Angriffs um <span style=\"color: #f29e38ff\">{1}</span>. Dieser Effekt kann nach {2} Rd. erneut ausgelöst werden.",
       "values": [
         [
           18,
@@ -683,6 +683,275 @@
         "[i]%",
         "[i]%",
         "[i]",
+        "[i]%"
+      ]
+    }
+  },
+  "silver-wolf": {
+    "attack": {
+      "name": "Systemwarnung",
+      "desc": "Fügt einem anvisierten Gegner Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Silberwolfs ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Änderungen zulassen?",
+      "desc": "Es besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, einem anvisierten Gegner 1 Schwäche des Typs eines Verbündeten hinzuzufügen. Damit wird auch der SCH-WDS des Gegners gegenüber diesem Schwächetyp für {3} Rd. um {4} reduziert. Wenn der Gegner bereits eine Schwäche dieses Typs hat, wird der Effekt der SCH-WDS-Reduzierung für diesen Schwächetyp nicht ausgelöst.\\nJedem Gegner kann nur 1 Schwäche von Silberwolf hinzugefügt werden. Wenn Silberwolf dem Ziel eine weitere Schwäche hinzufügt, wird nur die letzte Schwäche beibehalten.\\nAußerdem gibt es eine <u>Grundchance</u> von {5}, den WDS aller Typen des Ziels zusätzlich um <span style=\"color: #f29e38ff\">{6}</span> für {7} Rd. zu reduzieren.\\nFügt diesem Gegner Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Silberwolfs ANG zu.",
+      "values": [
+        [
+          98,
+          108,
+          118,
+          127,
+          137,
+          147,
+          159,
+          172,
+          184,
+          196,
+          206,
+          216,
+          225,
+          235,
+          245
+        ],
+        [
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90
+        ],
+        [
+          2
+        ],
+        [
+          20
+        ],
+        [
+          100
+        ],
+        [
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7,
+          9.1,
+          9.4,
+          9.7,
+          10,
+          10.3,
+          10.5,
+          10.7,
+          11,
+          11.3
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Benutzer gebannt",
+      "desc": "Es besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, die VTD eines anvisierten Gegners für {4} Rd. um <span style=\"color: #f29e38ff\">{3}</span> zu reduzieren und dem Ziel Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Silberwolfs ANG zuzufügen.",
+      "values": [
+        [
+          228,
+          243,
+          258,
+          274,
+          289,
+          304,
+          323,
+          342,
+          361,
+          380,
+          395,
+          410,
+          426,
+          441,
+          456
+        ],
+        [
+          85,
+          87,
+          88,
+          90,
+          91,
+          93,
+          94,
+          96,
+          98,
+          100,
+          101,
+          103,
+          104,
+          106,
+          107
+        ],
+        [
+          36,
+          36.9,
+          37.8,
+          38.7,
+          39.6,
+          40.5,
+          41.6,
+          42.8,
+          43.9,
+          45,
+          45.9,
+          46.8,
+          47.7,
+          48.6,
+          49.5
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Warten auf Systemantwort ...",
+      "desc": "Silberwolf kann drei Arten von „Fehlern“ erzeugen: ANG um <span style=\"color: #f29e38ff\">{1}</span> reduzieren, VTD um <span style=\"color: #f29e38ff\">{2}</span> reduzieren und GES um <span style=\"color: #f29e38ff\">{3}</span> reduzieren.\\nJeder Angriff von Silberwolf hat eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{4}</span>, dem getroffenen Gegner für {5} Rd. einen zufälligen „Fehler“ zu implantieren.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          4,
+          4.4,
+          4.8,
+          5.2,
+          5.6,
+          6,
+          6.5,
+          7,
+          7.5,
+          8,
+          8.4,
+          8.8,
+          9.2,
+          9.6,
+          10
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          60,
+          61,
+          62,
+          64,
+          65,
+          66,
+          68,
+          69,
+          71,
+          72,
+          73,
+          74,
+          76,
+          77,
+          78
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1006_Normal.png"
+    },
+    "technique": {
+      "name": "Programmschließung erzwingen",
+      "desc": "Greift Gegner unmittelbar an. Nach Kampfeintritt wird allen Gegnern Quantum-SCH in Höhe von {1} von Silberwolfs ANG zugefügt und ungeachtet des Schwächetyps wird WDS aller Gegner reduziert. Bei Gegnern, deren Schwäche auf diese Weise gebrochen wird, wird der Effekt von Quantum-Schwächebruch ausgelöst.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
         "[i]%"
       ]
     }
@@ -2070,7 +2339,7 @@
     },
     "talent": {
       "name": "Datensammlung",
-      "desc": "Wenn der Gegner nach Pelas Angriff einen <u>Debuff</u> hat, erhält Pela zusätzlich <span style=\"color: #f29e38ff\">{1}</span> Pkt. Energie zurück. Dieser Effekt kann nur 1-mal pro Angriff ausgelöst werden.",
+      "desc": "Wenn der Gegner nach Pelas Angriff einen <u>Debuff</u> hat, stellt Pela zusätzlich <span style=\"color: #f29e38ff\">{1}</span> Pkt. Energie wieder her. Dieser Effekt kann nur 1-mal pro Angriff ausgelöst werden.",
       "values": [
         [
           5,
@@ -3034,7 +3303,7 @@
   "jing-yuan": {
     "attack": {
       "name": "Gleißendes Licht",
-      "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jing Yuans ANG zu.",
+      "desc": "Jing Yuan fügt einem einzelnen Gegner Blitz-SCHD in Höhe von <span style=\"color: #f29e38ff\">{1}</span> seines ANG zu.",
       "values": [
         [
           50,
@@ -3083,7 +3352,7 @@
       ]
     },
     "ultimate": {
-      "name": "Gnade auf deine Kosten",
+      "name": "Lichtbringer",
       "desc": "Fügt allen Gegnern Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jing Yuans ANG zu und erhöht die Trefferzahl des Blitz-Lords in der nächsten Runde um {2}.",
       "values": [
         [
@@ -3160,7 +3429,7 @@
     },
     "mazeattack": {
       "name": "Angriff",
-      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt seinen Widerstand gegen den entsprechenden Typ.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1204_Normal.png"
@@ -3249,7 +3518,7 @@
     },
     "ultimate": {
       "name": "Die Gestalt von Taixu: Herold der Morgenröte",
-      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Sushangs ANG zu und zieht ihre nächste Aktion unmittelbar um 100 % vor. Erhöht außerdem ihren ANG um <span style=\"color: #f29e38ff\">{4}</span> und beim Einsatz der Fertigkeit 2 zusätzliche Chancen für {2} Rd., „Schwerthaltung“ auszulösen.\\nWird die „Schwerthaltung“ durch eine zusätzliche Chance ausgelöst, wird {3} des ursprünglichen SCH verursacht.",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Sushangs ANG zu und sie tritt sofort in Aktion. Erhöht außerdem ihren ANG um <span style=\"color: #f29e38ff\">{4}</span> und beim Einsatz der Fertigkeit 2 zusätzliche Chancen für {2} Rd., „Schwerthaltung“ auszulösen.\\nWird die „Schwerthaltung“ durch eine zusätzliche Chance ausgelöst, wird {3} des ursprünglichen SCH verursacht.",
       "values": [
         [
           192,
@@ -3346,6 +3615,181 @@
       ],
       "format": [
         "[i]%"
+      ]
+    }
+  },
+  "yukong": {
+    "attack": {
+      "name": "Heldin mit Pfeil und Bogen",
+      "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Yukongs ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Ermutigende Salve",
+      "desc": "Erhält {1}-fach „Surrende Bogensehnen“, bis zu 2-fach stapelbar. Wenn „Surrende Bogensehnen“ aktiv ist, wird der ANG aller Verbündeten um <span style=\"color: #f29e38ff\">{2}</span> erhöht. Jedes Mal, wenn die Runde eines Verbündeten endet, wird 1-fach „Surrende Bogensehnen“ von Yukong entfernt.\\nWenn Yukong in ihrer Runde „Surrende Bogensehnen“ durch den Einsatz der Fertigkeit erhält, wird „Surrende Bogensehnen“ nicht entfernt.",
+      "values": [
+        [
+          2
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Turmfalke im Sturzflug",
+      "desc": "Wenn Yukong ihren Ultimate einsetzt und „Surrende Bogensehnen“ aktiv ist, werden die KRIT-Rate aller Verbündeten zusätzlich um <span style=\"color: #f29e38ff\">{2}</span> und der KRIT-SCH aller Verbündeten um <span style=\"color: #f29e38ff\">{3}</span> erhöht. Fügt gleichzeitig einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Yukongs ANG zu.",
+      "values": [
+        [
+          228,
+          243,
+          258,
+          274,
+          289,
+          304,
+          323,
+          342,
+          361,
+          380,
+          395,
+          410,
+          426,
+          441,
+          456
+        ],
+        [
+          21,
+          22,
+          22,
+          23,
+          24,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          29,
+          30,
+          31,
+          31
+        ],
+        [
+          39,
+          42,
+          44,
+          47,
+          49,
+          52,
+          55,
+          59,
+          62,
+          65,
+          68,
+          70,
+          73,
+          75,
+          78
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Sieben Schichten, ein Pfeil",
+      "desc": "Der Standardangriff fügt zusätzlichen imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Yukongs ANG zu und erhöht außerdem SCH der WDS-Reduzierung dieses Angriffs um {2}. Dieser Effekt kann nach {3} Rd. erneut ausgelöst werden.",
+      "values": [
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ],
+        [
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1207_Normal.png"
+    },
+    "technique": {
+      "name": "Jagd nach dem Wind",
+      "desc": "Aktiviert nach dem Einsatz der Technik für {1} Sek. Sprint-Modus. Der Sprint-Modus erhöht die Bewegungs-GES um {2} und gewährt Yukong {3}-fach „Surrende Bogensehnen“, wenn sie durch Angriff auf den Gegner einen Kampf einleitet.",
+      "values": [
+        [
+          20
+        ],
+        [
+          35
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
       ]
     }
   },

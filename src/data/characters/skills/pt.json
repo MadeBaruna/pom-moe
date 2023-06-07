@@ -440,7 +440,7 @@
     },
     "talent": {
       "name": "Corrida da Vitória",
-      "desc": "Quando um inimigo é infligido com Quebra de Fraquza, Himeko ganha 1 ponto de Carga (máximo de {2} pontos).\\nSe Himeko estiver com carga total quando um aliado atacar, ela imediatamente realiza 1 <u>Ataque Extra</u>, causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ dela como Dano de Fogo a todos os inimigos, consumindo todos os pontos de Carga.\\nNo início da batalha, Himeko ganha 1 ponto de Carga.",
+      "desc": "Quando um inimigo é infligido com Quebra de Fraqueza, Himeko ganha 1 ponto de Carga (máximo de {2} pontos).\\nSe Himeko estiver com carga total quando um aliado atacar, ela imediatamente realiza 1 <u>Ataque Extra</u>, causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ dela como Dano de Fogo a todos os inimigos, consumindo todos os pontos de Carga.\\nNo início da batalha, Himeko ganha 1 ponto de Carga.",
       "values": [
         [
           70,
@@ -687,6 +687,275 @@
       ]
     }
   },
+  "silver-wolf": {
+    "attack": {
+      "name": "Aviso do Sistema",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Loba Prateada a um inimigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Permitir Mudanças?",
+      "desc": "Tem <span style=\"color: #f29e38ff\">{2}</span> de <u>chance-base</u> de adicionar 1 Fraqueza do Tipo de um aliado em campo ao inimigo-alvo. Isso também reduz a RES a Dano do inimigo a este Tipo de Fraqueza em {4} por {3} rodada(s). Se o inimigo já possui Fraqueza a este Tipo, o efeito de redução da RES a Dano a este Tipo de Fraqueza não será ativado.\\nCada inimigo pode ter apenas 1 Fraqueza implantada pela Loba Prateada. Quando a Loba Prateada implanta outra Fraqueza ao alvo, apenas a última Fraqueza implantada será mantida. Adicionalmente, existe {5} de <u>chance-base</u> de reduzir mais ainda a RES a Todos os Tipos do inimigo em <span style=\"color: #f29e38ff\">{6}</span> por {7} rodada(s).\\nCausa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ da Loba Prateada a um único inimigo-alvo.",
+      "values": [
+        [
+          98,
+          108,
+          118,
+          127,
+          137,
+          147,
+          159,
+          172,
+          184,
+          196,
+          206,
+          216,
+          225,
+          235,
+          245
+        ],
+        [
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90
+        ],
+        [
+          2
+        ],
+        [
+          20
+        ],
+        [
+          100
+        ],
+        [
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7,
+          9.1,
+          9.4,
+          9.7,
+          10,
+          10.3,
+          10.5,
+          10.7,
+          11,
+          11.3
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Usuário Banido",
+      "desc": "Tem uma <u>chance base</u> de <span style=\"color: #f29e38ff\">{2}</span> de diminuir a DEF do inimigo-alvo em <span style=\"color: #f29e38ff\">{3}</span> por {4} rodada(s). E, ao mesmo tempo, causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Loba Prateada ao inimigo-alvo.",
+      "values": [
+        [
+          228,
+          243,
+          258,
+          274,
+          289,
+          304,
+          323,
+          342,
+          361,
+          380,
+          395,
+          410,
+          426,
+          441,
+          456
+        ],
+        [
+          85,
+          87,
+          88,
+          90,
+          91,
+          93,
+          94,
+          96,
+          98,
+          100,
+          101,
+          103,
+          104,
+          106,
+          107
+        ],
+        [
+          36,
+          36.9,
+          37.8,
+          38.7,
+          39.6,
+          40.5,
+          41.6,
+          42.8,
+          43.9,
+          45,
+          45.9,
+          46.8,
+          47.7,
+          48.6,
+          49.5
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Esperando Resposta do Sistema...",
+      "desc": "Loba Prateada pode criar três tipos de Erros: reduzir em <span style=\"color: #f29e38ff\">{1}</span> o ATQ, reduzir em <span style=\"color: #f29e38ff\">{2}</span> a DEF e reduzir em <span style=\"color: #f29e38ff\">{3}</span> a VEL.\\nSempre que a Loba Prateada ataca, tem uma <u>chance-base</u> de <span style=\"color: #f29e38ff\">{4}</span> de implantar um Erro aleatório que dura {5} rodada(s) no inimigo-alvo.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          4,
+          4.4,
+          4.8,
+          5.2,
+          5.6,
+          6,
+          6.5,
+          7,
+          7.5,
+          8,
+          8.4,
+          8.8,
+          9.2,
+          9.6,
+          10
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          60,
+          61,
+          62,
+          64,
+          65,
+          66,
+          68,
+          69,
+          71,
+          72,
+          73,
+          74,
+          76,
+          77,
+          78
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1006_Normal.png"
+    },
+    "technique": {
+      "name": "Fechar o Programa",
+      "desc": "Ataca o inimigo imediatamente. Após entrar na batalha, causa Dano Quântico igual a {1} do ATQ da Loba Prateada a todos os inimigos, ignora os Tipos de Fraqueza e reduz a Tenacidade de todos os inimigos. Inimigos com suas Fraquezas Quebradas desta forma ativarão o efeito de Quebra de Fraqueza contra Dano Quântico.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "arlan": {
     "attack": {
       "name": "Descarga de Raio",
@@ -810,7 +1079,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1008_Normal.png"
@@ -941,7 +1210,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1009_Normal.png"
@@ -1072,7 +1341,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1013_Normal.png"
@@ -1247,7 +1516,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1101_Normal.png"
@@ -1382,7 +1651,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1102_Normal.png"
@@ -1549,7 +1818,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1103_Normal.png"
@@ -1728,7 +1997,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1104_Normal.png"
@@ -1935,7 +2204,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1105_Normal.png"
@@ -1968,7 +2237,7 @@
   "pela": {
     "attack": {
       "name": "Tiro Gélido",
-      "desc": "Causa Dano de Gelo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Pela a um único inimigo.",
+      "desc": "Causa Dano de Gelo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Pela a um único inimigo-alvo.",
       "values": [
         [
           50,
@@ -1988,7 +2257,7 @@
     },
     "skill": {
       "name": "Geladura",
-      "desc": "Remove {2} <u>melhoria(s)</u> e causa Dano de Gelo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Pela a um único inimigo.",
+      "desc": "Remove {2} <u>melhoria(s)</u> e causa Dano de Gelo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Pela a um único inimigo-alvo.",
       "values": [
         [
           105,
@@ -2070,7 +2339,7 @@
     },
     "talent": {
       "name": "Coleta de Dados",
-      "desc": "Se o inimigo estiver sofrendo uma <u>penalidade</u> depois do ataque de Pela, ela recuperará <span style=\"color: #f29e38ff\">{1}</span> de Energia extra. Esse efeito só pode ser acionado uma vez por ataque.",
+      "desc": "Se o inimigo estiver sofrendo uma <u>penalidade</u> depois do ataque de Pela, ela recuperará <span style=\"color: #f29e38ff\">{1}</span> de Energia adicional. Esse efeito só pode ser acionado uma vez por ataque.",
       "values": [
         [
           5,
@@ -2096,14 +2365,14 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1106_Normal.png"
     },
     "technique": {
       "name": "Ataque Premeditado",
-      "desc": "Ataca o inimigo imediatamente. Ao entrar na batalha, Pela causa Dano de Gelo igual a  {4} do seu ATQ a um inimigo aleatório, com {1} de <u>chance-base</u> de reduzir a DEF de todos os inimigos em {2} por {3} rodada(s).",
+      "desc": "Ataca o inimigo imediatamente. Ao entrar na batalha, Pela causa Dano de Gelo igual a {4} do seu ATQ a um inimigo aleatório, com {1} de <u>chance-base</u> de reduzir a DEF de todos os inimigos em {2} por {3} rodada(s).",
       "values": [
         [
           100
@@ -2283,7 +2552,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1107_Normal.png"
@@ -2448,7 +2717,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1108_Normal.png"
@@ -2605,7 +2874,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1109_Normal.png"
@@ -2814,7 +3083,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1201_Normal.png"
@@ -3013,7 +3282,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1202_Normal.png"
@@ -3114,7 +3383,7 @@
     },
     "talent": {
       "name": "Prana Extirpado",
-      "desc": "Invoca o Senhor dos Raios no início da batalha. O Senhor dos Raios tem {1} de VEL base e {4} Golpes por Ação base. Quando o Senhor dos Raios age, seus ataques são considerados <u>Ataques Extras</u>, com cada acerto do Senhor dos Raios causando Dano de Raio igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Jing Yuan em um único inimigo, e inimigos adjacentes a ele também recebem Dano de Raio igual a {5} do Dano causado no inimigo-alvo.\\nOs Golpes por Ação do Senhor dos Raios podem atingir o máximo de {6}. Toda vez que os Golpes por Ação do Senhor dos Raios aumentam em 1, sua VEL aumenta em {3}. Ao fim da ação do Senhor dos Raios, a sua VEL e Golpes por Ação voltam aos valores base. \\nQuando Jing Yuan é <u>derrubado</u>, o Senhor dos Raios desaparecerá.\\nQuando Jing Yuan é afetado por penalidades de <u>Controle Negativo</u>, o Senhor dos Raios será incapaz de agir.",
+      "desc": "Invoca o Senhor dos Raios no início da batalha. O Senhor dos Raios tem {1} de VEL base e {4} Golpes por Ação base. Quando o Senhor dos Raios age, seus golpes são considerados <u>Ataques Extras</u>, com cada golpe do Senhor dos Raios causando Dano de Raio igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Jing Yuan em um único inimigo aleatório, e inimigos adjacentes a ele também recebem Dano de Raio igual a {5} do Dano causado no inimigo-alvo.\\nOs Golpes por Ação do Senhor dos Raios podem atingir o máximo de {6}. Toda vez que os Golpes por Ação do Senhor dos Raios aumentam em 1, sua VEL aumenta em {3}. Ao fim da ação do Senhor dos Raios, a sua VEL e Golpes por Ação voltam aos valores base. \\nQuando Jing Yuan é <u>derrubado</u>, o Senhor dos Raios desaparecerá.\\nQuando Jing Yuan é afetado por penalidades de <u>Controle Negativo</u>, o Senhor dos Raios será incapaz de agir.",
       "values": [
         [
           60
@@ -3160,14 +3429,14 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1204_Normal.png"
     },
     "technique": {
       "name": "Invocação de Espírito",
-      "desc": "Após usar sua Técnica, no início da próxima batalha, os Golpes por Ação do Senhor dos Raios aumentam em {1} na primeira rodada.",
+      "desc": "Depois a Técnica ser utilizada, os Golpes por Ataque do Senhor dos Raios na primeira rodada aumenta em {1} no início da próxima batalha.",
       "values": [
         [
           3
@@ -3249,7 +3518,7 @@
     },
     "ultimate": {
       "name": "Forma de Taixu: Anúncio do Amanhecer",
-      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Sushang a um único inimigo e imediatamente Avança Adiante a ação dela em 100%. Além disso, o ATQ de Sushang aumenta em <span style=\"color: #f29e38ff\">{4}</span> e usar sua Perícia concede 2 chances extras de ativar a Postura da Espada por {2} rodada(s).\\nQuando ativada graças às chances extras, a Postura da Espada causa {3} do Dano original.",
+      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Sushang a um único inimigo-alvo e ela age de novo imediatamente. Além disso, o ATQ de Sushang aumenta em <span style=\"color: #f29e38ff\">{4}</span> e usar sua Perícia concede 2 chances extras de ativar a Postura da Espada por {2} rodada(s).\\nQuando ativada graças às chances extras, a Postura da Espada causa {3} do Dano original.",
       "values": [
         [
           192,
@@ -3331,7 +3600,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1206_Normal.png"
@@ -3346,6 +3615,181 @@
       ],
       "format": [
         "[i]%"
+      ]
+    }
+  },
+  "yukong": {
+    "attack": {
+      "name": "Atiradora de Flechas",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Yukong como Dano Imaginário a um inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Saudação Encorajadora",
+      "desc": "Obtém {1} acúmulo(s) de \"Arco Estrondoso\" (até um máximo de 2 acúmulos). Quando \"Arco Estrondoso\" está ativo, o ATQ de todos os aliados aumenta em <span style=\"color: #f29e38ff\">{2}</span>, e sempre que a rodada de um aliado acaba, Yukong perde 1 acúmulo de \"Arco Estrondoso\".\\nNa rodada na qual Yukong ganha \"Arco Estrondoso\" usando a Perícia, \"Arco Estrondoso\" não será removido.",
+      "values": [
+        [
+          2
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Mergulho do Falcão",
+      "desc": "Ao usar sua Perícia Suprema, se o \"Arco Estrondoso\" estiver ativo em Yukong, a Chance de CRIT de todos os aliados aumenta adicionalmente em <span style=\"color: #f29e38ff\">{2}</span> e o Dano CRIT aumenta em <span style=\"color: #f29e38ff\">{3}</span>. Ao mesmo tempo, causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Yukong a um único inimigo.",
+      "values": [
+        [
+          228,
+          243,
+          258,
+          274,
+          289,
+          304,
+          323,
+          342,
+          361,
+          380,
+          395,
+          410,
+          426,
+          441,
+          456
+        ],
+        [
+          21,
+          22,
+          22,
+          23,
+          24,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          29,
+          30,
+          31,
+          31
+        ],
+        [
+          39,
+          42,
+          44,
+          47,
+          49,
+          52,
+          55,
+          59,
+          62,
+          65,
+          68,
+          70,
+          73,
+          75,
+          78
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Sete Camadas, Uma Flecha",
+      "desc": "O ATQ Básico causa adicionalmente o Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Yukong, e aumenta o Dano de Redução de Tenacidade deste ataque em {2}. Este efeito pode ser ativado novamente após {3} rodada(s).",
+      "values": [
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ],
+        [
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Após atacar um inimigo e entrar na batalha, a Tenacidade do Tipo do inimigo sofrerá Enfraquecimento.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1207_Normal.png"
+    },
+    "technique": {
+      "name": "Seguindo o Vento",
+      "desc": "Após usar essa Técnica, entra no modo Corrida por {1} segundos. Enquanto estiver correndo, a VEL de Movimento aumenta em {2}, e Yukong recebe {3} acúmulo(s) de \"Arco Estrondoso\" ao entrar em batalha atacando inimigos.",
+      "values": [
+        [
+          20
+        ],
+        [
+          35
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
       ]
     }
   },
@@ -3548,7 +3992,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1209_Normal.png"
@@ -3781,7 +4225,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1211_Normal.png"
@@ -3952,7 +4396,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_8003_Normal.png"

@@ -27,6 +27,13 @@
     "element": "imaginary",
     "rarity": 5
   },
+  "silver-wolf": {
+    "id": "silver-wolf",
+    "name": "Loba Prateada",
+    "path": "nihility",
+    "element": "quantum",
+    "rarity": 5
+  },
   "arlan": {
     "id": "arlan",
     "name": "Arlan",

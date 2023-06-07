@@ -335,6 +335,12 @@
     "path": "erudition",
     "rarity": 4
   },
+  "before-the-tutorial-mission-starts": {
+    "id": "before-the-tutorial-mission-starts",
+    "name": "Avant que le tutoriel ne commence",
+    "path": "nihility",
+    "rarity": 4
+  },
   "night-on-the-milky-way": {
     "id": "night-on-the-milky-way",
     "name": "Nuit sur la voie lactée",
@@ -369,6 +375,18 @@
     "id": "moment-of-victory",
     "name": "Moment de victoire",
     "path": "preservation",
+    "rarity": 5
+  },
+  "incessant-rain": {
+    "id": "incessant-rain",
+    "name": "Pluie incessante",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "echoes-of-the-coffin": {
+    "id": "echoes-of-the-coffin",
+    "name": "Échos du cercueil",
+    "path": "abundance",
     "rarity": 5
   },
   "before-dawn": {

@@ -54,7 +54,8 @@ export const banners: Banners = {
 			pos: '60% 0%',
 			zoom: 1.1,
 			featured5: ['seele'],
-			featured4: ['hook', 'pela', 'natasha']
+			featured4: ['hook', 'pela', 'natasha'],
+			timezoneDependent: true
 		},
 		{
 			code: 2004,
@@ -69,6 +70,21 @@ export const banners: Banners = {
 			zoom: 1.1,
 			featured5: ['jing-yuan'],
 			featured4: ['tingyun', 'sushang', 'march-7th']
+		},
+		{
+			code: 2005,
+			type: 'character',
+			name: 'Contract Zero',
+			start: '2023-06-07 06:00:00',
+			end: '2023-06-28 11:59:00',
+			color: '#8dd1f5',
+			version: '1.1',
+			image: 'Contract Zero 2005.png',
+			pos: '83% 0%',
+			zoom: 1.1,
+			featured5: ['silver-wolf'],
+			featured4: ['dan-heng', 'asta', 'serval'],
+			timezoneDependent: true
 		}
 	],
 	lightcone: [
@@ -84,7 +100,8 @@ export const banners: Banners = {
 			pos: '70% 8%',
 			zoom: 1.2,
 			featured5: ['in-the-night'],
-			featured4: ['the-moles-welcome-you', 'good-night-and-sleep-well', 'post-op-conversation']
+			featured4: ['the-moles-welcome-you', 'good-night-and-sleep-well', 'post-op-conversation'],
+			timezoneDependent: true
 		},
 		{
 			code: 3004,
@@ -99,6 +116,21 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['before-dawn'],
 			featured4: ['planetary-rendezvous', 'only-silence-remains', 'day-one-of-my-new-life']
+		},
+		{
+			code: 3005,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-06-07 06:00:00',
+			end: '2023-06-28 11:59:00',
+			color: '#c2aefd',
+			version: '1.1',
+			image: 'Brilliant Fixation 3005.png',
+			pos: '70% 8%',
+			zoom: 1.2,
+			featured5: ['incessant-rain'],
+			featured4: ['subscribe-for-more', 'memories-of-the-past', 'make-the-world-clamor'],
+			timezoneDependent: true
 		}
 	],
 	standard: [

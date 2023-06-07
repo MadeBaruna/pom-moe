@@ -335,6 +335,12 @@
     "path": "erudition",
     "rarity": 4
   },
+  "before-the-tutorial-mission-starts": {
+    "id": "before-the-tutorial-mission-starts",
+    "name": "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ",
+    "path": "nihility",
+    "rarity": 4
+  },
   "night-on-the-milky-way": {
     "id": "night-on-the-milky-way",
     "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà",
@@ -369,6 +375,18 @@
     "id": "moment-of-victory",
     "name": "Giây Phút Thắng Lợi",
     "path": "preservation",
+    "rarity": 5
+  },
+  "incessant-rain": {
+    "id": "incessant-rain",
+    "name": "Cơn Mưa Tầm Tã",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "echoes-of-the-coffin": {
+    "id": "echoes-of-the-coffin",
+    "name": "Tiếng Vọng Của Quan Tài",
+    "path": "abundance",
     "rarity": 5
   },
   "before-dawn": {

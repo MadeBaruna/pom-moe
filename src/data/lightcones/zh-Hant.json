@@ -335,6 +335,12 @@
     "path": "erudition",
     "rarity": 4
   },
+  "before-the-tutorial-mission-starts": {
+    "id": "before-the-tutorial-mission-starts",
+    "name": "新手任務開始前",
+    "path": "nihility",
+    "rarity": 4
+  },
   "night-on-the-milky-way": {
     "id": "night-on-the-milky-way",
     "name": "銀河鐵道之夜",
@@ -369,6 +375,18 @@
     "id": "moment-of-victory",
     "name": "制勝的瞬間",
     "path": "preservation",
+    "rarity": 5
+  },
+  "incessant-rain": {
+    "id": "incessant-rain",
+    "name": "雨一直下",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "echoes-of-the-coffin": {
+    "id": "echoes-of-the-coffin",
+    "name": "棺的迴響",
+    "path": "abundance",
     "rarity": 5
   },
   "before-dawn": {

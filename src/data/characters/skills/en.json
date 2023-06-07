@@ -687,6 +687,275 @@
       ]
     }
   },
+  "silver-wolf": {
+    "attack": {
+      "name": "System Warning",
+      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Silver Wolf's ATK to a single enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Allow Changes?",
+      "desc": "There is a <span style=\"color: #f29e38ff\">{2}</span> <u>base chance</u> to add 1 Weakness of an on-field ally's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by {4} for {3} turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.\\nEach enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.\\nIn addition, there is a {5} <u>base chance</u> to reduce the All-Type RES of the enemy further by <span style=\"color: #f29e38ff\">{6}</span> for {7} turn(s).\\nDeals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Silver Wolf's ATK to this enemy.",
+      "values": [
+        [
+          98,
+          108,
+          118,
+          127,
+          137,
+          147,
+          159,
+          172,
+          184,
+          196,
+          206,
+          216,
+          225,
+          235,
+          245
+        ],
+        [
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90
+        ],
+        [
+          2
+        ],
+        [
+          20
+        ],
+        [
+          100
+        ],
+        [
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7,
+          9.1,
+          9.4,
+          9.7,
+          10,
+          10.3,
+          10.5,
+          10.7,
+          11,
+          11.3
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "User Banned",
+      "desc": "There's a <span style=\"color: #f29e38ff\">{2}</span> <u>base chance</u> to decrease the target enemy's DEF by <span style=\"color: #f29e38ff\">{3}</span> for {4} turn(s). And at the same time, deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Silver Wolf's ATK to the target enemy.",
+      "values": [
+        [
+          228,
+          243,
+          258,
+          274,
+          289,
+          304,
+          323,
+          342,
+          361,
+          380,
+          395,
+          410,
+          426,
+          441,
+          456
+        ],
+        [
+          85,
+          87,
+          88,
+          90,
+          91,
+          93,
+          94,
+          96,
+          98,
+          100,
+          101,
+          103,
+          104,
+          106,
+          107
+        ],
+        [
+          36,
+          36.9,
+          37.8,
+          38.7,
+          39.6,
+          40.5,
+          41.6,
+          42.8,
+          43.9,
+          45,
+          45.9,
+          46.8,
+          47.7,
+          48.6,
+          49.5
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Awaiting System Response...",
+      "desc": "Silver Wolf can create three types of Bugs: reduce ATK by <span style=\"color: #f29e38ff\">{1}</span>, reduce DEF by <span style=\"color: #f29e38ff\">{2}</span>, and reduce SPD by <span style=\"color: #f29e38ff\">{3}</span>.\\nEvery time Silver Wolf attacks, she has a <span style=\"color: #f29e38ff\">{4}</span> <u>base chance</u> to implant a random Bug that lasts for {5} turn(s) in the enemy target.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          4,
+          4.4,
+          4.8,
+          5.2,
+          5.6,
+          6,
+          6.5,
+          7,
+          7.5,
+          8,
+          8.4,
+          8.8,
+          9.2,
+          9.6,
+          10
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          60,
+          61,
+          62,
+          64,
+          65,
+          66,
+          68,
+          69,
+          71,
+          72,
+          73,
+          74,
+          76,
+          77,
+          78
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1006_Normal.png"
+    },
+    "technique": {
+      "name": "Force Quit Program",
+      "desc": "Immediately attacks the enemy. After entering battle, deals Quantum DMG equal to {1} of Silver Wolf's ATK to all enemies, and ignores Weakness Types and reduces Toughness from all enemies. Enemies with their Weakness Broken in this way will trigger the Quantum Weakness Break effect.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "arlan": {
     "attack": {
       "name": "Lightning Rush",
@@ -2070,7 +2339,7 @@
     },
     "talent": {
       "name": "Data Collecting",
-      "desc": "If the enemy is <u>debuffed</u> after Pela's attack, Pela will restore <span style=\"color: #f29e38ff\">{1}</span> extra Energy. This effect can only be triggered 1 time per attack.",
+      "desc": "If the enemy is <u>debuffed</u> after Pela's attack, Pela will restore <span style=\"color: #f29e38ff\">{1}</span> additional Energy. This effect can only be triggered 1 time per attack.",
       "values": [
         [
           5,
@@ -2762,7 +3031,7 @@
     },
     "ultimate": {
       "name": "A Quartet? Woo-hoo!",
-      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Qingque's ATK to all enemies, and obtain 4 jade tiles of the same suit.",
+      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Qingque's ATK to all enemies, and obtains 4 jade tiles of the same suit.",
       "values": [
         [
           120,
@@ -3114,7 +3383,7 @@
     },
     "talent": {
       "name": "Prana Extirpated",
-      "desc": "Summons Lightning-Lord at the start of the battle. Lightning-Lord has {1} base SPD and {4} base Hits Per Action. When the Lightning-Lord takes action, its hits are considered as <u>follow-up attacks</u>, with each hit dealing Lightning DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Jing Yuan's ATK to a single enemy, and enemies adjacent to it also receive Lightning DMG equal to {5} of the DMG dealt to the target enemy.\\nThe Lightning-Lord's Hits Per Action can reach a max of {6}. Every time Lightning-Lord's Hits Per Action increases by 1, its SPD increases by {3}. After the Lightning-Lord's action ends, its SPD and Hits Per Action return to their base values.\\nWhen Jing Yuan is <u>knocked down</u>, the Lightning-Lord will disappear.\\nWhen Jing Yuan is affected by <u>Crowd Control debuff</u>, the Lightning-Lord is unable to take action.",
+      "desc": "Summons Lightning-Lord at the start of the battle. Lightning-Lord has {1} base SPD and {4} base Hits Per Action. When the Lightning-Lord takes action, its hits are considered as <u>follow-up attacks</u>, with each hit dealing Lightning DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Jing Yuan's ATK to a random single enemy, and enemies adjacent to it also receive Lightning DMG equal to {5} of the DMG dealt to the target enemy.\\nThe Lightning-Lord's Hits Per Action can reach a max of {6}. Every time Lightning-Lord's Hits Per Action increases by 1, its SPD increases by {3}. After the Lightning-Lord's action ends, its SPD and Hits Per Action return to their base values.\\nWhen Jing Yuan is <u>knocked down</u>, the Lightning-Lord will disappear.\\nWhen Jing Yuan is affected by <u>Crowd Control debuff</u>, the Lightning-Lord is unable to take action.",
       "values": [
         [
           60
@@ -3160,14 +3429,14 @@
     },
     "mazeattack": {
       "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
       "values": [],
       "format": [],
       "icon": "SkillIcon_1204_Normal.png"
     },
     "technique": {
       "name": "Spirit Invocation",
-      "desc": "After using Technique, at the start of the next battle, the Lightning-Lord's Hits Per Action in the first turn increases by {1}.",
+      "desc": "After the Technique is used, the Lightning-Lord's Hits Per Action in the first turn increases by {1} at the start of the next battle.",
       "values": [
         [
           3
@@ -3249,7 +3518,7 @@
     },
     "ultimate": {
       "name": "Shape of Taixu: Dawn Herald",
-      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Sushang's ATK to a single enemy and immediately Advances her action forward by 100%. In addition, Sushang's ATK increases by <span style=\"color: #f29e38ff\">{4}</span> and using her Skill has 2 extra chances to trigger Sword Stance for {2} turn(s).\\nSword Stance triggered from the extra chances deals {3} of the original DMG.",
+      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Sushang's ATK to a single enemy target, and she immediately takes action again. In addition, Sushang's ATK increases by <span style=\"color: #f29e38ff\">{4}</span> and using her Skill has 2 extra chances to trigger Sword Stance for {2} turn(s).\\nSword Stance triggered from the extra chances deals {3} of the original DMG.",
       "values": [
         [
           192,
@@ -3346,6 +3615,181 @@
       ],
       "format": [
         "[i]%"
+      ]
+    }
+  },
+  "yukong": {
+    "attack": {
+      "name": "Arrowslinger",
+      "desc": "Deals <span style=\"color: #f29e38ff\">{1}</span> of Yukong's ATK as Imaginary DMG to a target enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Emboldening Salvo",
+      "desc": "Obtains {1} stack(s) of \"Roaring Bowstrings\" (to a maximum of 2 stacks). When \"Roaring Bowstrings\" is active, the ATK of all allies increases by <span style=\"color: #f29e38ff\">{2}</span>, and every time an ally's turn ends, Yukong loses 1 stack of \"Roaring Bowstrings.\"\\nWhen it's the turn where Yukong gains \"Roaring Bowstrings\" by using Skill, \"Roaring Bowstrings\" will not be removed.",
+      "values": [
+        [
+          2
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Diving Kestrel",
+      "desc": "If \"Roaring Bowstrings\" is active on Yukong when her Ultimate is used, additionally increases all allies' CRIT Rate by <span style=\"color: #f29e38ff\">{2}</span> and CRIT DMG by <span style=\"color: #f29e38ff\">{3}</span>. At the same time, deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Yukong's ATK to a single enemy.",
+      "values": [
+        [
+          228,
+          243,
+          258,
+          274,
+          289,
+          304,
+          323,
+          342,
+          361,
+          380,
+          395,
+          410,
+          426,
+          441,
+          456
+        ],
+        [
+          21,
+          22,
+          22,
+          23,
+          24,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          29,
+          30,
+          31,
+          31
+        ],
+        [
+          39,
+          42,
+          44,
+          47,
+          49,
+          52,
+          55,
+          59,
+          62,
+          65,
+          68,
+          70,
+          73,
+          75,
+          78
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Seven Layers, One Arrow",
+      "desc": "Basic ATK additionally deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Yukong's ATK, and increases the Toughness-Reducing DMG of this attack by {2}. This effect can be triggered again in {3} turn(s).",
+      "values": [
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ],
+        [
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "After attacking an enemy and entering battle, the enemy's corresponding Type Toughness will be Weakened.",
+      "values": [],
+      "format": [],
+      "icon": "SkillIcon_1207_Normal.png"
+    },
+    "technique": {
+      "name": "Chasing the Wind",
+      "desc": "After using her Technique, Yukong enters Sprint mode for {1} seconds. In Sprint mode, her Movement SPD increases by {2}, and Yukong gains {3} stack(s) of \"Roaring Bowstrings\" when she enters battle by attacking enemies.",
+      "values": [
+        [
+          20
+        ],
+        [
+          35
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
       ]
     }
   },
@@ -3788,7 +4232,7 @@
     },
     "technique": {
       "name": "Saunter in the Rain",
-      "desc": "After using Technique, at the start of the next battle, all allies are granted Invigoration for {1} turn(s).",
+      "desc": "After Technique is used, at the start of the next battle, all allies are granted Invigoration for {1} turn(s).",
       "values": [
         [
           2
