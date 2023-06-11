@@ -157,7 +157,7 @@
       {
         "id": 4022302,
         "name": "Megareicher Lichtbändiger",
-        "desc": "Erhalte insgesamt 99999998 Credits.",
+        "desc": "Erhalte insgesamt 100000000 Credits.",
         "rarity": 2,
         "version": "1.0"
       },
@@ -230,6 +230,20 @@
         "desc": "Erhalte insgesamt 10000000 Credits.",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4022401,
+        "name": "Feurige Konversation",
+        "desc": "Beantworte 10 beiläufige Textnachrichten von anderen Figuren.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4022402,
+        "name": "Schiff der Freundschaft",
+        "desc": "Beantworte 60 beiläufige Textnachrichten von anderen Figuren.",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -474,7 +488,7 @@
       },
       {
         "id": 4040504,
-        "name": "Was, Raids ohne Erfolge?",
+        "name": "Was, Instanzen ohne Erfolge?",
         "desc": "Schließe Kriegerische Exkursion 9-mal ab.",
         "rarity": 1,
         "version": "1.0"
@@ -562,6 +576,13 @@
         "desc": "Schließe den Formationsbrechenden Kompass 20-mal ab.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042401,
+        "name": "In die Falle gegangen",
+        "desc": "Fange 1-mal verirrtes Sparschwein im Kampf.",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -571,7 +592,7 @@
       {
         "id": 4051001,
         "name": "Wer bin ich?",
-        "desc": "Schließe die Begleitermission Du_kennst_mich_schon ab.",
+        "desc": "Schließe die Begleitermission „Du_kennst_mich_schon“ ab.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -609,6 +630,48 @@
         "desc": "Schließe die Begleitermission „Nur ein Kind“ ab.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052407,
+        "name": "Ein perfekter Detektiv",
+        "desc": "Schließe die Begleitermission „Ein fremder Ritter“ ab.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052408,
+        "name": "Meister der Schwerter",
+        "desc": "Schließe die Begleitermission „Prüfung der Frostklinge“ ab.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052409,
+        "name": "Mach’s gut, Punklorde!",
+        "desc": "Schließe die Begleitermission „Mental Punklorde“ ab.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052401,
+        "name": "Wo kann ein Wanderer rasten?",
+        "desc": "Verrate Liangmu, wer sich hinter dem von Mara befallenen Monster in der Mission „Wie der Morgentau“ verbirgt.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052402,
+        "name": "Alte Verbindungen, alte Erinnerungen",
+        "desc": "Verschweige Liangmu, wer sich hinter dem von Mara befallenen Monster in der Mission „Wie der Morgentau“ verbirgt.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052403,
+        "name": "Sargtänzer",
+        "desc": "Werde Zeuge von Luochas versteckter Seite.\\n<color=#8790abff>※ Sieh dir die wiederhergestellte Aufzeichnung an und höre dir Luochas Monolog an.</color>",
+        "rarity": 1,
+        "version": "1.1"
       },
       {
         "id": 4051103,
@@ -738,21 +801,21 @@
       },
       {
         "id": 4080603,
-        "name": "<unbreak>50</unbreak> Credits?!",
-        "desc": "Sammle alle Steckbriefe der Express-Crew in Belobog ein.",
+        "name": "<unbreak>50</unbreak> Credits?!",
+        "desc": "Sammle alle Steckbriefe der Express-Besatzung in Belobog ein.",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4052310,
-        "name": "Glänzend und glatt",
+        "name": "Glatt und glänzend",
         "desc": "Erhalte 3 uralte Münzen.",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080604,
-        "name": "Gehe nach ... Nordwesten",
+        "name": "Gehe nach ... Nordwesten",
         "desc": "Ich habe in einer Planarsphäre auf Jarilo-VI ... ähm ... Pom-Pom entdeckt?",
         "rarity": 1,
         "version": "1.0"
@@ -856,6 +919,27 @@
         "version": "1.0"
       },
       {
+        "id": 4052404,
+        "name": "Heute freier Eintritt",
+        "desc": "Eröffne die Hauptausstellung des Belobog-Museums für Geschichte und Kultur.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052405,
+        "name": "Fang mich, wenn du kannst",
+        "desc": "Eröffne drei Ausstellungsbereiche im Museum für Geschichte und Kultur Belobog.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052406,
+        "name": "Du gehörst ins Museum!",
+        "desc": "Sammle alle Ausstellungsstücke für das Museum für Geschichte und Kultur Belobog.",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
         "id": 4052323,
         "name": "Ein einfaches Leben",
         "desc": "Erhalte nach dem Abschluss der Mission „Gefeuert“ eine Nachricht von Luhui.",
@@ -864,7 +948,7 @@
       },
       {
         "id": 4052324,
-        "name": "Bringe meine ganze Kraft auf, bin pessimistisch und gebe dann auf",
+        "name": "Trotz ganzer Kraft lässt der Mut nach",
         "desc": "Erhalte nach dem Abschluss der Mission „Ein Lehrer und ein Freund“ alle Texte über Chengjies schwindende Leidenschaft.",
         "rarity": 1,
         "version": "1.0"
@@ -956,7 +1040,7 @@
       {
         "id": 4052337,
         "name": "Arbeit ohne Ende",
-        "desc": "Untersuche 7-mal Aktenschränke beim Thron der göttlichen Vorsehung.",
+        "desc": "Untersuche 3 verschiedene Aktenschränke beim Thron der göttlichen Vorsehung.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1051,14 +1135,14 @@
       },
       {
         "id": 4060102,
-        "name": "Schatten sterben unendlich oft (IV)",
+        "name": "Schatten sterben unendlich oft (II)",
         "desc": "Besiege Ruhenden Schatten 400-Mal.",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4060103,
-        "name": "Schatten sterben unendlich oft (VIII)",
+        "name": "Schatten sterben unendlich oft (III)",
         "desc": "Besiege Ruhenden Schatten 800-mal.",
         "rarity": 2,
         "version": "1.0"
@@ -1434,7 +1518,7 @@
       },
       {
         "id": 4071002,
-        "name": "Diejenigen, die bald sterben werden, grüßen dich",
+        "name": "Die Todgeweihten grüßen dich",
         "desc": "Besiege einen Feind, wenn eine beliebige Figur weniger als 1 % der LP übrig hat.",
         "rarity": 1,
         "version": "1.0"
@@ -1497,7 +1581,7 @@
       },
       {
         "id": 4071013,
-        "name": "Immer vorbereitet sein",
+        "name": "Allzeit bereit",
         "desc": "Lass eine Figur zu Beginn einer Runde 5 oder mehr Buffs haben.",
         "rarity": 1,
         "version": "1.0"
@@ -1595,7 +1679,7 @@
       },
       {
         "id": 4071607,
-        "name": "Dummer kleiner Bruder ...",
+        "name": "Dummer kleiner Bruder ...",
         "desc": "Lass Serval dem Boss Gepard den finalen Treffer verpassen.",
         "rarity": 2,
         "version": "1.0"
@@ -1616,7 +1700,7 @@
       },
       {
         "id": 4071610,
-        "name": "Hör zu ...",
+        "name": "Hör zu ...",
         "desc": "Setze den Trailblazer im Kampf gegen den Boss Kafka ein und verursache bei dem Dominieren.",
         "rarity": 1,
         "version": "1.0"
@@ -1774,6 +1858,20 @@
         "desc": "Hebe in einem einzigen Kampf gegen den Boss Kafka 3-mal Dominiert auf.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4072401,
+        "name": "Dieser zerbrechliche Leib",
+        "desc": "Füge mit Silberwolf einem einzelnen Gegner in einem einzelnen Kampf 3 Schwäche(n) verschiedener Typen zu.",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
+        "id": 4072402,
+        "name": "Wieso jagen Jäger Jäger?",
+        "desc": "Füge der feindlichen Kafka mit Silberwolf in einem einzelnen Kampf 2 Schwäche(n) zu.",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -2017,6 +2115,20 @@
         "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Physisch.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4082401,
+        "name": "Das Leben in all seinen Formen",
+        "desc": "Löse mit Luochas Heilung 10 verschiedene Sprüche zur LP-Wiederherstellung aus.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4082402,
+        "name": "Sternensaga des Schwertes",
+        "desc": "Gewinne 1 Kampf/Kämpfe mit einem Team, das Luocha, Sushang und Yanqing enthält.",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },

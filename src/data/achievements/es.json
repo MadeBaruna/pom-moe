@@ -157,7 +157,7 @@
       {
         "id": 4022302,
         "name": "Riqueza fuera de serie",
-        "desc": "Obtén 99999998 créditos en total.",
+        "desc": "Obtén 100000000 créditos en total.",
         "rarity": 2,
         "version": "1.0"
       },
@@ -230,6 +230,20 @@
         "desc": "Obtén 10000000 créditos en total.",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4022401,
+        "name": "Buenas palabras",
+        "desc": "Responde a 10 mensajes casuales de otros personajes.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4022402,
+        "name": "Cuando zarpa la amistad",
+        "desc": "Responde a 60 mensajes casuales de otros personajes.",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -468,7 +482,7 @@
       {
         "id": 4040503,
         "name": "Inspección rutinaria",
-        "desc": "Completa Incursión bélica 1 veces.",
+        "desc": "Completa Incursión bélica 1 vez.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -562,6 +576,13 @@
         "desc": "Completa el desafío de la brújula rompeformaciones 20 veces.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042401,
+        "name": "Directo a la trampa",
+        "desc": "Captura un Chanchito perdido 1 vez durante la batalla.",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -609,6 +630,48 @@
         "desc": "Completa la misión de acompañante «Éramos unos niños».",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052407,
+        "name": "Detective sin igual e incomparable",
+        "desc": "Completa la misión de acompañante «Un caballero de otras tierras».",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052408,
+        "name": "La mejor espada",
+        "desc": "Completa la misión de acompañante «Una investigación afilada».",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052409,
+        "name": "¡Adiós, Punklorde!",
+        "desc": "Completa la misión de acompañante «Mentalidad de Punklorde».",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052401,
+        "name": "No tengo a nadie",
+        "desc": "Revela a Liangmu la identidad del monstruo poseído por Mara en la misión «Como el rocío de la mañana».",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052402,
+        "name": "Por los viejos tiempos",
+        "desc": "Oculta a Liangmu la identidad del monstruo poseído por Mara en la misión «Como el rocío de la mañana».",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052403,
+        "name": "El bailarín del ataúd",
+        "desc": "Presencia un lado de Luocha que nadie conoce.\\n<color=#8790abff>※Mira las imágenes restauradas y escucha el monólogo de Luocha.</color>",
+        "rarity": 1,
+        "version": "1.1"
       },
       {
         "id": 4051103,
@@ -856,6 +919,27 @@
         "version": "1.0"
       },
       {
+        "id": 4052404,
+        "name": "Entrada gratuita",
+        "desc": "Abre la Sala General del Museo de Historia y Cultura de Belobog.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052405,
+        "name": "Atrápame si puedes",
+        "desc": "Abre tres zonas de exposición del Museo de Historia y Cultura de Belobog.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052406,
+        "name": "¡Deberías quedarte en el museo!",
+        "desc": "Reúne todos los objetos de exposición del Museo de Historia y Cultura de Belobog.",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
         "id": 4052323,
         "name": "Una vida sencilla",
         "desc": "Recibe un mensaje de Luhui tras completar la misión «Estás despedida».",
@@ -956,7 +1040,7 @@
       {
         "id": 4052337,
         "name": "Un trabajo interminable",
-        "desc": "Examina los armarios de los archivos de la Sede de la Premonición Divina 7 veces.",
+        "desc": "Examina 3 armarios de archivos distintos en la Sede de la Premonición Divina",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1774,6 +1858,20 @@
         "desc": "Disipa la Dominación del jefe Kafka 3 veces en una sola batalla.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4072401,
+        "name": "Este cuerpo tan frágil",
+        "desc": "Usa a Silver Wolf en tu equipo para aplicar 3 tipo distinto de Debilidad al mismo enemigo durante una batalla.",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
+        "id": 4072402,
+        "name": "¿Por qué me haces esto?",
+        "desc": "Usa a Silver Wolf en tu equipo para aplicar 2 Debilidad a Kafka en la batalla contra Kafka.",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -2017,6 +2115,20 @@
         "desc": "Gana #2[i] batalla(s) con un equipo que tenga <unbreak>4</unbreak> personajes de tipo Físico.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4082401,
+        "name": "La vida en todas sus formas",
+        "desc": "Activa 10 frases de regeneración de PV distintas usando la curación de Luocha.",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4082402,
+        "name": "Espadas celestiales",
+        "desc": "Gana 1 batalla con un equipo que incluya a Luocha, Sushang y Yanqing.",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -2194,7 +2306,7 @@
       {
         "id": 4092320,
         "name": "¿Dónde está mi pokeball?",
-        "desc": "Captura al Chanchito 1 veces en el Universo Simulado.",
+        "desc": "Captura al Chanchito 1 vez en el Universo Simulado.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2208,7 +2320,7 @@
       {
         "id": 4092322,
         "name": "¡Que no escape!",
-        "desc": "Deja escapar al Chanchito 1 veces en el Universo Simulado.",
+        "desc": "Deja escapar al Chanchito 1 vez en el Universo Simulado.",
         "rarity": 1,
         "version": "1.0"
       },

@@ -32,7 +32,7 @@
       },
       {
         "id": 4010103,
-        "name": "There's Always Time for Love",
+        "name": "Time Enough for Love",
         "desc": "Possess 4 Light Cones at Lv. 80",
         "rarity": 3,
         "version": "1.0"
@@ -157,7 +157,7 @@
       {
         "id": 4022302,
         "name": "Mega Rich Light-Bending Guy",
-        "desc": "Obtain 99999998 credits in total",
+        "desc": "Obtain 100000000 credits in total",
         "rarity": 2,
         "version": "1.0"
       },
@@ -230,6 +230,20 @@
         "desc": "Obtain 10000000 credits in total",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4022401,
+        "name": "Texting Enjoyer",
+        "desc": "Reply to 10 idle chat texts from other characters",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4022402,
+        "name": "That Friendship Has Sailed",
+        "desc": "Reply to 60 idle chat texts from other characters",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -562,6 +576,13 @@
         "desc": "Complete the Formation-Breaking Compass 20 time(s)",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042401,
+        "name": "Walk Into The Trap",
+        "desc": "Capture Lost Trotters 1 time(s) in battle",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -609,6 +630,48 @@
         "desc": "Complete Companion Mission \"Only A Child\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052407,
+        "name": "A Perfect Detective",
+        "desc": "Complete the Companion Mission \"A Knight Stranger\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052408,
+        "name": "Master Among Swords",
+        "desc": "Complete the Companion Mission \"Frosty Blade's Trial\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052409,
+        "name": "Farewell, Punklorde!",
+        "desc": "Complete the Companion Mission \"Punklorde Mentality\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052401,
+        "name": "Where Can A Wanderer Rest?",
+        "desc": "Let Liangmu know the identity of the mara-struck monster in the mission \"Evanesce Like the Morning Dew\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052402,
+        "name": "For Old Times' Sake",
+        "desc": "Hide the identity of the mara-struck monster from Liangmu in the mission \"Evanesce Like the Morning Dew\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052403,
+        "name": "Coffin Dancer",
+        "desc": "Witness Luocha's hidden side.\\n<color=#8790abff>※ Check the restored recording and listen to Luocha's monologue.</color>",
+        "rarity": 1,
+        "version": "1.1"
       },
       {
         "id": 4051103,
@@ -856,6 +919,27 @@
         "version": "1.0"
       },
       {
+        "id": 4052404,
+        "name": "Free For Today",
+        "desc": "Open up the general exhibition area of the Belobog History and Culture Museum",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052405,
+        "name": "Catch Me If You Can",
+        "desc": "Open up three exhibition areas in the Belobog History and Culture Museum",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052406,
+        "name": "You Should Stay in the Museum!",
+        "desc": "Collect all display items for the Belobog History and Culture Museum",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
         "id": 4052323,
         "name": "A Simple Life",
         "desc": "Receive a text from Luhui after completing the mission \"Fired\"",
@@ -956,7 +1040,7 @@
       {
         "id": 4052337,
         "name": "Labor Omnia Vincit",
-        "desc": "Examine file cabinets in the Seat of Divine Foresight 7 time(s)",
+        "desc": "Examine 3 separate file cabinets in the Seat of Divine Foresight",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1774,6 +1858,20 @@
         "desc": "In a single battle against Boss Kafka, dispel Dominated 3 times",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4072401,
+        "name": "This Fragile Body",
+        "desc": "Use Silver Wolf to apply different Type Weaknesses for a total of 3 time(s) to a single enemy in a single battle",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
+        "id": 4072402,
+        "name": "When the Hunter Becomes the Hunted",
+        "desc": "Use Silver Wolf to fight enemy Kafka and apply 2 Weaknesse(s) to her in a single battle",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -2017,6 +2115,20 @@
         "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Physical-Type character(s)",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4082401,
+        "name": "Life in All Its Forms",
+        "desc": "Trigger 10 different HP restoration voice lines with Luocha's healing",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4082402,
+        "name": "Star Saga of the Shattered Sword",
+        "desc": "Win 1 battle(s) with a team comprising Luocha, Sushang, and Yanqing",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },

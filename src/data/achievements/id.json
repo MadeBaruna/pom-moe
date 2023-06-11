@@ -12,28 +12,28 @@
       {
         "id": 4010201,
         "name": "Dalam Takdir (1)",
-        "desc": "Ada 1 Light Cone Lv. 40",
+        "desc": "Memiliki 1 Light Cone Lv. 40",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4010202,
         "name": "Dalam Takdir (2)",
-        "desc": "Ada 1 Light Cone Lv. 60",
+        "desc": "Memiliki 1 Light Cone Lv. 60",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4010203,
         "name": "Dalam Takdir (3)",
-        "desc": "Ada 1 Light Cone Lv. 80",
+        "desc": "Memiliki 1 Light Cone Lv. 80",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4010103,
         "name": "Waktu Mencinta yang Cukup",
-        "desc": "Ada 4 Light Cone Lv. 80",
+        "desc": "Memiliki 4 Light Cone Lv. 80",
         "rarity": 3,
         "version": "1.0"
       },
@@ -47,7 +47,7 @@
       {
         "id": 4010301,
         "name": "Masa Kecilku",
-        "desc": "Ada karakter Lv. 40",
+        "desc": "Memiliki karakter Lv. 40",
         "rarity": 2,
         "version": "1.0"
       },
@@ -61,7 +61,7 @@
       {
         "id": 4010302,
         "name": "Di Dunia Fana",
-        "desc": "Ada karakter Lv. 60",
+        "desc": "Memiliki karakter Lv. 60",
         "rarity": 2,
         "version": "1.0"
       },
@@ -75,14 +75,14 @@
       {
         "id": 4010303,
         "name": "Kampusku",
-        "desc": "Ada karakter Lv. 80",
+        "desc": "Memiliki karakter Lv. 80",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4010102,
         "name": "Akhir dari Masa Kecil",
-        "desc": "Ada 4 karakter Lv. 80",
+        "desc": "Memiliki 4 karakter Lv. 80",
         "rarity": 3,
         "version": "1.0"
       },
@@ -157,7 +157,7 @@
       {
         "id": 4022302,
         "name": "Konglomerat Pembelok Cahaya",
-        "desc": "Memperoleh 99999998 Credit",
+        "desc": "Memperoleh 100000000 Credit",
         "rarity": 2,
         "version": "1.0"
       },
@@ -230,6 +230,20 @@
         "desc": "Memperoleh 10000000 Credit",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4022401,
+        "name": "Bara Api Percakapan",
+        "desc": "Membalas 10 teks obrolan dari karakter lain",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4022402,
+        "name": "Perahu Persahabatan",
+        "desc": "Membalas 60 teks obrolan dari karakter lain",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -562,6 +576,13 @@
         "desc": "Menyelesaikan Formation-Breaking Compass 20 kali",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042401,
+        "name": "Terjebak Perangkap",
+        "desc": "Menangkap Trotter yang tersesat 1 kali dalam pertempuran",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -609,6 +630,48 @@
         "desc": "Menyelesaikan Misi Bersama \"Cuma Anak Kecil\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052407,
+        "name": "Detektif Terkenal yang Sempurna",
+        "desc": "Selesaikan Misi Bersama \"Kesatria Asing\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052408,
+        "name": "Tuan Pedang-Pedang",
+        "desc": "Selesaikan Misi Bersama \"Percobaan Pedang Salju\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052409,
+        "name": "Selamat Tinggal, Punklorde!",
+        "desc": "Menyelesaikan Misi Bersama \"Punklorde Mentality\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052401,
+        "name": "Di mana Dahan untuk Bersandar?",
+        "desc": "Ungkap identitas monster Mara-struck ke Liangmu di misi \"Bagaikan Embun Fajar\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052402,
+        "name": "Hutang Budi yang Terpendam",
+        "desc": "Sembunyikan identitas monster Mara-struck dari Liangmu di misi \"Bagaikan Embun Fajar\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052403,
+        "name": "Penari Keranda",
+        "desc": "Menyaksikan sisi tersembunyi Luocha\\n<color=#8790abff>※ Periksa rekaman yang diperbaiki dan dengarkan kata-kata Luocha</color>",
+        "rarity": 1,
+        "version": "1.1"
       },
       {
         "id": 4051103,
@@ -795,14 +858,14 @@
       {
         "id": 4052314,
         "name": "Imun Natural",
-        "desc": "Dapatkan resep nasi goreng dari Gertie di Goethe Grand Hotel",
+        "desc": "Dapatkan resep Fried Rice dari Gertie di Goethe Grand Hotel",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4052315,
         "name": "La La Land",
-        "desc": "Dapatkan partitur lagu untuk fonograf dari Tamila di Golden Theater",
+        "desc": "Dapatkan partitur lagu untuk fonograf dari percakapan dengan Tamila di Golden Theater",
         "rarity": 1,
         "version": "1.0"
       },
@@ -854,6 +917,27 @@
         "desc": "Beli \"Petualang The Moles: Harta Karun Tak Terlihat\" dengan Book Merchant di Belobog",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052404,
+        "name": "Gratis untuk Hari Ini",
+        "desc": "Buka area pameran umum History and Culture Museum di Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052405,
+        "name": "Kucing dan Tikus",
+        "desc": "Buka tiga area pameran History and Culture Museum di Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052406,
+        "name": "Kamu Harusnya Tinggal di Museum!",
+        "desc": "Kumpulkan semua benda yang dipamerkan di History and Culture Museum di Belobog",
+        "rarity": 2,
+        "version": "1.1"
       },
       {
         "id": 4052323,
@@ -956,7 +1040,7 @@
       {
         "id": 4052337,
         "name": "Kerja Bagai Kuda",
-        "desc": "Periksa lemari dokumen 7 kali di Seat of Divine Foresight",
+        "desc": "Periksa 3 lemari dokumen yang berbeda di Seat of Divine Foresight",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1774,6 +1858,20 @@
         "desc": "Menghapus status \"Dominated\" 3 kali dari 1 pertempuran melawan Kafka",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4072401,
+        "name": "Tubuh yang Lemah",
+        "desc": "Menggunakan Silver Wolf untuk menambah Tipe Weakness yang berbeda 3 kali pada 1 musuh yang sama di satu pertempuran",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
+        "id": 4072402,
+        "name": "Saat Pemburu Menjadi Mangsa",
+        "desc": "Saat menggunakan Silver Wolf untuk melawan Kafka, menambah 2 Weakness pada Kafka dalam satu pertempuran",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -2017,6 +2115,20 @@
         "desc": "Memperoleh #2[i] kemenangan dengan <unbreak>4</unbreak> karakter tipe \"Physical\" dalam tim",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4082401,
+        "name": "Kehidupan dalam Berbagai Bentuk",
+        "desc": "Saat menggunakan Luocha untuk memulihkan HP, memicu 10 suara dialog pemulihan yang berbeda",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4082402,
+        "name": "Kubah Bintang dari Pedang",
+        "desc": "Memenangkan 1 pertempuran dalam tim yang terdiri dari Luocha, Sushang, dan Yanqing",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },

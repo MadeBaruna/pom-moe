@@ -32,7 +32,7 @@
       },
       {
         "id": 4010103,
-        "name": "Sempre Há Tempo Para o Amor",
+        "name": "Tempo Suficiente para o Amor",
         "desc": "Tenha 4 Cones de Luz de Nv. 80",
         "rarity": 3,
         "version": "1.0"
@@ -157,7 +157,7 @@
       {
         "id": 4022302,
         "name": "Cara Megarrico Controlador da Luz",
-        "desc": "Obtenha um total de 99999998 créditos",
+        "desc": "Obtenha um total de 100000000 créditos",
         "rarity": 2,
         "version": "1.0"
       },
@@ -230,6 +230,20 @@
         "desc": "Obtenha um total de 10000000 créditos",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4022401,
+        "name": "Fã de Mensagens de Texto",
+        "desc": "Responda a 10 mensagens de bate-papos ociosos de outros personagens",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4022402,
+        "name": "Uma Grande Amizade",
+        "desc": "Responda a 60 mensagens de bate-papos ociosos de outros personagens",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -308,7 +322,7 @@
       },
       {
         "id": 4032306,
-        "name": "Assassino do Cerviçal da Abundância",
+        "name": "Assassino do \"Cerviçal\" da Abundância",
         "desc": "Experimente trilhar o Caminho da Caça...\\n<color=#8790abff>※ Ajude o Xianzhou contra a Abominação da Abundância, o \"Cervo de Ébano\"</color>",
         "rarity": 2,
         "version": "1.0"
@@ -349,7 +363,7 @@
       {
         "id": 4040101,
         "name": "Bom Jogador de RPG",
-        "desc": "Abra 30 Tesouro(s) na estação espacial Herta",
+        "desc": "Abra 30 Tesouro(s) na Estação Espacial Herta",
         "rarity": 3,
         "version": "1.0"
       },
@@ -562,6 +576,13 @@
         "desc": "Conclua a Bússola de Quebra de Formação 20 vez(es)",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042401,
+        "name": "Em Direção à Armadilha",
+        "desc": "Capture 1 Cofrinho(s) Perdido(s) na batalha",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -609,6 +630,48 @@
         "desc": "Conclua a Missão de Companheiro \"Só uma Criança\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052407,
+        "name": "Um Detetive Perfeito",
+        "desc": "Conclua a Missão de Companheiro \"Um Cavaleiro Estranho\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052408,
+        "name": "Mestre Entre Espadas",
+        "desc": "Conclua a Missão de Companheiro \"Teste da Lâmina Glacial\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052409,
+        "name": "Adeus, Punklorde!",
+        "desc": "Conclua a Missão de Companheiro \"Mentalidade de Punklorde\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052401,
+        "name": "Onde um Viajante Pode Descansar?",
+        "desc": "Deixe Liangmu saber a identidade do monstro marafílico na missão \"Dissipar Como o Orvalho da Manhã\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052402,
+        "name": "Pelos Bons Tempos",
+        "desc": "Esconda a identidade do monstro marafílico de Liangmu na missão \"Dissipar Como o Orvalho da Manhã\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052403,
+        "name": "Dançando no Caixão",
+        "desc": "Presencie o lado oculto do Luocha.\\n<color=#8790abff>※ Confira a gravação recuperada e ouça o monólogo do Luocha.</color>",
+        "rarity": 1,
+        "version": "1.1"
       },
       {
         "id": 4051103,
@@ -843,7 +906,7 @@
       },
       {
         "id": 4052320,
-        "name": "A Última Toupeirinha",
+        "name": "A Quarta Toupeirinha",
         "desc": "Encontre todos os tesouros escondidos na missão \"As Toupeiras Aventureiras\"",
         "rarity": 1,
         "version": "1.0"
@@ -854,6 +917,27 @@
         "desc": "Compre \"As Toupeiras Aventureiras: Tesouro Escondido\" com o comerciante de livros de Belobog",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052404,
+        "name": "Dia Livre",
+        "desc": "Abra a área de exibição geral do Museu de História e Cultura de Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052405,
+        "name": "Pegue-me Se For Capaz",
+        "desc": "Abra as três áreas de exibição do Museu de História e Cultura de Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052406,
+        "name": "Fique no Museu!",
+        "desc": "Colete todos os itens de exibição do Museu de História e Cultura de Belobog",
+        "rarity": 2,
+        "version": "1.1"
       },
       {
         "id": 4052323,
@@ -900,7 +984,7 @@
       {
         "id": 4052329,
         "name": "Melhor Sete Pássaros na Mão do que Mil Voando",
-        "desc": "Ajude o Garça Expressa a recuperar todos as MechAves",
+        "desc": "Ajude a Garça Expressa a recuperar todas as MechAves",
         "rarity": 1,
         "version": "1.0"
       },
@@ -956,7 +1040,7 @@
       {
         "id": 4052337,
         "name": "Labor Omnia Vincit",
-        "desc": "Examine os armários de arquivos na Sede da Presciência Divina 7 vez(es)",
+        "desc": "Examine 3 armários de arquivos diferentes na Sede da Presciência Divina",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1774,6 +1858,20 @@
         "desc": "Em uma única batalha contra a chefe Kafka, remova a Dominação 3 vezes",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4072401,
+        "name": "Este Corpo Frágil",
+        "desc": "Use a Loba Prateada para aplicar diferentes Tipos de Fraqueza a um único inimigo em uma única batalha por um total de 3 vez(es)",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
+        "id": 4072402,
+        "name": "Quando a Caça se Torna o Caçador",
+        "desc": "Use a Loba Prateada para lutar contra Kafka inimiga e aplicar 2 Fraqueza(s) a ela em uma única batalha",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -2017,6 +2115,20 @@
         "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Físico",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4082401,
+        "name": "Vida em Todas as Suas Formas",
+        "desc": "Ative 10 linhas de voz de restauração de PV diferentes com a cura do Luocha",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4082402,
+        "name": "Saga Estelar da Espada Despedaçada",
+        "desc": "Ganhe 1 batalha(s) com uma equipe com Luocha, Sushang e Yanqing",
+        "rarity": 1,
+        "version": "1.1"
       }
     ]
   },
@@ -2193,7 +2305,7 @@
       },
       {
         "id": 4092320,
-        "name": "Quem mexeu na minha Pokébola?",
+        "name": "Quem Mexeu na Minha Pokébola?",
         "desc": "Capture 1 Cofrinho(s) no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
