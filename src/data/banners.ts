@@ -85,6 +85,20 @@ export const banners: Banners = {
 			featured5: ['silver-wolf'],
 			featured4: ['dan-heng', 'asta', 'serval'],
 			timezoneDependent: true
+		},
+		{
+			code: 2006,
+			type: 'character',
+			name: 'Laic Pursuit',
+			start: '2023-06-28 12:00:00',
+			end: '2023-07-18 14:59:49',
+			color: '#f9f3e6',
+			version: '1.1',
+			image: 'Laic Pursuit 2006.png',
+			pos: '83% 0%',
+			zoom: 1.1,
+			featured5: ['luocha'],
+			featured4: ['yukong', 'pela', 'qingque'],
 		}
 	],
 	lightcone: [
@@ -131,6 +145,20 @@ export const banners: Banners = {
 			featured5: ['incessant-rain'],
 			featured4: ['subscribe-for-more', 'memories-of-the-past', 'make-the-world-clamor'],
 			timezoneDependent: true
+		},
+		{
+			code: 3006,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-06-28 12:00:00',
+			end: '2023-07-18 14:59:49',
+			color: '#d0d3ac',
+			version: '1.1',
+			image: 'Brilliant Fixation 3006.png',
+			pos: '70% 8%',
+			zoom: 1.2,
+			featured5: ['echoes-of-the-coffin'],
+			featured4: ['good-night-and-sleep-well', 'geniuses-repose', 'dance-dance-dance'],
 		}
 	],
 	standard: [

@@ -162,8 +162,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1001_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Freezing Beauty",
@@ -323,8 +322,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1002_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Splitting Spearhead",
@@ -472,8 +470,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1003_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Incomplete Combustion",
@@ -655,8 +652,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1004_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Gravitational Imprisonment",
@@ -940,8 +936,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1006_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Force Quit Program",
@@ -1081,8 +1076,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1008_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Swift Harvest",
@@ -1212,8 +1206,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1009_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Miracle Flash",
@@ -1343,8 +1336,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1013_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "It Can Still Be Optimized",
@@ -1518,8 +1510,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1101_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Banner of Command",
@@ -1653,8 +1644,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1102_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Phantom Illusion",
@@ -1820,8 +1810,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1103_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Good Night, Belobog",
@@ -1999,8 +1988,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1104_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Comradery",
@@ -2206,8 +2194,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1105_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Hypnosis Research",
@@ -2367,8 +2354,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1106_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Preemptive Strike",
@@ -2554,8 +2540,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1107_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "A Small Price for Victory",
@@ -2719,8 +2704,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1108_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Shining Bright",
@@ -2876,8 +2860,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1109_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Ack! Look at This Mess!",
@@ -3085,8 +3068,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1201_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Game Solitaire",
@@ -3284,8 +3266,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1202_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Gentle Breeze",
@@ -3298,6 +3279,174 @@
       "format": [
         "[i]"
       ]
+    }
+  },
+  "luocha": {
+    "attack": {
+      "name": "Thorns of the Abyss",
+      "desc": "Mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Luocha pada 1 target musuh.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Prayer of Abyss Flower",
+      "desc": "Setelah melancarkan Skill, segera memulihkan HP 1 rekan yang ditarget sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Luocha + <span style=\"color: #f29e38ff\">{2}</span> dan membuat Luocha memperoleh 1 lapis \"Abyss Flower\".\\nSaat Persentase HP salah satu rekan tim saat ini kurang dari atau sama dengan {3}, Luocha akan segera memicu sebuah efek yang sama dengan Skill ini pada rekan tersebut sebanyak 1 kali tanpa perlu mengonsumsi Poin Skill. Efek ini dapat dipicu lagi setelah {4} giliran.",
+      "values": [
+        [
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60,
+          62,
+          64,
+          66,
+          68,
+          70
+        ],
+        [
+          200,
+          320,
+          410,
+          500,
+          560,
+          620,
+          665,
+          710,
+          755,
+          800,
+          845,
+          890,
+          935,
+          980,
+          1025
+        ],
+        [
+          50
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Death Wish",
+      "desc": "Menghapus masing-masing {2} <u>Buff</u> dari seluruh target musuh dan mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Luocha ke seluruh musuh, serta memberikan Luocha 1 lapis \"Abyss Flower\".",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Cycle of Life",
+      "desc": "Saat tumpukan \"Abyss Flower\" mencapai {1} lapis, Luocha akan mengonsumsi semua \"Abyss Flower\" dan membuat sebuah Field pada musuh.\\nSetelah musuh dalam Field diserang rekan tim, rekan tim yang menyerang akan segera memulihkan HP sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Luocha +<span style=\"color: #f29e38ff\">{4}</span>.\\nEfek Field berlangsung selama {3} giliran. Saat Luocha gugur, efek Field akan menghilang.",
+      "values": [
+        [
+          2
+        ],
+        [
+          12,
+          12.7,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18,
+          18.6,
+          19.2,
+          19.8,
+          20.4,
+          21
+        ],
+        [
+          2
+        ],
+        [
+          60,
+          96,
+          123,
+          150,
+          168,
+          186,
+          200,
+          213,
+          227,
+          240,
+          254,
+          267,
+          281,
+          294,
+          308
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Mercy of a Fool",
+      "desc": "Setelah menggunakan Technique, Talent akan langsung terpicu saat pertempuran selanjutnya dimulai.",
+      "values": [],
+      "format": []
     }
   },
   "jing-yuan": {
@@ -3431,8 +3580,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1204_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Spirit Invocation",
@@ -3602,8 +3750,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1206_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Cloudfencer Art: Warcry",
@@ -3769,8 +3916,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1207_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Chasing the Wind",
@@ -3994,8 +4140,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1209_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "The One True Sword",
@@ -4227,8 +4372,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1211_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Saunter in the Rain",
@@ -4398,8 +4542,7 @@
       "name": "Attack",
       "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_8003_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Call of the Guardian",

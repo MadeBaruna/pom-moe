@@ -162,8 +162,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1001_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Beauté glacée",
@@ -323,8 +322,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1002_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Pointe affûtée",
@@ -472,8 +470,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1003_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Combustion incomplète",
@@ -655,8 +652,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1004_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Emprisonnement gravitationnel",
@@ -940,8 +936,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1006_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Arrêt forcé du programme",
@@ -1081,8 +1076,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1008_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Moisson rapide",
@@ -1212,8 +1206,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1009_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Coup de génie",
@@ -1343,8 +1336,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1013_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Il y a de la marge de progression",
@@ -1518,8 +1510,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1101_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Bannière de commandement",
@@ -1653,8 +1644,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1102_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Illusion fantôme",
@@ -1820,8 +1810,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1103_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Bonsoir Belobog",
@@ -1999,8 +1988,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1104_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Camaraderie",
@@ -2206,8 +2194,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1105_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Recherche sur l'hypnose",
@@ -2367,8 +2354,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1106_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Frappe préventive",
@@ -2554,8 +2540,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1107_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Le prix de la victoire",
@@ -2719,8 +2704,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1108_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Éblouissement",
@@ -2876,8 +2860,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1109_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Aïe ! Regarde-moi ce bazar !",
@@ -3085,8 +3068,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1201_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Accro aux jeux",
@@ -3284,8 +3266,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1202_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Douce brise",
@@ -3298,6 +3279,174 @@
       "format": [
         "[i]"
       ]
+    }
+  },
+  "luocha": {
+    "attack": {
+      "name": "Épines de l'abîme",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luocha à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Prière de la Fleur de l'abîme",
+      "desc": "Après utilisation de la compétence, restaure immédiatement des PV à une cible alliée à hauteur de <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{2}</span>. D'autre part, Luocha obtient 1 cumul de Fleur de l'abîme.\\nLorsque le pourcentage de PV d'un allié devient inférieur ou égal à {3}, un effet équivalent à celui de la compétence de Luocha est immédiatement déclenché et appliqué une fois à cet allié (sans consommer de points de compétence). Cet effet peut être déclenché à nouveau après {4} tours.",
+      "values": [
+        [
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60,
+          62,
+          64,
+          66,
+          68,
+          70
+        ],
+        [
+          200,
+          320,
+          410,
+          500,
+          560,
+          620,
+          665,
+          710,
+          755,
+          800,
+          845,
+          890,
+          935,
+          980,
+          1025
+        ],
+        [
+          50
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Pulsion de mort",
+      "desc": "Supprime {2} <u>bonus</u> chez tous les ennemis et inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luocha à tous les ennemis. Luocha gagne 1 cumul de Fleur de l'abîme.",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Cycle de la vie",
+      "desc": "Lorsque le nombre de cumuls de Fleur de l'abîme atteint {1}, Luocha consomme tous les cumuls de Fleur de l'abîme pour déployer un Champ hostile aux ennemis.\\nLorsqu'un ennemi situé dans le Champ est attaqué par un allié, ce dernier restaure immédiatement un montant de PV équivalent à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{4}</span>.\\nL'effet du Champ dure {3} tours. Le Champ se dissipe lorsque Luocha est à terre.",
+      "values": [
+        [
+          2
+        ],
+        [
+          12,
+          12.7,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18,
+          18.6,
+          19.2,
+          19.8,
+          20.4,
+          21
+        ],
+        [
+          2
+        ],
+        [
+          60,
+          96,
+          123,
+          150,
+          168,
+          186,
+          200,
+          213,
+          227,
+          240,
+          254,
+          267,
+          281,
+          294,
+          308
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Miséricorde d'un fou",
+      "desc": "Après utilisation de la technique, le talent se déclenche immédiatement au début du combat suivant.",
+      "values": [],
+      "format": []
     }
   },
   "jing-yuan": {
@@ -3431,8 +3580,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1204_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Invocation d'esprit",
@@ -3602,8 +3750,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1206_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Escrime perce-nuages : Cri de guerre",
@@ -3769,8 +3916,7 @@
       "name": "Attaque",
       "desc": "Après avoir attaqué un ennemi et rejoint le combat, la résistance de l'ennemi au type correspondant est affaiblie.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1207_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "À la poursuite du vent",
@@ -3994,8 +4140,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1209_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "La seule et unique lame",
@@ -4227,8 +4372,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1211_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Flânerie sous la pluie",
@@ -4398,8 +4542,7 @@
       "name": "Attaque",
       "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_8003_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "Appel de la Gardienne",

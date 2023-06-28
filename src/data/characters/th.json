@@ -4,167 +4,207 @@
     "name": "March 7th",
     "path": "preservation",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "เด็กสาวที่ครั้งหนึ่งเคยหลับใหลอยู่ในน้ำแข็งนิรันดร์และไม่รู้อะไรเกี่ยวกับอดีตเลย\\nเพื่อตามหาความจริงเกี่ยวกับภูมิหลัง เธอจึงเลือกเดินทางไปกับ Astral Express\\nปัจจุบันเธอได้เตรียม \"เรื่องราวภูมิหลัง\" ของตัวเองเอาไว้เกือบๆ <unbreak>67</unbreak> แบบแล้ว"
   },
   "dan-heng": {
     "id": "dan-heng",
     "name": "Dan Heng",
     "path": "the-hunt",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "เด็กหนุ่มผู้เย็นชาและเงียบขรึมที่เก็บงำอดีตของตนไว้\\nเพื่อหลบเลี่ยงเพื่อนร่วมเผ่าพันธุ์เดียวกัน เขาจึงเลือกเดินทางไปกับ Astral Express"
   },
   "himeko": {
     "id": "himeko",
     "name": "Himeko",
     "path": "erudition",
     "element": "fire",
-    "rarity": 5
+    "rarity": 5,
+    "background": "ผู้ซ่อมแซม Astral Express\\nเพื่อไปชมทะเลดวงดาวอันกว้างใหญ่ เธอจึงเลือกเดินทางไปกับ Astral Express\\nงานอดิเรกคือการชงกาแฟ"
   },
   "welt": {
     "id": "welt",
     "name": "Welt",
     "path": "nihility",
     "element": "imaginary",
-    "rarity": 5
+    "rarity": 5,
+    "background": "รุ่นพี่ของทีมขบวนรถไฟผู้สุขุม\\nความหลงใหลอันร้อนรุ่มที่ฝังอยู่ในใจของเขาลุกโชนไปกับการผจญภัยอันน่าตื่นเต้นที่แสนยาวนานอีกครั้ง\\nบางครั้งก็จะวาดภาพประสบการณ์การเดินทางผจญภัยของตนไว้ในสมุดบันทึก"
   },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Silver Wolf",
     "path": "nihility",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "สมาชิกแห่ง \"นักล่า Stellaron\" แฮ็กเกอร์อัจฉริยะ\\nผู้ที่มองจักรวาลเป็นเหมือนเกมจำลองขนาดใหญ่ และสนุกเพลิดเพลินไปกับมัน\\nเธอเชี่ยวชาญใน \"Aether Editing\" ซึ่งสามารถแก้ไขข้อมูลความเป็นจริงได้"
   },
   "arlan": {
     "id": "arlan",
     "name": "Arlan",
     "path": "destruction",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "หัวหน้าแผนกรักษาความปลอดภัยของสถานีอวกาศ \"Herta\"\\nเขาพูดไม่ค่อยเก่ง และหวังเพียงแค่จะปกป้องนักวิจัย เพื่อให้พวกเขาสามารถทำการวิจัยให้สำเร็จได้อย่างราบรื่น"
   },
   "asta": {
     "id": "asta",
     "name": "Asta",
     "path": "harmony",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "หัวหน้านักวิจัยของสถานีอวกาศ \"Herta\" คุณหนูสูงศักดิ์ผู้เกิดในตระกูลที่มีชื่อเสียง\\nนักวิจัยทางดาราศาสตร์ผู้มีความอยากรู้อยากเห็น และถนัดเรื่องการจัดการกับเจ้าหน้าที่สถานีอวกาศที่มีความเห็นต่าง"
   },
   "herta": {
     "id": "herta",
     "name": "Herta",
     "path": "erudition",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "สมาชิกลำดับที่ <unbreak>83</unbreak> แห่งสมาคมอัจฉริยะ เจ้าของสถานีอวกาศที่แท้จริง\\nนักวิทยาศาสตร์ผู้ยิ่งใหญ่ที่ชาญฉลาด แต่ไร้ซึ่งความเห็นอกเห็นใจ"
   },
   "bronya": {
     "id": "bronya",
     "name": "Bronya",
     "path": "harmony",
     "element": "wind",
-    "rarity": 5
+    "rarity": 5,
+    "background": "ทายาท \"ผู้พิทักษ์สูงสุด\" แห่ง Belobog\\nผู้มีความหยิ่งทะนงของเจ้าหญิง และมีความมุ่งมั่นของทหาร"
   },
   "seele": {
     "id": "seele",
     "name": "Seele",
     "path": "the-hunt",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "กำลังสำคัญของ \"Wildfire\" กลุ่มต่อต้านแห่ง Underworld ผู้มีฉายาว่า \"ผีเสื้อ\"\\nนิสัยตรงไปตรงมา แต่ก็ยังมีด้านที่ละเอียดอ่อนซ่อนเร้นอยู่ในจิตใจ"
   },
   "serval": {
     "id": "serval",
     "name": "Serval",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "ช่างเครื่องยนต์แห่ง Belobog อดีตนักวิจัยฝ่ายเทคโนโลยีของผู้สร้างเมือง\\nเธอเป็นพี่สาวของ Gepard Landau แต่นิสัยกลับแตกต่างจากน้องชายลิบลับ\\nเธอชื่นชอบดนตรีแบบโบราณชนิดหนึ่งของยุคก่อนลมหนาวนิรันดร์จะมาเยือน ซึ่งมีชื่อว่า \"ร็อกแอนด์โรล\""
   },
   "gepard": {
     "id": "gepard",
     "name": "Gepard",
     "path": "preservation",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "กัปตันของกองกำลัง Silvermane สุดยอดนักรบผู้เก่งกาจแห่ง Belobog\\nเป็นคนที่มีความรับผิดชอบ ละเอียดรอบคอบ และไม่เคยย่อท้อ"
   },
   "natasha": {
     "id": "natasha",
     "name": "Natasha",
     "path": "abundance",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "คุณหมอของ Underworld แห่งเมือง Belobog และยังเป็นผู้ดูแลเด็กๆ อีกด้วย\\nภายใต้บุคลิกที่ดูเป็นมิตรและอ่อนโยนนั้น เธอยังมีด้านอันตรายที่ซ่อนอยู่"
   },
   "pela": {
     "id": "pela",
     "name": "Pela",
     "path": "nihility",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "เลขาของกองกำลัง Silvermane\\nเธอเป็นคนที่จริงจัง และเป็นที่เคารพของเหล่าสมาชิกกองกำลัง Silvermane"
   },
   "clara": {
     "id": "clara",
     "name": "Clara",
     "path": "destruction",
     "element": "physical",
-    "rarity": 5
+    "rarity": 5,
+    "background": "เด็กสาวพเนจรที่อาศัยอยู่กับหุ่นยนต์\\nเธอเป็นคนเก็บตัว อ่อนโยน และมีจิตใจที่บริสุทธิ์\\nเธอหวังว่าทุกคนใน Underworld จะเป็นเหมือน \"ครอบครัว\" ของกันและกัน"
   },
   "sampo": {
     "id": "sampo",
     "name": "Sampo",
     "path": "nihility",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "พ่อค้าที่สามารถเดินทางไปมาระหว่างเมืองด้านบนและด้านล่างได้อย่างอิสระ\\nเขาเป็นกันเอง มีอารมณ์ขัน และมักจะสอดแทรกมุกตลกอยู่เสมอ"
   },
   "hook": {
     "id": "hook",
     "name": "Hook",
     "path": "destruction",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "หัวหน้า (ตั้งเอง) ของทีมผจญภัยแห่งเมืองด้านล่างอย่างแก๊งตัวตุ่น\\nเธอรักอิสระและมองว่าชีวิตคือการผจญภัยที่ไม่รู้จบ"
   },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
     "path": "erudition",
     "element": "quantum",
-    "rarity": 4
+    "rarity": 4,
+    "background": "ผู้พยากรณ์แห่ง Divination Commission ของ Xianzhou Luofu และเป็นผู้ดูแลคลังหนังสือ\\nเพราะเอาแต่แอบอู้งาน จึงจะถูกลดขั้นไปเป็น \"ผู้เฝ้าประตู\" แทน"
   },
   "tingyun": {
     "id": "tingyun",
     "name": "Tingyun",
     "path": "harmony",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "ผู้แทนของ Sky-Faring Commission แห่ง Xianzhou \"Luofu\"\\nเธอได้เดินทางไปกับกลุ่มตัวแทนการค้า เพื่อสร้างความสัมพันธ์ทางการค้าและเป็นพันธมิตรกับโลกต่างๆ"
+  },
+  "luocha": {
+    "id": "luocha",
+    "name": "Luocha",
+    "path": "abundance",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "พ่อค้าต่างแดนจากโพ้นทะเล ที่พกโลงศพติดตัวอยู่เสมอ\\nและยังมีทักษะการแพทย์ชั้นยอด"
   },
   "jing-yuan": {
     "id": "jing-yuan",
     "name": "Jing Yuan",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "\"นายพล Divine Foresight\" หนึ่งในเจ็ดนายพลของเทพแห่งคันศรของสหพันธ์ Xianzhou ผู้รับผิดชอบควบคุม กองอัศวิน Cloud Knight แห่ง Luofu\\nลูกศิษย์ของปรมาจารย์ดาบ \"Luofu\" รุ่นก่อน แต่ไม่ได้มีชื่อเสียงด้านการต่อสู้"
   },
   "sushang": {
     "id": "sushang",
     "name": "Sushang",
     "path": "the-hunt",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "ผู้ที่เกิดใน Xianzhou Yaoqing และถูกส่งไปยังกองอัศวิน Cloud Knight แห่ง Luofu เพื่อรับการฝึกทหาร\\nเธอใช้ดาบของครอบครัวที่แม่มอบให้ และเฝ้าใฝ่ฝันถึงอนาคตที่ตัวเองได้วาดเอาไว้"
+  },
+  "yukong": {
+    "id": "yukong",
+    "name": "Yukong",
+    "path": "harmony",
+    "element": "imaginary",
+    "rarity": 4,
+    "background": "หัวหน้าของ Sky-Faring Commission แห่ง Xianzhou \"Luofu\" ผู้เป็นนักบินและมือยิงที่ผ่านสมรภูมิมามากมาย\\nปัจจุบันจมอยู่ในกองงานที่แสนซับซ้อน จนยากจะปลีกตัวออกมาได้"
   },
   "yanqing": {
     "id": "yanqing",
     "name": "Yanqing",
     "path": "the-hunt",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "ทหารคุ้มกันของนายพล Jing Yuan และเป็นอัจฉริยะนักดาบวัยเยาว์\\nเมื่อมือจับดาบ เขาจะอยู่ในจุดที่ไม่อาจโค่นล้มได้เลย"
   },
   "bailu": {
     "id": "bailu",
     "name": "Bailu",
     "path": "abundance",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "ผู้ทรงเกียรติแห่ง Vidyadhara ของ Xianzhou \"Luofu\" และเป็นหมอที่รู้จักกันในชื่อ \"ท่านมังกรผู้เยียวยา\"\\nเธอจะช่วยชีวิตและรักษาผู้บาดเจ็บ โดยใช้ศาสตร์การแพทย์แบบเฉพาะ และ \"วิธีการทางการแพทย์\" ที่มีแค่สายเลือดมังกรเท่านั้นที่จะทำได้"
   },
   "trailblazer": {
     "id": "trailblazer",
     "name": "ผู้บุกเบิก",
     "path": "adaptive",
     "element": "adaptive",
-    "rarity": 5
+    "rarity": 5,
+    "background": "เด็กสาว/เด็กหนุ่มที่ขึ้นรถไฟ Astral Express มา\\nเลือกเดินทางด้วย Astral Express เพื่อกำจัดวิกฤตที่เกิดจาก Stellaron"
   }
 }

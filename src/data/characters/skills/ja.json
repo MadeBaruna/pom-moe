@@ -162,8 +162,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1001_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "凍る瞬間",
@@ -323,8 +322,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1002_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "破敵の矛先",
@@ -472,8 +470,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1003_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "不完全燃焼",
@@ -655,8 +652,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1004_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "画地為牢",
@@ -940,8 +936,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1006_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "|プロセス強制終了|",
@@ -1081,8 +1076,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1008_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "特急ハーベスト",
@@ -1212,8 +1206,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1009_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "着想の一閃",
@@ -1343,8 +1336,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1013_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "改善すべきだよ",
@@ -1518,8 +1510,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1101_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "旗の下で",
@@ -1653,8 +1644,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1102_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "幻身",
@@ -1820,8 +1810,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1103_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "おやすみ、ベロブルグ",
@@ -1999,8 +1988,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1104_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "仁心の証",
@@ -2206,8 +2194,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1105_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "催眠研究",
@@ -2367,8 +2354,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1106_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "先手必勝",
@@ -2554,8 +2540,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1107_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "勝利の小さな対価",
@@ -2719,8 +2704,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1108_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "一番の輝きをあなたへ",
@@ -2876,8 +2860,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1109_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "ほら！滅茶苦茶になってる",
@@ -3085,8 +3068,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1201_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "独奕の楽しみ",
@@ -3284,8 +3266,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1202_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "恵風和暢",
@@ -3298,6 +3279,174 @@
       "format": [
         "[i]"
       ]
+    }
+  },
+  "luocha": {
+    "attack": {
+      "name": "黒淵の棘",
+      "desc": "指定した敵単体に羅刹の攻撃力<span style=\"color: #f29e38ff\">{1}</span>分の虚数属性ダメージを与える。",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "白花の祈望",
+      "desc": "戦闘スキルを発動した後、指定した味方単体のHPを、羅刹の攻撃力<span style=\"color: #f29e38ff\">{1}</span>+<span style=\"color: #f29e38ff\">{2}</span>回復し、羅刹は「白花の刻」を1層獲得する。\\n任意の味方単体の残りHPが{3}以下の時、その味方をターゲットとして、羅刹の戦闘スキルと同等の効果が1回触発される、この行動はSPを消費しない。この効果は{4}ターン後に再度触発できる。",
+      "values": [
+        [
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60,
+          62,
+          64,
+          66,
+          68,
+          70
+        ],
+        [
+          200,
+          320,
+          410,
+          500,
+          560,
+          620,
+          665,
+          710,
+          755,
+          800,
+          845,
+          890,
+          935,
+          980,
+          1025
+        ],
+        [
+          50
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "帰葬の成就",
+      "desc": "敵全体の<u>バフ</u>を{2}つ解除し、敵全体に羅刹の攻撃力<span style=\"color: #f29e38ff\">{1}</span>分の虚数属性ダメージを与える。羅刹は「白花の刻」を1層獲得する。",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "生命の輪廻",
+      "desc": "「白花の刻」が{1}層に達した時、羅刹が「白花の刻」をすべて消費し、結界を張る。\\n結界内の任意の敵が攻撃を受けた後、攻撃を行った味方は羅刹の攻撃力<span style=\"color: #f29e38ff\">{2}</span>+<span style=\"color: #f29e38ff\">{4}</span>のHPを回復する。\\n結界は{3}ターン継続する。羅刹が戦闘不能状態になった時、結界は解除される。",
+      "values": [
+        [
+          2
+        ],
+        [
+          12,
+          12.7,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18,
+          18.6,
+          19.2,
+          19.8,
+          20.4,
+          21
+        ],
+        [
+          2
+        ],
+        [
+          60,
+          96,
+          123,
+          150,
+          168,
+          186,
+          200,
+          213,
+          227,
+          240,
+          254,
+          267,
+          281,
+          294,
+          308
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "攻撃",
+      "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "愚者の悲哀",
+      "desc": "秘技を使用した後、次の戦闘開始時、天賦を触発する。",
+      "values": [],
+      "format": []
     }
   },
   "jing-yuan": {
@@ -3431,8 +3580,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1204_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "摂召威霊",
@@ -3602,8 +3750,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1206_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "雲騎剣経・叩陣",
@@ -3769,8 +3916,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1207_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "風追う雲鳶",
@@ -3994,8 +4140,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1209_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "御剣真訣",
@@ -4227,8 +4372,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1211_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "恙病を払拭せし、徜徉する霊澤",
@@ -4398,8 +4542,7 @@
       "name": "攻撃",
       "desc": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_8003_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "守護者命令",

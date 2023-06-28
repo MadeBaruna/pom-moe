@@ -4,167 +4,207 @@
     "name": "三月七",
     "path": "preservation",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "一度沉睡于恒冰，对过去一无所知的少女。\\n为了寻找身世的真相，选择与星穹列车同行。\\n目前为自己准备了约六十七种「身世故事」。"
   },
   "dan-heng": {
     "id": "dan-heng",
     "name": "丹恒",
     "path": "the-hunt",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "对自己的过去讳莫如深，清冷寡言的青年。\\n为了躲避血裔同族，选择与星穹列车同行。"
   },
   "himeko": {
     "id": "himeko",
     "name": "姬子",
     "path": "erudition",
     "element": "fire",
-    "rarity": 5
+    "rarity": 5,
+    "background": "星穹列车的修复者。\\n为了见证广阔的星空，选择与星穹列车同行。\\n爱好是制作手调咖啡。"
   },
   "welt": {
     "id": "welt",
     "name": "瓦尔特",
     "path": "nihility",
     "element": "imaginary",
-    "rarity": 5
+    "rarity": 5,
+    "background": "老成持重的列车组前辈。\\n享受着久违的冒险奇遇，心底埋藏的热血再度燃烧。\\n偶尔还会将经历的冒险旅程画在本子里。"
   },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "银狼",
     "path": "nihility",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "「星核猎手」的成员，骇客高手。\\n将宇宙视作大型沉浸式模拟游戏，玩乐其中。\\n掌握了能够修改现实数据的「以太编辑」。"
   },
   "arlan": {
     "id": "arlan",
     "name": "阿兰",
     "path": "destruction",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "空间站「黑塔」的防卫科负责人。\\n不善言辞，希望保护珍视研究的人们顺利完成他们的研究。"
   },
   "asta": {
     "id": "asta",
     "name": "艾丝妲",
     "path": "harmony",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "空间站「黑塔」的站长，出身名门的大小姐。\\n好奇心旺盛的天文研究者，擅长管理空间站各抒己见的科员。"
   },
   "herta": {
     "id": "herta",
     "name": "黑塔",
     "path": "erudition",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "「天才俱乐部」#83号会员，空间站的真正主人。\\n智慧过人却毫无同理心的大科学家。"
   },
   "bronya": {
     "id": "bronya",
     "name": "布洛妮娅",
     "path": "harmony",
     "element": "wind",
-    "rarity": 5
+    "rarity": 5,
+    "background": "贝洛伯格「大守护者」的继承人。\\n兼有公主的高傲和军人的坚贞。"
   },
   "seele": {
     "id": "seele",
     "name": "希儿",
     "path": "the-hunt",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "地底反抗组织「地火」的骨干，别号「蝴蝶」。\\n性格率真直爽，内心隐藏着细腻敏锐的一面。"
   },
   "serval": {
     "id": "serval",
     "name": "希露瓦",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "贝洛伯格的机械师，曾任筑城者技术部研究员。\\n身为杰帕德•朗道的姐姐，性格却与弟弟截然不同。\\n钟爱大寒潮前一种名为「摇滚」的古老音乐艺术。"
   },
   "gepard": {
     "id": "gepard",
     "name": "杰帕德",
     "path": "preservation",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "银鬃铁卫的戍卫官，贝洛伯格数一数二的战士。\\n表里如一，一丝不苟，从不懈怠。"
   },
   "natasha": {
     "id": "natasha",
     "name": "娜塔莎",
     "path": "abundance",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "贝洛伯格下层区的医生，也是孩子们的照料者。\\n性格温柔可亲、又藏着危险的一面。"
   },
   "pela": {
     "id": "pela",
     "name": "佩拉",
     "path": "nihility",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "银鬃铁卫的书记官。\\n性格认真，深受铁卫成员们敬畏。"
   },
   "clara": {
     "id": "clara",
     "name": "克拉拉",
     "path": "destruction",
     "element": "physical",
-    "rarity": 5
+    "rarity": 5,
+    "background": "与机械生活在一起的流浪少女。\\n内向、温柔，有一颗纯粹的心。\\n渴望下层区的大家都能成为彼此的「家人」。"
   },
   "sampo": {
     "id": "sampo",
     "name": "桑博",
     "path": "nihility",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "地表和地底之间来去自如的行商。\\n自来熟，热情幽默，习惯插科打诨。"
   },
   "hook": {
     "id": "hook",
     "name": "虎克",
     "path": "destruction",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "地底冒险团队「鼹鼠党」的老大（自封）。\\n热爱自由，将生活视为一场又一场冒险。"
   },
   "qingque": {
     "id": "qingque",
     "name": "青雀",
     "path": "erudition",
     "element": "quantum",
-    "rarity": 4
+    "rarity": 4,
+    "background": "仙舟「罗浮」太卜司的卜者，兼书库管理员。\\n因工作一再偷闲摸鱼，即将贬无可贬成为「掌门人」。"
   },
   "tingyun": {
     "id": "tingyun",
     "name": "停云",
     "path": "harmony",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "仙舟「罗浮」天舶司的接渡使。\\n随商团出使过众多世界，缔结贸易与盟谊。"
+  },
+  "luocha": {
+    "id": "luocha",
+    "name": "罗刹",
+    "path": "abundance",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "随身携带着棺椁，自天之外海而来的化外行商。\\n医术精湛。"
   },
   "jing-yuan": {
     "id": "jing-yuan",
     "name": "景元",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "仙舟联盟帝弓七天将之一，负责节制罗浮云骑军的「神策将军」。\\n师从前代「罗浮」剑首，但并不显名于武力。"
   },
   "sushang": {
     "id": "sushang",
     "name": "素裳",
     "path": "the-hunt",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "出生于仙舟「曜青」，前往「罗浮」云骑军接受历练的新兵。\\n身佩母亲赠予的家传剑器，憧憬着自己即将书写的未来。"
+  },
+  "yukong": {
+    "id": "yukong",
+    "name": "驭空",
+    "path": "harmony",
+    "element": "imaginary",
+    "rarity": 4,
+    "background": "仙舟「罗浮」天舶司的首领，久历战阵的飞行士与射手。\\n而今却陷于繁冗公务，难以抽身。"
   },
   "yanqing": {
     "id": "yanqing",
     "name": "彦卿",
     "path": "the-hunt",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "将军景元的侍卫，不过总角之年的御剑天才。\\n手中握剑，即立于不败之地。"
   },
   "bailu": {
     "id": "bailu",
     "name": "白露",
     "path": "abundance",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "仙舟「罗浮」持明族的尊长，有「衔药龙女」之称的医士。\\n以独门医理和唯有龙脉方可施行的「医疗手段」救死扶伤。"
   },
   "trailblazer": {
     "id": "trailblazer",
     "name": "开拓者",
     "path": "adaptive",
     "element": "adaptive",
-    "rarity": 5
+    "rarity": 5,
+    "background": "登上星穹列车的少女/少年。\\n为了消除星核带来的危机，选择与星穹列车同行。"
   }
 }

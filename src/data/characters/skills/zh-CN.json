@@ -162,8 +162,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1001_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "冻人的瞬间",
@@ -323,8 +322,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1002_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "破敌锋芒",
@@ -472,8 +470,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1003_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "不完全燃烧",
@@ -655,8 +652,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1004_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "画地为牢",
@@ -940,8 +936,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1006_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "|强制结束进程|",
@@ -1081,8 +1076,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1008_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "极速收割",
@@ -1212,8 +1206,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1009_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "灵光一现",
@@ -1343,8 +1336,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1013_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "可以优化一下",
@@ -1518,8 +1510,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1101_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "在旗帜下",
@@ -1653,8 +1644,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1102_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "幻身",
@@ -1820,8 +1810,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1103_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "晚安，贝洛伯格",
@@ -1999,8 +1988,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1104_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "有情之证",
@@ -2206,8 +2194,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1105_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "催眠研习",
@@ -2367,8 +2354,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1106_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "先发制人",
@@ -2554,8 +2540,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1107_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "胜利的小小代价",
@@ -2719,8 +2704,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1108_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "你最闪亮",
@@ -2876,8 +2860,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1109_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "哎！瞧这一团糟",
@@ -3085,8 +3068,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1201_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "独弈之乐",
@@ -3284,8 +3266,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1202_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "惠风和畅",
@@ -3298,6 +3279,174 @@
       "format": [
         "[i]"
       ]
+    }
+  },
+  "luocha": {
+    "attack": {
+      "name": "黑渊的棘刺",
+      "desc": "对指定敌方单体造成等同于罗刹<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害。",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "白花的祈望",
+      "desc": "施放战技后立即为指定我方单体回复等同于罗刹<span style=\"color: #f29e38ff\">{1}</span>攻击力+<span style=\"color: #f29e38ff\">{2}</span>的生命值，并使罗刹获得1层【白花之刻】。\\n当我方任意单体当前生命值百分比小于等于{3}时，罗刹会立即对其触发1次等同于战技的效果，此次触发不消耗战技点。该效果在{4}回合后可再次触发。",
+      "values": [
+        [
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60,
+          62,
+          64,
+          66,
+          68,
+          70
+        ],
+        [
+          200,
+          320,
+          410,
+          500,
+          560,
+          620,
+          665,
+          710,
+          755,
+          800,
+          845,
+          890,
+          935,
+          980,
+          1025
+        ],
+        [
+          50
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "归葬的遂愿",
+      "desc": "解除敌方全体{2}个<u>增益效果</u>，并对敌方全体造成等同于罗刹<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害，同时使罗刹获得1层【白花之刻】。",
+      "values": [
+        [
+          120,
+          128,
+          136,
+          144,
+          152,
+          160,
+          170,
+          180,
+          190,
+          200,
+          208,
+          216,
+          224,
+          232,
+          240
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "生息的轮转",
+      "desc": "当【白花之刻】达到{1}层时，罗刹会消耗全部【白花之刻】展开结界。\\n处于结界中的任意敌方目标受到攻击后，施放攻击的我方目标立即回复等同于罗刹<span style=\"color: #f29e38ff\">{2}</span>攻击力+<span style=\"color: #f29e38ff\">{4}</span>的生命值。\\n结界效果持续{3}回合。当罗刹陷入无法战斗状态时，结界也会被解除。",
+      "values": [
+        [
+          2
+        ],
+        [
+          12,
+          12.7,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18,
+          18.6,
+          19.2,
+          19.8,
+          20.4,
+          21
+        ],
+        [
+          2
+        ],
+        [
+          60,
+          96,
+          123,
+          150,
+          168,
+          186,
+          200,
+          213,
+          227,
+          240,
+          254,
+          267,
+          281,
+          294,
+          308
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "愚者的悲悯",
+      "desc": "使用秘技后，下一次战斗开始时立即触发天赋。",
+      "values": [],
+      "format": []
     }
   },
   "jing-yuan": {
@@ -3431,8 +3580,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1204_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "摄召威灵",
@@ -3602,8 +3750,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1206_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "云骑剑经 • 叩阵",
@@ -3769,8 +3916,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1207_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "云鸢逐风",
@@ -3994,8 +4140,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1209_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "御剑真诀",
@@ -4227,8 +4372,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_1211_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "徜徉灵泽病恙短",
@@ -4398,8 +4542,7 @@
       "name": "攻击",
       "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
-      "format": [],
-      "icon": "SkillIcon_8003_Normal.png"
+      "format": []
     },
     "technique": {
       "name": "守护者召令",

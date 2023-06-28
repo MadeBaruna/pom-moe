@@ -4,167 +4,207 @@
     "name": "Siete de Marzo",
     "path": "preservation",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Una muchacha que dormía en el hielo sin fin y que no sabe nada sobre su pasado.\\nDecidió viajar con el Expreso Astral para descubrir la verdad sobre sus orígenes.\\nPor el momento ha preparado para sí misma <unbreak>67</unbreak> versiones distintas de la historia de su vida."
   },
   "dan-heng": {
     "id": "dan-heng",
     "name": "Dan Heng",
     "path": "the-hunt",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Un joven distante y reservado que guarda un secreto sobre su pasado.\\nDecidió viajar con el Expreso Astral para escapar de los de su raza."
   },
   "himeko": {
     "id": "himeko",
     "name": "Himeko",
     "path": "erudition",
     "element": "fire",
-    "rarity": 5
+    "rarity": 5,
+    "background": "La restauradora del Expreso Astral.\\nDecidió viajar con el Expreso Astral para contemplar el vasto cielo estrellado.\\nEs aficionada a preparar café artesanal."
   },
   "welt": {
     "id": "welt",
     "name": "Welt",
     "path": "nihility",
     "element": "imaginary",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Un miembro veterano de la tripulación.\\nLa sangre apasionada de su corazón bulle esperando otra larga aventura.\\nA veces dibuja sus vivencias en un cuaderno."
   },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Silver Wolf",
     "path": "nihility",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Miembro de los Cazadores de Estelaron y hacker experta.\\nPara ella, el universo no es más que un juego de simulación con el que entretenerse.\\nDomina la habilidad de la \"edición de éter\", con la que se pueden modificar los datos de la realidad."
   },
   "arlan": {
     "id": "arlan",
     "name": "Arlan",
     "path": "destruction",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Responsable del Departamento de Seguridad de la Estación Espacial Herta.\\nUn joven no muy elocuente que protege a los investigadores para que puedan completar su trabajo."
   },
   "asta": {
     "id": "asta",
     "name": "Asta",
     "path": "harmony",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Investigadora jefa de la Estación Espacial Herta. Una joven aristocrática procedente de una familia muy conocida.\\nUna astrónoma que siente curiosidad por todo y es experta a la hora de gestionar los diversos empleados de la Estación Espacial."
   },
   "herta": {
     "id": "herta",
     "name": "Herta",
     "path": "erudition",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Miembro n.º <unbreak>83</unbreak> del Círculo de Genios y verdadera dueña de la Estación Espacial.\\nUna científica extremadamente inteligente y absolutamente carente de empatía."
   },
   "bronya": {
     "id": "bronya",
     "name": "Bronya",
     "path": "harmony",
     "element": "wind",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Heredera de la Guardiana Suprema de Belobog.\\nEs orgullosa como una princesa, pero también íntegra y leal como un soldado."
   },
   "seele": {
     "id": "seele",
     "name": "Seele",
     "path": "the-hunt",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Miembro importante de Llamarada, la organización de resistencia del Bajomundo. Su nombre en clave es Babochka.\\nEs muy franca y directa, pero también esconde un lado delicado en su interior."
   },
   "serval": {
     "id": "serval",
     "name": "Serval",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Mecánica de Belobog. Antes era investigadora de la División de Tecnología de los Arquitectos.\\nEs la hermana mayor de Gepard Landau y sus personalidades no pueden ser más distintas.\\nLe encanta un antiguo género de música, de antes del Hielo Eterno, conocido como \"rock\"."
   },
   "gepard": {
     "id": "gepard",
     "name": "Gepard",
     "path": "preservation",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Capitán de la Guardia Crinargenta y guerrero notorio de Belobog.\\nEs tal y como aparenta ser, muy meticuloso y dedicado."
   },
   "natasha": {
     "id": "natasha",
     "name": "Natasha",
     "path": "abundance",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Doctora del Bajomundo y cuidadora de niños.\\nTiene un carácter dulce y amable, pero oculta un lado peligroso."
   },
   "pela": {
     "id": "pela",
     "name": "Pela",
     "path": "nihility",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Empleada administrativa de la Guardia Crinargenta.\\nEs muy seria y los demás Guardias Crinargenta la adoran."
   },
   "clara": {
     "id": "clara",
     "name": "Clara",
     "path": "destruction",
     "element": "physical",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Niña vagabunda que vive con robots.\\nEs introvertida y gentil y tiene un corazón puro.\\nDesea que todos los habitantes del Bajomundo sean una gran familia."
   },
   "sampo": {
     "id": "sampo",
     "name": "Sampo",
     "path": "nihility",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Hombre de negocios que viaja entre la superficie y el subsuelo.\\nEs cercano con todo el mundo, tiene un gran sentido del humor y le gusta bromear."
   },
   "hook": {
     "id": "hook",
     "name": "Hook",
     "path": "destruction",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Jefa autoproclamada del grupo de aventura del Bajomundo llamado Los Topos.\\nAma la libertad y cree que la vida es una sucesión de aventuras."
   },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
     "path": "erudition",
     "element": "quantum",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Adivina de la Comisión de Adivinación del Luofu de Xianzhou y administradora de la biblioteca.\\nComo siempre holgazanea en el trabajo, está a punto de ser degradada a un puesto inferior."
   },
   "tingyun": {
     "id": "tingyun",
     "name": "Tingyun",
     "path": "harmony",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Aeroembajadora de la Comisión del Transporte Celeste del Luofu de Xianzhou.\\nViaja con delegados empresariales y crea relaciones comerciales y alianzas con muchos mundos."
+  },
+  "luocha": {
+    "id": "luocha",
+    "name": "Luocha",
+    "path": "abundance",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Comerciante extranjero que vino de otra galaxia y que siempre lleva consigo un ataúd.\\nPosee unos conocimientos médicos excelentes."
   },
   "jing-yuan": {
     "id": "jing-yuan",
     "name": "Jing Yuan",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "La Premonición Divina, uno de los siete generales celestiales del Señor Arquero de la Alianza Xianzhou. Está al mando de los Nimbocaballeros del Luofu.\\nEs discípulo de la anterior maestra de espadas del Luofu, pero no es conocido por sus habilidades marciales."
   },
   "sushang": {
     "id": "sushang",
     "name": "Sushang",
     "path": "the-hunt",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Nació en el Yaoqing de Xianzhou y la enviaron a los Nimbocaballeros del Luofu para recibir entrenamiento militar.\\nBlande la espada de su familia, un regalo de su madre, y ansía el futuro que ella misma ha escrito."
+  },
+  "yukong": {
+    "id": "yukong",
+    "name": "Yukong",
+    "path": "harmony",
+    "element": "imaginary",
+    "rarity": 4,
+    "background": "Responsable de la Comisión del Transporte Celeste del Luofu de Xianzhou. Yukong era una piloto y arquera con mucha experiencia.\\nDesde que está a cargo de la Comisión, se pasa el día lidiando con toda clase de papeleo."
   },
   "yanqing": {
     "id": "yanqing",
     "name": "Yanqing",
     "path": "the-hunt",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Guardaespaldas del general Jing Yuan. A pesar de su corta edad, es un espadachín sin rival.\\nNadie puede vencerle cuando tiene una espada en la mano."
   },
   "bailu": {
     "id": "bailu",
     "name": "Bailu",
     "path": "abundance",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Gran Maestre de los vidyadhara, también conocida como Dama Sanadora en el Luofu de Xianzhou.\\nUtiliza sus conocimientos médicos únicos y los tratamientos que solo puede proporcionar la raza dracónica de los vidyadhara para salvar vidas."
   },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trazacaminos",
     "path": "adaptive",
     "element": "adaptive",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Una/Un joven que embarcó en el Expreso Astral.\\nDecidió viajar con el Expreso Astral para eliminar las amenazas provocadas por el Estelaron."
   }
 }

@@ -4,167 +4,207 @@
     "name": "三月なのか",
     "path": "preservation",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "かつて恒氷の中で眠っていた少女。すべての記憶を失っている。\\n本当の自分を見つけるために、列車に乗って旅をすることを決めた。\\n約<unbreak>67</unbreak>種の「身の上話」を用意しているらしい。"
   },
   "dan-heng": {
     "id": "dan-heng",
     "name": "丹恒",
     "path": "the-hunt",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "自分の過去をひた隠しにしている、凛とした無口な青年。\\n同族を避けるため、星穹列車に同行することを決めた。"
   },
   "himeko": {
     "id": "himeko",
     "name": "姫子",
     "path": "erudition",
     "element": "fire",
-    "rarity": 5
+    "rarity": 5,
+    "background": "星穹列車の修復者。\\n広い星空を見るため、星穹列車に乗ることを決めた。\\n趣味は自分で豆を挽いてコーヒーを淹れること。"
   },
   "welt": {
     "id": "welt",
     "name": "ヴェルト",
     "path": "nihility",
     "element": "imaginary",
-    "rarity": 5
+    "rarity": 5,
+    "background": "経験豊富で頼れる列車組の先輩。\\n久しぶりの冒険を楽しんでいるうちに、心の中の情熱が再燃した。\\nたまに冒険で経験したことを絵にしてノートにまとめている。"
   },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "銀狼",
     "path": "nihility",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "「星核ハンター」のメンバーで、凄腕のハッカー。\\n宇宙を大きなシミュレーションゲームと見なして楽しんでいる。\\nリアルデータを修正できる「エーテル編集」を習得している。"
   },
   "arlan": {
     "id": "arlan",
     "name": "アーラン",
     "path": "destruction",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "宇宙ステーション「ヘルタ」の防衛課責任者。\\n口下手だが、研究を大切にしているスタッフたちがそれぞれの研究を成し遂げられるよう、彼らを命懸けで守ろうとしている。"
   },
   "asta": {
     "id": "asta",
     "name": "アスター",
     "path": "harmony",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "宇宙ステーション「ヘルタ」の所長を務める、名門出身のお嬢様。\\n好奇心旺盛な天文学者で、癖のある宇宙ステーションのスタッフたちをまとめるのが得意。"
   },
   "herta": {
     "id": "herta",
     "name": "ヘルタ",
     "path": "erudition",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "「天才クラブ」#83、宇宙ステーションの真の主。\\n人に勝る知恵を持つが、まったく共感力がない大科学者。"
   },
   "bronya": {
     "id": "bronya",
     "name": "ブローニャ",
     "path": "harmony",
     "element": "wind",
-    "rarity": 5
+    "rarity": 5,
+    "background": "ベロブルグの「大守護者」の継承者。\\n姫としての高貴さと、軍人としての堅実さを兼ね備えている。"
   },
   "seele": {
     "id": "seele",
     "name": "ゼーレ",
     "path": "the-hunt",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "地下反抗組織「地炎」の中堅、通称「バーブチカ」。\\nさっぱりした性格だが、繊細で敏感な一面もある。"
   },
   "serval": {
     "id": "serval",
     "name": "セーバル",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "ベロブルグの機械工、前職は建創者の技術部門の研究員。\\nジェパード・ランドゥーの姉だが、弟とはまったく異なる性格をしている。\\n大寒波が訪れる前に存在した「ロック」という古典音楽を熱愛している。"
   },
   "gepard": {
     "id": "gepard",
     "name": "ジェパード",
     "path": "preservation",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "シルバーメインの戍衛官、ベロブルグで指折りの戦士。\\n裏表がなく、几帳面で、仕事を怠けたことがない。"
   },
   "natasha": {
     "id": "natasha",
     "name": "ナターシャ",
     "path": "abundance",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "べロブルグ下層部の医者、子供たちの面倒を見ている。\\n穏やかで親しみやすい性格だが、怖い一面もある。"
   },
   "pela": {
     "id": "pela",
     "name": "ペラ",
     "path": "nihility",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "シルバーメインの情報官。\\n真面目な性格で、シルバーメインのメンバーたちから尊敬されている。"
   },
   "clara": {
     "id": "clara",
     "name": "クラーラ",
     "path": "destruction",
     "element": "physical",
-    "rarity": 5
+    "rarity": 5,
+    "background": "機械と一緒に暮らしている流浪の少女。\\n内向的で優しく、純粋な心を持っている。\\n下層部の人々が互いの「家族」になることを願っている。"
   },
   "sampo": {
     "id": "sampo",
     "name": "サンポ",
     "path": "nihility",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "地上と地下を行き来する商人。\\n馴れ馴れしく、情熱的でユーモアがあり、いつも道化を演じている。"
   },
   "hook": {
     "id": "hook",
     "name": "フック",
     "path": "destruction",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "地下冒険団「モグラ党」の親分（自称）。\\n自由を愛する彼女は、日々の生活を冒険の一幕だと考えている。"
   },
   "qingque": {
     "id": "qingque",
     "name": "青雀",
     "path": "erudition",
     "element": "quantum",
-    "rarity": 4
+    "rarity": 4,
+    "background": "仙舟「羅浮」の太卜司の卜者、兼書庫の管理員。\\n普段から仕事をサボっているため、これ以上降格の余地がなく、じきに「門番」になる予定。"
   },
   "tingyun": {
     "id": "tingyun",
     "name": "停雲",
     "path": "harmony",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "仙舟「羅浮」の天舶司の接渡使。\\n商団と共に多くの世界に足を運び、貿易関係や同盟を結んでいる。"
+  },
+  "luocha": {
+    "id": "luocha",
+    "name": "羅刹",
+    "path": "abundance",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "棺を肌身離さず持ち歩いている、空の彼方からやってきた殊俗の行商人。\\n優れた医療技術を持つ。"
   },
   "jing-yuan": {
     "id": "jing-yuan",
     "name": "景元",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "仙舟同盟帝弓七天将の1人。仙舟「羅浮」の雲騎軍を率いる「神策将軍」。\\n先代の「羅浮」剣首に師事していたが、武力で名をはせてはいない。"
   },
   "sushang": {
     "id": "sushang",
     "name": "素裳",
     "path": "the-hunt",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "仙舟「曜青」で生まれ、「羅浮」の雲騎軍で訓練を受けている新兵。\\n彼女は母から贈られた家伝の剣を手に、これから訪れる未来に期待を膨らませている。"
+  },
+  "yukong": {
+    "id": "yukong",
+    "name": "御空",
+    "path": "harmony",
+    "element": "imaginary",
+    "rarity": 4,
+    "background": "仙舟「羅浮」の天舶司のリーダー。百戦錬磨の飛行士で弓の使い手。\\nだが今は膨大な公務に追われ、忙しくしている。"
   },
   "yanqing": {
     "id": "yanqing",
     "name": "彦卿",
     "path": "the-hunt",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "将軍景元の護衛であり、まだ総角の歳に過ぎない剣の天才。\\n剣を手にすれば無敵である。"
   },
   "bailu": {
     "id": "bailu",
     "name": "白露",
     "path": "abundance",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "仙舟「羅浮」の持明族の尊長、「啣薬の龍女」と称される医士。\\n彼女は独自の医療知識と、龍脈を持つ者にしか行えない「医療手段」で人々の傷や病を治している。"
   },
   "trailblazer": {
     "id": "trailblazer",
     "name": "開拓者",
     "path": "adaptive",
     "element": "adaptive",
-    "rarity": 5
+    "rarity": 5,
+    "background": "星穹列車に乗車した少女/少年。\\n星核がもたらす危機を回避するため、星穹列車に同行することを選択した。"
   }
 }

@@ -4,167 +4,207 @@
     "name": "7. März",
     "path": "preservation",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Ein Mädchen, das einst im ewigen Eis schlief und nichts über ihre Vergangenheit weiß.\\nSie hat sich dem Astralexpress angeschlossen, um ihrer Herkunft auf den Grund zu gehen.\\nBisher hat sie sich ca. <unbreak>67</unbreak> verschiedene Versionen ihrer Lebensgeschichte ausgemalt."
   },
   "dan-heng": {
     "id": "dan-heng",
     "name": "Dan Heng",
     "path": "the-hunt",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Ein kalter, zugeknöpfter junger Mann, der eisern schweigt, wenn es um seine Vergangenheit geht.\\nEr hat sich dem Astralexpress angeschlossen, um Abstand von seiner Familie zu gewinnen."
   },
   "himeko": {
     "id": "himeko",
     "name": "Himeko",
     "path": "erudition",
     "element": "fire",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Die Frau, die den Astralexpress repariert hat.\\nSie stieg an Bord, um den weiten Sternenhimmel zu erkunden.\\nIhr Hobby ist es, Kaffee zu kochen, und zwar von Hand."
   },
   "welt": {
     "id": "welt",
     "name": "Welt",
     "path": "nihility",
     "element": "imaginary",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Ein führendes Besatzungsmitglied.\\nEr sehnt sich aus ganzem Herzen nach einem neuen langen und schönen Abenteuer.\\nHin und wieder hält er seine Erlebnisse als Zeichnungen in seinem Skizzenbuch fest."
   },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Silberwolf",
     "path": "nihility",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Diese geniale Hackerin ist Mitglied der Stellaron-Jäger.\\nSie betrachtet das Universum als eine große, immersive Simulation, mit der sie spielt.\\nSie hat die Kunst der sogenannten Ätherbearbeitung gemeistert, die es ihr ermöglicht, die Daten der Realität zu manipulieren."
   },
   "arlan": {
     "id": "arlan",
     "name": "Arlan",
     "path": "destruction",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Der Sicherheitschef der Herta-Raumstation.\\nDieser Bursche ist zwar nicht gerade wortgewandt, würde aber sein Leben riskieren, um die Forscher bei ihrer Arbeit zu beschützen."
   },
   "asta": {
     "id": "asta",
     "name": "Asta",
     "path": "harmony",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Die Forschungsleiterin der Herta-Raumstation und eine Dame aus einer angesehenen Familie.\\nDie wissbegierige Astronomin hält mit viel Geschick die grundverschiedenen Mitarbeiter der Raumstation auf Kurs."
   },
   "herta": {
     "id": "herta",
     "name": "Herta",
     "path": "erudition",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Mitglied Nr. <unbreak>83</unbreak> der Geniusgesellschaft und die wahre Herrin der Raumstation.\\nEine Wissenschaftlerin, die trotz ihrer überragenden Intelligenz wenig Mitgefühl für andere aufbringt."
   },
   "bronya": {
     "id": "bronya",
     "name": "Bronya",
     "path": "harmony",
     "element": "wind",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Die mutmaßliche Nachfolgerin der Obersten Wächterin von Belobog.\\nIhr Stolz ist einer Prinzessin würdig, doch sie besitzt darüber hinaus die Entschlossenheit und Integrität einer Soldatin."
   },
   "seele": {
     "id": "seele",
     "name": "Seele",
     "path": "the-hunt",
     "element": "quantum",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Diese Bewohnerin der Unterwelt ist das Herz des Wildfeuers und auch unter dem Namen „Babochka“ bekannt.\\nSie tritt ziemlich barsch auf, doch tief unter der harten Schale verbirgt sich ein mitfühlender weicher Kern."
   },
   "serval": {
     "id": "serval",
     "name": "Serval",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Eine Belobog-Mechanikerin, die früher als Forscherin für die Technologieabteilung der Architekten tätig war.\\nGepard Landau und seine ältere Schwester könnten unterschiedlicher nicht sein.\\nSie ist ein Fan einer uralten Musikrichtung namens „Rock ’n’ Roll“, die vor dem Ewigen Frost populär war."
   },
   "gepard": {
     "id": "gepard",
     "name": "Gepard",
     "path": "preservation",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Ein Hauptmann der Silbermähnen-Wachen und ein herausragender Krieger aus Belobog.\\nEr ist ein durch und durch penibler und wachsamer Typ, der sich stets selbst treu bleibt."
   },
   "natasha": {
     "id": "natasha",
     "name": "Natasha",
     "path": "abundance",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Eine Ärztin und Kinderpflegerin aus der Unterwelt.\\nHinter ihrer gütigen und hingebungsvollen Art verbirgt sich eine gefährliche Seite."
   },
   "pela": {
     "id": "pela",
     "name": "Pela",
     "path": "nihility",
     "element": "ice",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Eine Verwaltungsoffizierin der Silbermähnen-Wachen.\\nSie hat eine strenge Art und genießt ein hohes Ansehen bei den anderen Silbermähnen."
   },
   "clara": {
     "id": "clara",
     "name": "Clara",
     "path": "destruction",
     "element": "physical",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Eine Herumtreiberin, die mit Robotern zusammenlebt.\\nEin introvertiertes, sanftes Mädchen mit einem reinen Herzen.\\nWenn es nach ihr geht, gehören alle Unterweltler zu einer Familie."
   },
   "sampo": {
     "id": "sampo",
     "name": "Sampo",
     "path": "nihility",
     "element": "wind",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Ein Händler, der sich nach Belieben zwischen der Oberfläche und dem Untergrund bewegt.\\nEr ist ein aufgeschlossener Typ, der gerne lacht und immer einen flotten Spruch parat hat."
   },
   "hook": {
     "id": "hook",
     "name": "Hook",
     "path": "destruction",
     "element": "fire",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Der (selbst ernannte) Boss der „Maulwürfe“, eines Abenteuertrupps aus dem Untergrund.\\nSie liebt ihre Freiheit und betrachtet das Leben als eine Reihe von Abenteuern."
   },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
     "path": "erudition",
     "element": "quantum",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Wahrsagerin der Wahrsagekommission an der Xianzhou Luofu, Bibliothekarin.\\nSchwänzt ständig und ist dabei, die Arbeit als „Türwächterin“ zu übernehmen."
   },
   "tingyun": {
     "id": "tingyun",
     "name": "Tingyun",
     "path": "harmony",
     "element": "lightning",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Eine Botschafterin der Himmelreisekommission der Xianzhou Luofu.\\nSie ist in Begleitung einer geschäftlichen Delegation unterwegs, um Handelsbeziehungen und Allianzen mit zahlreichen Welten zu schmieden."
+  },
+  "luocha": {
+    "id": "luocha",
+    "name": "Luocha",
+    "path": "abundance",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Dieser Händler aus Übersee trägt stets einen Sarg mit sich herum.\\nSeine medizinischen Kenntnisse sind hervorragend."
   },
   "jing-yuan": {
     "id": "jing-yuan",
     "name": "Jing Yuan",
     "path": "erudition",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Der General der göttlichen Vorsehung, einer der sieben himmlischen Generäle des Herrscherbogens der Xianzhou-Allianz, führt die Wolkenritter der Luofu.\\nEr ist zwar ein Schüler des früheren Luofu-Schwertmeisters, aber nicht unbedingt für seine Kampffähigkeiten bekannt."
   },
   "sushang": {
     "id": "sushang",
     "name": "Sushang",
     "path": "the-hunt",
     "element": "physical",
-    "rarity": 4
+    "rarity": 4,
+    "background": "Kam auf der Xianzhou Yaoqing zur Welt und wurde zur militärischen Ausbildung zu den Wolkenrittern der Luofu geschickt.\\nSie führt das Schwert ihrer Familie, das ihre Mutter ihr schenkte, und sehnt sich danach, der Zukunft ihren Stempel aufzudrücken."
+  },
+  "yukong": {
+    "id": "yukong",
+    "name": "Yukong",
+    "path": "harmony",
+    "element": "imaginary",
+    "rarity": 4,
+    "background": "Leiterin der Himmelreisekommission auf der Xianzhou Luofu. Yukong war eine erfahrene Pilotin und zielsichere Schützin.\\nSeit sie der Kommission vorsteht, kämpft sie hauptsächlich gegen Berge an Papierkram."
   },
   "yanqing": {
     "id": "yanqing",
     "name": "Yanqing",
     "path": "the-hunt",
     "element": "ice",
-    "rarity": 5
+    "rarity": 5,
+    "background": "General Jing Yuans Dienstmann. Ein begabter Schwertkämpfer, der noch nicht einmal volljährig ist.\\nWenn Yanqing ein Schwert in der Hand hat, ist er unbezwingbar."
   },
   "bailu": {
     "id": "bailu",
     "name": "Bailu",
     "path": "abundance",
     "element": "lightning",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Die Hohe Älteste des Vidyadhara wird auf der Xianzhou Luofu auch „Heilerin“ genannt.\\nMit ihrer einzigartigen Heilkunst und Behandlungsmethoden, die nur von den Vidyadhara-Drachen eingesetzt werden können, rettet sie Leben."
   },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",
     "path": "adaptive",
     "element": "adaptive",
-    "rarity": 5
+    "rarity": 5,
+    "background": "Ein Mädchen/Junge an Bord des Astralexpresses.\\nHat beschlossen, mit dem Astralexpress zu reisen, um den Gefahren des Stellarons zu entrinnen."
   }
 }
