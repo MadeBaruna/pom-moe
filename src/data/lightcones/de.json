@@ -377,6 +377,12 @@
     "path": "preservation",
     "rarity": 5
   },
+  "patience-is-all-you-need": {
+    "id": "patience-is-all-you-need",
+    "name": "Nur Geduld",
+    "path": "nihility",
+    "rarity": 5
+  },
   "incessant-rain": {
     "id": "incessant-rain",
     "name": "Unaufhörlicher Regen",
@@ -387,6 +393,12 @@
     "id": "echoes-of-the-coffin",
     "name": "Echos des Sarges",
     "path": "abundance",
+    "rarity": 5
+  },
+  "the-unreachable-side": {
+    "id": "the-unreachable-side",
+    "name": "Unerreichbares Jenseits",
+    "path": "destruction",
     "rarity": 5
   },
   "before-dawn": {

@@ -377,6 +377,12 @@
     "path": "preservation",
     "rarity": 5
   },
+  "patience-is-all-you-need": {
+    "id": "patience-is-all-you-need",
+    "name": "Chỉ Cần Chờ Đợi",
+    "path": "nihility",
+    "rarity": 5
+  },
   "incessant-rain": {
     "id": "incessant-rain",
     "name": "Cơn Mưa Tầm Tã",
@@ -387,6 +393,12 @@
     "id": "echoes-of-the-coffin",
     "name": "Tiếng Vọng Của Quan Tài",
     "path": "abundance",
+    "rarity": 5
+  },
+  "the-unreachable-side": {
+    "id": "the-unreachable-side",
+    "name": "Bến Bờ Xa Diệu Vợi",
+    "path": "destruction",
     "rarity": 5
   },
   "before-dawn": {

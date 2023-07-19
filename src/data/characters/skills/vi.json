@@ -3595,6 +3595,320 @@
       ]
     }
   },
+  "blade": {
+    "attack": {
+      "name": "Kiếm Vỡ Nát",
+      "desc": "Gây Sát Thương Phong cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Blade.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Địa Ngục Biến",
+      "desc": "Tiêu hao HP bằng {1} Giới Hạn HP của Blade, vào trạng thái Địa Ngục Biến.\\nKhi ở trạng thái Địa Ngục Biến không thể thi triển Chiến Kỹ, đồng thời khiến sát thương do bản thân gây ra tăng <span style=\"color: #f29e38ff\">{4}</span>, Tấn Công Thường \"Kiếm Vỡ Nát\" cường hóa thành \"Rừng Kiếm\", duy trì {2} hiệp.\\nNếu HP hiện tại không đủ, khi thi triển Chiến Kỹ, HP hiện tại của Blade sẽ giảm còn 1 điểm.\\nChiến Kỹ này không thể hồi năng lượng. Sau khi thi triển Chiến Kỹ này, hiệp này sẽ không kết thúc.",
+      "values": [
+        [
+          30
+        ],
+        [
+          3
+        ],
+        [
+          1
+        ],
+        [
+          12,
+          15,
+          18,
+          20,
+          23,
+          26,
+          29,
+          33,
+          36,
+          40,
+          43,
+          46,
+          48,
+          51,
+          54
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Đáng Chết Vạn Lần",
+      "desc": "Chuyển hóa HP hiện tại của Blade thành 50% Giới Hạn HP, đồng thời gây cho 1 kẻ địch Sát Thương Phong bằng tổng của <span style=\"color: #f29e38ff\">{1}</span> Tấn Công +<span style=\"color: #f29e38ff\">{2}</span> Giới Hạn HP +<span style=\"color: #f29e38ff\">{5}</span> HP đã mất tích lũy trong trận này của Blade, đồng thời gây cho mục tiêu lân cận Sát Thương Phong bằng tổng của <span style=\"color: #f29e38ff\">{3}</span> Tấn Công +<span style=\"color: #f29e38ff\">{4}</span> Giới Hạn HP +<span style=\"color: #f29e38ff\">{6}</span> HP đã mất tích lũy trong trận này của Blade.\\nHP đã mất tích lũy trong trận này tối đa không vượt quá {7} Giới Hạn HP của Blade, sau khi thi triển Tuyệt Kỹ sẽ xóa và tích lũy lại.",
+      "values": [
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          9.6,
+          10.2,
+          10.9,
+          11.5,
+          12.2,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          16.6,
+          17.3,
+          17.9,
+          18.6,
+          19.2
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Quà Tặng Của Shuhu",
+      "desc": "Khi Blade chịu sát thương hoặc tiêu hao HP sẽ nhận 1 tầng nạp năng lượng, tối đa cộng dồn 5 tầng. Hiệu ứng này mỗi lần chịu tấn công tối đa cộng dồn 1 tầng.\\nKhi nạp năng lượng cộng dồn đến mức tối đa, lập tức thi triển lên toàn thể phe địch 1 <u>Đòn Đánh Theo Sau</u>, gây Sát Thương Phong bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công +<span style=\"color: #f29e38ff\">{4}</span> Giới Hạn HP của Blade và hồi HP bằng {3} Giới Hạn HP của Blade, sau khi thi triển Đòn Đánh Theo Sau sẽ tiêu hao tất cả nạp năng lượng.",
+      "values": [
+        [
+          3
+        ],
+        [
+          22,
+          24,
+          26,
+          29,
+          31,
+          33,
+          36,
+          39,
+          41,
+          44,
+          46,
+          48,
+          51,
+          53,
+          55
+        ],
+        [
+          25
+        ],
+        [
+          55,
+          61,
+          66,
+          72,
+          77,
+          83,
+          89,
+          96,
+          103,
+          110,
+          115,
+          121,
+          126,
+          132,
+          138
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Cơn Gió Nghiệp Chướng",
+      "desc": "Tấn công kẻ địch ngay lập tức, sau khi vào chiến đấu, tiêu hao HP bằng {2} Giới Hạn HP của Blade, đồng thời gây Sát Thương Phong cho toàn bộ kẻ địch bằng {1} Giới Hạn HP của Blade.\\nNếu HP hiện tại không đủ, khi thi triển Bí Kỹ, HP hiện tại của Blade sẽ giảm còn 1 điểm.",
+      "values": [
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Rừng Kiếm",
+      "desc": "Tiêu hao HP bằng {1} Giới Hạn HP của Blade, gây cho 1 kẻ địch chỉ định Sát Thương Phong bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công +<span style=\"color: #f29e38ff\">{4}</span> Giới Hạn HP của Blade, đồng thời gây cho mục tiêu lân cận Sát Thương Phong bằng <span style=\"color: #f29e38ff\">{3}</span> Tấn Công +<span style=\"color: #f29e38ff\">{5}</span> Giới Hạn HP của Blade.\\nNếu HP hiện tại không đủ, khi thi triển Rừng Kiếm, HP hiện tại của Blade sẽ giảm còn 1 điểm.\\nRừng Kiếm không thể hồi điểm Chiến Kỹ.",
+      "values": [
+        [
+          10
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ],
+        [
+          8,
+          10,
+          11,
+          13,
+          14,
+          16,
+          18,
+          19,
+          21
+        ],
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
   "sushang": {
     "attack": {
       "name": "Kiếm Thuật Vân Kỵ - Mây Thuần",

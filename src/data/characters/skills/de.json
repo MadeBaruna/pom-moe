@@ -364,7 +364,7 @@
     },
     "skill": {
       "name": "Geschmolzene Explosion",
-      "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des Himekos ANG zu und fügt den angrenzenden Zielen Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Himekos ANG zu.",
+      "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Himekos ANG zu und fügt den angrenzenden Zielen Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Himekos ANG zu.",
       "values": [
         [
           100,
@@ -686,7 +686,7 @@
   "silver-wolf": {
     "attack": {
       "name": "Systemwarnung",
-      "desc": "Fügt einem anvisierten Gegner Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Silberwolfs ANG zu.",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Silberwolfs ANG zu.",
       "values": [
         [
           50,
@@ -706,7 +706,7 @@
     },
     "skill": {
       "name": "Änderungen zulassen?",
-      "desc": "Es besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, einem anvisierten Gegner 1 Schwäche des Typs eines Verbündeten hinzuzufügen. Damit wird auch der SCH-WDS des Gegners gegenüber diesem Schwächetyp für {3} Rd. um {4} reduziert. Wenn der Gegner bereits eine Schwäche dieses Typs hat, wird der Effekt der SCH-WDS-Reduzierung für diesen Schwächetyp nicht ausgelöst.\\nJedem Gegner kann nur 1 Schwäche von Silberwolf hinzugefügt werden. Wenn Silberwolf dem Ziel eine weitere Schwäche hinzufügt, wird nur die letzte Schwäche beibehalten.\\nAußerdem gibt es eine <u>Grundchance</u> von {5}, den WDS aller Typen des Ziels zusätzlich um <span style=\"color: #f29e38ff\">{6}</span> für {7} Rd. zu reduzieren.\\nFügt diesem Gegner Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Silberwolfs ANG zu.",
+      "desc": "Es besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, einem anvisierten Gegner 1 Schwäche des Typs eines Verbündeten hinzuzufügen. Damit wird auch der SCH-WDS des Gegners gegenüber diesem Schwächetyp für {3} Rd. um {4} reduziert. Wenn der Gegner bereits eine Schwäche dieses Typs hat, wird der Effekt der SCH-WDS-Reduzierung für diesen Schwächetyp nicht ausgelöst.\\nJedem Gegner kann nur 1 Schwäche von Silberwolf hinzugefügt werden. Wenn Silberwolf dem Ziel eine weitere Schwäche hinzufügt, wird nur die letzte Schwäche beibehalten.\\nAußerdem gibt es eine <u>Grundchance</u> von {5}, den WDS aller Typen des Ziels zusätzlich um <span style=\"color: #f29e38ff\">{6}</span> für {7} Rd. zu reduzieren.\\nFügt diesem Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Silberwolfs ANG zu.",
       "values": [
         [
           98,
@@ -784,7 +784,7 @@
     },
     "ultimate": {
       "name": "Benutzer gebannt",
-      "desc": "Es besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, die VTD eines anvisierten Gegners für {4} Rd. um <span style=\"color: #f29e38ff\">{3}</span> zu reduzieren und dem Ziel Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Silberwolfs ANG zuzufügen.",
+      "desc": "Es besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, die VTD eines anvisierten Gegners für {4} Rd. um <span style=\"color: #f29e38ff\">{3}</span> zu reduzieren und dem Ziel Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Silberwolfs ANG zuzufügen.",
       "values": [
         [
           228,
@@ -940,7 +940,7 @@
     },
     "technique": {
       "name": "Programmschließung erzwingen",
-      "desc": "Greift Gegner unmittelbar an. Nach Kampfeintritt wird allen Gegnern Quantum-SCH in Höhe von {1} von Silberwolfs ANG zugefügt und ungeachtet des Schwächetyps wird WDS aller Gegner reduziert. Bei Gegnern, deren Schwäche auf diese Weise gebrochen wird, wird der Effekt von Quantum-Schwächebruch ausgelöst.",
+      "desc": "Greift Gegner unmittelbar an. Nach Kampfeintritt wird allen Gegnern Quanten-SCH in Höhe von {1} von Silberwolfs ANG zugefügt und ungeachtet des Schwächetyps wird WDS aller Gegner reduziert. Bei Gegnern, deren Schwäche auf diese Weise gebrochen wird, wird der Effekt von Quanten-Schwächebruch ausgelöst.",
       "values": [
         [
           80
@@ -1532,7 +1532,7 @@
   "seele": {
     "attack": {
       "name": "Prügel",
-      "desc": "Fügt einem anvisierten Gegner Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Seeles ANG zu.",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Seeles ANG zu.",
       "values": [
         [
           50,
@@ -1552,7 +1552,7 @@
     },
     "skill": {
       "name": "Ungezückte Klinge",
-      "desc": "Erhöht Seeles GES für {3} Rd. um {2} und fügt einem anvisierten Gegner Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> ihres ANG zu.",
+      "desc": "Erhöht Seeles GES für {3} Rd. um {2} und fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> ihres ANG zu.",
       "values": [
         [
           110,
@@ -1586,7 +1586,7 @@
     },
     "ultimate": {
       "name": "Schmetterlingssturm",
-      "desc": "Tritt in den verstärkten Zustand ein und fügt einem anvisierten Gegner Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Seeles ANG zu.",
+      "desc": "Tritt in den verstärkten Zustand ein und fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Seeles ANG zu.",
       "values": [
         [
           255,
@@ -2960,7 +2960,7 @@
   "qingque": {
     "attack": {
       "name": "Selbstgezogener Sieg",
-      "desc": "Wirft 1 Jadestein der Farbe mit der geringsten Anzahl von Steinen in Qingques aktueller Hand und fügt einem anvisierten Gegner Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Qingques ANG zu.",
+      "desc": "Wirft 1 Jadestein der Farbe mit der geringsten Anzahl von Steinen in Qingques aktueller Hand und fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Qingques ANG zu.",
       "values": [
         [
           50,
@@ -3014,7 +3014,7 @@
     },
     "ultimate": {
       "name": "Vier verborgene Fische? Gewonnen!",
-      "desc": "Fügt allen Gegnern Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Qingques ANG zu und zieht 4 Jadesteine derselben Farbe.",
+      "desc": "Fügt allen Gegnern Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Qingques ANG zu und zieht 4 Jadesteine derselben Farbe.",
       "values": [
         [
           120,
@@ -3084,7 +3084,7 @@
     },
     "undefined": {
       "name": "Sieg mit dem Kong!",
-      "desc": "Fügt einem anvisierten Gegner Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Qingques ANG zu und fügt angrenzenden Zielen Quantum-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Qingques ANG zu.\\n„Sieg mit dem Kong!“ kann keine Fertigkeitspunkte wiederherstellen.",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Qingques ANG zu und fügt angrenzenden Zielen Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Qingques ANG zu.\\n„Sieg mit dem Kong!“ kann keine Fertigkeitspunkte wiederherstellen.",
       "values": [
         [
           120,
@@ -3595,6 +3595,320 @@
       ]
     }
   },
+  "blade": {
+    "attack": {
+      "name": "Scherbenschwert",
+      "desc": "Fügt einem anvisierten Gegner Wind-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Blades ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Höllenqual",
+      "desc": "Verbraucht {1} von Blades max. LP, um „Höllenqual“ zu aktivieren.\\nWenn „Höllenqual“ aktiv ist, kann seine Fertigkeit nicht eingesetzt werden. Erhöht Blades verursachten SCH um <span style=\"color: #f29e38ff\">{4}</span> und verstärkt seinen Standardangriff „Scherbenschwert“ für {2} Rd. zu „Schwerterwald“\\nWenn Blades aktuelle LP nicht ausreichen, fallen seine aktuellen LP bei Einsatz seiner Fertigkeit auf 1.\\nDiese Fertigkeit stellt keine Energie wieder her. Der Einsatz dieser Fertigkeit beendet nicht die aktuelle Runde.",
+      "values": [
+        [
+          30
+        ],
+        [
+          3
+        ],
+        [
+          1
+        ],
+        [
+          12,
+          15,
+          18,
+          20,
+          23,
+          26,
+          29,
+          33,
+          36,
+          40,
+          43,
+          46,
+          48,
+          51,
+          54
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Todesurteil",
+      "desc": "Setzt Blades aktuelle LP auf 50 % seiner max. LP und verursacht Wind-SCH. Dieser entspricht der Summe von <span style=\"color: #f29e38ff\">{1}</span> seines ANG, <span style=\"color: #f29e38ff\">{2}</span> seiner max. LP und <span style=\"color: #f29e38ff\">{5}</span> der LP, die er im Laufe des aktuellen Kampfs insgesamt verloren hat. Fügt außerdem angrenzenden Einheiten Wind-SCH zu. Dieser entspricht der Summe von <span style=\"color: #f29e38ff\">{3}</span> seines ANG, <span style=\"color: #f29e38ff\">{4}</span> seiner max. LP und <span style=\"color: #f29e38ff\">{6}</span> der LP, die er im Laufe des aktuellen Kampfs insgesamt verloren hat.\\nDie berechneten LP, die Blade im aktuellen Kampf insgesamt verloren hat, sind begrenzt auf {7} seiner max. LP. Nachdem er seinen Ultimate eingesetzt hat, wird dieser Wert zurückgesetzt und neu berechnet.",
+      "values": [
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          9.6,
+          10.2,
+          10.9,
+          11.5,
+          12.2,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          16.6,
+          17.3,
+          17.9,
+          18.6,
+          19.2
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Shuhus Geschenk",
+      "desc": "Wenn Blade SCH erleidet oder LP verbraucht, erhält er 1 Aufladung, bis zu 5-fach stapelbar. Pro erlittenem Angriff erhält Blade max. 1 Aufladung.\\nWenn die max. Aufladungsanzahl erreicht wird, führt er sofort einen <u>Folgeangriff</u> gegen alle Gegner aus. Dieser verursacht Wind-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Blades ANG plus <span style=\"color: #f29e38ff\">{4}</span> seiner max. LP und stellt gleichzeitig LP in Höhe von {3} von Blades max. LP wieder her. Alle Aufladungen werden beim Auslösen des Folgeangriffs verbraucht.",
+      "values": [
+        [
+          3
+        ],
+        [
+          22,
+          24,
+          26,
+          29,
+          31,
+          33,
+          36,
+          39,
+          41,
+          44,
+          46,
+          48,
+          51,
+          53,
+          55
+        ],
+        [
+          25
+        ],
+        [
+          55,
+          61,
+          66,
+          72,
+          77,
+          83,
+          89,
+          96,
+          103,
+          110,
+          115,
+          121,
+          126,
+          132,
+          138
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Karmawind",
+      "desc": "Greift den Gegner unmittelbar an. Verbraucht nach Kampfeintritt {2} von Blades max. LP und fügt allen Gegnern Wind-SCH in Höhe von {1} seiner max. LP zu.\\nWenn Blades aktuelle LP nicht ausreichen, fallen seine aktuellen LP beim Einsatz dieser Technik auf 1.",
+      "values": [
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Schwerterwald",
+      "desc": "Verbraucht LP in Höhe von {1} von Blades max. LP und fügt einem anvisierten Gegner Wind-SCH zu. Dieser entspricht der Summe von <span style=\"color: #f29e38ff\">{2}</span> seines ANG und <span style=\"color: #f29e38ff\">{4}</span> seiner max. LP. Fügt zusätzlich angrenzenden Einheiten Wind-SCH zu. Dieser entspricht der Summe von <span style=\"color: #f29e38ff\">{3}</span> seines ANG und <span style=\"color: #f29e38ff\">{5}</span> seiner max. LP.\\nWenn Blades aktuelle LP nicht ausreichen, fallen seine aktuellen LP beim Einsatz von „Schwerterwald“ auf 1.\\n„Schwerterwald“ kann keine Fertigkeitspunkte wiederherstellen.",
+      "values": [
+        [
+          10
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ],
+        [
+          8,
+          10,
+          11,
+          13,
+          14,
+          16,
+          18,
+          19,
+          21
+        ],
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
   "sushang": {
     "attack": {
       "name": "Ritter-Schwertkunst: Stellarer Halo",
@@ -3920,7 +4234,7 @@
     },
     "technique": {
       "name": "Jagd nach dem Wind",
-      "desc": "Aktiviert nach dem Einsatz der Technik für {1} Sek. Sprint-Modus. Der Sprint-Modus erhöht die Bewegungs-GES um {2} und gewährt Yukong {3}-fach „Surrende Bogensehnen“, wenn sie durch Angriff auf den Gegner einen Kampf einleitet.",
+      "desc": "Aktiviert nach dem Einsatz der Technik für {1} Sek. Sprintmodus. Der Sprintmodus erhöht die Bewegungs-GES um {2} und gewährt Yukong {3}-fach „Surrende Bogensehnen“, wenn sie durch Angriff auf den Gegner einen Kampf einleitet.",
       "values": [
         [
           20

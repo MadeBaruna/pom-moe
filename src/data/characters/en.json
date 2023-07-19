@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "A secretarial officer for the Silvermane Guards.\\nShe has a serious personality and is revered by other members of the Silvermane Guards."
+    "background": "An intelligence officer for the Silvermane Guards.\\nShe has a serious personality and is revered by other members of the Silvermane Guards."
   },
   "clara": {
     "id": "clara",
@@ -166,6 +166,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu.\\nA student of the Luofu's previous Sword Champion, though not known for his martial prowess."
+  },
+  "blade": {
+    "id": "blade",
+    "name": "Blade",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "A member of the Stellaron Hunters, and a swordsman who abandoned his body to become a blade.\\nPledges loyalty to \"Destiny's Slave,\" and possesses a terrifying self-healing ability."
   },
   "sushang": {
     "id": "sushang",

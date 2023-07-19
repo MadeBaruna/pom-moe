@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "銀鬃鐵衛的書記官。\\n性格認真，深受鐵衛成員們敬畏。"
+    "background": "銀鬃鐵衛的情報官。\\n性格認真，深受鐵衛成員們敬畏。"
   },
   "clara": {
     "id": "clara",
@@ -166,6 +166,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "仙舟聯盟帝弓七天將之一，負責統率羅浮雲騎軍的「神策將軍」。\\n師從前代「羅浮」劍首，但並不顯名於武力。"
+  },
+  "blade": {
+    "id": "blade",
+    "name": "刃",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "「星核獵手」的成員，棄身鋒刃的劍客。\\n效忠於「命運的奴隸」，擁有恐怖的自癒能力。"
   },
   "sushang": {
     "id": "sushang",

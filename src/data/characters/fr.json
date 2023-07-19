@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "L'officière de secrétariat des Gardes de la crinière d'argent.\\nElle est d'un naturel sérieux en plus d'être très appréciée des autres Gardes de la crinière d'argent."
+    "background": "Une officière des renseignements des Gardes de la crinière d'argent.\\nElle est d'un naturel sérieux et est très appréciée des autres Gardes de la crinière d'argent."
   },
   "clara": {
     "id": "clara",
@@ -166,6 +166,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "Le Clairvoyant, l'un des sept généraux célestes de l'Alliance Xianzhou, est à la tête des Chevaliers des nuages du Luofu de Xianzhou.\\nÉlève de l'ancienne Championne de l'épée du Luofu, il n'est néanmoins pas connu pour ses prouesses martiales."
+  },
+  "blade": {
+    "id": "blade",
+    "name": "Blade",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Membre des Chasseurs de Stellaron, il a abandonné son corps pour devenir une véritable épée.\\nIl a juré fidélité à l'Esclave du destin et possède une capacité d'autoguérison terrifiante."
   },
   "sushang": {
     "id": "sushang",

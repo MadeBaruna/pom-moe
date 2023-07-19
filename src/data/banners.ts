@@ -98,7 +98,22 @@ export const banners: Banners = {
 			pos: '83% 0%',
 			zoom: 1.1,
 			featured5: ['luocha'],
-			featured4: ['yukong', 'pela', 'qingque'],
+			featured4: ['yukong', 'pela', 'qingque']
+		},
+		{
+			code: 2007,
+			type: 'character',
+			name: 'A Lost Soul',
+			start: '2023-07-19 06:00:00',
+			end: '2023-08-09 11:59:00',
+			color: '#7d90c3',
+			version: '1.2',
+			image: 'A Lost Soul 2007.png',
+			pos: '55% 20%',
+			zoom: 1.2,
+			featured5: ['blade'],
+			featured4: ['arlan', 'sushang', 'natasha'],
+			timezoneDependent: true
 		}
 	],
 	lightcone: [
@@ -159,6 +174,21 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['echoes-of-the-coffin'],
 			featured4: ['good-night-and-sleep-well', 'geniuses-repose', 'dance-dance-dance'],
+			timezoneDependent: true
+		},
+		{
+			code: 3007,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-07-19 06:00:00',
+			end: '2023-08-09 11:59:00',
+			color: '#8c9ba5',
+			version: '1.1',
+			image: 'Brilliant Fixation 3007.png',
+			pos: '70% 8%',
+			zoom: 1.2,
+			featured5: ['the-unreachable-side'],
+			featured4: ['a-secret-vow', 'shared-feeling', 'swordplay']
 		}
 	],
 	standard: [

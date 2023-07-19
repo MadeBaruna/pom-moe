@@ -377,6 +377,12 @@
     "path": "preservation",
     "rarity": 5
   },
+  "patience-is-all-you-need": {
+    "id": "patience-is-all-you-need",
+    "name": "Você Só Precisa de Paciência",
+    "path": "nihility",
+    "rarity": 5
+  },
   "incessant-rain": {
     "id": "incessant-rain",
     "name": "Chuva Constante",
@@ -387,6 +393,12 @@
     "id": "echoes-of-the-coffin",
     "name": "Ecos do Caixão",
     "path": "abundance",
+    "rarity": 5
+  },
+  "the-unreachable-side": {
+    "id": "the-unreachable-side",
+    "name": "O Lado Inacessível",
+    "path": "destruction",
     "rarity": 5
   },
   "before-dawn": {

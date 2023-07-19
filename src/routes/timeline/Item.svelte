@@ -84,7 +84,8 @@
 	</div>
 	<div class="sticky inline-flex h-full items-center" style="left: {offset}px;">
 		<span
-			class="name left-0 pr-4 font-medium text-black/90 {!started && !prevNearby
+			class="name left-0 overflow-hidden whitespace-nowrap pr-4 font-medium text-black/90 {!started &&
+			!prevNearby
 				? 'pl-4 md:pl-24'
 				: 'pl-4 md:pl-10'}"
 			style:--color="{event.color}dd"

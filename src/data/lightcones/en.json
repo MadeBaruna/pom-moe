@@ -377,6 +377,12 @@
     "path": "preservation",
     "rarity": 5
   },
+  "patience-is-all-you-need": {
+    "id": "patience-is-all-you-need",
+    "name": "Patience Is All You Need",
+    "path": "nihility",
+    "rarity": 5
+  },
   "incessant-rain": {
     "id": "incessant-rain",
     "name": "Incessant Rain",
@@ -387,6 +393,12 @@
     "id": "echoes-of-the-coffin",
     "name": "Echoes of the Coffin",
     "path": "abundance",
+    "rarity": 5
+  },
+  "the-unreachable-side": {
+    "id": "the-unreachable-side",
+    "name": "The Unreachable Side",
+    "path": "destruction",
     "rarity": 5
   },
   "before-dawn": {

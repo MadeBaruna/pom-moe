@@ -78,7 +78,7 @@
     },
     "ultimate": {
       "name": "Lluvia glacial",
-      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Siete de Marzo como Daño de Hielo a todos los enemigos. Cada enemigo atacado tiene un {2} de <u>probabilidad base</u> de congelarse durante {3} turno.\\nLos enemigos congelados no pueden actuar, y al principio de cada turno reciben un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Siete de Marzo como Daño de Hielo <u>adicional</u>.",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Siete de Marzo como Daño de Hielo a todos los enemigos. Cada enemigo atacado tiene un {2} de <u>probabilidad base</u> de ser afectado por Congelación durante {3} turno.\\nLos enemigos congelados no pueden actuar, y al principio de cada turno reciben un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Siete de Marzo como Daño de Hielo <u>adicional</u>.",
       "values": [
         [
           90,
@@ -166,7 +166,7 @@
     },
     "technique": {
       "name": "Belleza heladora",
-      "desc": "Ataca inmediatamente al enemigo y entra en combate. {1} de <u>probabilidad base</u> de congelar a un enemigo al azar durante {2} turno.\\nLos enemigos congelados no pueden actuar, y al principio de cada turno reciben un {3} del ATQ de Siete de Marzo como Daño de Hielo <u>adicional</u>.",
+      "desc": "Ataca inmediatamente al enemigo y entra en combate. Tiene un {1} de <u>probabilidad base</u> de afectar con Congelación a un enemigo al azar durante {2} turno.\\nLos enemigos congelados no pueden actuar, y al principio de cada turno reciben un {3} del ATQ de Siete de Marzo como Daño de Hielo <u>adicional</u>.",
       "values": [
         [
           100
@@ -326,7 +326,7 @@
     },
     "technique": {
       "name": "Lanza perforadora",
-      "desc": "Tras usar la técnica, el ATQ de Dan Heng aumenta en un {1} durante {2} turnos en la siguiente batalla.",
+      "desc": "Tras usar la técnica, al comenzar la siguiente batalla, el ATQ de Dan Heng aumenta en un {1} durante {2} turnos.",
       "values": [
         [
           40
@@ -474,7 +474,7 @@
     },
     "technique": {
       "name": "Combustión incompleta",
-      "desc": "Tras usar la técnica, crea una zona especial que dura {4} s. Al entrar en combate con enemigos dentro de la zona especial, hay una <u>probabilidad base</u> del {1} de que los objetivos enemigos reciban un {2} más de Daño de Fuego durante {3} turnos. Solo puede haber 1 zona especial creada por los aliados a la vez.",
+      "desc": "Tras usar la técnica, crea una zona especial que dura {4} s. Al entrar en combate con enemigos dentro de la zona especial, tiene una <u>probabilidad base</u> del {1} de que los objetivos enemigos reciban un {2} más de Daño de Fuego durante {3} turnos. Solo puede haber 1 zona especial creada por los aliados a la vez.",
       "values": [
         [
           100
@@ -572,7 +572,7 @@
     },
     "ultimate": {
       "name": "Agujero negro artificial",
-      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Welt como Daño Imaginario a todos los enemigos y tiene una <u>probabilidad base</u> del {3} de aprisionar a los enemigos atacados durante 1 turno.\\nLas acciones de los enemigos aprisionados se <u>retrasan</u> un <span style=\"color: #f29e38ff\">{2}</span> y su VEL se reduce en un {4}.",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Welt como Daño Imaginario a todos los enemigos y tiene una <u>probabilidad base</u> del {3} de afectar con Prisión a los enemigos atacados durante 1 turno.\\nLas acciones de los enemigos aprisionados se <u>retrasan</u> un <span style=\"color: #f29e38ff\">{2}</span> y su VEL se reduce en un {4}.",
       "values": [
         [
           90,
@@ -656,7 +656,7 @@
     },
     "technique": {
       "name": "Prisión gravitacional",
-      "desc": "Tras usar la técnica, crea una zona especial que dura {4} s. La VEL de movimiento de los enemigos que estén en la zona especial se reduce en un {5}. Tras entrar en combate con enemigos en la zona especial, hay una <u>probabilidad base</u> del {1} de aprisionarlos durante 1 turno.\\nLas acciones de los enemigos aprisionados se <u>retrasan</u> un {2} y su VEL se reduce en un {3}. Solo puede haber 1 zona especial creada por los aliados a la vez.",
+      "desc": "Tras usar la técnica, crea una zona especial que dura {4} s. La VEL de movimiento de los enemigos que estén en la zona especial se reduce en un {5}. Tras entrar en combate con enemigos en la zona especial, tiene una <u>probabilidad base</u> del {1} de afectarlos con Prisión durante 1 turno.\\nLas acciones de los enemigos aprisionados se <u>retrasan</u> un {2} y su VEL se reduce en un {3}. Solo puede haber 1 zona especial creada por los aliados a la vez.",
       "values": [
         [
           100
@@ -1170,7 +1170,7 @@
     },
     "talent": {
       "name": "Astrometría",
-      "desc": "Obtiene una acumulación de Recarga por cada objetivo distinto golpeado. Si el objetivo tiene Debilidad de Fuego, obtiene una acumulación adicional.\\nPor cada acumulación de Recarga que tenga Asta, el ATQ de todos los aliados aumenta en un <span style=\"color: #f29e38ff\">{1}</span>. Se puede acumular hasta {2} veces.\\nA partir de su segundo turno, Asta pierde {3} acumulaciones de Recarga al principio de cada turno.",
+      "desc": "Obtiene una acumulación de Recarga por cada objetivo distinto golpeado. Si el objetivo tiene Debilidad de Fuego, obtiene una acumulación adicional.\\nPor cada acumulación de Recarga que tenga Asta, el ATQ de todos los aliados aumenta en un <span style=\"color: #f29e38ff\">{1}</span>. Este efecto se puede acumular hasta {2} veces.\\nA partir de su segundo turno, Asta pierde {3} acumulaciones de Recarga al principio de cada turno.",
       "values": [
         [
           7,
@@ -1340,7 +1340,7 @@
     },
     "technique": {
       "name": "Todavía se puede optimizar",
-      "desc": "Tras usar la técnica, en la siguiente batalla el ATQ de Herta aumenta en un {1} durante {2} turnos.",
+      "desc": "Tras usar la técnica, al comenzar la siguiente batalla, el ATQ de Herta aumenta en un {1} durante {2} turnos.",
       "values": [
         [
           40
@@ -1514,7 +1514,7 @@
     },
     "technique": {
       "name": "Estandarte de mando",
-      "desc": "Tras usar la técnica, en la siguiente batalla el ATQ de todos los aliados aumenta en un {1} durante {2} turnos.",
+      "desc": "Tras usar la técnica, al comenzar la siguiente batalla, el ATQ de todos los aliados aumenta en un {1} durante {2} turnos.",
       "values": [
         [
           15
@@ -1682,7 +1682,7 @@
     },
     "skill": {
       "name": "Relámpago deslumbrante",
-      "desc": "Serval inflige un <span style=\"color: #f29e38ff\">{1}</span> de su ATQ como Daño de Rayo a un enemigo y un <span style=\"color: #f29e38ff\">{2}</span> de su ATQ como Daño de Rayo a los enemigos adyacentes. Además, tiene un {3} de <u>probabilidad base</u> de electrocutar a los enemigos atacados durante {4} turnos.\\nLos enemigos afectados por Electrocución reciben un Daño de Rayo con el tiempo equivalente al <span style=\"color: #f29e38ff\">{5}</span> del ATQ de Serval al comienzo de cada turno.",
+      "desc": "Serval inflige un <span style=\"color: #f29e38ff\">{1}</span> de su ATQ como Daño de Rayo a un enemigo y un <span style=\"color: #f29e38ff\">{2}</span> de su ATQ como Daño de Rayo a los enemigos adyacentes. Además, tiene una <u>probabilidad base</u> del {3} de afectar con Electrocución a los enemigos atacados durante {4} turnos.\\nLos enemigos electrocutados reciben un Daño de Rayo con el tiempo equivalente al <span style=\"color: #f29e38ff\">{5}</span> del ATQ de Serval al comienzo de cada turno.",
       "values": [
         [
           70,
@@ -1860,7 +1860,7 @@
     },
     "skill": {
       "name": "Golpe sobrecogedor",
-      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Gepard como Daño de Hielo a un enemigo. {2} de <u>probabilidad base</u> de congelar al enemigo atacado durante {3} turno.\\nEl enemigo congelado no puede actuar, y al comienzo de cada turno recibe un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Gepard como Daño de Hielo <u>adicional</u>.",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Gepard como Daño de Hielo a un enemigo. Tiene un {2} de <u>probabilidad base</u> de afectar con Congelación al enemigo atacado durante {3} turno.\\nEl enemigo congelado no puede actuar, y al comienzo de cada turno recibe un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Gepard como Daño de Hielo <u>adicional</u>.",
       "values": [
         [
           100,
@@ -1960,7 +1960,7 @@
     },
     "talent": {
       "name": "Voluntad de hierro",
-      "desc": "Al recibir un golpe letal, en vez de caer <u>derrotado</u>, Gepard recupera un <span style=\"color: #f29e38ff\">{1}</span> de sus PV máx. Este efecto solo se puede activar una vez en cada batalla.",
+      "desc": "Al recibir un golpe letal, en vez de caer <u>derrotado</u>, Gepard regenera un <span style=\"color: #f29e38ff\">{1}</span> de sus PV máx. Este efecto solo se puede activar una vez en cada batalla.",
       "values": [
         [
           25,
@@ -2708,7 +2708,7 @@
     },
     "technique": {
       "name": "Brillo resplandeciente",
-      "desc": "Tras usar la técnica, los enemigos de un área determinada quedan afectados por Ceguera durante {1} s, lo que les impide detectar a los aliados.\\nAl iniciar combate contra enemigos afectados por Ceguera, cada enemigo tiene una <u>probabilidad fija</u> del {2} de que su acción se retrase en un {3}.",
+      "desc": "Tras usar la técnica, los enemigos de un área determinada quedan afectados por Ceguera durante {1} s, lo que les impide detectar a los aliados.\\nAl iniciar combate contra enemigos cegados, cada enemigo tiene una <u>probabilidad fija</u> del {2} de que su acción se retrase en un {3}.",
       "values": [
         [
           10
@@ -2750,7 +2750,7 @@
     },
     "skill": {
       "name": "Hey, ¿te acuerdas de Hook?",
-      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Hook como Daño de Fuego a un enemigo. Además, tiene un {2} de <u>probabilidad base</u> de quemar al enemigo golpeado durante {3} turnos.\\nLos enemigos afectados por Quemadura reciben al principio de cada turno un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Hook como Daño de Fuego con el tiempo.",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Hook como Daño de Fuego a un enemigo. Además, tiene un {2} de <u>probabilidad base</u> de afectar con Quemadura al enemigo atacado durante {3} turnos.\\nLos enemigos quemados reciben al principio de cada turno un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Hook como Daño de Fuego con el tiempo.",
       "values": [
         [
           120,
@@ -2888,7 +2888,7 @@
     },
     "undefined": {
       "name": "Hey, ¿te acuerdas de Hook?",
-      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Hook como Daño de Fuego a un enemigo y tiene un {2} de <u>probabilidad base</u> de quemar al enemigo golpeado durante {3} turnos. Además, inflige un Daño de Fuego equivalente al <span style=\"color: #f29e38ff\">{5}</span> del ATQ de Hook a los enemigos adyacentes al objetivo.\\nLos enemigos afectados por Quemadura reciben al principio de cada turno un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Hook como Daño de Fuego con el tiempo.",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Hook como Daño de Fuego a un enemigo y tiene un {2} de <u>probabilidad base</u> de afectarlo con Quemadura durante {3} turnos. Además, inflige un Daño de Fuego equivalente al <span style=\"color: #f29e38ff\">{5}</span> del ATQ de Hook a los enemigos adyacentes al objetivo.\\nLos enemigos quemados reciben al principio de cada turno un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Hook como Daño de Fuego con el tiempo.",
       "values": [
         [
           140,
@@ -3595,6 +3595,320 @@
       ]
     }
   },
+  "blade": {
+    "attack": {
+      "name": "Espada fragmentada",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Blade como Daño de Viento a un enemigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Panorama infernal",
+      "desc": "Consume un {1} de los PV máx. de Blade y entra en el estado Panorama infernal.\\nEn el estado Panorama infernal no se puede usar la habilidad básica y el daño que inflige Blade aumenta en un <span style=\"color: #f29e38ff\">{4}</span>. El ATQ básico Espada fragmentada se potencia y se transforma en Bosque de espadas durante {2} turnos.\\nSi Blade no tiene suficientes PV, al usar la habilidad básica sus PV se reducen a 1.\\nEsta habilidad básica no recupera energía. Tras usar esta habilidad básica, el turno no termina.",
+      "values": [
+        [
+          30
+        ],
+        [
+          3
+        ],
+        [
+          1
+        ],
+        [
+          12,
+          15,
+          18,
+          20,
+          23,
+          26,
+          29,
+          33,
+          36,
+          40,
+          43,
+          46,
+          48,
+          51,
+          54
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Sentencia de muerte",
+      "desc": "Los PV actuales de Blade se establecen en el 50% de sus PV máx. e inflige a un enemigo un Daño de Viento equivalente al <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Blade + <span style=\"color: #f29e38ff\">{2}</span> de sus PV máx. + <span style=\"color: #f29e38ff\">{5}</span> del recuento de PV que ha perdido en esta batalla. También inflige a los enemigos adyacentes un Daño de Viento equivalente al <span style=\"color: #f29e38ff\">{3}</span> del ATQ de Blade + <span style=\"color: #f29e38ff\">{4}</span> de sus PV máx. + <span style=\"color: #f29e38ff\">{6}</span> del recuento de PV que ha perdido en esta batalla.\\nEl recuento de PV perdidos en esta batalla no puede superar el {7} de los PV máx. de Blade. Al usar su habilidad definitiva, este recuento se reinicia.",
+      "values": [
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          9.6,
+          10.2,
+          10.9,
+          11.5,
+          12.2,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          16.6,
+          17.3,
+          17.9,
+          18.6,
+          19.2
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Regalo de Shuhu",
+      "desc": "Cuando Blade recibe daño o consume PV, obtiene 1 acumulación de carga, hasta un máximo de 5 acumulaciones. Cada vez que recibe un ataque obtiene 1 acumulación como máximo gracias a este efecto.\\nCuando las acumulaciones llegan al máximo, lanza un <u>ataque adicional</u> a todos los enemigos que inflige un Daño de Viento equivalente al <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Blade + <span style=\"color: #f29e38ff\">{4}</span> de sus PV máx. Además, Blade regenera el {3} de sus PV máx. Tras lanzar el ataque adicional se consumen todas las acumulaciones de carga.",
+      "values": [
+        [
+          3
+        ],
+        [
+          22,
+          24,
+          26,
+          29,
+          31,
+          33,
+          36,
+          39,
+          41,
+          44,
+          46,
+          48,
+          51,
+          53,
+          55
+        ],
+        [
+          25
+        ],
+        [
+          55,
+          61,
+          66,
+          72,
+          77,
+          83,
+          89,
+          96,
+          103,
+          110,
+          115,
+          121,
+          126,
+          132,
+          138
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Viento kármico",
+      "desc": "Ataca inmediatamente al enemigo y entra en combate. Blade consume una cantidad de PV equivalente al {2} de sus PV máx. e inflige un {1} de sus PV máx. como Daño de Viento a todos los enemigos.\\nSi no tiene suficientes PV, al usar la técnica los PV de Blade se reducen a 1.",
+      "values": [
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Bosque de espadas",
+      "desc": "Consume el {1} de los PV máx. de Blade e inflige un Daño de Viento equivalente al <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Blade + <span style=\"color: #f29e38ff\">{4}</span> de sus PV máx. a un enemigo. También inflige un Daño de Viento equivalente al <span style=\"color: #f29e38ff\">{3}</span> del ATQ de Blade + <span style=\"color: #f29e38ff\">{5}</span> de sus PV máx. a los enemigos adyacentes.\\nSi Blade no tiene suficientes PV, tras usar Bosque de espadas sus PV se reducen a 1.\\nBosque de espadas no puede recuperar pts. de habilidad básica.",
+      "values": [
+        [
+          10
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ],
+        [
+          8,
+          10,
+          11,
+          13,
+          14,
+          16,
+          18,
+          19,
+          21
+        ],
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
   "sushang": {
     "attack": {
       "name": "Técnica de espada de la Nimbocaballera: Halo estelar",
@@ -3914,7 +4228,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca a un enemigo y, tras entrar al combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
       "values": [],
       "format": []
     },
@@ -4036,7 +4350,7 @@
     },
     "talent": {
       "name": "Compañera afilada",
-      "desc": "Cuando Estocada empática está activa, Yanqing tiene menos probabilidades de recibir un ataque. Además, su Prob. CRIT aumenta en un <span style=\"color: #f29e38ff\">{1}</span> y su Daño CRIT en un <span style=\"color: #f29e38ff\">{2}</span>. Tras atacar a un enemigo, hay un <span style=\"color: #f29e38ff\">{3}</span> de <u>probabilidad fija</u> de activar un <u>ataque adicional</u> que inflige un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Yanqing como Daño de Hielo y tiene una <u>probabilidad base</u> del {6} de congelar al objetivo durante 1 turno.\\nLos enemigos congelados no pueden actuar, y al principio de cada turno reciben un <span style=\"color: #f29e38ff\">{5}</span> del ATQ de Yanqing como Daño de Hielo <u>adicional</u>.\\nEstocada empática se elimina cuando Yanqing recibe daño.",
+      "desc": "Cuando Estocada empática está activa, Yanqing tiene menos probabilidades de recibir un ataque. Además, su Prob. CRIT aumenta en un <span style=\"color: #f29e38ff\">{1}</span> y su Daño CRIT en un <span style=\"color: #f29e38ff\">{2}</span>. Tras atacar a un enemigo, tiene un <span style=\"color: #f29e38ff\">{3}</span> de <u>probabilidad fija</u> de activar un <u>ataque adicional</u> que inflige un <span style=\"color: #f29e38ff\">{4}</span> del ATQ de Yanqing como Daño de Hielo y tiene una <u>probabilidad base</u> del {6} de afectar con Congelación al objetivo durante 1 turno.\\nLos enemigos congelados no pueden actuar, y al principio de cada turno reciben un <span style=\"color: #f29e38ff\">{5}</span> del ATQ de Yanqing como Daño de Hielo <u>adicional</u>.\\nEstocada empática se elimina cuando Yanqing recibe daño.",
       "values": [
         [
           15,
@@ -4286,7 +4600,7 @@
     },
     "talent": {
       "name": "Calabaza de elixir",
-      "desc": "Cuando un aliado con Vigor recibe un ataque, regenera una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{1}</span> de los PV máx. de Bailu + <span style=\"color: #f29e38ff\">{2}</span>. Este efecto se puede activar {5} veces.\\nCuando un aliado de Bailu recibe un golpe letal, no será <u>derrotado</u>, sino que Bailu lo curará inmediatamente con una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{3}</span> de los PV máx. de Bailu + <span style=\"color: #f29e38ff\">{4}</span>. Este efecto se puede activar una vez en cada batalla.",
+      "desc": "Cuando un aliado con Vigor recibe un ataque, regenera una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{1}</span> de los PV máx. de Bailu + <span style=\"color: #f29e38ff\">{2}</span>. Este efecto se puede activar {5} veces.\\nCuando un aliado de Bailu recibe un golpe letal, no es <u>derrotado</u>, sino que Bailu lo cura inmediatamente con una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{3}</span> de los PV máx. de Bailu + <span style=\"color: #f29e38ff\">{4}</span>. Este efecto se puede activar una vez en cada batalla.",
       "values": [
         [
           3.6,

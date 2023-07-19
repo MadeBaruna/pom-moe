@@ -229,7 +229,7 @@
   },
   "subscribe-for-more": {
     "id": "subscribe-for-more",
-    "name": "관심을 부탁해!",
+    "name": "팔로우를 부탁해!",
     "path": "the-hunt",
     "rarity": 4
   },
@@ -377,6 +377,12 @@
     "path": "preservation",
     "rarity": 5
   },
+  "patience-is-all-you-need": {
+    "id": "patience-is-all-you-need",
+    "name": "기다림만 필요해",
+    "path": "nihility",
+    "rarity": 5
+  },
   "incessant-rain": {
     "id": "incessant-rain",
     "name": "계속 내리는 비",
@@ -387,6 +393,12 @@
     "id": "echoes-of-the-coffin",
     "name": "관의 울림",
     "path": "abundance",
+    "rarity": 5
+  },
+  "the-unreachable-side": {
+    "id": "the-unreachable-side",
+    "name": "닿을 수 없는 저편",
+    "path": "destruction",
     "rarity": 5
   },
   "before-dawn": {

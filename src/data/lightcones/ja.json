@@ -377,6 +377,12 @@
     "path": "preservation",
     "rarity": 5
   },
+  "patience-is-all-you-need": {
+    "id": "patience-is-all-you-need",
+    "name": "待つのみ",
+    "path": "nihility",
+    "rarity": 5
+  },
   "incessant-rain": {
     "id": "incessant-rain",
     "name": "降りやまぬ雨",
@@ -387,6 +393,12 @@
     "id": "echoes-of-the-coffin",
     "name": "棺のこだま",
     "path": "abundance",
+    "rarity": 5
+  },
+  "the-unreachable-side": {
+    "id": "the-unreachable-side",
+    "name": "着かない彼岸",
+    "path": "destruction",
     "rarity": 5
   },
   "before-dawn": {

@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "Oficial de secretariado dos Guardas Crinalva.\\nEla tem uma personalidade séria e é bastante respeitada pelos demais membros da Guarda Crinalva."
+    "background": "Oficial da inteligência dos Guardas Crinalva.\\nEla tem uma personalidade séria e é bastante respeitada pelos demais membros da Guarda Crinalva."
   },
   "clara": {
     "id": "clara",
@@ -117,7 +117,7 @@
     "path": "destruction",
     "element": "physical",
     "rarity": 5,
-    "background": "Garota indigente que vaga pelo mundo e vive com robôs.\\nEla é introvertida e gentil e tem coração puro.\\nDeseja que todos do Mundo de Baixo sejam uma só família."
+    "background": "Garota andarilha que vaga pelo mundo e vive com robôs.\\nEla é introvertida e gentil e tem coração puro.\\nDeseja que todos do Mundo de Baixo sejam uma só família."
   },
   "sampo": {
     "id": "sampo",
@@ -167,6 +167,14 @@
     "rarity": 5,
     "background": "A Presciência Divina, um dos Sete Árbitros-Generais da Aliança Xianzhou, comanda os Cavaleiros das Nuvens do Luofu do Xianzhou.\\nPupilo do último Campeão da Espada do Luofu, mas não é exatamente conhecido por suas proezas marciais."
   },
+  "blade": {
+    "id": "blade",
+    "name": "Blade",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Membro dos Caçadores de Stellaron e espadachim que abandonou seu corpo para se tornar uma lâmina.\\nJura lealdade ao \"Servo do Destino\" e possui uma habilidade de autocura aterrorizante."
+  },
   "sushang": {
     "id": "sushang",
     "name": "Sushang",
@@ -197,7 +205,7 @@
     "path": "abundance",
     "element": "lightning",
     "rarity": 5,
-    "background": "A grande mestra dos Vidyadharas, também conhecida como a \"Curandeira\" do Luofu.\\nEla usa sua ciência medicinal única para tratamentos que só podem ser concedidos à raça dracônica Vidyadhara para salvar vidas."
+    "background": "A Grande Mestra dos Vidyadharas, também conhecida como a \"Curandeira\" do Luofu.\\nEla usa sua ciência medicinal única para tratamentos que só podem ser concedidos à raça dracônica Vidyadhara para salvar vidas."
   },
   "trailblazer": {
     "id": "trailblazer",

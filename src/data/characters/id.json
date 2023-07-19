@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "Petugas sekretaris untuk Silvermane Guard.\\nDia memiliki kepribadian yang serius dan dihormati oleh para anggota Silvermane Guard lainnya."
+    "background": "Petugas intelijen Silvermane Guard.\\nDia memiliki kepribadian yang serius dan dihormati oleh para anggota Silvermane Guard lainnya."
   },
   "clara": {
     "id": "clara",
@@ -166,6 +166,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "\"Divine Foresight\", salah satu jenderal dari Tujuh Arbiter Xianzhou Alliance yang bertugas memimpin Cloud Knight Xianzhou Luofu.\\nMurid dari Sang Juara Pedang \"Luofu\" terdahulu, namun tidak terkenal karena kemampuan pedangnya."
+  },
+  "blade": {
+    "id": "blade",
+    "name": "Blade",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Anggota \"Stellaron Hunter\" dan seorang ahli pedang yang mengorbankan dirinya untuk menjadi pedang tajam.\\nSetia pada Destiny's Slave dan memiliki kemampuan pemulihan diri yang mengerikan."
   },
   "sushang": {
     "id": "sushang",

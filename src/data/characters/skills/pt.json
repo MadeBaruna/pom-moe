@@ -22,7 +22,7 @@
     },
     "skill": {
       "name": "O Poder da Fofura",
-      "desc": "Concede a um único aliado um Escudo que pode absorver Dano igual a <span style=\"color: #f29e38ff\">{1}</span> da DEF de 7 de Março mais <span style=\"color: #f29e38ff\">{4}</span> por {2} rodada(s).\\nSe esse aliado tiver {3} ou mais de PV, aumenta significativamente a chance de inimigos atacarem esse aliado.",
+      "desc": "Concede a um único aliado um Escudo que pode absorver Dano igual a <span style=\"color: #f29e38ff\">{1}</span> da DEF de 7 de Março + <span style=\"color: #f29e38ff\">{4}</span> por {2} rodada(s).\\nSe esse aliado tiver {3} ou mais de PV, aumenta significativamente a chance de inimigos atacarem esse aliado.",
       "values": [
         [
           38,
@@ -130,7 +130,7 @@
     },
     "talent": {
       "name": "Poder Feminino",
-      "desc": "Quando um aliado com Escudo é atacado por um inimigo, 7 de Março imediatamente <u>Contra-Ataca</u>, causando Dano de Gelo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ dela. Esse efeito pode ser ativado {2} vez(es) por rodada.",
+      "desc": "Quando um aliado com Escudo é atacado por um inimigo, 7 de Março <u>Contra-Ataca</u> imediatamente, causando Dano de Gelo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ dela. Esse efeito pode ser ativado {2} vez(es) por rodada.",
       "values": [
         [
           50,
@@ -438,7 +438,7 @@
     },
     "talent": {
       "name": "Corrida da Vitória",
-      "desc": "Quando um inimigo é infligido com Quebra de Fraqueza, Himeko ganha 1 ponto de Carga (máximo de {2} pontos).\\nSe Himeko estiver com carga total quando um aliado atacar, ela imediatamente realiza 1 <u>Ataque Extra</u>, causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ dela como Dano de Fogo a todos os inimigos, consumindo todos os pontos de Carga.\\nNo início da batalha, Himeko ganha 1 ponto de Carga.",
+      "desc": "Quando um inimigo é infligido com Quebra de Fraqueza, Himeko ganha 1 ponto de Carga (máximo de {2} pontos).\\nSe Himeko estiver com carga total quando um aliado atacar, ela imediatamente realiza 1 <u>Ataque Extra</u> e causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ dela como Dano de Fogo a todos os inimigos, consumindo todos os pontos de Carga.\\nNo início da batalha, Himeko ganha 1 ponto de Carga.",
       "values": [
         [
           70,
@@ -474,7 +474,7 @@
     },
     "technique": {
       "name": "Combustão Incompleta",
-      "desc": "Após usar a Técnica, cria uma dimensão que dura {4}s. Depois entrar em batalha com inimigos na dimensão, há {1} de <u>chance-base</u> de aumentar o Dano de Fogo que os inimigos recebem em {2} por {3} rodada(s). Só 1 dimensão criada por aliados pode existir ao mesmo tempo.",
+      "desc": "Após usar a Técnica, cria uma dimensão que dura {4}s. Depois de entrar em batalha com inimigos na dimensão, há {1} de <u>chance-base</u> de aumentar o Dano de Fogo que os inimigos recebem em {2} por {3} rodada(s). Só 1 dimensão criada por aliados pode existir ao mesmo tempo.",
       "values": [
         [
           100
@@ -656,7 +656,7 @@
     },
     "technique": {
       "name": "Aprisionamento Gravitacional",
-      "desc": "Após Welt usar sua Técnica, cria uma dimensão que dura {4}s. Inimigos nessa dimensão têm a VEL de Movimento reduzida em {5}. Depois de entrar em batalha com inimigos na dimensão, há {1} de <u>chance-base</u> de Aprisionar os inimigos por 1 rodada.\\nInimigos aprisionados têm <u>ações atrasadas</u> em {2} e VEL reduzida em {3}. Só 1 dimensão criada pelos aliados pode existir ao mesmo tempo.",
+      "desc": "Após Welt usar sua Técnica, cria uma dimensão que dura {4}s. Inimigos nessa dimensão têm a VEL de Movimento reduzida em {5}. Depois de entrar em batalha com inimigos na dimensão, há {1} de <u>chance-base</u> de Aprisionar os inimigos por 1 rodada.\\nInimigos aprisionados têm <u>ações atrasadas</u> em {2} e a VEL reduzida em {3}. Só 1 dimensão criada por aliados pode existir ao mesmo tempo.",
       "values": [
         [
           100
@@ -686,7 +686,7 @@
   "silver-wolf": {
     "attack": {
       "name": "Aviso do Sistema",
-      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Loba Prateada a um inimigo.",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ da Loba Prateada a um único inimigo.",
       "values": [
         [
           50,
@@ -706,7 +706,7 @@
     },
     "skill": {
       "name": "Permitir Mudanças?",
-      "desc": "Tem <span style=\"color: #f29e38ff\">{2}</span> de <u>chance-base</u> de adicionar 1 Fraqueza do Tipo de um aliado em campo ao inimigo-alvo. Isso também reduz a RES a Dano do inimigo a este Tipo de Fraqueza em {4} por {3} rodada(s). Se o inimigo já possui Fraqueza a este Tipo, o efeito de redução da RES a Dano a este Tipo de Fraqueza não será ativado.\\nCada inimigo pode ter apenas 1 Fraqueza implantada pela Loba Prateada. Quando a Loba Prateada implanta outra Fraqueza ao alvo, apenas a última Fraqueza implantada será mantida. Adicionalmente, existe {5} de <u>chance-base</u> de reduzir mais ainda a RES a Todos os Tipos do inimigo em <span style=\"color: #f29e38ff\">{6}</span> por {7} rodada(s).\\nCausa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ da Loba Prateada a um único inimigo-alvo.",
+      "desc": "Tem <span style=\"color: #f29e38ff\">{2}</span> de <u>chance-base</u> de adicionar 1 Fraqueza do Tipo de um personagem em campo ao inimigo-alvo. Isso também reduz a RES a Dano do inimigo a este Tipo de Fraqueza em {4} por {3} rodada(s). Se o inimigo já possui Fraqueza a este Tipo, o efeito de redução da RES a Dano a este Tipo de Fraqueza não será ativado.\\nCada inimigo pode ter apenas 1 Fraqueza implantada pela Loba Prateada. Quando a Loba Prateada implanta outra Fraqueza ao alvo, apenas a última Fraqueza implantada será mantida. Adicionalmente, existe {5} de <u>chance-base</u> de reduzir mais ainda a RES a Todos os Tipos do inimigo em <span style=\"color: #f29e38ff\">{6}</span> por {7} rodada(s).\\nCausa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ da Loba Prateada a um único inimigo-alvo.",
       "values": [
         [
           98,
@@ -784,7 +784,7 @@
     },
     "ultimate": {
       "name": "Usuário Banido",
-      "desc": "Tem uma <u>chance base</u> de <span style=\"color: #f29e38ff\">{2}</span> de diminuir a DEF do inimigo-alvo em <span style=\"color: #f29e38ff\">{3}</span> por {4} rodada(s). E, ao mesmo tempo, causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Loba Prateada ao inimigo-alvo.",
+      "desc": "Tem uma <u>chance-base</u> de <span style=\"color: #f29e38ff\">{2}</span> de diminuir a DEF do inimigo-alvo em <span style=\"color: #f29e38ff\">{3}</span> por {4} rodada(s). E, ao mesmo tempo, causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ da Loba Prateada como Dano Quântico ao inimigo-alvo.",
       "values": [
         [
           228,
@@ -850,7 +850,7 @@
     },
     "talent": {
       "name": "Esperando Resposta do Sistema...",
-      "desc": "Loba Prateada pode criar três tipos de Erros: reduzir em <span style=\"color: #f29e38ff\">{1}</span> o ATQ, reduzir em <span style=\"color: #f29e38ff\">{2}</span> a DEF e reduzir em <span style=\"color: #f29e38ff\">{3}</span> a VEL.\\nSempre que a Loba Prateada ataca, tem uma <u>chance-base</u> de <span style=\"color: #f29e38ff\">{4}</span> de implantar um Erro aleatório que dura {5} rodada(s) no inimigo-alvo.",
+      "desc": "Loba Prateada pode criar três tipos de Erros: reduzir em <span style=\"color: #f29e38ff\">{1}</span> o ATQ, reduzir em <span style=\"color: #f29e38ff\">{2}</span> a DEF e reduzir em <span style=\"color: #f29e38ff\">{3}</span> a VEL.\\nSempre que a Loba Prateada ataca, tem uma <u>chance-base</u> de <span style=\"color: #f29e38ff\">{4}</span> de implantar um Erro aleatório que dura {5} rodada(s) em um inimigo-alvo.",
       "values": [
         [
           5,
@@ -934,7 +934,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": []
     },
@@ -1074,7 +1074,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1204,7 +1204,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1334,7 +1334,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1508,7 +1508,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1642,7 +1642,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1808,7 +1808,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1912,7 +1912,7 @@
     },
     "ultimate": {
       "name": "Muralha Resistente",
-      "desc": "Aplica um Escudo a todos os aliados, absorvendo Dano igual a <span style=\"color: #f29e38ff\">{1} </span>da DEF de Gepard mais <span style=\"color: #f29e38ff\">{3} </span>por {2} rodada(s).",
+      "desc": "Aplica um Escudo a todos os aliados, absorvendo Dano igual a <span style=\"color: #f29e38ff\">{1} </span>da DEF de Gepard + <span style=\"color: #f29e38ff\">{3} </span>por {2} rodada(s).",
       "values": [
         [
           30,
@@ -1960,7 +1960,7 @@
     },
     "talent": {
       "name": "Vontade Inabalável",
-      "desc": "Ao ser alvo de um golpe fatal, em vez de ficar <u>derrubado</u>, Gepard restaura imediatamente <span style=\"color: #f29e38ff\">{1}</span> de seus PV máximos. Este efeito só pode ser ativado uma vez por batalha.",
+      "desc": "Ao ser alvo de um golpe fatal, ao invés de ser <u>derrubado</u>, Gepard restaura imediatamente <span style=\"color: #f29e38ff\">{1}</span> de seus PV máximos. Este efeito só pode ser ativado uma vez por batalha.",
       "values": [
         [
           25,
@@ -1986,13 +1986,13 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Camaradagem",
-      "desc": "Após Gepard usar sua Técnica, quando a próxima batalha começar, um Escudo será aplicado a todos os aliados, absorvendo Dano igual a {1} da DEF de Gepard mais {3} por {2} rodada(s).",
+      "desc": "Após Gepard usar sua Técnica, quando a próxima batalha começar, um Escudo será aplicado a todos os aliados, absorvendo Dano igual a {1} da DEF de Gepard + {3} por {2} rodada(s).",
       "values": [
         [
           24
@@ -2034,7 +2034,7 @@
     },
     "skill": {
       "name": "Amor, Cura e Escolha",
-      "desc": "Cura um único alvo em <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Natasha mais <span style=\"color: #f29e38ff\">{4}</span>. Cura o aliado em mais <span style=\"color: #f29e38ff\">{2}</span> dos PV máximos de Natasha mais <span style=\"color: #f29e38ff\">{5}</span> no início de cada rodada por {3} rodada(s).",
+      "desc": "Cura um único alvo em <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Natasha + <span style=\"color: #f29e38ff\">{4}</span>. Cura o aliado em mais <span style=\"color: #f29e38ff\">{2}</span> dos PV máximos de Natasha mais <span style=\"color: #f29e38ff\">{5}</span> no início de cada rodada por {3} rodada(s).",
       "values": [
         [
           7,
@@ -2118,7 +2118,7 @@
     },
     "ultimate": {
       "name": "Presente do Renascimento",
-      "desc": "Cura todos os aliados em <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Natasha mais <span style=\"color: #f29e38ff\">{2}</span>.",
+      "desc": "Cura todos os aliados em <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Natasha + <span style=\"color: #f29e38ff\">{2}</span>.",
       "values": [
         [
           9.2,
@@ -2192,7 +2192,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2352,7 +2352,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2447,7 +2447,7 @@
       ]
     },
     "ultimate": {
-      "name": "É Promessa, Não Ordem",
+      "name": "É Uma Promessa, Não Uma Ordem",
       "desc": "Após Clara usar sua Perícia Suprema, o Dano causado a ela é reduzido em <span style=\"color: #f29e38ff\">{4}</span> extra, e ela terá muito mais chances de ser atacada por inimigos por {3} rodada(s).\\nAlém disso, o <u>Contra-Ataque</u> de Svarog é aprimorado. Quando um aliado é atacado, Svarog usa um <u>Contra-Ataque</u> imediatamente, e seu multiplicador de Dano contra o inimigo aumenta em <span style=\"color: #f29e38ff\">{2}</span>. Inimigos adjacentes a ele sofrem 50% do Dano causado ao inimigo-alvo. <u>Contra-Ataque(s)</u> aprimorado(s) podem entrar em vigor {5} vez(es).",
       "values": [
         [
@@ -2503,7 +2503,7 @@
       ]
     },
     "talent": {
-      "name": "Porque Somos uma Família",
+      "name": "Porque Somos Uma Família",
       "desc": "Sob a proteção de Svarog, o Dano recebido por Clara ao ser atingida por ataques inimigos é reduzido em {3}. Svarog marca inimigos que atacarem Clara com sua Marca do Contra-Ataque e então <u>Contra-Ataca</u>, causando Dano Físico igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Clara.",
       "values": [
         [
@@ -2538,7 +2538,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2582,7 +2582,7 @@
     },
     "skill": {
       "name": "Amor Ricochete",
-      "desc": "Causa Dano de Vento igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Sampo a um único inimigo, e causa Dano mais {1} vez(es) extras, com cada vez causando Dano de Vento igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Sampo a um inimigo aleatório.",
+      "desc": "Causa Dano de Vento igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Sampo a um único inimigo, e causa Dano mais {1} vez(es) extra(s), com cada vez causando Dano de Vento igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Sampo a um inimigo aleatório.",
       "values": [
         [
           4
@@ -2702,7 +2702,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2858,7 +2858,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -3238,7 +3238,7 @@
     },
     "talent": {
       "name": "Tornafagulha Violeta",
-      "desc": "Quando um inimigo é atacado por Tingyun, o aliado com Bênção causa imediatamente <u>Dano Adicional</u> de Raio igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ daquele aliado ao mesmo inimigo.",
+      "desc": "Quando um inimigo é atacado por Tingyun, o aliado com Bênção causa imediatamente <u>Dano de Raio Adicional</u> igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ daquele aliado ao mesmo inimigo.",
       "values": [
         [
           30,
@@ -3304,7 +3304,7 @@
     },
     "skill": {
       "name": "Prece da Flor do Abismo",
-      "desc": "Após usar a sua Perícia, restaura os PV do aliado-alvo imediatamente em <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Luocha + <span style=\"color: #f29e38ff\">{2}</span>. Enquanto isso, Luocha ganha 1 acúmulo de Flor do Abismo.\\nQuando a porcentagem dos PV de qualquer aliado chega em {3} ou menos, um efeito equivalente à Perícia de Luocha será imediatamente ativado por Luocha, e aplicado a este aliado uma vez (sem consumir Pontos de Perícia). Este efeito pode ser ativado novamente após {4} rodada(s).",
+      "desc": "Após usar a sua Perícia, Luocha restaura os PV do aliado-alvo imediatamente em <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Luocha + <span style=\"color: #f29e38ff\">{2}</span>. Enquanto isso, Luocha ganha 1 acúmulo de Flor do Abismo.\\nQuando a porcentagem dos PV de qualquer aliado chega a {3} ou menos, um efeito equivalente à Perícia de Luocha será imediatamente ativado e aplicado a este aliado uma vez (sem consumir Pontos de Perícia). Este efeito pode ser ativado novamente após {4} rodada(s).",
       "values": [
         [
           40,
@@ -3356,7 +3356,7 @@
     },
     "ultimate": {
       "name": "Desejo de Morte",
-      "desc": "Remove {2} <u>melhoria(s)</u> de todos os inimigos e causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Luocha como Dano Imaginário a todos os inimigos. Luocha ganha 1 acúmulo de Flor do Abismo.",
+      "desc": "Remove {2} <u>melhoria(s)</u> de todos os inimigos e causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Luocha como Dano Imaginário a todos os inimigos. Ao mesmo tempo, Luocha ganha 1 acúmulo de Flor do Abismo.",
       "values": [
         [
           120,
@@ -3386,7 +3386,7 @@
     },
     "talent": {
       "name": "Ciclo da Vida",
-      "desc": "Quando a Flor do Abismo alcança {1} acúmulo(s), Luocha consome todos os acúmulos de Flor do Abismo para ativar um Campo contra o inimigo.\\nQuando qualquer inimigo dentro do Campo é atacado por um aliado, esse aliado imediatamente restaura uma quantidade de PV igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Luocha mais <span style=\"color: #f29e38ff\">{4}</span>.\\nO efeito do Campo dura {3} rodadas. Quando Luocha é derrubado, o Campo é desativado.",
+      "desc": "Quando a Flor do Abismo alcança {1} acúmulo(s), Luocha consome todos os acúmulos de Flor do Abismo para ativar um Campo contra o inimigo.\\nQuando qualquer inimigo dentro do Campo é atacado por um aliado, o PV desse aliado é imediatamente restaurado em uma quantidade igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Luocha mais <span style=\"color: #f29e38ff\">{4}</span>.\\nO efeito do Campo dura {3} rodadas. Quando Luocha é derrubado, o Campo é desativado.",
       "values": [
         [
           2
@@ -3444,7 +3444,7 @@
     },
     "technique": {
       "name": "Misericórdia dos Tolos",
-      "desc": "Após usar sua Técnica, no início da próxima batalha, o Talento será ativado imediatamente.",
+      "desc": "Após a Técnica ser utilizada, o Talento será acionado imediatamente no início da próxima batalha.",
       "values": [],
       "format": []
     }
@@ -3578,7 +3578,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": []
     },
@@ -3592,6 +3592,320 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "blade": {
+    "attack": {
+      "name": "Espada Fragmentada",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Blade como Dano de Vento a um inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Paisagem Infernal",
+      "desc": "Consome PV igual a {1} dos PV máximos de Blade para entrar no estado de Paisagem Infernal.\\nEnquanto a Paisagem Infernal estiver ativa, a Perícia dele não pode ser usada, seu Dano causado aumenta em <span style=\"color: #f29e38ff\">{4}</span> e aprimora o seu ATQ Básico Espada Fragmentada para Floresta de Espadas por {2} rodada(s).\\nSe os PV atuais de Blade não forem suficientes, seus PV serão reduzidos para 1 quando usar esta Perícia.\\nEsta Perícia não regenera Energia. Usar esta Perícia não encerra a rodada atual.",
+      "values": [
+        [
+          30
+        ],
+        [
+          3
+        ],
+        [
+          1
+        ],
+        [
+          12,
+          15,
+          18,
+          20,
+          23,
+          26,
+          29,
+          33,
+          36,
+          40,
+          43,
+          46,
+          48,
+          51,
+          54
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Sentença de Morte",
+      "desc": "Define os PV atuais de Blade em 50% de seus PV máximos e causa Dano de Vento a um único inimigo igual à somatória de <span style=\"color: #f29e38ff\">{1}</span> de seu ATQ, <span style=\"color: #f29e38ff\">{2}</span> de seus PV máximos, e <span style=\"color: #f29e38ff\">{5}</span> do total de PV que ele perdeu na batalha atual. Ao mesmo tempo, causa Dano de Vento aos alvos adjacentes igual à somatória de <span style=\"color: #f29e38ff\">{3}</span> de seu ATQ, <span style=\"color: #f29e38ff\">{4}</span> de seus PV máximos, e <span style=\"color: #f29e38ff\">{6}</span> do total de PV que ele perdeu na batalha atual.\\nO total de PV que Blade perdeu na batalha atual tem um limite de {7} de seus PV máximos. Este valor será redefinido e reacumulado após usar sua Perícia Suprema.",
+      "values": [
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          9.6,
+          10.2,
+          10.9,
+          11.5,
+          12.2,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          16.6,
+          17.3,
+          17.9,
+          18.6,
+          19.2
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Presente de Shuhu",
+      "desc": "Quando Blade toma Dano ou consome seus próprios PV, ele ganha 1 acúmulo de Carga, acumulando até 5 vezes. Um máximo de 1 Carga pode ser ganho cada vez que ele for atacado.\\nQuando os acúmulos de Carga chegarem ao máximo, desfere imediatamente um <u>Ataque Extra</u> contra todos os inimigos, causando Dano de Vento igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Blade + <span style=\"color: #f29e38ff\">{4}</span> dos seus PV máximos, enquanto também restaura os PV de Blade em <span style=\"color: #f29e38ff\">{3}</span> de seus PV máximos. Todas as Cargas são consumidas após realizar o Ataque Extra.",
+      "values": [
+        [
+          3
+        ],
+        [
+          22,
+          24,
+          26,
+          29,
+          31,
+          33,
+          36,
+          39,
+          41,
+          44,
+          46,
+          48,
+          51,
+          53,
+          55
+        ],
+        [
+          25
+        ],
+        [
+          55,
+          61,
+          66,
+          72,
+          77,
+          83,
+          89,
+          96,
+          103,
+          110,
+          115,
+          121,
+          126,
+          132,
+          138
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Vento do Carma",
+      "desc": "Imediatamente ataca o inimigo. Após entrar em combate, consome {2} dos PV máximos de Blade enquanto causa Dano de Vento igual a {1} dos seus PV máximos a todos os inimigos.\\nSe os PV atuais de Blade forem insuficientes, seus PV serão reduzidos a 1 quando a Técnica é usada.",
+      "values": [
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Floresta de Espadas",
+      "desc": "Consome PV igual a {1} dos PV máximos de Blade e causa Dano de Vento igual a soma de <span style=\"color: #f29e38ff\">{2}</span> do seu ATQ + <span style=\"color: #f29e38ff\">{4}</span> dos seus PV máximos a um único inimigo. Além disso, causa Dano de Vento igual a soma de <span style=\"color: #f29e38ff\">{3}</span> do ATQ de Blade + <span style=\"color: #f29e38ff\">{5}</span> dos seus PV máximos a alvos adjacentes.\\nSe os PV atuais de Blade forem insuficientes, seus PV serão reduzidos a 1 ao usar Floresta de Espadas.\\nFloresta de Espadas não pode regenerar Pontos de Perícia.",
+      "values": [
+        [
+          10
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ],
+        [
+          8,
+          10,
+          11,
+          13,
+          14,
+          16,
+          18,
+          19,
+          21
+        ],
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
       ]
     }
   },
@@ -3788,7 +4102,7 @@
     },
     "skill": {
       "name": "Saudação Encorajadora",
-      "desc": "Obtém {1} acúmulo(s) de \"Arco Estrondoso\" (até um máximo de 2 acúmulos). Quando \"Arco Estrondoso\" está ativo, o ATQ de todos os aliados aumenta em <span style=\"color: #f29e38ff\">{2}</span>, e sempre que a rodada de um aliado acaba, Yukong perde 1 acúmulo de \"Arco Estrondoso\".\\nNa rodada na qual Yukong ganha \"Arco Estrondoso\" usando a Perícia, \"Arco Estrondoso\" não será removido.",
+      "desc": "Obtém {1} acúmulo(s) de \"Arco Estrondoso\" (até um máximo de 2 acúmulos). Quando \"Arco Estrondoso\" está ativo, o ATQ de todos os aliados aumenta em <span style=\"color: #f29e38ff\">{2}</span>, e sempre que a rodada de um aliado (incluindo a de Yukong) acaba, Yukong perde 1 acúmulo de \"Arco Estrondoso\".\\nNa rodada na qual Yukong ganha \"Arco Estrondoso\" usando a Perícia, \"Arco Estrondoso\" não será removido.",
       "values": [
         [
           2
@@ -3818,7 +4132,7 @@
     },
     "ultimate": {
       "name": "Mergulho do Falcão",
-      "desc": "Ao usar sua Perícia Suprema, se o \"Arco Estrondoso\" estiver ativo em Yukong, a Chance de CRIT de todos os aliados aumenta adicionalmente em <span style=\"color: #f29e38ff\">{2}</span> e o Dano CRIT aumenta em <span style=\"color: #f29e38ff\">{3}</span>. Ao mesmo tempo, causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Yukong a um único inimigo.",
+      "desc": "Se o \"Arco Estrondoso\" estiver ativo em Yukong quando a sua Perícia Suprema for utilizada, a Chance de CRIT de todos os aliados aumenta adicionalmente em <span style=\"color: #f29e38ff\">{2}</span> e o Dano CRIT aumenta em <span style=\"color: #f29e38ff\">{3}</span>. Ao mesmo tempo, causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Yukong a um único inimigo.",
       "values": [
         [
           228,
@@ -3880,7 +4194,7 @@
     },
     "talent": {
       "name": "Sete Camadas, Uma Flecha",
-      "desc": "O ATQ Básico causa adicionalmente o Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Yukong, e aumenta o Dano de Redução de Tenacidade deste ataque em {2}. Este efeito pode ser ativado novamente após {3} rodada(s).",
+      "desc": "O ATQ Básico causa adicionalmente Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Yukong, e aumenta o Dano de Redução de Tenacidade deste ataque em {2}. Este efeito pode ser ativado novamente após {3} rodada(s).",
       "values": [
         [
           40,
@@ -3914,13 +4228,13 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Após atacar um inimigo e entrar na batalha, a Tenacidade do Tipo do inimigo sofrerá Enfraquecimento.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Seguindo o Vento",
-      "desc": "Após usar essa Técnica, entra no modo Corrida por {1} segundos. Enquanto estiver correndo, a VEL de Movimento aumenta em {2}, e Yukong recebe {3} acúmulo(s) de \"Arco Estrondoso\" ao entrar em batalha atacando inimigos.",
+      "desc": "Após usar sua Técnica, Yukong entra no modo Corrida por {1} segundos. Enquanto estiver no modo Corrida, a VEL de Movimento aumenta em {2}, e Yukong recebe {3} acúmulo(s) do \"Arco Estrondoso\" ao entrar em batalha atacando inimigos.",
       "values": [
         [
           20
@@ -4036,7 +4350,7 @@
     },
     "talent": {
       "name": "Eu e a Espada Somos Um",
-      "desc": "Quando a Sincronia d'Alma de Ferro está ativa, Yanqing tem menos chance de ser atacado por inimigos. A Chance de CRIT de Yanqing aumenta em <span style=\"color: #f29e38ff\">{1}</span> e o Dano CRIT em <span style=\"color: #f29e38ff\">{2}</span>. Depois que Yanqing ataca um inimigo, há uma <u>chance fixa</u> de <span style=\"color: #f29e38ff\">{3} </span> de executar um <u>ataque extra</u>, causando Dano de Gelo igual a <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Yanqing ao alvo, com uma <u>chance-base</u> de {6} de causar Congelamento no alvo por 1 rodada.\\nO alvo com Congelamento não pode realizar ações e sofre <u>Dano Adicional</u> de Gelo igual a <span style=\"color: #f29e38ff\">{5}</span> do ATQ de Yanqing no início de cada rodada. \\nQuando Yanqing recebe Dano, o efeito da Sincronia d'Alma de Ferro desaparece.",
+      "desc": "Quando a Sincronia d'Alma de Ferro está ativa, Yanqing tem menos chance de ser atacado por inimigos. A Chance de CRIT de Yanqing aumenta em <span style=\"color: #f29e38ff\">{1}</span> e o Dano CRIT em <span style=\"color: #f29e38ff\">{2}</span>. Depois que Yanqing ataca um inimigo, há uma <u>chance fixa</u> de <span style=\"color: #f29e38ff\">{3} </span> de executar um <u>Ataque Extra</u>, causando Dano de Gelo igual a <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Yanqing ao alvo, com uma <u>chance-base</u> de {6} de causar Congelamento no alvo por 1 rodada.\\nO alvo com Congelamento não pode realizar ações e sofre <u>Dano Adicional</u> de Gelo igual a <span style=\"color: #f29e38ff\">{5}</span> do ATQ de Yanqing no início de cada rodada. \\nQuando Yanqing recebe Dano, o efeito da Sincronia d'Alma de Ferro desaparece.",
       "values": [
         [
           15,
@@ -4286,7 +4600,7 @@
     },
     "talent": {
       "name": "Cabaça Cheia de Elixir",
-      "desc": "Depois de um aliado Revigorado ser atingido, restaura <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Bailu + <span style=\"color: #f29e38ff\">{2}</span>. Este efeito pode ser ativado {5} vez(es). Quando um aliado receber um golpe fatal, ele não será <u>derrubado</u>. Bailu o cura imediatamente, curando-o em <span style=\"color: #f29e38ff\">{3}</span> dos PV máximos de Bailu + <span style=\"color: #f29e38ff\">{4}</span> de PV. Este efeito pode ser ativado uma vez por batalha.",
+      "desc": "Depois de um aliado Revigorado ser atingido, restaura <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Bailu + <span style=\"color: #f29e38ff\">{2}</span>. Este efeito pode ser ativado {5} vez(es). Quando um aliado receber um golpe fatal, ele não será <u>derrubado</u>. Bailu o cura imediatamente em <span style=\"color: #f29e38ff\">{3}</span> dos PV máximos de Bailu + <span style=\"color: #f29e38ff\">{4}</span> de PV. Este efeito pode ser ativado uma vez por batalha.",
       "values": [
         [
           3.6,

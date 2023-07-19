@@ -377,6 +377,12 @@
     "path": "preservation",
     "rarity": 5
   },
+  "patience-is-all-you-need": {
+    "id": "patience-is-all-you-need",
+    "name": "Просто надо подождать",
+    "path": "nihility",
+    "rarity": 5
+  },
   "incessant-rain": {
     "id": "incessant-rain",
     "name": "Непрекращающийся дождь",
@@ -389,9 +395,15 @@
     "path": "abundance",
     "rarity": 5
   },
+  "the-unreachable-side": {
+    "id": "the-unreachable-side",
+    "name": "Недоступная сторона",
+    "path": "destruction",
+    "rarity": 5
+  },
   "before-dawn": {
     "id": "before-dawn",
-    "name": "До заката",
+    "name": "До рассвета",
     "path": "erudition",
     "rarity": 5
   },

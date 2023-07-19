@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "เลขาของกองกำลัง Silvermane\\nเธอเป็นคนที่จริงจัง และเป็นที่เคารพของเหล่าสมาชิกกองกำลัง Silvermane"
+    "background": "เจ้าหน้าที่ข่าวกรองของกองกำลัง Silvermane\\nเธอเป็นคนที่จริงจัง และเป็นที่เคารพของเหล่าสมาชิกกองกำลัง Silvermane"
   },
   "clara": {
     "id": "clara",
@@ -166,6 +166,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "\"นายพล Divine Foresight\" หนึ่งในเจ็ดนายพลของเทพแห่งคันศรของสหพันธ์ Xianzhou ผู้รับผิดชอบควบคุม กองอัศวิน Cloud Knight แห่ง Luofu\\nลูกศิษย์ของปรมาจารย์ดาบ \"Luofu\" รุ่นก่อน แต่ไม่ได้มีชื่อเสียงด้านการต่อสู้"
+  },
+  "blade": {
+    "id": "blade",
+    "name": "Blade",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "สมาชิกแห่ง \"นักล่า Stellaron\" นักดาบผู้มอบร่างกายให้กับคมดาบ\\nผู้ภักดีต่อ \"ทาสแห่งโชคชะตา\" และมีความสามารถในการรักษาตัวเองที่น่าสะพรึงกลัว"
   },
   "sushang": {
     "id": "sushang",

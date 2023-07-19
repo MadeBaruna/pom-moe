@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "Empleada administrativa de la Guardia Crinargenta.\\nEs muy seria y los demás Guardias Crinargenta la adoran."
+    "background": "Oficial de inteligencia de la Guardia Crinargenta.\\nEs muy seria y los demás Guardias Crinargenta la adoran."
   },
   "clara": {
     "id": "clara",
@@ -166,6 +166,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "La Premonición Divina, uno de los siete generales celestiales del Señor Arquero de la Alianza Xianzhou. Está al mando de los Nimbocaballeros del Luofu.\\nEs discípulo de la anterior maestra de espadas del Luofu, pero no es conocido por sus habilidades marciales."
+  },
+  "blade": {
+    "id": "blade",
+    "name": "Blade",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Miembro de los Cazadores de Estelaron y espadachín que abandonó su cuerpo para convertirse en espada.\\nJuró lealtad al Esclavo del Destino y posee una terrorífica capacidad de autocuración."
   },
   "sushang": {
     "id": "sushang",

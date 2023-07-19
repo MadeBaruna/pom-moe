@@ -706,7 +706,7 @@
     },
     "skill": {
       "name": "Allow Changes?",
-      "desc": "There is a <span style=\"color: #f29e38ff\">{2}</span> <u>base chance</u> to add 1 Weakness of an on-field ally's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by {4} for {3} turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.\\nEach enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.\\nIn addition, there is a {5} <u>base chance</u> to reduce the All-Type RES of the enemy further by <span style=\"color: #f29e38ff\">{6}</span> for {7} turn(s).\\nDeals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Silver Wolf's ATK to this enemy.",
+      "desc": "There is a <span style=\"color: #f29e38ff\">{2}</span> <u>base chance</u> to add 1 Weakness of an on-field character's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by {4} for {3} turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.\\nEach enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.\\nIn addition, there is a {5} <u>base chance</u> to further reduce the All-Type RES of the enemy by <span style=\"color: #f29e38ff\">{6}</span> for {7} turn(s).\\nDeals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Silver Wolf's ATK to this enemy.",
       "values": [
         [
           98,
@@ -850,7 +850,7 @@
     },
     "talent": {
       "name": "Awaiting System Response...",
-      "desc": "Silver Wolf can create three types of Bugs: reduce ATK by <span style=\"color: #f29e38ff\">{1}</span>, reduce DEF by <span style=\"color: #f29e38ff\">{2}</span>, and reduce SPD by <span style=\"color: #f29e38ff\">{3}</span>.\\nEvery time Silver Wolf attacks, she has a <span style=\"color: #f29e38ff\">{4}</span> <u>base chance</u> to implant a random Bug that lasts for {5} turn(s) in the enemy target.",
+      "desc": "Silver Wolf can create three types of Bugs: reduce ATK by <span style=\"color: #f29e38ff\">{1}</span>, reduce DEF by <span style=\"color: #f29e38ff\">{2}</span>, and reduce SPD by <span style=\"color: #f29e38ff\">{3}</span>.\\nEvery time Silver Wolf attacks, she has a <span style=\"color: #f29e38ff\">{4}</span> <u>base chance</u> to implant a random Bug that lasts for {5} turn(s) in an enemy target.",
       "values": [
         [
           5,
@@ -934,7 +934,7 @@
     },
     "mazeattack": {
       "name": "Attack",
-      "desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
       "values": [],
       "format": []
     },
@@ -3356,7 +3356,7 @@
     },
     "ultimate": {
       "name": "Death Wish",
-      "desc": "Removes {2} <u>buff(s)</u> from all enemies and deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Luocha's ATK to all enemies. Luocha gains 1 stack of Abyss Flower.",
+      "desc": "Removes {2} <u>buff(s)</u> from all enemies and deals all enemies Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Luocha's ATK. At the same time, Luocha gains 1 stack of Abyss Flower.",
       "values": [
         [
           120,
@@ -3578,7 +3578,7 @@
     },
     "mazeattack": {
       "name": "Attack",
-      "desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
       "values": [],
       "format": []
     },
@@ -3592,6 +3592,320 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "blade": {
+    "attack": {
+      "name": "Shard Sword",
+      "desc": "Deals <span style=\"color: #f29e38ff\">{1}</span> of Blade's ATK as Wind DMG to a target enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Hellscape",
+      "desc": "Consumes HP equal to {1} of Blade's Max HP to enter the Hellscape state.\\nWhen Hellscape is active, his Skill cannot be used, his DMG dealt increases by <span style=\"color: #f29e38ff\">{4}</span>, and his Basic ATK Shard Sword is enhanced to Forest of Swords for {2} turn(s).\\nIf Blade's current HP is insufficient, his HP will be reduced to 1 when he uses his Skill.\\nThis Skill does not regenerate Energy. Using this Skill does not end the current turn.",
+      "values": [
+        [
+          30
+        ],
+        [
+          3
+        ],
+        [
+          1
+        ],
+        [
+          12,
+          15,
+          18,
+          20,
+          23,
+          26,
+          29,
+          33,
+          36,
+          40,
+          43,
+          46,
+          48,
+          51,
+          54
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Death Sentence",
+      "desc": "Sets Blade's current HP to 50% of his Max HP and deals Wind DMG to a single enemy equal to the sum of <span style=\"color: #f29e38ff\">{1}</span> of his ATK, <span style=\"color: #f29e38ff\">{2}</span> of his Max HP, and <span style=\"color: #f29e38ff\">{5}</span> of the tally of Blade's HP loss in the current battle. At the same time, deals Wind DMG to adjacent targets equal to the sum of <span style=\"color: #f29e38ff\">{3}</span> of his ATK, <span style=\"color: #f29e38ff\">{4}</span> of his Max HP, and <span style=\"color: #f29e38ff\">{6}</span> of the tally of his HP loss in the current battle.\\nThe tally of Blade's HP loss in the current battle is capped at {7} of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used.",
+      "values": [
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          9.6,
+          10.2,
+          10.9,
+          11.5,
+          12.2,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          16.6,
+          17.3,
+          17.9,
+          18.6,
+          19.2
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Shuhu's Gift",
+      "desc": "When Blade sustains DMG or consumes his HP, he gains 1 stack of Charge, stacking up to 5 times. A max of 1 Charge stack can be gained every time he is attacked.\\nWhen Charge stack reaches maximum, immediately launches a <u>follow-up attack</u> on all enemies, dealing Wind DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Blade's ATK plus <span style=\"color: #f29e38ff\">{4}</span> of his Max HP. At the same time, restores Blade's HP by {3} of his Max HP. After the follow-up attack, all Charges are consumed.",
+      "values": [
+        [
+          3
+        ],
+        [
+          22,
+          24,
+          26,
+          29,
+          31,
+          33,
+          36,
+          39,
+          41,
+          44,
+          46,
+          48,
+          51,
+          53,
+          55
+        ],
+        [
+          25
+        ],
+        [
+          55,
+          61,
+          66,
+          72,
+          77,
+          83,
+          89,
+          96,
+          103,
+          110,
+          115,
+          121,
+          126,
+          132,
+          138
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Karma Wind",
+      "desc": "Immediately attacks the enemy. After entering combat, consumes {2} of Blade's Max HP while dealing Wind DMG equal to {1} of his Max HP to all enemies.\\nIf Blade's current HP is insufficient, his HP will be reduced to 1 when this Technique is used.",
+      "values": [
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Forest of Swords",
+      "desc": "Consumes HP equal to {1} of Blade's Max HP and deals Wind DMG equal to the sum of <span style=\"color: #f29e38ff\">{2}</span> of his ATK and <span style=\"color: #f29e38ff\">{4}</span> of his Max HP to a single enemy. In addition, deals Wind DMG equal to the sum of <span style=\"color: #f29e38ff\">{3}</span> of Blade's ATK and <span style=\"color: #f29e38ff\">{5}</span> of his Max HP to adjacent targets.\\nIf Blade's current HP is insufficient, his HP will be reduced to 1 when using Forest of Swords.\\nForest of Swords cannot regenerate Skill Points.",
+      "values": [
+        [
+          10
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ],
+        [
+          8,
+          10,
+          11,
+          13,
+          14,
+          16,
+          18,
+          19,
+          21
+        ],
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
       ]
     }
   },
@@ -3788,7 +4102,7 @@
     },
     "skill": {
       "name": "Emboldening Salvo",
-      "desc": "Obtains {1} stack(s) of \"Roaring Bowstrings\" (to a maximum of 2 stacks). When \"Roaring Bowstrings\" is active, the ATK of all allies increases by <span style=\"color: #f29e38ff\">{2}</span>, and every time an ally's turn ends, Yukong loses 1 stack of \"Roaring Bowstrings.\"\\nWhen it's the turn where Yukong gains \"Roaring Bowstrings\" by using Skill, \"Roaring Bowstrings\" will not be removed.",
+      "desc": "Obtains {1} stack(s) of \"Roaring Bowstrings\" (to a maximum of 2 stacks). When \"Roaring Bowstrings\" is active, the ATK of all allies increases by <span style=\"color: #f29e38ff\">{2}</span>, and every time an ally's turn (including Yukong's) ends, Yukong loses 1 stack of \"Roaring Bowstrings.\"\\nWhen it's the turn where Yukong gains \"Roaring Bowstrings\" by using Skill, \"Roaring Bowstrings\" will not be removed.",
       "values": [
         [
           2
@@ -3914,7 +4228,7 @@
     },
     "mazeattack": {
       "name": "Attack",
-      "desc": "After attacking an enemy and entering battle, the enemy's corresponding Type Toughness will be Weakened.",
+      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
       "values": [],
       "format": []
     },

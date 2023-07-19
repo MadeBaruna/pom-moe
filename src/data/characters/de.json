@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "Eine Verwaltungsoffizierin der Silbermähnen-Wachen.\\nSie hat eine strenge Art und genießt ein hohes Ansehen bei den anderen Silbermähnen."
+    "background": "Eine Aufklärungsoffizierin der Silbermähnen-Wachen.\\nSie hat eine strenge Art und genießt ein hohes Ansehen bei den anderen Silbermähnen-Wachen."
   },
   "clara": {
     "id": "clara",
@@ -166,6 +166,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "Der General der göttlichen Vorsehung, einer der sieben himmlischen Generäle des Herrscherbogens der Xianzhou-Allianz, führt die Wolkenritter der Luofu.\\nEr ist zwar ein Schüler des früheren Luofu-Schwertmeisters, aber nicht unbedingt für seine Kampffähigkeiten bekannt."
+  },
+  "blade": {
+    "id": "blade",
+    "name": "Blade",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Ein Schwertkämpfer und Mitglied der Stellaron-Jäger, der sich trotz der Gefahr fürs Leben in den Kampf stürzt.\\nEr hat dem „Knecht des Schicksals“ die Treue geschworen und verfügt über eine Furcht einflößende Selbstheilungskraft."
   },
   "sushang": {
     "id": "sushang",

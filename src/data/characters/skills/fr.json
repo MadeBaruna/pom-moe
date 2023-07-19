@@ -706,7 +706,7 @@
     },
     "skill": {
       "name": "Autoriser les modifications ?",
-      "desc": "Il y a <span style=\"color: #f29e38ff\">{2}</span> de <u>chances de base</u> d'appliquer 1 Faiblesse du type d'un allié présent sur le champ de bataille à une cible ennemie. Réduit également la RÉS aux DGT de ce type de faiblesse de l'ennemi de {4} pendant {3} tours. Si l'ennemi a déjà ce type de faiblesse, l'effet de réduction de RÉS aux DGT ne sera pas déclenché.\\nChaque ennemi ne peut avoir qu'une seule Faiblesse appliquée par Louve d'argent à la fois. Si Louve d'argent applique une nouvelle Faiblesse, elle remplace la précédente.\\nD'autre part, il y a {5} de <u>chances de base</u> de réduire toutes les RÉS de type de l'ennemi de <span style=\"color: #f29e38ff\">{6}</span> pendant {7} tours.\\nInflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Louve d'argent à cet ennemi.",
+      "desc": "Il y a <span style=\"color: #f29e38ff\">{2}</span> de <u>chances de base</u> d'appliquer 1 Faiblesse du type d'un personnage présent sur le champ de bataille à une cible ennemie. Réduit également la RÉS aux DGT de ce type de faiblesse de l'ennemi de {4} pendant {3} tours. Si l'ennemi a déjà ce type de faiblesse, l'effet de réduction de RÉS aux DGT ne sera pas déclenché.\\nChaque ennemi ne peut avoir qu'une seule Faiblesse appliquée par Louve d'argent à la fois. Si Louve d'argent applique une nouvelle Faiblesse, elle remplace la précédente.\\nD'autre part, il y a {5} de <u>chances de base</u> de réduire toutes les RÉS de type de l'ennemi de <span style=\"color: #f29e38ff\">{6}</span> pendant {7} tours.\\nInflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Louve d'argent à cet ennemi.",
       "values": [
         [
           98,
@@ -1303,7 +1303,7 @@
       ]
     },
     "talent": {
-      "name": "On n'est pas mieux servi que par soi-même",
+      "name": "La chance a tourné !",
       "desc": "Lorsque l'attaque d'un allié réduit le pourcentage de PV d'un ennemi à {1} ou moins, Herta lance une <u>attaque de suivi</u> qui inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{2}</span> de son ATQ à tous les ennemis.",
       "values": [
         [
@@ -3304,7 +3304,7 @@
     },
     "skill": {
       "name": "Prière de la Fleur de l'abîme",
-      "desc": "Après utilisation de la compétence, restaure immédiatement des PV à une cible alliée à hauteur de <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{2}</span>. D'autre part, Luocha obtient 1 cumul de Fleur de l'abîme.\\nLorsque le pourcentage de PV d'un allié devient inférieur ou égal à {3}, un effet équivalent à celui de la compétence de Luocha est immédiatement déclenché et appliqué une fois à cet allié (sans consommer de points de compétence). Cet effet peut être déclenché à nouveau après {4} tours.",
+      "desc": "Après utilisation de la compétence, restaure immédiatement des PV à une cible alliée à hauteur de <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{2}</span>. D'autre part, Luocha obtient 1 cumul de Fleur de l'abîme.\\nLorsque le pourcentage de PV d'un allié devient inférieur ou égal à {3}, un effet équivalent à celui de la compétence est immédiatement déclenché et appliqué une fois à cet allié (sans consommer de points de compétence). Cet effet peut être déclenché à nouveau après {4} tours.",
       "values": [
         [
           40,
@@ -3386,7 +3386,7 @@
     },
     "talent": {
       "name": "Cycle de la vie",
-      "desc": "Lorsque le nombre de cumuls de Fleur de l'abîme atteint {1}, Luocha consomme tous les cumuls de Fleur de l'abîme pour déployer un Champ hostile aux ennemis.\\nLorsqu'un ennemi situé dans le Champ est attaqué par un allié, ce dernier restaure immédiatement un montant de PV équivalent à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{4}</span>.\\nL'effet du Champ dure {3} tours. Le Champ se dissipe lorsque Luocha est à terre.",
+      "desc": "Lorsque le nombre de cumuls de Fleur de l'abîme atteint {1}, Luocha consomme tous les cumuls de Fleur de l'abîme pour déployer un Champ hostile aux ennemis.\\nLorsqu'un ennemi situé dans le Champ est attaqué par un allié, les PV de ce dernier sont immédiatement restaurés à hauteur de <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{4}</span>.\\nL'effet du Champ dure {3} tours. Le Champ se dissipe lorsque Luocha est à terre.",
       "values": [
         [
           2
@@ -3444,7 +3444,7 @@
     },
     "technique": {
       "name": "Miséricorde d'un fou",
-      "desc": "Après utilisation de la technique, le talent se déclenche immédiatement au début du combat suivant.",
+      "desc": "Après utilisation de la technique, déclenche immédiatement l'effet du talent au début du combat suivant.",
       "values": [],
       "format": []
     }
@@ -3595,6 +3595,320 @@
       ]
     }
   },
+  "blade": {
+    "attack": {
+      "name": "Lame d'éclat",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Blade à une cible ennemie.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Vue de l'enfer",
+      "desc": "Consomme {1} des PV max de Blade pour entrer dans l'état Vue de l'enfer.\\nLorsque l'état Vue de l'enfer est actif, Blade ne peut plus utiliser sa compétence, mais les DGT qu'il inflige augmentent de <span style=\"color: #f29e38ff\">{4}</span>, et son ATQ normale Lame d'éclat se renforce en Forêt de lames pendant {2} tours.\\nSi les PV de Blade sont insuffisants pour utiliser la compétence, ils tombent à 1 après utilisation de la compétence.\\nCette compétence ne régénère pas l'énergie. Utiliser cette compétence ne met pas fin au tour.",
+      "values": [
+        [
+          30
+        ],
+        [
+          3
+        ],
+        [
+          1
+        ],
+        [
+          12,
+          15,
+          18,
+          20,
+          23,
+          26,
+          29,
+          33,
+          36,
+          40,
+          43,
+          46,
+          48,
+          51,
+          54
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Condamnation à mort",
+      "desc": "Les PV de Blade passent à 50 % de ses PV max, et il inflige des DGT de vent équivalents à la somme de <span style=\"color: #f29e38ff\">{1}</span> de son ATQ, <span style=\"color: #f29e38ff\">{2}</span> de ses PV max, et <span style=\"color: #f29e38ff\">{5}</span> du total des PV qu'il a perdus au cours du combat à une cible unique, tout en infligeant des DGT de vent équivalents à la somme de <span style=\"color: #f29e38ff\">{3}</span> de son ATQ, <span style=\"color: #f29e38ff\">{4}</span> de ses PV max, et <span style=\"color: #f29e38ff\">{6}</span> du total des PV qu'il a perdus au cours du combat aux cibles adjacentes. Le montant des PV qu'il a perdus au cours du combat est plafonné à <span style=\"color: #f29e38ff\">{7}</span> de ses PV max. Ce montant est remis à zéro et recommence à s'accumuler après l'utilisation de l'ultime.",
+      "values": [
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          9.6,
+          10.2,
+          10.9,
+          11.5,
+          12.2,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          16.6,
+          17.3,
+          17.9,
+          18.6,
+          19.2
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Don de Shuhu",
+      "desc": "Chaque fois que Blade subit des DGT ou consomme ses PV, il gagne 1 cumul de Charge, jusqu'à un maximum de 5 cumuls. Blade ne peut gagner qu'1 cumul de Charge au maximum pour chaque attaque qu'il subit.\\nLorsque le nombre de cumuls de Charge atteint son maximum, il lance immédiatement une <u>attaque de suivi</u> sur tous les ennemis, infligeant des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{2}</span> de son ATQ + <span style=\"color: #f29e38ff\">{4}</span> de ses PV max. Blade restaure également {3} de ses PV max. Toutes les Charges sont consommées après avoir déclenché l'attaque de suivi.",
+      "values": [
+        [
+          3
+        ],
+        [
+          22,
+          24,
+          26,
+          29,
+          31,
+          33,
+          36,
+          39,
+          41,
+          44,
+          46,
+          48,
+          51,
+          53,
+          55
+        ],
+        [
+          25
+        ],
+        [
+          55,
+          61,
+          66,
+          72,
+          77,
+          83,
+          89,
+          96,
+          103,
+          110,
+          115,
+          121,
+          126,
+          132,
+          138
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Vent de karma",
+      "desc": "Attaque immédiatement les ennemis. Consomme {2} des PV max de Blade après être entré en combat pour infliger des DGT de vent équivalents à {1} de ses PV max à tous les ennemis.\\nSi les PV de Blade sont insuffisants, ils tombent à 1 après utilisation de cette technique.",
+      "values": [
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Forêt de lames",
+      "desc": "Consomme <span style=\"color: #f29e38ff\">{1}</span> des PV max de Blade pour infliger des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{2}</span> de son ATQ + <span style=\"color: #f29e38ff\">{4}</span> de ses PV max à une cible unique. Inflige également des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{3}</span> de l'ATQ de Blade + <span style=\"color: #f29e38ff\">{5}</span> de ses PV max aux cibles adjacentes. Si les PV de Blade sont insuffisants, ils tombent à 1 après utilisation de Forêt de lames.\\nForêt de lames ne permet pas de régénérer de points de compétence.",
+      "values": [
+        [
+          10
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ],
+        [
+          8,
+          10,
+          11,
+          13,
+          14,
+          16,
+          18,
+          19,
+          21
+        ],
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
   "sushang": {
     "attack": {
       "name": "Escrime perce-nuages : Étoile brillante",
@@ -3618,7 +3932,7 @@
     },
     "skill": {
       "name": "Escrime perce-nuages : Chute de montagne",
-      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Sushang à un ennemi unique. De plus, il y a {3} de chances de déclencher Posture de l'épée lors du coup final, ce qui inflige à l'ennemi des DGT physiques <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Sushang.\\nSi l'ennemi est affecté par <u>Rupture de faiblesse</u>, le déclenchement de Posture de l'épée est garanti.",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Sushang à un ennemi unique. De plus, il y a {3} de chances de déclencher Posture de l'épée lors du coup final, ce qui inflige à l'ennemi des DGT physiques <u>additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Sushang.\\nSi l'ennemi est affecté par une <u>Rupture de faiblesse</u>, le déclenchement de Posture de l'épée est garanti.",
       "values": [
         [
           105,
@@ -3788,7 +4102,7 @@
     },
     "skill": {
       "name": "Salve de courage",
-      "desc": "Obtient {1} cumuls de Rugissement des cordes (maximum de 2 cumuls). Lorsque « Rugissement des cordes » est actif, l'ATQ de tous les alliés augmente de <span style=\"color: #f29e38ff\">{2}</span>, et Yukong perd 1 cumul de « Rugissement des cordes » à la fin de chaque tour allié.\\nAu cours du tour où Yukong obtient « Rugissement des cordes » en utilisant sa compétence, elle ne perd pas de cumul de « Rugissement des cordes ».",
+      "desc": "Obtient {1} cumuls de « Rugissement des cordes » (maximum de 2 cumuls). Lorsque « Rugissement des cordes » est actif, l'ATQ de tous les alliés augmente de <span style=\"color: #f29e38ff\">{2}</span>, et Yukong perd 1 cumul de « Rugissement des cordes » à la fin de chaque tour allié (y compris celui de Yukong).\\nAu cours du tour où Yukong obtient « Rugissement des cordes » en utilisant sa compétence, elle ne perd pas de cumul de « Rugissement des cordes ».",
       "values": [
         [
           2
@@ -3880,7 +4194,7 @@
     },
     "talent": {
       "name": "Sept épaisseurs, une flèche",
-      "desc": "Les ATQ normales infligent des DGT imaginaires supplémentaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yukong et les DGT à la robustesse de ces attaques augmentent de {2}. Cet effet peut être déclenché une fois tous les {3} tours.",
+      "desc": "Les ATQ normales infligent des DGT imaginaires supplémentaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yukong et les DGT à la robustesse de ces attaques augmentent de {2}. Cet effet peut être déclenché à nouveau après {3} tour.",
       "values": [
         [
           40,
@@ -3914,13 +4228,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Après avoir attaqué un ennemi et rejoint le combat, la résistance de l'ennemi au type correspondant est affaiblie.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "À la poursuite du vent",
-      "desc": "Après utilisation de la technique, entre en mode Sprint pendant {1} secondes. En mode Sprint, la vitesse de déplacement augmente de {2} et Yukong obtient {3} cumuls de « Rugissement des cordes » lorsqu'elle entre en combat en attaquant des ennemis.",
+      "desc": "Après utilisation de la technique, Yukong entre en mode Sprint pendant {1} secondes. En mode Sprint, la vitesse de déplacement augmente de {2} et Yukong obtient {3} cumuls de « Rugissement des cordes » lorsqu'elle entre en combat en attaquant des ennemis.",
       "values": [
         [
           20

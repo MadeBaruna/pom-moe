@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "실버메인 철위대의 서기관\\n진중한 성격 덕에 철위대 멤버들에게 존경을 받고 있다"
+    "background": "실버메인 철위대의 정보관.\\n진중한 성격 덕에 철위대 멤버들에게 존경을 받고 있다"
   },
   "clara": {
     "id": "clara",
@@ -166,6 +166,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "선주 연맹 천궁의 7대 장군 중 하나로 나부 운기군을 통솔하는 「신책 장군」\\n전대 「나부」 검술의 일인자를 스승으로 모셨으나, 무예로 이름을 날리지는 않았다"
+  },
+  "blade": {
+    "id": "blade",
+    "name": "블레이드",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "「스텔라론 헌터」의 멤버, 전장에 몸을 내던지는 검객\\n「운명의 노예」에 충성을 다하며 무서운 자가 치유 능력을 가지고 있다"
   },
   "sushang": {
     "id": "sushang",

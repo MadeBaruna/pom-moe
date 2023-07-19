@@ -377,6 +377,12 @@
     "path": "preservation",
     "rarity": 5
   },
+  "patience-is-all-you-need": {
+    "id": "patience-is-all-you-need",
+    "name": "Juste de la patience",
+    "path": "nihility",
+    "rarity": 5
+  },
   "incessant-rain": {
     "id": "incessant-rain",
     "name": "Pluie incessante",
@@ -387,6 +393,12 @@
     "id": "echoes-of-the-coffin",
     "name": "Échos du cercueil",
     "path": "abundance",
+    "rarity": 5
+  },
+  "the-unreachable-side": {
+    "id": "the-unreachable-side",
+    "name": "Traversée impossible",
+    "path": "destruction",
     "rarity": 5
   },
   "before-dawn": {

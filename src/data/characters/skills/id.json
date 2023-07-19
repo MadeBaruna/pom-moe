@@ -3595,6 +3595,320 @@
       ]
     }
   },
+  "blade": {
+    "attack": {
+      "name": "Shard Sword",
+      "desc": "Mengakibatkan Wind DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Blade pada 1 target musuh.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Hellscape",
+      "desc": "Mengonsumsi HP sebesar {1} Max HP Blade dan memasuki status \"Hellscape\".\\nSaat berstatus \"Hellscape\", Blade tidak dapat melancarkan Skill dan DMG yang diakibatkannya akan meningkat <span style=\"color: #f29e38ff\">{4}</span>. Basic Attack \"Shard Sword\" akan meningkat menjadi \"Forest of Swords\" selama {2} giliran.\\nJika HP-nya tidak mencukupi, saat melancarkan Skill, HP Blade akan berkurang hingga 1.\\nSkill ini tidak dapat memulihkan Energy. Setelah melancarkan Skill ini, giliran saat ini tidak akan berakhir.",
+      "values": [
+        [
+          30
+        ],
+        [
+          3
+        ],
+        [
+          1
+        ],
+        [
+          12,
+          15,
+          18,
+          20,
+          23,
+          26,
+          29,
+          33,
+          36,
+          40,
+          43,
+          46,
+          48,
+          51,
+          54
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Death Sentence",
+      "desc": "Mengubah HP Blade saat ini menjadi 50% dari Max HP-nya, serta mengakibatkan Wind DMG pada 1 musuh sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK + <span style=\"color: #f29e38ff\">{2}</span> Max HP + <span style=\"color: #f29e38ff\">{5}</span> perhitungan akumulasi jumlah HP Blade yang berkurang dalam pertempuran ini. Di saat yang bersamaan juga akan mengakibatkan Wind DMG pada target di sekitarnya sebesar <span style=\"color: #f29e38ff\">{3}</span> ATK + <span style=\"color: #f29e38ff\">{4}</span> Max HP + <span style=\"color: #f29e38ff\">{6}</span> perhitungan akumulasi jumlah HP Blade yang berkurang dalam pertempuran ini.\\nPerhitungan jumlah akumulasi HP Blade yang berkurang di pertempuran saat ini maksimal tidak dapat melebihi {7} Max HP Blade. Setelah melancarkan Ultimate, perhitungan jumlah akumulasi akan direset ulang dan diakumulasi kembali.",
+      "values": [
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          9.6,
+          10.2,
+          10.9,
+          11.5,
+          12.2,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          16.6,
+          17.3,
+          17.9,
+          18.6,
+          19.2
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ],
+        [
+          24,
+          26,
+          27,
+          29,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        [
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Shuhu's Gift",
+      "desc": "Saat Blade terkena serangan atau mengonsumsi HP-nya, dia akan mendapatkan 1 lapis Charge, maksimal 5 lapis. Setiap kali Blade terkena serangan, Blade hanya bisa mendapatkan 1 lapis Charge efek ini.\\nSetelah jumlah Charge mencapai batas maksimal, Blade akan segera melancarkan 1 kali <u>Serangan Lanjutan</u> yang mengakibatkan Wind DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Blade + <span style=\"color: #f29e38ff\">{4}</span> Max HP Blade pada seluruh musuh. Di saat yang bersamaan, akan memulihkan HP Blade sebesar {3} Max HP-nya. Setelah Serangan Lanjutan ini dilancarkan, semua lapisan Charge akan dihapus.",
+      "values": [
+        [
+          3
+        ],
+        [
+          22,
+          24,
+          26,
+          29,
+          31,
+          33,
+          36,
+          39,
+          41,
+          44,
+          46,
+          48,
+          51,
+          53,
+          55
+        ],
+        [
+          25
+        ],
+        [
+          55,
+          61,
+          66,
+          72,
+          77,
+          83,
+          89,
+          96,
+          103,
+          110,
+          115,
+          121,
+          126,
+          132,
+          138
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Karma Wind",
+      "desc": "Segera menyerang musuh. Setelah memasuki pertempuran, mengonsumsi HP sebesar {2} Max HP Blade dan di saat bersamaan, mengakibatkan Wind DMG sebesar {1} Max HP Blade pada seluruh musuh.\\nJika HP saat ini tidak cukup, saat melancarkan Technique, HP Blade saat ini akan berkurang hingga 1.",
+      "values": [
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Forest of Swords",
+      "desc": "Mengonsumsi HP sebesar {1} Max HP Blade dan mengakibatkan Wind DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Blade + <span style=\"color: #f29e38ff\">{4}</span> Max HP Blade pada 1 musuh yang ditargetkan. Di saat bersamaan juga mengakibatkan Wind DMG sebesar <span style=\"color: #f29e38ff\">{3}</span> ATK Blade + <span style=\"color: #f29e38ff\">{5}</span> Max HP Blade pada musuh di sekitar target.\\nJika HP saat ini tidak cukup, HP Blade saat ini akan langsung berkurang hingga 1 saat melancarkan \"Forest of Swords\".\\n\"Forest of Swords\" tidak dapat memulihkan Poin Skill.",
+      "values": [
+        [
+          10
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ],
+        [
+          8,
+          10,
+          11,
+          13,
+          14,
+          16,
+          18,
+          19,
+          21
+        ],
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ],
+        [
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
   "sushang": {
     "attack": {
       "name": "Cloudfencer Art: Starshine",

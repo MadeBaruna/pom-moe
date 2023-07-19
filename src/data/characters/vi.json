@@ -109,7 +109,7 @@
     "path": "nihility",
     "element": "ice",
     "rarity": 4,
-    "background": "Thư ký của Thiết Vệ Bờm Bạc.\\nChăm chỉ, được các thành viên của Đội Thiết Vệ vô cùng kính trọng."
+    "background": "Sĩ quan tình báo Thiết Vệ Bờm Bạc.\\nChăm chỉ, được các thành viên của đội thiết vệ vô cùng kính trọng."
   },
   "clara": {
     "id": "clara",
@@ -166,6 +166,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "Một trong Thất Thiên Tướng Đế Cung Liên Minh Xianzhou, \"Thần Sách Tướng Quân\" phụ trách chỉ huy Vân Kỵ Quân Luofu.\\nSư phụ là kiếm thủ hàng đầu tiền nhiệm của \"Luofu\", nhưng lại không được biết đến với tài năng võ thuật."
+  },
+  "blade": {
+    "id": "blade",
+    "name": "Blade",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Thành viên của Thợ Săn Stellaron, một kiếm khách từ bỏ thân mình, trở thành lưỡi kiếm sắc nhọn.\\nTrung thành với \"Nô Lệ Của Số Phận\", sở hữu năng lực tự chữa lành đáng sợ."
   },
   "sushang": {
     "id": "sushang",

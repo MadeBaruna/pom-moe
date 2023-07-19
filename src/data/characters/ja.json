@@ -167,6 +167,14 @@
     "rarity": 5,
     "background": "仙舟同盟帝弓七天将の1人。仙舟「羅浮」の雲騎軍を率いる「神策将軍」。\\n先代の「羅浮」剣首に師事していたが、武力で名をはせてはいない。"
   },
+  "blade": {
+    "id": "blade",
+    "name": "刃",
+    "path": "destruction",
+    "element": "wind",
+    "rarity": 5,
+    "background": "「星核ハンター」のメンバー。己が身を顧みず、刃にさらす剣客。\\n「運命の奴隷」に仕え、怖ろしい自己回復力を持つ。"
+  },
   "sushang": {
     "id": "sushang",
     "name": "素裳",
