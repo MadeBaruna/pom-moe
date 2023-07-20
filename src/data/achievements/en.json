@@ -12,21 +12,21 @@
       {
         "id": 4010201,
         "name": "Destiny Beckons (I)",
-        "desc": "Possess 1 Light Cone at Lv. 40",
+        "desc": "Possess 1 Lv. 40 Light Cone",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4010202,
         "name": "Destiny Beckons (II)",
-        "desc": "Possess 1 Light Cone at Lv. 60",
+        "desc": "Possess 1 Lv. 60 Light Cone",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4010203,
         "name": "Destiny Beckons (III)",
-        "desc": "Possess 1 Light Cone at Lv. 80",
+        "desc": "Possess 1 Lv. 80 Light Cone",
         "rarity": 3,
         "version": "1.0"
       },
@@ -328,11 +328,25 @@
         "version": "1.0"
       },
       {
-        "id": 4032309,
-        "name": "Draconic Opulence",
-        "desc": "Witness Dan Shu's story\\n<color=#8790abff>※ Discover Dan Shu's true identity and witness the rise of the Disciples of Sanctus Medicus</color>",
+        "id": 4032501,
+        "name": "Svah Sanishyu",
+        "desc": "If they come back to life, then just kill them again...\\n<color=#8790abff>※ Defeat the Master of the Disciples of Sanctus Medicus</color>",
         "rarity": 2,
-        "version": "1.0"
+        "version": "1.2"
+      },
+      {
+        "id": 4032502,
+        "name": "The Imbibitor Lunae Arrives",
+        "desc": "Sea's Depths Conceal No Stone, Dragon's Breaths Reveal the Moon.\\n<color=#8790abff>※ Witness Dan Heng part the waters in Scalegorge Waterscape</color>",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4032503,
+        "name": "The Arbor Snaps",
+        "desc": "All plots shall be overturned\\n<color=#8790abff>※ Help Jing Yuan to defeat Phantylia</color>",
+        "rarity": 3,
+        "version": "1.2"
       }
     ]
   },
@@ -368,6 +382,13 @@
         "version": "1.0"
       },
       {
+        "id": 4042506,
+        "name": "Travels Afar",
+        "desc": "Activate Space Anchors 20 times on the Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
         "id": 4040102,
         "name": "But at What Cost?",
         "desc": "Open Treasures 110 times in Belobog",
@@ -380,6 +401,13 @@
         "desc": "Open Treasures 100 time(s) on the Xianzhou Luofu",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042507,
+        "name": "The Star of Wealth Shines Upon You",
+        "desc": "Open Treasures 170 times on the Xianzhou Luofu",
+        "rarity": 2,
+        "version": "1.2"
       },
       {
         "id": 4040301,
@@ -573,9 +601,44 @@
       {
         "id": 4040412,
         "name": "North by Northwest",
-        "desc": "Complete the Formation-Breaking Compass 20 time(s)",
+        "desc": "Complete the Navigation Compass 20 time(s)",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042501,
+        "name": "I Was Here Flying: Meridian Pin",
+        "desc": "Fly a cycrane to the vicinity of the Meridian Pin",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042502,
+        "name": "I Was Here Flying: Matrix of Prescience",
+        "desc": "Fly a cycrane to the middle of the Matrix of Prescience",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042503,
+        "name": "I Was Here Flying: Aureate Elixir Furnace",
+        "desc": "Fly a cycrane to the vicinity of the Aureate Elixir Furnace",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042504,
+        "name": "Take It Easy, Icarus",
+        "desc": "Fly a cycrane to test the limits of its remote control range",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042505,
+        "name": "Unboxing Assessment",
+        "desc": "There is no delivery package inspector more reliable than you",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4042401,
@@ -672,6 +735,27 @@
         "desc": "Witness Luocha's hidden side.\\n<color=#8790abff>※ Check the restored recording and listen to Luocha's monologue.</color>",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052506,
+        "name": "Soaring Birds and Paper Kites",
+        "desc": "Complete the Companion Mission \"For I Have Touched the Sky\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052507,
+        "name": "Free Will",
+        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n<color=#8790abff>※ You chose to help Kafka</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052511,
+        "name": "True Free Will",
+        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n<color=#8790abff>※ You chose to leave Kafka. Not many people would, but this is how you proved your free will</color>",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4051103,
@@ -919,6 +1003,13 @@
         "version": "1.0"
       },
       {
+        "id": 4032309,
+        "name": "Draconic Opulence",
+        "desc": "Witness Dan Shu's story",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
         "id": 4052404,
         "name": "Free For Today",
         "desc": "Open up the general exhibition area of the Belobog History and Culture Museum",
@@ -1040,7 +1131,7 @@
       {
         "id": 4052337,
         "name": "Labor Omnia Vincit",
-        "desc": "Examine 3 separate file cabinets in the Seat of Divine Foresight",
+        "desc": "Examine 7 separate file cabinets in the Seat of Divine Foresight",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1120,6 +1211,62 @@
         "desc": "Complete the challenge from the \"Four Great Villains of the Luofu (Self-Proclaimed)\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "The Willing Does Not Bite",
+        "desc": "Uncover the connection between the two anglers from the Artisanship Commission",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "How I Learned to Stop Worrying",
+        "desc": "Successfully resolve the neutron bomb crisis",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Lunarescent Rim",
+        "desc": "Participate 1 time in the Aurumaton Driving Exam",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Wordsmith",
+        "desc": "Have your literary talent recognized by the Metrical Poet",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Literary Novice",
+        "desc": "Fail to have your literary talent recognized by the Metrical Poet",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "Ends Above the Means",
+        "desc": "Complete 1 successful release with the Unshackled",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Means Above the Ends",
+        "desc": "Witness the end of the Unshackled",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052510,
+        "name": "Friend of the Cloud Knights",
+        "desc": "Fulfill the General's orders without distractions",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1202,6 +1349,13 @@
         "desc": "Complete Echo of War 10 time(s)",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4062501,
+        "name": "Voyage to the Ends of the Sky",
+        "desc": "Clear Forgotten Hall: Memory of Xianzhou Stage 6",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1225,42 +1379,42 @@
       {
         "id": 4070301,
         "name": "Serious Punch",
-        "desc": "Deal equal to or more than 1000 DMG in a single attack",
+        "desc": "Deal equal to or more than 1000 DMG in a single hit",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070302,
         "name": "Ki Impact",
-        "desc": "Deal equal to or more than 20000 DMG in a single attack",
+        "desc": "Deal equal to or more than 20000 DMG in a single hit",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070303,
         "name": "Annihilation",
-        "desc": "Deal equal to or more than 150000 DMG in a single attack",
+        "desc": "Deal equal to or more than 150000 DMG in a single hit",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070401,
         "name": "Consecutive Normal Punches",
-        "desc": "Deal 2000 DMG in one attack",
+        "desc": "Deal 2000 DMG in a single action",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070402,
         "name": "Blade of Taixu",
-        "desc": "Deal 40000 DMG in one attack",
+        "desc": "Deal 40000 DMG in a single action",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070403,
         "name": "Reverberating Ruin",
-        "desc": "Deal 300000 DMG in one attack",
+        "desc": "Deal 300000 DMG in a single action",
         "rarity": 2,
         "version": "1.0"
       },
@@ -1617,7 +1771,7 @@
       {
         "id": 4071018,
         "name": "Bring a Gun to a Knife Fight",
-        "desc": "Deal #2[i] DMG or higher to an enemy whose HP percentage is equal to or lower than <unbreak>0%</unbreak> in a single attack",
+        "desc": "Deal #2[i] DMG or higher to an enemy whose HP percentage is equal to or lower than <unbreak>0%</unbreak> in a single action",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1631,7 +1785,7 @@
       {
         "id": 4071501,
         "name": "Four-and-a-Half Pirouettes",
-        "desc": "Trigger Herta's talent with an ally's single attack, and have her twirl 5 time(s)",
+        "desc": "Trigger Herta's talent with an ally's single action, and have her twirl 5 time(s)",
         "rarity": 2,
         "version": "1.0"
       },
@@ -1651,7 +1805,7 @@
       },
       {
         "id": 4071504,
-        "name": "Trial of Thirteen",
+        "name": "The Thirteen Labors",
         "desc": "In a single battle, make Svarog block attacks toward Clara 13 times",
         "rarity": 2,
         "version": "1.0"
@@ -1872,6 +2026,55 @@
         "desc": "Use Silver Wolf to fight enemy Kafka and apply 2 Weaknesse(s) to her in a single battle",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4072501,
+        "name": "Sickly Complexion",
+        "desc": "Dispel the Prana-Siphon state for a total of 5 times during a single battle against Phantylia",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072502,
+        "name": "Horticulturalist",
+        "desc": "Defeat Phantylia without defeating any Abundance Lotuses",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4072503,
+        "name": "BOOM",
+        "desc": "In a single battle, trigger 4 different DoT effects with 1 use of Kafka's Skill \"Caressing Moonlight\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072504,
+        "name": "Unfulfilled Wish",
+        "desc": "\"Unnecessary.\"\\n<color=#8790abff>※ In a single battle, use the character Blade to restore his HP from less than or equal to 0% to greater than or equal to <unbreak>30%</unbreak> in one single action for <unbreak>#2[i]</unbreak> time(s)</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072505,
+        "name": "Go, Bladie",
+        "desc": "Use ally Blade in combat against boss Kafka and be Dominated by her",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072506,
+        "name": "Win by Decision",
+        "desc": "In a single battle, use Luka's \"Sky-Shatter Fist\" for a total of 4 time(s)",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072507,
+        "name": "Self-Hypnosis",
+        "desc": "Use ally Kafka in combat against boss Kafka and be Dominated by her",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2129,6 +2332,13 @@
         "desc": "Win 1 battle(s) with a team comprising Luocha, Sushang, and Yanqing",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4082501,
+        "name": "Guardian of the Underworld",
+        "desc": "Win 1 battle with a team comprising Natasha, Seele, and Luka",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2159,7 +2369,7 @@
       {
         "id": 4090204,
         "name": "Elemental Reaction System",
-        "desc": "Deal 5 or more Types of DMG in a single attack in Simulated Universe",
+        "desc": "Deal 5 or more Types of DMG in a single action in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
       },

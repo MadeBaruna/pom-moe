@@ -328,11 +328,25 @@
         "version": "1.0"
       },
       {
-        "id": 4032309,
-        "name": "Rắn Độc Khắp Nơi",
-        "desc": "Chứng kiến câu chuyện của Dan Shu\\n<color=#8790abff>※Phát hiện thân phận thật sự của Dan Shu, chứng kiến Bí Truyền Dược Vương trỗi dậy</color>",
+        "id": 4032501,
+        "name": "Trường Sinh Đoản Mộng",
+        "desc": "Nếu chúng sống lại thì giết thêm lần nữa...\\n<color=#8790abff>※Đánh bại kẻ đứng đầu \"Bí Truyền Dược Vương\"</color>",
         "rarity": 2,
-        "version": "1.0"
+        "version": "1.2"
+      },
+      {
+        "id": 4032502,
+        "name": "Ẩm Nguyệt Quân Đến",
+        "desc": "Biển không giấu ngọc sáng, rồng nhẹ nhả ánh trăng\\n<color=#8790abff>※Chứng kiến cảnh Dan Heng chia cắt nước biển ở Lân Uyên Cảnh</color>",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4032503,
+        "name": "Nhánh Cây Kiến Tạo",
+        "desc": "Tất cả âm mưu quỷ kế đều sẽ bị phá tan\\n<color=#8790abff>※Giúp Jing Yuan đánh bại Phantylia</color>",
+        "rarity": 3,
+        "version": "1.2"
       }
     ]
   },
@@ -368,6 +382,13 @@
         "version": "1.0"
       },
       {
+        "id": 4042506,
+        "name": "Hành Tung Nơi Xa",
+        "desc": "Kích hoạt 20 lần Mỏ Neo Không Gian ở Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
         "id": 4040102,
         "name": "Cái Giá Phải Trả Là Gì?",
         "desc": "Mở 110 lần Chiến Lợi Phẩm Belobog",
@@ -380,6 +401,13 @@
         "desc": "Mở 100 lần Chiến Lợi Phẩm Xianzhou Luofu",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042507,
+        "name": "Cát Tinh Chiếu Rọi",
+        "desc": "Mở 170 lần Chiến Lợi Phẩm ở Xianzhou Luofu",
+        "rarity": 2,
+        "version": "1.2"
       },
       {
         "id": 4040301,
@@ -573,9 +601,44 @@
       {
         "id": 4040412,
         "name": "Bắc Tây Bắc",
-        "desc": "Hoàn thành 20 lần La Bàn Phá Trận",
+        "desc": "Hoàn thành La Bàn Điều Hướng 20 lần",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042501,
+        "name": "Bay Đến Nơi Này: Chốt Kinh Tuyến",
+        "desc": "Điều khiển Chim Robot bay đến gần Chốt Kinh Tuyến",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042502,
+        "name": "Bay Đến Nơi Này: Ma Trận Tiên Tri",
+        "desc": "Điều khiển Chim Robot bay đến giữa Ma Trận Tiên Tri",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042503,
+        "name": "Bay Đến Nơi Này: Thái Chân Đan Thất",
+        "desc": "Điều khiển Chim Robot bay đến gần Thái Chân Đan Thất",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042504,
+        "name": "Thư Giãn Đi, Icarus",
+        "desc": "Thử điều khiển Chim Robot để kiểm tra giới hạn phạm vi điều khiển từ xa của nó",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042505,
+        "name": "Review Rương",
+        "desc": "Không có nhân viên kiểm tra an toàn chuyển phát nhanh nào đáng tin cậy hơn bạn",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4042401,
@@ -672,6 +735,27 @@
         "desc": "Chứng kiến mặt trái không để người khác biết của Luocha\\n<color=#8790abff>※Xem đoạn ghi hình sau khi sửa chữa, nghe Luocha độc thoại</color>",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052506,
+        "name": "Chim Bay Và Diều Giấy",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Vì Tôi Đã Từng Chạm Vào Bầu Trời\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052507,
+        "name": "Ý Chí Tự Do",
+        "desc": "Hoàn thành nhiệm vụ đồng hành \"Bức Thư Từ Người Phụ Nữ Xa Lạ\"\\n<color=#8790abff>※Bạn đã chọn giúp đỡ Kafka</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052511,
+        "name": "Ý Chí Tự Do Chân Chính",
+        "desc": "Hoàn thành nhiệm vụ đồng hành \"Bức Thư Từ Người Phụ Nữ Xa Lạ\"\\n<color=#8790abff>※Bạn đã chọn rời khỏi Kafka, rất ít người làm như vậy, nhưng việc này chứng minh bạn có ý chí tự do</color>",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4051103,
@@ -919,6 +1003,13 @@
         "version": "1.0"
       },
       {
+        "id": 4032309,
+        "name": "Rắn Độc Khắp Nơi",
+        "desc": "Chứng kiến câu chuyện của Dan Shu",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
         "id": 4052404,
         "name": "Hôm Nay Mở Miễn Phí",
         "desc": "Mở khu trưng bày tổng hợp Viện Bảo Tàng Văn Hóa Lịch Sử Belobog",
@@ -1040,7 +1131,7 @@
       {
         "id": 4052337,
         "name": "Công Việc Bận Rộn",
-        "desc": "Trong Phủ Thần Sách, xem 3 tủ hồ sơ khác nhau",
+        "desc": "Trong Phủ Thần Sách, xem 7 tủ hồ sơ khác nhau",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1120,6 +1211,62 @@
         "desc": "Hoàn thành khiêu chiến \"Tứ Đại Ác Nhân Luofu\" (tự xưng)",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "Nguyện Người Đừng Cắn Câu",
+        "desc": "Phát hiện mối quan hệ giữa hai kẻ ở Sở Công Nghiệp",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Làm Sao Học Được Cách Dừng Lo Sợ",
+        "desc": "Giải quyết thành công cuộc khủng hoảng đạn dược",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Ba Nguyệt Cổ Hải",
+        "desc": "Tham gia 1 lần kiểm tra điều khiểu Kim Nhân",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Văn Chương Hoa Mỹ",
+        "desc": "Có được sự công nhận từ Nhà Thơ Niêm Luật trong thử thách của Nhà Thơ",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Văn Chương Sơ Sài",
+        "desc": "Chưa nhận được sự công nhận từ Nhà Thơ Niêm Luật trong thử thách của Nhà Thơ",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "Quan Trọng Là Giải Pháp",
+        "desc": "Hoàn thành 1 lần phóng sinh thành công cùng với \"Bang Phóng Sinh\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Quan Trọng Là Kết Quả",
+        "desc": "Chứng kiến kết cuộc của \"Bang Phóng Sinh\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052510,
+        "name": "Bạn Của Vân Kỵ",
+        "desc": "Toàn tâm toàn ý hoàn thành giao phó của tướng quân",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1202,6 +1349,13 @@
         "desc": "Vượt ải Dư Âm Chiến Đấu 10 lần",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4062501,
+        "name": "Chạm Đến Cuối Tầng Trời",
+        "desc": "Vượt ải Sảnh Đường Lãng Quên - Hồi Ức Xianzhou VI",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1872,6 +2026,55 @@
         "desc": "Khi dùng nhân vật Sói Bạc của phe ta chiến đấu với Kafka, trong một trận đấu, tích lũy tăng thêm 2 Điểm Yếu lên Kafka",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4072501,
+        "name": "Ấn Đường Chuyển Đen",
+        "desc": "Trong 1 trận đấu với Phantylia, tích lũy giải trừ 5 lần trạng thái Nuốt Mệnh",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072502,
+        "name": "Nghệ Nhân Bậc Thầy",
+        "desc": "Trong điều kiện không tiêu diệt Huyền Liên Trù Phú, đánh bại Phantylia",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4072503,
+        "name": "BOOM!",
+        "desc": "Trong một trận đấu, dùng Kafka thi triển Ánh Trăng Ve Vuốt 1 lần, kích hoạt 4 hiệu ứng Sát Thương Duy Trì khác nhau",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072504,
+        "name": "Không Thể Cưỡng Cầu",
+        "desc": "Nhiều Chuyện\\n<color=#8790abff>※Trong 1 trận, dùng Blade để hồi HP cho anh ấy từ mức HP nhỏ hơn hoặc bằng 0% đến lượng HP lớn hơn hoặc bằng <unbreak>30%</unbreak> <unbreak>#2[i]</unbreak> lần trong một lần tấn công</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072505,
+        "name": "Đi Đi, Bladie",
+        "desc": "Dùng nhân vật Blade phe ta chiến đấu với Kafka và vào trạng thái Chi Phối",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072506,
+        "name": "Thắng Bằng Điểm Số",
+        "desc": "Trong 1 trận, dùng Luka thi triển tích lũy 4 lần Nắm Đấm Phá Trời Trực Diện",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072507,
+        "name": "Tự Ám Thị Bản Thân",
+        "desc": "Dùng nhân vật Kafka phe ta chiến đấu với Kafka và vào trạng thái Chi Phối",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2129,6 +2332,13 @@
         "desc": "Chiến thắng 1 trận khi thiết lập đội cùng lúc có Luocha, Sushang, Yanqing",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4082501,
+        "name": "Đấng Bảo Vệ Thành Phố Ngầm",
+        "desc": "Chiến thắng 1 trận khi thiết lập đội cùng lúc có Natasha, Seele, Luka",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },

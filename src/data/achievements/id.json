@@ -328,11 +328,25 @@
         "version": "1.0"
       },
       {
-        "id": 4032309,
-        "name": "Sarang Ular",
-        "desc": "Saksikan kisah Dan Shu\\n<color=#8790abff>※ Temukan identitas asli Dan Shu dan saksikan kebangkitan \"Disciples of Sanctus Medicus\"</color>",
+        "id": 4032501,
+        "name": "Mimpi Kekal, Hidup Singkat",
+        "desc": "Jika hidup kembali setelah mati, maka renggut nyawanya sekali lagi ....\\n<color=#8790abff>※ Mengalahkan Master of the Disciples of Sanctus Medicus</color>",
         "rarity": 2,
-        "version": "1.0"
+        "version": "1.2"
+      },
+      {
+        "id": 4032502,
+        "name": "Kedatangan Imbibitor Lunae",
+        "desc": "Laut tak menyembunyikan mutiara, napas naga mengungkapkan rembulan\\n<color=#8790abff>※ Saksikan Dan Heng membelah air di Scalegorge Waterscape</color>",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4032503,
+        "name": "Arbor Patah",
+        "desc": "Segala konspirasi dan tipu muslihat pasti akan hancur\\n<color=#8790abff>※ Bantu Jing Yuan mengalahkan Phantylia</color>",
+        "rarity": 3,
+        "version": "1.2"
       }
     ]
   },
@@ -368,6 +382,13 @@
         "version": "1.0"
       },
       {
+        "id": 4042506,
+        "name": "Menyusuri Jarak Jauh",
+        "desc": "Mengaktifkan Space Anchor 20 kali di Xianzhou \"Luofu\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
         "id": 4040102,
         "name": "Berapa Harga yang Harus Dibayar?",
         "desc": "Membuka Peti Harta 110 kali di Belobog",
@@ -380,6 +401,13 @@
         "desc": "Buka Peti Harta 100 kali di Xianzhou \"Luofu\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042507,
+        "name": "Bintang Kemakmuran Menyinarimu",
+        "desc": "Membuka Peti Harta 170 kali di Xianzhou \"Luofu\"",
+        "rarity": 2,
+        "version": "1.2"
       },
       {
         "id": 4040301,
@@ -573,9 +601,44 @@
       {
         "id": 4040412,
         "name": "Barat Laut agak ke Utara",
-        "desc": "Menyelesaikan Formation-Breaking Compass 20 kali",
+        "desc": "Menyelesaikan Navigation Compass 20 kali",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042501,
+        "name": "Terbang Sampai di Sini: Pin Meridian",
+        "desc": "Menerbangkan burung pengintai ke dekat Pin Meridian",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042502,
+        "name": "Terbang Sampai di Sini: Matrix of Prescience",
+        "desc": "Menerbangkan burung pengintai ke tengah Matrix of Prescience",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042503,
+        "name": "Terbang Sampai di Sini: Aureate Elixir Furnace",
+        "desc": "Menerbangkan burung pengintai ke dekat Aureate Elixir Furnace",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042504,
+        "name": "Santai, Icarus",
+        "desc": "Mencoba untuk mengendalikan Burung Pengintai keluar dari batas wilayah pengendalian",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042505,
+        "name": "Pembukaan",
+        "desc": "Tidak ada petugas pemeriksa keamanan yang lebih hebat darimu",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4042401,
@@ -672,6 +735,27 @@
         "desc": "Menyaksikan sisi tersembunyi Luocha\\n<color=#8790abff>※ Periksa rekaman yang diperbaiki dan dengarkan kata-kata Luocha</color>",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052506,
+        "name": "Layang-Layang Kertas dan Burung yang Terbang Tinggi",
+        "desc": "Menyelesaikan Misi Bersama \"Aku Telah Menyentuh Langit\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052507,
+        "name": "Kehendak Bebas",
+        "desc": "Menyelesaikan Misi Bersama \"Surat dari Wanita Misterius\"\\n<color=#8790abff>※ Kamu memilih untuk membantu Kafka</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052511,
+        "name": "Kehendak Bebas yang Sebenarnya",
+        "desc": "Menyelesaikan Misi Bersama \"Surat dari Wanita Misterius\"\\n<color=#8790abff>※ Kamu memilih untuk meninggalkan Kafka. Jarang sekali ada orang yang akan berbuat seperti ini, tapi ini adalah bukti bahwa kamu punya kehendak bebas</color>",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4051103,
@@ -919,6 +1003,13 @@
         "version": "1.0"
       },
       {
+        "id": 4032309,
+        "name": "Sarang Ular",
+        "desc": "Saksikan kisah Dan Shu",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
         "id": 4052404,
         "name": "Gratis untuk Hari Ini",
         "desc": "Buka area pameran umum History and Culture Museum di Belobog",
@@ -1040,7 +1131,7 @@
       {
         "id": 4052337,
         "name": "Kerja Bagai Kuda",
-        "desc": "Periksa 3 lemari dokumen yang berbeda di Seat of Divine Foresight",
+        "desc": "Periksa 7 lemari dokumen yang berbeda di Seat of Divine Foresight",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1120,6 +1211,62 @@
         "desc": "Selesaikan tantangan \"Empat Orang Jahat Luofu\" (sebut sendiri)",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "Yang Mau Tidak Terjebak Umpan",
+        "desc": "Menemukan hubungan antara dua pemancing dari Artisanship Commission",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Caraku Mengatasi Ketakutan",
+        "desc": "Sukses menangani krisis bom neutron",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Pengitaran Bulan dan Gelombang Laut",
+        "desc": "Mengikuti Tes Mengemudi Pilot Aurumaton 1 kali",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Penulis Ulung",
+        "desc": "Mendapatkan pengakuan bakat literasi dari Metrical Poet",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Penulis Awam",
+        "desc": "Gagal mendapat pengakuan bakat literasi dari Metrical Poet",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "Dari Hati Turun ke Aksi",
+        "desc": "Menyelesaikan 1 kali pelepasan bersama dengan \"Kelompok Pelepasan\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Dari Mata Turun ke Hati",
+        "desc": "Menyaksikan akhir \"Kelompok Pelepasan\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052510,
+        "name": "Teman Cloud Knight",
+        "desc": "Selesaikan perintah dari Jenderal tanpa terdistraksi",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1202,6 +1349,13 @@
         "desc": "Menyelesaikan Echo of War 10 kali",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4062501,
+        "name": "Berlayar Hingga Ujung Langit",
+        "desc": "Menyelesaikan \"Memory of Xianzhou Bagian 6\" di \"Forgotten Hall\"",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1872,6 +2026,55 @@
         "desc": "Saat menggunakan Silver Wolf untuk melawan Kafka, menambah 2 Weakness pada Kafka dalam satu pertempuran",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4072501,
+        "name": "Kulit yang Sakit",
+        "desc": "Menghapus status \"Prana-Siphon\" 5 kali dalam pertempuran tunggal melawan Phantylia",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072502,
+        "name": "Ahli Taman",
+        "desc": "Mengalahkan Phantylia tanpa mengalahkan Abundance Lotus",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4072503,
+        "name": "BOOM～",
+        "desc": "Gunakan \"Caressing Moonlight\" Kafka untuk memicu 4 efek DoT yang berbeda dalam 1 pertempuran",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072504,
+        "name": "Tak Terpenuhi",
+        "desc": "Merepotkan\\n<color=#8790abff>※ Dalam satu pertempuran, #2[i] kali menggunakan Blade untuk pulihkan HP-nya dari ≤ <unbreak>0%</unbreak> ke <unbreak>30%</unbreak> HP atau lebih dalam 1 kali serangan</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072505,
+        "name": "Pergilah, Bladie",
+        "desc": "Gunakan Blade untuk melawan Kafka dan membuat dia terkena status \"Dominated\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072506,
+        "name": "Menang dengan Keputusan",
+        "desc": "Gunakan Luka untuk melancarkan \"Sky-Shatter Fist\" sebanyak 4 kali dalam 1 pertempuran",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072507,
+        "name": "Hipnosis Diri",
+        "desc": "Gunakan Kafka untuk melawan Kafka dan membuat dia terkena status \"Dominated\"",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2129,6 +2332,13 @@
         "desc": "Memenangkan 1 pertempuran dalam tim yang terdiri dari Luocha, Sushang, dan Yanqing",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4082501,
+        "name": "Pelindung Bawah Tanah",
+        "desc": "Memenangkan 1 pertempuran dengan menggunakan tim yang terdiri dari Natasha, Seele, dan Luka",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },

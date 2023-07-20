@@ -315,7 +315,7 @@
       },
       {
         "id": 4032308,
-        "name": "Todos a por el ciervo",
+        "name": "A cazar el ciervo",
         "desc": "El horno no se apaga y el ciervo está en silencio.\\n<color=#8790abff>※Salva a la Comisión de Artesanía de la crisis.</color>",
         "rarity": 2,
         "version": "1.0"
@@ -328,11 +328,25 @@
         "version": "1.0"
       },
       {
-        "id": 4032309,
-        "name": "Como una hidra",
-        "desc": "Sé testigo de la historia de Dan Shu.\\n<color=#8790abff>※ Descubre la verdadera identidad de Dan Shu y presencia el resurgimiento de los Discípulos de Sanctus Medicus.</color>",
+        "id": 4032501,
+        "name": "Svah Sanishyu",
+        "desc": "Si resucitan, vuelve a matarlos...\\n<color=#8790abff>※Derrota a la maestra de los Discípulos de Sanctus Medicus.</color>",
         "rarity": 2,
-        "version": "1.0"
+        "version": "1.2"
+      },
+      {
+        "id": 4032502,
+        "name": "La llegada de Imbibitor Lunae",
+        "desc": "Las perlas siguen brillando en la oscuridad de los océanos, y la luna sigue en lo alto pese a la presencia del dragón oscuro.\\n<color=#8790abff>※Sé testigo de cómo Dan Heng separa las aguas del Desfiladero de Escamas.</color>",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4032503,
+        "name": "Talando voy...",
+        "desc": "Todos los planes serán desbaratados.\\n<color=#8790abff>※Ayuda a Jing Yuan a derrotar a Phantylia.</color>",
+        "rarity": 3,
+        "version": "1.2"
       }
     ]
   },
@@ -368,6 +382,13 @@
         "version": "1.0"
       },
       {
+        "id": 4042506,
+        "name": "Por tierras lejanas",
+        "desc": "Activa 20 anclas del espacio en el Luofu de Xianzhou.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
         "id": 4040102,
         "name": "¿A qué precio?",
         "desc": "Abre 110 tesoros en Belobog.",
@@ -380,6 +401,13 @@
         "desc": "Abre 100 tesoros en el Luofu de Xianzhou.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042507,
+        "name": "La estrella de la riqueza se refleja en ti",
+        "desc": "Abre 170 tesoros en el Luofu de Xianzhou.",
+        "rarity": 2,
+        "version": "1.2"
       },
       {
         "id": 4040301,
@@ -573,9 +601,44 @@
       {
         "id": 4040412,
         "name": "Nornoroeste",
-        "desc": "Completa el desafío de la brújula rompeformaciones 20 veces.",
+        "desc": "Completa el desafío de la brújula de navegación 20 veces.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042501,
+        "name": "Solo volaba por aquí: Dispositivo Meridiano",
+        "desc": "Controla una robogrulla para que vuele cerca del Dispositivo Meridiano.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042502,
+        "name": "Solo volaba por aquí: Matriz del Presagio",
+        "desc": "Controla una robogrulla para que vuele hasta el centro de la Matriz del Presagio.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042503,
+        "name": "Solo volaba por aquí: Cámara del Elixir Áureo",
+        "desc": "Controla una robogrulla para que vuele cerca de la Cámara del Elixir Áureo.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042504,
+        "name": "Calma, Ícaro, calma",
+        "desc": "Vuela una robogrulla y desafía los límites del alcance de su control remoto.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042505,
+        "name": "Inspeccionacofres",
+        "desc": "No hay nadie que inspeccione la mensajería mejor que tú.",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4042401,
@@ -672,6 +735,27 @@
         "desc": "Presencia un lado de Luocha que nadie conoce.\\n<color=#8790abff>※Mira las imágenes restauradas y escucha el monólogo de Luocha.</color>",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052506,
+        "name": "Cometas de papel y pájaros voladores",
+        "desc": "Completa la misión de acompañante «Ya he tocado el cielo».",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052507,
+        "name": "Libre albedrío",
+        "desc": "Completa la misión de acompañante «Carta de una mujer desconocida».\\n<color=#8790abff>※Elige ayudar a Kafka.</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052511,
+        "name": "El verdadero libre albedrío",
+        "desc": "Completa la misión de acompañante «Carta de una mujer desconocida».\\n<color=#8790abff>※Elige abandonar a Kafka. Pocas personas lo harían, pero esto demuestra que tienes libre albedrío.</color>",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4051103,
@@ -919,6 +1003,13 @@
         "version": "1.0"
       },
       {
+        "id": 4032309,
+        "name": "Como una hidra",
+        "desc": "Sé testigo de la historia de Dan Shu.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
         "id": 4052404,
         "name": "Entrada gratuita",
         "desc": "Abre la Sala General del Museo de Historia y Cultura de Belobog.",
@@ -1040,21 +1131,21 @@
       {
         "id": 4052337,
         "name": "Un trabajo interminable",
-        "desc": "Examina 3 armarios de archivos distintos en la Sede de la Premonición Divina",
+        "desc": "Examina 7 armarios de archivos distintos en la Sede de la Premonición Divina",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4052338,
         "name": "Cuando terminan las oraciones",
-        "desc": "Impide que la turista extraña lance una moneda al motor del astroesquife.",
+        "desc": "Impide que la mujer rara lance una moneda al motor del astroesquife.",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4052339,
         "name": "Vuelo cancelado",
-        "desc": "Ayuda a la turista extraña a lanzar una moneda al motor del astroesquife.",
+        "desc": "Ayuda a la mujer rara a lanzar una moneda al motor del astroesquife.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1120,6 +1211,62 @@
         "desc": "Completa el desafío de quienes se autodenominan \"los Cuatro Siniestros del Luofu\".",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "Quien muerde el anzuelo es porque quiere",
+        "desc": "Descubre la relación entre los dos pescadores de la Comisión de Artesanía.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Teléfono rojo",
+        "desc": "Resuelve con éxito la crisis de la bomba de neutrones.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Titanes del Antiguo Mar Selenita",
+        "desc": "Participa 1 vez en la prueba para pilotos aurúmatas.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Maestro de las palabras",
+        "desc": "El poeta métrico reconoce tu talento literario.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Escritor principiante",
+        "desc": "El poeta métrico no reconoce tu talento literario.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "El fin justifica los medios",
+        "desc": "Completa con éxito una liberación con los Libertadores.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Los medios justifican el fin",
+        "desc": "Presencia el final de los Libertadores.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052510,
+        "name": "Amigo de los Nimbocaballeros",
+        "desc": "Completa el cometido del general sin distracciones.",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1202,6 +1349,13 @@
         "desc": "Completa Ecos de la guerra 10 veces.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4062501,
+        "name": "Viaje al fin del cielo",
+        "desc": "Supera la etapa Recuerdos de Xianzhou VI del Salón olvidado.",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1560,7 +1714,7 @@
       },
       {
         "id": 4071008,
-        "name": "Dejadme solo",
+        "name": "Déjenme solo",
         "desc": "Un personaje recibe un total de 10000 pts. de daño en una sola batalla.",
         "rarity": 1,
         "version": "1.0"
@@ -1575,7 +1729,7 @@
       {
         "id": 4071012,
         "name": "Mano divina",
-        "desc": "Derrota a todos los enemigos usando técnicas tras entrar en combate.",
+        "desc": "Usa una técnica y derrota a todos los enemigos al entrar en combate.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1862,7 +2016,7 @@
       {
         "id": 4072401,
         "name": "Este cuerpo tan frágil",
-        "desc": "Usa a Silver Wolf en tu equipo para aplicar 3 tipo distinto de Debilidad al mismo enemigo durante una batalla.",
+        "desc": "Usa a Silver Wolf en tu equipo para aplicar 3 tipos distintos de Debilidad al mismo enemigo durante una batalla.",
         "rarity": 2,
         "version": "1.1"
       },
@@ -1872,6 +2026,55 @@
         "desc": "Usa a Silver Wolf en tu equipo para aplicar 2 Debilidad a Kafka en la batalla contra Kafka.",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4072501,
+        "name": "Complexión enfermiza",
+        "desc": "Elimina el estado de Extractor de prana 5 veces durante una batalla con Phantylia.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072502,
+        "name": "El gran horticultor",
+        "desc": "Derrota a Phantylia sin eliminar a los Lotos de la Abundancia.",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4072503,
+        "name": "¡Boom!",
+        "desc": "Provoca 4 efectos distintos de Daño con el tiempo con un uso de la habilidad Luna acariciadora de Kafka durante una batalla.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072504,
+        "name": "Deseo insatisfecho",
+        "desc": "No te molestes.\\n<color=#8790abff>※Durante una batalla, utiliza a Blade en un ataque individual para recuperar los PV al 30% o más cuando sean iguales o inferiores al <unbreak>0%</unbreak> <unbreak>#2[i]</unbreak> veces.</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072505,
+        "name": "Vamos, Bladie",
+        "desc": "Usa al aliado Blade en la batalla contra el jefe Kafka y entra en el estado de Dominación.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072506,
+        "name": "Victoria por puntos",
+        "desc": "Durante una batalla, utiliza Puño rompecielos certero de Luka 4 veces.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072507,
+        "name": "Autosugestión",
+        "desc": "Usa a la aliada Kafka en la batalla contra el jefe Kafka y entra en el estado de Dominación.",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2129,6 +2332,13 @@
         "desc": "Gana 1 batalla con un equipo que incluya a Luocha, Sushang y Yanqing.",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4082501,
+        "name": "Protector del Bajomundo",
+        "desc": "Gana 1 batalla con un equipo que incluya a Natasha, Seele y Luka.",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2159,7 +2369,7 @@
       {
         "id": 4090204,
         "name": "Sistema de reacciones elementales",
-        "desc": "Inflige un daño de cualquier tipo igual o superior al 5 en un único ataque en el Universo Simulado.",
+        "desc": "Inflige 5 o más tipos de daño en un único ataque en el Universo Simulado.",
         "rarity": 1,
         "version": "1.0"
       },

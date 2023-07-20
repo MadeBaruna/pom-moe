@@ -12,21 +12,21 @@
       {
         "id": 4010201,
         "name": "Appels du destin (I)",
-        "desc": "Posséder 1 cône de lumière de Niv. 40",
+        "desc": "Posséder 1 cône de lumière Niv. 40",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4010202,
         "name": "Appels du destin (II)",
-        "desc": "Posséder 1 cône de lumière de Niv. 60",
+        "desc": "Posséder 1 cône de lumière Niv. 60",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4010203,
         "name": "Appels du destin (III)",
-        "desc": "Posséder 1 cône de lumière de Niv. 80",
+        "desc": "Posséder 1 cône de lumière Niv. 80",
         "rarity": 3,
         "version": "1.0"
       },
@@ -328,11 +328,25 @@
         "version": "1.0"
       },
       {
-        "id": 4032309,
-        "name": "Opulence draconique",
-        "desc": "Assister à l'histoire de Dan Shu\\n<color=#8790abff>※ Découvrir la véritable identité de Dan Shu et assister à l'expansion des Disciples du Sanctus Medicus</color>",
+        "id": 4032501,
+        "name": "Svah Sanishyu",
+        "desc": "S'ils se relèvent, il suffit de les tuer à nouveau...\\n<color=#8790abff>※ Éliminer la maîtresse des Disciples du Sanctus Medicus</color>",
         "rarity": 2,
-        "version": "1.0"
+        "version": "1.2"
+      },
+      {
+        "id": 4032502,
+        "name": "L'arrivée de l'Imbibitor Lunae",
+        "desc": "Si les profondeurs de la mer ne cachent aucune pierre, le souffle du dragon éclaire la lune.\\n<color=#8790abff>※ Assister à l'ouverture des eaux réalisée par Dan Heng au Royaume de l'abysse écailleux</color>",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4032503,
+        "name": "Déclin de l'Arbre",
+        "desc": "Tous les complots ont une fin.\\n<color=#8790abff>※ Aider Jing Yuan à vaincre Phantylie</color>",
+        "rarity": 3,
+        "version": "1.2"
       }
     ]
   },
@@ -368,6 +382,13 @@
         "version": "1.0"
       },
       {
+        "id": 4042506,
+        "name": "Voyage au loin",
+        "desc": "Activer des ancres spatiales 20 fois à bord du Luofu de Xianzhou",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
         "id": 4040102,
         "name": "Mais, à quel prix ?",
         "desc": "Ouvrir 110 coffres au trésor à Belobog",
@@ -380,6 +401,13 @@
         "desc": "Ouvrir 100 coffres à bord du Luofu de Xianzhou",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042507,
+        "name": "Sous le signe de la fortune",
+        "desc": "Ouvrir 170 coffres à bord du Luofu de Xianzhou",
+        "rarity": 2,
+        "version": "1.2"
       },
       {
         "id": 4040301,
@@ -573,9 +601,44 @@
       {
         "id": 4040412,
         "name": "Au Nord par le Nord-Ouest",
-        "desc": "Terminer Boussole de fracture de formation 20 fois",
+        "desc": "Ajuster des Boussoles de navigation 20 fois",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042501,
+        "name": "Vol au-dessus d'un nid de mécagrues : Broche méridienne",
+        "desc": "Piloter une mécagrue aux alentours de la Broche méridienne",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042502,
+        "name": "Vol au-dessus d'un nid de mécagrues : Matrice de prémonition",
+        "desc": "Piloter une mécagrue au milieu de la Matrice de prémonition",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042503,
+        "name": "Vol au-dessus d'un nid de mécagrues : Creuset de l'élixir d'or",
+        "desc": "Piloter une mécagrue aux alentours du Creuset de l'élixir d'or",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042504,
+        "name": "On se calme, Icare",
+        "desc": "Piloter une mécagrue pour tester les limites de sa zone de contrôle",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042505,
+        "name": "Opération de déballage",
+        "desc": "Personne ne peut inspecter les colis mieux que vous",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4042401,
@@ -672,6 +735,27 @@
         "desc": "Découvrir la face cachée de Luocha.\\n<color=#8790abff>※ Consulter l'enregistrement restauré et écouter le monologue de Luocha.</color>",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052506,
+        "name": "Oiseaux et cerfs-volants",
+        "desc": "Terminer la mission de compagnon « Au bout de l'infini »",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052507,
+        "name": "Libre arbitre",
+        "desc": "Terminer la mission de compagnon « Lettre d'une femme étrange »\\n<color=#8790abff>※ Vous avez choisi d'aider Kafka</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052511,
+        "name": "Véritable libre arbitre",
+        "desc": "Terminer la mission de compagnon « Lettre d'une femme étrange »\\n<color=#8790abff>※ Choix que peu ferait, vous avez décidé de ne pas aider Kafka et de démontrer votre libre arbitre</color>",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4051103,
@@ -919,6 +1003,13 @@
         "version": "1.0"
       },
       {
+        "id": 4032309,
+        "name": "Opulence draconique",
+        "desc": "Assister à l'histoire de Dan Shu",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
         "id": 4052404,
         "name": "La journée du patrimoine",
         "desc": "Ouvrir la Galerie principale du Musée de l'histoire et de la culture de Belobog",
@@ -1040,7 +1131,7 @@
       {
         "id": 4052337,
         "name": "Dur labeur",
-        "desc": "Examiner 3 meubles de rangement différents du Siège de la clairvoyance divine",
+        "desc": "Examiner 7 meubles de rangement différents du Siège de la clairvoyance divine",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1120,6 +1211,62 @@
         "desc": "Terminer le défi des « Quatre grands criminels (autoproclamés) du Luofu »",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "Mordre à l'hameçon",
+        "desc": "Découvrir ce qui lie les deux pêcheurs de la Commission de l'artisanat",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Comment j'ai appris à ne plus m'en faire",
+        "desc": "Résoudre la crise de la bombe à neutrons",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Turbonescence",
+        "desc": "Participer 1 fois à l'examen de conduite d'aurumaton",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Virtuose de la prose",
+        "desc": "Voir vos talents littéraires reconnus par le Poète métrique",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Novice de la littérature",
+        "desc": "Échouer à faire reconnaître vos talents littéraires par le Poète métrique",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "La fin justifie les moyens",
+        "desc": "Relâcher 1 créature avec les Esprits libres",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Tout a une fin",
+        "desc": "Assister à la fin des Esprits libres",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052510,
+        "name": "Ami des Chevaliers des nuages",
+        "desc": "Exécuter scrupuleusement les ordres du général sans détour",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1202,6 +1349,13 @@
         "desc": "Terminer Écho de la guerre 10 fois",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4062501,
+        "name": "Voyage au bout du ciel",
+        "desc": "Terminer Mémoire Niv. 6 de Xianzhou dans la Salle oubliée",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1218,49 +1372,49 @@
       {
         "id": 4070201,
         "name": "Ça passe ou ça casse",
-        "desc": "Infliger #2[i] Ruptures de faiblesse au même ennemi au cours d'un combat",
+        "desc": "Infliger #2[i] Ruptures de faiblesse au même ennemi au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070301,
         "name": "One punch man",
-        "desc": "Infliger au moins 1000 DGT en une seule attaque",
+        "desc": "Infliger au moins 1000 DGT en un seul coup",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070302,
         "name": "Impact de Ki",
-        "desc": "Infliger au moins 20000 DGT en une seule attaque",
+        "desc": "Infliger au moins 20000 DGT en un seul coup",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070303,
         "name": "Annihilation",
-        "desc": "Infliger au moins 150000 DGT en une seule attaque",
+        "desc": "Infliger au moins 150000 DGT en un seul coup",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070401,
         "name": "Coups de poing normaux consécutifs",
-        "desc": "Infliger un total de 2000 DGT en une seule attaque",
+        "desc": "Infliger au moins 2000 DGT en une seule action",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070402,
         "name": "Lame de Taixu",
-        "desc": "Infliger un total de 40000 DGT en une seule attaque",
+        "desc": "Infliger au moins 40000 DGT en une seule action",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070403,
         "name": "Résonance de ruine",
-        "desc": "Infliger un total de 300000 DGT en une seule attaque",
+        "desc": "Infliger au moins 300000 DGT en une seule action",
         "rarity": 2,
         "version": "1.0"
       },
@@ -1295,28 +1449,28 @@
       {
         "id": 4070601,
         "name": "La Belle et l'Ordinateur",
-        "desc": "Vaincre 3 ennemis avec des DGT de rupture de foudre au cours du même combat",
+        "desc": "Vaincre 3 ennemis avec des DGT de rupture de foudre au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070602,
         "name": "Fahrenheit <unbreak>451</unbreak>",
-        "desc": "Vaincre 3 ennemis avec des DGT de rupture de feu au cours du même combat",
+        "desc": "Vaincre 3 ennemis avec des DGT de rupture de feu au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070603,
         "name": "Tempête solaire",
-        "desc": "Vaincre 3 ennemis avec des DGT de rupture de vent au cours du même combat",
+        "desc": "Vaincre 3 ennemis avec des DGT de rupture de vent au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070604,
         "name": "Incassable ?",
-        "desc": "Vaincre 3 ennemis avec des DGT de rupture physique au cours du même combat",
+        "desc": "Vaincre 3 ennemis avec des DGT de rupture physique au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1456,7 +1610,7 @@
       {
         "id": 4070803,
         "name": "Manœuvre d'échec",
-        "desc": "Vaincre 3 ennemis avec des attaques de suivi au cours du même combat",
+        "desc": "Vaincre 3 ennemis avec des attaques de suivi au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1477,7 +1631,7 @@
       {
         "id": 4070806,
         "name": "Un millier de coupures...",
-        "desc": "Vaincre 3 ennemis avec des dégâts sur la durée au cours du même combat",
+        "desc": "Vaincre 3 ennemis avec des dégâts sur la durée au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1498,14 +1652,14 @@
       {
         "id": 4070810,
         "name": "Rien de personnel",
-        "desc": "Supprimer les bonus des ennemis 5 fois au cours du même combat",
+        "desc": "Supprimer les bonus des ennemis 5 fois au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070812,
         "name": "L'exorciste",
-        "desc": "Supprimer les malus des alliés 5 fois au cours du même combat",
+        "desc": "Supprimer les malus des alliés 5 fois au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1546,8 +1700,8 @@
       },
       {
         "id": 4071006,
-        "name": "Comme une chrysanthème au cimetière",
-        "desc": "Ranimer 2 personnages à terre au cours du même combat",
+        "name": "Comme un chrysanthème au cimetière",
+        "desc": "Ranimer 2 personnages à terre au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1589,7 +1743,7 @@
       {
         "id": 4071014,
         "name": "Autoroute vers les étoiles",
-        "desc": "Les alliés agissent 100 fois au cours du même combat",
+        "desc": "Les alliés agissent 100 fois au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1617,21 +1771,21 @@
       {
         "id": 4071018,
         "name": "Usine à gaz",
-        "desc": "Infliger #2[i] DGT ou plus à un ennemi dont les PV sont inférieurs ou égaux à <unbreak>0%</unbreak> en une seule attaque",
+        "desc": "Infliger #2[i] DGT ou plus à un ennemi dont les PV sont inférieurs ou égaux à <unbreak>0%</unbreak> en une seule action",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4071401,
         "name": "Deus Ex Machina",
-        "desc": "Infliger Rupture de faiblesse à des ennemis 3 fois avec le pionnier (Destruction) au cours du même combat",
+        "desc": "Infliger Rupture de faiblesse à des ennemis 3 fois avec le pionnier (Destruction) au cours d'un même combat",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4071501,
         "name": "Quatre pirouettes et demie",
-        "desc": "Déclencher le talent de Herta avec une seule attaque alliée et la faire tournoyer 5 fois",
+        "desc": "Déclencher le talent de Herta avec une seule action alliée et la faire tournoyer 5 fois",
         "rarity": 2,
         "version": "1.0"
       },
@@ -1651,7 +1805,7 @@
       },
       {
         "id": 4071504,
-        "name": "L'épreuve des treize",
+        "name": "Les Treize Travaux",
         "desc": "Lors d'un même combat, faire en sorte que Svarog riposte contre les attaques destinées à Clara 13 fois",
         "rarity": 2,
         "version": "1.0"
@@ -1855,7 +2009,7 @@
       {
         "id": 4072105,
         "name": "Volonté d'acier",
-        "desc": "Dissiper l'effet Dominé 3 fois au cours du même combat contre Kafka",
+        "desc": "Dissiper l'effet Dominé 3 fois au cours d'un même combat contre Kafka",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1872,6 +2026,55 @@
         "desc": "Infliger une Faiblesse 2 fois à Kafka avec Louve d'argent pendant un combat",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4072501,
+        "name": "Mauvaise mine",
+        "desc": "Dissiper Siphon du prana 5 fois au cours d'un même combat contre Phantylie.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072502,
+        "name": "Horticulteur",
+        "desc": "Vaincre Phantylie sans éliminer aucun Lotus de l'Abondance",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4072503,
+        "name": "BOUM",
+        "desc": "Utiliser « Caresse du clair de lune » de Kafka au cours d'un même combat pour déclencher 4 dégâts sur la durée différents en 1 utilisation de la compétence",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072504,
+        "name": "Désir inassouvi",
+        "desc": "Ce n'était pas nécessaire.\\n<color=#8790abff>※ Lorsque les PV de Blade sont inférieurs ou égaux à 0%, les faire passer à <unbreak>30</unbreak> % ou plus en une seule action <unbreak>#2[i]</unbreak> fois au cours d'un même combat</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072505,
+        "name": "Allez, Bladie",
+        "desc": "Utiliser Blade pour combattre Kafka et subir son effet Dominé",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072506,
+        "name": "Victoire par décision de l'arbitre",
+        "desc": "Utiliser le « Poing destructeur d'étoiles » de Luka 4 fois au cours d'un même combat",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072507,
+        "name": "Autohypnose",
+        "desc": "Utiliser Kafka pour combattre Kafka et subir son effet Dominé",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -1950,7 +2153,7 @@
       },
       {
         "id": 4070902,
-        "name": "Alignez-en trois",
+        "name": "Puissance 3",
         "desc": "Remporter un combat avec une équipe composée de 3 personnages du même type",
         "rarity": 1,
         "version": "1.0"
@@ -2020,7 +2223,7 @@
       },
       {
         "id": 4070904,
-        "name": "Pour le Seigneur de l'ambre",
+        "name": "Pour le Seigneur de l'Ambre",
         "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de la Préservation",
         "rarity": 1,
         "version": "1.0"
@@ -2129,6 +2332,13 @@
         "desc": "Gagner 1 combat avec une équipe composée de Luocha, Sushang et Yanqing",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4082501,
+        "name": "Un pour tous, tous pour le Souterrain",
+        "desc": "Remporter un combat avec une équipe composée de Natasha, Seele, et Luka",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2159,7 +2369,7 @@
       {
         "id": 4090204,
         "name": "Réactions en chaîne",
-        "desc": "Infliger au moins 5 types de DGT en une seule attaque dans l'Univers simulé",
+        "desc": "Infliger au moins 5 types de DGT en une seule action dans l'Univers simulé",
         "rarity": 1,
         "version": "1.0"
       },

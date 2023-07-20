@@ -328,11 +328,25 @@
         "version": "1.0"
       },
       {
-        "id": 4032309,
-        "name": "Hydras in Hülle und Fülle",
-        "desc": "Erlebe Dan Shus Geschichte\\n<color=#8790abff>※ Entdecke Dan Shus wahre Identität und erlebe den Aufstieg der Jünger des Santus Medicus</color>.",
+        "id": 4032501,
+        "name": "Svah Sanishyu",
+        "desc": "Wenn sie wieder zum Leben erwachen, töte sie einfach erneut ...\\n<color=#8790abff>※ Besiege den Meister Princeps der Jünger des Sanctus Medicus.</color>",
         "rarity": 2,
-        "version": "1.0"
+        "version": "1.2"
+      },
+      {
+        "id": 4032502,
+        "name": "Der Imbibitor Lunae trifft ein",
+        "desc": "Das tiefe Wasser verbirgt die Perlen nicht, und der Drache opfert sie wie den Mond.\\n<color=#8790abff>※ Erlebe, wie Dan Heng das Wasser in der Schuppenklamm teilt.</color>",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4032503,
+        "name": "Der Himmelsbaum knickt",
+        "desc": "Alle Pläne müssen umgeworfen werden.\\n<color=#8790abff>※ Hilf Jing Yuan dabei, Phantylia zu besiegen.</color>",
+        "rarity": 3,
+        "version": "1.2"
       }
     ]
   },
@@ -368,6 +382,13 @@
         "version": "1.0"
       },
       {
+        "id": 4042506,
+        "name": "Reise in die Ferne",
+        "desc": "Aktiviere 20-mal Sternenanker auf der Xianzhou Luofu.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
         "id": 4040102,
         "name": "Aber zu welchem Preis?",
         "desc": "Öffne 110-mal einen Schatz in Belobog.",
@@ -380,6 +401,13 @@
         "desc": "Öffne 100-mal Schätze auf der Xianzhou Luofu.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042507,
+        "name": "Der Stern des Wohlstands scheint auf dich",
+        "desc": "Öffne 170-mal Schätze auf der Xianzhou Luofu.",
+        "rarity": 2,
+        "version": "1.2"
       },
       {
         "id": 4040301,
@@ -573,9 +601,44 @@
       {
         "id": 4040412,
         "name": "Nord bei Nordwest",
-        "desc": "Schließe den Formationsbrechenden Kompass 20-mal ab.",
+        "desc": "Schließe den Navigationskompass 20-mal ab.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042501,
+        "name": "Flug zum Ort: Meridian-Pin",
+        "desc": "Fliege einen Mechakranich in die Umgebung der Meridian-Pin.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042502,
+        "name": "Flug zum Ort: Matrix der Voraussicht",
+        "desc": "Fliege einen Mechakranich in die Mitte der Matrix der Voraussicht.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042503,
+        "name": "Flug zum Ort: Goldener Elixierraum",
+        "desc": "Fliege einen Mechakranich in die Umgebung des Goldenen Elixierraums.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042504,
+        "name": "Immer mit der Ruhe, Icarus.",
+        "desc": "Fliege einen Mechakranich, um die Grenzen seiner Fernsteuerung zu testen.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042505,
+        "name": "Auspackbeurteilung",
+        "desc": "Es gibt keinen Lieferungsinspektor, der zuverlässiger als du wäre.",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4042401,
@@ -672,6 +735,27 @@
         "desc": "Werde Zeuge von Luochas versteckter Seite.\\n<color=#8790abff>※ Sieh dir die wiederhergestellte Aufzeichnung an und höre dir Luochas Monolog an.</color>",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052506,
+        "name": "Fliegende Vögel und Papierdrachen",
+        "desc": "Schließe die Begleitermission „Denn ich habe den Himmel schon berührt“ ab.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052507,
+        "name": "Freier Wille",
+        "desc": "Schließe die Begleitermission „Brief einer unbekannten Frau“ ab.\\n<color=#8790abff>※ Du hast dich entschieden, Kafka zu helfen.</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052511,
+        "name": "Wahrer freier Wille",
+        "desc": "Schließe die Begleitermission „Brief einer unbekannten Frau“ ab.\\n<color=#8790abff>※ Du hast dich entschieden, Kafka zu verlassen. Nicht viele Menschen würden das tun, aber so hast du deinen freien Willen bewiesen.</color>",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4051103,
@@ -919,6 +1003,13 @@
         "version": "1.0"
       },
       {
+        "id": 4032309,
+        "name": "Hydras in Hülle und Fülle",
+        "desc": "Erlebe Dan Shus Geschichte.",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
         "id": 4052404,
         "name": "Heute freier Eintritt",
         "desc": "Eröffne die Hauptausstellung des Belobog-Museums für Geschichte und Kultur.",
@@ -1040,7 +1131,7 @@
       {
         "id": 4052337,
         "name": "Arbeit ohne Ende",
-        "desc": "Untersuche 3 verschiedene Aktenschränke beim Thron der göttlichen Vorsehung.",
+        "desc": "Untersuche 7 verschiedene Aktenschränke beim Thron der göttlichen Vorsehung.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1120,6 +1211,62 @@
         "desc": "Schließe die sogenannte Herausforderung der „Verrufenen Vier der Luofu“ ab.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "Der Willige beißt nicht an",
+        "desc": "Enthülle die Verbindung zwischen den beiden Anglern der Kunsthandwerkskommission.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Wie ich gelernt habe, mir keine Sorgen mehr zu machen",
+        "desc": "Löse erfolgreich die Neutronenbombenkrise.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Rand des Mondlichtmeeres",
+        "desc": "Nimm 1-mal an der Aurumaton-Fahrprüfung teil.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Wortschöpfer",
+        "desc": "Lass dein literarisches Talent vom metrischen Dichter anerkennen.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Literarischer Anfänger",
+        "desc": "Scheitere beim Versuch, dein literarisches Talent vom metrischen Dichter anerkennen zu lassen.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "Der Zweck ist wichtiger als das Mittel",
+        "desc": "Schließe 1 erfolgreiche Befreiung mit den Entfesselten ab.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Das Mittel ist wichtiger als der Zweck",
+        "desc": "Erlebe das Ende der Entfesselten.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052510,
+        "name": "Freund der Wolkenritter",
+        "desc": "Erledige die Aufträge des Generals ohne Ablenkungen.",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1202,6 +1349,13 @@
         "desc": "Schließe Echo des Krieges 10-mal ab.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4062501,
+        "name": "Reise zum Ende des Himmels",
+        "desc": "Schließe Vergessene Halle: Erinnerungen an Xianzhou VI ab.",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1379,7 +1533,7 @@
       {
         "id": 4070701,
         "name": "Quantenphysik – Die Heilung der Unentschlossenheit",
-        "desc": "Verursache in einem einzigen Kampf 5-mal Schwächebruch: Quantum.",
+        "desc": "Verursache in einem einzigen Kampf 5-mal Schwächebruch: Quanten.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1399,15 +1553,15 @@
       },
       {
         "id": 4070704,
-        "name": "Quantum-Brecher (I)",
-        "desc": "Verursache insgesamt 100-mal Schwächebruch: Quantum.",
+        "name": "Quanten-Brecher (I)",
+        "desc": "Verursache insgesamt 100-mal Schwächebruch: Quanten.",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070705,
-        "name": "Quantum-Brecher (II)",
-        "desc": "Verursache insgesamt 300-mal Schwächebruch: Quantum.",
+        "name": "Quanten-Brecher (II)",
+        "desc": "Verursache insgesamt 300-mal Schwächebruch: Quanten.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1872,6 +2026,55 @@
         "desc": "Füge der feindlichen Kafka mit Silberwolf in einem einzelnen Kampf 2 Schwäche(n) zu.",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4072501,
+        "name": "Ungesunder Teint",
+        "desc": "Entferne insgesamt 5-mal den Status „Prana-Verschlinger“ in einem einzigen Kampf gegen Phantylia.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072502,
+        "name": "Gartenspezialist",
+        "desc": "Besiege Phantylia, ohne dabei Überflusslotus zu besiegen.",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4072503,
+        "name": "BUMM!",
+        "desc": "Löse in einem einzigen Kampf 4 verschiedene DoT-Effekte mit einem Einsatz von Kafkas Fertigkeit „Streichelndes Mondlicht“ aus.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072504,
+        "name": "Unerfüllter Wunsch",
+        "desc": "Unnötig\\n<color=#8790abff>※ Setze in einem einzigen Kampf die Figur Blade ein, um mit einem einzigen Angriff #2[i]-mal die LP von kleiner als oder gleich <unbreak>0%</unbreak> auf größer als oder gleich <unbreak>30</unbreak> % wiederherzustellen.</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072505,
+        "name": "Ziehe los, Bladie",
+        "desc": "Setze die Figur Blade im Kampf gegen den Boss Kafka ein und werde von ihr dominiert.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072506,
+        "name": "Sieg durch Entscheidung",
+        "desc": "Setze in einem einzigen Kampf Lukas „Himmelszerstörer-Faust“ insgesamt 4-mal ein.",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072507,
+        "name": "Selbsthypnose",
+        "desc": "Setze die Figur Kafka im Kampf gegen den Boss Kafka ein und werde von ihr dominiert.",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2097,8 +2300,8 @@
       },
       {
         "id": 4070915,
-        "name": "Quantum-Test",
-        "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Quantum.",
+        "name": "Quanten-Test",
+        "desc": "Gewinne #2[i] Kämpfe mit einem Team mit <unbreak>4</unbreak> Figuren des Typs Quanten.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2129,6 +2332,13 @@
         "desc": "Gewinne 1 Kampf/Kämpfe mit einem Team, das Luocha, Sushang und Yanqing enthält.",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4082501,
+        "name": "Wächter der Unterwelt",
+        "desc": "Gewinne einen Kampf mit einem Team, das Natasha, Seele und Luka beinhaltet.",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },

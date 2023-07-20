@@ -212,7 +212,7 @@
       },
       {
         "id": 4020503,
-        "name": "Fate/estranho Falso",
+        "name": "Fate/stranger Fake",
         "desc": "Obtenha 5 Relíquia(s) de 5 estrelas com o Sintetizador Omni",
         "rarity": 1,
         "version": "1.0"
@@ -328,11 +328,25 @@
         "version": "1.0"
       },
       {
-        "id": 4032309,
-        "name": "Opulência Dracônica",
-        "desc": "Testemunhe a história da Dan Shu\\n<color=#8790abff>※ Descubra a verdadeira identidade de Dan Shu e testemunhe a ascensão dos Discípulos do Sanctus Medicus</color>",
+        "id": 4032501,
+        "name": "Svah Sanishyu",
+        "desc": "Se eles voltarem a vida, então é só matá-los novamente...\\n<color=#8790abff>※ Derrote a mestra dos Discípulos do Sanctus Medicus</color>",
         "rarity": 2,
-        "version": "1.0"
+        "version": "1.2"
+      },
+      {
+        "id": 4032502,
+        "name": "O Embebidor Lunae Chegou",
+        "desc": "As Profundezas Marinhas Não Escondem Pedras, a Respiração do Dragão Revela a Lua.\\n<color=#8790abff>※ Testemunhe Dan Heng partindo as águas do Desfiladeiro Escamado Aquático</color>",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4032503,
+        "name": "A Árvore se Rompe",
+        "desc": "Todos os planos devem ser subjugados\\n<color=#8790abff>※ Ajude Jing Yuan a derrotar Phantylia</color>",
+        "rarity": 3,
+        "version": "1.2"
       }
     ]
   },
@@ -368,6 +382,13 @@
         "version": "1.0"
       },
       {
+        "id": 4042506,
+        "name": "Viagens ao Longe",
+        "desc": "Ative 20 Âncoras Espaciais no Luofu do Xianzhou",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
         "id": 4040102,
         "name": "Mas a Que Custo?",
         "desc": "Abra 110 Tesouro(s) em Belobog",
@@ -380,6 +401,13 @@
         "desc": "Abra 100 Tesouro(s) no Luofu do Xianzhou",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042507,
+        "name": "A Estrela da Fortuna Brilha Sobre Você",
+        "desc": "Abra 170 Tesouros no Luofu do Xianzhou",
+        "rarity": 2,
+        "version": "1.2"
       },
       {
         "id": 4040301,
@@ -573,9 +601,44 @@
       {
         "id": 4040412,
         "name": "Norte por Noroeste",
-        "desc": "Conclua a Bússola de Quebra de Formação 20 vez(es)",
+        "desc": "Conclua a Bússola de Navegação 20 vez(es)",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4042501,
+        "name": "Eu Estava Aqui Voando: Dispositivo Meridiano",
+        "desc": "Voe uma MechAve até os arredores de um Dispositivo Meridiano",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042502,
+        "name": "Eu Estava Aqui Voando: Matriz de Presciência",
+        "desc": "Voe uma MechAve até o meio da Matriz de Presciência",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042503,
+        "name": "Eu Estava Aqui Voando: Fornalha Áurea de Elixir",
+        "desc": "Voe uma MechAve até os arredores da Fornalha Áurea de Elixir",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042504,
+        "name": "Pega Leve, Ícaro",
+        "desc": "Voe uma MechAve para testar os limites do alcance do controle remoto",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4042505,
+        "name": "Avaliação de <i>Unboxing</i>",
+        "desc": "Não há inspetor de entrega de pacotes mais confiável que você",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4042401,
@@ -672,6 +735,27 @@
         "desc": "Presencie o lado oculto do Luocha.\\n<color=#8790abff>※ Confira a gravação recuperada e ouça o monólogo do Luocha.</color>",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052506,
+        "name": "Pássaros Em Voo e Pipas de Papel",
+        "desc": "Conclua a Missão de Companheiro \"Eu Já Toquei o Céu\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052507,
+        "name": "Livre Arbítrio",
+        "desc": "Conclua a Missão de Companheiro \"Carta de uma Mulher Estranha\"\\n<color=#8790abff>※ Você escolheu ajudar Kafka</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052511,
+        "name": "Livre Arbítrio Verdadeiro",
+        "desc": "Conclua a Missão de Companheiro \"Carta de uma Mulher Estranha\"\\n<color=#8790abff>※ Você escolheu deixar Kafka. Não seriam muitas pessoas que fariam essa escolha, mas foi assim que você provou seu livre arbítrio</color>",
+        "rarity": 1,
+        "version": "1.2"
       },
       {
         "id": 4051103,
@@ -872,7 +956,7 @@
       {
         "id": 4052316,
         "name": "Armadilha na Cidade da Neve",
-        "desc": "Termine de ouvir o rap do indigente",
+        "desc": "Termine de ouvir o rap do andarilho",
         "rarity": 1,
         "version": "1.0"
       },
@@ -916,6 +1000,13 @@
         "name": "\"As Toupeiras Aventureiras\" Edição Superadultos",
         "desc": "Compre \"As Toupeiras Aventureiras: Tesouro Escondido\" com o comerciante de livros de Belobog",
         "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4032309,
+        "name": "Opulência Dracônica",
+        "desc": "Testemunhe a história de Dan Shu",
+        "rarity": 2,
         "version": "1.0"
       },
       {
@@ -1040,7 +1131,7 @@
       {
         "id": 4052337,
         "name": "Labor Omnia Vincit",
-        "desc": "Examine 3 armários de arquivos diferentes na Sede da Presciência Divina",
+        "desc": "Examine 7 armários de arquivos diferentes na Sede da Presciência Divina",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1120,6 +1211,62 @@
         "desc": "Conclua o desafio dos \"quatro grandes vilões do Luofu (de acordo com eles mesmos)\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "O Desejo Não Morde",
+        "desc": "Descubra a conexão entre os dois pescadores da Comissão de Artesanato",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Como Eu Aprendi a Parar de Me Preocupar",
+        "desc": "Resolva a crise da bomba de nêutrons",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Borda Lunarescente",
+        "desc": "Participe 1 vez do Exame de Direção de Aurumatons",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Forjador de Palavras",
+        "desc": "Tenha seu talento literário reconhecido pelo Poeta da Métrica",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Iniciante Literário",
+        "desc": "Falhe em ter seu talento literário reconhecido pelo Poeta da Métrica",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "Os Fins Justificam os Meios",
+        "desc": "Conclua 1 libertação com Os Livres",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Os Meios Justificam os Fins",
+        "desc": "Testemunhe o fim dos Livres",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052510,
+        "name": "Amigo dos Cavaleiros das Nuvens",
+        "desc": "Cumpra as ordens do general sem distrações",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1202,6 +1349,13 @@
         "desc": "Conclua Eco da Guerra 10 vez(es)",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4062501,
+        "name": "Viagem aos Confins do Céu",
+        "desc": "Conclua o Salão Esquecido: Memória do Xianzhou Estágio 6",
+        "rarity": 2,
+        "version": "1.2"
       }
     ]
   },
@@ -1225,42 +1379,42 @@
       {
         "id": 4070301,
         "name": "Soco Sério",
-        "desc": "Cause 1000 ou mais de Dano com um único ataque",
+        "desc": "Cause 1000 ou mais de Dano com um único golpe",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070302,
         "name": "Impacto Ki",
-        "desc": "Cause 20000 ou mais de Dano com um único ataque",
+        "desc": "Cause 20000 ou mais de Dano com um único golpe",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070303,
         "name": "Aniquilação",
-        "desc": "Cause 150000 ou mais de Dano com um único ataque",
+        "desc": "Cause 150000 ou mais de Dano com um único golpe",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070401,
         "name": "Socos Normais Consecutivos",
-        "desc": "Cause 2000 de dano com um ataque",
+        "desc": "Cause 2000 de Dano com uma única ação",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070402,
         "name": "Lâmina de Taixu",
-        "desc": "Cause 40000 de dano com um ataque",
+        "desc": "Cause 40000 de Dano com uma única ação",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070403,
         "name": "Ruína Reverberante",
-        "desc": "Cause 300000 de dano com um ataque",
+        "desc": "Cause 300000 de Dano com uma única ação",
         "rarity": 2,
         "version": "1.0"
       },
@@ -1617,7 +1771,7 @@
       {
         "id": 4071018,
         "name": "Levar Uma Pistola para uma Briga de Facas",
-        "desc": "Cause #2[i] de Dano ou mais com um único ataque a um inimigo com PV igual ou menor que <unbreak>0%</unbreak>.",
+        "desc": "Cause #2[i] ou mais de Dano com uma única ação a um inimigo com PV igual ou menor que <unbreak>0%</unbreak>.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1631,7 +1785,7 @@
       {
         "id": 4071501,
         "name": "Quatro Piruetas e Meia",
-        "desc": "Ative o talento de Herta com um único ataque de um aliado e a faça girar 5 vez(es)",
+        "desc": "Ative o Talento de Herta com uma única ação de um aliado e a faça girar 5 vez(es)",
         "rarity": 2,
         "version": "1.0"
       },
@@ -1651,7 +1805,7 @@
       },
       {
         "id": 4071504,
-        "name": "Prova dos Treze",
+        "name": "Os Treze Trabalhos",
         "desc": "Em uma única batalha, faça com que Svarog bloqueie 13 ataques contra Clara",
         "rarity": 2,
         "version": "1.0"
@@ -1872,6 +2026,55 @@
         "desc": "Use a Loba Prateada para lutar contra Kafka inimiga e aplicar 2 Fraqueza(s) a ela em uma única batalha",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4072501,
+        "name": "Aparência Doentia",
+        "desc": "Remova o estado de Sifão-de-Prana 5 vezes durante uma única batalha contra Phantylia",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072502,
+        "name": "Horticulturalista",
+        "desc": "Derrote Phantylia sem derrotar nenhum Lótus da Abundância",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4072503,
+        "name": "BOOM",
+        "desc": "Em uma única batalha, acione 4 efeitos de Dano Contínuo diferentes com 1 uso da Perícia de Kafka, \"Luar Carinhoso\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072504,
+        "name": "Desejo Não Realizado",
+        "desc": "\"Desnecessário\"\\n<color=#8790abff>※ Em uma única batalha, use o personagem Blade para restaurar seus PV de uma quantidade menor ou igual a 0% até uma quantidade maior ou igual a <unbreak>30%</unbreak>, em uma única ação <unbreak>#2[i]</unbreak> vez(es)</color>",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072505,
+        "name": "Vá, Bladezinho",
+        "desc": "Use um Blade aliado em combate contra a chefe Kafka e faça com que ele sofra Dominação pela Kafka inimiga",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072506,
+        "name": "Vitória pela Decisão",
+        "desc": "Em uma única batalha, utilize \"Punho Demolidor de Céus\" de Luka por um total de 4 vez(es)",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4072507,
+        "name": "Auto-Hipnose",
+        "desc": "Use uma Kafka aliada em combate contra a chefe Kafka e faça com que ela sofra Dominação pela Kafka inimiga",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2129,6 +2332,13 @@
         "desc": "Ganhe 1 batalha(s) com uma equipe com Luocha, Sushang e Yanqing",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4082501,
+        "name": "Guardião do Submundo",
+        "desc": "Vença 1 batalha com uma equipe contendo Natasha, Seele e Luka",
+        "rarity": 1,
+        "version": "1.2"
       }
     ]
   },
@@ -2159,7 +2369,7 @@
       {
         "id": 4090204,
         "name": "Sistema de Reação Elemental",
-        "desc": "Cause 5 ou mais Tipos de Dano em um único ataque no Universo Simulado",
+        "desc": "Cause 5 ou mais Tipos de Dano em uma única ação no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
       },
