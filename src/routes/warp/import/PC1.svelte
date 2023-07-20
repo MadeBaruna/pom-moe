@@ -155,7 +155,7 @@
 	<span class="absolute left-0 top-2 ml-2 font-bold">2.</span>
 	<p class="mt-2">After that open File Explorer, then go to:</p>
 	<p class="highlighted">
-		<span>StarRail Install Folder</span>\Games\StarRail_Data\webCaches\Cache\Cache_Data
+		<span>StarRail Install Folder</span>\Games\StarRail_Data\webCaches\2.14.0.0\Cache\Cache_Data
 	</p>
 	<img
 		class="mt-4 w-full max-w-xl rounded-md duration-150 hover:max-w-3xl"

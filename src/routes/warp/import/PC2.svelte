@@ -11,7 +11,7 @@
 	const dispatch = createEventDispatcher<{ url: URL }>();
 
 	let url = '';
-	let scriptUrl = `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/92d2807e06d6ca6ab81bb530629cb3d64cd7fae1/hsr_getlink.ps1'))}"`;
+	let scriptUrl = `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/d2dfd7789f50ad3a2aaf7649945ee2c5c9b51c9d/hsr_getlink.ps1'))}"`;
 	let scriptSource = 'https://gist.github.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b';
 
 	let copied = false;
