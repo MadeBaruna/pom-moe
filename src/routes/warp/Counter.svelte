@@ -95,7 +95,7 @@
 			<div class="flex flex-col gap-2">
 				<div class="flex gap-2">
 					<div
-						class="flex flex-1 items-center justify-between rounded-md bg-dark/50 px-3 ring-1 ring-white/5 backdrop-blur-md"
+						class="flex flex-1 items-center justify-between rounded-md bg-dark/80 px-3 ring-1 ring-white/5"
 					>
 						<div class="flex items-center">
 							<img
@@ -116,7 +116,7 @@
 					</div>
 					<a
 						href="/warp/{banner.type}"
-						class="group flex items-center justify-center rounded-md bg-dark/50 px-3 py-1 font-bold text-white/90 ring-1 ring-white/5 backdrop-blur-md"
+						class="group flex items-center justify-center rounded-md bg-dark/80 px-3 py-1 font-bold text-white/90 ring-1 ring-white/5"
 					>
 						<Icon
 							icon={MenuIcon}
@@ -126,17 +126,13 @@
 					</a>
 				</div>
 				<div class="flex items-end gap-2">
-					<div
-						class="flex items-center rounded-md bg-dark/50 px-3 ring-1 ring-white/5 backdrop-blur-md"
-					>
+					<div class="flex items-center rounded-md bg-dark/80 px-3 ring-1 ring-white/5">
 						<img class="mr-3 h-6 w-6" src="/images/rarity4.png" alt="Star" />
 						<p class="flex-1 px-2 py-1 text-right text-4xl font-bold text-4">
 							{summary?.pity[4] ?? 0}<span class="text-base">/10</span>
 						</p>
 					</div>
-					<div
-						class="flex flex-1 items-center rounded-md bg-dark/50 px-3 ring-1 ring-white/5 backdrop-blur-md"
-					>
+					<div class="flex flex-1 items-center rounded-md bg-dark/80 px-3 ring-1 ring-white/5">
 						<img class="mr-3 h-6 w-6" src="/images/rarity5.png" alt="Star" />
 						<p class="flex-1 px-2 py-1 text-right text-4xl font-bold text-5">
 							{summary?.pity[5] ?? 0}<span class="text-base">/{maxPity}</span>

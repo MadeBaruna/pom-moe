@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "Tiền bối dày dạn kinh nghiệm của Đội Tàu Astral.\\nSự nhiệt huyết tận sâu trong đáy lòng lại một lần nữa được thổi bùng để tận hưởng cuộc phiêu lưu đã từ lâu chưa dấn thân.\\nThỉnh thoảng sẽ vẽ lại hành trình phiêu lưu của mình vào một quyển sổ."
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "Kafka",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Thành viên của \"Thợ Săn Stellaron\", mang vẻ đẹp của sự phóng khoáng, điềm đạm và chuyên nghiệp.\\nSử dụng Bùa Mê Ngôn Từ để khiến {NICKNAME hấp thụ Stellaron.\\nSở thích là mua và sắp xếp áo khoác."
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Sói Bạc",
@@ -134,6 +142,14 @@
     "element": "fire",
     "rarity": 4,
     "background": "Sếp của đội thám hiểm \"Băng Chuột Chũi\" dưới lòng đất (tự phong).\\nYêu tự do, xem cuộc sống là cuộc phiêu lưu dài tập."
+  },
+  "luka": {
+    "id": "luka",
+    "name": "Luka",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Võ Sĩ Quyền Anh quán quân khu tầng dưới của Belobog, là một trong những thành viên đắc lực của Lửa Ngầm.\\nQuán quân liên tục của Câu Lạc Bộ Đấu Quyền, dùng sự nhiệt huyết của bản thân để khích lệ những đứa trẻ khu tầng dưới thực hiện khát vọng của riêng mình."
   },
   "qingque": {
     "id": "qingque",

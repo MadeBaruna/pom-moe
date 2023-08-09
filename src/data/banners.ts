@@ -114,6 +114,20 @@ export const banners: Banners = {
 			featured5: ['blade'],
 			featured4: ['arlan', 'sushang', 'natasha'],
 			timezoneDependent: true
+		},
+		{
+			code: 2008,
+			type: 'character',
+			name: 'Nessun Dorma',
+			start: '2023-08-09 12:00:00',
+			end: '2023-08-29 14:59:00',
+			color: '#7d90c3',
+			version: '1.2',
+			image: 'Nessun Dorma 2008.png',
+			pos: '55% 20%',
+			zoom: 1.2,
+			featured5: ['kafka'],
+			featured4: ['luka', 'sampo', 'serval']
 		}
 	],
 	lightcone: [
@@ -189,6 +203,24 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['the-unreachable-side'],
 			featured4: ['a-secret-vow', 'shared-feeling', 'swordplay']
+		},
+		{
+			code: 3008,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-08-09 12:00:00',
+			end: '2023-08-29 14:59:00',
+			color: '#8c9ba5',
+			version: '1.2',
+			image: 'Brilliant Fixation 3008.png',
+			pos: '70% 0%',
+			zoom: 1.2,
+			featured5: ['patience-is-all-you-need'],
+			featured4: [
+				'resolution-shines-as-pearls-of-sweat',
+				'eyes-of-the-prey',
+				'the-birth-of-the-self'
+			]
 		}
 	],
 	standard: [

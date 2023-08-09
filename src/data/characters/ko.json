@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "의젓하고 진중한 열차팀의 선배\\n오랜만의 모험을 즐기자 가슴 깊은 곳의 뜨거운 피가 다시금 끓어오른다\\n가끔 공책에 모험 여정을 그린다"
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "카프카",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "「스텔라론 헌터」의 멤버, 시크하고 차분한 분위기의 오피스룩 미녀\\n언령술을 사용하며, {NICKNAME이/가 스텔라론을 흡수할 수 있도록 설계한다\\n취미는 코트 구매 및 정리하기"
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "은랑",
@@ -134,6 +142,14 @@
     "element": "fire",
     "rarity": 4,
     "background": "지하 모험단 「두더지파」의 대장(자칭)\\n자유를 사랑하며 인생을 끊이지 않는 모험이라고 생각한다"
+  },
+  "luka": {
+    "id": "luka",
+    "name": "루카",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "벨로보그 하층 구역의 챔피언 격투선수, 「와일드 파이어」의 실력파 멤버 중 하나.\\n격투 클럽의 연속 디펜딩 챔피언, 자신의 열정으로 하층 구역의 꿈이 있는 아이들을 격려한다"
   },
   "qingque": {
     "id": "qingque",

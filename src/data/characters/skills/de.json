@@ -683,6 +683,220 @@
       ]
     }
   },
+  "kafka": {
+    "attack": {
+      "name": "Mitternächtlicher Tumult",
+      "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Kafkas ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Streichelndes Mondlicht",
+      "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Kafkas ANG zu und fügt angrenzenden Zielen Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Kafkas ANG zu.\\nBefindet der anvisierte Gegner sich momentan unter Einfluss von DoT, so erleidet er sofort zusätzlich SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des aktuell insgesamt erlittenen DoT.",
+      "values": [
+        [
+          80,
+          88,
+          96,
+          104,
+          112,
+          120,
+          130,
+          140,
+          150,
+          160,
+          168,
+          176,
+          184,
+          192,
+          200
+        ],
+        [
+          60,
+          62,
+          63,
+          65,
+          66,
+          68,
+          69,
+          71,
+          73,
+          75,
+          77,
+          78,
+          80,
+          81,
+          83
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Dämmerungstriller",
+      "desc": "Fügt allen Gegnern Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Kafkas ANG zu und hat eine <u>Grundchance</u> von {2}, bei betroffenen Gegnern Schock zu verursachen und ihnen unmittelbar SCH in Höhe von <span style=\"color: #f29e38ff\">{5}</span> des ursprünglichen SCH durch den Status Schock zuzufügen. Der Schock hält {3} Rd. an.\\nGeschockte Gegner erleiden zu Beginn jeder Runde Blitz-DoT in Höhe von <span style=\"color: #f29e38ff\">{4}</span> von Kafkas ANG.",
+      "values": [
+        [
+          48,
+          51,
+          54,
+          58,
+          61,
+          64,
+          68,
+          72,
+          76,
+          80,
+          83,
+          86,
+          90,
+          93,
+          96
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          116,
+          127,
+          138,
+          149,
+          160,
+          176,
+          198,
+          225,
+          257,
+          290,
+          304,
+          318,
+          332,
+          347,
+          361
+        ],
+        [
+          80,
+          82,
+          84,
+          86,
+          88,
+          90,
+          93,
+          95,
+          98,
+          100,
+          102,
+          104,
+          106,
+          108,
+          110
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Sanft, aber grausam",
+      "desc": "Nach dem Einsatz des Standardangriffs von einem Verbündeten führt Kafka sofort einen <u>Folgeangriff</u> aus und fügt dem Ziel Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Kafkas ANG zu. Es besteht eine Grundchance von {2}, dem angegriffenen Gegner für {3} Rd. Schock zuzufügen, der dem Status Schock des Ultimates entspricht. Dieser Effekt kann nur 1-mal pro Runde ausgelöst werden.",
+      "values": [
+        [
+          42,
+          52,
+          62,
+          71,
+          81,
+          91,
+          103,
+          115,
+          128,
+          140,
+          150,
+          160,
+          169,
+          179,
+          189
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Gnade ist nicht Vergebung",
+      "desc": "Greift alle Gegner innerhalb einer gewissen Reichweite unmittelbar an und fügt nach Kampfeintritt allen Gegnern Blitz-SCH in Höhe von {3} von Kafkas ANG zu. Es besteht eine <u>Grundchance</u> von {1}, jedem einzelnen Gegner für {2} Rd. den Status Schock zuzufügen, der dem Status Schock des Ultimates entspricht.",
+      "values": [
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
   "silver-wolf": {
     "attack": {
       "name": "Systemwarnung",
@@ -2952,6 +3166,224 @@
         "[i]%",
         "[i]%",
         "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "luka": {
+    "attack": {
+      "name": "Gerader Haken",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Lukas ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Schredderfaust",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Lukas ANG zu. Es besteht eine <u>Grundchance</u> von {2}, bei diesem Gegner für {5} Rd. Bluten zu verursachen.\\nDer blutende Gegner erleidet zu Beginn jeder Runde physischen DoT in Höhe von {3} seiner max. LP. Dieser SCH kann nicht <span style=\"color: #f29e38ff\">{4}</span> von Lukas ANG übersteigen.",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          100
+        ],
+        [
+          24
+        ],
+        [
+          130,
+          143,
+          156,
+          169,
+          182,
+          201,
+          227,
+          260,
+          299,
+          338,
+          355,
+          372,
+          389,
+          406,
+          422
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Gnadenstoß",
+      "desc": "Luka erhält {5} Stapelungen „Kampfeswille“. Es besteht eine <u>Grundchance</u> von {2}, den erlittenen SCH eines anvisierten Gegners für {4} Rd. um <span style=\"color: #f29e38ff\">{3}</span> zu erhöhen. Fügt dem Ziel danach physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Lukas ANG zu.",
+      "values": [
+        [
+          198,
+          211,
+          224,
+          238,
+          251,
+          264,
+          281,
+          297,
+          313,
+          330,
+          343,
+          356,
+          370,
+          383,
+          396
+        ],
+        [
+          100
+        ],
+        [
+          12,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24
+        ],
+        [
+          3
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Fliegende Funken",
+      "desc": "Nach dem Einsatz seines Standardangriffs „Gerader Haken“ oder seiner Fertigkeit „Schredderfaust“ erhält Luka {1} Stapelung „Kampfeswille“, bis zu 4-fach stapelbar. Ab 2 Stapelungen „Kampfeswille“ wird Lukas Standardangriff „Gerader Haken“ zu „Himmelsbrecher-Faust“ verstärkt. Wenn Lukas verstärkter Standardangriff „Himmelsbrecher-Faust“ einen blutenden Gegner trifft, erleidet dieser sofort 1-mal Bluten-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des ursprünglichen SCH. Bei Kampfbeginn besitzt Luka 1 Stapelung „Kampfeswille“.",
+      "values": [
+        [
+          1
+        ],
+        [
+          68,
+          70,
+          71,
+          73,
+          75,
+          77,
+          79,
+          81,
+          83,
+          85,
+          87,
+          88,
+          90,
+          92,
+          94
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Vorausdenker",
+      "desc": "Greift den Gegner unmittelbar an. Nach Kampfeintritt fügt Luka einem zufälligen Gegner physischen SCH in Höhe von {1} seines ANG zu und hat eine <u>Grundchance</u> von {2}, dem Ziel den Status Bluten seiner Fertigkeit zuzufügen. Danach erhält Luka zusätzlich 1 Stapelung „Kampfeswille“.",
+      "values": [
+        [
+          50
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Himmelsbrecher-Faust",
+      "desc": "Verbraucht 2 Stapelungen „Kampfeswille“. Attackiert erst einen Gegner mit einem dreifachen „Geraden Haken“, der pro Treffer physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Lukas ANG verursacht.\\nAttackiert dann einen Gegner mit „Himmelsbrecher-Faust“, die mit einem Schlag physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Lukas ANG verursacht.",
+      "values": [
+        [
+          10,
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26
+        ],
+        [
+          40,
+          48,
+          56,
+          64,
+          72,
+          80,
+          88,
+          96,
+          104
+        ]
+      ],
+      "format": [
         "[i]%",
         "[i]%"
       ]

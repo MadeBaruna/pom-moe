@@ -683,6 +683,220 @@
       ]
     }
   },
+  "kafka": {
+    "attack": {
+      "name": "Náo Động Giữa Đêm",
+      "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Kafka.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Ánh Trăng Ve Vuốt",
+      "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Kafka, đồng thời gây cho mục tiêu lân cận của kẻ đó Sát Thương Lôi tương đương <span style=\"color: #f29e38ff\">{3}</span> Tấn Công của Kafka.\\nNếu kẻ địch chỉ định đang ở trạng thái Sát Thương Duy Trì, thì tất cả Sát Thương Duy Trì mà kẻ đó đang chịu sẽ lập tức sinh ra sát thương tương đương <span style=\"color: #f29e38ff\">{2}</span> sát thương ban đầu.",
+      "values": [
+        [
+          80,
+          88,
+          96,
+          104,
+          112,
+          120,
+          130,
+          140,
+          150,
+          160,
+          168,
+          176,
+          184,
+          192,
+          200
+        ],
+        [
+          60,
+          62,
+          63,
+          65,
+          66,
+          68,
+          69,
+          71,
+          73,
+          75,
+          77,
+          78,
+          80,
+          81,
+          83
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Âm Vọng Bi Kịch",
+      "desc": "Gây Sát Thương Lôi cho toàn bộ kẻ địch tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Kafka, có {2} <u>xác suất cơ bản</u> khiến kẻ địch bị tấn công rơi vào trạng thái Sốc Điện và khiến trạng thái Sốc Điện phải chịu hiện tại sinh ra sát thương tương đương <span style=\"color: #f29e38ff\">{5}</span> sát thương ban đầu. Trạng thái Sốc Điện duy trì {3} hiệp.\\nTrong trạng thái này, kẻ địch mỗi khi bắt đầu hiệp sẽ chịu Sát Thương Lôi duy trì tương đương <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của Kafka.",
+      "values": [
+        [
+          48,
+          51,
+          54,
+          58,
+          61,
+          64,
+          68,
+          72,
+          76,
+          80,
+          83,
+          86,
+          90,
+          93,
+          96
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          116,
+          127,
+          138,
+          149,
+          160,
+          176,
+          198,
+          225,
+          257,
+          290,
+          304,
+          318,
+          332,
+          347,
+          361
+        ],
+        [
+          80,
+          82,
+          84,
+          86,
+          88,
+          90,
+          93,
+          95,
+          98,
+          100,
+          102,
+          104,
+          106,
+          108,
+          110
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Dịu Dàng Đồng Nghĩa Tàn Khốc",
+      "desc": "Sau khi đồng đội của Kafka tấn công thường vào kẻ địch, Kafka sẽ phát động ngay <u>Đòn Đánh Theo Sau</u>, gây Sát Thương Lôi tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Kafka cho mục tiêu này, và có {2} xác suất cơ bản khiến kẻ địch bị tấn công rơi vào trạng thái Sốc Điện giống với Tuyệt Kỹ, duy trì {3} hiệp, hiệu ứng này mỗi hiệp chỉ có thể kích hoạt 1 lần.",
+      "values": [
+        [
+          42,
+          52,
+          62,
+          71,
+          81,
+          91,
+          103,
+          115,
+          128,
+          140,
+          150,
+          160,
+          169,
+          179,
+          189
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Tha Thứ Không Có Nghĩa là Nhân Từ",
+      "desc": "Tấn công ngay tất cả kẻ địch trong phạm vi nhất định, sau khi vào chiến đấu sẽ gây Sát Thương Lôi cho toàn bộ địch bằng {3} Tấn Công của Kafka, đồng thời có {1} <u>xác suất cơ bản</u> khiến mỗi 1 kẻ địch rơi vào trạng thái Sốc Điện giống với Tuyệt Kỹ, duy trì {2} hiệp.",
+      "values": [
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
   "silver-wolf": {
     "attack": {
       "name": "Cảnh Báo Hệ Thống",
@@ -2952,6 +3166,224 @@
         "[i]%",
         "[i]%",
         "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "luka": {
+    "attack": {
+      "name": "Nắm Đấm Trực Diện",
+      "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Luka.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Nắm Đấm Vỡ Nát",
+      "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Luka, sau đó có {2} <u>xác suất cơ bản</u> khiến mục tiêu rơi vào trạng thái Chảy Máu, duy trì {5} hiệp.\\nTrong trạng thái Chảy Máu, khi bắt đầu mỗi hiệp, kẻ địch sẽ chịu Sát Thương Vật Lý Duy Trì bằng {3} Giới Hạn HP của bản thân, tối đa không quá <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của Luka.",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          100
+        ],
+        [
+          24
+        ],
+        [
+          130,
+          143,
+          156,
+          169,
+          182,
+          201,
+          227,
+          260,
+          299,
+          338,
+          355,
+          372,
+          389,
+          406,
+          422
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Đòn Chiến Thắng",
+      "desc": "Nhận {5} tầng Ý Chí Chiến Đấu và có {2} <u>xác suất cơ bản</u> khiến 1 kẻ địch chỉ định tăng <span style=\"color: #f29e38ff\">{3}</span> sát thương phải chịu, duy trì {4} hiệp, sau đó gây Sát Thương Vật Lý cho mục tiêu này bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Luka.",
+      "values": [
+        [
+          198,
+          211,
+          224,
+          238,
+          251,
+          264,
+          281,
+          297,
+          313,
+          330,
+          343,
+          356,
+          370,
+          383,
+          396
+        ],
+        [
+          100
+        ],
+        [
+          12,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24
+        ],
+        [
+          3
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Tia Lửa Bắn Tóe",
+      "desc": "Sau khi Luka thi triển tấn công thường là Nắm Đấm Trực Diện và Chiến Kỹ là Nắm Đấm Vỡ Nát, sẽ nhận {1} tầng Ý Chí Chiến Đấu, tối đa 4 tầng. Khi số tầng Ý Chí Chiến Đấu từ 2 tầng trở lên, tấn công thường Nắm Đấm Trực Diện sẽ cường hóa thành Nắm Đấm Phá Trời Trực Diện. Sau khi tấn công thường cường hóa là \"Nắm Đấm Phá Trời\" đánh trúng kẻ địch đang Chảy Máu, sẽ khiến trạng thái Chảy Máu mà kẻ đó đang phải chịu lập tức sinh ra 1 lần sát thương tương đương <span style=\"color: #f29e38ff\">{2}</span> sát thương ban đầu. Khi bắt đầu chiến đấu, Luka có 1 tầng Ý Chí Chiến Đấu.",
+      "values": [
+        [
+          1
+        ],
+        [
+          68,
+          70,
+          71,
+          73,
+          75,
+          77,
+          79,
+          81,
+          83,
+          85,
+          87,
+          88,
+          90,
+          92,
+          94
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Người Tiên Phong",
+      "desc": "Tấn công kẻ địch ngay, sau khi vào chiến đấu sẽ gây Sát Thương Vật Lý bằng {1} Tấn Công của Luka cho 1 kẻ địch ngẫu nhiên, đồng thời có {2} <u>xác suất cơ bản</u> khiến kẻ này rơi vào trạng thái Chảy Máu giống với Chiến Kỹ. Sau đó Luka sẽ nhận thêm 1 tầng Ý Chí Chiến Đấu.",
+      "values": [
+        [
+          50
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Nắm Đấm Phá Trời Trực Diện",
+      "desc": "Tiêu hao 2 tầng Ý Chí Chiến Đấu, dùng Nắm Đấm Trực Diện trước thi triển 3 đòn tấn công, mỗi đòn gây cho 1 kẻ địch chỉ định lượng Sát Thương Vật Lý bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Luka.\\nDùng tiếp Nắm Đấm Phá Trời thi triển 1 đòn tấn công, gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Luka.",
+      "values": [
+        [
+          10,
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26
+        ],
+        [
+          40,
+          48,
+          56,
+          64,
+          72,
+          80,
+          88,
+          96,
+          104
+        ]
+      ],
+      "format": [
         "[i]%",
         "[i]%"
       ]

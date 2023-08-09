@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "L'un des membres d'équipage de l'Express les plus aguerris.\\nL'ardeur enfouie dans son cœur brûle à nouveau depuis qu'il s'est lancé à corps perdu dans cette nouvelle aventure.\\nIl dessine parfois ses observations lors de ses voyages dans un carnet de croquis."
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "Kafka",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Membre des Chasseurs de Stellaron. Une femme d'une grande beauté à la fois calme, réfléchie et professionnelle.\\nA envoûté {NICKNAME pour {M#lui}la} faire absorber le Stellaron à l'aide de Chuchotement de l'esprit.\\nPour passer le temps, elle achète des manteaux et les organise selon son humeur."
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Louve d'argent",
@@ -134,6 +142,14 @@
     "element": "fire",
     "rarity": 4,
     "background": "Cheffe autoproclamée de l'escouade d'aventure des Taupes, dans le Souterrain.\\nElle chérit sa liberté et voit la vie comme une succession d'aventures."
+  },
+  "luka": {
+    "id": "luka",
+    "name": "Luka",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Le champion de boxe du Souterrain de Belobog et l'un des meilleurs combattants des Feux sauvages.\\nVainqueur à multiples reprises du Club de combat, son enthousiasme est source d'inspiration pour les enfants du Souterrain qui osent encore rêver."
   },
   "qingque": {
     "id": "qingque",

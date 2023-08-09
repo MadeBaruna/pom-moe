@@ -101,7 +101,7 @@
 				? 'translate-x-1/2'
 				: started
 				? 'translate-x-[120%]'
-				: '-translate-x-[120%]'}"
+				: '-translate-x-[90%]'}"
 		>
 			<div
 				class="rounded-md bg-white/70 px-1 text-sm font-medium leading-tight text-black backdrop-blur-md"

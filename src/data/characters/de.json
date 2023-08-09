@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "Ein führendes Besatzungsmitglied.\\nEr sehnt sich aus ganzem Herzen nach einem neuen langen und schönen Abenteuer.\\nHin und wieder hält er seine Erlebnisse als Zeichnungen in seinem Skizzenbuch fest."
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "Kafka",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Diese ruhige, gefasste und professionell auftretende Schönheit ist Mitglied der Stellaron-Jäger.\\nSie bereitete {NICKNAME mithilfe von Geistergeflüster darauf vor, das Stellaron in sich aufzunehmen.\\nMag es, shoppen zu gehen und ihre Mäntel zu sortieren."
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Silberwolf",
@@ -134,6 +142,14 @@
     "element": "fire",
     "rarity": 4,
     "background": "Der (selbst ernannte) Boss der „Maulwürfe“, eines Abenteuertrupps aus dem Untergrund.\\nSie liebt ihre Freiheit und betrachtet das Leben als eine Reihe von Abenteuern."
+  },
+  "luka": {
+    "id": "luka",
+    "name": "Luka",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Der Boxchampion von Belobogs Unterwelt und einer der fähigsten Kämpfer von Wildfeuer.\\nDer mehrjährige Champion des Fight Club beflügelt mit seinem Enthusiasmus die Träume der Kinder der Unterwelt."
   },
   "qingque": {
     "id": "qingque",

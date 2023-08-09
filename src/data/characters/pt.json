@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "Membro experiente da Tripulação do Expresso.\\nA paixão escondida em seu coração arde novamente ao aproveitar esta nova aventura.\\nÀs vezes ele esboça as experiências vividas em um caderno."
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "Kafka",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Membro dos Caçadores de Stellaron. Uma beleza calma, centrada e profissional.\\nUsou o encantamento do Sussuro de Espírito para preparar {NICKNAME para absorver o Stellaron.\\nGosta de fazer compras e organizar sua coleção de casacos."
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Loba Prateada",
@@ -134,6 +142,14 @@
     "element": "fire",
     "rarity": 4,
     "background": "Chefe (autointitulada) de um grupo aventureiro do Mundo de Baixo, as Toupeiras.\\nAdora a liberdade e vê a vida como uma série de aventuras."
+  },
+  "luka": {
+    "id": "luka",
+    "name": "Luka",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "O campeão de boxe do Mundo de Baixo de Belobog e um dos lutadores mais habilidosos da Fogo Vivo.\\nO campeão consecutivo do Clube da Luta, seu entusiasmo inspira as crianças do Mundo de Baixo a sonhar alto."
   },
   "qingque": {
     "id": "qingque",

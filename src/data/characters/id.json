@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "Anggota senior kru Astral Express.\\nDia menikmati keajaiban petualangan yang sudah lama tidak dialami. Semangat yang tersembunyi di dalam hatinya juga kembali berkobar.\\nDia terkadang akan menggambarkan pengalaman petualangannya di dalam buku."
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "Kafka",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Anggota \"Stellaron Hunter\". Seorang profesional cantik yang tenang dan santai.\\nDia memanfaatkan keajaiban kata-kata untuk membuat {NICKNAME menyerap Stellaron.\\nHobinya adalah berbelanja dan merapikan mantel."
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Silver Wolf",
@@ -134,6 +142,14 @@
     "element": "fire",
     "rarity": 4,
     "background": "Bos (mengesahkan diri sendiri) tim petualangan bawah tanah \"The Moles\".\\nDia mencintai kebebasan, dan melihat kehidupan sebagai serangkaian petualangan."
+  },
+  "luka": {
+    "id": "luka",
+    "name": "Luka",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Petinju juara di Underworld Belobog, salah satu orang paling berbakat di \"Wildfire\".\\n Juara berturut-turut Fight Club, dia menggunakan antusiasmenya untuk memotivasi anak-anak Underworld yang mempunyai mimpi."
   },
   "qingque": {
     "id": "qingque",

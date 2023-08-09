@@ -371,6 +371,99 @@
       "cost": []
     }
   ],
+  "kafka": [
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 4000
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 8000
+        },
+        {
+          "name": "thiefs-instinct",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 16000
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 6
+        },
+        {
+          "name": "shape-shifters-lightning-staff",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 40000
+        },
+        {
+          "name": "usurpers-scheme",
+          "amount": 9
+        },
+        {
+          "name": "shape-shifters-lightning-staff",
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 80000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 6
+        },
+        {
+          "name": "shape-shifters-lightning-staff",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "cost": [
+        {
+          "name": "credit",
+          "amount": 160000
+        },
+        {
+          "name": "conquerors-will",
+          "amount": 9
+        },
+        {
+          "name": "shape-shifters-lightning-staff",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "cost": []
+    }
+  ],
   "silver-wolf": [
     {
       "cost": [

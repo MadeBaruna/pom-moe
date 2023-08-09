@@ -683,6 +683,220 @@
       ]
     }
   },
+  "kafka": {
+    "attack": {
+      "name": "Tumulte de minuit",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Kafka à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Caresse du clair de lune",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Kafka à une cible ennemie et des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{3}</span> de l'ATQ de Kafka aux ennemis adjacents.\\nSi la cible ennemie est soumise à des dégâts sur la durée, tous les dégâts sur la durée qu'elle subit actuellement produisent immédiatement des DGT équivalents à <span style=\"color: #f29e38ff\">{2}</span> des DGT initiaux.",
+      "values": [
+        [
+          80,
+          88,
+          96,
+          104,
+          112,
+          120,
+          130,
+          140,
+          150,
+          160,
+          168,
+          176,
+          184,
+          192,
+          200
+        ],
+        [
+          60,
+          62,
+          63,
+          65,
+          66,
+          68,
+          69,
+          71,
+          73,
+          75,
+          77,
+          78,
+          80,
+          81,
+          83
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Trille crépusculaire",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Kafka à tous les ennemis. Les ennemis touchés ont {2} de <u>chances de base</u> d'être stupéfiés et de subir immédiatement des DGT équivalents à <span style=\"color: #f29e38ff\">{5}</span> des dégâts sur la durée. Stupéfaction dure {3} tours.\\nLes ennemis stupéfiés subissent des dégâts de foudre sur la durée équivalents à <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de Kafka au début de chaque tour.",
+      "values": [
+        [
+          48,
+          51,
+          54,
+          58,
+          61,
+          64,
+          68,
+          72,
+          76,
+          80,
+          83,
+          86,
+          90,
+          93,
+          96
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          116,
+          127,
+          138,
+          149,
+          160,
+          176,
+          198,
+          225,
+          257,
+          290,
+          304,
+          318,
+          332,
+          347,
+          361
+        ],
+        [
+          80,
+          82,
+          84,
+          86,
+          88,
+          90,
+          93,
+          95,
+          98,
+          100,
+          102,
+          104,
+          106,
+          108,
+          110
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Douce mais cruelle",
+      "desc": "Lorsqu'un allié de Kafka utilise une ATQ normale sur une cible ennemie, Kafka lance immédiatement 1 <u>attaque de suivi</u> et inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ à cette cible, avec {2} de chances de base de lui infliger l'effet Stupéfaction de son ultime pendant {3} tours. Cet effet ne peut être déclenché que 1 fois par tour.",
+      "values": [
+        [
+          42,
+          52,
+          62,
+          71,
+          81,
+          91,
+          103,
+          115,
+          128,
+          140,
+          150,
+          160,
+          169,
+          179,
+          189
+        ],
+        [
+          100
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "La pitié n'est pas un pardon",
+      "desc": "Attaque immédiatement tous les ennemis dans un rayon déterminé. Inflige des DGT de foudre équivalents à {3} de l'ATQ de Kafka à tous les ennemis après être entré en combat, avec {1} de <u>chances de base</u> d'infliger l'effet Stupéfaction de l'ultime à chaque ennemi pendant {2} tours.",
+      "values": [
+        [
+          100
+        ],
+        [
+          2
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
   "silver-wolf": {
     "attack": {
       "name": "Alerte système",
@@ -2952,6 +3166,224 @@
         "[i]%",
         "[i]%",
         "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "luka": {
+    "attack": {
+      "name": "Direct du droit",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luka à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Poing lacérateur",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luka à une cible ennemie unique, avec {2} de <u>chances de base</u> de lui infliger Saignement pendant {5} tours.\\nQuand un ennemi souffre de Saignement, il subit des dégâts sur la durée physiques équivalents à {3} de ses PV max au début de chaque tour. Ces DGT ne peuvent pas excéder <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de Luka.",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          100
+        ],
+        [
+          24
+        ],
+        [
+          130,
+          143,
+          156,
+          169,
+          182,
+          201,
+          227,
+          260,
+          299,
+          338,
+          355,
+          372,
+          389,
+          406,
+          422
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Coup de grâce",
+      "desc": "Accorde {5} cumuls de Soif de combat, avec {2} de <u>chances de base</u> d'augmenter les DGT subis par une cible ennemie unique de <span style=\"color: #f29e38ff\">{3}</span> pendant {4} tours. Puis inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luka à la cible.",
+      "values": [
+        [
+          198,
+          211,
+          224,
+          238,
+          251,
+          264,
+          281,
+          297,
+          313,
+          330,
+          343,
+          356,
+          370,
+          383,
+          396
+        ],
+        [
+          100
+        ],
+        [
+          12,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24
+        ],
+        [
+          3
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Étincelles volantes",
+      "desc": "Luka reçoit {1} cumul de Soif de combat après avoir utilisé son ATQ normale Direct du droit ou sa compétence Poing lacérateur jusqu'à un maximum de 4 cumuls. À 2 cumuls de Soif de combat, son ATQ normale Direct du droit est renforcée en Poing destructeur d'étoiles. Lorsque l'Uppercut du droit de son ATQ normale renforcée touche une cible ennemie victime de Saignement, l'effet Saignement inflige immédiatement des DGT équivalents à <span style=\"color: #f29e38ff\">{2}</span> des DGT de Saignement d'origine 1 fois. Luka dispose d'1 cumul de Soif de combat en début de combat.",
+      "values": [
+        [
+          1
+        ],
+        [
+          68,
+          70,
+          71,
+          73,
+          75,
+          77,
+          79,
+          81,
+          83,
+          85,
+          87,
+          88,
+          90,
+          92,
+          94
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Anticipation",
+      "desc": "Attaque immédiatement les ennemis. Luka inflige des DGT physiques équivalents à {1} de son ATQ à un ennemi aléatoire en entrant en combat, avec {2} de <u>chances de base</u> de lui infliger l'effet Saignement de sa compétence, à la suite de quoi Luka obtient un cumul supplémentaire de Soif de combat.",
+      "values": [
+        [
+          50
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Poing destructeur d'étoiles",
+      "desc": "Consomme 2 cumuls de Soif de combat. Utilise d'abord Direct du droit pour lancer 3 coups, chacun infligeant des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luka à la cible ennemie.\\nPuis, utilise Uppercut du droit pour lancer 1 coup, infligeant des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Luka à la cible ennemie.",
+      "values": [
+        [
+          10,
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26
+        ],
+        [
+          40,
+          48,
+          56,
+          64,
+          72,
+          80,
+          88,
+          96,
+          104
+        ]
+      ],
+      "format": [
         "[i]%",
         "[i]%"
       ]

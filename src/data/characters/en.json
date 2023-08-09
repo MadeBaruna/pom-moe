@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "A seasoned member of the Express Crew.\\nThe passion buried in his heart burns anew as he enjoys this fresh adventure.\\nOccasionally, he would sketch the experiences in a notebook."
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "Kafka",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "A member of the Stellaron Hunters. A dashing, collected, and professional beauty.\\nUsed the enchantment of Spirit Whisper to set up {NICKNAME to absorb the Stellaron.\\nHer hobby is shopping for and organizing her collection of coats."
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Silver Wolf",
@@ -134,6 +142,14 @@
     "element": "fire",
     "rarity": 4,
     "background": "Boss (self-proclaimed) of an Underworld adventure squad, The Moles.\\nShe loves freedom and sees life as a series of adventures."
+  },
+  "luka": {
+    "id": "luka",
+    "name": "Luka",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "The boxing champion in Belobog's Underworld, and one of Wildfire's most capable fighters.\\nThe consecutive reigning champion of the Fight Club, whose enthusiasm inspires children of the Underworld to dream big."
   },
   "qingque": {
     "id": "qingque",

@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "老成持重的列車組前輩。\\n享受著久違的冒險奇遇，心底埋藏的熱血再度燃燒。\\n偶爾還會將經歷的冒險旅程畫在本子裡。"
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "卡芙卡",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "「星核獵手」的成員，瀟灑從容的職業麗人。\\n利用言靈術，設計令{NICKNAME吸收星核。\\n愛好是購買及整理大衣。"
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "銀狼",

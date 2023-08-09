@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "Un miembro veterano de la tripulación.\\nLa sangre apasionada de su corazón bulle esperando otra larga aventura.\\nA veces dibuja sus vivencias en un cuaderno."
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "Kafka",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Miembro de los Cazadores de Estelaron. Una amante de la moda muy estilosa y profesional.\\nUtilizó el encantamiento Encantadora de espíritus para que {NICKNAME absorbiera el Estelaron.\\nLe gusta comprar y ordenar sus abrigos."
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "Silver Wolf",
@@ -134,6 +142,14 @@
     "element": "fire",
     "rarity": 4,
     "background": "Jefa autoproclamada del grupo de aventura del Bajomundo llamado Los Topos.\\nAma la libertad y cree que la vida es una sucesión de aventuras."
+  },
+  "luka": {
+    "id": "luka",
+    "name": "Luka",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Campeón de lucha del Bajomundo de Belobog y uno de los mejores combatientes de Llamarada.\\nEl varias veces campeón del Club de la Pelea inspira a los niños del Bajomundo con su entusiasmo."
   },
   "qingque": {
     "id": "qingque",

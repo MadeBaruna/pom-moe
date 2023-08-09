@@ -1,8 +1,8 @@
 {
   "march-7th": {
     "attack": {
-      "name": "Frigid Cold Arrow",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of March 7th's ATK to a single enemy.",
+      "name": "极寒的弓矢",
+      "desc": "对指定敌方单体造成等同于三月七<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害。",
       "values": [
         [
           50,
@@ -21,8 +21,8 @@
       ]
     },
     "skill": {
-      "name": "The Power of Cuteness",
-      "desc": "Provides a single ally with a Shield that can absorb DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of March 7th's DEF plus <span style=\"color: #f29e38ff\">{4}</span> for {2} turn(s).\\nIf the ally's current HP percentage is {3} or higher, greatly increases the chance of enemies attacking that ally.",
+      "name": "可爱即是正义",
+      "desc": "为指定我方单体提供能够抵消等同于三月七<span style=\"color: #f29e38ff\">{1}</span>防御力+<span style=\"color: #f29e38ff\">{4}</span>伤害的护盾，持续{2}回合。\\n若该目标当前生命值百分比大于等于{3}，被敌方攻击的概率大幅提高。",
       "values": [
         [
           38,
@@ -77,8 +77,8 @@
       ]
     },
     "ultimate": {
-      "name": "Glacial Cascade",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of March 7th's ATK to all enemies. Hit enemies have a {2} <u>base chance</u> to be Frozen for {3} turn(s).\\nWhile Frozen, enemies cannot take action and will receive <u>Additional</u> Ice DMG equal to <span style=\"color: #f29e38ff\">{4}</span> of March 7th's ATK at the beginning of each turn.",
+      "name": "冰刻箭雨之时",
+      "desc": "对敌方全体造成等同于三月七<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害。受到攻击的敌方目标有{2}<u>基础概率</u>陷入冻结状态，持续{3}回合。\\n冻结状态下，敌方目标不能行动同时每回合开始时受到等同于三月七<span style=\"color: #f29e38ff\">{4}</span>攻击力的冰属性<u>附加伤害</u>。",
       "values": [
         [
           90,
@@ -129,8 +129,8 @@
       ]
     },
     "talent": {
-      "name": "Girl Power",
-      "desc": "After a Shielded ally is attacked by an enemy, March 7th immediately <u>Counters</u>, dealing Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of her ATK. This effect can be triggered {2} time(s) each turn.",
+      "name": "少女的特权",
+      "desc": "当持有护盾的我方目标受到敌方目标攻击后，三月七立即向攻击者发起<u>反击</u>，对其造成等同于三月七<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害，该效果每回合可触发{2}次。",
       "values": [
         [
           50,
@@ -159,14 +159,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Freezing Beauty",
-      "desc": "Immediately attacks the enemy. After entering battle, there is a {1} <u>base chance</u> to Freeze a random enemy for {2} turn(s).\\nWhile Frozen, the enemy cannot take action and will take <u>Additional</u> Ice DMG equal to {3} of March 7th's ATK at the beginning of each turn.",
+      "name": "冻人的瞬间",
+      "desc": "立即攻击敌人，进入战斗后有{1}的<u>基础概率</u>使随机敌方单体陷入冻结状态，持续{2}回合。\\n冻结状态下，敌方目标不能行动同时每回合开始时受到等同于三月七{3}攻击力的冰属性<u>附加伤害</u>。",
       "values": [
         [
           100
@@ -187,8 +187,8 @@
   },
   "dan-heng": {
     "attack": {
-      "name": "Cloudlancer Art: North Wind",
-      "desc": "Deals Wind DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dan Heng's ATK to a single enemy.",
+      "name": "云骑枪术•朔风",
+      "desc": "对指定敌方单体造成等同于丹恒<span style=\"color: #f29e38ff\">{1}</span>攻击力的风属性伤害。",
       "values": [
         [
           50,
@@ -207,8 +207,8 @@
       ]
     },
     "skill": {
-      "name": "Cloudlancer Art: Torrent",
-      "desc": "Deals Wind DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dan Heng's ATK to a single enemy.\\nOn a CRIT Hit, there is a {4} <u>base chance</u> to reduce the target's SPD by {2} for {3} turn(s).",
+      "name": "云骑枪术•疾雨",
+      "desc": "对指定敌方单体造成等同于丹恒<span style=\"color: #f29e38ff\">{1}</span>攻击力的风属性伤害。\\n战技造成的伤害触发暴击时，有{4}的<u>基础概率</u>使受到攻击的敌方目标速度降低{2}，持续{3}回合。",
       "values": [
         [
           130,
@@ -245,8 +245,8 @@
       ]
     },
     "ultimate": {
-      "name": "Ethereal Dream",
-      "desc": "Deals Wind DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dan Heng's ATK to a single enemy. If the enemy is Slowed, the Ultimate's DMG multiplier increases by <span style=\"color: #f29e38ff\">{2}</span>.",
+      "name": "洞天幻化，长梦一觉",
+      "desc": "对指定敌方单体造成等同于丹恒<span style=\"color: #f29e38ff\">{1}</span>攻击力的风属性伤害。当受到攻击的敌方目标处于减速状态时，终结技造成的伤害倍率提高<span style=\"color: #f29e38ff\">{2}</span>。",
       "values": [
         [
           240,
@@ -289,8 +289,8 @@
       ]
     },
     "talent": {
-      "name": "Superiority of Reach",
-      "desc": "When Dan Heng is the target of an ally's Ability, his next attack's Wind <u>RES PEN</u> increases by <span style=\"color: #f29e38ff\">{1}</span>. This effect can be triggered again after {2} turn(s).",
+      "name": "寸长寸强",
+      "desc": "当丹恒成为我方技能的施放目标时，下一次攻击的风属性<u>抗性穿透</u>提高<span style=\"color: #f29e38ff\">{1}</span>。该效果在{2}回合后可再次触发。",
       "values": [
         [
           18,
@@ -319,14 +319,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Splitting Spearhead",
-      "desc": "After Dan Heng uses his Technique, his ATK increases by {1} at the start of the next battle for {2} turn(s).",
+      "name": "破敌锋芒",
+      "desc": "使用秘技后，下一次战斗开始时丹恒攻击力提高{1}，持续{2}回合。",
       "values": [
         [
           40
@@ -343,8 +343,8 @@
   },
   "himeko": {
     "attack": {
-      "name": "Sawblade Tuning",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Himeko's ATK to a single enemy.",
+      "name": "武装调律",
+      "desc": "对指定敌方单体造成等同于姬子<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害。",
       "values": [
         [
           50,
@@ -363,8 +363,8 @@
       ]
     },
     "skill": {
-      "name": "Molten Detonation",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Himeko's ATK to a single enemy and Fire DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Himeko's ATK to enemies adjacent to it.",
+      "name": "熔核爆裂",
+      "desc": "对指定敌方单体造成等同于姬子<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害，同时对其相邻目标造成等同于姬子<span style=\"color: #f29e38ff\">{2}</span>攻击力的火属性伤害。",
       "values": [
         [
           100,
@@ -407,8 +407,8 @@
       ]
     },
     "ultimate": {
-      "name": "Heavenly Flare",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Himeko's ATK to all enemies. Himeko regenerates {2} extra Energy for each enemy defeated.",
+      "name": "天坠之火",
+      "desc": "对敌方全体造成等同于姬子<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害，每消灭1个敌方目标额外恢复姬子{2}点能量。",
       "values": [
         [
           138,
@@ -437,8 +437,8 @@
       ]
     },
     "talent": {
-      "name": "Victory Rush",
-      "desc": "When an enemy is inflicted with Weakness Break, Himeko gains 1 point of Charge (max {2} points).\\nIf Himeko is fully Charged when an ally performs an attack, Himeko immediately performs 1 <u>follow-up attack</u> and deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of her ATK to all enemies, consuming all Charge points.\\nAt the start of the battle, Himeko gains 1 point of Charge.",
+      "name": "乘胜追击",
+      "desc": "当有敌方目标的弱点被击破时，姬子获得充能，上限{2}点。\\n当我方目标施放攻击后，若姬子的充能达到上限则立即发动1次<u>追加攻击</u>，对敌方全体目标造成等同于姬子<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害，并消耗全部充能。\\n战斗开始时获得1点充能。",
       "values": [
         [
           70,
@@ -467,14 +467,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Incomplete Combustion",
-      "desc": "After using Technique, creates a dimension that lasts for {4} second(s). After entering battle with enemies in the dimension, there is a {1} <u>base chance</u> to increase Fire DMG taken by enemies by {2} for {3} turn(s). Only 1 dimension created by allies can exist at the same time.",
+      "name": "不完全燃烧",
+      "desc": "使用秘技后，制造1片持续{4}秒的特殊领域。与处于特殊领域内的敌人进入战斗后，有{1}的<u>基础概率</u>使敌方目标受到的火属性伤害提高{2}，持续{3}回合。我方制造的领域效果最多存在1个。",
       "values": [
         [
           100
@@ -499,8 +499,8 @@
   },
   "welt": {
     "attack": {
-      "name": "Gravity Suppression",
-      "desc": "Deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Welt's ATK to a single enemy.",
+      "name": "重力压制",
+      "desc": "对指定敌方单体造成等同于瓦尔特<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害。",
       "values": [
         [
           50,
@@ -519,8 +519,8 @@
       ]
     },
     "skill": {
-      "name": "Edge of the Void",
-      "desc": "Deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Welt's ATK to a single enemy and further deals DMG 2 extra times, with each time dealing Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Welt's ATK to a random enemy. On hit, there is a <span style=\"color: #f29e38ff\">{2}</span> <u>base chance</u> to reduce the enemy's SPD by {3} for {4} turn(s).",
+      "name": "虚空断界",
+      "desc": "对指定敌方单体造成等同于瓦尔特<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害，并额外造成2次伤害。每次伤害对敌方随机单体造成等同于瓦尔特<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害。攻击命中时有<span style=\"color: #f29e38ff\">{2}</span>的<u>基础概率</u>使受到攻击的敌方目标速度降低{3}，持续{4}回合。",
       "values": [
         [
           36,
@@ -571,8 +571,8 @@
       ]
     },
     "ultimate": {
-      "name": "Synthetic Black Hole",
-      "desc": "Deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Welt's ATK to all enemies, with a {3} <u>base chance</u> for enemies hit by this ability to be Imprisoned for 1 turn.\\nImprisoned enemies have their <u>actions delayed</u> by <span style=\"color: #f29e38ff\">{2}</span> and SPD reduced by {4}.",
+      "name": "拟似黑洞",
+      "desc": "对敌方全体造成等同于瓦尔特<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害，有{3}的<u>基础概率</u>使受到攻击的敌方目标陷入禁锢状态，持续1回合。\\n禁锢状态下，敌方目标<u>行动延后</u><span style=\"color: #f29e38ff\">{2}</span>，速度降低{4}。",
       "values": [
         [
           90,
@@ -623,8 +623,8 @@
       ]
     },
     "talent": {
-      "name": "Time Distortion",
-      "desc": "When hitting an enemy that is already Slowed, Welt deals <u>Additional</u> Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of his ATK to the enemy.",
+      "name": "时空扭曲",
+      "desc": "击中处于减速状态的敌方目标时，额外造成1次等同于瓦尔特<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性<u>附加伤害</u>。",
       "values": [
         [
           30,
@@ -649,14 +649,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Gravitational Imprisonment",
-      "desc": "After using Welt's Technique, create a dimension that lasts for {4} second(s). Enemies in this dimension have their Movement SPD reduced by {5}. After entering battle with enemies in the dimension, there is a {1} <u>base chance</u> to Imprison the enemies for 1 turn.\\nImprisoned enemies have their <u>actions delayed</u> by {2} and SPD reduced by {3}. Only 1 dimension created by allies can exist at the same time.",
+      "name": "画地为牢",
+      "desc": "使用秘技后，制造1片持续{4}秒的特殊领域。处于特殊领域内的敌人移动速度降低{5}。与处于特殊领域内的敌人进入战斗后，有{1}的<u>基础概率</u>使敌方目标陷入禁锢状态，持续1回合。\\n禁锢状态下，敌方目标<u>行动延后</u>{2}，速度降低{3}。我方制造的领域效果最多存在1个。",
       "values": [
         [
           100
@@ -685,8 +685,8 @@
   },
   "kafka": {
     "attack": {
-      "name": "Midnight Tumult",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Kafka's ATK to a single enemy.",
+      "name": "夜间喧嚣不止",
+      "desc": "对指定敌方单体造成等同于卡芙卡<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害。",
       "values": [
         [
           50,
@@ -705,8 +705,8 @@
       ]
     },
     "skill": {
-      "name": "Caressing Moonlight",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Kafka's ATK to a target enemy and Lightning DMG equal to <span style=\"color: #f29e38ff\">{3}</span> of Kafka's ATK to enemies adjacent to it.\\nIf the target enemy is currently receiving DoT, all DoTs currently placed on that enemy immediately produce DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of their original DMG.",
+      "name": "月光摩挲连绵",
+      "desc": "对指定敌方单体造成等同于卡芙卡<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害，同时对其相邻目标造成等同于卡芙卡<span style=\"color: #f29e38ff\">{3}</span>攻击力的雷属性伤害。\\n若指定敌方单体处于持续伤害状态，其当前承受的所有持续伤害立即产生相当于原伤害<span style=\"color: #f29e38ff\">{2}</span>的伤害。",
       "values": [
         [
           80,
@@ -767,8 +767,8 @@
       ]
     },
     "ultimate": {
-      "name": "Twilight Trill",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Kafka's ATK to all enemies, with a {2} <u>base chance</u> for enemies hit to become Shocked and immediately take DMG from their current Shock state, equal to <span style=\"color: #f29e38ff\">{5}</span> of its original DMG. Shock lasts for {3} turn(s).\\nWhile Shocked, enemies receive Lightning DoT equal to <span style=\"color: #f29e38ff\">{4}</span> of Kafka's ATK at the beginning of each turn.",
+      "name": "悲剧尽头的颤音",
+      "desc": "对敌方全体造成等同于卡芙卡<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害，有{2}的<u>基础概率</u>使受到攻击的敌方目标陷入触电状态，并使其当前承受的触电状态立即产生相当于原伤害<span style=\"color: #f29e38ff\">{5}</span>的伤害。触电状态持续{3}回合。\\n触电状态下，敌方目标每回合开始时受到等同于卡芙卡<span style=\"color: #f29e38ff\">{4}</span>攻击力的雷属性持续伤害。",
       "values": [
         [
           48,
@@ -837,8 +837,8 @@
       ]
     },
     "talent": {
-      "name": "Gentle but Cruel",
-      "desc": "After an ally of Kafka's uses Basic ATK on an enemy target, Kafka immediately launches 1 <u>follow-up attack</u> and deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of her ATK to that target, with a {2} base chance to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target for {3} turns. This effect can only be triggered 1 time per turn.",
+      "name": "温柔亦同残酷",
+      "desc": "当卡芙卡的队友对敌方目标施放普攻后，卡芙卡立即发动<u>追加攻击</u>，对该目标造成等同于卡芙卡<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害，并有{2}的基础概率使受到攻击的敌方目标陷入与终结技相同的触电状态，持续{3}回合，该效果每回合只能触发1次。",
       "values": [
         [
           42,
@@ -871,14 +871,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Mercy Is Not Forgiveness",
-      "desc": "Immediately attacks all enemies within a set range. After entering battle, deals Lightning DMG equal to {3} of Kafka's ATK to all enemies, with a {1} <u>base chance</u> to inflict Shock equivalent to that applied by her Ultimate on every enemy target for {2} turn(s).",
+      "name": "宽恕无关慈悲",
+      "desc": "立即攻击一定范围内的所有敌人，进入战斗后对敌方全体造成等同于卡芙卡{3}攻击力的雷属性伤害，同时有{1}的<u>基础概率</u>使敌方每个单体目标陷入与终结技相同的触电状态，持续{2}回合。",
       "values": [
         [
           100
@@ -899,8 +899,8 @@
   },
   "silver-wolf": {
     "attack": {
-      "name": "System Warning",
-      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Silver Wolf's ATK to a single enemy.",
+      "name": "|系统警告|",
+      "desc": "对指定敌方单体造成等同于银狼<span style=\"color: #f29e38ff\">{1}</span>攻击力的量子属性伤害。",
       "values": [
         [
           50,
@@ -919,8 +919,8 @@
       ]
     },
     "skill": {
-      "name": "Allow Changes?",
-      "desc": "There is a <span style=\"color: #f29e38ff\">{2}</span> <u>base chance</u> to add 1 Weakness of an on-field character's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by {4} for {3} turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.\\nEach enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.\\nIn addition, there is a {5} <u>base chance</u> to further reduce the All-Type RES of the enemy by <span style=\"color: #f29e38ff\">{6}</span> for {7} turn(s).\\nDeals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Silver Wolf's ATK to this enemy.",
+      "name": "是否允许更改？",
+      "desc": "有<span style=\"color: #f29e38ff\">{2}</span>的<u>基础概率</u>为指定敌方单体目标添加1个场上我方目标持有属性的弱点，且该弱点对应属性的抗性降低{4}，持续{3}回合。若添加的是敌方目标原有属性的弱点，则不会触发对应属性的抗性降低效果。\\n单个敌方目标仅能被银狼添加1个弱点，当银狼对其再次添加弱点时，仅保留最新添加的弱点。\\n有{5}的<u>基础概率</u>额外使该目标的全属性抗性降低<span style=\"color: #f29e38ff\">{6}</span>，持续{7}回合。\\n对该目标造成等同于银狼<span style=\"color: #f29e38ff\">{1}</span>攻击力的量子属性伤害。",
       "values": [
         [
           98,
@@ -997,8 +997,8 @@
       ]
     },
     "ultimate": {
-      "name": "User Banned",
-      "desc": "There's a <span style=\"color: #f29e38ff\">{2}</span> <u>base chance</u> to decrease the target enemy's DEF by <span style=\"color: #f29e38ff\">{3}</span> for {4} turn(s). And at the same time, deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Silver Wolf's ATK to the target enemy.",
+      "name": "|账号已封禁|",
+      "desc": "有<span style=\"color: #f29e38ff\">{2}</span>的<u>基础概率</u>使指定敌方单体防御力降低<span style=\"color: #f29e38ff\">{3}</span>，持续{4}回合，同时对该目标造成等同于银狼<span style=\"color: #f29e38ff\">{1}</span>攻击力的量子属性伤害。",
       "values": [
         [
           228,
@@ -1063,8 +1063,8 @@
       ]
     },
     "talent": {
-      "name": "Awaiting System Response...",
-      "desc": "Silver Wolf can create three types of Bugs: reduce ATK by <span style=\"color: #f29e38ff\">{1}</span>, reduce DEF by <span style=\"color: #f29e38ff\">{2}</span>, and reduce SPD by <span style=\"color: #f29e38ff\">{3}</span>.\\nEvery time Silver Wolf attacks, she has a <span style=\"color: #f29e38ff\">{4}</span> <u>base chance</u> to implant a random Bug that lasts for {5} turn(s) in an enemy target.",
+      "name": "等待程序响应…",
+      "desc": "银狼能够制造：攻击力降低<span style=\"color: #f29e38ff\">{1}</span>、防御力降低<span style=\"color: #f29e38ff\">{2}</span>、速度降低<span style=\"color: #f29e38ff\">{3}</span>3种【缺陷】。\\n银狼每次施放攻击后有<span style=\"color: #f29e38ff\">{4}</span>的<u>基础概率</u>给受到攻击的敌方目标植入1个随机【缺陷】，持续{5}回合。",
       "values": [
         [
           5,
@@ -1147,14 +1147,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Force Quit Program",
-      "desc": "Immediately attacks the enemy. After entering battle, deals Quantum DMG equal to {1} of Silver Wolf's ATK to all enemies, and ignores Weakness Types and reduces Toughness from all enemies. Enemies with their Weakness Broken in this way will trigger the Quantum Weakness Break effect.",
+      "name": "|强制结束进程|",
+      "desc": "立即攻击敌人，进入战斗后对敌方全体造成等同于银狼{1}攻击力的量子属性伤害，并无视弱点属性削减敌方全体的韧性，击破弱点时，触发量子属性的弱点击破效果。",
       "values": [
         [
           80
@@ -1167,8 +1167,8 @@
   },
   "arlan": {
     "attack": {
-      "name": "Lightning Rush",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Arlan's ATK to a single enemy.",
+      "name": "如雷疾行",
+      "desc": "对指定敌方单体造成等同于阿兰<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害。",
       "values": [
         [
           50,
@@ -1187,8 +1187,8 @@
       ]
     },
     "skill": {
-      "name": "Shackle Breaker",
-      "desc": "Consumes Arlan's HP equal to {1} of his Max HP to deal Lightning DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Arlan's ATK to a single enemy. If Arlan does not have sufficient HP, his HP will be reduced to 1 after using his Skill.",
+      "name": "禁锢解除",
+      "desc": "消耗等同于阿兰生命上限{1}的生命值对指定敌方单体造成等同于阿兰<span style=\"color: #f29e38ff\">{2}</span>攻击力的雷属性伤害。若当前生命值不足，施放战技时阿兰的当前生命值降至1点。",
       "values": [
         [
           15
@@ -1217,8 +1217,8 @@
       ]
     },
     "ultimate": {
-      "name": "Frenzied Punishment",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Arlan's ATK to a single enemy and Lightning DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Arlan's ATK to enemies adjacent to it.",
+      "name": "狂者制裁",
+      "desc": "对指定敌方单体造成等同于阿兰<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害，同时对其相邻目标造成等同于阿兰<span style=\"color: #f29e38ff\">{2}</span>攻击力的雷属性伤害。",
       "values": [
         [
           192,
@@ -1261,8 +1261,8 @@
       ]
     },
     "talent": {
-      "name": "Pain and Anger",
-      "desc": "Increases Arlan's DMG for every percent of HP below his Max HP, up to a max of <span style=\"color: #f29e38ff\">{1}</span> more DMG.",
+      "name": "至痛至怒",
+      "desc": "根据阿兰当前损失的生命值百分比获得伤害加成，最多使阿兰造成的伤害提高<span style=\"color: #f29e38ff\">{1}</span>。",
       "values": [
         [
           36,
@@ -1287,14 +1287,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Swift Harvest",
-      "desc": "Immediately attacks the enemy. After entering battle, deals Lightning DMG equal to {1} of Arlan's ATK to all enemies.",
+      "name": "极速收割",
+      "desc": "立即攻击敌人，进入战斗后对敌方全体造成等同于阿兰{1}攻击力的雷属性伤害。",
       "values": [
         [
           80
@@ -1307,8 +1307,8 @@
   },
   "asta": {
     "attack": {
-      "name": "Spectrum Beam",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Asta's ATK to a single enemy.",
+      "name": "光谱射线",
+      "desc": "对指定敌方单体造成等同于艾丝妲<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害。",
       "values": [
         [
           50,
@@ -1327,8 +1327,8 @@
       ]
     },
     "skill": {
-      "name": "Meteor Storm",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Asta's ATK to a single enemy and further deals DMG for 4 extra times, with each time dealing Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Asta's ATK to a random enemy.",
+      "name": "流星群落",
+      "desc": "对指定敌方单体造成等同于艾丝妲<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害，并额外造成4次伤害。每次伤害对随机敌方单体造成等同于艾丝妲<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害。",
       "values": [
         [
           25,
@@ -1353,8 +1353,8 @@
       ]
     },
     "ultimate": {
-      "name": "Astral Blessing",
-      "desc": "Increases SPD of all allies by <span style=\"color: #f29e38ff\">{1}</span> for {2} turn(s).",
+      "name": "星空祝言",
+      "desc": "使我方全体速度提高<span style=\"color: #f29e38ff\">{1}</span>点，持续{2}回合。",
       "values": [
         [
           36,
@@ -1383,8 +1383,8 @@
       ]
     },
     "talent": {
-      "name": "Astrometry",
-      "desc": "Gains 1 stack of Charging for every different enemy hit by Asta plus an extra stack if the enemy hit has Fire Weakness.\\nFor every stack of Charging Asta has, all allies' ATK increases by <span style=\"color: #f29e38ff\">{1}</span>, up to {2} time(s).\\nStarting from her second turn, Asta's Charging stack count is reduced by {3} at the beginning of every turn.",
+      "name": "天象学",
+      "desc": "每击中1名不同的敌方目标获得1层蓄能，若受到攻击的敌方目标弱点为火属性，则额外获得1层蓄能。\\n艾丝妲每拥有1层蓄能，会使我方全体攻击力提高<span style=\"color: #f29e38ff\">{1}</span>，该效果最多叠加{2}层。\\n从自身的第2回合开始，艾丝妲每回合开始时蓄能层数减少{3}层。",
       "values": [
         [
           7,
@@ -1417,14 +1417,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Miracle Flash",
-      "desc": "Immediately attacks the enemy. After entering battle, deals Fire DMG equal to {1} of Asta's ATK to all enemies.",
+      "name": "灵光一现",
+      "desc": "立即攻击敌人，进入战斗后对敌方全体目标造成等同于艾丝妲{1}攻击力的火属性伤害。",
       "values": [
         [
           50
@@ -1437,8 +1437,8 @@
   },
   "herta": {
     "attack": {
-      "name": "What Are You Looking At?",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Herta's ATK to a single enemy.",
+      "name": "看什么看",
+      "desc": "对指定敌方单体造成等同于黑塔<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害。",
       "values": [
         [
           50,
@@ -1457,8 +1457,8 @@
       ]
     },
     "skill": {
-      "name": "One-Time Offer",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Herta's ATK to all enemies. If the enemy's HP percentage is {2} or higher, DMG dealt to this target increases by {3}.",
+      "name": "一锤子买卖",
+      "desc": "对敌方全体造成等同于黑塔<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害。若敌方目标当前生命值百分比大于等于{2}，则对该目标造成的伤害提高{3}。",
       "values": [
         [
           50,
@@ -1491,8 +1491,8 @@
       ]
     },
     "ultimate": {
-      "name": "It's Magic, I Added Some Magic",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Herta's ATK to all enemies.",
+      "name": "是魔法，我加了魔法",
+      "desc": "对敌方全体造成等同于黑塔<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害。",
       "values": [
         [
           120,
@@ -1517,8 +1517,8 @@
       ]
     },
     "talent": {
-      "name": "Fine, I'll Do It Myself",
-      "desc": "When an ally's attack causes an enemy's HP percentage to fall to {1} or lower, Herta will launch a <u>follow-up attack</u>, dealing Ice DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Herta's ATK to all enemies.",
+      "name": "还是我来吧",
+      "desc": "当任意我方目标的攻击使敌方目标的当前生命值百分比小于等于{1}时，黑塔发动<u>追加攻击</u>，对敌方全体造成等同于黑塔<span style=\"color: #f29e38ff\">{2}</span>攻击力的冰属性伤害。",
       "values": [
         [
           50
@@ -1547,14 +1547,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "It Can Still Be Optimized",
-      "desc": "After using her Technique, Herta's ATK increases by {1} for {2} turn(s) at the beginning of the next battle.",
+      "name": "可以优化一下",
+      "desc": "使用秘技后，下一次战斗开始时黑塔攻击力提高{1}，持续{2}回合。",
       "values": [
         [
           40
@@ -1571,8 +1571,8 @@
   },
   "bronya": {
     "attack": {
-      "name": "Windrider Bullet",
-      "desc": "Deals Wind DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Bronya's ATK to a single enemy.",
+      "name": "驭风的子弹",
+      "desc": "对指定敌方单体造成等同于布洛妮娅<span style=\"color: #f29e38ff\">{1}</span>攻击力的风属性伤害。",
       "values": [
         [
           50,
@@ -1591,8 +1591,8 @@
       ]
     },
     "skill": {
-      "name": "Combat Redeployment",
-      "desc": "Dispels a <u>debuff</u> from a single ally, allows them to immediately take action, and increases their DMG by <span style=\"color: #f29e38ff\">{1}</span> for {3} turn(s).\\nWhen this Skill is used on Bronya herself, she cannot immediately take action again.",
+      "name": "作战再部署",
+      "desc": "解除指定我方单体的1个<u>负面效果</u>，并使该目标立即行动，造成的伤害提高<span style=\"color: #f29e38ff\">{1}</span>，持续{3}回合。\\n当对自身施放该技能时，无法触发立即行动效果。",
       "values": [
         [
           33,
@@ -1629,8 +1629,8 @@
       ]
     },
     "ultimate": {
-      "name": "The Belobog March",
-      "desc": "Increases the ATK of all allies by <span style=\"color: #f29e38ff\">{1}</span>, and increases their CRIT DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Bronya's CRIT DMG plus <span style=\"color: #f29e38ff\">{3}</span> for {4} turn(s).",
+      "name": "贝洛伯格进行曲",
+      "desc": "使我方全体攻击力提高<span style=\"color: #f29e38ff\">{1}</span>，同时提高等同于布洛妮娅<span style=\"color: #f29e38ff\">{2}</span>暴击伤害+<span style=\"color: #f29e38ff\">{3}</span>的暴击伤害，持续{4}回合。",
       "values": [
         [
           33,
@@ -1695,8 +1695,8 @@
       ]
     },
     "talent": {
-      "name": "Leading the Way",
-      "desc": "After using her Basic ATK, Bronya's next action will be <u>Advanced Forward</u> by <span style=\"color: #f29e38ff\">{1}</span>.",
+      "name": "先人一步",
+      "desc": "施放普攻后，布洛妮娅的下一次<u>行动提前</u><span style=\"color: #f29e38ff\">{1}</span>。",
       "values": [
         [
           15,
@@ -1721,14 +1721,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Banner of Command",
-      "desc": "After using Bronya's Technique, at the start of the next battle, all allies' ATK increases by {1} for {2} turn(s).",
+      "name": "在旗帜下",
+      "desc": "使用秘技后，下一次战斗开始时使我方全体攻击力提高{1}，持续{2}回合。",
       "values": [
         [
           15
@@ -1745,8 +1745,8 @@
   },
   "seele": {
     "attack": {
-      "name": "Thwack",
-      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Seele's ATK to a single enemy.",
+      "name": "强袭",
+      "desc": "对指定敌方单体造成等同于希儿<span style=\"color: #f29e38ff\">{1}</span>攻击力的量子属性伤害。",
       "values": [
         [
           50,
@@ -1765,8 +1765,8 @@
       ]
     },
     "skill": {
-      "name": "Sheathed Blade",
-      "desc": "Increases Seele's SPD by {2} for {3} turn(s) and deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Seele's ATK to a single enemy.",
+      "name": "归刃",
+      "desc": "使希儿的速度提高{2}，并对指定敌方单体造成等同于希儿<span style=\"color: #f29e38ff\">{1}</span>攻击力的量子属性伤害，速度提高效果持续{3}回合。",
       "values": [
         [
           110,
@@ -1799,8 +1799,8 @@
       ]
     },
     "ultimate": {
-      "name": "Butterfly Flurry",
-      "desc": "Seele enters the buffed state and deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of her ATK to a single enemy.",
+      "name": "乱蝶",
+      "desc": "立即进入增幅状态，并对指定敌方单体造成等同于希儿<span style=\"color: #f29e38ff\">{1}</span>攻击力的量子属性伤害。",
       "values": [
         [
           255,
@@ -1825,8 +1825,8 @@
       ]
     },
     "talent": {
-      "name": "Resurgence",
-      "desc": "Enters the buffed state upon defeating an enemy with Basic ATK, Skill, or Ultimate, and receives an <u>extra turn</u>. While in the buffed state, the DMG of Seele's attacks increases by <span style=\"color: #f29e38ff\">{1}</span> for {2} turn(s).\\nEnemies defeated in the <u>extra turn</u> provided by \"Resurgence\" will not trigger another \"Resurgence.\"",
+      "name": "再现",
+      "desc": "施放普攻、战技、终结技消灭敌方目标时立即获得1个<u>额外回合</u>并进入增幅状态，增幅状态下希儿施放攻击造成的伤害提高<span style=\"color: #f29e38ff\">{1}</span>，持续{2}回合。\\n若希儿在因天赋【再现】获得的<u>额外回合</u>中消灭敌方目标，此天赋不会生效。",
       "values": [
         [
           40,
@@ -1855,14 +1855,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Phantom Illusion",
-      "desc": "After using her Technique, Seele gains Stealth for {1} second(s). While Stealth is active, Seele cannot be detected by enemies. And when entering battle by attacking enemies, Seele will immediately enter the buffed state.",
+      "name": "幻身",
+      "desc": "使用秘技后进入持续{1}秒的隐身状态。隐身状态下不会被敌人发现，且主动攻击敌人进入战斗时，希儿立即进入增幅状态。",
       "values": [
         [
           20
@@ -1875,8 +1875,8 @@
   },
   "serval": {
     "attack": {
-      "name": "Roaring Thunderclap",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Serval's ATK to a single enemy.",
+      "name": "雷鸣音阶",
+      "desc": "对指定敌方单体造成等同于希露瓦<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害。",
       "values": [
         [
           50,
@@ -1895,8 +1895,8 @@
       ]
     },
     "skill": {
-      "name": "Lightning Flash",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Serval's ATK to a single enemy and Lightning DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Serval's ATK to enemies adjacent to it, with a {3} <u>base chance</u> for enemies hit to become Shocked for {4} turn(s).\\nWhile Shocked, enemies take Lightning DoT equal to <span style=\"color: #f29e38ff\">{5}</span> of Serval's ATK at the beginning of each turn.",
+      "name": "电光石火间",
+      "desc": "对指定敌方单体造成等同于希露瓦<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害，同时对其相邻目标造成等同于希露瓦<span style=\"color: #f29e38ff\">{2}</span>攻击力的雷属性伤害，此外有{3}的<u>基础概率</u>使受到攻击的敌方目标陷入触电状态，持续{4}回合。\\n触电状态下，敌方目标每回合开始时受到等同于希露瓦<span style=\"color: #f29e38ff\">{5}</span>攻击力的雷属性持续伤害。",
       "values": [
         [
           70,
@@ -1965,8 +1965,8 @@
       ]
     },
     "ultimate": {
-      "name": "Here Comes the Mechanical Fever",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Serval's ATK to all enemies. Enemies already Shocked will extend the duration of their Shock state by {2} turn(s).",
+      "name": "机械热潮登场！",
+      "desc": "对敌方全体造成等同于希露瓦<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害，并使触电状态下的敌方目标延长{2}回合的触电状态。",
       "values": [
         [
           108,
@@ -1995,8 +1995,8 @@
       ]
     },
     "talent": {
-      "name": "Galvanic Chords",
-      "desc": "After Serval attacks, deals <u>Additional</u> Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Serval's ATK to all Shocked enemies.",
+      "name": "燃情和弦",
+      "desc": "施放攻击后，对所有触电状态下的敌方目标造成等同于希露瓦<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性<u>附加伤害</u>。",
       "values": [
         [
           36,
@@ -2021,14 +2021,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Good Night, Belobog",
-      "desc": "Immediately attacks the enemy. After entering battle, deals Lightning DMG equal to {4} of Serval's ATK to a random enemy, with a {1} <u>base chance</u> for all enemies to become Shocked for {3} turn(s).\\nWhile Shocked, enemies will take Lightning DoT equal to {2} of Serval's ATK at the beginning of each turn.",
+      "name": "晚安，贝洛伯格",
+      "desc": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于希露瓦{4}攻击力的雷属性伤害，同时有{1}的<u>基础概率</u>使敌方每个单体目标陷入触电状态，持续{3}回合。\\n触电状态下，敌方目标每回合开始时受到等同于希露瓦{2}攻击力的雷属性持续伤害。",
       "values": [
         [
           100
@@ -2053,8 +2053,8 @@
   },
   "gepard": {
     "attack": {
-      "name": "Fist of Conviction",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Gepard's ATK to a single enemy.",
+      "name": "一意之拳",
+      "desc": "对指定敌方单体造成等同于杰帕德<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害。",
       "values": [
         [
           50,
@@ -2073,8 +2073,8 @@
       ]
     },
     "skill": {
-      "name": "Daunting Smite",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Gepard's ATK to a single enemy, with a {2} <u>base chance</u> to Freeze the enemy for {3} turn(s).\\nWhile Frozen, the enemy cannot take action and will take <u>Additional</u> Ice DMG equal to <span style=\"color: #f29e38ff\">{4}</span> of Gepard's ATK at the beginning of each turn.",
+      "name": "震慑之击",
+      "desc": "对指定敌方单体造成等同于杰帕德<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害，同时有{2}的<u>基础概率</u>使受到攻击的敌方目标陷入冻结状态，持续{3}回合。\\n冻结状态下，敌方目标不能行动同时每回合开始时受到等同于杰帕德<span style=\"color: #f29e38ff\">{4}</span>攻击力的冰属性<u>附加伤害</u>。",
       "values": [
         [
           100,
@@ -2125,8 +2125,8 @@
       ]
     },
     "ultimate": {
-      "name": "Enduring Bulwark",
-      "desc": "Applies a Shield to all allies, absorbing DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Gepard's DEF plus <span style=\"color: #f29e38ff\">{3}</span> for {2} turn(s).",
+      "name": "永屹之壁",
+      "desc": "为我方全体提供能够抵消等同于杰帕德<span style=\"color: #f29e38ff\">{1}</span>防御力+<span style=\"color: #f29e38ff\">{3}</span>伤害的护盾，持续{2}回合。",
       "values": [
         [
           30,
@@ -2173,8 +2173,8 @@
       ]
     },
     "talent": {
-      "name": "Unyielding Will",
-      "desc": "When struck with a killing blow, instead of becoming <u>knocked down</u>, Gepard's HP immediately restores to <span style=\"color: #f29e38ff\">{1}</span> of his Max HP. This effect can only trigger once per battle.",
+      "name": "不屈之身",
+      "desc": "受到致命攻击时杰帕德不会陷入<u>无法战斗状态</u>，并立即回复等同于自身生命上限<span style=\"color: #f29e38ff\">{1}</span>的生命值。该效果单场战斗中只能触发1次。",
       "values": [
         [
           25,
@@ -2199,14 +2199,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Comradery",
-      "desc": "After Gepard uses his Technique, when the next battle begins, a Shield will be applied to all allies, absorbing DMG equal to {1} of Gepard's DEF plus {3} for {2} turn(s).",
+      "name": "有情之证",
+      "desc": "使用秘技后，下一次战斗开始时为我方全体提供能够抵消等同于杰帕德{1}防御力+{3}伤害的护盾，持续{2}回合。",
       "values": [
         [
           24
@@ -2227,8 +2227,8 @@
   },
   "natasha": {
     "attack": {
-      "name": "Behind the Kindness",
-      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Natasha's ATK to a single enemy.",
+      "name": "仁慈的背面",
+      "desc": "对指定敌方单体造成等同于娜塔莎<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害。",
       "values": [
         [
           50,
@@ -2247,8 +2247,8 @@
       ]
     },
     "skill": {
-      "name": "Love, Heal, and Choose",
-      "desc": "Restores a single ally for <span style=\"color: #f29e38ff\">{1}</span> of Natasha's Max HP plus <span style=\"color: #f29e38ff\">{4}</span>. Restores the ally for another <span style=\"color: #f29e38ff\">{2}</span> of Natasha's Max HP plus <span style=\"color: #f29e38ff\">{5}</span> at the beginning of each turn for {3} turn(s).",
+      "name": "爱，救护与抉择",
+      "desc": "立即为指定我方单体回复等同于娜塔莎<span style=\"color: #f29e38ff\">{1}</span>生命上限+<span style=\"color: #f29e38ff\">{4}</span>的生命值，同时目标每回合开始时为其回复等同于娜塔莎<span style=\"color: #f29e38ff\">{2}</span>生命上限+<span style=\"color: #f29e38ff\">{5}</span>的生命值，持续{3}回合。",
       "values": [
         [
           7,
@@ -2331,8 +2331,8 @@
       ]
     },
     "ultimate": {
-      "name": "Gift of Rebirth",
-      "desc": "Heals all allies for <span style=\"color: #f29e38ff\">{1}</span> of Natasha's Max HP plus <span style=\"color: #f29e38ff\">{2}</span>.",
+      "name": "新生之礼",
+      "desc": "立即为我方全体回复等同于娜塔莎<span style=\"color: #f29e38ff\">{1}</span>生命上限+<span style=\"color: #f29e38ff\">{2}</span>的生命值。",
       "values": [
         [
           9.2,
@@ -2375,8 +2375,8 @@
       ]
     },
     "talent": {
-      "name": "Innervation",
-      "desc": "When healing allies with HP percentage at {1} or lower, increases Natasha's Outgoing Healing by <span style=\"color: #f29e38ff\">{2}</span>. This effect also works on continuous healing.",
+      "name": "生机焕发",
+      "desc": "为当前生命值百分比小于等于{1}的我方目标提供治疗时，娜塔莎的治疗量提高<span style=\"color: #f29e38ff\">{2}</span>，该效果对持续治疗效果也会生效。",
       "values": [
         [
           30
@@ -2405,14 +2405,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Hypnosis Research",
-      "desc": "Immediately attacks the enemy. After entering battle, deals Physical DMG equal to {4} of Natasha's ATK to a random enemy, with a {1} <u>base chance</u> to Weaken all enemies.\\nWhile Weakened, enemies deal {2} less DMG to allies for {3} turn(s).",
+      "name": "催眠研习",
+      "desc": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于娜塔莎{4}攻击力的物理属性伤害，并有{1}的<u>基础概率</u>使敌方每个单体目标陷入虚弱状态。\\n虚弱状态下的敌方目标对我方造成的伤害降低{2}，持续{3}回合。",
       "values": [
         [
           100
@@ -2437,8 +2437,8 @@
   },
   "pela": {
     "attack": {
-      "name": "Frost Shot",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Pela's ATK to a single target enemy.",
+      "name": "冰点射击",
+      "desc": "对指定敌方单体造成等同于佩拉<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害。",
       "values": [
         [
           50,
@@ -2457,8 +2457,8 @@
       ]
     },
     "skill": {
-      "name": "Frostbite",
-      "desc": "Removes {2} <u>buff(s)</u> and deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Pela's ATK to a single target enemy.",
+      "name": "低温妨害",
+      "desc": "解除指定敌方单体的{2}个<u>增益效果</u>，同时造成等同于佩拉<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害。",
       "values": [
         [
           105,
@@ -2487,8 +2487,8 @@
       ]
     },
     "ultimate": {
-      "name": "Zone Suppression",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{4}</span> of Pela's ATK to all enemies, with a {1} <u>base chance</u> to inflict Exposed on all enemies.\\nWhen Exposed, enemies' DEF is reduced by <span style=\"color: #f29e38ff\">{2}</span> for {3} turn(s).",
+      "name": "领域压制",
+      "desc": "有{1}的<u>基础概率</u>使敌方每个单体目标陷入【通解】状态，同时对敌方全体造成等同于佩拉<span style=\"color: #f29e38ff\">{4}</span>攻击力的冰属性伤害。\\n【通解】状态下，敌方目标防御力降低<span style=\"color: #f29e38ff\">{2}</span>，持续{3}回合。",
       "values": [
         [
           100
@@ -2539,8 +2539,8 @@
       ]
     },
     "talent": {
-      "name": "Data Collecting",
-      "desc": "If the enemy is <u>debuffed</u> after Pela's attack, Pela will restore <span style=\"color: #f29e38ff\">{1}</span> additional Energy. This effect can only be triggered 1 time per attack.",
+      "name": "数据采集",
+      "desc": "施放攻击后若敌方目标处于<u>负面效果</u>状态，则佩拉额外恢复<span style=\"color: #f29e38ff\">{1}</span>点能量。该效果每次攻击只能触发1次。",
       "values": [
         [
           5,
@@ -2565,14 +2565,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Preemptive Strike",
-      "desc": "Immediately attacks the enemy. Upon entering battle, Pela deals Ice DMG equal to {4} of her ATK to a random enemy, with a {1} <u>base chance</u> of lowering the DEF of all enemies by {2} for {3} turn(s).",
+      "name": "先发制人",
+      "desc": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于佩拉{4}攻击力的冰属性伤害，同时有{1}的<u>基础概率</u>使敌方每个单体目标防御力降低{2}，持续{3}回合。",
       "values": [
         [
           100
@@ -2597,8 +2597,8 @@
   },
   "clara": {
     "attack": {
-      "name": "I Want to Help",
-      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Clara's ATK to a single enemy.",
+      "name": "我也想帮上忙",
+      "desc": "对指定敌方单体造成等同于克拉拉<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害。",
       "values": [
         [
           50,
@@ -2617,8 +2617,8 @@
       ]
     },
     "skill": {
-      "name": "Svarog Watches Over You",
-      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Clara's ATK to all enemies, and additionally deals Physical DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Clara's ATK to enemies marked by Svarog with a Mark of Counter.\\nAll Marks of Counter will be removed after this Skill is used.",
+      "name": "史瓦罗在看着你",
+      "desc": "对敌方全体造成等同于克拉拉<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害，并对所有被史瓦罗标上【反击标记】的敌方目标额外造成等同于克拉拉<span style=\"color: #f29e38ff\">{2}</span>攻击力物理属性伤害。\\n战技施放后所有【反击标记】失效。",
       "values": [
         [
           60,
@@ -2661,8 +2661,8 @@
       ]
     },
     "ultimate": {
-      "name": "Promise, Not Command",
-      "desc": "After Clara uses Ultimate, DMG dealt to her is reduced by an extra <span style=\"color: #f29e38ff\">{4}</span>, and she has greatly increased chances of being attacked by enemies for {3} turn(s).\\nIn addition, Svarog's <u>Counter</u> is enhanced. When an ally is attacked, Svarog immediately launches a <u>Counter</u>, and its DMG multiplier against the enemy increases by <span style=\"color: #f29e38ff\">{2}</span>. Enemies adjacent to it take 50% of the DMG dealt to the target enemy. Enhanced <u>Counter(s)</u> can take effect {5} time(s).",
+      "name": "是约定不是命令",
+      "desc": "施放终结技后克拉拉受到的伤害额外降低<span style=\"color: #f29e38ff\">{4}</span>且被敌方目标攻击的概率大幅提高，持续{3}回合。\\n同时史瓦罗的<u>反击</u>得到强化，当任意我方目标受到攻击后史瓦罗立即施放<u>反击</u>，对敌方目标造成的伤害倍率提高<span style=\"color: #f29e38ff\">{2}</span>，并对其相邻目标造成相当于主目标50%的伤害。强化效果可生效{5}次。",
       "values": [
         [
           5
@@ -2717,8 +2717,8 @@
       ]
     },
     "talent": {
-      "name": "Because We're Family",
-      "desc": "Under the protection of Svarog, DMG taken by Clara when hit by enemy attacks is reduced by {3}. Svarog will mark enemies who attack Clara with his Mark of Counter and retaliate with a <u>Counter</u>, dealing Physical DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Clara's ATK.",
+      "name": "因为我们是家人",
+      "desc": "克拉拉在史瓦罗的保护下受到敌方目标攻击的伤害降低{3}。攻击克拉拉的敌方目标会被史瓦罗标上【反击标记】，并遭到史瓦罗的<u>反击</u>，对其造成等同于克拉拉<span style=\"color: #f29e38ff\">{2}</span>攻击力的物理属性伤害。",
       "values": [
         [
           1
@@ -2751,14 +2751,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "A Small Price for Victory",
-      "desc": "Immediately attacks the enemy. Upon entering battle, the chance Clara will be attacked by enemies increases for {1} turn(s).",
+      "name": "胜利的小小代价",
+      "desc": "立即攻击敌人，进入战斗后克拉拉受到敌方攻击的概率提高，持续{1}回合。",
       "values": [
         [
           2
@@ -2775,8 +2775,8 @@
   },
   "sampo": {
     "attack": {
-      "name": "Dazzling Blades",
-      "desc": "Deals Wind DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Sampo's ATK to a single enemy.",
+      "name": "酷炫的刀花",
+      "desc": "对指定敌方单体造成等同于桑博<span style=\"color: #f29e38ff\">{1}</span>攻击力的风属性伤害。",
       "values": [
         [
           50,
@@ -2795,8 +2795,8 @@
       ]
     },
     "skill": {
-      "name": "Ricochet Love",
-      "desc": "Deals Wind DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Sampo's ATK to a single enemy, and further deals DMG for {1} extra time(s), with each time dealing Wind DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Sampo's ATK to a random enemy.",
+      "name": "反复横跳的爱",
+      "desc": "对指定敌方单体造成等同于桑博<span style=\"color: #f29e38ff\">{2}</span>攻击力的风属性伤害，并额外造成{1}次伤害，每次伤害对敌方随机单体造成等同于桑博<span style=\"color: #f29e38ff\">{2}</span>攻击力的风属性伤害。",
       "values": [
         [
           4
@@ -2825,8 +2825,8 @@
       ]
     },
     "ultimate": {
-      "name": "Surprise Present",
-      "desc": "Deals Wind DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Sampo's ATK to all enemies, with a {4} <u>base chance</u> to increase the targets' DoT taken by <span style=\"color: #f29e38ff\">{2}</span> for {3} turn(s).",
+      "name": "惊喜礼盒",
+      "desc": "对敌方全体造成等同于桑博<span style=\"color: #f29e38ff\">{1}</span>攻击力的风属性伤害，同时有{4}的<u>基础概率</u>使被攻击的敌方目标受到的持续伤害提高<span style=\"color: #f29e38ff\">{2}</span>，持续{3}回合。",
       "values": [
         [
           96,
@@ -2877,8 +2877,8 @@
       ]
     },
     "talent": {
-      "name": "Windtorn Dagger",
-      "desc": "Sampo's attacks have a {1} <u>base chance</u> to inflict Wind Shear for {3} turn(s).\\nEnemies inflicted with Wind Shear will take Wind DoT equal to <span style=\"color: #f29e38ff\">{2}</span> of Sampo's ATK at the beginning of each turn. Wind Shear can stack up to {4} time(s).",
+      "name": "撕风的匕首",
+      "desc": "桑博击中敌方目标后有{1}的<u>基础概率</u>使目标陷入风化状态，持续{3}回合。\\n风化状态下，敌方目标每回合开始时受到等同于桑博<span style=\"color: #f29e38ff\">{2}</span>攻击力的风属性持续伤害。风化状态最多叠加{4}层。",
       "values": [
         [
           65
@@ -2915,14 +2915,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Shining Bright",
-      "desc": "After Sampo uses his Technique, enemies in a set area are inflicted with Blind for {1} second(s). Blinded enemies cannot detect your team.\\nWhen initiating combat against a Blinded enemy, there is a {2} <u>fixed chance</u> to delay all enemies' action by {3}.",
+      "name": "你最闪亮",
+      "desc": "使用秘技后使一定区域内的敌人陷入{1}秒的目盲状态，目盲状态下的敌人无法发现我方目标。\\n若主动攻击陷入目盲状态的敌人，进入战斗时有{2}<u>固定概率</u>使敌方每个单体目标行动延后{3}。",
       "values": [
         [
           10
@@ -2943,8 +2943,8 @@
   },
   "hook": {
     "attack": {
-      "name": "Hehe! Don't Get Burned!",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Hook's ATK to a single enemy.",
+      "name": "喂！小心火烛",
+      "desc": "对指定敌方单体造成等同于虎克<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害。",
       "values": [
         [
           50,
@@ -2963,8 +2963,8 @@
       ]
     },
     "skill": {
-      "name": "Hey! Remember Hook?",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Hook's ATK to a single enemy. In addition, there is a {2} <u>base chance</u> to inflict Burn for {3} turn(s).\\nWhen afflicted with Burn, enemies will take Fire DoT equal to <span style=\"color: #f29e38ff\">{4}</span> of Hook's ATK at the beginning of each turn.",
+      "name": "嘿！记得虎克吗",
+      "desc": "对指定敌方单体造成等同于虎克<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害，同时有{2}的<u>基础概率</u>使其陷入灼烧状态，持续{3}回合。\\n灼烧状态下，敌方目标每回合开始时受到等同于虎克<span style=\"color: #f29e38ff\">{4}</span>攻击力的火属性持续伤害。",
       "values": [
         [
           120,
@@ -3015,8 +3015,8 @@
       ]
     },
     "ultimate": {
-      "name": "Boom! Here Comes the Fire!",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Hook's ATK to a single enemy.\\nAfter using Ultimate, the next Skill to be used is Enhanced, which deals DMG to a single enemy and enemies adjacent to it.",
+      "name": "轰！飞来焰火",
+      "desc": "对指定敌方单体造成等同于虎克<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害。\\n施放终结技后，下一次施放的战技得到强化，强化后的战技能够同时对指定敌方单体及其相邻目标造成伤害。",
       "values": [
         [
           240,
@@ -3041,8 +3041,8 @@
       ]
     },
     "talent": {
-      "name": "Ha! Oil to the Flames!",
-      "desc": "When attacking a target afflicted with Burn, deals <u>Additional</u> Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Hook's ATK and regenerates {2} extra Energy.",
+      "name": "哈！火上浇油",
+      "desc": "攻击处于灼烧状态的敌方目标时，追加1次等同于虎克<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性<u>附加伤害</u>，并额外恢复{2}点能量。",
       "values": [
         [
           50,
@@ -3071,14 +3071,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Ack! Look at This Mess!",
-      "desc": "Immediately attacks the enemy. Upon entering battle, Hook deals Fire DMG equal to {4} of her ATK to a random enemy. In addition, there is a {1} <u>base chance</u> to inflict Burn on every enemy for {3} turn(s).\\nWhen afflicted with Burn, enemies will take Fire DoT equal to {2} of Hook's ATK at the beginning of each turn.",
+      "name": "哎！瞧这一团糟",
+      "desc": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于虎克{4}攻击力的火属性伤害，同时有{1}的<u>基础概率</u>使敌方每个单体目标陷入灼烧状态，持续{3}回合。\\n灼烧状态下，敌方目标每回合开始时受到等同于虎克{2}攻击力的火属性持续伤害。",
       "values": [
         [
           100
@@ -3101,8 +3101,8 @@
       ]
     },
     "undefined": {
-      "name": "Hey! Remember Hook?",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Hook's ATK to a single enemy, with a {2} <u>base chance</u> to Burn them for {3} turn(s). Additionally, deals Fire DMG equal to <span style=\"color: #f29e38ff\">{5}</span> of Hook's ATK to enemies adjacent to it.\\nWhen afflicted with Burn, enemies will take Fire DoT equal to <span style=\"color: #f29e38ff\">{4}</span> of Hook's ATK at the beginning of each turn.",
+      "name": "嘿！记得虎克吗",
+      "desc": "对指定敌方单体造成等同于虎克<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害，同时有{2}的<u>基础概率</u>使其陷入灼烧状态，持续{3}回合。此外对其相邻目标造成等同于虎克<span style=\"color: #f29e38ff\">{5}</span>攻击力的火属性伤害。\\n灼烧状态下，敌方目标每回合开始时受到等同于虎克<span style=\"color: #f29e38ff\">{4}</span>攻击力的火属性持续伤害。",
       "values": [
         [
           140,
@@ -3173,8 +3173,8 @@
   },
   "luka": {
     "attack": {
-      "name": "Direct Punch",
-      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Luka's ATK to a single enemy.",
+      "name": "直冲拳",
+      "desc": "对指定敌方单体造成等同于卢卡<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害。",
       "values": [
         [
           50,
@@ -3193,8 +3193,8 @@
       ]
     },
     "skill": {
-      "name": "Lacerating Fist",
-      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Luka's ATK to a single enemy target. In addition, there is a {2} <u>base chance</u> to inflict Bleed on them, lasting for {5} turn(s).\\nWhile Bleeding, the enemy will take {3} of their Max HP as Physical DoT at the start of each turn. This DMG will not exceed more than <span style=\"color: #f29e38ff\">{4}</span> of Luka's ATK.",
+      "name": "裂伤拳",
+      "desc": "对指定敌方单体造成等同于卢卡<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害，随后有{2}的<u>基础概率</u>使目标陷入裂伤状态，持续{5}回合。\\n裂伤状态下，敌方目标每回合开始时受到等同于自身{3}生命上限的物理属性持续伤害，最多不超过卢卡攻击力的<span style=\"color: #f29e38ff\">{4}</span>。",
       "values": [
         [
           60,
@@ -3249,8 +3249,8 @@
       ]
     },
     "ultimate": {
-      "name": "Coup de Grâce",
-      "desc": "Receives {5} stack(s) of Fighting Will, with a {2} <u>base chance</u> to increase a single enemy target's DMG received by <span style=\"color: #f29e38ff\">{3}</span> for {4} turn(s). Then, deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Luka's ATK to the target.",
+      "name": "制胜一击",
+      "desc": "获得{5}层【斗志】，并有{2}的<u>基础概率</u>使指定敌方单体受到的伤害提高<span style=\"color: #f29e38ff\">{3}</span>，持续{4}回合，随后对该目标造成等同于卢卡<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害。",
       "values": [
         [
           198,
@@ -3305,8 +3305,8 @@
       ]
     },
     "talent": {
-      "name": "Flying Sparks",
-      "desc": "After Luka uses his Basic ATK \"Direct Punch\" or Skill \"Lacerating Fist,\" he receives {1} stack(s) of Fighting Will, up to 4 stacks. When he has 2 or more stacks of Fighting Will, his Basic ATK \"Direct Punch\" is enhanced to \"Sky-Shatter Fist.\" After his Enhanced Basic ATK's \"Rising Uppercut\" hits a Bleeding enemy target, the Bleed status will immediately deal DMG for 1 time equal to <span style=\"color: #f29e38ff\">{2}</span> of the original DMG to the target. At the start of battle, Luka will possess 1 stack of Fighting Will.",
+      "name": "火花四溅",
+      "desc": "卢卡在施放普攻【直冲拳】和战技【裂伤拳】后，获得{1}层【斗志】，最多可持有4层【斗志】。当持有的【斗志】大于等于2层时，普攻【直冲拳】强化为【直冲碎天拳】。当强化普攻的【碎天拳】击中陷入裂伤状态下的敌方目标后，则使其当前承受的裂伤状态立即产生1次相当于原伤害<span style=\"color: #f29e38ff\">{2}</span>的伤害。战斗开始时，卢卡持有1层【斗志】。",
       "values": [
         [
           1
@@ -3335,14 +3335,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Anticipator",
-      "desc": "Immediately attacks the enemy. Upon entering battle, Luka deals Physical DMG equal to {1} of his ATK to a random single enemy with a {2} <u>base chance</u> to inflict his Skill's Bleed effect on the target. Then, Luka gains 1 additional stack of Fighting Will.",
+      "name": "抢先者",
+      "desc": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于卢卡{1}攻击力的物理属性伤害，并有{2}的<u>基础概率</u>使目标陷入与战技相同的裂伤状态。随后卢卡额外获得1层【斗志】。",
       "values": [
         [
           50
@@ -3357,8 +3357,8 @@
       ]
     },
     "undefined": {
-      "name": "Sky-Shatter Fist",
-      "desc": "Consumes 2 stacks of Fighting Will. First, uses Direct Punch to deal 3 hits, with each hit dealing Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Luka's ATK to a single enemy target.\\nThen, uses Rising Uppercut to deal 1 hit, dealing Physical DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Luka's ATK to the single enemy target.",
+      "name": "直冲碎天拳",
+      "desc": "消耗2层【斗志】，先使用【直冲拳】施放3段攻击，每段攻击对指定敌方单体造成等同于卢卡<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害。\\n再使用【碎天拳】施放1段攻击，对指定敌方单体造成等同于卢卡<span style=\"color: #f29e38ff\">{2}</span>攻击力的物理属性伤害。",
       "values": [
         [
           10,
@@ -3391,8 +3391,8 @@
   },
   "qingque": {
     "attack": {
-      "name": "Flower Pick",
-      "desc": "Tosses 1 jade tile from the suit with the fewest tiles in hand to deal Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Qingque's ATK to a single enemy.",
+      "name": "门前清",
+      "desc": "使用1张当前花色最少的琼玉牌，对指定敌方单体造成等同于青雀<span style=\"color: #f29e38ff\">{1}</span>攻击力的量子属性伤害。",
       "values": [
         [
           50,
@@ -3411,8 +3411,8 @@
       ]
     },
     "skill": {
-      "name": "A Scoop of Moon",
-      "desc": "Immediately draws {1} jade tile(s) and increases DMG by <span style=\"color: #f29e38ff\">{2}</span> until the end of the current turn. This effect can stack up to {3} time(s). The turn will not end after this Skill is used.",
+      "name": "海底捞月",
+      "desc": "立即抽取{1}张琼玉牌，使自身造成的伤害提高<span style=\"color: #f29e38ff\">{2}</span>，持续至本回合结束。该效果可以叠加{3}层。施放该战技后，本回合不会结束。",
       "values": [
         [
           2
@@ -3445,8 +3445,8 @@
       ]
     },
     "ultimate": {
-      "name": "A Quartet? Woo-hoo!",
-      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Qingque's ATK to all enemies, and obtains 4 jade tiles of the same suit.",
+      "name": "四幺暗刻？和！",
+      "desc": "对敌方全体造成等同于青雀<span style=\"color: #f29e38ff\">{1}</span>攻击力的量子属性伤害，并获得4张相同花色的琼玉牌。",
       "values": [
         [
           120,
@@ -3471,8 +3471,8 @@
       ]
     },
     "talent": {
-      "name": "Celestial Jade",
-      "desc": "When an ally's turn starts, Qingque randomly draws 1 tile from 3 different suits and can hold up to 4 tiles at one time.\\nIf Qingque starts her turn with 4 tiles of the same suit, she consumes all tiles to enter the \"Hidden Hand\" state.\\nWhile in this state, Qingque cannot use her Skill again. At the same time, Qingque's ATK increases by <span style=\"color: #f29e38ff\">{1}</span>, and her Basic ATK \"Flower Pick\" is enhanced, becoming \"Cherry on Top!\" The \"Hidden Hand\" state ends after using \"Cherry on Top!\".",
+      "name": "帝垣琼玉",
+      "desc": "我方目标回合开始时，青雀会从3种不同花色的琼玉牌中随机抽取1张，最多持有4张琼玉牌。\\n青雀回合开始时，若持有的琼玉牌数为4且花色相同，青雀消耗所有琼玉牌进入【暗杠】状态。\\n处于【暗杠】状态时无法再次施放战技，同时使自身攻击力提高<span style=\"color: #f29e38ff\">{1}</span>，普攻【门前清】强化为【杠上开花！】，【暗杠】状态会在施放【杠上开花！】后结束。",
       "values": [
         [
           36,
@@ -3497,14 +3497,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Game Solitaire",
-      "desc": "After using Technique, Qingque draws {1} jade tile(s) when the battle starts.",
+      "name": "独弈之乐",
+      "desc": "使用秘技后，进入战斗时青雀会抽取{1}张琼玉牌。",
       "values": [
         [
           2
@@ -3515,8 +3515,8 @@
       ]
     },
     "undefined": {
-      "name": "Cherry on Top!",
-      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Qingque's ATK to a single enemy, and deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Qingque's ATK to enemies adjacent to it.\\n\"Cherry on Top!\" cannot recover Skill Points.",
+      "name": "杠上开花！",
+      "desc": "对指定敌方单体造成等同于青雀<span style=\"color: #f29e38ff\">{1}</span>攻击力的量子属性伤害，并对其相邻目标造成等同于青雀<span style=\"color: #f29e38ff\">{2}</span>攻击力的量子属性伤害。\\n【杠上开花！】无法恢复战技点。",
       "values": [
         [
           120,
@@ -3549,8 +3549,8 @@
   },
   "tingyun": {
     "attack": {
-      "name": "Dislodged",
-      "desc": "Tingyun deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of her ATK to a single enemy.",
+      "name": "逐客令",
+      "desc": "对指定敌方单体造成等同于停云<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害。",
       "values": [
         [
           50,
@@ -3569,8 +3569,8 @@
       ]
     },
     "skill": {
-      "name": "Soothing Melody",
-      "desc": "Grants a single ally with Benediction to increase their ATK by <span style=\"color: #f29e38ff\">{2}</span>, up to <span style=\"color: #f29e38ff\">{4}</span> of Tingyun's current ATK.\\nWhen the ally with Benediction attacks, they will deal <u>Additional</u> Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of that ally's ATK for 1 time.\\nBenediction lasts for {3} turn(s) and is only effective on the most recent receiver of Tingyun's Skill.",
+      "name": "祥音和韵",
+      "desc": "为指定我方单体提供【赐福】，使其攻击力提高<span style=\"color: #f29e38ff\">{2}</span>，最高不超过停云当前攻击力的<span style=\"color: #f29e38ff\">{4}</span>。\\n获得【赐福】的目标施放攻击后，会额外造成1次等同于其自身<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性<u>附加伤害</u>。\\n【赐福】持续{3}回合且仅对停云战技最新的施放目标生效。",
       "values": [
         [
           20,
@@ -3635,8 +3635,8 @@
       ]
     },
     "ultimate": {
-      "name": "Amidst the Rejoicing Clouds",
-      "desc": "Regenerates {1} Energy for a single ally and increases the target's DMG by <span style=\"color: #f29e38ff\">{3}</span> for {2} turn(s).",
+      "name": "庆云光覆仪祷",
+      "desc": "为指定我方单体恢复{1}点能量，同时使目标造成的伤害提高<span style=\"color: #f29e38ff\">{3}</span>，持续{2}回合。",
       "values": [
         [
           50
@@ -3669,8 +3669,8 @@
       ]
     },
     "talent": {
-      "name": "Violet Sparknado",
-      "desc": "When an enemy is attacked by Tingyun, the ally with Benediction immediately deals <u>Additional</u> Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of that ally's ATK to the same enemy.",
+      "name": "紫电扶摇",
+      "desc": "敌方目标受到停云攻击后，获得【赐福】的目标立即对其造成等同于自身<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性<u>附加伤害</u>。",
       "values": [
         [
           30,
@@ -3695,14 +3695,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Gentle Breeze",
-      "desc": "Tingyun immediately regenerates {1} Energy upon using her Technique.",
+      "name": "惠风和畅",
+      "desc": "使用秘技后立即为自身恢复{1}点能量。",
       "values": [
         [
           50
@@ -3715,8 +3715,8 @@
   },
   "luocha": {
     "attack": {
-      "name": "Thorns of the Abyss",
-      "desc": "Deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Luocha's ATK to a single enemy.",
+      "name": "黑渊的棘刺",
+      "desc": "对指定敌方单体造成等同于罗刹<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害。",
       "values": [
         [
           50,
@@ -3735,8 +3735,8 @@
       ]
     },
     "skill": {
-      "name": "Prayer of Abyss Flower",
-      "desc": "After using his Skill, Luocha immediately restores the target ally's HP equal to <span style=\"color: #f29e38ff\">{1}</span> of Luocha's ATK plus <span style=\"color: #f29e38ff\">{2}</span>. Meanwhile, Luocha gains 1 stack of Abyss Flower.\\nWhen any ally's HP percentage drops to {3} or lower, an effect equivalent to Luocha's Skill will immediately be triggered and applied to this ally for one time (without consuming Skill Points). This effect can be triggered again after {4} turn(s).",
+      "name": "白花的祈望",
+      "desc": "施放战技后立即为指定我方单体回复等同于罗刹<span style=\"color: #f29e38ff\">{1}</span>攻击力+<span style=\"color: #f29e38ff\">{2}</span>的生命值，并使罗刹获得1层【白花之刻】。\\n当我方任意单体当前生命值百分比小于等于{3}时，罗刹会立即对其触发1次等同于战技的效果，此次触发不消耗战技点。该效果在{4}回合后可再次触发。",
       "values": [
         [
           40,
@@ -3787,8 +3787,8 @@
       ]
     },
     "ultimate": {
-      "name": "Death Wish",
-      "desc": "Removes {2} <u>buff(s)</u> from all enemies and deals all enemies Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Luocha's ATK. At the same time, Luocha gains 1 stack of Abyss Flower.",
+      "name": "归葬的遂愿",
+      "desc": "解除敌方全体{2}个<u>增益效果</u>，并对敌方全体造成等同于罗刹<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害，同时使罗刹获得1层【白花之刻】。",
       "values": [
         [
           120,
@@ -3817,8 +3817,8 @@
       ]
     },
     "talent": {
-      "name": "Cycle of Life",
-      "desc": "When Abyss Flower reaches {1} stacks, Luocha consumes all stacks of Abyss Flower to deploy a Field against the enemy.\\nWhen any enemy in the Field is attacked by an ally, the attacking ally's HP is immediately restored by an amount equal to <span style=\"color: #f29e38ff\">{2}</span> of Luocha's ATK plus <span style=\"color: #f29e38ff\">{4}</span>.\\nThe Field's effect lasts for {3} turns. When Luocha is knocked down, the Field will be dispelled.",
+      "name": "生息的轮转",
+      "desc": "当【白花之刻】达到{1}层时，罗刹会消耗全部【白花之刻】展开结界。\\n处于结界中的任意敌方目标受到攻击后，施放攻击的我方目标立即回复等同于罗刹<span style=\"color: #f29e38ff\">{2}</span>攻击力+<span style=\"color: #f29e38ff\">{4}</span>的生命值。\\n结界效果持续{3}回合。当罗刹陷入无法战斗状态时，结界也会被解除。",
       "values": [
         [
           2
@@ -3869,22 +3869,22 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Mercy of a Fool",
-      "desc": "After the Technique is used, the Talent will be immediately triggered at the start of the next battle.",
+      "name": "愚者的悲悯",
+      "desc": "使用秘技后，下一次战斗开始时立即触发天赋。",
       "values": [],
       "format": []
     }
   },
   "jing-yuan": {
     "attack": {
-      "name": "Glistening Light",
-      "desc": "Jing Yuan deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of his ATK to a single enemy.",
+      "name": "石火流光",
+      "desc": "对指定敌方单体造成等同于景元<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害。",
       "values": [
         [
           50,
@@ -3903,8 +3903,8 @@
       ]
     },
     "skill": {
-      "name": "Rifting Zenith",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Jing Yuan's ATK to all enemies and increases Lightning-Lord's Hits Per Action by {2} for the next turn.",
+      "name": "紫霄震曜",
+      "desc": "对敌方全体造成等同于景元<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害，同时增加{2}段【神君】下回合的攻击段数。",
       "values": [
         [
           50,
@@ -3933,8 +3933,8 @@
       ]
     },
     "ultimate": {
-      "name": "Lightbringer",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Jing Yuan's ATK to all enemies and increases Lightning-Lord's Hits Per Action by {2} for the next turn.",
+      "name": "吾身光明",
+      "desc": "对敌方全体造成等同于景元<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害。同时增加{2}段【神君】下回合的攻击段数。",
       "values": [
         [
           120,
@@ -3963,8 +3963,8 @@
       ]
     },
     "talent": {
-      "name": "Prana Extirpated",
-      "desc": "Summons Lightning-Lord at the start of the battle. Lightning-Lord has {1} base SPD and {4} base Hits Per Action. When the Lightning-Lord takes action, its hits are considered as <u>follow-up attacks</u>, with each hit dealing Lightning DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Jing Yuan's ATK to a random single enemy, and enemies adjacent to it also receive Lightning DMG equal to {5} of the DMG dealt to the target enemy.\\nThe Lightning-Lord's Hits Per Action can reach a max of {6}. Every time Lightning-Lord's Hits Per Action increases by 1, its SPD increases by {3}. After the Lightning-Lord's action ends, its SPD and Hits Per Action return to their base values.\\nWhen Jing Yuan is <u>knocked down</u>, the Lightning-Lord will disappear.\\nWhen Jing Yuan is affected by <u>Crowd Control debuff</u>, the Lightning-Lord is unable to take action.",
+      "name": "斩勘神形",
+      "desc": "战斗开始时召唤【神君】。【神君】初始拥有{1}点速度以及{4}段攻击段数，行动时发动<u>追加攻击</u>，每段攻击对随机敌方单体造成等同于景元攻击力<span style=\"color: #f29e38ff\">{2}</span>的雷属性伤害，同时对其相邻目标造成等同于主目标{5}的雷属性伤害。\\n【神君】最多累计{6}段攻击段数且每增加1段攻击段数，速度提高{3}点，行动结束后速度和攻击段数恢复至初始状态。\\n当景元陷入<u>无法战斗状态</u>时【神君】消失。\\n当景元受到<u>控制类负面状态</u>影响时【神君】也无法行动。",
       "values": [
         [
           60
@@ -4009,14 +4009,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Spirit Invocation",
-      "desc": "After the Technique is used, the Lightning-Lord's Hits Per Action in the first turn increases by {1} at the start of the next battle.",
+      "name": "摄召威灵",
+      "desc": "使用秘技后，下一次战斗开始时【神君】第1回合的攻击段数增加{1}段。",
       "values": [
         [
           3
@@ -4029,8 +4029,8 @@
   },
   "blade": {
     "attack": {
-      "name": "Shard Sword",
-      "desc": "Deals <span style=\"color: #f29e38ff\">{1}</span> of Blade's ATK as Wind DMG to a target enemy.",
+      "name": "支离剑",
+      "desc": "对指定敌方单体造成等同于刃<span style=\"color: #f29e38ff\">{1}</span>攻击力的风属性伤害。",
       "values": [
         [
           50,
@@ -4049,8 +4049,8 @@
       ]
     },
     "skill": {
-      "name": "Hellscape",
-      "desc": "Consumes HP equal to {1} of Blade's Max HP to enter the Hellscape state.\\nWhen Hellscape is active, his Skill cannot be used, his DMG dealt increases by <span style=\"color: #f29e38ff\">{4}</span>, and his Basic ATK Shard Sword is enhanced to Forest of Swords for {2} turn(s).\\nIf Blade's current HP is insufficient, his HP will be reduced to 1 when he uses his Skill.\\nThis Skill does not regenerate Energy. Using this Skill does not end the current turn.",
+      "name": "地狱变",
+      "desc": "消耗等同于刃生命上限{1}的生命值，进入【地狱变】状态。\\n处于【地狱变】状态时无法施放战技，同时使自身造成的伤害提高<span style=\"color: #f29e38ff\">{4}</span>，普攻【支离剑】强化为【无间剑树】，持续{2}回合。\\n若当前生命值不足，施放战技时刃的当前生命值降低至1点。\\n该战技无法恢复能量。施放该战技后，本回合不会结束。",
       "values": [
         [
           30
@@ -4087,8 +4087,8 @@
       ]
     },
     "ultimate": {
-      "name": "Death Sentence",
-      "desc": "Sets Blade's current HP to 50% of his Max HP and deals Wind DMG to a single enemy equal to the sum of <span style=\"color: #f29e38ff\">{1}</span> of his ATK, <span style=\"color: #f29e38ff\">{2}</span> of his Max HP, and <span style=\"color: #f29e38ff\">{5}</span> of the tally of Blade's HP loss in the current battle. At the same time, deals Wind DMG to adjacent targets equal to the sum of <span style=\"color: #f29e38ff\">{3}</span> of his ATK, <span style=\"color: #f29e38ff\">{4}</span> of his Max HP, and <span style=\"color: #f29e38ff\">{6}</span> of the tally of his HP loss in the current battle.\\nThe tally of Blade's HP loss in the current battle is capped at {7} of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used.",
+      "name": "大辟万死",
+      "desc": "将刃的当前生命值转化为生命上限的50%，并对敌方单体造成等同于刃<span style=\"color: #f29e38ff\">{1}</span>攻击力+<span style=\"color: #f29e38ff\">{2}</span>生命上限+<span style=\"color: #f29e38ff\">{5}</span>本场战斗中累计已损失生命值的风属性伤害，同时对其相邻目标造成等同于刃<span style=\"color: #f29e38ff\">{3}</span>攻击力+<span style=\"color: #f29e38ff\">{4}</span>生命上限+<span style=\"color: #f29e38ff\">{6}</span>本场战斗中累计已损失生命值的风属性伤害。\\n本场战斗中累计已损失生命值最高不超过刃生命上限的{7}，施放终结技后会清空并进行重新累计。",
       "values": [
         [
           24,
@@ -4207,8 +4207,8 @@
       ]
     },
     "talent": {
-      "name": "Shuhu's Gift",
-      "desc": "When Blade sustains DMG or consumes his HP, he gains 1 stack of Charge, stacking up to 5 times. A max of 1 Charge stack can be gained every time he is attacked.\\nWhen Charge stack reaches maximum, immediately launches a <u>follow-up attack</u> on all enemies, dealing Wind DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Blade's ATK plus <span style=\"color: #f29e38ff\">{4}</span> of his Max HP. At the same time, restores Blade's HP by {3} of his Max HP. After the follow-up attack, all Charges are consumed.",
+      "name": "倏忽恩赐",
+      "desc": "刃受到伤害或消耗生命值时，获得1层充能，最多叠加5层。该效果每次受到攻击最多叠加1层。\\n当充能叠加至上限时，立即对敌方全体施放1次<u>追加攻击</u>，造成等同于刃<span style=\"color: #f29e38ff\">{2}</span>攻击力+<span style=\"color: #f29e38ff\">{4}</span>生命上限的风属性伤害并回复等同于刃生命上限{3}的生命值，施放追加攻击后，消耗所有充能。",
       "values": [
         [
           3
@@ -4259,14 +4259,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Karma Wind",
-      "desc": "Immediately attacks the enemy. After entering combat, consumes {2} of Blade's Max HP while dealing Wind DMG equal to {1} of his Max HP to all enemies.\\nIf Blade's current HP is insufficient, his HP will be reduced to 1 when this Technique is used.",
+      "name": "业途风",
+      "desc": "立即攻击敌人，进入战斗后消耗等同于刃生命上限{2}的生命值，同时对敌方全体造成等同于刃生命上限{1}的风属性伤害。\\n若当前生命值不足，施放秘技时刃的当前生命值降低至1点。",
       "values": [
         [
           40
@@ -4281,8 +4281,8 @@
       ]
     },
     "undefined": {
-      "name": "Forest of Swords",
-      "desc": "Consumes HP equal to {1} of Blade's Max HP and deals Wind DMG equal to the sum of <span style=\"color: #f29e38ff\">{2}</span> of his ATK and <span style=\"color: #f29e38ff\">{4}</span> of his Max HP to a single enemy. In addition, deals Wind DMG equal to the sum of <span style=\"color: #f29e38ff\">{3}</span> of Blade's ATK and <span style=\"color: #f29e38ff\">{5}</span> of his Max HP to adjacent targets.\\nIf Blade's current HP is insufficient, his HP will be reduced to 1 when using Forest of Swords.\\nForest of Swords cannot regenerate Skill Points.",
+      "name": "无间剑树",
+      "desc": "消耗等同于刃生命上限{1}的生命值，对指定敌方单体造成等同于刃<span style=\"color: #f29e38ff\">{2}</span>攻击力+<span style=\"color: #f29e38ff\">{4}</span>生命上限的风属性伤害，同时对其相邻目标造成等同于刃<span style=\"color: #f29e38ff\">{3}</span>攻击力+<span style=\"color: #f29e38ff\">{5}</span>生命上限的风属性伤害。\\n若当前生命值不足，施放【无间剑树】时刃的当前生命值降低至1点。\\n【无间剑树】无法恢复战技点。",
       "values": [
         [
           10
@@ -4343,8 +4343,8 @@
   },
   "sushang": {
     "attack": {
-      "name": "Cloudfencer Art: Starshine",
-      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Sushang's ATK to a single enemy.",
+      "name": "云骑剑经 • 素霓",
+      "desc": "对指定敌方单体造成等同于素裳<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害。",
       "values": [
         [
           50,
@@ -4363,8 +4363,8 @@
       ]
     },
     "skill": {
-      "name": "Cloudfencer Art: Mountainfall",
-      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Sushang's ATK to a single enemy. In addition, there is a {3} chance to trigger Sword Stance on the final hit, dealing <u>Additional</u> Physical DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Sushang's ATK to the enemy.\\nIf the enemy is inflicted with <u>Weakness Break</u>, Sword Stance is guaranteed to trigger.",
+      "name": "云骑剑经 • 山倾",
+      "desc": "对指定敌方单体造成等同于素裳<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害。同时最后一击后有{3}概率发动【剑势】，对目标造成等同于素裳<span style=\"color: #f29e38ff\">{2}</span>攻击力的物理属性<u>附加伤害</u>。\\n若该目标处于<u>弱点击破状态</u>，则【剑势】必定发动。",
       "values": [
         [
           105,
@@ -4411,8 +4411,8 @@
       ]
     },
     "ultimate": {
-      "name": "Shape of Taixu: Dawn Herald",
-      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Sushang's ATK to a single enemy target, and she immediately takes action again. In addition, Sushang's ATK increases by <span style=\"color: #f29e38ff\">{4}</span> and using her Skill has 2 extra chances to trigger Sword Stance for {2} turn(s).\\nSword Stance triggered from the extra chances deals {3} of the original DMG.",
+      "name": "太虚形蕴 • 烛夜",
+      "desc": "对指定敌方单体造成等同于素裳<span style=\"color: #f29e38ff\">{1}</span>攻击力的物理属性伤害，并使素裳立即行动。同时使其攻击力提高<span style=\"color: #f29e38ff\">{4}</span>，且施放战技时额外增加2次【剑势】的发动判定，持续{2}回合。\\n通过额外判定发动的【剑势】伤害为原伤害的{3}。",
       "values": [
         [
           192,
@@ -4463,8 +4463,8 @@
       ]
     },
     "talent": {
-      "name": "Dancing Blade",
-      "desc": "When an enemy has their Weakness Broken on the field, Sushang's SPD increases by <span style=\"color: #f29e38ff\">{1}</span> for {2} turn(s).",
+      "name": "游刃若水",
+      "desc": "当场上有敌方目标的弱点被击破，素裳的速度提高<span style=\"color: #f29e38ff\">{1}</span>，持续{2}回合。",
       "values": [
         [
           15,
@@ -4493,14 +4493,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Cloudfencer Art: Warcry",
-      "desc": "Immediately attacks the enemy. Upon entering battle, Sushang deals Physical DMG equal to {1} of her ATK to all enemies.",
+      "name": "云骑剑经 • 叩阵",
+      "desc": "立即攻击敌人，进入战斗后对敌方全体造成等同于素裳{1}攻击力的物理属性伤害。",
       "values": [
         [
           80
@@ -4513,8 +4513,8 @@
   },
   "yukong": {
     "attack": {
-      "name": "Arrowslinger",
-      "desc": "Deals <span style=\"color: #f29e38ff\">{1}</span> of Yukong's ATK as Imaginary DMG to a target enemy.",
+      "name": "流镝",
+      "desc": "对指定敌方单体造成等同于驭空<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害。",
       "values": [
         [
           50,
@@ -4533,8 +4533,8 @@
       ]
     },
     "skill": {
-      "name": "Emboldening Salvo",
-      "desc": "Obtains {1} stack(s) of \"Roaring Bowstrings\" (to a maximum of 2 stacks). When \"Roaring Bowstrings\" is active, the ATK of all allies increases by <span style=\"color: #f29e38ff\">{2}</span>, and every time an ally's turn (including Yukong's) ends, Yukong loses 1 stack of \"Roaring Bowstrings.\"\\nWhen it's the turn where Yukong gains \"Roaring Bowstrings\" by using Skill, \"Roaring Bowstrings\" will not be removed.",
+      "name": "天阙鸣弦",
+      "desc": "获得{1}层【鸣弦号令】，最多持有不超过2层。当驭空持有【鸣弦号令】时，我方全体攻击力提高<span style=\"color: #f29e38ff\">{2}</span>，且每次我方目标回合结束时，移除驭空1层【鸣弦号令】。\\n驭空施放战技获得【鸣弦号令】的回合，不会移除【鸣弦号令】。",
       "values": [
         [
           2
@@ -4563,8 +4563,8 @@
       ]
     },
     "ultimate": {
-      "name": "Diving Kestrel",
-      "desc": "If \"Roaring Bowstrings\" is active on Yukong when her Ultimate is used, additionally increases all allies' CRIT Rate by <span style=\"color: #f29e38ff\">{2}</span> and CRIT DMG by <span style=\"color: #f29e38ff\">{3}</span>. At the same time, deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Yukong's ATK to a single enemy.",
+      "name": "贯云饮羽",
+      "desc": "施放终结技时，若驭空持有【鸣弦号令】，则额外使我方全体暴击率提高<span style=\"color: #f29e38ff\">{2}</span>，暴击伤害提高<span style=\"color: #f29e38ff\">{3}</span>。同时对指定敌方单体造成等同于驭空<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害。",
       "values": [
         [
           228,
@@ -4625,8 +4625,8 @@
       ]
     },
     "talent": {
-      "name": "Seven Layers, One Arrow",
-      "desc": "Basic ATK additionally deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Yukong's ATK, and increases the Toughness-Reducing DMG of this attack by {2}. This effect can be triggered again in {3} turn(s).",
+      "name": "箭彻七札",
+      "desc": "施放普攻可额外造成等同于驭空<span style=\"color: #f29e38ff\">{1}</span>攻击力的虚数属性伤害，并使本次攻击的削韧伤害提高{2}，该效果在{3}回合后可再次触发。",
       "values": [
         [
           40,
@@ -4659,14 +4659,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Chasing the Wind",
-      "desc": "After using her Technique, Yukong enters Sprint mode for {1} seconds. In Sprint mode, her Movement SPD increases by {2}, and Yukong gains {3} stack(s) of \"Roaring Bowstrings\" when she enters battle by attacking enemies.",
+      "name": "云鸢逐风",
+      "desc": "使用秘技后进入持续{1}秒的冲刺状态。冲刺状态下自身移动速度提高{2}，且主动攻击敌人进入战斗时，驭空获得{3}层【鸣弦号令】。",
       "values": [
         [
           20
@@ -4687,8 +4687,8 @@
   },
   "yanqing": {
     "attack": {
-      "name": "Frost Thorn",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Yanqing's ATK to a single enemy.",
+      "name": "霜锋点寒芒",
+      "desc": "对指定敌方单体造成等同于彦卿<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害。",
       "values": [
         [
           50,
@@ -4707,8 +4707,8 @@
       ]
     },
     "skill": {
-      "name": "Darting Ironthorn",
-      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Yanqing's ATK to a single enemy and activates Soulsteel Sync for 1 turn.",
+      "name": "遥击三尺水",
+      "desc": "对指定敌方单体造成等同于彦卿<span style=\"color: #f29e38ff\">{1}</span>攻击力的冰属性伤害，并为彦卿附加【智剑连心】，持续1回合。",
       "values": [
         [
           110,
@@ -4733,8 +4733,8 @@
       ]
     },
     "ultimate": {
-      "name": "Amidst the Raining Bliss",
-      "desc": "Increases Yanqing's CRIT Rate by {1}. When Soulsteel Sync is active, increases Yanqing's CRIT DMG by an extra <span style=\"color: #f29e38ff\">{2}</span>. This <u>buff</u> lasts for one turn. Afterwards, deals Ice DMG equal to <span style=\"color: #f29e38ff\">{3}</span> of Yanqing's ATK to a single enemy.",
+      "name": "快雨燕相逐",
+      "desc": "提高自身{1}暴击率，若彦卿处于【智剑连心】效果，则使其暴击伤害额外提高<span style=\"color: #f29e38ff\">{2}</span>，<u>增益效果</u>持续1回合。随后对指定敌方单体造成等同于彦卿<span style=\"color: #f29e38ff\">{3}</span>攻击力的冰属性伤害。",
       "values": [
         [
           60
@@ -4781,8 +4781,8 @@
       ]
     },
     "talent": {
-      "name": "One With the Sword",
-      "desc": "When Soulsteel Sync is active, Yanqing is less likely to be attacked by enemies. Yanqing's CRIT Rate increases by <span style=\"color: #f29e38ff\">{1}</span> and his CRIT DMG increases by <span style=\"color: #f29e38ff\">{2}</span>. After Yanqing attacks an enemy, there is a <span style=\"color: #f29e38ff\">{3}</span> <u>fixed chance</u> to perform a <u>follow-up attack</u>, dealing Ice DMG equal to <span style=\"color: #f29e38ff\">{4}</span> of Yanqing's ATK to the enemy, which has a {6} <u>base chance</u> to Freeze the enemy for 1 turn.\\nThe Frozen target cannot take action and receives <u>Additional</u> Ice DMG equal to <span style=\"color: #f29e38ff\">{5}</span> of Yanqing's ATK at the beginning of each turn.\\nWhen Yanqing receives DMG, the Soulsteel Sync effect will disappear.",
+      "name": "呼剑如影",
+      "desc": "彦卿处于【智剑连心】效果时，受到攻击的概率降低，并为自身提高<span style=\"color: #f29e38ff\">{1}</span>暴击率和<span style=\"color: #f29e38ff\">{2}</span>暴击伤害。对敌方目标施放攻击后，有<span style=\"color: #f29e38ff\">{3}</span>的<u>固定概率</u>发动<u>追加攻击</u>，对目标造成等同于彦卿<span style=\"color: #f29e38ff\">{4}</span>攻击力的冰属性伤害，并有{6}的<u>基础概率</u>使其陷入冻结状态，持续1回合。\\n冻结状态下，敌方目标不能行动，同时每回合开始时受到等同于彦卿<span style=\"color: #f29e38ff\">{5}</span>攻击力的冰属性<u>附加伤害</u>。\\n当彦卿受到伤害后，【智剑连心】将会消失。",
       "values": [
         [
           15,
@@ -4883,14 +4883,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "The One True Sword",
-      "desc": "After using his Technique, at the start of the next battle, Yanqing deals {2} more DMG for {3} turn(s) to enemies whose current HP is {1} or higher.",
+      "name": "御剑真诀",
+      "desc": "使用秘技后，下一次战斗开始时彦卿对当前生命值百分比大于等于{1}的敌方目标造成的伤害提高{2}，持续{3}回合。",
       "values": [
         [
           50
@@ -4911,8 +4911,8 @@
   },
   "bailu": {
     "attack": {
-      "name": "Diagnostic Kick",
-      "desc": "Deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Bailu's ATK to a single enemy.",
+      "name": "望 、闻、问…蹴！",
+      "desc": "对指定敌方单体造成等同于白露<span style=\"color: #f29e38ff\">{1}</span>攻击力的雷属性伤害。",
       "values": [
         [
           50,
@@ -4931,8 +4931,8 @@
       ]
     },
     "skill": {
-      "name": "Singing Among Clouds",
-      "desc": "Heals a single ally for <span style=\"color: #f29e38ff\">{1}</span> of Bailu's Max HP plus <span style=\"color: #f29e38ff\">{2}</span>. Bailu then heals random allies {4} time(s). After each healing, HP restored from the next healing is reduced by {3}.",
+      "name": "云吟乍涌坠珠露",
+      "desc": "立即为指定我方单体回复等同于白露<span style=\"color: #f29e38ff\">{1}</span>生命上限+<span style=\"color: #f29e38ff\">{2}</span>的生命值，然后白露随机为我方单体进行{4}次治疗，每提供1次治疗，下一次治疗回复的生命值会降低{3}。",
       "values": [
         [
           7.8,
@@ -4983,8 +4983,8 @@
       ]
     },
     "ultimate": {
-      "name": "Felicitous Thunderleap",
-      "desc": "Heals all allies for <span style=\"color: #f29e38ff\">{1}</span> of Bailu's Max HP plus <span style=\"color: #f29e38ff\">{2}</span>.\\nBailu applies Invigoration to allies that are not already Invigorated. For those already Invigorated, Bailu extends the duration of their Invigoration by 1 turn.\\nThe effect of Invigoration can last for {3} turn(s). This effect cannot stack.",
+      "name": "匏蛟跃渊先雷音",
+      "desc": "立即为我方全体回复等同于白露<span style=\"color: #f29e38ff\">{1}</span>生命上限+<span style=\"color: #f29e38ff\">{2}</span>的生命值。\\n对于没有【生息】的我方目标，白露使其附上【生息】，对于已拥有【生息】的我方目标，白露使其已有的【生息】持续时间延长1回合。\\n【生息】可持续{3}回合，该效果不可叠加。",
       "values": [
         [
           9,
@@ -5031,8 +5031,8 @@
       ]
     },
     "talent": {
-      "name": "Gourdful of Elixir",
-      "desc": "After an ally with Invigoration is hit, restores the ally's HP for <span style=\"color: #f29e38ff\">{1}</span> of Bailu's Max HP plus <span style=\"color: #f29e38ff\">{2}</span>. This effect can trigger {5} time(s).\\nWhen an ally receives a killing blow, they will not be <u>knocked down</u>. Bailu immediately heals the ally for <span style=\"color: #f29e38ff\">{3}</span> of Bailu's Max HP plus <span style=\"color: #f29e38ff\">{4}</span> HP. This effect can be triggered 1 time per battle.",
+      "name": "奔走悬壶济世长",
+      "desc": "拥有【生息】的我方目标，在受到攻击后会回复等同于白露<span style=\"color: #f29e38ff\">{1}</span>生命上限+<span style=\"color: #f29e38ff\">{2}</span>的生命值，该效果可以触发{5}次。\\n当白露的队友受到致命攻击时，不会陷入<u>无法战斗状态</u>，白露会立即为其提供治疗，回复等同于白露<span style=\"color: #f29e38ff\">{3}</span>生命上限+<span style=\"color: #f29e38ff\">{4}</span>的生命值。该效果单场战斗中可以触发1次。",
       "values": [
         [
           3.6,
@@ -5115,14 +5115,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Saunter in the Rain",
-      "desc": "After Technique is used, at the start of the next battle, all allies are granted Invigoration for {1} turn(s).",
+      "name": "徜徉灵泽病恙短",
+      "desc": "使用秘技后，下一次战斗开始时为我方全体附上【生息】，持续{1}回合。",
       "values": [
         [
           2
@@ -5135,8 +5135,8 @@
   },
   "trailblazer": {
     "attack": {
-      "name": "Ice-Breaking Light",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of the Trailblazer's ATK to a single enemy and gains 1 stack of Magma Will.",
+      "name": "穿彻坚冰的烈芒",
+      "desc": "对指定敌方单体造成等同于开拓者<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害并叠加1层【灼热意志】。",
       "values": [
         [
           50,
@@ -5155,8 +5155,8 @@
       ]
     },
     "skill": {
-      "name": "Ever-Burning Amber",
-      "desc": "Increases the Trailblazer's DMG Reduction by <span style=\"color: #f29e38ff\">{1}</span> and gains 1 stack of Magma Will, with a {2} <u>base chance</u> to Taunt all enemies for {3} turn(s).",
+      "name": "炽燃不灭的琥珀",
+      "desc": "施放战技后，开拓者受到的伤害降低<span style=\"color: #f29e38ff\">{1}</span>并叠加1层【灼热意志】，此外有{2}<u>基础概率</u>使敌方全体陷入嘲讽状态，持续{3}回合。",
       "values": [
         [
           40,
@@ -5189,8 +5189,8 @@
       ]
     },
     "ultimate": {
-      "name": "War-Flaming Lance",
-      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of the Trailblazer's ATK plus <span style=\"color: #f29e38ff\">{2}</span> of the Trailblazer's DEF to all enemies. The next Basic ATK will be automatically enhanced and does not cost Magma Will.",
+      "name": "陷阵无回的炎枪",
+      "desc": "对敌方全体造成等同于开拓者<span style=\"color: #f29e38ff\">{1}</span>攻击力+<span style=\"color: #f29e38ff\">{2}</span>防御力的火属性伤害。下一次施放普攻时，自动获得强化且不消耗【灼热意志】。",
       "values": [
         [
           50,
@@ -5233,8 +5233,8 @@
       ]
     },
     "talent": {
-      "name": "Treasure of the Architects",
-      "desc": "Each time the Trailblazer is hit, they gain 1 stack of Magma Will for a max of {3} stack(s).\\nWhen Magma Will has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to a single enemy and enemies adjacent to it.\\nWhen the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of the Trailblazer's DEF plus <span style=\"color: #f29e38ff\">{4}</span>. The Shield lasts for {2} turn(s).",
+      "name": "筑城者遗宝",
+      "desc": "每受到1次攻击，叠加1层【灼热意志】，最多可叠加{3}层。\\n【灼热意志】层数不低于4时，普攻将获得强化，对指定敌方单体及其相邻目标同时造成伤害。\\n开拓者施放普攻、战技、终结技后，为我方全体提供能够抵消等同于开拓者<span style=\"color: #f29e38ff\">{1}</span>防御力+<span style=\"color: #f29e38ff\">{4}</span>伤害的护盾，持续{2}回合。",
       "values": [
         [
           4,
@@ -5285,14 +5285,14 @@
       ]
     },
     "mazeattack": {
-      "name": "Attack",
-      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "name": "攻击",
+      "desc": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Call of the Guardian",
-      "desc": "After using Technique, at the start of the next battle, gains a Shield that absorbs DMG equal to {1} of the Trailblazer's DEF plus {2} for {3} turn(s).",
+      "name": "守护者召令",
+      "desc": "使用秘技后，下一次战斗开始时给自身提供能够抵消等同于开拓者{1}防御力+{2}伤害的护盾，持续{3}回合。",
       "values": [
         [
           30
@@ -5311,8 +5311,8 @@
       ]
     },
     "undefined": {
-      "name": "Ice-Breaking Light",
-      "desc": "Consumes 4 stacks of Magma Will to enhance Basic ATK, dealing Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of the Trailblazer's ATK to a single enemy and Fire DMG to equal to <span style=\"color: #f29e38ff\">{2}</span> of the Trailblazer's ATK to enemies adjacent to it.",
+      "name": "穿彻坚冰的烈芒",
+      "desc": "消耗4层【灼热意志】，强化普攻。对指定敌方单体造成等同于开拓者<span style=\"color: #f29e38ff\">{1}</span>攻击力的火属性伤害，同时对其相邻目标造成等同于开拓者<span style=\"color: #f29e38ff\">{2}</span>攻击力的火属性伤害。",
       "values": [
         [
           90,

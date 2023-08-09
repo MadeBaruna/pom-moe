@@ -31,6 +31,14 @@
     "rarity": 5,
     "background": "経験豊富で頼れる列車組の先輩。\\n久しぶりの冒険を楽しんでいるうちに、心の中の情熱が再燃した。\\nたまに冒険で経験したことを絵にしてノートにまとめている。"
   },
+  "kafka": {
+    "id": "kafka",
+    "name": "カフカ",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "「星核ハンター」のメンバーで、どこか余裕のある颯爽とした麗人。\\n言霊を使い、{NICKNAMEが星核を取り込むよう仕向けた。\\n趣味はコートを買ったり整理したりすること。"
+  },
   "silver-wolf": {
     "id": "silver-wolf",
     "name": "銀狼",
@@ -134,6 +142,14 @@
     "element": "fire",
     "rarity": 4,
     "background": "地下冒険団「モグラ党」の親分（自称）。\\n自由を愛する彼女は、日々の生活を冒険の一幕だと考えている。"
+  },
+  "luka": {
+    "id": "luka",
+    "name": "ルカ",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "ベロブルグ下層部のボクシングチャンピオン、「地炎」の中堅メンバーの一人。\\nファイトクラブの王座保持者。その熱情で下層部の夢ある子どもたちを励ましてきた。"
   },
   "qingque": {
     "id": "qingque",
