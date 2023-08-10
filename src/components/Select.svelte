@@ -47,6 +47,7 @@
 			}
 			state = state;
 			selected = options.filter((_, i) => state.has(i));
+			updateLabel();
 
 			return;
 		}
