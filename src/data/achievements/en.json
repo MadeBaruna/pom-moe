@@ -145,7 +145,7 @@
       {
         "id": 4012301,
         "name": "Sovereign Warframe",
-        "desc": "Equip a character with level 15 5-star Relics in all their Relic slots",
+        "desc": "Equip 5-star Relics enhanced to level 15 in all Relic slots for one character",
         "rarity": 3,
         "version": "1.0"
       }
@@ -253,7 +253,7 @@
       {
         "id": 4030101,
         "name": "My Heart Lies With the Stars",
-        "desc": "Launch a journey into the vast Galaxy\\n<color=#8790abff>※ Congratulations! You've boarded the Astral Express!</color>",
+        "desc": "Launch a journey into the vast cosmos\\n<color=#8790abff>※ Congratulations! You've boarded the Astral Express!</color>",
         "rarity": 3,
         "version": "1.0"
       },
@@ -347,6 +347,13 @@
         "desc": "All plots shall be overturned\\n<color=#8790abff>※ Help Jing Yuan to defeat Phantylia</color>",
         "rarity": 3,
         "version": "1.2"
+      },
+      {
+        "id": 4032601,
+        "name": "Transient Are the Living",
+        "desc": "Farewell, Xianzhou Luofu\\n<color=#8790abff>※ Participate in the soul-soothing ceremony and form an alliance with the Xianzhou</color>",
+        "rarity": 2,
+        "version": "1.3"
       }
     ]
   },
@@ -653,11 +660,60 @@
     "name": "The Memories We Share",
     "achievements": [
       {
+        "id": 4052613,
+        "name": "Truthful Trailblazer",
+        "desc": "Tell Cleo the truth about Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052614,
+        "name": "Hidden Harmony",
+        "desc": "Hide the truth about Todd from Cleo",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052615,
+        "name": "The River Lethe's Taste is Bitter",
+        "desc": "Complete the Companion Mission \"Total Recall\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052616,
+        "name": "Beyond Frozen Boundaries",
+        "desc": "Complete the Companion Mission \"Farther Than The Snow Plains\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052617,
+        "name": "Raindew of Yore",
+        "desc": "Complete the Companion Mission \"The Dragon Returns Home\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052618,
+        "name": "Only Ashes Remain",
+        "desc": "Complete the Companion Mission \"Mo Cuishle\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4051001,
         "name": "Guess Who I Am",
         "desc": "Complete Companion Mission \"You Already Know Me\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052603,
+        "name": "Peaceful Prime Time",
+        "desc": "Listen to full episode of Interastral Peace Broadcast No. 1",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4051002,
@@ -885,7 +941,7 @@
       },
       {
         "id": 4080603,
-        "name": "<unbreak>50</unbreak> Credits!?",
+        "name": "50 Credits!?",
         "desc": "Collect all wanted posters of the Express Crew in Belobog",
         "rarity": 1,
         "version": "1.0"
@@ -962,7 +1018,7 @@
       },
       {
         "id": 4052317,
-        "name": "For Ages <unbreak>12</unbreak> and Up",
+        "name": "For Ages 12 and Up",
         "desc": "Participate in the Dark Fist Tournament and become the ultimate winner",
         "rarity": 1,
         "version": "1.0"
@@ -973,6 +1029,13 @@
         "desc": "Dominate all 5 tournaments in the Boulder Town Super League",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4052601,
+        "name": "Let Aurum Alley Thrive Once More!",
+        "desc": "Complete the mission Back in Business (IV), and win the bid for the Aurum Alley Commercial District",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4052318,
@@ -989,6 +1052,20 @@
         "version": "1.0"
       },
       {
+        "id": 4052604,
+        "name": "Trojan Starskiff",
+        "desc": "Stack 6 Aurumaton Gatekeeper(s) on the freight starskiff in Aurum Alley's Hustle and Bustle",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052605,
+        "name": "Outclassed by None",
+        "desc": "{LAYOUT_MOBILE#Tap}{LAYOUT_CONTROLLER#Press}{LAYOUT_KEYBOARD#Click} on 24 freight starskiff(s) during Aurum Alley's Hustle and Bustle",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
         "id": 4052320,
         "name": "The Fourth Little Mole",
         "desc": "Find all hidden treasures in the Mission \"The Adventurous Moles\"",
@@ -996,11 +1073,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052606,
+        "name": "Horn of Plenty",
+        "desc": "Earn 1000000 of Merchant Guild's funds for the Aurum Alley Merchant Guild in Aurum Alley's Hustle and Bustle",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052321,
-        "name": "<i>The Adventurous Moles</i> Super Grown-Up Edition",
+        "name": "The Adventurous Moles Super Grown-Up Edition",
         "desc": "Buy <i>The Adventurous Moles: Hidden Treasure</i> from the Belobog Book Merchant",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052607,
+        "name": "Pawnshop No. 8",
+        "desc": "Establish collaboration with Mr. Huo in Aurum Alley's Hustle and Bustle",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4032309,
@@ -1017,11 +1108,25 @@
         "version": "1.1"
       },
       {
+        "id": 4052608,
+        "name": "Delivery Dynamo",
+        "desc": "Complete a custom delivery order from Heron Express in Aurum Alley's Hustle and Bustle",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052405,
         "name": "Catch Me If You Can",
         "desc": "Open up three exhibition areas in the Belobog History and Culture Museum",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052609,
+        "name": "Sought Gourmet Afar, Wrought Flavor Ajar",
+        "desc": "Complete the Streetside Event \"Diting's Search\" in Aurum Alley's Hustle and Bustle",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4052406,
@@ -1031,11 +1136,32 @@
         "version": "1.1"
       },
       {
+        "id": 4052610,
+        "name": "Funds Expended, Fortunes Expanded",
+        "desc": "Spend 1280000 of Merchant Guild's funds in Aurum Alley's Hustle and Bustle",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052611,
+        "name": "Stellar Stacker",
+        "desc": "Arrange 81 units of inventory goods onto a single freight starskiff in Aurum Alley's Hustle and Bustle",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052323,
         "name": "A Simple Life",
         "desc": "Receive a text from Luhui after completing the mission \"Fired\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052612,
+        "name": "Markets: Skyline",
+        "desc": "In Aurum Alley's Hustle and Bustle, achieve a shipping lane planning score of 81 for any store",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4052324,
@@ -1045,11 +1171,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052619,
+        "name": "Heron Express: We Tried, We Really Did",
+        "desc": "Investigate all special Courier Packages in Aurum Alley",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052325,
         "name": "Cyber Fraud",
         "desc": "Choose to have the Foxian Beauty turn themselves in during the mission \"From Xianzhou With Love\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052620,
+        "name": "The Departed Is That Which We Impart",
+        "desc": "Witness the story of Yongren's hidden identity",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4052326,
@@ -1372,7 +1512,7 @@
       {
         "id": 4070201,
         "name": "Break Till Broken",
-        "desc": "Inflict Weakness Break #2[i] time(s) upon the same enemy in a single battle",
+        "desc": "Inflict Weakness Break 4 time(s) upon the same enemy in a single battle",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1442,7 +1582,7 @@
       {
         "id": 4070502,
         "name": "Memory, Sorrow, and Thorn",
-        "desc": "Inflict #2[i] DoT effects upon <unbreak>1</unbreak> enemie(s) at the same time",
+        "desc": "Inflict 4 DoT effects upon <unbreak>1</unbreak> enemie(s) at the same time",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1455,7 +1595,7 @@
       },
       {
         "id": 4070602,
-        "name": "Fahrenheit <unbreak>451</unbreak>",
+        "name": "Fahrenheit 451",
         "desc": "Defeat 3 enemies with Fire Break DMG in a single battle",
         "rarity": 1,
         "version": "1.0"
@@ -1666,7 +1806,7 @@
       {
         "id": 4071001,
         "name": "Perpetual Freezer",
-        "desc": "Freeze 1 enemies for <unbreak>#2[i]</unbreak> turns in a row",
+        "desc": "Freeze 1 enemies for <unbreak>3</unbreak> turns in a row",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1680,7 +1820,7 @@
       {
         "id": 4071003,
         "name": "One on One",
-        "desc": "Enter combat with 4 character(s) but win with only <unbreak>#2[i]</unbreak> character(s) still standing",
+        "desc": "Enter combat with 4 character(s) but win with only <unbreak>1</unbreak> character(s) still standing",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1771,7 +1911,7 @@
       {
         "id": 4071018,
         "name": "Bring a Gun to a Knife Fight",
-        "desc": "Deal #2[i] DMG or higher to an enemy whose HP percentage is equal to or lower than <unbreak>0%</unbreak> in a single action",
+        "desc": "Deal 20000 DMG or higher to an enemy whose HP percentage is equal to or lower than <unbreak>0%</unbreak> in a single action",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2023,7 +2163,7 @@
       {
         "id": 4072402,
         "name": "When the Hunter Becomes the Hunted",
-        "desc": "Use Silver Wolf to fight enemy Kafka and apply 2 Weaknesse(s) to her in a single battle",
+        "desc": "Use Silver Wolf to fight enemy Kafka and apply 2 Weakness(es) to her in a single battle",
         "rarity": 1,
         "version": "1.1"
       },
@@ -2051,7 +2191,7 @@
       {
         "id": 4072504,
         "name": "Unfulfilled Wish",
-        "desc": "\"Unnecessary.\"\\n<color=#8790abff>※ In a single battle, use the character Blade to restore his HP from less than or equal to 0% to greater than or equal to <unbreak>30%</unbreak> in one single action for <unbreak>#2[i]</unbreak> time(s)</color>",
+        "desc": "\"Unnecessary.\"\\n<color=#8790abff>※ In a single battle, use the character Blade to restore his HP from less than or equal to 0% to greater than or equal to <unbreak>30%</unbreak> in one single action for <unbreak>2</unbreak> time(s)</color>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -2075,6 +2215,76 @@
         "desc": "Use ally Kafka in combat against boss Kafka and be Dominated by her",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4072601,
+        "name": "Icebreaker",
+        "desc": "Defeat a frozen enemy using Lynx",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072603,
+        "name": "Wardance: Greatsword Trial",
+        "desc": "Use Sushang to deal the final blow in a victory against Yanqing",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072604,
+        "name": "Wardance: Épée Trial",
+        "desc": "Use Luocha to deal the final blow in a victory against Yanqing",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072605,
+        "name": "Beetleburster",
+        "desc": "Use a Lesser Sting's or Juvenile Sting's \"Entomon Eulogy\" to defeat Swarm: True Sting",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072606,
+        "name": "I am the Swarm",
+        "desc": "When Swarm: True Sting uses Swarm Onslaught, there are no Juvenile Stings or Lesser Stings on the battlefield",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072607,
+        "name": "Just a Bug",
+        "desc": "In a single attack, simultaneously defeat 2 Swarm: True Sting(s)",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072608,
+        "name": "Wardance: Glaive Trial",
+        "desc": "Use Jing Yuan to deal the final blow in a victory against Yanqing",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072610,
+        "name": "Dragon Trifecta",
+        "desc": "Use Fulgurant Leap during Dan Heng • Imbibitor Lunae's turn for 3 consecutive times in a single battle",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072611,
+        "name": "Survival, Survival, Survival",
+        "desc": "Use Lynx to increase allies' Max HP 3 times in a single battle",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072612,
+        "name": "Heh, Cosmic Big Lotto?",
+        "desc": "In a single battle, trigger the HP Restore effect of Fu Xuan's Talent \"Bleak Breeds Bliss\" for a total of 4 times",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   },
@@ -2224,98 +2434,98 @@
       {
         "id": 4070904,
         "name": "For the Amber Lord",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Preservation",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Preservation",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070905,
         "name": "Ablution Dictum",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Destruction",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Destruction",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070906,
         "name": "The Xianzhou Alliance",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of The Hunt",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of The Hunt",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070907,
         "name": "Meaningless Achievement",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Nihility",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Nihility",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070908,
         "name": "The Great Accord",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Harmony",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Harmony",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070909,
         "name": "Knowledge Is Power",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Erudition",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Erudition",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070910,
         "name": "Miracles of Yaoshi",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Abundance",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> characters following the Path of Abundance",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070911,
         "name": "Tempestuous Suppression",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Wind-Type character(s)",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> Wind-Type character(s)",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070912,
         "name": "Fulguration Beckoner",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Lightning-Type character(s)",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> Lightning-Type character(s)",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070913,
         "name": "Total Conflagration",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Fire-Type character(s)",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> Fire-Type character(s)",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070914,
         "name": "Glacier Dynast",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Ice-Type character(s)",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> Ice-Type character(s)",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070915,
         "name": "Quantum Test",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Quantum-Type character(s)",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> Quantum-Type character(s)",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070916,
         "name": "Imaginary Law",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Imaginary-Type character(s)",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> Imaginary-Type character(s)",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070917,
         "name": "Speak with Fists",
-        "desc": "Win #2[i] battle(s) with a team that has <unbreak>4</unbreak> Physical-Type character(s)",
+        "desc": "Win 10 battle(s) with a team that has <unbreak>4</unbreak> Physical-Type character(s)",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2328,7 +2538,7 @@
       },
       {
         "id": 4082402,
-        "name": "Star Saga of the Shattered Sword",
+        "name": "Starry Saga of the Shattered Sword",
         "desc": "Win 1 battle(s) with a team comprising Luocha, Sushang, and Yanqing",
         "rarity": 1,
         "version": "1.1"
@@ -2339,6 +2549,76 @@
         "desc": "Win 1 battle with a team comprising Natasha, Seele, and Luka",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4082601,
+        "name": "Hold Your Horses",
+        "desc": "Persist for 15 seconds without entering combat while being pursued by the enemy.",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082602,
+        "name": "Tea is Thicker Than Water",
+        "desc": "Drink Immortal's Delight daily for 3 consecutive days",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082603,
+        "name": "Luofu Foodie",
+        "desc": "Drink mung bean soda daily for 3 consecutive days",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082604,
+        "name": "It's Just a Picture",
+        "desc": "Change Phone Wallpapers for the first time",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082605,
+        "name": "Art Transcends Language",
+        "desc": "Change Messages and Chat Boxes for the first time",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082606,
+        "name": "You've Been Pom'd!",
+        "desc": "Send Pom-Pom's stickers to a total of 5 friends",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082607,
+        "name": "Astral Express-ions",
+        "desc": "Send a total of 20 Astral Express Crew Member stickers",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082608,
+        "name": "To The Other Me",
+        "desc": "Receive a sticker from a Trailblazer of the opposite gender",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072602,
+        "name": "In the Name of Landau",
+        "desc": "Win 1 battle with a team comprising Serval, Gepard, and Lynx",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072609,
+        "name": "Full Metal Racket",
+        "desc": "Enter a battle by attacking a distant enemy with Natasha during exploration",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   },
@@ -2346,9 +2626,254 @@
     "name": "Universe in a Nutshell",
     "achievements": [
       {
+        "id": 4092635,
+        "name": "The 400 Blows",
+        "desc": "Use Basic ATK at least 40 times and win within a single battle in Simulated Universe: Swarm Disaster",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092633,
+        "name": "Will of the Hive",
+        "desc": "Unlock 12 Blessing(s) of Propagation in Simulated Universe",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092634,
+        "name": "The Fourth Phase",
+        "desc": "Have 10 or more Blessing(s) of Propagation when clearing Simulated Universe",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092601,
+        "name": "Spring in Fialta",
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Elation, achieve a total of 12 different types of Happiness",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092602,
+        "name": "The Hunter Games",
+        "desc": "In Simulated Universe: Swarm Disaster, capture 8 Trotters through battling in the same plane while following the Path of The Hunt",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092603,
+        "name": "Macadam Stories",
+        "desc": "In Simulated Universe: Swarm Disaster, use the Path of Remembrance to consecutively copy a Reward domain 6 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092604,
+        "name": "The Predator",
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Destruction, achieve 40 victories in battle",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092605,
+        "name": "Symbolic Exchange and Death",
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Nihility, enter a Blank domain 15 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092606,
+        "name": "Simulated Universe Wasn't Built in a Day",
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Preservation, apply Cornerstone to 8 domains of different types",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092607,
+        "name": "Nick of Time",
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Abundance, the remaining Countdown is more than or equal to 80",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092608,
+        "name": "Back to Klendathu",
+        "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Propagation, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain for 15 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092609,
+        "name": "Welcome to the Monkey House",
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Elation for a total of 100 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092610,
+        "name": "Scattered Hailstones, Shattered Ghostbones",
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: The Hunt for a total of 100 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092611,
+        "name": "Eternity and a Day",
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Remembrance for a total of 100 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092612,
+        "name": "The World as Representation",
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Nihility for a total of 100 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092613,
+        "name": "Scorched Earth",
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Destruction for a total of 100 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092614,
+        "name": "Hearken, Waken, Enliven",
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Abundance for a total of 100 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092615,
+        "name": "Homogeneous Nucleation",
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Preservation for a total of 100 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092616,
+        "name": "Methuselah's Children",
+        "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Propagation for a total of 100 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092617,
+        "name": "Data Bank Overseer",
+        "desc": "Have 9999 or more Cosmic Fragment(s) when clearing Simulated Universe: Swarm Disaster",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092618,
+        "name": "Love & the Emperor",
+        "desc": "<u>Wield unlimited power</u> in The IPC Promotion Saga of the Simulated Universe: Swarm Disaster",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092619,
+        "name": "Q",
+        "desc": "In Simulated Universe: Swarm Disaster, purchase all items in the Blessing Store and Curio Store in the same Transaction domain.",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092620,
+        "name": "Welcome to Valhalla",
+        "desc": "In Simulated Universe: Swarm Disaster, be defeated in the battle triggered in the event Genius Society #55 Yu Qingtu",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092621,
+        "name": "Wreck-It Self II",
+        "desc": "In one run of Simulated Universe: Swarm Disaster, break a number of destructible objects greater than or equal to 100",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092622,
+        "name": "Harvest Moon",
+        "desc": "In Simulated Universe: Swarm Disaster, capture Trotters equal to or greater than 16 within one Adventure domain",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092623,
+        "name": "Room of Parting Paths",
+        "desc": "In Simulated Universe: Swarm Disaster, light up 1 hidden \"Trail of Pathstrider\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092624,
+        "name": "Choir of One",
+        "desc": "Generate 2 Resonance Interplays in one run of Simulated Universe: Swarm Disaster",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092625,
+        "name": "To Be, or Not to Be",
+        "desc": "In Simulated Universe: Swarm Disaster, make 1 Choices of the Paths in Occurrence domains",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092626,
+        "name": "Dial of Destiny",
+        "desc": "In Simulated Universe: Swarm Disaster, complete all Choices of the Paths in Occurrence domains",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092627,
+        "name": "Things to Come",
+        "desc": "Cheat a total of 10 times in Simulated Universe: Swarm Disaster",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092628,
+        "name": "Back to the Future",
+        "desc": "Reroll a total of 50 times in Simulated Universe: Swarm Disaster",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092629,
+        "name": "The End of Eternity",
+        "desc": "In Simulated Universe: Swarm Disaster, enter a Blank domain with any Path other than Nihility",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092630,
+        "name": "On the Comet",
+        "desc": "In Simulated Universe: Swarm Disaster, achieve all goals in any Adventure domain",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092631,
+        "name": "Weyland-Yutani Investigator",
+        "desc": "In Simulated Universe: Swarm Disaster, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain with a Path other than Propagation for a total of 20 times",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092632,
+        "name": "Mass Relay",
+        "desc": "Have the Planar Disarray's Disruption Level at level 20 or higher when completing Simulated Universe: Swarm Disaster",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4090201,
         "name": "The First and Last Freedom",
-        "desc": "Enter battle with 4 allies with HP percentage equal to or less than <unbreak>#2[i]%</unbreak> in Simulated Universe",
+        "desc": "Enter battle with 4 allies with HP percentage equal to or less than <unbreak>0%</unbreak> in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2367,11 +2892,25 @@
         "version": "1.0"
       },
       {
+        "id": 4092636,
+        "name": "Silent Running",
+        "desc": "Clear all Swarm Disaster stories in Simulated Universe: Swarm Disaster",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
         "id": 4090204,
         "name": "Elemental Reaction System",
         "desc": "Deal 5 or more Types of DMG in a single action in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4092637,
+        "name": "Stranger in a Strange Land",
+        "desc": "Collect all Trailblaze Secrets stories in Simulated Universe: Swarm Disaster",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4090205,
@@ -2381,11 +2920,25 @@
         "version": "1.0"
       },
       {
+        "id": 4092638,
+        "name": "Nuke Them From Orbit",
+        "desc": "Complete Simulated Universe: Swarm Disaster Difficulty V",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4090206,
         "name": "Twenty Four Love Poems and a Song of Despair",
         "desc": "All allies have HP percentages equal to or less than 0% when winning a battle in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4092639,
+        "name": "Plague Across Eons",
+        "desc": "Collect chapter The Hunt I in Swarm Disaster",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4090207,
@@ -2395,11 +2948,25 @@
         "version": "1.0"
       },
       {
+        "id": 4092640,
+        "name": "A Dream of Babel",
+        "desc": "Collect chapter Preservation II in Swarm Disaster",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4090301,
         "name": "Good Night, My Friend",
         "desc": "Defeat 15 enemies in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4092641,
+        "name": "How One Becomes What One Is",
+        "desc": "Collect chapter Nihility I in Swarm Disaster",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4090303,

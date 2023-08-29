@@ -145,7 +145,7 @@
       {
         "id": 4012301,
         "name": "Équipement de souverain",
-        "desc": "Équiper un personnage avec des reliques 5 étoiles de niveau 15 dans tous ses emplacements de relique",
+        "desc": "Équiper des reliques 5 étoiles renforcées au Niv. 15 dans tous les emplacements de relique d'un personnage",
         "rarity": 3,
         "version": "1.0"
       }
@@ -163,7 +163,7 @@
       },
       {
         "id": 4020201,
-        "name": "Guide de la galaxie pour les passagers de l'Astral Express",
+        "name": "Le Guide du voyageur de l'Express galactique",
         "desc": "Obtenir 10 personnages",
         "rarity": 1,
         "version": "1.0"
@@ -253,7 +253,7 @@
       {
         "id": 4030101,
         "name": "Mon cœur repose avec les étoiles",
-        "desc": "Entamer un périple dans l'immensité de la galaxie\\n<color=#8790abff>※ Félicitations ! Vous avez embarqué à bord de l'Astral Express !</color>",
+        "desc": "Entamer un périple dans l'immensité du cosmos\\n<color=#8790abff>※ Félicitations ! Vous avez embarqué à bord de l'Astral Express !</color>",
         "rarity": 3,
         "version": "1.0"
       },
@@ -347,6 +347,13 @@
         "desc": "Tous les complots ont une fin.\\n<color=#8790abff>※ Aider Jing Yuan à vaincre Phantylie</color>",
         "rarity": 3,
         "version": "1.2"
+      },
+      {
+        "id": 4032601,
+        "name": "La vie est éphémère",
+        "desc": "Adieux au Luofu\\n<color=#8790abff>※ Participer à la cérémonie d'apaisement des âmes et former une alliance avec Xianzhou</color>",
+        "rarity": 2,
+        "version": "1.3"
       }
     ]
   },
@@ -426,7 +433,7 @@
       {
         "id": 4040601,
         "name": "Roi de l'embuscade",
-        "desc": "Entamer le combat avec une attaque du type correspondant 100 fois",
+        "desc": "Engager le combat avec une attaque du type correspondant 100 fois",
         "rarity": 1,
         "version": "1.0"
       },
@@ -653,11 +660,60 @@
     "name": "Souvenirs partagés",
     "achievements": [
       {
+        "id": 4052613,
+        "name": "Le poids de la vérité",
+        "desc": "Dire la vérité à Cléo à propos de Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052614,
+        "name": "Harmonie cachée",
+        "desc": "Cacher la vérité à Cléo à propos de Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052615,
+        "name": "Les vagues du tourment",
+        "desc": "Terminer la mission de compagnon « Total Recall »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052616,
+        "name": "Par-delà les frontières glacées",
+        "desc": "Terminer la mission de compagnon « Au-delà des Plaines des neiges »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052617,
+        "name": "Larmes du passé",
+        "desc": "Terminer la mission de compagnon « Le retour du dragon »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052618,
+        "name": "Seules les cendres subsistent",
+        "desc": "Terminer la mission de compagnon « Mon amour, ma chair, mon sang »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4051001,
         "name": "Devine qui c'est",
         "desc": "Terminer la mission de compagnon « Tu-me-connais-déjà »",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052603,
+        "name": "La paix en avant-première",
+        "desc": "Écouter l'intégralité de l'épisode 1 du programme de la Paix Interastrale",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4051002,
@@ -759,7 +815,7 @@
       },
       {
         "id": 4051103,
-        "name": "Une carte de <unbreak>17</unbreak> ans",
+        "name": "Une carte de 17 ans",
         "desc": "Trouver tous les éléments de lecture concernant Asta dans la mission « Le vide de Locus Silentii »",
         "rarity": 1,
         "version": "1.0"
@@ -885,7 +941,7 @@
       },
       {
         "id": 4080603,
-        "name": "<unbreak>50</unbreak> crédits ?",
+        "name": "50 crédits ?",
         "desc": "Récupérer tous les avis de recherche de l'équipage de l'Express à Belobog",
         "rarity": 1,
         "version": "1.0"
@@ -962,7 +1018,7 @@
       },
       {
         "id": 4052317,
-        "name": "<unbreak>12</unbreak> ans et plus",
+        "name": "12 ans et plus",
         "desc": "Participer au Tournoi du poing sombre et battre tous les adversaires",
         "rarity": 1,
         "version": "1.0"
@@ -973,6 +1029,13 @@
         "desc": "Remporter les 5 tournois de la Super ligue de la Ville de Boulder",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4052601,
+        "name": "Rendre à l'allée des Aurums ce qui appartient à l'allée des Aurums !",
+        "desc": "Terminer la mission « Les affaires reprennent (IV) » et remporter l'appel d'offres pour le quartier commercial de l'allée des Aurums",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4052318,
@@ -989,6 +1052,20 @@
         "version": "1.0"
       },
       {
+        "id": 4052604,
+        "name": "Aurum à bord",
+        "desc": "Charger 6 Gardiens aurumatons à bord de l'astroskiff de fret dans « Ramdam à l'allée des Aurums »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052605,
+        "name": "Le kiff des astroskiffs",
+        "desc": "{LAYOUT_MOBILE#Toucher}{LAYOUT_CONTROLLER#Appuyer sur}{LAYOUT_KEYBOARD#Cliquer sur} 24 astroskiffs de fret dans « Ramdam à l'allée des Aurums »",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
         "id": 4052320,
         "name": "La quatrième petite taupe",
         "desc": "Trouver tous les trésors cachés dans la mission « Les Taupes aventurières »",
@@ -996,11 +1073,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052606,
+        "name": "Corne d'abondance",
+        "desc": "Obtenir 1000000 de fonds pour le compte de la Guilde des commerçants de l'allée des Aurums dans « Ramdam à l'allée des Aurums »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052321,
-        "name": "<i>Les Taupes aventurières</i>, édition super adulte",
+        "name": "Les Taupes aventurières, édition super adulte",
         "desc": "Acheter <i>Les Taupes aventurières : le trésor caché</i> chez la libraire de Belobog",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052607,
+        "name": "Prêteur sur gages",
+        "desc": "Établir un partenariat avec monsieur Huo dans « Ramdam à l'allée des Aurums »",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4032309,
@@ -1017,11 +1108,25 @@
         "version": "1.1"
       },
       {
+        "id": 4052608,
+        "name": "Livraison automatique",
+        "desc": "Terminer une livraison personnalisée de Héron express dans « Ramdam à l'allée des Aurums »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052405,
         "name": "Arrête-moi si tu peux",
         "desc": "Ouvrir trois galeries au Musée de l'histoire et de la culture de Belobog",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052609,
+        "name": "À la recherche de l'arôme perdu",
+        "desc": "Terminer l'événement de rue « À la recherche de Truffie » dans « Ramdam à l'allée des Aurums »",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4052406,
@@ -1031,11 +1136,32 @@
         "version": "1.1"
       },
       {
+        "id": 4052610,
+        "name": "Placement d'avenir",
+        "desc": "Dépenser 1280000 de fonds pour le compte de la Guilde des commerçants dans « Ramdam à l'allée des Aurums »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052611,
+        "name": "Charge maximale atteinte",
+        "desc": "Charger 81 marchandises sur un astroskiff de fret dans « Ramdam à l'allée des Aurums »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052323,
         "name": "Un cœur simple",
         "desc": "Recevoir un message de Luhui après avoir terminé la mission « Licenciement »",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052612,
+        "name": "Un horizon pour le marché nocturne",
+        "desc": "Obtenir un score de planification d'itinéraire de 81 pour n'importe quel magasin dans « Ramdam à l'allée des Aurums »",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4052324,
@@ -1045,11 +1171,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052619,
+        "name": "Héron express a tout essayé...",
+        "desc": "Examiner tous les paquets spéciaux dans l'allée des Aurums",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052325,
         "name": "Cybercrime",
         "desc": "Faire en sorte que la Beauté foxienne se dénonce durant la mission « Bons baisers de Xianzhou »",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052620,
+        "name": "L'Infiltré",
+        "desc": "Être témoin de l'histoire de l'identité cachée de Yongren",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4052326,
@@ -1372,7 +1512,7 @@
       {
         "id": 4070201,
         "name": "Ça passe ou ça casse",
-        "desc": "Infliger #2[i] Ruptures de faiblesse au même ennemi au cours d'un même combat",
+        "desc": "Infliger 4 Ruptures de faiblesse au même ennemi au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1442,7 +1582,7 @@
       {
         "id": 4070502,
         "name": "Souvenir, chagrin et épines",
-        "desc": "Infliger #2[i] effets de dégâts sur la durée en même temps à <unbreak>1</unbreak> ennemi",
+        "desc": "Infliger 4 effets de dégâts sur la durée en même temps à <unbreak>1</unbreak> ennemi",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1455,7 +1595,7 @@
       },
       {
         "id": 4070602,
-        "name": "Fahrenheit <unbreak>451</unbreak>",
+        "name": "Fahrenheit 451",
         "desc": "Vaincre 3 ennemis avec des DGT de rupture de feu au cours d'un même combat",
         "rarity": 1,
         "version": "1.0"
@@ -1666,7 +1806,7 @@
       {
         "id": 4071001,
         "name": "Congélateur perpétuel",
-        "desc": "Geler 1 ennemi pendant <unbreak>#2[i]</unbreak> tours d'affilée",
+        "desc": "Geler 1 ennemi pendant <unbreak>3</unbreak> tours d'affilée",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1680,7 +1820,7 @@
       {
         "id": 4071003,
         "name": "1 contre 1",
-        "desc": "Lancer le combat avec 4 personnages mais gagner avec seulement <unbreak>#2[i]</unbreak> personnage encore debout",
+        "desc": "Engager le combat avec 4 personnages mais gagner avec seulement <unbreak>1</unbreak> personnage encore debout",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1771,7 +1911,7 @@
       {
         "id": 4071018,
         "name": "Usine à gaz",
-        "desc": "Infliger #2[i] DGT ou plus à un ennemi dont les PV sont inférieurs ou égaux à <unbreak>0%</unbreak> en une seule action",
+        "desc": "Infliger 20000 DGT ou plus à un ennemi dont les PV sont inférieurs ou égaux à <unbreak>0%</unbreak> en une seule action",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1932,7 +2072,7 @@
       {
         "id": 4072018,
         "name": "Calme plat",
-        "desc": "Empêcher le Portefoudre d'utiliser Ouragan opportuniste, car aucun allié n'est affecté par Faille du vent",
+        "desc": "Empêcher le Portefoudre d'utiliser Tempête de vent, car aucun allié n'est affecté par Faille du vent",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1988,7 +2128,7 @@
       {
         "id": 4072101,
         "name": "Amnésie accidentelle",
-        "desc": "Vider la Récupération de la jauge de l'Ombre en décomposition, l'empêchant d'utiliser sa capacité Libération de l'âge d'or",
+        "desc": "Vider la Jauge de Réminiscence de l'Ombre en décomposition, l'empêchant d'utiliser sa capacité Libération de l'âge d'or",
         "rarity": 2,
         "version": "1.0"
       },
@@ -2023,7 +2163,7 @@
       {
         "id": 4072402,
         "name": "Quand le prédateur devient la proie",
-        "desc": "Infliger une Faiblesse 2 fois à Kafka avec Louve d'argent pendant un combat",
+        "desc": "Infliger 2 Faiblesse à Kafka avec Louve d'argent pendant un combat",
         "rarity": 1,
         "version": "1.1"
       },
@@ -2051,7 +2191,7 @@
       {
         "id": 4072504,
         "name": "Désir inassouvi",
-        "desc": "Ce n'était pas nécessaire.\\n<color=#8790abff>※ Lorsque les PV de Blade sont inférieurs ou égaux à 0%, les faire passer à <unbreak>30</unbreak> % ou plus en une seule action <unbreak>#2[i]</unbreak> fois au cours d'un même combat</color>",
+        "desc": "Ce n'était pas nécessaire.\\n<color=#8790abff>※ Lorsque les PV de Blade sont inférieurs ou égaux à 0%, les faire passer à <unbreak>30</unbreak> % ou plus en une seule action <unbreak>2</unbreak> fois au cours d'un même combat</color>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -2075,6 +2215,76 @@
         "desc": "Utiliser Kafka pour combattre Kafka et subir son effet Dominé",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4072601,
+        "name": "Briseuse de glace",
+        "desc": "Vaincre un ennemi gelé avec Lynx",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072603,
+        "name": "Danse martiale : Épreuve de l'épée",
+        "desc": "Utiliser Sushang pour infliger le coup de grâce lors d'une victoire contre Yanqing",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072604,
+        "name": "Danse martiale : Épreuve du fleuret",
+        "desc": "Utiliser Luocha pour infliger le coup de grâce lors d'une victoire contre Yanqing",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072605,
+        "name": "Insecticide",
+        "desc": "Utiliser l'Élégie de l'entomon d'un Aiguillon inférieur ou juvénile pour vaincre l'Aiguillon cinglant de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072606,
+        "name": "Je suis l'Essaim",
+        "desc": "L'Aiguillon cinglant de l'Essaim utilise Assaut de l'Essaim sans qu'il y ait d'Aiguillon juvénile ou inférieur sur le champ de bataille",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072607,
+        "name": "Ce ne sont que des insectes",
+        "desc": "Vaincre simultanément 2 Aiguillons cinglants de l'Essaim en une seule attaque",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072608,
+        "name": "Danse martiale : Épreuve du glaive",
+        "desc": "Utiliser Jing Yuan pour porter le coup de grâce lors d'une victoire contre Yanqing",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072610,
+        "name": "Triple Dragon",
+        "desc": "Utiliser Bond fulgurant pendant le tour de Dan Heng • Imbibitor Lunae 3 fois consécutives au cours d'un même combat",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072611,
+        "name": "Pro de la survie",
+        "desc": "Utiliser Lynx pour augmenter les PV max des alliés 3 fois au cours d'un même combat",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072612,
+        "name": "Une petite partie de loto ?",
+        "desc": "Déclencher l'effet de restauration de PV du talent de Fu Xuan, Coup du sort, 4 fois au cours d'un même combat",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   },
@@ -2224,98 +2434,98 @@
       {
         "id": 4070904,
         "name": "Pour le Seigneur de l'Ambre",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de la Préservation",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de la Préservation",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070905,
         "name": "Ordre d'extermination",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de la Destruction",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de la Destruction",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070906,
         "name": "L'Alliance Xianzhou",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de la Chasse",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de la Chasse",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070907,
         "name": "Succès vide de sens",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de la Nihilité",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de la Nihilité",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070908,
         "name": "La grande osmose",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de l'Harmonie",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de l'Harmonie",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070909,
         "name": "Scientia potentia est",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de l'Érudition",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de l'Érudition",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070910,
         "name": "Les miracles de Yaoshi",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de l'Abondance",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de la Voie de l'Abondance",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070911,
         "name": "Suppression tempétueuse",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de type vent",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de type vent",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070912,
         "name": "Assaut fulgurant",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de type foudre",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de type foudre",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070913,
         "name": "Conflagration totale",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de type feu",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de type feu",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070914,
         "name": "Souverain des glaces",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de type glace",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de type glace",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070915,
         "name": "Expérience quantique",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de type quantique",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de type quantique",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070916,
         "name": "Loi imaginaire",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de type imaginaire",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de type imaginaire",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070917,
         "name": "Mes poings parlent pour moi",
-        "desc": "Remporter #2[i] combats avec une équipe composée de <unbreak>4</unbreak> personnages de type physique",
+        "desc": "Remporter 10 combats avec une équipe composée de <unbreak>4</unbreak> personnages de type physique",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2339,6 +2549,76 @@
         "desc": "Remporter un combat avec une équipe composée de Natasha, Seele, et Luka",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4082601,
+        "name": "Nerfs d'acier",
+        "desc": "Résister 15 secondes sans engager le combat alors que vous êtes poursuivi par l'ennemi",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082602,
+        "name": "C'est toujours mieux que de l'eau",
+        "desc": "Boire du « Délice de l'immortel » pendant 3 jours consécutifs",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082603,
+        "name": "Gourmet du Luofu",
+        "desc": "Boire du « soda aux haricots mungo » pendant 3 jours consécutifs",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082604,
+        "name": "C'est juste une image",
+        "desc": "Modifier le fond d'écran du téléphone pour la première fois",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082605,
+        "name": "L'art transcende le langage",
+        "desc": "Modifier les messages et les fenêtres de discussion pour la première fois",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082606,
+        "name": "Vous êtes tombé dans le Pom-Pom !",
+        "desc": "Envoyer des autocollants de Pom-Pom à 5 amis",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082607,
+        "name": "Astral Express-ion",
+        "desc": "Envoyer des autocollants de l'équipage de l'Astral Express à 20 amis",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082608,
+        "name": "D'un autre moi du bout du monde",
+        "desc": "Recevoir un autocollant d'un Pionnier du sexe opposé",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072602,
+        "name": "Au nom des Landau",
+        "desc": "Remporter un combat avec une équipe composée de Serval, Gepard et Lynx",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072609,
+        "name": "Full Metal Racket",
+        "desc": "Engager le combat en phase d'exploration en attaquant un ennemi à distance avec Natasha",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   },
@@ -2346,9 +2626,254 @@
     "name": "L'Univers dans une coquille de noix",
     "achievements": [
       {
+        "id": 4092635,
+        "name": "Les Quatre Cents Coups",
+        "desc": "Utiliser l'ATQ normale au moins 40 fois au cours d'un même combat et remporter la victoire dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092633,
+        "name": "Volonté de la ruche",
+        "desc": "Débloquer 12 bénédictions de la Propagation dans l'Univers simulé",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092634,
+        "name": "Phase 4",
+        "desc": "Terminer l'Univers simulé avec au moins 10 bénédictions de la Propagation",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092601,
+        "name": "Spring in Fialta",
+        "desc": "Terminer le Désastre de l'Essaim avec 12 Bonheurs de types différents en suivant la Voie de la l'Allégresse",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092602,
+        "name": "The Hunter Games",
+        "desc": "Capturer 8 Magorets en combattant dans le même plan tout en suivant la Voie de la Chasse dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092603,
+        "name": "Les Chroniques de l'Asphalte",
+        "desc": "Utiliser la Voie du Souvenir pour copier une zone de récompense 6 fois consécutives dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092604,
+        "name": "The Predator",
+        "desc": "Terminer le Désastre de l'Essaim avec 40 victoires en combat en suivant la Voie de la Destruction",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092605,
+        "name": "L'échange symbolique et la mort",
+        "desc": "Terminer le Désastre de l'Essaim en étant entré 15 fois dans une zone de néant en suivant la Voie de la Nihilité",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092606,
+        "name": "L'Univers simulé ne s'est pas fait en un jour",
+        "desc": "Terminer le Désastre de l'Essaim en ayant appliqué Pierre angulaire à 8 zones de types différents en suivant la Voie de la Préservation",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092607,
+        "name": "L'heure de vérité",
+        "desc": "Terminer le Désastre de l'Essaim avec un compte à rebours supérieur ou égal à 80 en suivant la Voie de l'Abondance",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092608,
+        "name": "Retour à Klendathu",
+        "desc": "Terminer le Désastre de l'Essaim en étant entré dans des zones de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim 15 fois en suivant la Voie de la Propagation",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092609,
+        "name": "Bienvenue chez les fous",
+        "desc": "Lancer le dé d'audience de l'Allégresse un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092610,
+        "name": "Faire parler la poudre",
+        "desc": "Lancer le dé d'audience de la Chasse un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092611,
+        "name": "L'Éternité et un jour",
+        "desc": "Lancer le dé d'audience du Souvenir un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092612,
+        "name": "Le Monde comme représentation",
+        "desc": "Lancer le dé d'audience de la Nihilité un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092613,
+        "name": "Politique de la terre brûlée",
+        "desc": "Lancer le dé d'audience de la Destruction un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092614,
+        "name": "Samantabhadra",
+        "desc": "Lancer le dé d'audience de l'Abondance un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092615,
+        "name": "Nucléation homogène",
+        "desc": "Lancer le dé d'audience de la Préservation un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092616,
+        "name": "Les Enfants de Mathusalem",
+        "desc": "Lancer le dé d'audience de la Propagation un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092617,
+        "name": "Trésorier de la banque de données",
+        "desc": "Terminer le Désastre de l'Essaim avec au moins 9999 fragments cosmiques",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092618,
+        "name": "Love & the Emperor",
+        "desc": "<u>Obtenir des pouvoirs illimités</u> dans la Saga de la CPI du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092619,
+        "name": "Q",
+        "desc": "Acheter tous les objets de la boutique de bénédictions et de la boutique de bizarreries dans la même zone de transaction dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092620,
+        "name": "Bienvenue au Valhalla",
+        "desc": "Échouer lors de la bataille déclenchée par l'événement Yu Qingtu, membre n°55 de la Société des génies dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092621,
+        "name": "Je vais tout casser II",
+        "desc": "Détruire au moins 100 objets destructibles dans une session du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092622,
+        "name": "Attrapez-les tous !",
+        "desc": "Capturer au moins 16 Magorets dans une zone d'aventure du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092623,
+        "name": "Chambre du destin",
+        "desc": "Illuminer 1 Sentiers de l'Éclaireur dissimulés dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092624,
+        "name": "Concerto pour une voix",
+        "desc": "Générer 2 Combinaisons de résonance en une seule session du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092625,
+        "name": "Être ou ne pas être",
+        "desc": "Faire 1 choix des Voies dans des zones d'événement du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092626,
+        "name": "Cadran de la destinée",
+        "desc": "Terminer tous les choix des Voies des zones d'événement du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092627,
+        "name": "Les Mondes futurs",
+        "desc": "Tricher 10 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092628,
+        "name": "Retour vers le futur",
+        "desc": "Relancer le dé 50 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092629,
+        "name": "La Fin de l'Éternité",
+        "desc": "Entrer dans une zone de néant avec une Voie autre que la Nihilité dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092630,
+        "name": "Sur la comète",
+        "desc": "Terminer tous les objectifs de n'importe quelle zone d'aventure du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092631,
+        "name": "Enquêteur de Weyland-Yutani",
+        "desc": "Entrer dans une zone de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim en suivant une Voie autre que la Propagation 20 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092632,
+        "name": "Relais cosmodésique",
+        "desc": "Terminer le Désastre de l'Essaim avec la Rupture planaire au Niv. 20 ou plus",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4090201,
         "name": "La première et ultime liberté",
-        "desc": "Engager un combat avec 4 alliés dont le pourcentage de PV est inférieur ou égal à <unbreak>#2[i]%</unbreak> dans l'Univers simulé",
+        "desc": "Engager le combat avec 4 alliés dont le pourcentage de PV est inférieur ou égal à <unbreak>0%</unbreak> dans l'Univers simulé",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2367,11 +2892,25 @@
         "version": "1.0"
       },
       {
+        "id": 4092636,
+        "name": "Silent Running",
+        "desc": "Terminer toutes les histoires du Désastre de l'Essaim",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
         "id": 4090204,
         "name": "Réactions en chaîne",
         "desc": "Infliger au moins 5 types de DGT en une seule action dans l'Univers simulé",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4092637,
+        "name": "En terre étrangère",
+        "desc": "Récupérer tous les secrets de pionnier dans le Désastre de l'Essaim",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4090205,
@@ -2381,11 +2920,25 @@
         "version": "1.0"
       },
       {
+        "id": 4092638,
+        "name": "Nuke it from orbit !",
+        "desc": "Terminer le Désastre de l'Essaim au niveau de difficulté V",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4090206,
         "name": "Vingt-quatre poèmes d'amour et une ode au désespoir",
         "desc": "Le pourcentage de PV de tous les alliés est inférieur ou égal à 0% lorsque vous remportez un combat dans l'Univers simulé",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4092639,
+        "name": "La peste à travers les éons",
+        "desc": "Récupérer le chapitre « La Chasse I » dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4090207,
@@ -2395,11 +2948,25 @@
         "version": "1.0"
       },
       {
+        "id": 4092640,
+        "name": "Tour de Babel",
+        "desc": "Récupérer le chapitre « La Préservation II » dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4090301,
         "name": "Bonne nuit, camarade",
         "desc": "Éliminer 15 ennemis dans l'Univers simulé",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4092641,
+        "name": "Comment on devient ce que l'on est",
+        "desc": "Récupérer le chapitre « La Nihilité I » dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4090303,
@@ -2564,7 +3131,7 @@
       },
       {
         "id": 4092327,
-        "name": "Je vais tout casser !",
+        "name": "Je vais tout casser",
         "desc": "Débloquer 12 bénédictions de la Destruction dans l'Univers simulé",
         "rarity": 1,
         "version": "1.0"
@@ -2585,7 +3152,7 @@
       },
       {
         "id": 4092330,
-        "name": "Bug de l'an <unbreak>2000</unbreak> préservé dans l'ambre",
+        "name": "Bug de l'an 2000 préservé dans l'ambre",
         "desc": "Terminer l'Univers simulé avec au moins 10 bénédictions de la Préservation",
         "rarity": 1,
         "version": "1.0"
@@ -2677,7 +3244,7 @@
       {
         "id": 4092343,
         "name": "Quel plaisir d'être riche !",
-        "desc": "Terminer l'Univers simulé avec au moins 1024 fragment cosmique",
+        "desc": "Terminer l'Univers simulé avec au moins 1024 fragments cosmiques",
         "rarity": 1,
         "version": "1.0"
       },

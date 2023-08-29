@@ -145,7 +145,7 @@
       {
         "id": 4012301,
         "name": "Armadura Soberana",
-        "desc": "Equipe um personagem com Relíquias de 5 estrelas de Nv. 15 em todos os espaços de Relíquia",
+        "desc": "Equipe Relíquias de 5 estrelas aprimoradas até o Nv. 15 em todos os espaços de Relíquia de um personagem",
         "rarity": 3,
         "version": "1.0"
       }
@@ -253,7 +253,7 @@
       {
         "id": 4030101,
         "name": "Meu Coração Está Com as Estrelas",
-        "desc": "Saia numa jornada pela vasta Galáxia\\n<color=#8790abff>※ Parabéns! Você embarcou no Expresso Astral!</color>",
+        "desc": "Parta em uma jornada pelo vasto cosmos\\n<color=#8790abff>※ Parabéns! Você embarcou no Expresso Astral!</color>",
         "rarity": 3,
         "version": "1.0"
       },
@@ -347,6 +347,13 @@
         "desc": "Todos os planos devem ser subjugados\\n<color=#8790abff>※ Ajude Jing Yuan a derrotar Phantylia</color>",
         "rarity": 3,
         "version": "1.2"
+      },
+      {
+        "id": 4032601,
+        "name": "Os Vivos São Transitórios",
+        "desc": "Até Logo, Luofu do Xianzhou\\n<color=#8790abff>※ Participe da cerimônia de apaziguamento de espírito e forme uma aliança com o Xianzhou</color>",
+        "rarity": 2,
+        "version": "1.3"
       }
     ]
   },
@@ -635,7 +642,7 @@
       },
       {
         "id": 4042505,
-        "name": "Avaliação de <i>Unboxing</i>",
+        "name": "Avaliação de Unboxing",
         "desc": "Não há inspetor de entrega de pacotes mais confiável que você",
         "rarity": 1,
         "version": "1.2"
@@ -653,11 +660,60 @@
     "name": "As Memórias que Compartilhamos",
     "achievements": [
       {
+        "id": 4052613,
+        "name": "Desbravador Honesto",
+        "desc": "Conte para Cleo a verdade sobre Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052614,
+        "name": "Harmonia Oculta",
+        "desc": "Esconda de Cleo a verdade sobre Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052615,
+        "name": "O Sabor do Rio dos Mortos é Amargo",
+        "desc": "Conclua a Missão de Companheiro \"O Vingador do Futuro\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052616,
+        "name": "Além das Fronteiras Congeladas",
+        "desc": "Conclua a Missão de Companheiro \"Mais Longe que as Planícies Nevadas\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052617,
+        "name": "Sereno de Outrora",
+        "desc": "Conclua a Missão de Companheiro \"O Dragão Retorna ao Lar\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052618,
+        "name": "Restam Apenas Cinzas",
+        "desc": "Conclua a Missão de Companheiro \"Mo Cuishle\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4051001,
         "name": "Adivinhe Quem Eu Sou",
         "desc": "Conclua a Missão de Companheiro \"Você Já me Conhece\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052603,
+        "name": "Tempo Pacífico",
+        "desc": "Escute todo o Episódio N.º 1 da Transmissão da Paz Interastral",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4051002,
@@ -885,7 +941,7 @@
       },
       {
         "id": 4080603,
-        "name": "<unbreak>50</unbreak> Créditos?!",
+        "name": "50 Créditos?!",
         "desc": "Colete todos os cartazes de procurados da Tripulação do Expresso em Belobog",
         "rarity": 1,
         "version": "1.0"
@@ -962,7 +1018,7 @@
       },
       {
         "id": 4052317,
-        "name": "Para Maiores de <unbreak>12</unbreak> Anos",
+        "name": "Para Maiores de 12 Anos",
         "desc": "Participe do Torneio Punho Sombrio e alcance a vitória",
         "rarity": 1,
         "version": "1.0"
@@ -973,6 +1029,13 @@
         "desc": "Domine todos os 5 torneios na Superliga da Vila do Rochedo",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4052601,
+        "name": "Faça o Beco Aurum Prosperar Novamente!",
+        "desc": "Conclua a missão \"De Volta aos Negócios IV\" e vença a licitação do Distrito Comercial do Beco Aurum",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4052318,
@@ -989,6 +1052,20 @@
         "version": "1.0"
       },
       {
+        "id": 4052604,
+        "name": "Esquife Estelar de Tróia",
+        "desc": "Amontoe 6 Guarda(s) Aurumaton no esquife estelar de carga em \"Agitação do Beco Aurum\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052605,
+        "name": "Superado por Ninguém",
+        "desc": "{LAYOUT_MOBILE#Toque}{LAYOUT_CONTROLLER#Pressione}{LAYOUT_KEYBOARD#Clique} em 24 esquife(s) estelar(es) de carga em \"Agitação do Beco Aurum\"",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
         "id": 4052320,
         "name": "A Quarta Toupeirinha",
         "desc": "Encontre todos os tesouros escondidos na missão \"As Toupeiras Aventureiras\"",
@@ -996,11 +1073,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052606,
+        "name": "Chifre da Fartura",
+        "desc": "Obtenha 1000000 em fundos para a Guilda de Comerciantes do Beco Aurum em \"Agitação do Beco Aurum\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052321,
         "name": "\"As Toupeiras Aventureiras\" Edição Superadultos",
         "desc": "Compre \"As Toupeiras Aventureiras: Tesouro Escondido\" com o comerciante de livros de Belobog",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052607,
+        "name": "Loja de Penhores Nº8",
+        "desc": "Estabeleça uma colaboração com o Sr. Huo em \"Agitação do Beco Aurum\"",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4032309,
@@ -1017,11 +1108,25 @@
         "version": "1.1"
       },
       {
+        "id": 4052608,
+        "name": "Dínamo de Entrega",
+        "desc": "Conclua um pedido de entrega personalizado da Garça Expressa em Agitação do Beco Aurum",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052405,
         "name": "Pegue-me Se For Capaz",
         "desc": "Abra as três áreas de exibição do Museu de História e Cultura de Belobog",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4052609,
+        "name": "Buscou Sabores Distantes, Encontrou Sabores Farsantes",
+        "desc": "Conclua o Evento de Rua \"A Procura do Diting\" em \"Agitação do Beco Aurum\"",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4052406,
@@ -1031,11 +1136,32 @@
         "version": "1.1"
       },
       {
+        "id": 4052610,
+        "name": "Fundos Gastos, Fortunas Expandidas",
+        "desc": "Gaste 1280000 dos fundos da Guilda dos Comerciantes em \"Agitação do Beco Aurum\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052611,
+        "name": "Acumulador Estelar",
+        "desc": "Arranje 81 unidades de mercadorias de inventário em um único esquife estelar de carga em Agitação do Beco Aurum",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052323,
         "name": "Uma Vida Simples",
         "desc": "Receba uma mensagem de Luhui após concluir a missão \"Demissão\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052612,
+        "name": "Mercados: Skyline",
+        "desc": "Em \"Agitação do Beco Aurum\", alcance uma pontuação de 81 no planejamento da pista de entrega para qualquer loja",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4052324,
@@ -1045,11 +1171,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052619,
+        "name": "Garça Expressa: Nós Tentamos, Nós Realmente Tentamos",
+        "desc": "Investigue todos os Pacotes de Entrega Especial no Beco Aurum",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4052325,
         "name": "Fraude Cibernética",
         "desc": "Faça a Beldade Vulpe se render durante a missão \"Do Xianzhou com Amor\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052620,
+        "name": "Os Que Partiram São Com Quem Falamos",
+        "desc": "Testemunhe a história da identidade secreta de Yongren",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4052326,
@@ -1372,7 +1512,7 @@
       {
         "id": 4070201,
         "name": "Quebre Até Quebrar",
-        "desc": "Cause Quebra de Fraqueza #2[i] vez(es) no mesmo inimigo em uma única batalha",
+        "desc": "Cause Quebra de Fraqueza 4 vez(es) no mesmo inimigo em uma única batalha",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1442,7 +1582,7 @@
       {
         "id": 4070502,
         "name": "Memória, Arrependimento e Espinhos",
-        "desc": "Inflija #2[i] tipos de Dano Contínuo em <unbreak>1</unbreak> inimigo(s) ao mesmo tempo",
+        "desc": "Inflija 4 tipos de Dano Contínuo em <unbreak>1</unbreak> inimigo(s) ao mesmo tempo",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1455,7 +1595,7 @@
       },
       {
         "id": 4070602,
-        "name": "Fahrenheit <unbreak>451</unbreak>",
+        "name": "Fahrenheit 451",
         "desc": "Derrote 3 inimigo(s) com Dano de Quebra de Fogo em uma única batalha",
         "rarity": 1,
         "version": "1.0"
@@ -1666,7 +1806,7 @@
       {
         "id": 4071001,
         "name": "Congelador Perpétuo",
-        "desc": "Congele 1 inimigo(s) por <unbreak>#2[i]</unbreak> rodadas seguidas",
+        "desc": "Congele 1 inimigo(s) por <unbreak>3</unbreak> rodadas seguidas",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1680,7 +1820,7 @@
       {
         "id": 4071003,
         "name": "Um Contra Um",
-        "desc": "Comece o combate com 4 personagem(ns), mas vença com apenas <unbreak>#2[i]</unbreak> personagem(ns) restantes",
+        "desc": "Comece o combate com 4 personagem(ns), mas vença com apenas <unbreak>1</unbreak> personagem(ns) restantes",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1771,7 +1911,7 @@
       {
         "id": 4071018,
         "name": "Levar Uma Pistola para uma Briga de Facas",
-        "desc": "Cause #2[i] ou mais de Dano com uma única ação a um inimigo com PV igual ou menor que <unbreak>0%</unbreak>.",
+        "desc": "Cause 20000 ou mais de Dano com uma única ação a um inimigo com PV igual ou menor que <unbreak>0%</unbreak>.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1904,7 +2044,7 @@
       {
         "id": 4072013,
         "name": "Acerte Onde Mais Dói",
-        "desc": "Derrote a Máquina Antimatéria sem derrotar as mãos da Besta do Fim dos Mundos ou o Eco da Guerra",
+        "desc": "Derrote a Máquina Antimatéria sem derrotar as mãos da Besta do Fim dos Mundos no Eco da Guerra",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2023,7 +2163,7 @@
       {
         "id": 4072402,
         "name": "Quando a Caça se Torna o Caçador",
-        "desc": "Use a Loba Prateada para lutar contra Kafka inimiga e aplicar 2 Fraqueza(s) a ela em uma única batalha",
+        "desc": "Use a Loba Prateada para lutar contra a Kafka inimiga e aplicar 2 Fraqueza(s) a ela em uma única batalha",
         "rarity": 1,
         "version": "1.1"
       },
@@ -2051,7 +2191,7 @@
       {
         "id": 4072504,
         "name": "Desejo Não Realizado",
-        "desc": "\"Desnecessário\"\\n<color=#8790abff>※ Em uma única batalha, use o personagem Blade para restaurar seus PV de uma quantidade menor ou igual a 0% até uma quantidade maior ou igual a <unbreak>30%</unbreak>, em uma única ação <unbreak>#2[i]</unbreak> vez(es)</color>",
+        "desc": "\"Desnecessário\"\\n<color=#8790abff>※ Em uma única batalha, use o personagem Blade para restaurar seus PV de uma quantidade menor ou igual a 0% até uma quantidade maior ou igual a <unbreak>30%</unbreak>, em uma única ação <unbreak>2</unbreak> vez(es)</color>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -2075,6 +2215,76 @@
         "desc": "Use uma Kafka aliada em combate contra a chefe Kafka e faça com que ela sofra Dominação pela Kafka inimiga",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4072601,
+        "name": "Quebra-Gelo",
+        "desc": "Derrote um inimigo com Congelamento usando Lynx",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072603,
+        "name": "Dança da Guerra: Provação da Grandespada",
+        "desc": "Use Sushang para realizar o último golpe em uma vitória contra Yanqing",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072604,
+        "name": "Dança da Guerra: Provação do Sabre",
+        "desc": "Use Luocha para realizar o último golpe em uma vitória contra Yanqing",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072605,
+        "name": "Destruidor de Besouros",
+        "desc": "Use a Elegia Entomológica da Ferroada Menor ou uma Ferroada Juvenil para derrotar \"O Enxame: Ferroada Verdadeira\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072606,
+        "name": "Eu sou o Enxame",
+        "desc": "Quando \"O Enxame: Ferroada Verdadeira\" utiliza Massacre do Enxame, não existe nenhuma Ferroada Menor ou Ferroada Juvenil no campo de batalha",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072607,
+        "name": "Apenas um Inseto",
+        "desc": "Em um único ataque, derrote simultaneamente \"O Enxame: Ferroada Verdadeira\" ×2",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072608,
+        "name": "Dança da Guerra: Provação do Gládio",
+        "desc": "Use Jing Yuan para realizar o último golpe em uma vitória contra Yanqing",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072610,
+        "name": "Trio de Dragões",
+        "desc": "Use o Salto Fulgurante durante a rodada de Dan Heng - Embebidor Lunae 3 vezes consecutivas em uma única batalha",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072611,
+        "name": "Sobrevivência, Sobrevivência, Sobrevivência",
+        "desc": "Use Lynx para aumentar os PV máximos dos aliados 3 vezes na mesma batalha",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072612,
+        "name": "Ha, Grande Loteria Cósmica?",
+        "desc": "Em uma única batalha, acione o efeito de restauração de PV do Talento \"Das Sombras à Alegria\" de Fu Xuan um total de 4 vezes",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   },
@@ -2224,98 +2434,98 @@
       {
         "id": 4070904,
         "name": "Pela Majestade Âmbar",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Preservação",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Preservação",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070905,
         "name": "Ablução Máxima",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Destruição",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Destruição",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070906,
         "name": "Aliança Xianzhou",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Caça",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Caça",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070907,
         "name": "Conquista Sem Sentido",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Inexistência",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Inexistência",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070908,
         "name": "O Grande Acorde",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Harmonia",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Harmonia",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070909,
         "name": "Conhecimento É Poder",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Erudição",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Erudição",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070910,
         "name": "Milagres de Yaoshi",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Abundância",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) seguindo o Caminho da Abundância",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070911,
         "name": "Supressão Tempestuosa",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Vento",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Vento",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070912,
         "name": "Acionador de Fulguração",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Raio",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Raio",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070913,
         "name": "Conflagração Total",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Fogo",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Fogo",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070914,
         "name": "Dinastia Glacial",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Gelo",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Gelo",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070915,
         "name": "Teste Quântico",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Quântico",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Quântico",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070916,
         "name": "Lei Imaginária",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Imaginário",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Imaginário",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070917,
         "name": "Fale Com os Punhos",
-        "desc": "Vença #2[i] batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Físico",
+        "desc": "Vença 10 batalha(s) com uma equipe que tenha <unbreak>4</unbreak> personagem(ns) do tipo Físico",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2339,6 +2549,76 @@
         "desc": "Vença 1 batalha com uma equipe contendo Natasha, Seele e Luka",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4082601,
+        "name": "Calma Aí",
+        "desc": "Persista por 15 segundos sem entrar em combate enquanto é perseguido por um inimigo.",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082602,
+        "name": "O Chá é Mais Grosso que a Água",
+        "desc": "Beba Alegria do Imortal diariamente por 3 dias consecutivos",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082603,
+        "name": "Guloso do Luofu",
+        "desc": "Beba Refrigerante de Feijão Mungo diariamente por 3 dias consecutivos",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082604,
+        "name": "É Só uma Foto",
+        "desc": "Troque o Papel de Parede do Celular pela primeira vez",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082605,
+        "name": "A Arte Transcende a Linguagem",
+        "desc": "Troque as caixas de Mensagens e de Bate-Papo pela primeira vez",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082606,
+        "name": "Você foi Pomzado!",
+        "desc": "Envie um total de 5 figurinhas do Pom-Pom para amigos",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082607,
+        "name": "Express-ão Astral",
+        "desc": "Envie um total de 20 figurinhas dos Membros do Expresso Astral",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4082608,
+        "name": "Para o Outro Eu",
+        "desc": "Receba uma figurinha de um Desbravador de gênero oposto",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072602,
+        "name": "Em Nome dos Landaus",
+        "desc": "Vença uma batalha com uma equipe composta por Serval, Gepard e Lynx",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4072609,
+        "name": "Raquete de Aço",
+        "desc": "Entre em uma batalha atacando um inimigo distante com Natasha durante a exploração",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   },
@@ -2346,9 +2626,254 @@
     "name": "Universo Lacônico",
     "achievements": [
       {
+        "id": 4092635,
+        "name": "Os 400 Golpes",
+        "desc": "Use o ATQ Básico pelo menos 40 vezes e ganhe em uma única batalha no Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092633,
+        "name": "Desejo da Colmeia",
+        "desc": "Desbloqueie 12 Bênção(s) da Propagação no Universo Simulado",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092634,
+        "name": "A Quarta Fase",
+        "desc": "Tenha 10 ou mais Bênção(s) da Propagação ao concluir o Universo Simulado",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092601,
+        "name": "\"Primavera em Fialta\"",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Euforia, conquiste um total de 12 tipos diferentes de Felicidade",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092602,
+        "name": "Jogos Sagazes",
+        "desc": "No Universo Simulado: O Desastre do Enxame, capture 8 Cofrinhos ao batalhar no mesmo plano enquanto segue o Caminho da Caça",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092603,
+        "name": "Histórias de Macadâmia",
+        "desc": "No Universo Simulado: O Desastre do Enxame, use o Caminho da Recordação para copiar consecutivamente uma Recompensa de Domínio 6 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092604,
+        "name": "O Predador",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Destruição, conquiste 40 vitórias em batalha",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092605,
+        "name": "Morte e Troca Simbólicas",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Inexistência, entre em um domínio Vazio 15 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092606,
+        "name": "O Universo Simulado Não Foi Feito em um Dia",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Preservação, aplique Alicerce em 8 domínios de tipos diferentes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092607,
+        "name": "Bem na Hora",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Abundância, a Contagem Regressiva restante é maior ou igual a 80",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092608,
+        "name": "De Volta a Klendathu",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Propagação, entre no domínio Combate: O Enxame, Ocorrência: O Enxame ou Chefe: O Enxame 15 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092609,
+        "name": "\"Bem-Vindo à Casa do Macaco\"",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Euforia\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092610,
+        "name": "Granizos Espalhados, Fantasmas Despedaçados",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Caça\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092611,
+        "name": "Eternidade e um Dia",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Recordação\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092612,
+        "name": "O Mundo como Representação",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Inexistência\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092613,
+        "name": "Terra Arrasada",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Destruição\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092614,
+        "name": "Escute, Desperte, Viva",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Abundância\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092615,
+        "name": "Nucleação Homogênea",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Preservação\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092616,
+        "name": "Filhos de Methuselah",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Propagação\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092617,
+        "name": "Supervisor do Banco de Dados",
+        "desc": "Tenha 9999 Fragmento(s) Cósmico(s) ou mais ao concluir o Universo Simulado: O Desastre do Enxame",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092618,
+        "name": "Amor e o Imperador",
+        "desc": "<u>Maneje poder ilimitado</u> na Saga de Promoção da CPI do Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092619,
+        "name": "Q",
+        "desc": "No Universo Simulado: O Desastre do Enxame, compre todos os itens na Loja de Bênçãos e na Loja de Curios no mesmo domínio de Transação",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092620,
+        "name": "Bem-Vindo à Valhalla",
+        "desc": "No Universo Simulado: O Desastre do Enxame, seja derrotado na batalha acionada pelo evento de Yu Qingtu, #55 da Sociedade de Gênios",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092621,
+        "name": "Detona Você II",
+        "desc": "Em uma ida ao Universo Simulado: O Desastre do Enxame, quebre um número maior ou igual a 100 de objetos destrutíveis",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092622,
+        "name": "Colheita Feliz",
+        "desc": "No Universo Simulado: O Desastre do Enxame, capture 16 ou mais Cofrinhos em um domínio de Aventura",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092623,
+        "name": "Sala dos Caminhos de Partida",
+        "desc": "No Universo Simulado: O Desastre do Enxame, ilumine 1 Trilha do Explorador escondida",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092624,
+        "name": "Coral de Um",
+        "desc": "Gere 2 Interações de Ressonância em uma partida no Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092625,
+        "name": "Ser ou Não Ser",
+        "desc": "No Universo Simulado: O Desastre do Enxame, realize 1 Escolha(s) de Caminhos em domínios de Ocorrência",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092626,
+        "name": "Conexão do Destino",
+        "desc": "No Universo Simulado: O Desastre do Enxame, conclua todas as Escolha(s) de Caminhos em domínios de Ocorrência",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092627,
+        "name": "Coisas a Acontecer",
+        "desc": "Trapaceie um total de 10 vezes no Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092628,
+        "name": "De Volta Para o Futuro",
+        "desc": "Jogue os dados novamente um total de 50 vezes no Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092629,
+        "name": "O Fim da Eternidade",
+        "desc": "No Universo Simulado: O Desastre do Enxame, entre em um domínio Vazio com qualquer Caminho que não seja o da Inexistência",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092630,
+        "name": "No Cometa",
+        "desc": "No Universo Simulado: O Desastre do Enxame, conquiste todos os objetivos em qualquer domínio de Aventura",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092631,
+        "name": "Investigador Weyland-Yutani",
+        "desc": "No Universo Simulado: O Desastre do Enxame, entre no domínio Combate: O Enxame, Ocorrência: O Enxame ou Chefe: O Enxame com um Caminho que não seja o da Propagação por um total de 20 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092632,
+        "name": "Retransmissão de Massa",
+        "desc": "Tenha o Nível da Perturbação da Desordem Plana no nível 20 ou superior ao concluir o Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4090201,
         "name": "A Primeira e a Última Liberdade",
-        "desc": "Entre em batalha com 4 aliados com PV iguais a <unbreak>#2[i]%</unbreak> ou menos no Universo Simulado",
+        "desc": "Entre em batalha com 4 aliados com PV iguais a <unbreak>0%</unbreak> ou menos no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2367,11 +2892,25 @@
         "version": "1.0"
       },
       {
+        "id": 4092636,
+        "name": "Correndo em Silêncio",
+        "desc": "Conclua todas as histórias dos Desastres do Enxame no Universo Simulado: O Desastre do Enxame",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
         "id": 4090204,
         "name": "Sistema de Reação Elemental",
         "desc": "Cause 5 ou mais Tipos de Dano em uma única ação no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4092637,
+        "name": "Estranho em uma Terra Estranha",
+        "desc": "Colete todas as histórias dos Segredos do Desbravamento no Universo Simulado: O Desastre do Enxame",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4090205,
@@ -2381,11 +2920,25 @@
         "version": "1.0"
       },
       {
+        "id": 4092638,
+        "name": "Exploda-os Para Fora da Órbita",
+        "desc": "Conclua a Dificuldade V do Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4090206,
-        "name": "<unbreak>24</unbreak> Poemas de Amor e Uma Canção do Desespero",
+        "name": "24 Poemas de Amor e Uma Canção do Desespero",
         "desc": "Todos os aliados têm PV iguais a 0% ou menos ao vencer uma batalha no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4092639,
+        "name": "Praga Através das Eras",
+        "desc": "Colete o capítulo \"A Caça I\" em \"O Desastre do Enxame\"",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4090207,
@@ -2395,11 +2948,25 @@
         "version": "1.0"
       },
       {
+        "id": 4092640,
+        "name": "Um Sonho de Babel",
+        "desc": "Colete o capítulo \"A Preservação II\" em \"O Desastre do Enxame\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
         "id": 4090301,
         "name": "Boa Noite, Camarada",
         "desc": "Derrote 15 inimigos no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4092641,
+        "name": "Como Alguém Se Torna o Que É",
+        "desc": "Colete o capítulo \"A Inexistência I\" em \"O Desastre do Enxame\"",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4090303,
