@@ -223,6 +223,14 @@
     "rarity": 5,
     "background": "The High Elder of the Vidyadhara, who is also known as the \"Healer Lady\" on the Luofu.\\nShe uses her unique medical science and the medical treatment that can only be provided by the Vidyadhara dragon race to save lives."
   },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "Dan Heng • Imbibitor Lunae",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae.\\nUpon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",

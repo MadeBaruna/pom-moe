@@ -223,6 +223,14 @@
     "rarity": 5,
     "background": "Tôn trưởng của tộc Vidyadhara ở Xianzhou Luofu, là thầy thuốc có biệt danh \"Long Nữ Trị Liệu\".\\nCứu kẻ sắp chết, giúp người bị thương bằng \"cách chữa trị\" mà chỉ có y thuật độc môn và long mạch mới có thể làm được."
   },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "Dan Heng - Ẩm Nguyệt",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Nguyên trạng thật sự của Dan Heng tộc Vidyadhara, mang trên người sức mạnh Ẩm Nguyệt Quân để lại.\\nKhi tiếp nhận chiếc sừng uy nghiêm trên đỉnh trán, anh ấy phải tiếp nhận tất cả công và tội một đời của tội nhân này."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Nhà Khai Phá",

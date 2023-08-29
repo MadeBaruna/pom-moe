@@ -838,7 +838,7 @@
     },
     "talent": {
       "name": "Dulce pero cruel",
-      "desc": "Cuando un aliado de Kafka usa su ATQ básico contra un enemigo, Kafka lanza inmediatamente un <u>ataque adicional</u> que inflige un <span style=\"color: #f29e38ff\">{1}</span> de su ATQ como Daño de Rayo a ese objetivo y tiene un {2} de probabilidad base de afectarlo con una Electrocución equivalente a la de la habilidad definitiva durante {3} turnos. Este efecto solo puede activarse 1 vez por turno.",
+      "desc": "Cuando un aliado de Kafka usa su ATQ básico contra un enemigo, Kafka lanza inmediatamente un <u>ataque adicional</u> que inflige un <span style=\"color: #f29e38ff\">{1}</span> de su ATQ como Daño de Rayo a ese objetivo y tiene un {2} de <u>probabilidad base</u> de afectarlo con una Electrocución equivalente a la de la habilidad definitiva durante {3} turnos. Este efecto solo puede activarse 1 vez por turno.",
       "values": [
         [
           42,
@@ -3171,6 +3171,266 @@
       ]
     }
   },
+  "lynx": {
+    "attack": {
+      "name": "Técnica de crampón",
+      "desc": "Inflige un Daño Cuántico equivalente al <span style=\"color: #f29e38ff\">{1}</span> de sus PV máx. a un enemigo.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Latas de acampada",
+      "desc": "Aplica Reacción de supervivencia a un aliado y aumenta sus PV máx. en una cantidad equivalente al <span style=\"color: #f29e38ff\">{1}</span> de los PV máx. de Lynx + <span style=\"color: #f29e38ff\">{2}</span>. Si el aliado es de la Vía de la Destrucción o de la Conservación, aumenta en gran medida la probabilidad de que reciba un ataque enemigo. Reacción de supervivencia dura {3} turnos.\\nEl objetivo aliado regenera una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{4}</span> de los PV máx. de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          5,
+          5.3,
+          5.5,
+          5.7,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7
+        ],
+        [
+          50,
+          80,
+          103,
+          125,
+          140,
+          155,
+          166,
+          178,
+          189,
+          200,
+          211,
+          223,
+          234,
+          245,
+          256
+        ],
+        [
+          2
+        ],
+        [
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12,
+          12.4,
+          12.8,
+          13.2,
+          13.6,
+          14
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[f1]%",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Botiquín de las llanuras nevadas",
+      "desc": "Elimina {1} <u>estado negativo</u> de todos los aliados y todos los aliados regeneran una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{2}</span> de los PV máx. de Lynx + <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          1
+        ],
+        [
+          9,
+          9.6,
+          10.1,
+          10.7,
+          11.3,
+          11.7,
+          12.2,
+          12.6,
+          13.1,
+          13.5,
+          13.9,
+          14.4,
+          14.8,
+          15.3,
+          15.7
+        ],
+        [
+          90,
+          144,
+          185,
+          225,
+          252,
+          279,
+          299,
+          320,
+          340,
+          360,
+          380,
+          401,
+          421,
+          441,
+          461
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Supervivencia al aire libre",
+      "desc": "Al usar la habilidad básica o la habilidad definitiva, un objetivo aliado obtiene un efecto de curación continua durante {1} turno(s). Al comenzar cada turno, el objetivo regenera una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{2}</span> de los PV máx. de Lynx + <span style=\"color: #f29e38ff\">{3}</span>. Si el objetivo está afectado por Reacción de supervivencia, el efecto de regeneración continua de PV regenera de forma adicional una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{4}</span> de los PV máx. de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          2
+        ],
+        [
+          2.4,
+          2.5,
+          2.7,
+          2.8,
+          3,
+          3.1,
+          3.2,
+          3.4,
+          3.5,
+          3.6,
+          3.7,
+          3.8,
+          4,
+          4.1,
+          4.2
+        ],
+        [
+          24,
+          38,
+          49,
+          60,
+          67,
+          74,
+          80,
+          85,
+          91,
+          96,
+          101,
+          107,
+          112,
+          118,
+          123
+        ],
+        [
+          3,
+          3.2,
+          3.4,
+          3.6,
+          3.7,
+          3.9,
+          4.1,
+          4.2,
+          4.4,
+          4.5,
+          4.6,
+          4.8,
+          4.9,
+          5.1,
+          5.3
+        ],
+        [
+          30,
+          48,
+          62,
+          75,
+          84,
+          93,
+          100,
+          107,
+          113,
+          120,
+          127,
+          134,
+          140,
+          147,
+          154
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Barrita energética de chocolate",
+      "desc": "Tras usar la técnica, al comenzar la siguiente batalla, se aplica el efecto de curación continua de Lynx a todos los aliados durante {1} turnos.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
   "luka": {
     "attack": {
       "name": "Puño certero",
@@ -3412,7 +3672,7 @@
     },
     "skill": {
       "name": "Última ficha posible",
-      "desc": "Roba {1} fichas de jade e inflige un <span style=\"color: #f29e38ff\">{2}</span> más de daño hasta que termine el turno. Este efecto se puede acumular hasta {3} veces. Tras usar esta habilidad básica, el turno no terminará.",
+      "desc": "Roba {1} fichas de jade e inflige un <span style=\"color: #f29e38ff\">{2}</span> más de daño hasta que termine el turno. Este efecto se puede acumular hasta {3} veces. Tras usar esta habilidad básica, el turno no termina.",
       "values": [
         [
           2
@@ -3818,7 +4078,7 @@
     },
     "talent": {
       "name": "Ciclo vital",
-      "desc": "Cuando se alcanzan {1} acumulaciones de Flor abisal, Luocha las consume todas y genera un campo.\\nCuando un objetivo enemigo que está dentro del campo recibe un ataque, el aliado atacante regenera una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Luocha + <span style=\"color: #f29e38ff\">{4}</span>.\\nEl campo dura {3} turnos. Cuando Luocha es derrotado, el campo desaparece.",
+      "desc": "Cuando se alcanzan {1} acumulaciones de Flor abisal, Luocha las consume todas y genera un campo.\\nCuando un objetivo enemigo que está dentro del campo recibe un ataque, el aliado atacante regenera una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Luocha + <span style=\"color: #f29e38ff\">{4}</span>.\\nEl campo dura {3} turnos. Cuando Luocha es <u>derrotado</u>, el campo desaparece.",
       "values": [
         [
           2
@@ -4685,6 +4945,180 @@
       ]
     }
   },
+  "fu-xuan": {
+    "attack": {
+      "name": "Novaestallido",
+      "desc": "Inflige un Daño Cuántico equivalente al <span style=\"color: #f29e38ff\">{1}</span> de los PV máx. de Fu Xuan a un enemigo.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Maravilla astronómica",
+      "desc": "Activa Matriz del Presagio y todos los aliados de Fu Xuan <u>traspasan</u> un {1} del daño que reciben (antes de que un escudo mitigue el daño) a Fu Xuan durante {3} turno(s).\\nTodos los aliados afectados por Matriz del Presagio obtienen Conocimiento. En este estado, los PV máx. de los aliados aumentan en una cantidad equivalente al <span style=\"color: #f29e38ff\">{4}</span> de los PV máx. de Fu Xuan y su Prob. CRIT aumenta en un <span style=\"color: #f29e38ff\">{5}</span>.\\nCuando Fu Xuan es <u>derrotada</u>, Matriz del Presagio se disipa.",
+      "values": [
+        [
+          65
+        ],
+        [
+          0
+        ],
+        [
+          3
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[i]",
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Evolución definitiva",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> de los PV máx. de Fu Xuan como Daño Cuántico a todos los enemigos y obtiene 1 activación adicional de la regeneración de PV del talento de Fu Xuan.",
+      "values": [
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Tras la adversidad viene la felicidad",
+      "desc": "Cuando Fu Xuan no ha sido derrotada, todos los aliados obtienen Escape del infortunio. En este estado, el daño que reciben todos los aliados se reduce en un <span style=\"color: #f29e38ff\">{1}</span>.\\nFu Xuan regenera sus PV cuando tiene un porcentaje de PV inferior o igual al {2}. Este efecto regenera un <span style=\"color: #f29e38ff\">{3}</span> de los PV que le falten en ese momento, y no puede activarse cuando recibe un golpe letal. Inicialmente, este efecto puede activarse 1 vez, y se puede activar hasta 2 veces como máximo.",
+      "values": [
+        [
+          10,
+          10.8,
+          11.6,
+          12.4,
+          13.2,
+          14,
+          15,
+          16,
+          17,
+          18,
+          18.8,
+          19.6,
+          20.4,
+          21.2,
+          22
+        ],
+        [
+          50
+        ],
+        [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "De la fortuna viene el destino",
+      "desc": "Tras usar la técnica, todos los aliados obtienen una barrera durante {1} segundos. Esta barrera bloquea los ataques infligidos por los enemigos e impide que los aliados entren en combate. Si se entra en combate mientras la barrera está activa, Fu Xuan activa automáticamente Matriz del Presagio durante {2} turnos.",
+      "values": [
+        [
+          20
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "yanqing": {
     "attack": {
       "name": "Luz fría, filo helado",
@@ -5130,6 +5564,210 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "dan-heng-imbibitor-lunae": {
+    "attack": {
+      "name": "Loto benéfico",
+      "desc": "Lanza un ataque de 2 golpes e inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Dan Heng - Imbibitor Lunae como Daño Imaginario a un enemigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Libre de ataduras",
+      "desc": "Dan Heng - Imbibitor Lunae potencia el ATQ básico un máximo de 3 veces consecutivas. Esta habilidad no consume pts. de habilidad básica y no se considera como un uso de la habilidad básica.\\nAl potenciarse 1 vez, Loto benéfico se transforma en Trascendencia.\\nAl potenciarse 2 veces, Loto benéfico se transforma en Lanza divina.\\nAl potenciarse 3 veces, Loto benéfico se transforma en Salto fulgurante.\\nAl lanzar Lanza divina o Salto fulgurante, a partir del 4.º golpe obtiene 1 acumulación de Rugido dominante antes de cada golpe. Rugido dominante hace que el Daño CRIT de Dan Heng - Imbibitor Lunae aumente en un <span style=\"color: #f29e38ff\">{1}</span>. Este efecto se puede acumular un máximo de {2} veces hasta el final de su turno.",
+      "values": [
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          4
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Purificación del mundo",
+      "desc": "Realiza un ataque de 3 golpes e inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Dan Heng - Imbibitor Lunae como Daño Imaginario a un enemigo y un <span style=\"color: #f29e38ff\">{2}</span> de su ATQ como Daño Imaginario a los enemigos adyacentes. Además, obtiene {3} acumulaciones de Escama sacrosanta.\\nPuede tener hasta {4} acumulaciones de Escama sacrosanta como máximo y se pueden utilizar para compensar el consumo de pts. de habilidad básica de Dan Heng - Imbibitor Lunae. Consumir Escama sacrosanta se considera equivalente a consumir pts. de habilidad básica.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          84,
+          90,
+          95,
+          101,
+          106,
+          112,
+          119,
+          126,
+          133,
+          140,
+          146,
+          151,
+          157,
+          162,
+          168
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Corazón justo",
+      "desc": "Dan Heng - Imbibitor Lunae obtiene 1 acumulación de Corazón justo después de cada golpe y el daño que inflige aumenta en un <span style=\"color: #f29e38ff\">{1}</span>. Este efecto se puede acumular un máximo de {2} veces hasta el final de su turno.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          6
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Prismadragón atraviesacielos",
+      "desc": "Después de usar su técnica, Dan Heng - Imbibitor Lunae entra en el estado de Salto en espiral durante {2} segundos. En este estado, al lanzar un ataque, avanza rápidamente una cierta distancia y ataca a los enemigos con los que entra en contacto, bloqueando los ataques infligidos por los enemigos. Al entrar en combate tras atacar a un enemigo en el estado Salto en espiral, inflige un Daño Imaginario equivalente al {3} de su ATQ a todos los enemigos y obtiene {1} acumulación de Escama sacrosanta.",
+      "values": [
+        [
+          1
+        ],
+        [
+          20
+        ],
+        [
+          120
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Salto fulgurante",
+      "desc": "Dan Heng - Imbibitor Lunae lanza un ataque de 7 golpes que inflige un <span style=\"color: #f29e38ff\">{1}</span> de su ATQ como Daño Imaginario a un enemigo. A partir del 4.º golpe también inflige un <span style=\"color: #f29e38ff\">{2}</span> de su ATQ como Daño Imaginario a los enemigos adyacentes.",
+      "values": [
+        [
+          250,
+          300,
+          350,
+          400,
+          450,
+          500,
+          550,
+          600,
+          650,
+          250,
+          250,
+          250,
+          250,
+          250,
+          250
+        ],
+        [
+          90,
+          108,
+          126,
+          144,
+          162,
+          180,
+          198,
+          216,
+          234,
+          90,
+          90,
+          90,
+          90,
+          90,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
       ]
     }
   },

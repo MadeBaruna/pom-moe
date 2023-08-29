@@ -197,7 +197,7 @@
     "path": "the-hunt",
     "element": "physical",
     "rarity": 4,
-    "background": "Nació en el Yaoqing de Xianzhou y la enviaron a los Nimbocaballeros del Luofu para recibir entrenamiento militar.\\nBlande la espada de su familia, un regalo de su madre, y ansía el futuro que ella misma ha escrito."
+    "background": "Nació en el Yaoqing de Xianzhou y la enviaron a los Nimbocaballeros del Luofu para recibir entrenamiento militar.\\nBlande la espada de su familia, un regalo de su madre, y ansía el futuro que ella misma escribirá."
   },
   "yukong": {
     "id": "yukong",
@@ -222,6 +222,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "Gran Maestre de los vidyadhara, también conocida como Dama Sanadora en el Luofu de Xianzhou.\\nUtiliza sus conocimientos médicos únicos y los tratamientos que solo puede proporcionar la raza dracónica de los vidyadhara para salvar vidas."
+  },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "Dan Heng - Imbibitor Lunae",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "La forma original vidyadhara de Dan Heng contiene el poder que queda de su vida anterior como Imbibitor Lunae.\\nAl aceptar la majestuosa corona de astas, también tiene que adoptar todos los méritos y las faltas atribuidos a ese pecador."
   },
   "trailblazer": {
     "id": "trailblazer",

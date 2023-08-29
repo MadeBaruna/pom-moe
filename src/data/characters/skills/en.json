@@ -838,7 +838,7 @@
     },
     "talent": {
       "name": "Gentle but Cruel",
-      "desc": "After an ally of Kafka's uses Basic ATK on an enemy target, Kafka immediately launches 1 <u>follow-up attack</u> and deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of her ATK to that target, with a {2} base chance to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target for {3} turns. This effect can only be triggered 1 time per turn.",
+      "desc": "After an ally of Kafka's uses Basic ATK on an enemy target, Kafka immediately launches 1 <u>follow-up attack</u> and deals Lightning DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of her ATK to that target, with a {2} <u>base chance</u> to inflict Shock equivalent to that applied by her Ultimate to the attacked enemy target, lasting for {3} turns. This effect can only be triggered 1 time per turn.",
       "values": [
         [
           42,
@@ -3171,6 +3171,266 @@
       ]
     }
   },
+  "lynx": {
+    "attack": {
+      "name": "Ice Crampon Technique",
+      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of this unit's Max HP to a single enemy.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Salted Camping Cans",
+      "desc": "Applies \"Survival Response\" to a single target ally and increases their Max HP by <span style=\"color: #f29e38ff\">{1}</span> of Lynx's Max HP plus <span style=\"color: #f29e38ff\">{2}</span>. If the target ally is a character on the Path of Destruction or Preservation, the chance of them being attacked by enemies will greatly increase. \"Survival Response\" lasts for {3} turn(s).\\nRestores the target's HP by <span style=\"color: #f29e38ff\">{4}</span> of Lynx's Max HP plus <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          5,
+          5.3,
+          5.5,
+          5.7,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7
+        ],
+        [
+          50,
+          80,
+          103,
+          125,
+          140,
+          155,
+          166,
+          178,
+          189,
+          200,
+          211,
+          223,
+          234,
+          245,
+          256
+        ],
+        [
+          2
+        ],
+        [
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12,
+          12.4,
+          12.8,
+          13.2,
+          13.6,
+          14
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[f1]%",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Snowfield First Aid",
+      "desc": "Dispels {1} <u>debuff(s)</u> from all allies and immediately restores their respective HP by an amount equal to <span style=\"color: #f29e38ff\">{2}</span> of Lynx's Max HP plus <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          1
+        ],
+        [
+          9,
+          9.6,
+          10.1,
+          10.7,
+          11.3,
+          11.7,
+          12.2,
+          12.6,
+          13.1,
+          13.5,
+          13.9,
+          14.4,
+          14.8,
+          15.3,
+          15.7
+        ],
+        [
+          90,
+          144,
+          185,
+          225,
+          252,
+          279,
+          299,
+          320,
+          340,
+          360,
+          380,
+          401,
+          421,
+          441,
+          461
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Outdoor Survival Experience",
+      "desc": "When using Lynx's Skill or Ultimate, applies continuous healing to the target ally for {1} turn(s), restoring HP by an amount equal to <span style=\"color: #f29e38ff\">{2}</span> of Lynx's Max HP plus <span style=\"color: #f29e38ff\">{3}</span> at the start of each turn. If the target has \"Survival Response\", the continuous healing effect additionally restores HP by an amount equal to <span style=\"color: #f29e38ff\">{4}</span> of Lynx's Max HP plus <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          2
+        ],
+        [
+          2.4,
+          2.5,
+          2.7,
+          2.8,
+          3,
+          3.1,
+          3.2,
+          3.4,
+          3.5,
+          3.6,
+          3.7,
+          3.8,
+          4,
+          4.1,
+          4.2
+        ],
+        [
+          24,
+          38,
+          49,
+          60,
+          67,
+          74,
+          80,
+          85,
+          91,
+          96,
+          101,
+          107,
+          112,
+          118,
+          123
+        ],
+        [
+          3,
+          3.2,
+          3.4,
+          3.6,
+          3.7,
+          3.9,
+          4.1,
+          4.2,
+          4.4,
+          4.5,
+          4.6,
+          4.8,
+          4.9,
+          5.1,
+          5.3
+        ],
+        [
+          30,
+          48,
+          62,
+          75,
+          84,
+          93,
+          100,
+          107,
+          113,
+          120,
+          127,
+          134,
+          140,
+          147,
+          154
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "After attacking an enemy and entering battle, the enemy target's corresponding Type Toughness will be Weakened.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Chocolate Energy Bar",
+      "desc": "After Lynx uses her Technique, at the start of the next battle, all allies are granted the continuous healing effect from her Talent for {1} turn(s).",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
   "luka": {
     "attack": {
       "name": "Direct Punch",
@@ -3306,7 +3566,7 @@
     },
     "talent": {
       "name": "Flying Sparks",
-      "desc": "After Luka uses his Basic ATK \"Direct Punch\" or Skill \"Lacerating Fist,\" he receives {1} stack(s) of Fighting Will, up to 4 stacks. When he has 2 or more stacks of Fighting Will, his Basic ATK \"Direct Punch\" is enhanced to \"Sky-Shatter Fist.\" After his Enhanced Basic ATK's \"Rising Uppercut\" hits a Bleeding enemy target, the Bleed status will immediately deal DMG for 1 time equal to <span style=\"color: #f29e38ff\">{2}</span> of the original DMG to the target. At the start of battle, Luka will possess 1 stack of Fighting Will.",
+      "desc": "After Luka uses his Basic ATK \"Direct Punch\" or Skill \"Lacerating Fist,\" he receives {1} stack of Fighting Will, up to 4 stacks. When he has 2 or more stacks of Fighting Will, his Basic ATK \"Direct Punch\" is enhanced to \"Sky-Shatter Fist.\" After his Enhanced Basic ATK's \"Rising Uppercut\" hits a Bleeding enemy target, the Bleed status will immediately deal DMG for 1 time equal to <span style=\"color: #f29e38ff\">{2}</span> of the original DMG to the target. At the start of battle, Luka will possess 1 stack of Fighting Will.",
       "values": [
         [
           1
@@ -3818,7 +4078,7 @@
     },
     "talent": {
       "name": "Cycle of Life",
-      "desc": "When Abyss Flower reaches {1} stacks, Luocha consumes all stacks of Abyss Flower to deploy a Field against the enemy.\\nWhen any enemy in the Field is attacked by an ally, the attacking ally's HP is immediately restored by an amount equal to <span style=\"color: #f29e38ff\">{2}</span> of Luocha's ATK plus <span style=\"color: #f29e38ff\">{4}</span>.\\nThe Field's effect lasts for {3} turns. When Luocha is knocked down, the Field will be dispelled.",
+      "desc": "When Abyss Flower reaches {1} stacks, Luocha consumes all stacks of Abyss Flower to deploy a Field against the enemy.\\nWhen any enemy in the Field is attacked by an ally, the attacking ally's HP is immediately restored by an amount equal to <span style=\"color: #f29e38ff\">{2}</span> of Luocha's ATK plus <span style=\"color: #f29e38ff\">{4}</span>.\\nThe Field's effect lasts for {3} turns. When Luocha is <u>knocked down</u>, the Field will be dispelled.",
       "values": [
         [
           2
@@ -4626,7 +4886,7 @@
     },
     "talent": {
       "name": "Seven Layers, One Arrow",
-      "desc": "Basic ATK additionally deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Yukong's ATK, and increases the Toughness-Reducing DMG of this attack by {2}. This effect can be triggered again in {3} turn(s).",
+      "desc": "Basic ATK additionally deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Yukong's ATK, and increases the Toughness-Reducing DMG of this attack by {2}. This effect can be triggered again after {3} turn(s).",
       "values": [
         [
           40,
@@ -4681,6 +4941,180 @@
       "format": [
         "[i]",
         "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "fu-xuan": {
+    "attack": {
+      "name": "Novaburst",
+      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Fu Xuan's Max HP to a single enemy.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Known by Stars, Shown by Hearts",
+      "desc": "Activates Matrix of Prescience, via which other team members will <u>Distribute</u> {1} of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for {3} turn(s).\\nWhile affected by Matrix of Prescience, all team members gain the Knowledge effect, which increases their respective Max HP by <span style=\"color: #f29e38ff\">{4}</span> of Fu Xuan's Max HP, and increases CRIT Rate by <span style=\"color: #f29e38ff\">{5}</span>.\\nWhen Fu Xuan is <u>knocked down</u>, the Matrix of Prescience will be dispelled.",
+      "values": [
+        [
+          65
+        ],
+        [
+          0
+        ],
+        [
+          3
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[i]",
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Woes of Many Morphed to One",
+      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Fu Xuan's Max HP to all enemies and obtains 1 trigger count for the HP Restore effect granted by Fu Xuan's Talent.",
+      "values": [
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Bleak Breeds Bliss",
+      "desc": "While Fu Xuan has not been knocked down, \"Misfortune Avoidance\" is applied to the entire team. While affected by \"Misfortune Avoidance\", allies take <span style=\"color: #f29e38ff\">{1}</span> less DMG.\\nHP Restore will be triggered for Fu Xuan when her HP falls to {2} of her Max HP or less. This effect will restore her HP by <span style=\"color: #f29e38ff\">{3}</span> of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect possesses 1 trigger count by default, and can have a maximum of 2 trigger counts.",
+      "values": [
+        [
+          10,
+          10.8,
+          11.6,
+          12.4,
+          13.2,
+          14,
+          15,
+          16,
+          17,
+          18,
+          18.8,
+          19.6,
+          20.4,
+          21.2,
+          22
+        ],
+        [
+          50
+        ],
+        [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Attack the enemy. Upon entering battle, reduce the enemy targets' Toughness of the corresponding Type.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Of Fortune Comes Fate",
+      "desc": "After the Technique is used, all team members receive a Barrier, lasting for {1} seconds. This Barrier can block all enemy attacks, and the team will not enter battle when attacked. Entering battle while the Barrier is active will have Fu Xuan automatically activate Matrix of Prescience at the start of the battle, lasting for {2} turn(s).",
+      "values": [
+        [
+          20
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
         "[i]"
       ]
     }
@@ -5130,6 +5564,210 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "dan-heng-imbibitor-lunae": {
+    "attack": {
+      "name": "Beneficent Lotus",
+      "desc": "Uses a 2-hit attack and deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Dracore Libre",
+      "desc": "Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.\\nEnhanced once, Beneficent Lotus becomes Transcendence.\\nEnhanced twice, Beneficent Lotus becomes Divine Spear.\\nEnhanced 3 times, Beneficent Lotus becomes Fulgurant Leap.\\nWhen using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of \"Outroar\" is gained before every hit. Each stack of \"Outroar\" increases Dan Heng • Imbibitor Lunae's CRIT DMG by <span style=\"color: #f29e38ff\">{1}</span>, for a max of {2} stacks. These stacks last until the end of his turn.",
+      "values": [
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          4
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Azure's Aqua Ablutes All",
+      "desc": "Uses a 3-hit attack and deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target. At the same time, deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Dan Heng • Imbibitor Lunae's ATK to adjacent targets. Then, obtains {3} Squama Sacrosancta.\\nIt's possible to hold up to {4} Squama Sacrosancta, which can be used to offset the consumption of Dan Heng • Imbibitor Lunae's skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          84,
+          90,
+          95,
+          101,
+          106,
+          112,
+          119,
+          126,
+          133,
+          140,
+          146,
+          151,
+          157,
+          162,
+          168
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Righteous Heart",
+      "desc": "After each hit dealt during an attack, Dan Heng • Imbibitor Lunae gains 1 stack of Righteous Heart, increasing his DMG by <span style=\"color: #f29e38ff\">{1}</span>. This effect can stack up to {2} time(s), lasting until the end of his turn.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          6
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Heaven-Quelling Prismadrakon",
+      "desc": "After using his Technique, Dan Heng • Imbibitor Lunae enters the Leaping Dragon state for {2} seconds. While in the Leaping Dragon state, using his attack enables him to move forward rapidly for a set distance, attacking all enemies he touches and blocking all incoming attacks. After entering combat via attacking enemies in the Leaping Dragon state, Dan Heng • Imbibitor Lunae deals Imaginary DMG equal to {3} of his ATK to all enemies, and gains {1} Squama Sacrosancta.",
+      "values": [
+        [
+          1
+        ],
+        [
+          20
+        ],
+        [
+          120
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Fulgurant Leap",
+      "desc": "Uses a 7-hit attack and deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target. From the fourth hit onward, simultaneously deal Imaginary DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Dan Heng • Imbibitor Lunae's ATK to adjacent targets.",
+      "values": [
+        [
+          250,
+          300,
+          350,
+          400,
+          450,
+          500,
+          550,
+          600,
+          650,
+          250,
+          250,
+          250,
+          250,
+          250,
+          250
+        ],
+        [
+          90,
+          108,
+          126,
+          144,
+          162,
+          180,
+          198,
+          216,
+          234,
+          90,
+          90,
+          90,
+          90,
+          90,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
       ]
     }
   },

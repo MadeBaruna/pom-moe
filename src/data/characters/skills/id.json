@@ -838,7 +838,7 @@
     },
     "talent": {
       "name": "Gentle but Cruel",
-      "desc": "Setelah rekan Kafka melancarkan Basic ATK pada target musuh, Kafka akan segera memicu <u>Serangan Lanjutan</u> yang mengakibatkan Lightning DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Kafka pada target tersebut, serta memiliki {2} peluang dasar untuk membuat target musuh yang terkena serangan ini memasuki status Shock yang sama dengan status Shock dari Ultimate Kafka, berlangsung selama {3} giliran. Efek ini hanya dapat dipicu 1 kali setiap giliran.",
+      "desc": "Setelah rekan Kafka melancarkan Basic ATK pada target musuh, Kafka akan segera memicu <u>Serangan Lanjutan</u> yang mengakibatkan Lightning DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Kafka pada target tersebut, serta memiliki {2} <u>peluang dasar</u> untuk membuat target musuh yang terkena serangan ini memasuki status Shock yang sama dengan status Shock dari Ultimate Kafka, berlangsung selama {3} giliran. Efek ini hanya dapat dipicu 1 kali setiap giliran.",
       "values": [
         [
           42,
@@ -3171,6 +3171,266 @@
       ]
     }
   },
+  "lynx": {
+    "attack": {
+      "name": "Ice Crampon Technique",
+      "desc": "Mengakibatkan Quantum DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> Max HP diri sendiri pada 1 musuh yang ditarget.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Salted Camping Cans",
+      "desc": "Memberikan \"Survival Response\" pada 1 rekan tim yang ditargetkan dan meningkatkan Max HP-nya sebesar <span style=\"color: #f29e38ff\">{1}</span> Max HP Lynx + <span style=\"color: #f29e38ff\">{2}</span>. Jika rekan tersebut adalah karakter dengan Path \"Destruction\" atau \"Preservation\", maka peluang rekan tersebut untuk diserang musuh akan meningkat pesat. \"Survival Response\" berlangsung selama {3} giliran.\\nMemulihkan HP rekan tersebut sebesar <span style=\"color: #f29e38ff\">{4}</span> Max HP Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          5,
+          5.3,
+          5.5,
+          5.7,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7
+        ],
+        [
+          50,
+          80,
+          103,
+          125,
+          140,
+          155,
+          166,
+          178,
+          189,
+          200,
+          211,
+          223,
+          234,
+          245,
+          256
+        ],
+        [
+          2
+        ],
+        [
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12,
+          12.4,
+          12.8,
+          13.2,
+          13.6,
+          14
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[f1]%",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Snowfield First Aid",
+      "desc": "Menghapus masing-masing {1} efek <u>Debuff</u> dari seluruh rekan tim, serta segera memulihkan HP seluruh rekan tim sebesar <span style=\"color: #f29e38ff\">{2}</span> Max HP Lynx + <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          1
+        ],
+        [
+          9,
+          9.6,
+          10.1,
+          10.7,
+          11.3,
+          11.7,
+          12.2,
+          12.6,
+          13.1,
+          13.5,
+          13.9,
+          14.4,
+          14.8,
+          15.3,
+          15.7
+        ],
+        [
+          90,
+          144,
+          185,
+          225,
+          252,
+          279,
+          299,
+          320,
+          340,
+          360,
+          380,
+          401,
+          421,
+          441,
+          461
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Outdoor Survival Experience",
+      "desc": "Saat Lynx melancarkan Skill atau Ultimate, rekan tim yang dijadikan target Skill atau Ultimate Lynx akan mendapatkan efek pemulihan berkelanjutan selama {1} giliran. Saat setiap giliran target dimulai, HP-nya akan pulih sebesar <span style=\"color: #f29e38ff\">{2}</span> Max HP Lynx + <span style=\"color: #f29e38ff\">{3}</span>. Jika target memiliki \"Survival Response\", maka efek pemulihan berkelanjutan akan meningkat sebesar <span style=\"color: #f29e38ff\">{4}</span> Max HP Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          2
+        ],
+        [
+          2.4,
+          2.5,
+          2.7,
+          2.8,
+          3,
+          3.1,
+          3.2,
+          3.4,
+          3.5,
+          3.6,
+          3.7,
+          3.8,
+          4,
+          4.1,
+          4.2
+        ],
+        [
+          24,
+          38,
+          49,
+          60,
+          67,
+          74,
+          80,
+          85,
+          91,
+          96,
+          101,
+          107,
+          112,
+          118,
+          123
+        ],
+        [
+          3,
+          3.2,
+          3.4,
+          3.6,
+          3.7,
+          3.9,
+          4.1,
+          4.2,
+          4.4,
+          4.5,
+          4.6,
+          4.8,
+          4.9,
+          5.1,
+          5.3
+        ],
+        [
+          30,
+          48,
+          62,
+          75,
+          84,
+          93,
+          100,
+          107,
+          113,
+          120,
+          127,
+          134,
+          140,
+          147,
+          154
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Chocolate Energy Bar",
+      "desc": "Setelah menggunakan Technique, seluruh rekan tim akan mendapatkan efek pemulihan berkelanjutan dari Talent Lynx saat pertempuran berikutnya dimulai, berlangsung selama {1} giliran.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
   "luka": {
     "attack": {
       "name": "Direct Punch",
@@ -3818,7 +4078,7 @@
     },
     "talent": {
       "name": "Cycle of Life",
-      "desc": "Saat tumpukan \"Abyss Flower\" mencapai {1} lapis, Luocha akan mengonsumsi semua \"Abyss Flower\" dan membuat sebuah Field pada musuh.\\nSetelah musuh dalam Field diserang rekan tim, rekan tim yang menyerang akan segera memulihkan HP sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Luocha +<span style=\"color: #f29e38ff\">{4}</span>.\\nEfek Field berlangsung selama {3} giliran. Saat Luocha gugur, efek Field akan menghilang.",
+      "desc": "Saat tumpukan \"Abyss Flower\" mencapai {1} lapis, Luocha akan mengonsumsi semua \"Abyss Flower\" dan membuat sebuah Field pada musuh.\\nSetelah musuh dalam Field diserang rekan tim, rekan tim yang menyerang akan segera memulihkan HP sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Luocha +<span style=\"color: #f29e38ff\">{4}</span>.\\nEfek Field berlangsung selama {3} giliran. Saat Luocha <u>gugur</u>, efek Field akan menghilang.",
       "values": [
         [
           2
@@ -4685,6 +4945,180 @@
       ]
     }
   },
+  "fu-xuan": {
+    "attack": {
+      "name": "Novaburst",
+      "desc": "Mengakibatkan Quantum DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> Max HP Fu Xuan pada 1 musuh yang ditarget.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Known by Stars, Shown by Hearts",
+      "desc": "Mengaktifkan \"Matrix of Prescience\". Seluruh rekan tim Fu Xuan akan <u>membagikan</u> {1} dari semua DMG yang diterima mereka pada Fu Xuan (sebelum DMG ini ditahan oleh efek Shield apa pun) selama {3} giliran.\\nRekan tim yang terkena pengaruh \"Matrix of Prescience\" akan memperoleh status \"Knowledge\". Rekan tim berstatus \"Knowledge\" akan mendapat peningkatan Max HP sebesar <span style=\"color: #f29e38ff\">{4}</span> Max HP Fu Xuan, dan peningkatan CRIT Rate sebesar <span style=\"color: #f29e38ff\">{5}</span>.\\nSaat Fu Xuan <u>gugur</u>, \"Matrix of Prescience\" juga akan dihapus.",
+      "values": [
+        [
+          65
+        ],
+        [
+          0
+        ],
+        [
+          3
+        ],
+        [
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          6,
+          7,
+          7,
+          7,
+          7
+        ],
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[i]",
+        "[i]%",
+        "[f1]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Woes of Many Morphed to One",
+      "desc": "Mengakibatkan Quantum DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> Max HP Fu Xuan pada seluruh musuh, serta memperoleh 1 kali jumlah kesempatan terpicunya pemulihan HP dari Talent Fu Xuan.",
+      "values": [
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Bleak Breeds Bliss",
+      "desc": "Saat Fu Xuan berada dalam kondisi siap bertempur (tidak gugur), seluruh rekan tim akan memperoleh \"Misfortune Avoidance\". DMG yang diterima rekan tim berstatus \"Misfortune Avoidance\" akan berkurang <span style=\"color: #f29e38ff\">{1}</span>.\\nSaat persentase HP Fu Xuan kurang dari atau sama dengan {2}, pemulihan HP akan terpicu. Efek pemulihan HP ini akan memulihkan HP dirinya sebesar <span style=\"color: #f29e38ff\">{3}</span> jumlah HP dirinya yang sudah berkurang. Efek ini tidak akan terpicu saat menerima serangan mematikan. Efek ini secara default dapat dipicu 1 kali dalam setiap pertempuran, maksimal dapat menyimpan 2 kali jumlah kesempatan terpicu.",
+      "values": [
+        [
+          10,
+          10.8,
+          11.6,
+          12.4,
+          13.2,
+          14,
+          15,
+          16,
+          17,
+          18,
+          18.8,
+          19.6,
+          20.4,
+          21.2,
+          22
+        ],
+        [
+          50
+        ],
+        [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Of Fortune Comes Fate",
+      "desc": "Setelah menggunakan Technique, seluruh rekan tim akan memperoleh Barrier selama {1} detik. Barrier dapat menahan semua serangan musuh dan mencegah rekan tim memasuki pertempuran. Jika memasuki pertempuran saat Barrier aktif, akan mengakibatkan Fu Xuan langsung mengaktifkan \"Matrix of Prescience\" setelah memasuki pertempuran, berlangsung selama {2} giliran.",
+      "values": [
+        [
+          20
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "yanqing": {
     "attack": {
       "name": "Frost Thorn",
@@ -5130,6 +5564,210 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "dan-heng-imbibitor-lunae": {
+    "attack": {
+      "name": "Beneficent Lotus",
+      "desc": "Melancarkan 2 Hit serangan untuk mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Dan Heng · Imbibitor Lunae pada 1 target musuh.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Dracore Libre",
+      "desc": "Memperkuat Basic ATK. Penguatan dapat dilakukan maksimal 3 kali berturut-turut. Melancarkan kemampuan ini tidak mengonsumsi Poin Skill dan tidak dianggap sebagai pelancaran Skill.\\nPerkuat sebanyak 1 kali untuk mengubah Basic ATK \"Beneficent Lotus\" menjadi \"Transcendence\".\\nPerkuat sebanyak 2 kali untuk mengubah Basic ATK \"Beneficent Lotus\" menjadi \"Divine Spear\".\\nPerkuat sebanyak 3 kali untuk mengubah Basic ATK \"Beneficent Lotus\" menjadi \"Fulgurant Leap\".\\nSaat melancarkan \"Divine Spear\" atau \"Fulgurant Leap\", akan memperoleh 1 lapis \"Outroar\" sebelum pelancaran setiap Hit serangan (dimulai dari Hit ke-4). Setiap lapis \"Outroar\" meningkatkan <span style=\"color: #f29e38ff\">{1}</span> CRIT DMG Dan Heng · Imbibitor Lunae. Efek ini dapat ditumpuk hingga {2} lapis, dan berlangsung hingga giliran dirinya berakhir.",
+      "values": [
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          4
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Azure's Aqua Ablutes All",
+      "desc": "Melancarkan 3 Hit serangan untuk mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Dan Heng · Imbibitor Lunae pada 1 target musuh, serta mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Dan Heng · Imbibitor Lunae pada musuh di sekitar target. Selain itu, dirinya akan memperoleh {3} \"Squama Sacrosancta\".\\nMaksimal jumlah \"Squama Sacrosancta\" yang dapat dimiliki adalah {4}. Dan Heng · Imbibitor Lunae dapat mengonsumsi \"Squama Sacrosancta\" untuk menggantikan konsumsi Poin Skill. Mengonsumsi \"Squama Sacrosancta\" akan dianggap sama dengan mengonsumsi Poin Skill.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          84,
+          90,
+          95,
+          101,
+          106,
+          112,
+          119,
+          126,
+          133,
+          140,
+          146,
+          151,
+          157,
+          162,
+          168
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Righteous Heart",
+      "desc": "Dan Heng · Imbibitor Lunae akan memperoleh 1 lapis \"Righteous Heart\" setelah setiap Hit serangan yang dilancarkannya. \"Righteous Heart\" meningkatkan <span style=\"color: #f29e38ff\">{1}</span> DMG yang diakibatkan dirinya, efek ini dapat ditumpuk hingga {2} lapis dan berlangsung hingga giliran dirinya berakhir.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          6
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Heaven-Quelling Prismadrakon",
+      "desc": "Setelah menggunakan Technique, Dan Heng · Imbibitor Lunae akan memasuki status \"Leaping Dragon\" selama {2} detik. Melancarkan serangan saat dalam status \"Leaping Dragon\" akan membuat dirinya meluncur maju dengan cepat dan menyerang musuh yang tersentuh olehnya. Saat sedang meluncur dengan cepat, dirinya akan menahan semua serangan musuh. Setelah memasuki pertempuran dengan cara menyerang musuh saat dalam status \"Leaping Dragon\", akan mengakibatkan Imaginary DMG pada seluruh musuh sebesar {3} ATK Dan Heng · Imbibitor Lunae, serta memperoleh {1} \"Squama Sacrosancta\".",
+      "values": [
+        [
+          1
+        ],
+        [
+          20
+        ],
+        [
+          120
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Fulgurant Leap",
+      "desc": "Melancarkan 7 Hit serangan untuk mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Dan Heng · Imbibitor Lunae pada 1 target musuh. Mulai dari Hit ke-4, akan mengakibatkan Imaginary DMG pada musuh di sekitar target sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Dan Heng · Imbibitor Lunae.",
+      "values": [
+        [
+          250,
+          300,
+          350,
+          400,
+          450,
+          500,
+          550,
+          600,
+          650,
+          250,
+          250,
+          250,
+          250,
+          250,
+          250
+        ],
+        [
+          90,
+          108,
+          126,
+          144,
+          162,
+          180,
+          198,
+          216,
+          234,
+          90,
+          90,
+          90,
+          90,
+          90,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
       ]
     }
   },

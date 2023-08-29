@@ -149,7 +149,7 @@
     "path": "nihility",
     "element": "physical",
     "rarity": 4,
-    "background": "Petinju juara di Underworld Belobog, salah satu orang paling berbakat di \"Wildfire\".\\n Juara berturut-turut Fight Club, dia menggunakan antusiasmenya untuk memotivasi anak-anak Underworld yang mempunyai mimpi."
+    "background": "Petinju juara di Underworld Belobog, salah satu orang paling berbakat di \"Wildfire\".\\nJuara berturut-turut Fight Club, dia menggunakan antusiasmenya untuk memotivasi anak-anak Underworld yang mempunyai mimpi."
   },
   "qingque": {
     "id": "qingque",
@@ -222,6 +222,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "Tetua Tertinggi Vidyadhara yang juga dikenal sebagai \"Wanita Penyembuh\" di Xianzhou \"Luofu\".\\nDia menggunakan ilmu kedokteran khusus dan \"perawatan medis\" yang hanya dapat diberikan oleh ras Naga Vidyadhara untuk menyelamatkan nyawa."
+  },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "Dan Heng · Imbibitor Lunae",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Wujud asli Dan Heng dari ras Vidyadhara, yang memiliki sisa kekuatan \"Imbibitor Lunae\" di kehidupan sebelumnya.\\nSaat dirinya menerima mahkota tanduk yang agung di atas kepalanya, dia juga harus menerima semua jasa dan dosa yang ditinggalkan sang penjahat."
   },
   "trailblazer": {
     "id": "trailblazer",

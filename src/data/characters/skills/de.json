@@ -706,7 +706,7 @@
     },
     "skill": {
       "name": "Streichelndes Mondlicht",
-      "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Kafkas ANG zu und fügt angrenzenden Zielen Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Kafkas ANG zu.\\nBefindet der anvisierte Gegner sich momentan unter Einfluss von DoT, so erleidet er sofort zusätzlich SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des aktuell insgesamt erlittenen DoT.",
+      "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Kafkas ANG zu und fügt angrenzenden Einheiten Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Kafkas ANG zu.\\nBefindet der anvisierte Gegner sich momentan unter Einfluss von DoT, so erleidet er sofort zusätzlich SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des aktuell insgesamt erlittenen DoT.",
       "values": [
         [
           80,
@@ -838,7 +838,7 @@
     },
     "talent": {
       "name": "Sanft, aber grausam",
-      "desc": "Nach dem Einsatz des Standardangriffs von einem Verbündeten führt Kafka sofort einen <u>Folgeangriff</u> aus und fügt dem Ziel Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Kafkas ANG zu. Es besteht eine Grundchance von {2}, dem angegriffenen Gegner für {3} Rd. Schock zuzufügen, der dem Status Schock des Ultimates entspricht. Dieser Effekt kann nur 1-mal pro Runde ausgelöst werden.",
+      "desc": "Nach dem Einsatz des Standardangriffs von einem Verbündeten führt Kafka sofort einen <u>Folgeangriff</u> aus und fügt dem Ziel Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Kafkas ANG zu. Es besteht eine <u>Grundchance</u> von {2}, dem angegriffenen Gegner für {3} Rd. Schock zuzufügen, der dem Status Schock des Ultimates entspricht. Dieser Effekt kann nur 1-mal pro Runde ausgelöst werden.",
       "values": [
         [
           42,
@@ -3171,6 +3171,266 @@
       ]
     }
   },
+  "lynx": {
+    "attack": {
+      "name": "Steigeisentechnik",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> der max. LP des Anwenders zu.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Gesalzene Campingdosen",
+      "desc": "Wendet die Überlebensreaktion auf einen anvisierten Verbündeten an und erhöht dessen max. LP um <span style=\"color: #f29e38ff\">{1}</span> der max. LP von Lynx plus <span style=\"color: #f29e38ff\">{2}</span>. Wenn dieser Verbündete eine Figur auf dem Pfad der Zerstörung oder der Bewahrung ist, wird die Chance stark erhöht, dass er von Gegnern angegriffen wird. Die Überlebensreaktion hält für {3} Rd. an.\\nStellt beim Ziel LP in Höhe von <span style=\"color: #f29e38ff\">{4}</span> der max. LP von Lynx plus <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          5,
+          5.3,
+          5.5,
+          5.7,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7
+        ],
+        [
+          50,
+          80,
+          103,
+          125,
+          140,
+          155,
+          166,
+          178,
+          189,
+          200,
+          211,
+          223,
+          234,
+          245,
+          256
+        ],
+        [
+          2
+        ],
+        [
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12,
+          12.4,
+          12.8,
+          13.2,
+          13.6,
+          14
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[f1]%",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Ersthilfeplan in der Schneewüste",
+      "desc": "Entfernt {1} <u>Debuff</u> von allen Verbündeten und heilt bei ihnen sofort LP in Höhe von <span style=\"color: #f29e38ff\">{2}</span> der max. LP von Lynx + <span style=\"color: #f29e38ff\">{3}</span> Punkte.",
+      "values": [
+        [
+          1
+        ],
+        [
+          9,
+          9.6,
+          10.1,
+          10.7,
+          11.3,
+          11.7,
+          12.2,
+          12.6,
+          13.1,
+          13.5,
+          13.9,
+          14.4,
+          14.8,
+          15.3,
+          15.7
+        ],
+        [
+          90,
+          144,
+          185,
+          225,
+          252,
+          279,
+          299,
+          320,
+          340,
+          360,
+          380,
+          401,
+          421,
+          441,
+          461
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Überleben in der Wildnis",
+      "desc": "Wenn du Lynx’ Fertigkeit oder Ultimate einsetzt, erhält der anvisierte Verbündete für {1} Rd. zu Beginn jeder Runde kontinuierliche Heilung, sodass bei ihm LP in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Lynx’ max. LP + <span style=\"color: #f29e38ff\">{3}</span> wiederhergestellt werden. Wenn die Überlebensreaktion des anvisierten Gegners aktiv ist, stellt der kontinuierliche Heileffekt zusätzlich LP in Höhe von <span style=\"color: #f29e38ff\">{4}</span> von Lynx’ max. LP + <span style=\"color: #f29e38ff\">{5}</span> wieder her.",
+      "values": [
+        [
+          2
+        ],
+        [
+          2.4,
+          2.5,
+          2.7,
+          2.8,
+          3,
+          3.1,
+          3.2,
+          3.4,
+          3.5,
+          3.6,
+          3.7,
+          3.8,
+          4,
+          4.1,
+          4.2
+        ],
+        [
+          24,
+          38,
+          49,
+          60,
+          67,
+          74,
+          80,
+          85,
+          91,
+          96,
+          101,
+          107,
+          112,
+          118,
+          123
+        ],
+        [
+          3,
+          3.2,
+          3.4,
+          3.6,
+          3.7,
+          3.9,
+          4.1,
+          4.2,
+          4.4,
+          4.5,
+          4.6,
+          4.8,
+          4.9,
+          5.1,
+          5.3
+        ],
+        [
+          30,
+          48,
+          62,
+          75,
+          84,
+          93,
+          100,
+          107,
+          113,
+          120,
+          127,
+          134,
+          140,
+          147,
+          154
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Schokoenergieriegel",
+      "desc": "Nachdem Lynx ihre Technik eingesetzt hat, erhalten alle Verbündeten zu Beginn des nächsten Kampfes für {1} Rd. kontinuierliche Heilung durch ihr Talent.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
   "luka": {
     "attack": {
       "name": "Gerader Haken",
@@ -3358,7 +3618,7 @@
     },
     "undefined": {
       "name": "Himmelsbrecher-Faust",
-      "desc": "Verbraucht 2 Stapelungen „Kampfeswille“. Attackiert erst einen Gegner mit einem dreifachen „Geraden Haken“, der pro Treffer physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Lukas ANG verursacht.\\nAttackiert dann einen Gegner mit „Himmelsbrecher-Faust“, die mit einem Schlag physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Lukas ANG verursacht.",
+      "desc": "Verbraucht 2 Stapelungen „Kampfeswille“. Attackiert erst einen anvisierten Gegner mit einem 3-fachen „Geraden Haken“, der pro Treffer physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Lukas ANG verursacht.\\nAttackiert dann den anvisierten Gegner mit 1-facher „Himmelsbrecher-Faust“, die physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Lukas ANG verursacht.",
       "values": [
         [
           10,
@@ -3818,7 +4078,7 @@
     },
     "talent": {
       "name": "Zyklus des Lebens",
-      "desc": "Wird „Abgrundblume“ {1}-fach gestapelt, verbraucht Luocha alle Abgrundblumen, um ein Feld zu erzeugen.\\nWird ein Gegner innerhalb des Felds von einem Verbündeten angegriffen, werden die LP des Verbündeten unmittelbar um <span style=\"color: #f29e38ff\">{2}</span> von Luochas ANG plus <span style=\"color: #f29e38ff\">{4}</span> wiederhergestellt.\\nDas Feld hält für {3} Rd. an. Ist Luocha handlungsunfähig, verschwindet das Feld.",
+      "desc": "Wird Abgrundblume {1}-fach gestapelt, verbraucht Luocha alle Abgrundblumen, um ein Feld zu erzeugen.\\nWird ein Gegner innerhalb des Felds von einem Verbündeten angegriffen, erhält der Verbündete unmittelbar LP in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Luochas ANG plus <span style=\"color: #f29e38ff\">{4}</span> zurück.\\nDas Feld hält {3} Rd. an. Wenn Luocha <u>handlungsunfähig</u> wird, verschwindet das Feld.",
       "values": [
         [
           2
@@ -3884,7 +4144,7 @@
   "jing-yuan": {
     "attack": {
       "name": "Gleißendes Licht",
-      "desc": "Jing Yuan fügt einem einzelnen Gegner Blitz-SCHD in Höhe von <span style=\"color: #f29e38ff\">{1}</span> seines ANG zu.",
+      "desc": "Jing Yuan fügt einem anvisierten Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> seines ANG zu.",
       "values": [
         [
           50,
@@ -4685,6 +4945,180 @@
       ]
     }
   },
+  "fu-xuan": {
+    "attack": {
+      "name": "Sternschlag",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> der max. LP von Fu Xuan zu.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Astronomisches Wunder",
+      "desc": "Aktiviert die „Matrix der Voraussicht“. Für {3} Rd. wird {1} des SCH, den Fu Xuans Verbündete erleiden (und bevor dieser Schaden durch eventuell vorhandene Schilde adsorbiert wird), mit Fu Xuan <u>geteilt</u>.\\nAlle Verbündeten, die von der „Matrix der Voraussicht“ betroffen sind, erhalten den Status „Wissen“, der ihre max. LP um <span style=\"color: #f29e38ff\">{4}</span> von Fu Xuans max. LP und ihre KRIT-Rate um <span style=\"color: #f29e38ff\">{5}</span> erhöht.\\nWenn Fu Xuan <u>handlungsunfähig</u> wird, verschwindet die „Matrix der Voraussicht“.",
+      "values": [
+        [
+          65
+        ],
+        [
+          0
+        ],
+        [
+          3
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[i]",
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Ultimative Evolution",
+      "desc": "Fügt allen Gegnern Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Fu Xuans max. LP zu und erhält 1 Auslösepunkt für die LP-Wiederherstellung von Fu Xuans Talent.",
+      "values": [
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Nach Weh kommt Wohl",
+      "desc": "Solange Fu Xuan kampffähig ist, wird „Unglücksvermeidung“ auf alle Verbündeten angewendet. Im Status von „Unglücksvermeidung“ erleiden die Verbündeten <span style=\"color: #f29e38ff\">{1}</span> weniger SCH.\\nLP-Wiederherstellung wird für Fu Xuan ausgelöst, wenn ihr LP-Prozentsatz auf {2} oder weniger ihrer max. LP liegt. Dieser Effekt stellt ihre LP in Höhe von <span style=\"color: #f29e38ff\">{3}</span> der bisher verlorenen LP wieder her. Er kann nicht ausgelöst werden, wenn sie einen Todesstoß erleidet. Dieser Effekt kann anfangs 1-mal ausgelöst werden und hat eine max. Auslösungsanzahl von 2.",
+      "values": [
+        [
+          10,
+          10.8,
+          11.6,
+          12.4,
+          13.2,
+          14,
+          15,
+          16,
+          17,
+          18,
+          18.8,
+          19.6,
+          20.4,
+          21.2,
+          22
+        ],
+        [
+          50
+        ],
+        [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den Widerstand des gegnerischen Ziels des entsprechenden Typs.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Die Gunst des Schicksals",
+      "desc": "Nach dem Einsatz der Technik erhalten alle Verbündeten für {1} Sek. eine Barriere. Diese Barriere blockt alle gegnerischen Angriffe ab und die Verbündeten treten nicht in den Kampf ein. Beim Kampfeintritt während der Wirkungszeit der Barriere wird Fu Xuans „Matrix der Voraussicht“ automatisch für {2} Rd. aktiviert.",
+      "values": [
+        [
+          20
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "yanqing": {
     "attack": {
       "name": "Kaltes Licht, kalte Klinge",
@@ -5130,6 +5564,210 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "dan-heng-imbibitor-lunae": {
+    "attack": {
+      "name": "Segensreicher Lotus",
+      "desc": "Verwendet einen Angriff mit 2 Treffern und fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Dan Heng – Imbibitor Lunae zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Zügellos",
+      "desc": "Verstärkt den Standardangriff bis zu 3-mal hintereinander. Der Einsatz dieser Fähigkeit verbraucht keinen Fertigkeitspunkt und gilt nicht als Einsatz einer Fertigkeit.\\nDurch einmalige Verstärkung des Standardangriffs verwandelt sich „Segensreicher Lotus“ in „Transzendenz“.\\nDurch zweimalige Verstärkung des Standardangriffs verwandelt sich „Segensreicher Lotus“ in „Himmlischer Speer“.\\nDurch dreimalige Verstärkung des Standardangriffs verwandelt sich „Segensreicher Lotus“ in „Blitzartiger Sprung“.\\nBeim Einsatz von „Himmlischer Speer“ oder „Blitzartiger Sprung“ erhält Dan Heng – Imbibitor Lunae ab dem vierten Treffer dieses Angriffs vor jedem Treffer jeweils 1 Stapelung „Beherrschendes Gebrüll“. Jede Stapelung von „Beherrschendes Gebrüll“ erhöht den KRIT-SCH von Dan Heng – Imbibitor Lunae um <span style=\"color: #f29e38ff\">{1}</span>. Dieser Effekt ist bis zu {2}-fach stapelbar und hält bis zum Ende seiner Runde an.",
+      "values": [
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          4
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Säuberung der Welt",
+      "desc": "Führt einen Angriff mit 3 Treffern aus und fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Dan Heng – Imbibitor Lunae zu. Fügt gleichzeitig angrenzenden Einheiten imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des ANG von Dan Heng – Imbibitor Lunae zu. Erhält {3} „Unantastbare Schuppen“.\\n„Unantastbare Schuppe“ kann bis zu <span style=\"color: #f29e38ff\">{4}</span>-mal erhalten werden. Dan Heng – Imbibitor Lunae kann eine entsprechende Anzahl von „Unantastbare Schuppen“ anstelle von Fertigkeitspunkten verbrauchen. Das Verbrauchen von „Unantastbare Schuppen“ wird dem Verbrauchen von Fertigkeitspunkten gleichgesetzt.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          84,
+          90,
+          95,
+          101,
+          106,
+          112,
+          119,
+          126,
+          133,
+          140,
+          146,
+          151,
+          157,
+          162,
+          168
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Aufrichtiges Herz",
+      "desc": "Dan Heng – Imbibitor Lunae erhält nach jedem Treffer, den er während eines Angriffs auslöst, 1 Stapelung „Aufrichtiges Herz“, die seinen verursachten SCH um <span style=\"color: #f29e38ff\">{1}</span> erhöht. Dieser Effekt ist bis zu {2}-fach stapelbar und hält bis zum Ende seiner Runde an.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          6
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Blitz des Regenbogens",
+      "desc": "Nach der Anwendung seiner Technik geht Dan Heng – Imbibitor Lunae für 2[i] Sekunden in den Status Springender Drache über. Im Status Springender Drache bewegt sich Dan Heng – Imbibitor Lunae beim Einsatz seines Angriffs eine bestimmte Strecke schnell vorwärts, greift alle Gegner an, die er berührt und blockt alle eingehenden Angriffe. Wenn Dan Heng – Imbibitor Lunae durch Angriff von Feinden im Status Springender Drache in einen Kampf eintritt, fügt er allen Feinden imaginären SCH in Höhe von {3} seines ANG zu und erhält {1} „Unantastbare Schuppe“.",
+      "values": [
+        [
+          1
+        ],
+        [
+          20
+        ],
+        [
+          120
+        ]
+      ],
+      "format": [
+        "[i]",
+        "",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Blitzartiger Sprung",
+      "desc": "Führe einen Angriff mit 7 Treffern aus, der einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Dan Heng – Imbibitor Lunaes ANG zufügt. Fügt ab dem vierten Treffer den angrenzenden Einheiten imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Dan Heng – Imbibitor Lunaes ANG zu.",
+      "values": [
+        [
+          250,
+          300,
+          350,
+          400,
+          450,
+          500,
+          550,
+          600,
+          650,
+          250,
+          250,
+          250,
+          250,
+          250,
+          250
+        ],
+        [
+          90,
+          108,
+          126,
+          144,
+          162,
+          180,
+          198,
+          216,
+          234,
+          90,
+          90,
+          90,
+          90,
+          90,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
       ]
     }
   },

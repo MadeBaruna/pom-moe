@@ -143,6 +143,14 @@
     "rarity": 4,
     "background": "地底冒險團隊「鼴鼠黨」的老大（自封）。\\n熱愛自由，將生活視為一場又一場冒險。"
   },
+  "luka": {
+    "id": "luka",
+    "name": "盧卡",
+    "path": "nihility",
+    "element": "physical",
+    "rarity": 4,
+    "background": "貝洛伯格下層區的冠軍拳手，「地火」的得力幹將之一。\\n在搏擊俱樂部蟬聯冠軍，以自身的熱情激勵著下層區有夢想的孩子們。"
+  },
   "qingque": {
     "id": "qingque",
     "name": "青雀",
@@ -214,6 +222,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "仙舟「羅浮」持明族的尊長，有「銜藥龍女」之稱的醫士。\\n以獨門醫理和唯有龍脈方可施行的「醫療手段」救死扶傷。"
+  },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "丹恆•飲月",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "丹恆身為持明族的本相，其上一世「飲月君」所遺存的力量。\\n接受了額頂的崢嶸角冠，就要接受那罪人所留的一切功過。"
   },
   "trailblazer": {
     "id": "trailblazer",

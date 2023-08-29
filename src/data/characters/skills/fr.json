@@ -290,7 +290,7 @@
     },
     "talent": {
       "name": "Portée supérieure",
-      "desc": "Lorsque Dan Heng est la cible de la capacité d'un allié, la <u>PÉN de RÉS</u> de vent de sa prochaine attaque augmente de <span style=\"color: #f29e38ff\">{1}</span>. Cet effet peut être déclenché à nouveau après {2} tours.",
+      "desc": "Lorsque Dan Heng est la cible de la capacité d'un allié, la <u>PÉN de RÉS</u> de vent de sa prochaine attaque augmente de <span style=\"color: #f29e38ff\">{1}</span>. Cet effet peut se déclencher à nouveau après {2} tours.",
       "values": [
         [
           18,
@@ -768,7 +768,7 @@
     },
     "ultimate": {
       "name": "Trille crépusculaire",
-      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Kafka à tous les ennemis. Les ennemis touchés ont {2} de <u>chances de base</u> d'être stupéfiés et de subir immédiatement des DGT équivalents à <span style=\"color: #f29e38ff\">{5}</span> des dégâts sur la durée. Stupéfaction dure {3} tours.\\nLes ennemis stupéfiés subissent des dégâts de foudre sur la durée équivalents à <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de Kafka au début de chaque tour.",
+      "desc": "Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Kafka à tous les ennemis. Les ennemis touchés ont {2} de <u>chances de base</u> d'être stupéfiés et de subir immédiatement des dégâts équivalents à <span style=\"color: #f29e38ff\">{5}</span> des DGT initiaux de l'effet Stupéfaction. Stupéfaction dure {3} tours.\\nLes ennemis stupéfiés subissent des dégâts de foudre sur la durée équivalents à <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de Kafka au début de chaque tour.",
       "values": [
         [
           48,
@@ -838,7 +838,7 @@
     },
     "talent": {
       "name": "Douce mais cruelle",
-      "desc": "Lorsqu'un allié de Kafka utilise une ATQ normale sur une cible ennemie, Kafka lance immédiatement 1 <u>attaque de suivi</u> et inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ à cette cible, avec {2} de chances de base de lui infliger l'effet Stupéfaction de son ultime pendant {3} tours. Cet effet ne peut être déclenché que 1 fois par tour.",
+      "desc": "Lorsqu'un allié de Kafka utilise une ATQ normale sur une cible ennemie, Kafka lance immédiatement 1 <u>attaque de suivi</u> et inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de son ATQ à cette cible, avec {2} de <u>chances de base</u> de lui infliger l'effet Stupéfaction de son ultime pendant {3} tours. Cet effet ne peut être déclenché que 1 fois par tour.",
       "values": [
         [
           42,
@@ -878,7 +878,7 @@
     },
     "technique": {
       "name": "La pitié n'est pas un pardon",
-      "desc": "Attaque immédiatement tous les ennemis dans un rayon déterminé. Inflige des DGT de foudre équivalents à {3} de l'ATQ de Kafka à tous les ennemis après être entré en combat, avec {1} de <u>chances de base</u> d'infliger l'effet Stupéfaction de l'ultime à chaque ennemi pendant {2} tours.",
+      "desc": "Attaque immédiatement tous les ennemis dans un rayon déterminé. Inflige des DGT de foudre équivalents à {3} de l'ATQ de Kafka à tous les ennemis après être entrée en combat, avec {1} de <u>chances de base</u> d'infliger l'effet Stupéfaction de l'ultime à chaque ennemi pendant {2} tours.",
       "values": [
         [
           100
@@ -2412,7 +2412,7 @@
     },
     "technique": {
       "name": "Recherche sur l'hypnose",
-      "desc": "Attaque immédiatement les ennemis. Inflige des DGT physiques équivalents à {4} de l'ATQ de Natasha à un ennemi aléatoire avec {1} de <u>chances de base</u> d'affaiblir tous les ennemis après être entré en combat.\\nLes ennemis affaiblis infligent {2} de DGT en moins aux alliés pendant {3} tour.",
+      "desc": "Attaque immédiatement les ennemis. Inflige des DGT physiques équivalents à {4} de l'ATQ de Natasha à un ennemi aléatoire après être entré en combat, avec {1} de <u>chances de base</u> d'affaiblir tous les ennemis.\\nLes ennemis affaiblis infligent {2} de DGT en moins aux alliés pendant {3} tour.",
       "values": [
         [
           100
@@ -2662,7 +2662,7 @@
     },
     "ultimate": {
       "name": "C'est une promesse, pas un ordre",
-      "desc": "Après utilisation de l'ultime de Clara, les DGT qu'elle subit sont réduits de <span style=\"color: #f29e38ff\">{4}</span> supplémentaires et ses chances d'être attaquée par des ennemis sont fortement augmentées pendant {3} tours.\\nD'autre part, le <u>contre</u> de Svarog est renforcé. Lorsqu'un allié est attaqué, Svarog lance immédiatement un <u>contre</u> et son multiplicateur de DGT contre l'ennemi augmente de <span style=\"color: #f29e38ff\">{2}</span>. Les ennemis adjacents subissent 50 % des DGT infligés à la cible ennemie. Le <u>contre</u> renforcé peut prendre effet {5} fois.",
+      "desc": "Après utilisation de l'ultime de Clara, les DGT qu'elle subit sont réduits de <span style=\"color: #f29e38ff\">{4}</span> supplémentaires et ses chances d'être attaquée par les ennemis sont considérablement augmentées pendant {3} tours.\\nD'autre part, le <u>contre</u> de Svarog est renforcé. Lorsqu'un allié est attaqué, Svarog lance immédiatement un <u>contre</u> et son multiplicateur de DGT contre l'ennemi augmente de <span style=\"color: #f29e38ff\">{2}</span>. Les ennemis adjacents subissent 50 % des DGT infligés à la cible ennemie. Le <u>contre</u> renforcé peut prendre effet {5} fois.",
       "values": [
         [
           5
@@ -3171,6 +3171,266 @@
       ]
     }
   },
+  "lynx": {
+    "attack": {
+      "name": "Assaut du pic à glace",
+      "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> des PV max de Lynx à un ennemi unique.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Sardines en conserve",
+      "desc": "Applique Instinct de survie à une cible alliée unique et augmente ses PV max d'un montant équivalent à <span style=\"color: #f29e38ff\">{1}</span> des PV max de Lynx + <span style=\"color: #f29e38ff\">{2}</span>. Si la cible est un personnage de la Voie de la Destruction ou de la Préservation, elle voit ses chances d'être attaquée par les ennemis considérablement augmenter. Instinct de survie dure {3} tours.\\nRestaure les PV de la cible à hauteur de <span style=\"color: #f29e38ff\">{4}</span> des PV max de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          5,
+          5.3,
+          5.5,
+          5.7,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7
+        ],
+        [
+          50,
+          80,
+          103,
+          125,
+          140,
+          155,
+          166,
+          178,
+          189,
+          200,
+          211,
+          223,
+          234,
+          245,
+          256
+        ],
+        [
+          2
+        ],
+        [
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12,
+          12.4,
+          12.8,
+          13.2,
+          13.6,
+          14
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[f1]%",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Plan de secours des Plaines des neiges",
+      "desc": "Dissipe {1} <u>malus</u> à tous les alliés et leur redonne immédiatement un montant de PV équivalent à <span style=\"color: #f29e38ff\">{2}</span> des PV max de Lynx + <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          1
+        ],
+        [
+          9,
+          9.6,
+          10.1,
+          10.7,
+          11.3,
+          11.7,
+          12.2,
+          12.6,
+          13.1,
+          13.5,
+          13.9,
+          14.4,
+          14.8,
+          15.3,
+          15.7
+        ],
+        [
+          90,
+          144,
+          185,
+          225,
+          252,
+          279,
+          299,
+          320,
+          340,
+          360,
+          380,
+          401,
+          421,
+          441,
+          461
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Expérience de survie en plein air",
+      "desc": "Chaque fois que Lynx utilise sa compétence ou son ultime, elle applique un effet de soins continus sur l'allié ciblé pendant {1} tours, ce qui restaure un montant de PV équivalent à <span style=\"color: #f29e38ff\">{2}</span> des PV max de Lynx + <span style=\"color: #f29e38ff\">{3}</span> au début de chaque tour. Si la cible bénéficie d'Instinct de survie, l'effet de soins continus restaure en plus un montant de PV équivalent à <span style=\"color: #f29e38ff\">{4}</span> des PV max de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          2
+        ],
+        [
+          2.4,
+          2.5,
+          2.7,
+          2.8,
+          3,
+          3.1,
+          3.2,
+          3.4,
+          3.5,
+          3.6,
+          3.7,
+          3.8,
+          4,
+          4.1,
+          4.2
+        ],
+        [
+          24,
+          38,
+          49,
+          60,
+          67,
+          74,
+          80,
+          85,
+          91,
+          96,
+          101,
+          107,
+          112,
+          118,
+          123
+        ],
+        [
+          3,
+          3.2,
+          3.4,
+          3.6,
+          3.7,
+          3.9,
+          4.1,
+          4.2,
+          4.4,
+          4.5,
+          4.6,
+          4.8,
+          4.9,
+          5.1,
+          5.3
+        ],
+        [
+          30,
+          48,
+          62,
+          75,
+          84,
+          93,
+          100,
+          107,
+          113,
+          120,
+          127,
+          134,
+          140,
+          147,
+          154
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Barre énergétique chocolatée",
+      "desc": "Lorsque Lynx utilise sa technique, tous les alliés bénéficient de l'effet de soins continus de son talent pendant {1} tours au début du combat suivant.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
   "luka": {
     "attack": {
       "name": "Direct du droit",
@@ -3306,7 +3566,7 @@
     },
     "talent": {
       "name": "Étincelles volantes",
-      "desc": "Luka reçoit {1} cumul de Soif de combat après avoir utilisé son ATQ normale Direct du droit ou sa compétence Poing lacérateur jusqu'à un maximum de 4 cumuls. À 2 cumuls de Soif de combat, son ATQ normale Direct du droit est renforcée en Poing destructeur d'étoiles. Lorsque l'Uppercut du droit de son ATQ normale renforcée touche une cible ennemie victime de Saignement, l'effet Saignement inflige immédiatement des DGT équivalents à <span style=\"color: #f29e38ff\">{2}</span> des DGT de Saignement d'origine 1 fois. Luka dispose d'1 cumul de Soif de combat en début de combat.",
+      "desc": "Luka reçoit {1} cumul de Soif de combat après avoir utilisé son ATQ normale Direct du droit ou sa compétence Poing lacérateur jusqu'à un maximum de 4 cumuls. À 2 cumuls de Soif de combat, son ATQ normale Direct du droit est renforcée en Poing destructeur d'étoiles. Lorsque l'Uppercut du droit de son ATQ normale renforcée touche une cible ennemie victime de Saignement, l'effet Saignement inflige immédiatement des DGT équivalents à <span style=\"color: #f29e38ff\">{2}</span> des DGT de Saignement initiaux 1 fois. Luka dispose d'1 cumul de Soif de combat en début de combat.",
       "values": [
         [
           1
@@ -3736,7 +3996,7 @@
     },
     "skill": {
       "name": "Prière de la Fleur de l'abîme",
-      "desc": "Après utilisation de la compétence, restaure immédiatement des PV à une cible alliée à hauteur de <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{2}</span>. D'autre part, Luocha obtient 1 cumul de Fleur de l'abîme.\\nLorsque le pourcentage de PV d'un allié devient inférieur ou égal à {3}, un effet équivalent à celui de la compétence est immédiatement déclenché et appliqué une fois à cet allié (sans consommer de points de compétence). Cet effet peut être déclenché à nouveau après {4} tours.",
+      "desc": "Après utilisation de la compétence, restaure immédiatement des PV à une cible alliée à hauteur de <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{2}</span>. D'autre part, Luocha obtient 1 cumul de Fleur de l'abîme.\\nLorsque le pourcentage de PV d'un allié devient inférieur ou égal à {3}, un effet équivalent à celui de la compétence est immédiatement déclenché et appliqué une fois à cet allié (sans consommer de points de compétence). Cet effet peut se déclencher à nouveau après {4} tours.",
       "values": [
         [
           40,
@@ -3818,7 +4078,7 @@
     },
     "talent": {
       "name": "Cycle de la vie",
-      "desc": "Lorsque le nombre de cumuls de Fleur de l'abîme atteint {1}, Luocha consomme tous les cumuls de Fleur de l'abîme pour déployer un Champ hostile aux ennemis.\\nLorsqu'un ennemi situé dans le Champ est attaqué par un allié, les PV de ce dernier sont immédiatement restaurés à hauteur de <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{4}</span>.\\nL'effet du Champ dure {3} tours. Le Champ se dissipe lorsque Luocha est à terre.",
+      "desc": "Lorsque le nombre de cumuls de Fleur de l'abîme atteint {1}, Luocha consomme tous les cumuls de Fleur de l'abîme pour déployer un Champ hostile aux ennemis.\\nLorsqu'un ennemi situé dans le Champ est attaqué par un allié, les PV de ce dernier sont immédiatement restaurés à hauteur de <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Luocha + <span style=\"color: #f29e38ff\">{4}</span>.\\nL'effet du Champ dure {3} tours. Le Champ se dissipe lorsque Luocha est <u>à terre</u>.",
       "values": [
         [
           2
@@ -4088,7 +4348,7 @@
     },
     "ultimate": {
       "name": "Condamnation à mort",
-      "desc": "Les PV de Blade passent à 50 % de ses PV max, et il inflige des DGT de vent équivalents à la somme de <span style=\"color: #f29e38ff\">{1}</span> de son ATQ, <span style=\"color: #f29e38ff\">{2}</span> de ses PV max, et <span style=\"color: #f29e38ff\">{5}</span> du total des PV qu'il a perdus au cours du combat à une cible unique, tout en infligeant des DGT de vent équivalents à la somme de <span style=\"color: #f29e38ff\">{3}</span> de son ATQ, <span style=\"color: #f29e38ff\">{4}</span> de ses PV max, et <span style=\"color: #f29e38ff\">{6}</span> du total des PV qu'il a perdus au cours du combat aux cibles adjacentes. Le montant des PV qu'il a perdus au cours du combat est plafonné à <span style=\"color: #f29e38ff\">{7}</span> de ses PV max. Ce montant est remis à zéro et recommence à s'accumuler après l'utilisation de l'ultime.",
+      "desc": "Les PV de Blade passent à 50 % de ses PV max, et il inflige des DGT de vent équivalents à la somme de <span style=\"color: #f29e38ff\">{1}</span> de son ATQ, <span style=\"color: #f29e38ff\">{2}</span> de ses PV max, et <span style=\"color: #f29e38ff\">{5}</span> du total des PV qu'il a perdus au cours du combat à une cible unique, tout en infligeant des DGT de vent équivalents à la somme de <span style=\"color: #f29e38ff\">{3}</span> de son ATQ, <span style=\"color: #f29e38ff\">{4}</span> de ses PV max, et <span style=\"color: #f29e38ff\">{6}</span> du total des PV qu'il a perdus au cours du combat aux cibles adjacentes.\\nLe total des PV qu'il a perdus au cours du combat est plafonné à {7} de ses PV max. Ce montant est réinitialisé et recommence à s'accumuler après utilisation de l'ultime.",
       "values": [
         [
           24,
@@ -4626,7 +4886,7 @@
     },
     "talent": {
       "name": "Sept épaisseurs, une flèche",
-      "desc": "Les ATQ normales infligent des DGT imaginaires supplémentaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yukong et les DGT à la robustesse de ces attaques augmentent de {2}. Cet effet peut être déclenché à nouveau après {3} tour.",
+      "desc": "Les ATQ normales infligent des DGT imaginaires supplémentaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yukong et les DGT à la robustesse de ces attaques augmentent de {2}. Cet effet peut se déclencher à nouveau après {3} tour.",
       "values": [
         [
           40,
@@ -4681,6 +4941,180 @@
       "format": [
         "[i]",
         "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "fu-xuan": {
+    "attack": {
+      "name": "Frappe stellaire",
+      "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> des PV max de Fu Xuan à un ennemi unique.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Merveille des étoiles",
+      "desc": "Active Matrice de prémonition, ce qui permet aux autres membres de l'équipe de Fu Xuan de lui <u>transférer</u> {1} des DGT qu'ils subissent (avant que ces DGT ne soient atténués par d'éventuels boucliers) pendant {3} tours.\\nLorsqu'ils sont affectés par Matrice de prémonition, tous les membres de l'équipe bénéficient de l'effet Connaissance, qui augmente leurs PV max respectifs à hauteur de <span style=\"color: #f29e38ff\">{4}</span> des PV max de Fu Xuan, et leurs chances de coup critique de <span style=\"color: #f29e38ff\">{5}</span>.\\nMatrice de prémonition se dissipe lorsque Fu Xuan est <u>à terre</u>.",
+      "values": [
+        [
+          65
+        ],
+        [
+          0
+        ],
+        [
+          3
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[i]",
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Évolution ultime",
+      "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> des PV max de Fu Xuan à tous les ennemis et obtient 1 déclenchement pour l'effet de restauration de PV accordé par le talent de Fu Xuan.",
+      "values": [
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Coup du sort",
+      "desc": "Tant que Fu Xuan n'a pas été mise à terre, Évitement d'infortune s'applique à toute l'équipe. Lorsqu'ils sont affectés par Évitement d'infortune, les alliés subissent <span style=\"color: #f29e38ff\">{1}</span> moins de DGT.\\nLa restauration de PV de Fu Xuan se déclenche lorsque ses PV tombent à {2} de ses PV max ou moins. Cela lui permet de récupérer <span style=\"color: #f29e38ff\">{3}</span> du montant de PV qu'il lui manque actuellement. Cet effet ne peut pas être déclenché en cas de coup fatal. Il est disponible 1 fois par défaut, et peut passer à 2 fois au maximum.",
+      "values": [
+        [
+          10,
+          10.8,
+          11.6,
+          12.4,
+          13.2,
+          14,
+          15,
+          16,
+          17,
+          18,
+          18.8,
+          19.6,
+          20.4,
+          21.2,
+          22
+        ],
+        [
+          50
+        ],
+        [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque l'ennemi. Réduit la robustesse des cibles ennemies au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "De la chance au destin",
+      "desc": "Après utilisation de la technique, tous les membres de l'équipe bénéficient d'une barrière qui dure {1} secondes. Cette barrière bloque toutes les attaques ennemies, et empêche l'équipe d'entrer en combat lorsqu'elle est attaquée. Lorsque vous engagez le combat avec la barrière active, Fu Xuan active automatiquement Matrice de prémonition en début de combat pour {2} tours.",
+      "values": [
+        [
+          20
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
         "[i]"
       ]
     }
@@ -5130,6 +5564,210 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "dan-heng-imbibitor-lunae": {
+    "attack": {
+      "name": "Lotus bénéfique",
+      "desc": "Utilise une attaque qui frappe 2 fois et inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dan Heng • Imbibitor Lunae à une cible ennemie unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Déchaînement du dragon",
+      "desc": "Renforce l'ATQ normale. Le renforcement peut s'appliquer jusqu'à 3 fois consécutivement. L'utilisation de cette capacité ne consomme pas de point de compétence et n'est pas considérée comme une utilisation de compétence.\\nRenforcé une fois, Lotus bénéfique devient Transcendance.\\nRenforcé 2 fois, Lotus bénéfique devient Lance divine.\\nRenforcé 3 fois, Lotus bénéfique devient Bond fulgurant.\\nLorsque vous utilisez Lance divine ou Bond fulgurant, vous gagnez 1 cumul de Rugissement dominateur avant chaque frappe (à partir de la quatrième). Chaque cumul de Rugissement dominateur augmente les DGT critiques de Dan Heng • Imbibitor Lunae de <span style=\"color: #f29e38ff\">{1}</span>, pour un maximum de {2} cumuls. Ces cumuls durent jusqu'à la fin de son tour.",
+      "values": [
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          4
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Absolution des eaux azur",
+      "desc": "Utilise une attaque qui frappe 3 fois et inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dan Heng • Imbibitor Lunae à une cible ennemie unique. D'autre part, inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Dan Heng • Imbibitor Lunae aux cibles adjacentes. Puis, obtient {3} Écailles sacrées.\\nDan Heng • Imbibitor Lunae peut posséder jusqu'à {4} Écailles sacrées à la fois. Elles peuvent être utilisées pour compenser la consommation de points de compétence. L'utilisation d'Écailles sacrées est considérée comme équivalente à la consommation de points de compétence.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          84,
+          90,
+          95,
+          101,
+          106,
+          112,
+          119,
+          126,
+          133,
+          140,
+          146,
+          151,
+          157,
+          162,
+          168
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Cœur vertueux",
+      "desc": "Dan Heng • Imbibitor Lunae gagne 1 cumul de Cœur vertueux après chaque frappe assénée lors d'une attaque, ce qui augmente ses DGT de <span style=\"color: #f29e38ff\">{1}</span>. Cet effet peut être cumulé jusqu'à {2} fois, et dure jusqu'à la fin du tour du personnage.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          6
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Prismadragon de fulguration",
+      "desc": "Après utilisation de sa technique, Dan Heng • Imbibitor Lunae entre dans l'état du Dragon bondissant pendant {2} secondes. Lorsqu'il est dans cet état, il fonce en avant sur une courte distance lorsqu'il utilise son attaque, attaquant tous les ennemis sur sa route et bloquant toutes les attaques qui le touchent. S'il entre en combat en ayant attaqué des ennemis dans l'état du Dragon bondissant, Dan Heng • Imbibitor Lunae inflige des DGT imaginaires équivalents à {3} de son ATQ à tous les ennemis et obtient {1} Écaille sacrée.",
+      "values": [
+        [
+          1
+        ],
+        [
+          20
+        ],
+        [
+          120
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Bond fulgurant",
+      "desc": "Utilise une attaque qui frappe 7 fois et inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dan Heng • Imbibitor Lunae à une cible ennemie unique. À partir de la quatrième frappe, inflige simultanément des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Dan Heng • Imbibitor Lunae aux cibles adjacentes.",
+      "values": [
+        [
+          250,
+          300,
+          350,
+          400,
+          450,
+          500,
+          550,
+          600,
+          650,
+          250,
+          250,
+          250,
+          250,
+          250,
+          250
+        ],
+        [
+          90,
+          108,
+          126,
+          144,
+          162,
+          180,
+          198,
+          216,
+          234,
+          90,
+          90,
+          90,
+          90,
+          90,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
       ]
     }
   },

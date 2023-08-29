@@ -143,6 +143,14 @@
     "rarity": 4,
     "background": "地底冒险团队「鼹鼠党」的老大（自封）。\\n热爱自由，将生活视为一场又一场冒险。"
   },
+  "lynx": {
+    "id": "lynx",
+    "name": "玲可",
+    "path": "abundance",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "贝洛伯格的雪原探险家，朗道家的小妹妹。\\n性格淡定，行动力极强。常常孤身前往雪原探险。"
+  },
   "luka": {
     "id": "luka",
     "name": "卢卡",
@@ -207,6 +215,14 @@
     "rarity": 4,
     "background": "仙舟「罗浮」天舶司的首领，久历战阵的飞行士与射手。\\n而今却陷于繁冗公务，难以抽身。"
   },
+  "fu-xuan": {
+    "id": "fu-xuan",
+    "name": "符玄",
+    "path": "preservation",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "仙舟「罗浮」太卜司之首。\\n凭借第三眼与穷观阵为仙舟占算航路，预卜事务吉凶。"
+  },
   "yanqing": {
     "id": "yanqing",
     "name": "彦卿",
@@ -222,6 +238,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "仙舟「罗浮」持明族的尊长，有「衔药龙女」之称的医士。\\n以独门医理和唯有龙脉方可施行的「医疗手段」救死扶伤。"
+  },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "丹恒•饮月",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "丹恒身为持明族的本相，其上一世「饮月君」所遗存的力量。\\n接受了额顶的峥嵘角冠，就要接受那罪人所立的一切功过。"
   },
   "trailblazer": {
     "id": "trailblazer",

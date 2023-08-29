@@ -768,7 +768,7 @@
     },
     "ultimate": {
       "name": "Vibração do Crepúsculo",
-      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Kafka como Dano de Raio a todos os inimigos. Há {2} de <u>chance-base</u> de os inimigos atingidos serem afligidos com Choque e imediatamente receberem Dano do estado de Choque atual igual a <span style=\"color: #f29e38ff\">{5}</span> do Dano original. Choque dura {3} rodada(s).\\nEnquanto em Choque, inimigos recebem <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Kafka como Dano Contínuo de Raio no início de cada rodada.",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Kafka como Dano de Raio a todos os inimigos. Há {2} de <u>chance-base</u> de os inimigos atingidos serem afligidos com Choque e imediatamente receberem Dano do estado de Choque atual igual a <span style=\"color: #f29e38ff\">{5}</span> do Dano original. Choque dura {3} rodada(s).\\nEnquanto em Choque, inimigos recebem <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Kafka como Dano de Raio Contínuo no início de cada rodada.",
       "values": [
         [
           48,
@@ -838,7 +838,7 @@
     },
     "talent": {
       "name": "Gentil, Mas Cruel",
-      "desc": "Após um aliado de Kafka usar um ATQ Básico em um alvo inimigo, Kafka imediatamente realiza 1 <u>Ataque Extra</u> e causa Dano de Raio igual a <span style=\"color: #f29e38ff\">{1}</span> do seu ATQ ao alvo, com {2} de chance-base de infligir Choque equivalente àquele aplicado pela Perícia Suprema dela ao alvo inimigo atacado por {3} rodadas. Este efeito só pode ser ativado 1 vez por rodada.",
+      "desc": "Após um aliado de Kafka usar um ATQ Básico em um alvo inimigo, Kafka imediatamente realiza 1 <u>Ataque Extra</u> e causa Dano de Raio igual a <span style=\"color: #f29e38ff\">{1}</span> do seu ATQ ao alvo, com {2} de <u>chance-base</u> de infligir Choque equivalente àquele aplicado pela Perícia Suprema dela ao alvo inimigo atacado, durando por {3} rodadas. Este efeito só pode ser ativado 1 vez por rodada.",
       "values": [
         [
           42,
@@ -1896,7 +1896,7 @@
     },
     "skill": {
       "name": "Clarão de Raio",
-      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Serval como Dano de Raio a um único inimigo e <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Serval como Dano de Raio aos inimigos adjacentes a ele, com {3} de <u>chance-base</u> de os inimigos atingidos receberem Choque por {4} rodada(s).\\nQuando em Choque, inimigos recebem Dano Contínuo de raio igual a <span style=\"color: #f29e38ff\">{5}</span> do ATQ de Serval no início de cada rodada.",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Serval como Dano de Raio a um único inimigo e <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Serval como Dano de Raio aos inimigos adjacentes a ele, com {3} de <u>chance-base</u> de os inimigos atingidos receberem Choque por {4} rodada(s).\\nQuando em Choque, inimigos recebem Dano de Raio Contínuo igual a <span style=\"color: #f29e38ff\">{5}</span> do ATQ de Serval no início de cada rodada.",
       "values": [
         [
           70,
@@ -2028,7 +2028,7 @@
     },
     "technique": {
       "name": "Boa Noite, Belobog",
-      "desc": "Ataca o inimigo imediatamente. Após entrar na batalha, causa {4} do ATQ de Serval como Dano de Raio a um inimigo aleatório, com {1} de <u>chance-base</u> de todos os inimigos receberem Choque por {3} rodada(s).\\nQuando em Choque, inimigos recebem {2} do ATQ de Serval como Dano Contínuo de Raio no início de cada rodada.",
+      "desc": "Ataca o inimigo imediatamente. Após entrar na batalha, causa {4} do ATQ de Serval como Dano de Raio a um inimigo aleatório, com {1} de <u>chance-base</u> de todos os inimigos receberem Choque por {3} rodada(s).\\nQuando em Choque, inimigos recebem {2} do ATQ de Serval como Dano de Raio Contínuo no início de cada rodada.",
       "values": [
         [
           100
@@ -2878,7 +2878,7 @@
     },
     "talent": {
       "name": "Adaga da Ventania",
-      "desc": "Os ataques de Sampo têm {1} de <u>chance-base</u> de infligir Cisalhamento de Vento por {3} rodada(s).\\nInimigos infligidos com Cisalhamento de Vento recebem Dano Contínuo de Vento igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Sampo no início de cada rodada. Cisalhamento de Vento pode se acumular até {4} vez(es).",
+      "desc": "Os ataques de Sampo têm {1} de <u>chance-base</u> de infligir Cisalhamento de Vento por {3} rodada(s).\\nInimigos infligidos com Cisalhamento de Vento recebem Dano de Vento Contínuo igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Sampo no início de cada rodada. Cisalhamento de Vento pode se acumular até {4} vez(es).",
       "values": [
         [
           65
@@ -2964,7 +2964,7 @@
     },
     "skill": {
       "name": "Ei! Lembra da Hook?",
-      "desc": "Causa Dano de Fogo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Hook a um inimigo-alvo. Além disso, há {2} de <u>chance-base</u> de infligir Queimadura por {3} rodada(s).\\nEnquanto tiverem Queimadura, inimigos recebem Dano Contínuo de Fogo igual a <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Hook no início de cada rodada.",
+      "desc": "Causa Dano de Fogo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Hook a um inimigo-alvo. Além disso, há {2} de <u>chance-base</u> de infligir Queimadura por {3} rodada(s).\\nEnquanto tiverem Queimadura, inimigos recebem Dano de Fogo Contínuo igual a <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Hook no início de cada rodada.",
       "values": [
         [
           120,
@@ -3078,7 +3078,7 @@
     },
     "technique": {
       "name": "Argh! Olha Essa Bagunça!",
-      "desc": "Ataca imediatamente o inimigo. Ao entrar em batalha, Hook causa Dano de Fogo igual a {4} de seu ATQ a um inimigo aleatório. Além disso, há {1} de <u>chance-base</u> de infligir Queimadura em todos os inimigos por {3} rodada(s).\\nEnquanto tiverem Queimadura, inimigos recebem {2} do ATQ de Hook como Dano Contínuo de Fogo no início de cada rodada.",
+      "desc": "Ataca imediatamente o inimigo. Ao entrar em batalha, Hook causa Dano de Fogo igual a {4} de seu ATQ a um inimigo aleatório. Além disso, há {1} de <u>chance-base</u> de infligir Queimadura em todos os inimigos por {3} rodada(s).\\nEnquanto tiverem Queimadura, inimigos recebem {2} do ATQ de Hook como Dano de Fogo Contínuo no início de cada rodada.",
       "values": [
         [
           100
@@ -3102,7 +3102,7 @@
     },
     "undefined": {
       "name": "Ei! Lembra da Hook?",
-      "desc": "Causa Dano de Fogo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Hook a um único inimigo, com {2} de <u>chance-base</u> de infligir Queimadura nele por {3} rodada(s). Adicionalmente, causa Dano de Fogo igual a <span style=\"color: #f29e38ff\">{5}</span> do ATQ de Hook a qualquer inimigo adjacente a ele.\\nEnquanto tiverem Queimadura, inimigos recebem Dano Contínuo de Fogo igual a <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Hook no início de cada rodada.",
+      "desc": "Causa Dano de Fogo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Hook a um único inimigo, com {2} de <u>chance-base</u> de infligir Queimadura nele por {3} rodada(s). Adicionalmente, causa Dano de Fogo igual a <span style=\"color: #f29e38ff\">{5}</span> do ATQ de Hook a qualquer inimigo adjacente a ele.\\nEnquanto tiverem Queimadura, inimigos recebem Dano de Fogo Contínuo igual a <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Hook no início de cada rodada.",
       "values": [
         [
           140,
@@ -3171,6 +3171,266 @@
       ]
     }
   },
+  "lynx": {
+    "attack": {
+      "name": "Técnica de Grampos de Neve",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos desta unidade a um único inimigo.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Latas de Acampamento Salgadas",
+      "desc": "Aplica \"Resposta de Sobrevivência\" em um único aliado-alvo e aumenta seus PV máximos em <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Lynx + <span style=\"color: #f29e38ff\">{2}</span>. Se o alvo for um personagem do Caminho da Destruição ou da Preservação, a chance de que ele seja atacado pelos inimigos aumentará drasticamente. A \"Resposta de Sobrevivência\" dura por {3} rodada(s).\\nRestaura os PV do alvo em <span style=\"color: #f29e38ff\">{4}</span> dos PV máximos de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          5,
+          5.3,
+          5.5,
+          5.7,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7
+        ],
+        [
+          50,
+          80,
+          103,
+          125,
+          140,
+          155,
+          166,
+          178,
+          189,
+          200,
+          211,
+          223,
+          234,
+          245,
+          256
+        ],
+        [
+          2
+        ],
+        [
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12,
+          12.4,
+          12.8,
+          13.2,
+          13.6,
+          14
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[f1]%",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Primeiros Socorros do Campo de Neve",
+      "desc": "Remove {1} <u>penalidade(s)</u> de todos os aliados e imediatamente restaura seus respectivos PV em uma quantidade igual a <span style=\"color: #f29e38ff\">{2}</span> dos PV máximos de Lynx + <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          1
+        ],
+        [
+          9,
+          9.6,
+          10.1,
+          10.7,
+          11.3,
+          11.7,
+          12.2,
+          12.6,
+          13.1,
+          13.5,
+          13.9,
+          14.4,
+          14.8,
+          15.3,
+          15.7
+        ],
+        [
+          90,
+          144,
+          185,
+          225,
+          252,
+          279,
+          299,
+          320,
+          340,
+          360,
+          380,
+          401,
+          421,
+          441,
+          461
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Experiência de Sobrevivência na Neve",
+      "desc": "Ao usar a Perícia ou Perícia Suprema de Lynx, aplica cura contínua ao aliado-alvo por {1} rodada(s), restaurando uma quantidade de PV igual a <span style=\"color: #f29e38ff\">{2}</span> dos PV máximos de Lynx + <span style=\"color: #f29e38ff\">{3}</span> no início de cada rodada. Se o alvo tiver \"Resposta de Sobrevivência\", o efeito da cura contínua restaura adicionalmente uma quantidade de PV igual a <span style=\"color: #f29e38ff\">{4}</span> dos PV máximos de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          2
+        ],
+        [
+          2.4,
+          2.5,
+          2.7,
+          2.8,
+          3,
+          3.1,
+          3.2,
+          3.4,
+          3.5,
+          3.6,
+          3.7,
+          3.8,
+          4,
+          4.1,
+          4.2
+        ],
+        [
+          24,
+          38,
+          49,
+          60,
+          67,
+          74,
+          80,
+          85,
+          91,
+          96,
+          101,
+          107,
+          112,
+          118,
+          123
+        ],
+        [
+          3,
+          3.2,
+          3.4,
+          3.6,
+          3.7,
+          3.9,
+          4.1,
+          4.2,
+          4.4,
+          4.5,
+          4.6,
+          4.8,
+          4.9,
+          5.1,
+          5.3
+        ],
+        [
+          30,
+          48,
+          62,
+          75,
+          84,
+          93,
+          100,
+          107,
+          113,
+          120,
+          127,
+          134,
+          140,
+          147,
+          154
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Após atacar um inimigo e entrar em batalha, o Tipo de Tenacidade do alvo inimigo sofrerá Enfraquecimento.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Barra de Chocolate Energética",
+      "desc": "Depois que Lynx usa sua Técnica, no início da próxima batalha, todos os aliados recebem o efeito de cura contínua do Talento dela por {1} rodada(s).",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
   "luka": {
     "attack": {
       "name": "Punho Certeiro",
@@ -3194,7 +3454,7 @@
     },
     "skill": {
       "name": "Punho Lacerante",
-      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Luka a um único inimigo-alvo. Além disso, há uma <u>chance-base</u> de {2} de infligir Sangramento neles, durando {5} rodada(s).\\nEnquanto estiver com Sangramento, o inimigo recebe {3} de seus PV máximos como Dano Contínuo Físico ao início de cada rodada. Este Dano não pode exceder <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Luka.",
+      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Luka a um único inimigo-alvo. Além disso, há uma <u>chance-base</u> de {2} de infligir Sangramento a ele, durando {5} rodada(s).\\nEnquanto estiver com Sangramento, o inimigo recebe {3} de seus PV máximos como Dano Físico Contínuo ao início de cada rodada. Este Dano não pode exceder <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Luka.",
       "values": [
         [
           60,
@@ -3306,7 +3566,7 @@
     },
     "talent": {
       "name": "Faíscas Voadoras",
-      "desc": "Após Luka usar seu ATQ Básico \"Punho Certeiro\" ou sua Perícia \"Punho Lacerante\", ele recebe {1} acúmulo de Desejo de Lutar, até um máximo de 4 acúmulos. Quando ele tiver 2 ou mais acúmulos de Desejo de Lutar, seu ATQ Básico \"Punho Certeiro\" é aprimorado para \"Punho Demolidor de Céus\". Depois que \"Gancho Ascendente\" do seu ATQ Básico Aprimorado atinge um inimigo-alvo com Sangramento, o Sangramento causa Dano ao alvo imediatamente por 1 vez igual a <span style=\"color: #f29e38ff\">{2}</span> do Dano original. No início da batalha, Luka possuirá 1 acúmulo de Desejo de Lutar.",
+      "desc": "Após Luka usar seu ATQ Básico \"Punho Certeiro\" ou sua Perícia \"Punho Lacerante\", ele recebe {1} acúmulo de Desejo de Lutar, até um máximo de 4 acúmulos. Quando ele tiver 2 ou mais acúmulos de Desejo de Lutar, seu ATQ Básico \"Punho Certeiro\" é aprimorado para \"Punho Demolidor de Céus\". Depois que o \"Gancho Ascendente\" do seu ATQ Básico Aprimorado atinge um inimigo-alvo com Sangramento, o Sangramento causa Dano ao alvo imediatamente por 1 vez igual a <span style=\"color: #f29e38ff\">{2}</span> do Dano original. No início da batalha, Luka possuirá 1 acúmulo de Desejo de Lutar.",
       "values": [
         [
           1
@@ -3818,7 +4078,7 @@
     },
     "talent": {
       "name": "Ciclo da Vida",
-      "desc": "Quando a Flor do Abismo alcança {1} acúmulo(s), Luocha consome todos os acúmulos de Flor do Abismo para ativar um Campo contra o inimigo.\\nQuando qualquer inimigo dentro do Campo é atacado por um aliado, o PV desse aliado é imediatamente restaurado em uma quantidade igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Luocha mais <span style=\"color: #f29e38ff\">{4}</span>.\\nO efeito do Campo dura {3} rodadas. Quando Luocha é derrubado, o Campo é desativado.",
+      "desc": "Quando a Flor do Abismo alcança {1} acúmulo(s), Luocha consome todos os acúmulos de Flor do Abismo para ativar um Campo contra o inimigo.\\nQuando qualquer inimigo dentro do Campo é atacado por um aliado, o PV desse aliado é imediatamente restaurado em uma quantidade igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Luocha mais <span style=\"color: #f29e38ff\">{4}</span>.\\nO efeito do Campo dura {3} rodadas. Quando Luocha é <u>derrubado</u>, o Campo é desativado.",
       "values": [
         [
           2
@@ -4685,6 +4945,180 @@
       ]
     }
   },
+  "fu-xuan": {
+    "attack": {
+      "name": "Explosão Supernova",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Fu Xuan a um único inimigo.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Conhecida pelas Estrelas, Exibida pelos Corações",
+      "desc": "Ativa a Matriz de Presciência através da qual outros membros da equipe vão <u>Distribuir</u> {1} do Dano que eles receberem (antes deste Dano ser mitigado por quaisquer Escudos) com Fu Xuan por {3} rodada(s).\\nEnquanto afetados pela Matriz de Presciência, todos os membros da equipe ganham o efeito de Conhecimento, que aumenta seus respectivos PV máximos em <span style=\"color: #f29e38ff\">{4}</span> dos PV máximos de Fu Xuan, e aumenta a Chance de CRIT em <span style=\"color: #f29e38ff\">{5}</span>.\\nQuando Fu Xuan é <u>derrubada</u>, a Matriz de Presciência é desfeita.",
+      "values": [
+        [
+          65
+        ],
+        [
+          0
+        ],
+        [
+          3
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[i]",
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Os Lamentos de Muitos Transformaram-se em Um",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Fu Xuan a todos os inimigos e obtém 1 contagem de ativação para o efeito de Recuperação de PV concedido pelo Talento de Fu Xuan.",
+      "values": [
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Das Sombras à Alegria",
+      "desc": "Enquanto Fu Xuan não tiver sido derrubada, a \"Prevenção de Infortúnio\" é aplicada à toda a equipe. Enquanto estiverem afetados pela \"Prevenção de Infortúnio\", os aliados recebem <span style=\"color: #f29e38ff\">{1}</span> a menos de Dano.\\nA Recuperação de PV será ativada para Fu Xuan quando os PV dela chegarem a {2} ou menos dos seus PV máximos. Este efeito recuperará os PV dela em <span style=\"color: #f29e38ff\">{3}</span> da quantidade de PV perdida no momento. Este efeito não pode ser ativado se ela receber um golpe fatal. Este efeito possui 1 contagem de ativação por padrão, e pode possuir um máximo de 2 contagens de ativação.",
+      "values": [
+        [
+          10,
+          10.8,
+          11.6,
+          12.4,
+          13.2,
+          14,
+          15,
+          16,
+          17,
+          18,
+          18.8,
+          19.6,
+          20.4,
+          21.2,
+          22
+        ],
+        [
+          50
+        ],
+        [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca o inimigo. Ao entrar em batalha, reduz a Tenacidade dos inimigos-alvo do Tipo correspondente.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Da Sorte Vem o Destino",
+      "desc": "Depois que a Técnica é utilizada, todos os membros da equipe recebem uma Barreira que dura por {1} segundos. Esta Barreira pode bloquear todos os ataques inimigos e a equipe não entrará em batalha quando atacada. Entrar em batalha enquanto a Barreira estiver ativa fará com que Fu Xuan ative a Matriz de Presciência automaticamente no início da batalha por {2} rodada(s).",
+      "values": [
+        [
+          20
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "yanqing": {
     "attack": {
       "name": "Espinho Congelado",
@@ -5032,7 +5466,7 @@
     },
     "talent": {
       "name": "Cabaça Cheia de Elixir",
-      "desc": "Depois de um aliado Revigorado ser atingido, restaura <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Bailu + <span style=\"color: #f29e38ff\">{2}</span>. Este efeito pode ser ativado {5} vez(es). Quando um aliado receber um golpe fatal, ele não será <u>derrubado</u>. Bailu o cura imediatamente em <span style=\"color: #f29e38ff\">{3}</span> dos PV máximos de Bailu + <span style=\"color: #f29e38ff\">{4}</span> de PV. Este efeito pode ser ativado uma vez por batalha.",
+      "desc": "Depois que um aliado com Revigoramento é atingido, restaura <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Bailu + <span style=\"color: #f29e38ff\">{2}</span>. Este efeito pode ser ativado {5} vez(es). Quando um aliado receber um golpe fatal, ele não será <u>derrubado</u>. Bailu o cura imediatamente em <span style=\"color: #f29e38ff\">{3}</span> dos PV máximos de Bailu + <span style=\"color: #f29e38ff\">{4}</span> de PV. Este efeito pode ser ativado uma vez por batalha.",
       "values": [
         [
           3.6,
@@ -5130,6 +5564,210 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "dan-heng-imbibitor-lunae": {
+    "attack": {
+      "name": "Lótus Beneficente",
+      "desc": "Usa um ataque de 2 golpes e causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Dan Heng - Embebidor Lunae a um único inimigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Dracore Libre",
+      "desc": "Aprimora o ATQ Básico. Aprimoramentos podem ser aplicados até 3 vezes consecutivas. Usar esta habilidade não consome Pontos de Perícia e não é considerado como utilização de uma Perícia.\\nAprimorado uma vez, Lótus Beneficente se torna Transcendência.\\nAprimorado duas vezes, Lótus Beneficente se torna Lança Divina.\\nAprimorado três vezes, Lótus Beneficente se torna Salto Fulgurante.\\nAo utilizar Lança Divina ou Salto Fulgurante, começando do quarto golpe, 1 acúmulo de \"Rugido Soberano\" é concedido antes de cada golpe. Cada acúmulo de \"Rugido Soberano\" aumenta o Dano CRIT de Dan Heng - Embebidor Lunae em <span style=\"color: #f29e38ff\">{1}</span>, até um máximo de {2} acúmulos. Estes acúmulos duram até o final da rodada dele.",
+      "values": [
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          4
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "A Água Celeste Ablui Tudo",
+      "desc": "Realiza um ataque de 3 golpes e causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Dan Heng - Embebidor Lunae a um único inimigo-alvo. Ao mesmo tempo, causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Dan Heng - Embebidor Lunae a alvos adjacentes. Então, obtém {3} Squama Sacrosancta.\\nÉ possível possuir até {4} Squama Sacrosancta, que podem ser usados para anular o consumo de Pontos de Perícia de Dan Heng - Embebidor Lunae. Consumir Squama Sacrosancta é considerado o equivalente a consumir Pontos de Perícia.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          84,
+          90,
+          95,
+          101,
+          106,
+          112,
+          119,
+          126,
+          133,
+          140,
+          146,
+          151,
+          157,
+          162,
+          168
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Coração Íntegro",
+      "desc": "Depois de cada golpe realizado durante um ataque, Dan Heng - Embebidor Lunae ganha 1 acúmulo de Coração Íntegro, aumentando seu Dano em <span style=\"color: #f29e38ff\">{1}</span>. Este efeito pode acumular até {2} vez(es), durando até o final da rodada dele.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          6
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Prismadracônico Amaina-Céus",
+      "desc": "Após usar sua Técnica, Dan Heng - Embebidor Lunae entra no estado de Dragão Saltitante por {2} segundos. Enquanto está no estado de Dragão Saltitante, usar o seu ataque permite que ele se mova para frente rapidamente por uma certa distância, atacando todos os inimigos que ele tocar e bloqueando todos os ataques direcionados a ele. Após entrar no combate ao atacar inimigos no estado de Dragão Saltitante, Dan Heng - Embebidor Lunae causa Dano Imaginário igual a {3} do seu ATQ a todos os inimigos, e ganha {1} Squama Sacrosancta.",
+      "values": [
+        [
+          1
+        ],
+        [
+          20
+        ],
+        [
+          120
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Salto Fulgurante",
+      "desc": "Realiza um ataque de 7 golpes e causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Dan Heng - Embebidor Lunae a um único inimigo-alvo. Do quarto golpe em diante, causa simultaneamente Dano Imaginário igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Dan Heng - Embebidor Lunae a alvos adjacentes.",
+      "values": [
+        [
+          250,
+          300,
+          350,
+          400,
+          450,
+          500,
+          550,
+          600,
+          650,
+          250,
+          250,
+          250,
+          250,
+          250,
+          250
+        ],
+        [
+          90,
+          108,
+          126,
+          144,
+          162,
+          180,
+          198,
+          216,
+          234,
+          90,
+          90,
+          90,
+          90,
+          90,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
       ]
     }
   },

@@ -223,6 +223,14 @@
     "rarity": 5,
     "background": "A Grande Mestra dos Vidyadharas, também conhecida como a \"Curandeira\" do Luofu.\\nEla usa sua ciência medicinal única para tratamentos que só podem ser concedidos à raça dracônica Vidyadhara para salvar vidas."
   },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "Dan Heng - Embebidor Lunae",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "A forma verdadeira de Dan Heng de sua linhagem Vidyadhara carrega o poder residual deixado pela sua encarnação passada, o Embebidor Lunae.\\nAo aceitar os majestosos chifres sobre sua coroa, ele deve aceitar todos os méritos e falhas atribuídos a esse pecador."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Desbravador",

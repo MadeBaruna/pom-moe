@@ -838,7 +838,7 @@
     },
     "talent": {
       "name": "Dịu Dàng Đồng Nghĩa Tàn Khốc",
-      "desc": "Sau khi đồng đội của Kafka tấn công thường vào kẻ địch, Kafka sẽ phát động ngay <u>Đòn Đánh Theo Sau</u>, gây Sát Thương Lôi tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Kafka cho mục tiêu này, và có {2} xác suất cơ bản khiến kẻ địch bị tấn công rơi vào trạng thái Sốc Điện giống với Tuyệt Kỹ, duy trì {3} hiệp, hiệu ứng này mỗi hiệp chỉ có thể kích hoạt 1 lần.",
+      "desc": "Sau khi đồng đội của Kafka tấn công thường vào kẻ địch, Kafka sẽ phát động ngay <u>Đòn Đánh Theo Sau</u>, gây Sát Thương Lôi tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Kafka cho mục tiêu này, và có {2} <u>xác suất cơ bản</u> khiến kẻ địch bị tấn công rơi vào trạng thái Sốc Điện giống với Tuyệt Kỹ, duy trì {3} hiệp, hiệu ứng này mỗi hiệp chỉ có thể kích hoạt 1 lần.",
       "values": [
         [
           42,
@@ -2174,7 +2174,7 @@
     },
     "talent": {
       "name": "Ý Chí Kiên Cường",
-      "desc": "Khi bị tấn công chí mạng, Gepard sẽ không rơi vào <u>trạng thái không thể chiến đấu</u>, và hồi ngay HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của bản thân. Hiệu ứng này trong 1 trận chỉ được kích hoạt 1 lần.",
+      "desc": "Khi bị tấn công chí tử, Gepard sẽ không rơi vào <u>trạng thái không thể chiến đấu</u>, và hồi ngay HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của bản thân. Hiệu ứng này trong 1 trận chỉ được kích hoạt 1 lần.",
       "values": [
         [
           25,
@@ -3171,6 +3171,266 @@
       ]
     }
   },
+  "lynx": {
+    "attack": {
+      "name": "Kỹ Thuật Trèo Băng",
+      "desc": "Gây cho 1 kẻ địch Sát Thương Lượng Tử bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của bản thân.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Đồ Hộp Cắm Trại Ngâm Muối",
+      "desc": "Cộng thêm \"Phản Ứng Sinh Tồn\" cho 1 đồng đội chỉ định, tăng Giới Hạn HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Lynx +<span style=\"color: #f29e38ff\">{2}</span>, nếu mục tiêu này thuộc vận mệnh Hủy Diệt hoặc Bảo Hộ, sẽ tăng cao xác suất bị phe địch tấn công, \"Phản Ứng Sinh Tồn\" duy trì {3} hiệp.\\nKhiến mục tiêu nay hồi HP bằng <span style=\"color: #f29e38ff\">{4}</span> Giới Hạn HP của Lynx +<span style=\"color: #f29e38ff\">{5}</span>.",
+      "values": [
+        [
+          5,
+          5.3,
+          5.5,
+          5.7,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5,
+          7.7,
+          8,
+          8.3,
+          8.5,
+          8.7
+        ],
+        [
+          50,
+          80,
+          103,
+          125,
+          140,
+          155,
+          166,
+          178,
+          189,
+          200,
+          211,
+          223,
+          234,
+          245,
+          256
+        ],
+        [
+          2
+        ],
+        [
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12,
+          12.4,
+          12.8,
+          13.2,
+          13.6,
+          14
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[f1]%",
+        "[i]",
+        ""
+      ]
+    },
+    "ultimate": {
+      "name": "Sơ Cứu Vùng Tuyết",
+      "desc": "Giải trừ {1} <u>Hiệu Ứng Xấu</u> của toàn bộ phe ta, hồi ngay cho toàn phe ta một lượng HP bằng <span style=\"color: #f29e38ff\">{2}</span> Giới Hạn HP của Lynx +<span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          1
+        ],
+        [
+          9,
+          9.6,
+          10.1,
+          10.7,
+          11.3,
+          11.7,
+          12.2,
+          12.6,
+          13.1,
+          13.5,
+          13.9,
+          14.4,
+          14.8,
+          15.3,
+          15.7
+        ],
+        [
+          90,
+          144,
+          185,
+          225,
+          252,
+          279,
+          299,
+          320,
+          340,
+          360,
+          380,
+          401,
+          421,
+          441,
+          461
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Kinh Nghiệm Sinh Tồn",
+      "desc": "Khi thi triển Chiến Kỹ hoặc Tuyệt Kỹ, sẽ khiến mục tiêu phe ta nhận hiệu ứng trị liệu liên tục trong {1} hiệp, khi bắt đầu mỗi hiệp mục tiêu hồi HP bằng <span style=\"color: #f29e38ff\">{2}</span> Giới Hạn HP của Lynx +<span style=\"color: #f29e38ff\">{3}</span>. Nếu mục tiêu này có \"Phản Ứng Sinh Tồn\", thì hiệu ứng trị liệu liên tục sẽ hồi thêm HP bằng <span style=\"color: #f29e38ff\">{2}</span> Giới Hạn HP của Lynx +<span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          2
+        ],
+        [
+          2.4,
+          2.5,
+          2.7,
+          2.8,
+          3,
+          3.1,
+          3.2,
+          3.4,
+          3.5,
+          3.6,
+          3.7,
+          3.8,
+          4,
+          4.1,
+          4.2
+        ],
+        [
+          24,
+          38,
+          49,
+          60,
+          67,
+          74,
+          80,
+          85,
+          91,
+          96,
+          101,
+          107,
+          112,
+          118,
+          123
+        ],
+        [
+          0.030000000027939677,
+          0.03187500103376806,
+          0.033750000642612576,
+          0.035625000251457095,
+          0.037499999860301614,
+          0.03899999940767884,
+          0.04050000035203993,
+          0.04199999989941716,
+          0.04350000014528632,
+          0.04499999969266355,
+          0.04649999993853271,
+          0.04799999948590994,
+          0.0494999997317791,
+          0.05099999997764826,
+          0.05250000022351742
+        ],
+        [
+          30,
+          48,
+          61.50000000046566,
+          75,
+          84,
+          93,
+          99.75000000069849,
+          106.50000000046566,
+          113.25000000023283,
+          120,
+          126.75000000069849,
+          133.50000000046566,
+          140.25000000023283,
+          147,
+          153.7500000006985
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "",
+        ""
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Gậy Năng Lượng Socola",
+      "desc": "Sau khi dùng Bí Kỹ, khi bắt đầu trận tiếp theo sẽ kèm thêm hiệu ứng trị liệu liên tục từ Thiên Phú của Lynx cho toàn bộ phe ta, duy trì {1} hiệp.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    }
+  },
   "luka": {
     "attack": {
       "name": "Nắm Đấm Trực Diện",
@@ -3818,7 +4078,7 @@
     },
     "talent": {
       "name": "Sự Luân Chuyển Sinh Mệnh",
-      "desc": "Khi Khoảnh Khắc Hoa Trắng đạt {1} tầng, Luocha sẽ tiêu hao toàn bộ Khoảnh Khắc Hoa Trắng để mở Kết Giới.\\nSau khi kẻ địch bất kỳ trong Kết Giới bị tấn công, mục tiêu thi triển tấn công của phe ta sẽ hồi ngay lượng HP bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Luocha +<span style=\"color: #f29e38ff\">{4}</span>.\\nHiệu ứng Kết Giới duy trì {3} hiệp. Khi Luocha không thể chiến đấu, kết giới sẽ bị giải trừ.",
+      "desc": "Khi Khoảnh Khắc Hoa Trắng đạt {1} tầng, Luocha sẽ tiêu hao toàn bộ Khoảnh Khắc Hoa Trắng để mở Kết Giới.\\nSau khi kẻ địch bất kỳ trong Kết Giới bị tấn công, mục tiêu thi triển tấn công của phe ta sẽ hồi ngay lượng HP bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Luocha +<span style=\"color: #f29e38ff\">{4}</span>.\\nHiệu ứng Kết Giới duy trì {3} hiệp. Khi Luocha <u>không thể chiến đấu</u>, kết giới sẽ bị giải trừ.",
       "values": [
         [
           2
@@ -4685,6 +4945,180 @@
       ]
     }
   },
+  "fu-xuan": {
+    "attack": {
+      "name": "Đánh Tuế Tinh",
+      "desc": "Gây cho 1 kẻ địch Sát Thương Lượng Tử bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Fu Xuan.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Tai Wei đánh cờ, Linh Tai hiện bóng",
+      "desc": "Mở \"Ma Trận Tiên Tri\", khiến {1} sát thương mà đồng đội Fu Xuan phải chịu khi chưa nhận đỡ Khiên <u>chia sẻ</u> cho Fu Xuan, duy trì {3} hiệp.\\nToàn phe ta ở trạng thái \"Ma Trận Tiên Tri\" nhận \"Giám Tri\". Giới Hạn HP của mục tiêu phe ta ở trạng thái \"Giám Tri\" tăng, giá trị tăng bằng <span style=\"color: #f29e38ff\">{4}</span> Giới Hạn HP của Fu Xuan, Tỷ Lệ Bạo Kích tăng <span style=\"color: #f29e38ff\">{5}</span>.\\nKhi Fu Xuan vào <u>trạng thái không thể chiến đấu</u>, Ma Trận Tiên Tri cũng sẽ bị giải trừ.",
+      "values": [
+        [
+          65
+        ],
+        [
+          0
+        ],
+        [
+          3
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[i]",
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Luật trời triển khai, lịch kiếp về một",
+      "desc": "Gây cho toàn thể địch Sát Thương Lượng Tử bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Fu Xuan, đồng thời nhận 1 lần kích hoạt hồi phục HP Thiên Phú của Fu Xuan.",
+      "values": [
+        [
+          60,
+          64,
+          68,
+          72,
+          76,
+          80,
+          85,
+          90,
+          95,
+          100,
+          104,
+          108,
+          112,
+          116,
+          120
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Khổ Tận Cam Lai",
+      "desc": "Khi Fu Xuan ở trạng thái có thể chiến đấu, sẽ đính kèm \"Tránh Nguy\" cho toàn thể phe ta, sát thương phải chịu của mục tiêu phe ta ở trạng thái \"Tránh Nguy\" giảm <span style=\"color: #f29e38ff\">{1}</span>.\\nKhi Phần Trăm HP hiện tại của Fu Xuan nhỏ hơn hoặc bằng {2}, sẽ kích hoạt hồi phục HP, giúp bản thân hồi phục HP bằng <span style=\"color: #f29e38ff\">{3}</span> HP đã tổn thất, khi chịu tấn công chí tử sẽ không thể kích hoạt hiệu ứng này. Hiệu ứng này ban đầu sẽ có 1 lần kích hoạt, tối đa có thể có 2 lần kích hoạt.",
+      "values": [
+        [
+          10,
+          10.8,
+          11.6,
+          12.4,
+          13.2,
+          14,
+          15,
+          16,
+          17,
+          18,
+          18.8,
+          19.6,
+          20.4,
+          21.2,
+          22
+        ],
+        [
+          50
+        ],
+        [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Năm tháng ghi nhớ thăng trầm, giữ vững yên bình bốn phương",
+      "desc": "Sau khi dùng Bí Kỹ, toàn phe ta nhận Chướng Ngại duy trì {1} giây. Chướng Ngại này có thể đỡ tất cả tấn công của kẻ địch, sẽ không vào chiến đấu. Trong thời gian duy trì Chướng Ngại, khi vào chiến đấu, Fu Xuan sẽ tự động mở \"Ma Trận Tiên Tri\", duy trì {2} hiệp.",
+      "values": [
+        [
+          20
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "yanqing": {
     "attack": {
       "name": "Sương Giá Đầy Trời",
@@ -5032,7 +5466,7 @@
     },
     "talent": {
       "name": "Hành Y Giúp Đời",
-      "desc": "Mục tiêu phe ta có \"Sinh Mệnh\", sau khi bị tấn công sẽ hồi lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{2}</span>, hiệu ứng này có thể kích hoạt {5} lần.\\nKhi đồng đội của Bailu chịu tấn công chí mạng, sẽ không rơi vào <u>trạng thái không thể chiến đấu</u>, Bailu sẽ trị liệu ngay cho mục tiêu đó, hồi HP bằng <span style=\"color: #f29e38ff\">{3}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{4}</span>. Hiệu ứng này có thể kích hoạt 1 lần trong 1 trận.",
+      "desc": "Mục tiêu phe ta có \"Sinh Mệnh\", sau khi bị tấn công sẽ hồi lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{2}</span>, hiệu ứng này có thể kích hoạt {5} lần.\\nKhi đồng đội của Bailu chịu tấn công chí tử, sẽ không rơi vào <u>trạng thái không thể chiến đấu</u>, Bailu sẽ trị liệu ngay cho mục tiêu đó, hồi HP bằng <span style=\"color: #f29e38ff\">{3}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{4}</span>. Hiệu ứng này có thể kích hoạt 1 lần trong 1 trận.",
       "values": [
         [
           3.6,
@@ -5130,6 +5564,210 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "dan-heng-imbibitor-lunae": {
+    "attack": {
+      "name": "Trạch Chi",
+      "desc": "Thi triển 2 đòn tấn công gây cho 1 kẻ địch Sát Thương Số Ảo bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dan Heng - Ẩm Nguyệt.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Long Lực Tự Tại",
+      "desc": "Khiến hiệu ứng Tấn Công Thường được cường hóa, tối đa có thể liên tục cường hóa 3 lần, thi triển kỹ năng này không tiêu hao Điểm Chiến Kỹ và không tính là sử dụng Chiến Kỹ.\\nCường hóa 1 lần, \"Trạch Chi\" biến thành \"Tức Thời\".\\nCường hóa 2 lần, \"Trạch Chi\" biến thành \"Ngọn Giáo Thánh Thần\".\\nCường hóa 3 lần, \"Trạch Chi\" biến thành \"Bàn Nã Diệu Dược\".\\nKhi thi triển \"Ngọn Giáo Thánh Thần\" hoặc \"Bàn Nã Diệu Dược\", bắt đầu từ đòn tấn công thứ 4, trước mỗi đòn tấn công sẽ nhận 1 tầng \"Hô Phong Hoán Vũ\", tăng <span style=\"color: #f29e38ff\">{1}</span> Sát Thương Bạo Kích của Dan Heng - Ẩm Nguyệt, hiệu ứng này có thể cộng dồn {2} tầng, duy trì đến khi hiệp của bản thân kết thúc.",
+      "values": [
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.7,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          4
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Gột Rửa Thế Gian",
+      "desc": "Thi triển 3 đòn tấn công gây Sát Thương Số Ảo cho 1 kẻ địch bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dan Heng - Ẩm Nguyệt, đồng thời gây Sát Thương Số Ảo cho mục tiêu lân cận bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Dan Heng - Ẩm Nguyệt. Và khiến bản thân nhận {3} Nghịch Lân.\\nTối đa sở hữu {4} Nghịch Lân, dùng để khấu trừ tiêu hao điểm Chiến Kỹ của Dan Heng - Ẩm Nguyệt. Tiêu hao Nghịch Lân được xem là tiêu hao điểm Chiến Kỹ.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          84,
+          90,
+          95,
+          101,
+          106,
+          112,
+          119,
+          126,
+          133,
+          140,
+          146,
+          151,
+          157,
+          162,
+          168
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Trái Tim Ngay Thẳng",
+      "desc": "Dan Heng - Ẩm Nguyệt sau mỗi đòn tấn công thi triển, sẽ nhận 1 tầng Trái Tim Chính Nghĩa, tăng <span style=\"color: #f29e38ff\">{1}</span> sát thương bản thân gây ra, hiệu ứng này có thể cộng dồn {2} tầng, duy trì đến khi hiệp của bản thân kết thúc.",
+      "values": [
+        [
+          5,
+          5.5,
+          6,
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.7,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
+        ],
+        [
+          6
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Long Thần Phá Hư Không",
+      "desc": "Sau khi dùng Bí Kỹ sẽ vào trạng thái Bàn Diệu trong {2} giây. Ở trạng thái này, dùng tấn công sẽ di chuyển nhanh về phía trước một đoạn và tấn công kẻ địch tiếp xúc, trong lúc di chuyển nhanh có thể chống đỡ tất cả tấn công của kẻ địch. Ở trạng thái Bàn Diệu, sau khi chủ động tấn công kẻ địch vào chiến đấu, sẽ gây cho toàn bộ kẻ địch Sát Thương số Ảo bằng {3} Tấn Công của Dan Heng - Ẩm Nguyệt, đồng thời khiến bản thân nhận {1} Nghịch Lân.",
+      "values": [
+        [
+          1
+        ],
+        [
+          20
+        ],
+        [
+          120
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Bàn Nã Diệu Dược",
+      "desc": "Thi triển 7 đòn tấn công lên 1 kẻ địch chỉ định gây ra Sát Thương Số Ảo bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dan Heng - Ẩm Nguyệt. Bắt đầu từ đòn tấn công thứ 4, cùng lúc gây ra Sát Thương Số Ảo bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Dan Heng - Ẩm Nguyệt lên mục tiêu lân cận.",
+      "values": [
+        [
+          250,
+          300,
+          350,
+          400,
+          450,
+          500,
+          550,
+          600,
+          650,
+          250,
+          250,
+          250,
+          250,
+          250,
+          250
+        ],
+        [
+          90,
+          108,
+          126,
+          144,
+          162,
+          180,
+          198,
+          216,
+          234,
+          90,
+          90,
+          90,
+          90,
+          90,
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
       ]
     }
   },

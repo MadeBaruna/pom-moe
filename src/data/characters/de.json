@@ -149,7 +149,7 @@
     "path": "nihility",
     "element": "physical",
     "rarity": 4,
-    "background": "Der Boxchampion von Belobogs Unterwelt und einer der fähigsten Kämpfer von Wildfeuer.\\nDer mehrjährige Champion des Fight Club beflügelt mit seinem Enthusiasmus die Träume der Kinder der Unterwelt."
+    "background": "Der Boxchampion von Belobogs Unterwelt und einer der fähigsten Kämpfer von Wildfeuer.\\nDer mehrjährige Champion des Fight Clubs beflügelt mit seinem Enthusiasmus die Träume der Kinder der Unterwelt."
   },
   "qingque": {
     "id": "qingque",
@@ -222,6 +222,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "Die Hohe Älteste des Vidyadhara wird auf der Xianzhou Luofu auch „Heilerin“ genannt.\\nMit ihrer einzigartigen Heilkunst und Behandlungsmethoden, die nur von den Vidyadhara-Drachen eingesetzt werden können, rettet sie Leben."
+  },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "Dan Heng – Imbibitor Lunae",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Dan Hengs wahre Form aus seiner Vidyadhara-Abstammung trägt die verbleibenden Kräfte seiner letzten Wiedergeburt Imbibitor Lunae in sich.\\nBei Annahme seiner Krone aus majestätischen Hörnern muss er alle Vorzüge und Fehler hinnehmen, die mit diesem Sünder in Verbindung stehen."
   },
   "trailblazer": {
     "id": "trailblazer",

@@ -149,7 +149,7 @@
     "path": "nihility",
     "element": "physical",
     "rarity": 4,
-    "background": "Le champion de boxe du Souterrain de Belobog et l'un des meilleurs combattants des Feux sauvages.\\nVainqueur à multiples reprises du Club de combat, son enthousiasme est source d'inspiration pour les enfants du Souterrain qui osent encore rêver."
+    "background": "Le champion de boxe du Souterrain de Belobog et l'un des meilleurs combattants des Feux sauvages.\\nVainqueur en titre à multiples reprises du Club de combat, son enthousiasme est source d'inspiration pour les enfants du Souterrain qui rêvent de grandeur."
   },
   "qingque": {
     "id": "qingque",
@@ -222,6 +222,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "La Grande ancienne des Vidyadhariens également connue sous le nom de « Dame guérisseuse » à bord du Luofu.\\nElle utilise sa science médicale et ses traitements uniques issus du peuple des dragons vidyadhariens pour sauver des vies."
+  },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "Dan Heng • Imbibitor Lunae",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "La forme originelle de Dan Heng, reflet de son héritage vidyadharien, déploie la puissance résiduelle de son incarnation passée : l'Imbibitor Lunae.\\nEn acceptant les majestueuses cornes qui habillent son crâne, Dan Heng doit accepter tous les mérites et toutes les fautes attribués à ce pécheur."
   },
   "trailblazer": {
     "id": "trailblazer",

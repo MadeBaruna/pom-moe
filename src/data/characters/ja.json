@@ -223,6 +223,14 @@
     "rarity": 5,
     "background": "仙舟「羅浮」の持明族の尊長、「啣薬の龍女」と称される医士。\\n彼女は独自の医療知識と、龍脈を持つ者にしか行えない「医療手段」で人々の傷や病を治している。"
   },
+  "dan-heng-imbibitor-lunae": {
+    "id": "dan-heng-imbibitor-lunae",
+    "name": "丹恒・飲月",
+    "path": "destruction",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "持明族としての丹恒の本相、その前世である「飲月君」が残した力。\\n崢嶸たる角冠を受け継いだ以上、咎人の功罪をすべて受け継がなければならない。"
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "開拓者",
