@@ -128,6 +128,21 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['kafka'],
 			featured4: ['luka', 'sampo', 'serval']
+		},
+		{
+			code: 2009,
+			type: 'character',
+			name: 'Epochal Spectrum',
+			start: '2023-08-30 06:00:00',
+			end: '2023-09-20 11:59:00',
+			color: '#7d90c3',
+			version: '1.2',
+			image: 'Epochal Spectrum 2009.png',
+			pos: '75% 20%',
+			zoom: 1.2,
+			featured5: ['dan-heng-imbibitor-lunae'],
+			featured4: ['yukong', 'asta', 'march-7th'],
+			timezoneDependent: true
 		}
 	],
 	lightcone: [
@@ -221,6 +236,20 @@ export const banners: Banners = {
 				'eyes-of-the-prey',
 				'the-birth-of-the-self'
 			]
+		},
+		{
+			code: 3008,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-08-30 06:00:00',
+			end: '2023-09-20 11:59:00',
+			color: '#8c9ba5',
+			version: '1.2',
+			image: 'Brilliant Fixation 3009.png',
+			pos: '70% 0%',
+			zoom: 1.2,
+			featured5: ['brighter-than-the-sun'],
+			featured4: ['dance-dance-dance', 'planetary-rendezvous', 'landaus-choice']
 		}
 	],
 	standard: [
