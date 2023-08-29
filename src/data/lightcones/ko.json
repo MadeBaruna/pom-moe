@@ -259,7 +259,7 @@
   },
   "fermata": {
     "id": "fermata",
-    "name": "연장 기호",
+    "name": "페르마타",
     "path": "nihility",
     "rarity": 4
   },
@@ -277,7 +277,7 @@
   },
   "past-and-future": {
     "id": "past-and-future",
-    "name": "지난 미래",
+    "name": "과거와 미래",
     "path": "harmony",
     "rarity": 4
   },
@@ -319,7 +319,7 @@
   },
   "carve-the-moon-weave-the-clouds": {
     "id": "carve-the-moon-weave-the-clouds",
-    "name": "달 조각과 구름 재단의 뜻",
+    "name": "누월재운의 뜻",
     "path": "harmony",
     "rarity": 4
   },
@@ -379,7 +379,7 @@
   },
   "patience-is-all-you-need": {
     "id": "patience-is-all-you-need",
-    "name": "기다림만 필요해",
+    "name": "필요한 건 기다림뿐",
     "path": "nihility",
     "rarity": 5
   },
@@ -417,6 +417,12 @@
     "id": "time-waits-for-no-one",
     "name": "세월은 흐를 뿐",
     "path": "abundance",
+    "rarity": 5
+  },
+  "brighter-than-the-sun": {
+    "id": "brighter-than-the-sun",
+    "name": "태양보다 밝게 빛나는 것",
+    "path": "destruction",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

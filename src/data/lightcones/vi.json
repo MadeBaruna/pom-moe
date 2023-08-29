@@ -419,6 +419,12 @@
     "path": "abundance",
     "rarity": 5
   },
+  "brighter-than-the-sun": {
+    "id": "brighter-than-the-sun",
+    "name": "Rực Rỡ Hơn Mặt Trời",
+    "path": "destruction",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "Sự Sụp Đổ Của Aeon",

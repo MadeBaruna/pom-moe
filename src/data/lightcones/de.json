@@ -419,6 +419,12 @@
     "path": "abundance",
     "rarity": 5
   },
+  "brighter-than-the-sun": {
+    "id": "brighter-than-the-sun",
+    "name": "Heller als die Sonne",
+    "path": "destruction",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "Der Niedergang eines Äons",

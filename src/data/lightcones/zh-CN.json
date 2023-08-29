@@ -419,6 +419,12 @@
     "path": "abundance",
     "rarity": 5
   },
+  "brighter-than-the-sun": {
+    "id": "brighter-than-the-sun",
+    "name": "比阳光更明亮的",
+    "path": "destruction",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "记一位星神的陨落",
