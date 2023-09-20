@@ -68,29 +68,59 @@ async function processWarps(banner: BannerType, warps: GachaItem[]) {
 		5: false
 	};
 
+	let currentPity = 1;
+	let guaranteed = 0;
+	// 0 = los 50:50
+	// 1 = win 50:50
+	// 2 = guaranteed
+
 	for (const warp of saved) {
-		if (warp.rarity === 4) {
-			pity[4] = 0;
-			total[4]++;
-		} else if (warp.rarity === 5) {
-			pity[5] = 0;
-			total[5]++;
-		}
+		const bannerCode = Number(warp.bannerCode);
+		const currentBanner = bannersMap[bannerCode];
 
 		pity[4]++;
 		pity[5]++;
+
+		if (warp.rarity === 4) {
+			currentPity = pity[4];
+			pity[4] = 0;
+			total[4]++;
+
+			if (up[4]) {
+				guaranteed = 2;
+				up[4] = false;
+			} else if ((currentBanner?.featured4 ?? []).includes(warp.name)) {
+				guaranteed = 1;
+				up[4] = false;
+			} else {
+				guaranteed = 0;
+				up[4] = true;
+			}
+		} else if (warp.rarity === 5) {
+			currentPity = pity[5];
+			pity[5] = 0;
+			total[5]++;
+
+			if (up[5]) {
+				guaranteed = 2;
+				up[5] = false;
+			} else if ((currentBanner?.featured5 ?? []).includes(warp.name)) {
+				guaranteed = 1;
+				up[5] = false;
+			} else {
+				guaranteed = 0;
+				up[5] = true;
+			}
+		}
+
+		warp.pity = currentPity;
+		warp.guaranteed = guaranteed;
 	}
 
 	const warpItems = [];
 	for (const warp of warps) {
 		const bannerCode = Number(warp.gacha_id);
 		const currentBanner = bannersMap[bannerCode];
-
-		let currentPity = 1;
-		let guaranteed = 0;
-		// 0 = los 50:50
-		// 1 = win 50:50
-		// 2 = guaranteed
 
 		const name = slugify(warp.name);
 		itemCount.set(name, (itemCount.get(name) ?? 0) + 1);
@@ -162,6 +192,7 @@ async function processWarps(banner: BannerType, warps: GachaItem[]) {
 		}
 	};
 
+	await db[banner].bulkPut(saved);
 	await db[banner].bulkAdd(warpItems);
 	await db.items.bulkPut([...itemCount].map(([name, count]) => ({ name, count })));
 	await db.bannerSummary.put(summary);

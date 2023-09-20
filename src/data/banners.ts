@@ -238,7 +238,7 @@ export const banners: Banners = {
 			]
 		},
 		{
-			code: 3008,
+			code: 3009,
 			type: 'lightcone',
 			name: 'Brilliant Fixation',
 			start: '2023-08-30 06:00:00',
