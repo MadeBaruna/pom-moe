@@ -407,6 +407,12 @@
     "path": "erudition",
     "rarity": 5
   },
+  "she-already-shut-her-eyes": {
+    "id": "she-already-shut-her-eyes",
+    "name": "她已闭上双眼",
+    "path": "preservation",
+    "rarity": 5
+  },
   "sleep-like-the-dead": {
     "id": "sleep-like-the-dead",
     "name": "如泥酣眠",
@@ -441,6 +447,12 @@
     "id": "texture-of-memories",
     "name": "记忆的质料",
     "path": "preservation",
+    "rarity": 5
+  },
+  "solitary-healing": {
+    "id": "solitary-healing",
+    "name": "孤独的疗愈",
+    "path": "nihility",
     "rarity": 5
   }
 }

@@ -136,13 +136,27 @@ export const banners: Banners = {
 			start: '2023-08-30 06:00:00',
 			end: '2023-09-20 11:59:00',
 			color: '#7d90c3',
-			version: '1.2',
+			version: '1.3',
 			image: 'Epochal Spectrum 2009.png',
 			pos: '75% 20%',
 			zoom: 1.2,
 			featured5: ['dan-heng-imbibitor-lunae'],
 			featured4: ['yukong', 'asta', 'march-7th'],
 			timezoneDependent: true
+		},
+		{
+			code: 2010,
+			type: 'character',
+			name: 'Foreseen, Foreknown, Foretold',
+			start: '2023-09-20 12:00:00',
+			end: '2023-10-10 14:59:00',
+			color: '#e2a6cc',
+			version: '1.3',
+			image: 'Foreseen, Foreknown, Foretold 2010.png',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['fu-xuan'],
+			featured4: ['lynx', 'hook', 'pela']
 		}
 	],
 	lightcone: [
@@ -244,12 +258,26 @@ export const banners: Banners = {
 			start: '2023-08-30 06:00:00',
 			end: '2023-09-20 11:59:00',
 			color: '#8c9ba5',
-			version: '1.2',
+			version: '1.3',
 			image: 'Brilliant Fixation 3009.png',
 			pos: '70% 0%',
 			zoom: 1.2,
 			featured5: ['brighter-than-the-sun'],
 			featured4: ['dance-dance-dance', 'planetary-rendezvous', 'landaus-choice']
+		},
+		{
+			code: 3010,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-09-20 12:00:00',
+			end: '2023-10-10 14:59:00',
+			color: '#fbc6e6',
+			version: '1.3',
+			image: 'Brilliant Fixation 3010.png',
+			pos: '70% 0%',
+			zoom: 1.2,
+			featured5: ['she-already-shut-her-eyes'],
+			featured4: ['perfect-timing', 'under-the-blue-sky', 'trend-of-the-universal-market']
 		}
 	],
 	standard: [

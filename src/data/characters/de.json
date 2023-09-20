@@ -143,6 +143,14 @@
     "rarity": 4,
     "background": "Der (selbst ernannte) Boss der „Maulwürfe“, eines Abenteuertrupps aus dem Untergrund.\\nSie liebt ihre Freiheit und betrachtet das Leben als eine Reihe von Abenteuern."
   },
+  "lynx": {
+    "id": "lynx",
+    "name": "Lynx",
+    "path": "abundance",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Eine Schneewüsten-Erkunderin aus Belobog und die jüngste Schwester der Familie Landau.\\nBesitzt eine ruhige Persönlichkeit und handelt schnell und entschlossen. Verbringt die meiste Zeit, um die Schneewüste zu erkunden."
+  },
   "luka": {
     "id": "luka",
     "name": "Luka",
@@ -206,6 +214,14 @@
     "element": "imaginary",
     "rarity": 4,
     "background": "Leiterin der Himmelreisekommission auf der Xianzhou Luofu. Yukong war eine erfahrene Pilotin und zielsichere Schützin.\\nSeit sie der Kommission vorsteht, kämpft sie hauptsächlich gegen Berge an Papierkram."
+  },
+  "fu-xuan": {
+    "id": "fu-xuan",
+    "name": "Fu Xuan",
+    "path": "preservation",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "Leiterin der Wahrsagekommission auf der Luofu.\\nSie verwendet das dritte Auge und die Matrix der Voraussicht, um die Route Xianzhous und den Ausgang von Ereignissen vorherzusagen."
   },
   "yanqing": {
     "id": "yanqing",

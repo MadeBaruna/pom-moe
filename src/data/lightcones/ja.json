@@ -407,6 +407,12 @@
     "path": "erudition",
     "rarity": 5
   },
+  "she-already-shut-her-eyes": {
+    "id": "she-already-shut-her-eyes",
+    "name": "閉ざした瞳",
+    "path": "preservation",
+    "rarity": 5
+  },
   "sleep-like-the-dead": {
     "id": "sleep-like-the-dead",
     "name": "泥の如き眠り",
@@ -441,6 +447,12 @@
     "id": "texture-of-memories",
     "name": "記憶の素材",
     "path": "preservation",
+    "rarity": 5
+  },
+  "solitary-healing": {
+    "id": "solitary-healing",
+    "name": "孤独の癒やし",
+    "path": "nihility",
     "rarity": 5
   }
 }

@@ -407,6 +407,12 @@
     "path": "erudition",
     "rarity": 5
   },
+  "she-already-shut-her-eyes": {
+    "id": "she-already-shut-her-eyes",
+    "name": "Elle a déjà fermé les yeux",
+    "path": "preservation",
+    "rarity": 5
+  },
   "sleep-like-the-dead": {
     "id": "sleep-like-the-dead",
     "name": "D'un sommeil de mort",
@@ -441,6 +447,12 @@
     "id": "texture-of-memories",
     "name": "Texture des Mémoires",
     "path": "preservation",
+    "rarity": 5
+  },
+  "solitary-healing": {
+    "id": "solitary-healing",
+    "name": "Remède à la solitude",
+    "path": "nihility",
     "rarity": 5
   }
 }

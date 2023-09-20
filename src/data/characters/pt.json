@@ -143,6 +143,14 @@
     "rarity": 4,
     "background": "Chefe (autointitulada) de um grupo aventureiro do Mundo de Baixo, as Toupeiras.\\nAdora a liberdade e vê a vida como uma série de aventuras."
   },
+  "lynx": {
+    "id": "lynx",
+    "name": "Lynx",
+    "path": "abundance",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Uma exploradora das Planícies Nevadas Beloboguianas e a irmã mais nova dos Landaus.\\nCalma e paciente, ela possui uma forte inclinação para a ação. Costuma sair em aventuras sozinha para explorar a natureza nevada."
+  },
   "luka": {
     "id": "luka",
     "name": "Luka",
@@ -206,6 +214,14 @@
     "element": "imaginary",
     "rarity": 4,
     "background": "Líder da Comissão de Exploração do Céu do Luofu do Xianzhou, Yukong foi uma piloto experiente e atiradora primorosa.\\nDesde que assumiu a liderança da comissão, vive enterrada em papelada."
+  },
+  "fu-xuan": {
+    "id": "fu-xuan",
+    "name": "Fu Xuan",
+    "path": "preservation",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "Líder da Comissão de Divinação do Luofu.\\nA pessoa que usa o terceiro olho e a Matriz de Presciência para prever a rota de Xianzhou e o resultado de eventos."
   },
   "yanqing": {
     "id": "yanqing",

@@ -407,6 +407,12 @@
     "path": "erudition",
     "rarity": 5
   },
+  "she-already-shut-her-eyes": {
+    "id": "she-already-shut-her-eyes",
+    "name": "Ya ha cerrado los ojos",
+    "path": "preservation",
+    "rarity": 5
+  },
   "sleep-like-the-dead": {
     "id": "sleep-like-the-dead",
     "name": "Dormir como un tronco",
@@ -441,6 +447,12 @@
     "id": "texture-of-memories",
     "name": "La textura de los recuerdos",
     "path": "preservation",
+    "rarity": 5
+  },
+  "solitary-healing": {
+    "id": "solitary-healing",
+    "name": "Sanación solitaria",
+    "path": "nihility",
     "rarity": 5
   }
 }

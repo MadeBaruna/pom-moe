@@ -407,6 +407,12 @@
     "path": "erudition",
     "rarity": 5
   },
+  "she-already-shut-her-eyes": {
+    "id": "she-already-shut-her-eyes",
+    "name": "Она закрыла глаза",
+    "path": "preservation",
+    "rarity": 5
+  },
   "sleep-like-the-dead": {
     "id": "sleep-like-the-dead",
     "name": "Мертвецкий сон",
@@ -441,6 +447,12 @@
     "id": "texture-of-memories",
     "name": "Материя памяти",
     "path": "preservation",
+    "rarity": 5
+  },
+  "solitary-healing": {
+    "id": "solitary-healing",
+    "name": "Одинокое исцеление",
+    "path": "nihility",
     "rarity": 5
   }
 }

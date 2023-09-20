@@ -143,6 +143,14 @@
     "rarity": 4,
     "background": "지하 모험단 「두더지파」의 대장(자칭)\\n자유를 사랑하며 인생을 끊이지 않는 모험이라고 생각한다"
   },
+  "lynx": {
+    "id": "lynx",
+    "name": "링스",
+    "path": "abundance",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "벨로보그의 설원 탐험가, 랜도 가문의 막내 여동생\\n담담한 성격에 행동력이 매우 강하다. 종종 홀로 설원을 탐험한다"
+  },
   "luka": {
     "id": "luka",
     "name": "루카",
@@ -206,6 +214,14 @@
     "element": "imaginary",
     "rarity": 4,
     "background": "선주「나부」 천박사(天舶司)의 수장이다. 수많은 전장을 거쳐온 노련한 비행사이자 궁수다.\\n지금은 쏟아져 내리는 공무 때문에 몸을 빼기 어려운 상태다."
+  },
+  "fu-xuan": {
+    "id": "fu-xuan",
+    "name": "부현",
+    "path": "preservation",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "선주 「나부」 태복사(太卜司)의 수뇌\\n제 3의 눈과 궁관진을 통해 선주의 항로와 일의 길흉을 점친다"
   },
   "yanqing": {
     "id": "yanqing",

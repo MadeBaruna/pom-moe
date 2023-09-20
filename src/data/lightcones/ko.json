@@ -407,6 +407,12 @@
     "path": "erudition",
     "rarity": 5
   },
+  "she-already-shut-her-eyes": {
+    "id": "she-already-shut-her-eyes",
+    "name": "그녀는 두 눈을 감았네",
+    "path": "preservation",
+    "rarity": 5
+  },
   "sleep-like-the-dead": {
     "id": "sleep-like-the-dead",
     "name": "깊게 든 단잠",
@@ -441,6 +447,12 @@
     "id": "texture-of-memories",
     "name": "기억의 소재",
     "path": "preservation",
+    "rarity": 5
+  },
+  "solitary-healing": {
+    "id": "solitary-healing",
+    "name": "고독의 치유",
+    "path": "nihility",
     "rarity": 5
   }
 }

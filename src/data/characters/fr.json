@@ -143,6 +143,14 @@
     "rarity": 4,
     "background": "Cheffe autoproclamée de l'escouade d'aventure des Taupes, dans le Souterrain.\\nElle chérit sa liberté et voit la vie comme une succession d'aventures."
   },
+  "lynx": {
+    "id": "lynx",
+    "name": "Lynx",
+    "path": "abundance",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Belobogienne et exploratrice des Plaines des neiges, elle est la benjamine de la fratrie Landau.\\nDe nature calme et réfléchie, elle est motivée pour passer à l'action. Elle est toujours en quête d'aventures solitaires pour explorer les étendues sauvages enneigées."
+  },
   "luka": {
     "id": "luka",
     "name": "Luka",
@@ -206,6 +214,14 @@
     "element": "imaginary",
     "rarity": 4,
     "background": "Cheffe de la Commission du ciel du Luofu de Xianzhou. Yukong était une pilote et tireuse d'élite chevronnée.\\nElle croule sous une montagne de travail administratif depuis qu'elle est à la tête de la commission."
+  },
+  "fu-xuan": {
+    "id": "fu-xuan",
+    "name": "Fu Xuan",
+    "path": "preservation",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "Cheffe de la Commission de divination du Luofu.\\nGrâce au troisième œil et à la Matrice de prémonition, elle est capable de prédire l'itinéraire de Xianzhou et l'issue des événements à se produire."
   },
   "yanqing": {
     "id": "yanqing",

@@ -143,6 +143,14 @@
     "rarity": 4,
     "background": "地下冒険団「モグラ党」の親分（自称）。\\n自由を愛する彼女は、日々の生活を冒険の一幕だと考えている。"
   },
+  "lynx": {
+    "id": "lynx",
+    "name": "リンクス",
+    "path": "abundance",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "ベロブルグの雪原探検家、ランドゥー家の末っ子。\\n落ち着いた性格で、極めて強い行動力の持ち主。よく単身で雪原を探険する。"
+  },
   "luka": {
     "id": "luka",
     "name": "ルカ",
@@ -206,6 +214,14 @@
     "element": "imaginary",
     "rarity": 4,
     "background": "仙舟「羅浮」の天舶司のリーダー。百戦錬磨の飛行士で弓の使い手。\\nだが今は膨大な公務に追われ、忙しくしている。"
+  },
+  "fu-xuan": {
+    "id": "fu-xuan",
+    "name": "符玄",
+    "path": "preservation",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "仙舟「羅浮」太卜司の長。\\n第三の目と窮観の陣を用いて、仙舟の航路を占い、物事の吉凶を予見する。"
   },
   "yanqing": {
     "id": "yanqing",

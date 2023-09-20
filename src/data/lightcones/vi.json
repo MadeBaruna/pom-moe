@@ -407,6 +407,12 @@
     "path": "erudition",
     "rarity": 5
   },
+  "she-already-shut-her-eyes": {
+    "id": "she-already-shut-her-eyes",
+    "name": "Đôi Mắt Đã Nhắm Lại",
+    "path": "preservation",
+    "rarity": 5
+  },
   "sleep-like-the-dead": {
     "id": "sleep-like-the-dead",
     "name": "Giấc Ngủ Say Mềm",
@@ -441,6 +447,12 @@
     "id": "texture-of-memories",
     "name": "Chất Liệu Ký Ức",
     "path": "preservation",
+    "rarity": 5
+  },
+  "solitary-healing": {
+    "id": "solitary-healing",
+    "name": "Một Mình Chữa Trị",
+    "path": "nihility",
     "rarity": 5
   }
 }

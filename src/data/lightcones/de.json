@@ -407,6 +407,12 @@
     "path": "erudition",
     "rarity": 5
   },
+  "she-already-shut-her-eyes": {
+    "id": "she-already-shut-her-eyes",
+    "name": "Ihre Augen sind bereits geschlossen",
+    "path": "preservation",
+    "rarity": 5
+  },
   "sleep-like-the-dead": {
     "id": "sleep-like-the-dead",
     "name": "Schlafen wie die Toten",
@@ -441,6 +447,12 @@
     "id": "texture-of-memories",
     "name": "Textur der Erinnerungen",
     "path": "preservation",
+    "rarity": 5
+  },
+  "solitary-healing": {
+    "id": "solitary-healing",
+    "name": "Einzelne Heilung",
+    "path": "nihility",
     "rarity": 5
   }
 }
