@@ -1,0 +1,160 @@
+[
+  {
+    "id": "enigmatic-ectostella",
+    "name": "깊은 별의 외형질",
+    "rarity": 4
+  },
+  {
+    "id": "broken-teeth-of-iron-wolf",
+    "name": "강철 늑대의 깨진 이빨",
+    "rarity": 4
+  },
+  {
+    "id": "endotherm-chitin",
+    "name": "상온 갑각",
+    "rarity": 4
+  },
+  {
+    "id": "horn-of-snow",
+    "name": "눈보라의 뿔",
+    "rarity": 4
+  },
+  {
+    "id": "lightning-crown-of-the-past-shadow",
+    "name": "과거 그림자의 번개 왕관",
+    "rarity": 4
+  },
+  {
+    "id": "storm-eye",
+    "name": "폭풍의 눈",
+    "rarity": 4
+  },
+  {
+    "id": "void-cast-iron",
+    "name": "환영의 무쇠",
+    "rarity": 4
+  },
+  {
+    "id": "golden-crown-of-the-past-shadow",
+    "name": "과거 그림자의 황금 장식",
+    "rarity": 4
+  },
+  {
+    "id": "gelid-chitin",
+    "name": "혹한 갑각",
+    "rarity": 4
+  },
+  {
+    "id": "shape-shifters-lightning-staff",
+    "name": "조형자의 번개 지팡이",
+    "rarity": 4
+  },
+  {
+    "id": "extinguished-core",
+    "name": "소멸된 코어",
+    "rarity": 2,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "glimmering-core",
+    "name": "희미한 빛의 코어",
+    "rarity": 3,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "squirming-core",
+    "name": "꿈틀대는 코어",
+    "rarity": 4,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "thiefs-instinct",
+    "name": "약탈의 본능",
+    "rarity": 2,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "usurpers-scheme",
+    "name": "변조된 야망",
+    "rarity": 3,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "conquerors-will",
+    "name": "짓밟힌 의지",
+    "rarity": 4,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "silvermane-badge",
+    "name": "철위대 배지",
+    "rarity": 2,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-insignia",
+    "name": "철위대 표식",
+    "rarity": 3,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-medal",
+    "name": "철위대 훈장",
+    "rarity": 4,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "ancient-part",
+    "name": "고대 부속품",
+    "rarity": 2,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-spindle",
+    "name": "고대 전동축",
+    "rarity": 3,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-engine",
+    "name": "고대 엔진",
+    "rarity": 4,
+    "group": "ancient-part"
+  },
+  {
+    "id": "immortal-scionette",
+    "name": "영생의 새싹",
+    "rarity": 2,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-aeroblossom",
+    "name": "영생의 꽃",
+    "rarity": 3,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-lumintwig",
+    "name": "영생의 가지",
+    "rarity": 4,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "artifexs-module",
+    "name": "공조 기계 부품",
+    "rarity": 2,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-cogwheel",
+    "name": "공조 톱니바퀴",
+    "rarity": 3,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-gyreheart",
+    "name": "공조 환류 심장",
+    "rarity": 4,
+    "group": "artifexs-module"
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "enigmatic-ectostella",
+    "name": "Бездонная экзоплазма",
+    "rarity": 4
+  },
+  {
+    "id": "broken-teeth-of-iron-wolf",
+    "name": "Сломанные зубы железного волка",
+    "rarity": 4
+  },
+  {
+    "id": "endotherm-chitin",
+    "name": "Эндотермический хитин",
+    "rarity": 4
+  },
+  {
+    "id": "horn-of-snow",
+    "name": "Снежный рог",
+    "rarity": 4
+  },
+  {
+    "id": "lightning-crown-of-the-past-shadow",
+    "name": "Электрическая корона тени прошлого",
+    "rarity": 4
+  },
+  {
+    "id": "storm-eye",
+    "name": "Глаз бури",
+    "rarity": 4
+  },
+  {
+    "id": "void-cast-iron",
+    "name": "Чугун пустоты",
+    "rarity": 4
+  },
+  {
+    "id": "golden-crown-of-the-past-shadow",
+    "name": "Золотая корона тени прошлого",
+    "rarity": 4
+  },
+  {
+    "id": "gelid-chitin",
+    "name": "Гелидный хитин",
+    "rarity": 4
+  },
+  {
+    "id": "shape-shifters-lightning-staff",
+    "name": "Электрический посох оборотня",
+    "rarity": 4
+  },
+  {
+    "id": "extinguished-core",
+    "name": "Угасшее ядро",
+    "rarity": 2,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "glimmering-core",
+    "name": "Мерцающее ядро",
+    "rarity": 3,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "squirming-core",
+    "name": "Извивающееся ядро",
+    "rarity": 4,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "thiefs-instinct",
+    "name": "Инстинкт вора",
+    "rarity": 2,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "usurpers-scheme",
+    "name": "Искажённые амбиции",
+    "rarity": 3,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "conquerors-will",
+    "name": "Воля завоевателя",
+    "rarity": 4,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "silvermane-badge",
+    "name": "Значок Среброгривых Стражей",
+    "rarity": 2,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-insignia",
+    "name": "Знак отличия Среброгривых Стражей",
+    "rarity": 3,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-medal",
+    "name": "Медаль Среброгривых Стражей",
+    "rarity": 4,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "ancient-part",
+    "name": "Древняя деталь",
+    "rarity": 2,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-spindle",
+    "name": "Древний вал передачи",
+    "rarity": 3,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-engine",
+    "name": "Древний двигатель",
+    "rarity": 4,
+    "group": "ancient-part"
+  },
+  {
+    "id": "immortal-scionette",
+    "name": "Ростки бессмертия",
+    "rarity": 2,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-aeroblossom",
+    "name": "Эфирный цветок бессмертия",
+    "rarity": 3,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-lumintwig",
+    "name": "Ветвь бессмертной славы",
+    "rarity": 4,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "artifexs-module",
+    "name": "Искусственный механический компонент",
+    "rarity": 2,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-cogwheel",
+    "name": "Механическое цилиндрическое колесо",
+    "rarity": 3,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-gyreheart",
+    "name": "Механическое сердце хаоса",
+    "rarity": 4,
+    "group": "artifexs-module"
+  }
+]

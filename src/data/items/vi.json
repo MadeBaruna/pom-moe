@@ -1,0 +1,160 @@
+[
+  {
+    "id": "enigmatic-ectostella",
+    "name": "Sinh Thái Sâu Xa",
+    "rarity": 4
+  },
+  {
+    "id": "broken-teeth-of-iron-wolf",
+    "name": "Răng Cưa Sói Sắt",
+    "rarity": 4
+  },
+  {
+    "id": "endotherm-chitin",
+    "name": "Vỏ Tinh Thể Giữ Nhiệt",
+    "rarity": 4
+  },
+  {
+    "id": "horn-of-snow",
+    "name": "Sừng Bão Tuyết",
+    "rarity": 4
+  },
+  {
+    "id": "lightning-crown-of-the-past-shadow",
+    "name": "Mũ Dấu Ấn Xưa",
+    "rarity": 4
+  },
+  {
+    "id": "storm-eye",
+    "name": "Mắt Bão Gió",
+    "rarity": 4
+  },
+  {
+    "id": "void-cast-iron",
+    "name": "Thép Đúc Hư Ảo",
+    "rarity": 4
+  },
+  {
+    "id": "golden-crown-of-the-past-shadow",
+    "name": "Trang Sức Dấu Ấn Xưa",
+    "rarity": 4
+  },
+  {
+    "id": "gelid-chitin",
+    "name": "Vỏ Tinh Thể Rét Buốt",
+    "rarity": 4
+  },
+  {
+    "id": "shape-shifters-lightning-staff",
+    "name": "Gậy Lôi Nhà Luyện Hình",
+    "rarity": 4
+  },
+  {
+    "id": "extinguished-core",
+    "name": "Lõi Dập Tắt",
+    "rarity": 2,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "glimmering-core",
+    "name": "Lõi Phát Sáng",
+    "rarity": 3,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "squirming-core",
+    "name": "Lõi Rục Rịch",
+    "rarity": 4,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "thiefs-instinct",
+    "name": "Bản Năng Tranh Đoạt",
+    "rarity": 2,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "usurpers-scheme",
+    "name": "Dã Tâm Xuyên Tạc",
+    "rarity": 3,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "conquerors-will",
+    "name": "Ý Chí Giẫm Đạp",
+    "rarity": 4,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "silvermane-badge",
+    "name": "Ghim Cài Thiết Vệ",
+    "rarity": 2,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-insignia",
+    "name": "Quân Hiệu Thiết Vệ",
+    "rarity": 3,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-medal",
+    "name": "Huy Chương Thiết Vệ",
+    "rarity": 4,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "ancient-part",
+    "name": "Linh Kiện Cổ Xưa",
+    "rarity": 2,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-spindle",
+    "name": "Trục Xoay Cổ Xưa",
+    "rarity": 3,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-engine",
+    "name": "Động Cơ Cổ Đại",
+    "rarity": 4,
+    "group": "ancient-part"
+  },
+  {
+    "id": "immortal-scionette",
+    "name": "Mầm Non Trường Thọ",
+    "rarity": 2,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-aeroblossom",
+    "name": "Đóa Hoa Trường Thọ",
+    "rarity": 3,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-lumintwig",
+    "name": "Cành Cây Trường Thọ",
+    "rarity": 4,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "artifexs-module",
+    "name": "Linh Kiện Cơ Khí Nhân Tạo",
+    "rarity": 2,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-cogwheel",
+    "name": "Bánh Xe Nhân Tạo",
+    "rarity": 3,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-gyreheart",
+    "name": "Trái Tim Nhân Tạo",
+    "rarity": 4,
+    "group": "artifexs-module"
+  }
+]

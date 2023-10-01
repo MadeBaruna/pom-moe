@@ -1,0 +1,160 @@
+[
+  {
+    "id": "enigmatic-ectostella",
+    "name": "Ectoestela profunda",
+    "rarity": 4
+  },
+  {
+    "id": "broken-teeth-of-iron-wolf",
+    "name": "Dientes rotos del huargo férreo",
+    "rarity": 4
+  },
+  {
+    "id": "endotherm-chitin",
+    "name": "Quitina endoterma",
+    "rarity": 4
+  },
+  {
+    "id": "horn-of-snow",
+    "name": "Cuerno de nieve",
+    "rarity": 4
+  },
+  {
+    "id": "lightning-crown-of-the-past-shadow",
+    "name": "Corona de rayos de la sombra del pasado",
+    "rarity": 4
+  },
+  {
+    "id": "storm-eye",
+    "name": "Ojo del vendaval",
+    "rarity": 4
+  },
+  {
+    "id": "void-cast-iron",
+    "name": "Hierro forjado del Vacío",
+    "rarity": 4
+  },
+  {
+    "id": "golden-crown-of-the-past-shadow",
+    "name": "Corona dorada de la sombra del pasado",
+    "rarity": 4
+  },
+  {
+    "id": "gelid-chitin",
+    "name": "Quitina gélida",
+    "rarity": 4
+  },
+  {
+    "id": "shape-shifters-lightning-staff",
+    "name": "Báculo del Cambiaformas",
+    "rarity": 4
+  },
+  {
+    "id": "extinguished-core",
+    "name": "Núcleo apagado",
+    "rarity": 2,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "glimmering-core",
+    "name": "Núcleo reluciente",
+    "rarity": 3,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "squirming-core",
+    "name": "Núcleo serpenteante",
+    "rarity": 4,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "thiefs-instinct",
+    "name": "Instinto del ladrón",
+    "rarity": 2,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "usurpers-scheme",
+    "name": "Ambición distorsionada",
+    "rarity": 3,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "conquerors-will",
+    "name": "Voluntad de conquista",
+    "rarity": 4,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "silvermane-badge",
+    "name": "Pin del guardia",
+    "rarity": 2,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-insignia",
+    "name": "Insignia del guardia",
+    "rarity": 3,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-medal",
+    "name": "Medalla del guardia",
+    "rarity": 4,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "ancient-part",
+    "name": "Componente antiguo",
+    "rarity": 2,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-spindle",
+    "name": "Eje antiguo",
+    "rarity": 3,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-engine",
+    "name": "Motor antiguo",
+    "rarity": 4,
+    "group": "ancient-part"
+  },
+  {
+    "id": "immortal-scionette",
+    "name": "Brote verde inmortal",
+    "rarity": 2,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-aeroblossom",
+    "name": "Flor etérea inmortal",
+    "rarity": 3,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-lumintwig",
+    "name": "Rama gloriosa inmortal",
+    "rarity": 4,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "artifexs-module",
+    "name": "Componente artificial mecánico",
+    "rarity": 2,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-cogwheel",
+    "name": "Engranaje cilíndrico mecánico",
+    "rarity": 3,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-gyreheart",
+    "name": "Corazón armonioso mecánico",
+    "rarity": 4,
+    "group": "artifexs-module"
+  }
+]

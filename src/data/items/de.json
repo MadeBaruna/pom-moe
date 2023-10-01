@@ -1,0 +1,160 @@
+[
+  {
+    "id": "enigmatic-ectostella",
+    "name": "Profunde Ecostella",
+    "rarity": 4
+  },
+  {
+    "id": "broken-teeth-of-iron-wolf",
+    "name": "Gebrochene Zähne des Eisernen Wolfs",
+    "rarity": 4
+  },
+  {
+    "id": "endotherm-chitin",
+    "name": "Endothermes Chitin",
+    "rarity": 4
+  },
+  {
+    "id": "horn-of-snow",
+    "name": "Horn aus Schnee",
+    "rarity": 4
+  },
+  {
+    "id": "lightning-crown-of-the-past-shadow",
+    "name": "Blitzkrone der vergangenen Schatten",
+    "rarity": 4
+  },
+  {
+    "id": "storm-eye",
+    "name": "Sturmauge",
+    "rarity": 4
+  },
+  {
+    "id": "void-cast-iron",
+    "name": "Leerengeformtes Eisen",
+    "rarity": 4
+  },
+  {
+    "id": "golden-crown-of-the-past-shadow",
+    "name": "Goldkrone der vergangenen Schatten",
+    "rarity": 4
+  },
+  {
+    "id": "gelid-chitin",
+    "name": "Eisiges Chitin",
+    "rarity": 4
+  },
+  {
+    "id": "shape-shifters-lightning-staff",
+    "name": "Blitzstab des Gestaltenwandlers",
+    "rarity": 4
+  },
+  {
+    "id": "extinguished-core",
+    "name": "Erloschener Kern",
+    "rarity": 2,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "glimmering-core",
+    "name": "Schimmernder Kern",
+    "rarity": 3,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "squirming-core",
+    "name": "Zuckender Kern",
+    "rarity": 4,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "thiefs-instinct",
+    "name": "Instinkt des Diebes",
+    "rarity": 2,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "usurpers-scheme",
+    "name": "Ehrgeiz der Verzerrung",
+    "rarity": 3,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "conquerors-will",
+    "name": "Wille des Eroberers",
+    "rarity": 4,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "silvermane-badge",
+    "name": "Anstecker der Silbermähnen-Wache",
+    "rarity": 2,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-insignia",
+    "name": "Insignien der Silbermähnen-Wache",
+    "rarity": 3,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-medal",
+    "name": "Orden der Silbermähnen-Wache",
+    "rarity": 4,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "ancient-part",
+    "name": "Uraltes Teil",
+    "rarity": 2,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-spindle",
+    "name": "Uralte Spindel",
+    "rarity": 3,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-engine",
+    "name": "Uraltes Triebwerk",
+    "rarity": 4,
+    "group": "ancient-part"
+  },
+  {
+    "id": "immortal-scionette",
+    "name": "Unsterbliche junge Knospe",
+    "rarity": 2,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-aeroblossom",
+    "name": "Unsterbliche ätherische Blume",
+    "rarity": 3,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-lumintwig",
+    "name": "Unsterblicher glorreicher Zweig",
+    "rarity": 4,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "artifexs-module",
+    "name": "Mechanisches Bauteil",
+    "rarity": 2,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-cogwheel",
+    "name": "Mechanisches zylindrisches Rad",
+    "rarity": 3,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-gyreheart",
+    "name": "Mechanisches Gyro-Herz",
+    "rarity": 4,
+    "group": "artifexs-module"
+  }
+]

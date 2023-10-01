@@ -1,0 +1,160 @@
+[
+  {
+    "id": "enigmatic-ectostella",
+    "name": "Enigmatic Ectostella",
+    "rarity": 4
+  },
+  {
+    "id": "broken-teeth-of-iron-wolf",
+    "name": "Broken Teeth of Iron Wolf",
+    "rarity": 4
+  },
+  {
+    "id": "endotherm-chitin",
+    "name": "Endotherm Chitin",
+    "rarity": 4
+  },
+  {
+    "id": "horn-of-snow",
+    "name": "Horn of Snow",
+    "rarity": 4
+  },
+  {
+    "id": "lightning-crown-of-the-past-shadow",
+    "name": "Lightning Crown of the Past Shadow",
+    "rarity": 4
+  },
+  {
+    "id": "storm-eye",
+    "name": "Storm Eye",
+    "rarity": 4
+  },
+  {
+    "id": "void-cast-iron",
+    "name": "Void Cast Iron",
+    "rarity": 4
+  },
+  {
+    "id": "golden-crown-of-the-past-shadow",
+    "name": "Golden Crown of the Past Shadow",
+    "rarity": 4
+  },
+  {
+    "id": "gelid-chitin",
+    "name": "Gelid Chitin",
+    "rarity": 4
+  },
+  {
+    "id": "shape-shifters-lightning-staff",
+    "name": "Shape Shifter's Lightning Staff",
+    "rarity": 4
+  },
+  {
+    "id": "extinguished-core",
+    "name": "Extinguished Core",
+    "rarity": 2,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "glimmering-core",
+    "name": "Glimmering Core",
+    "rarity": 3,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "squirming-core",
+    "name": "Squirming Core",
+    "rarity": 4,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "thiefs-instinct",
+    "name": "Thief's Instinct",
+    "rarity": 2,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "usurpers-scheme",
+    "name": "Usurper's Scheme",
+    "rarity": 3,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "conquerors-will",
+    "name": "Conqueror's Will",
+    "rarity": 4,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "silvermane-badge",
+    "name": "Silvermane Badge",
+    "rarity": 2,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-insignia",
+    "name": "Silvermane Insignia",
+    "rarity": 3,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-medal",
+    "name": "Silvermane Medal",
+    "rarity": 4,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "ancient-part",
+    "name": "Ancient Part",
+    "rarity": 2,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-spindle",
+    "name": "Ancient Spindle",
+    "rarity": 3,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-engine",
+    "name": "Ancient Engine",
+    "rarity": 4,
+    "group": "ancient-part"
+  },
+  {
+    "id": "immortal-scionette",
+    "name": "Immortal Scionette",
+    "rarity": 2,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-aeroblossom",
+    "name": "Immortal Aeroblossom",
+    "rarity": 3,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-lumintwig",
+    "name": "Immortal Lumintwig",
+    "rarity": 4,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "artifexs-module",
+    "name": "Artifex's Module",
+    "rarity": 2,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-cogwheel",
+    "name": "Artifex's Cogwheel",
+    "rarity": 3,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-gyreheart",
+    "name": "Artifex's Gyreheart",
+    "rarity": 4,
+    "group": "artifexs-module"
+  }
+]

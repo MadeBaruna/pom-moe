@@ -1,0 +1,160 @@
+[
+  {
+    "id": "enigmatic-ectostella",
+    "name": "Ectostella énigmatique",
+    "rarity": 4
+  },
+  {
+    "id": "broken-teeth-of-iron-wolf",
+    "name": "Dents brisées du loup de fer",
+    "rarity": 4
+  },
+  {
+    "id": "endotherm-chitin",
+    "name": "Chitine endothermique",
+    "rarity": 4
+  },
+  {
+    "id": "horn-of-snow",
+    "name": "Corne des neiges",
+    "rarity": 4
+  },
+  {
+    "id": "lightning-crown-of-the-past-shadow",
+    "name": "Couronne d'éclair de l'ombre révolue",
+    "rarity": 4
+  },
+  {
+    "id": "storm-eye",
+    "name": "Œil de la tempête",
+    "rarity": 4
+  },
+  {
+    "id": "void-cast-iron",
+    "name": "Fonte du néant",
+    "rarity": 4
+  },
+  {
+    "id": "golden-crown-of-the-past-shadow",
+    "name": "Couronne d'or de l'ombre révolue",
+    "rarity": 4
+  },
+  {
+    "id": "gelid-chitin",
+    "name": "Chitine gelée",
+    "rarity": 4
+  },
+  {
+    "id": "shape-shifters-lightning-staff",
+    "name": "Bâton de foudre du métamorphe",
+    "rarity": 4
+  },
+  {
+    "id": "extinguished-core",
+    "name": "Noyau éteint",
+    "rarity": 2,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "glimmering-core",
+    "name": "Noyau brillant",
+    "rarity": 3,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "squirming-core",
+    "name": "Noyau des méandres",
+    "rarity": 4,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "thiefs-instinct",
+    "name": "Instinct de pilleur",
+    "rarity": 2,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "usurpers-scheme",
+    "name": "Ambition d'usurpateur",
+    "rarity": 3,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "conquerors-will",
+    "name": "Volonté de conquérant",
+    "rarity": 4,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "silvermane-badge",
+    "name": "Badge de la crinière d'argent",
+    "rarity": 2,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-insignia",
+    "name": "Insigne de la crinière d'argent",
+    "rarity": 3,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-medal",
+    "name": "Médaille de la crinière d'argent",
+    "rarity": 4,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "ancient-part",
+    "name": "Ancienne pièce mécanique",
+    "rarity": 2,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-spindle",
+    "name": "Ancien essieu",
+    "rarity": 3,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-engine",
+    "name": "Ancien moteur",
+    "rarity": 4,
+    "group": "ancient-part"
+  },
+  {
+    "id": "immortal-scionette",
+    "name": "Jeune pousse immortelle",
+    "rarity": 2,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-aeroblossom",
+    "name": "Aérofleur immortelle",
+    "rarity": 3,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-lumintwig",
+    "name": "Branche-lumière immortelle",
+    "rarity": 4,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "artifexs-module",
+    "name": "Module de l'artifex",
+    "rarity": 2,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-cogwheel",
+    "name": "Roue dentée de l'artifex",
+    "rarity": 3,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-gyreheart",
+    "name": "Gyrocœur de l'artifex",
+    "rarity": 4,
+    "group": "artifexs-module"
+  }
+]

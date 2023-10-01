@@ -1,0 +1,160 @@
+[
+  {
+    "id": "enigmatic-ectostella",
+    "name": "Ectostella Enigmática",
+    "rarity": 4
+  },
+  {
+    "id": "broken-teeth-of-iron-wolf",
+    "name": "Dentes Quebrados do Lobo de Ferro",
+    "rarity": 4
+  },
+  {
+    "id": "endotherm-chitin",
+    "name": "Endoderme de Quitina",
+    "rarity": 4
+  },
+  {
+    "id": "horn-of-snow",
+    "name": "Chifre de Neve",
+    "rarity": 4
+  },
+  {
+    "id": "lightning-crown-of-the-past-shadow",
+    "name": "Coroa de Raios de uma Sombra do Passado",
+    "rarity": 4
+  },
+  {
+    "id": "storm-eye",
+    "name": "Olho Tempestuoso",
+    "rarity": 4
+  },
+  {
+    "id": "void-cast-iron",
+    "name": "Ferro Fundido Vazio",
+    "rarity": 4
+  },
+  {
+    "id": "golden-crown-of-the-past-shadow",
+    "name": "Coroa de Ouro de uma Sombra do Passado",
+    "rarity": 4
+  },
+  {
+    "id": "gelid-chitin",
+    "name": "Quitina Gélida",
+    "rarity": 4
+  },
+  {
+    "id": "shape-shifters-lightning-staff",
+    "name": "Bastão de Raio de Transformador",
+    "rarity": 4
+  },
+  {
+    "id": "extinguished-core",
+    "name": "Núcleo Apagado",
+    "rarity": 2,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "glimmering-core",
+    "name": "Núcleo Cintilante",
+    "rarity": 3,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "squirming-core",
+    "name": "Núcleo Contorcido",
+    "rarity": 4,
+    "group": "extinguished-core"
+  },
+  {
+    "id": "thiefs-instinct",
+    "name": "Instinto de Ladrão",
+    "rarity": 2,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "usurpers-scheme",
+    "name": "Esquema do Usurpador",
+    "rarity": 3,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "conquerors-will",
+    "name": "Vontade de Conquistador",
+    "rarity": 4,
+    "group": "thiefs-instinct"
+  },
+  {
+    "id": "silvermane-badge",
+    "name": "Distintivo Crinalva",
+    "rarity": 2,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-insignia",
+    "name": "Insígnia Crinalva",
+    "rarity": 3,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "silvermane-medal",
+    "name": "Medalha Crinalva",
+    "rarity": 4,
+    "group": "silvermane-badge"
+  },
+  {
+    "id": "ancient-part",
+    "name": "Peça Antiga",
+    "rarity": 2,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-spindle",
+    "name": "Eixo Antigo",
+    "rarity": 3,
+    "group": "ancient-part"
+  },
+  {
+    "id": "ancient-engine",
+    "name": "Motor Antigo",
+    "rarity": 4,
+    "group": "ancient-part"
+  },
+  {
+    "id": "immortal-scionette",
+    "name": "Scionette Imortal",
+    "rarity": 2,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-aeroblossom",
+    "name": "Floresciaéreo Imortal",
+    "rarity": 3,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "immortal-lumintwig",
+    "name": "Luminivinha Imortal",
+    "rarity": 4,
+    "group": "immortal-scionette"
+  },
+  {
+    "id": "artifexs-module",
+    "name": "Módulo de Artífice",
+    "rarity": 2,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-cogwheel",
+    "name": "Engrenagem de Artífices",
+    "rarity": 3,
+    "group": "artifexs-module"
+  },
+  {
+    "id": "artifexs-gyreheart",
+    "name": "Coração de Giro de Artífices",
+    "rarity": 4,
+    "group": "artifexs-module"
+  }
+]
