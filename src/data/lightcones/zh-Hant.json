@@ -425,10 +425,22 @@
     "path": "abundance",
     "rarity": 5
   },
+  "i-shall-be-my-own-sword": {
+    "id": "i-shall-be-my-own-sword",
+    "name": "此身為劍",
+    "path": "destruction",
+    "rarity": 5
+  },
   "brighter-than-the-sun": {
     "id": "brighter-than-the-sun",
     "name": "比陽光更明亮的",
     "path": "destruction",
+    "rarity": 5
+  },
+  "worrisome-blissful": {
+    "id": "worrisome-blissful",
+    "name": "煩惱著，幸福著",
+    "path": "the-hunt",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

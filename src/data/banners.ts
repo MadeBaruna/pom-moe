@@ -157,6 +157,20 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['fu-xuan'],
 			featured4: ['lynx', 'hook', 'pela']
+		},
+		{
+			code: 2011,
+			type: 'character',
+			name: 'Gentle Eclipse of the Moon',
+			start: '2023-10-11 06:00:00',
+			end: '2023-10-27 11:59:00',
+			color: '#51aaff',
+			version: '1.4',
+			image: 'Gentle Eclipse of the Moon 2011.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['jingliu'],
+			featured4: ['tingyun', 'qingque', 'sampo']
 		}
 	],
 	lightcone: [
@@ -278,6 +292,20 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['she-already-shut-her-eyes'],
 			featured4: ['perfect-timing', 'under-the-blue-sky', 'trend-of-the-universal-market']
+		},
+		{
+			code: 3011,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-10-11 06:00:00',
+			end: '2023-10-27 11:59:00',
+			color: '#c6d2ff',
+			version: '1.4',
+			image: 'Brilliant Fixation 3011.jpg',
+			pos: '70% 0%',
+			zoom: 1.2,
+			featured5: ['i-shall-be-my-own-sword'],
+			featured4: ['memories-of-the-past', 'make-the-world-clamor', 'eyes-of-the-prey']
 		}
 	],
 	standard: [

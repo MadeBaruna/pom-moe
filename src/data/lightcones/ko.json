@@ -425,10 +425,22 @@
     "path": "abundance",
     "rarity": 5
   },
+  "i-shall-be-my-own-sword": {
+    "id": "i-shall-be-my-own-sword",
+    "name": "이 몸이 검이니",
+    "path": "destruction",
+    "rarity": 5
+  },
   "brighter-than-the-sun": {
     "id": "brighter-than-the-sun",
     "name": "태양보다 밝게 빛나는 것",
     "path": "destruction",
+    "rarity": 5
+  },
+  "worrisome-blissful": {
+    "id": "worrisome-blissful",
+    "name": "고민, 그리고 행복",
+    "path": "the-hunt",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

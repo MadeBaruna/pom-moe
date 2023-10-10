@@ -239,6 +239,14 @@
     "rarity": 5,
     "background": "Tetua Tertinggi Vidyadhara yang juga dikenal sebagai \"Wanita Penyembuh\" di Xianzhou \"Luofu\".\\nDia menggunakan ilmu kedokteran khusus dan \"perawatan medis\" yang hanya dapat diberikan oleh ras Naga Vidyadhara untuk menyelamatkan nyawa."
   },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "Jingliu",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Mantan pendekar pedang Luofu dan pencipta Cloud Knight yang tak terkalahkan.\\nKini, namanya telah dihapus dari catatan sejarah, dan menjadi pengkhianat Xianzhou yang berjalan di tepi Mara."
+  },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
     "name": "Dan Heng · Imbibitor Lunae",

@@ -425,10 +425,22 @@
     "path": "abundance",
     "rarity": 5
   },
+  "i-shall-be-my-own-sword": {
+    "id": "i-shall-be-my-own-sword",
+    "name": "Thân Này Là Kiếm",
+    "path": "destruction",
+    "rarity": 5
+  },
   "brighter-than-the-sun": {
     "id": "brighter-than-the-sun",
     "name": "Rực Rỡ Hơn Mặt Trời",
     "path": "destruction",
+    "rarity": 5
+  },
+  "worrisome-blissful": {
+    "id": "worrisome-blissful",
+    "name": "Phiền Não, Hạnh Phúc",
+    "path": "the-hunt",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

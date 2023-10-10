@@ -149,7 +149,7 @@
     "path": "abundance",
     "element": "quantum",
     "rarity": 4,
-    "background": "벨로보그의 설원 탐험가, 랜도 가문의 막내 여동생\\n담담한 성격에 행동력이 매우 강하다. 종종 홀로 설원을 탐험한다"
+    "background": "벨로보그의 설원 탐험가, 랜도 가문의 막내 여동생.\\n담담한 성격에 행동력이 매우 강하다. 종종 홀로 설원을 탐험한다"
   },
   "luka": {
     "id": "luka",
@@ -221,7 +221,7 @@
     "path": "preservation",
     "element": "quantum",
     "rarity": 5,
-    "background": "선주 「나부」 태복사(太卜司)의 수뇌\\n제 3의 눈과 궁관진을 통해 선주의 항로와 일의 길흉을 점친다"
+    "background": "선주 「나부」 태복사(太卜司)의 수뇌.\\n제3의 눈과 궁관진을 통해 선주의 항로와 일의 길흉을 점친다"
   },
   "yanqing": {
     "id": "yanqing",
@@ -238,6 +238,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "선주 「나부」 비디아다라족의 큰어른, 「약을 품은 용녀」라 불리는 의사\\n독자적인 의학 이론과 용맥만이 실행할 수 있는 「의료 수단」으로 생명을 구하고 치료한다"
+  },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "경류",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "과거 나부 검술의 일인자이자 운기군 불패신화의 창조자.\\n오늘날 그녀의 이름은 역사에서 지워졌고, 마각의 몸의 경계를 걷는 배신자가 되었다"
   },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",

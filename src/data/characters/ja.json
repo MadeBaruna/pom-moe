@@ -239,6 +239,14 @@
     "rarity": 5,
     "background": "仙舟「羅浮」の持明族の尊長、「啣薬の龍女」と称される医士。\\n彼女は独自の医療知識と、龍脈を持つ者にしか行えない「医療手段」で人々の傷や病を治している。"
   },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "鏡流",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "かつての羅浮の剣首、雲騎常勝の伝説を築いた者。\\nしかし今、その名は抹消され、魔陰の境を歩く仙舟の裏切り者となっている。"
+  },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
     "name": "丹恒・飲月",

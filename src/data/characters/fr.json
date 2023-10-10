@@ -221,7 +221,7 @@
     "path": "preservation",
     "element": "quantum",
     "rarity": 5,
-    "background": "Cheffe de la Commission de divination du Luofu.\\nGrâce au troisième œil et à la Matrice de prémonition, elle est capable de prédire l'itinéraire de Xianzhou et l'issue des événements à se produire."
+    "background": "Cheffe de la Commission de divination du Luofu.\\nGrâce au troisième œil et à la Matrice de prémonition, elle est capable de prédire l'itinéraire de Xianzhou et l'issue des événements futurs."
   },
   "yanqing": {
     "id": "yanqing",
@@ -238,6 +238,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "La Grande ancienne des Vidyadhariens également connue sous le nom de « Dame guérisseuse » à bord du Luofu.\\nElle utilise sa science médicale et ses traitements uniques issus du peuple des dragons vidyadhariens pour sauver des vies."
+  },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "Jingliu",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Autrefois Championne de l'épée du Luofu, elle est à l'origine des légendes sur la puissance incontestée des Chevaliers des nuages.\\nÀ présent, son nom a été effacé des registres, et elle est devenue une traîtresse à Xianzhou évoluant sur la fine frontière qui sépare la raison du mara."
   },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",

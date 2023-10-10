@@ -425,10 +425,22 @@
     "path": "abundance",
     "rarity": 5
   },
+  "i-shall-be-my-own-sword": {
+    "id": "i-shall-be-my-own-sword",
+    "name": "Eu Serei Minha Própria Espada",
+    "path": "destruction",
+    "rarity": 5
+  },
   "brighter-than-the-sun": {
     "id": "brighter-than-the-sun",
     "name": "Mais Claro do que o Sol",
     "path": "destruction",
+    "rarity": 5
+  },
+  "worrisome-blissful": {
+    "id": "worrisome-blissful",
+    "name": "Inquietante, Extasiante",
+    "path": "the-hunt",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

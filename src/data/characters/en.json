@@ -239,6 +239,14 @@
     "rarity": 5,
     "background": "The High Elder of the Vidyadhara, who is also known as the \"Healer Lady\" on the Luofu.\\nShe uses her unique medical science and the medical treatment that can only be provided by the Vidyadhara dragon race to save lives."
   },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "Jingliu",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Former Sword Champion of the Luofu, and the creator of the Cloud Knights' legends of undefeated might.\\nNow, her name has been wiped from the records, and she is a traitor of the Xianzhou walking on the fine line between sanity and mara-struck."
+  },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
     "name": "Dan Heng • Imbibitor Lunae",

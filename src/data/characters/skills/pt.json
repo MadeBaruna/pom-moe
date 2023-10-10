@@ -160,7 +160,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -320,7 +320,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -468,7 +468,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -572,7 +572,7 @@
     },
     "ultimate": {
       "name": "Buraco Negro Sintético",
-      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Welt como Dano Imaginário a todos os inimigos, com {3} de <u>chance-base</u> de que inimigos atingidos por esta habilidade sejam afetados por Aprisionamento por 1 rodada.\\nInimigos aprisionados têm <u>ações atrasadas</u> em <span style=\"color: #f29e38ff\">{2}</span> e VEL reduzida em {4}.",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Welt como Dano Imaginário a todos os inimigos, com {3} de <u>chance-base</u> de que inimigos atingidos por esta habilidade sejam afetados por Aprisionamento por 1 rodada.\\nInimigos aprisionados têm suas <u>ações atrasadas</u> em <span style=\"color: #f29e38ff\">{2}</span> e sua VEL reduzida em {4}.",
       "values": [
         [
           90,
@@ -650,7 +650,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -838,7 +838,7 @@
     },
     "talent": {
       "name": "Gentil, Mas Cruel",
-      "desc": "Após um aliado de Kafka usar um ATQ Básico em um alvo inimigo, Kafka imediatamente realiza 1 <u>Ataque Extra</u> e causa Dano de Raio igual a <span style=\"color: #f29e38ff\">{1}</span> do seu ATQ ao alvo, com {2} de <u>chance-base</u> de infligir Choque equivalente àquele aplicado pela Perícia Suprema dela ao alvo inimigo atacado, durando por {3} rodadas. Este efeito só pode ser ativado 1 vez por rodada.",
+      "desc": "Após um aliado de Kafka usar um ATQ Básico em um inimigo-alvo, Kafka imediatamente realiza 1 <u>Ataque Extra</u> e causa Dano de Raio igual a <span style=\"color: #f29e38ff\">{1}</span> do seu ATQ ao alvo, com {2} de <u>chance-base</u> de infligir Choque equivalente àquele aplicado pela Perícia Suprema dela ao inimigo-alvo atacado, durando por {3} rodadas. Este efeito só pode ser ativado 1 vez por rodada.",
       "values": [
         [
           42,
@@ -872,13 +872,13 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Misericórdia Não É Perdão",
-      "desc": "Ataca imediatamente todos os inimigos dentro de um alcance específico. Depois de entrar em batalha, causa Dano de Raio igual a {3} do ATQ de Kafka a todos os inimigos, com uma <u>chance-base</u> de {1} de infligir Choque equivalente àquele aplicado pela Perícia Suprema dela a todos os alvos inimigos por {2} rodada(s).",
+      "desc": "Ataca imediatamente todos os inimigos dentro de um alcance específico. Depois de entrar em batalha, causa Dano de Raio igual a {3} do ATQ de Kafka a todos os inimigos, com uma <u>chance-base</u> de {1} de infligir Choque equivalente àquele aplicado pela Perícia Suprema dela a todos os inimigos-alvo por {2} rodada(s).",
       "values": [
         [
           100
@@ -1148,7 +1148,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -1288,7 +1288,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -1418,7 +1418,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -1548,7 +1548,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -1722,7 +1722,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -1856,7 +1856,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -2022,7 +2022,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -2200,7 +2200,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -2406,7 +2406,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -2566,7 +2566,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -2752,7 +2752,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -2916,7 +2916,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -3072,7 +3072,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -3174,7 +3174,7 @@
   "lynx": {
     "attack": {
       "name": "Técnica de Grampos de Neve",
-      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos desta unidade a um único inimigo.",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos deste personagem a um único inimigo.",
       "values": [
         [
           25,
@@ -3330,7 +3330,7 @@
     },
     "talent": {
       "name": "Experiência de Sobrevivência na Neve",
-      "desc": "Ao usar a Perícia ou Perícia Suprema de Lynx, aplica cura contínua ao aliado-alvo por {1} rodada(s), restaurando uma quantidade de PV igual a <span style=\"color: #f29e38ff\">{2}</span> dos PV máximos de Lynx + <span style=\"color: #f29e38ff\">{3}</span> no início de cada rodada. Se o alvo tiver \"Resposta de Sobrevivência\", o efeito da cura contínua restaura adicionalmente uma quantidade de PV igual a <span style=\"color: #f29e38ff\">{4}</span> dos PV máximos de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "desc": "Ao usar a Perícia ou a Perícia Suprema de Lynx, aplica cura contínua ao aliado-alvo por {1} rodada(s), restaurando uma quantidade de PV do aliado-alvo igual a <span style=\"color: #f29e38ff\">{2}</span> dos PV máximos de Lynx + <span style=\"color: #f29e38ff\">{3}</span> no início de cada rodada do aliado. Se o alvo tiver \"Resposta de Sobrevivência\", o efeito da cura contínua restaura adicionalmente uma quantidade de PV igual a <span style=\"color: #f29e38ff\">{4}</span> dos PV máximos de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
       "values": [
         [
           2
@@ -3414,13 +3414,13 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Após atacar um inimigo e entrar em batalha, o Tipo de Tenacidade do alvo inimigo sofrerá Enfraquecimento.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Barra de Chocolate Energética",
-      "desc": "Depois que Lynx usa sua Técnica, no início da próxima batalha, todos os aliados recebem o efeito de cura contínua do Talento dela por {1} rodada(s).",
+      "desc": "Depois que Lynx usa sua Técnica, no início da próxima batalha, todos os aliados recebem o efeito de cura contínua do Talento dela, durando por {1} rodada(s).",
       "values": [
         [
           2
@@ -3596,7 +3596,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -3758,7 +3758,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -3956,7 +3956,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -4130,7 +4130,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -4270,7 +4270,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -4520,7 +4520,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -4754,7 +4754,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -4920,7 +4920,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -5024,7 +5024,7 @@
     },
     "ultimate": {
       "name": "Os Lamentos de Muitos Transformaram-se em Um",
-      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Fu Xuan a todos os inimigos e obtém 1 contagem de ativação para o efeito de Recuperação de PV concedido pelo Talento de Fu Xuan.",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> dos PV máximos de Fu Xuan a todos os inimigos e obtém 1 contagem de ativação para o efeito de Restauração de PV concedido pelo Talento de Fu Xuan.",
       "values": [
         [
           60,
@@ -5050,7 +5050,7 @@
     },
     "talent": {
       "name": "Das Sombras à Alegria",
-      "desc": "Enquanto Fu Xuan não tiver sido derrubada, a \"Prevenção de Infortúnio\" é aplicada à toda a equipe. Enquanto estiverem afetados pela \"Prevenção de Infortúnio\", os aliados recebem <span style=\"color: #f29e38ff\">{1}</span> a menos de Dano.\\nA Recuperação de PV será ativada para Fu Xuan quando os PV dela chegarem a {2} ou menos dos seus PV máximos. Este efeito recuperará os PV dela em <span style=\"color: #f29e38ff\">{3}</span> da quantidade de PV perdida no momento. Este efeito não pode ser ativado se ela receber um golpe fatal. Este efeito possui 1 contagem de ativação por padrão, e pode possuir um máximo de 2 contagens de ativação.",
+      "desc": "Enquanto Fu Xuan estiver ativa em combate, a \"Prevenção de Infortúnio\" é aplicada a toda a equipe. Enquanto estiverem com Prevenção de Infortúnio, os aliados recebem <span style=\"color: #f29e38ff\">{1}</span> a menos de Dano.\\nQuando os PV atuais de Fu Xuan caírem para {2} ou menos dos seus PV máximos, a Restauração de PV será ativada para Fu Xuan, recuperando os PV dela em <span style=\"color: #f29e38ff\">{3}</span> da quantidade de PV perdida no momento. Este efeito não pode ser ativado se ela receber um golpe fatal. Este efeito possui 1 contagem de ativação por padrão, e pode possuir um máximo de 2 contagens de ativação.",
       "values": [
         [
           10,
@@ -5098,13 +5098,13 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca o inimigo. Ao entrar em batalha, reduz a Tenacidade dos inimigos-alvo do Tipo correspondente.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Da Sorte Vem o Destino",
-      "desc": "Depois que a Técnica é utilizada, todos os membros da equipe recebem uma Barreira que dura por {1} segundos. Esta Barreira pode bloquear todos os ataques inimigos e a equipe não entrará em batalha quando atacada. Entrar em batalha enquanto a Barreira estiver ativa fará com que Fu Xuan ative a Matriz de Presciência automaticamente no início da batalha por {2} rodada(s).",
+      "desc": "Depois que a Técnica é utilizada, todos os membros da equipe recebem uma Barreira que dura {1} segundos. Esta Barreira pode bloquear todos os ataques inimigos e a equipe não entrará em batalha quando atacada. Entrar em batalha enquanto a Barreira estiver ativa fará com que Fu Xuan ative a Matriz de Presciência automaticamente no início da batalha por {2} rodada(s).",
       "values": [
         [
           20
@@ -5318,7 +5318,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -5550,7 +5550,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
@@ -5567,10 +5567,264 @@
       ]
     }
   },
+  "jingliu": {
+    "attack": {
+      "name": "Brilho da Lua Luzente",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Jingliu como Dano de Gelo a um único inimigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Clarão Transcendente",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Jingliu como Dano de Gelo a um único inimigo e obtém {2} acúmulo(s) de Sizígia.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Fluxonírico Florefêmero",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Jingliu como Dano de Gelo a um único inimigo e <span style=\"color: #f29e38ff\">{3}</span> do ATQ de Jingliu como Dano de Gelo a inimigos adjacentes. Ganha {2} acúmulo(s) de Sizígia depois que o ataque acaba.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          1
+        ],
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        ""
+      ]
+    },
+    "talent": {
+      "name": "Transmigração Crescente",
+      "desc": "Quando Jingliu alcança {5} acúmulo(s) de Sizígia, ela entra no estado de Transmigração Espectral, Avançando sua Ação em {6} e aumentando sua Chance de CRIT em <span style=\"color: #f29e38ff\">{7}</span>. Depois, a Perícia de Jingliu, \"Clarão Transcendente\", se transforma em \"Lua Sobre o Rio Glacial\", e vira a única habilidade que ela pode utilizar em batalha. Quando Jingliu usa um ataque no estado de Transmigração Espectral, ela consome PV de todos os outros aliados igual a {2} dos respectivos PV máximos dos aliados (isso não pode reduzir os PV dos aliados para abaixo de 1). O ATQ de Jingliu aumenta em {3} da quantidade total dos PV consumidos de todos os aliados neste ataque, com um máximo de <span style=\"color: #f29e38ff\">{4}</span> de seu ATQ base e dura até o fim do ataque atual. Jingliu não pode entrar no estado de Transmigração Espectral novamente até que o estado atual de Transmigração Espectral tenha acabado. Sizígia pode acumular até 3 vezes. Quando o acúmulo de Sizígia chega a 0, Jingliu sai do estado de Transmigração Espectral.",
+      "values": [
+        [
+          0.3000000002793968
+        ],
+        [
+          4
+        ],
+        [
+          540
+        ],
+        [
+          90,
+          99,
+          108,
+          117,
+          126,
+          135,
+          146,
+          158,
+          169,
+          180,
+          189,
+          198,
+          207,
+          216,
+          225
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ],
+        [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Após atacar um inimigo e entrar na batalha, a Tenacidade do Tipo do inimigo sofrerá Enfraquecimento.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Brilho da Verdade",
+      "desc": "Após usar esta Técnica, cria uma dimensão ao redor de Jingliu que dura por {3} segundos, e todos os inimigos nesta dimensão sofrerão Congelamento. Após entrar em combate com os inimigos na dimensão, Jingliu recupera imediatamente {6} de Energia e obtém {1} acúmulo(s) de Sizígia, com uma <u>chance-base</u> de {2} de causar Congelamento nos inimigos-alvo por {4} rodada(s). Enquanto estiverem com Congelamento, inimigos-alvo não podem agir, e recebem <u>Dano de Gelo Adicional</u> igual a {5} do ATQ de Jingliu no início de cada rodada. Somente 1 dimensão criada por aliados pode existir ao mesmo tempo.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          1
+        ],
+        [
+          80
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Lua sobre o Rio Glacial",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Jingliu como Dano de Gelo a um único inimigo e <span style=\"color: #f29e38ff\">{3}</span> do ATQ de Jingliu como Dano de Gelo a inimigos adjacentes. Consome {2} acúmulo(s) de Sizígia. Usar esta habilidade não consome Pontos de Perícia.",
+      "values": [
+        [
+          125,
+          138,
+          150,
+          163,
+          175,
+          188,
+          203,
+          219,
+          234,
+          250,
+          263,
+          275,
+          288,
+          300,
+          312
+        ],
+        [
+          1
+        ],
+        [
+          63,
+          69,
+          75,
+          81,
+          88,
+          94,
+          102,
+          109,
+          117,
+          125,
+          131,
+          138,
+          144,
+          150,
+          156
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
   "dan-heng-imbibitor-lunae": {
     "attack": {
       "name": "Lótus Beneficente",
-      "desc": "Usa um ataque de 2 golpes e causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Dan Heng - Embebidor Lunae a um único inimigo.",
+      "desc": "Realiza um ataque de 2 golpes e causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Dan Heng - Embebidor Lunae a um único inimigo-alvo.",
       "values": [
         [
           50,
@@ -5702,13 +5956,13 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Prismadracônico Amaina-Céus",
-      "desc": "Após usar sua Técnica, Dan Heng - Embebidor Lunae entra no estado de Dragão Saltitante por {2} segundos. Enquanto está no estado de Dragão Saltitante, usar o seu ataque permite que ele se mova para frente rapidamente por uma certa distância, atacando todos os inimigos que ele tocar e bloqueando todos os ataques direcionados a ele. Após entrar no combate ao atacar inimigos no estado de Dragão Saltitante, Dan Heng - Embebidor Lunae causa Dano Imaginário igual a {3} do seu ATQ a todos os inimigos, e ganha {1} Squama Sacrosancta.",
+      "desc": "Após usar sua Técnica, Dan Heng - Embebidor Lunae entra no estado de Dragão Saltitante por {2} segundos. Enquanto está no estado de Dragão Saltitante, usar o seu ataque permite que ele se mova para frente rapidamente por uma certa distância, atacando todos os inimigos nos quais ele tocar e bloqueando todos os ataques direcionados a ele. Após entrar no combate ao atacar inimigos no estado de Dragão Saltitante, Dan Heng - Embebidor Lunae causa Dano Imaginário igual a {3} do seu ATQ a todos os inimigos, e ganha {1} Squama Sacrosancta.",
       "values": [
         [
           1
@@ -5739,13 +5993,7 @@
           500,
           550,
           600,
-          650,
-          250,
-          250,
-          250,
-          250,
-          250,
-          250
+          650
         ],
         [
           90,
@@ -5756,13 +6004,7 @@
           180,
           198,
           216,
-          234,
-          90,
-          90,
-          90,
-          90,
-          90,
-          90
+          234
         ]
       ],
       "format": [
@@ -5924,7 +6166,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do alvo inimigo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
       "values": [],
       "format": []
     },

@@ -239,6 +239,14 @@
     "rarity": 5,
     "background": "仙舟「罗浮」持明族的尊长，有「衔药龙女」之称的医士。\\n以独门医理和唯有龙脉方可施行的「医疗手段」救死扶伤。"
   },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "镜流",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "曾经的罗浮剑首，云骑军不败盛名的缔造者。\\n而今其名字已被抹去，成为行走于魔阴身边缘的仙舟叛徒。"
+  },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
     "name": "丹恒•饮月",

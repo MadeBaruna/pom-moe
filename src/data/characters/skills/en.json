@@ -290,7 +290,7 @@
     },
     "talent": {
       "name": "Superiority of Reach",
-      "desc": "When Dan Heng is the target of an ally's Ability, his next attack's Wind <u>RES PEN</u> increases by <span style=\"color: #f29e38ff\">{1}</span>. This effect can be triggered again after {2} turn(s).",
+      "desc": "When Dan Heng is the target of an ally's ability, his next attack's Wind <u>RES PEN</u> increases by <span style=\"color: #f29e38ff\">{1}</span>. This effect can be triggered again after {2} turn(s).",
       "values": [
         [
           18,
@@ -3174,7 +3174,7 @@
   "lynx": {
     "attack": {
       "name": "Ice Crampon Technique",
-      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of this unit's Max HP to a single enemy.",
+      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of this character's Max HP to a single enemy.",
       "values": [
         [
           25,
@@ -3330,7 +3330,7 @@
     },
     "talent": {
       "name": "Outdoor Survival Experience",
-      "desc": "When using Lynx's Skill or Ultimate, applies continuous healing to the target ally for {1} turn(s), restoring HP by an amount equal to <span style=\"color: #f29e38ff\">{2}</span> of Lynx's Max HP plus <span style=\"color: #f29e38ff\">{3}</span> at the start of each turn. If the target has \"Survival Response\", the continuous healing effect additionally restores HP by an amount equal to <span style=\"color: #f29e38ff\">{4}</span> of Lynx's Max HP plus <span style=\"color: #f29e38ff\">{5}</span>.",
+      "desc": "When using Lynx's Skill or Ultimate, applies continuous healing to the target ally for {1} turn(s), restoring the target ally's HP by an amount equal to <span style=\"color: #f29e38ff\">{2}</span> of Lynx's Max HP plus <span style=\"color: #f29e38ff\">{3}</span> at the start of each turn. If the target has \"Survival Response\", the continuous healing effect additionally restores HP by an amount equal to <span style=\"color: #f29e38ff\">{4}</span> of Lynx's Max HP plus <span style=\"color: #f29e38ff\">{5}</span>.",
       "values": [
         [
           2
@@ -3414,13 +3414,13 @@
     },
     "mazeattack": {
       "name": "Attack",
-      "desc": "After attacking an enemy and entering battle, the enemy target's corresponding Type Toughness will be Weakened.",
+      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Chocolate Energy Bar",
-      "desc": "After Lynx uses her Technique, at the start of the next battle, all allies are granted the continuous healing effect from her Talent for {1} turn(s).",
+      "desc": "After Lynx uses her Technique, at the start of the next battle, all allies are granted her Talent's continuous healing effect, lasting for {1} turn(s).",
       "values": [
         [
           2
@@ -5050,7 +5050,7 @@
     },
     "talent": {
       "name": "Bleak Breeds Bliss",
-      "desc": "While Fu Xuan has not been knocked down, \"Misfortune Avoidance\" is applied to the entire team. While affected by \"Misfortune Avoidance\", allies take <span style=\"color: #f29e38ff\">{1}</span> less DMG.\\nHP Restore will be triggered for Fu Xuan when her HP falls to {2} of her Max HP or less. This effect will restore her HP by <span style=\"color: #f29e38ff\">{3}</span> of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect possesses 1 trigger count by default, and can have a maximum of 2 trigger counts.",
+      "desc": "While Fu Xuan is still active in battle, Misfortune Avoidance is applied to the entire team. With Misfortune Avoidance, allies take <span style=\"color: #f29e38ff\">{1}</span> less DMG.\\nWhen Fu Xuan's current HP falls to {2} of her Max HP or less, HP Restore will be triggered for Fu Xuan, restoring her HP by <span style=\"color: #f29e38ff\">{3}</span> of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect possesses 1 trigger count by default and can have a maximum of 2 trigger counts.",
       "values": [
         [
           10,
@@ -5098,7 +5098,7 @@
     },
     "mazeattack": {
       "name": "Attack",
-      "desc": "Attack the enemy. Upon entering battle, reduce the enemy targets' Toughness of the corresponding Type.",
+      "desc": "Attack an enemy, and when the battle starts, reduce their Toughness of the corresponding Type.",
       "values": [],
       "format": []
     },
@@ -5567,6 +5567,260 @@
       ]
     }
   },
+  "jingliu": {
+    "attack": {
+      "name": "Lucent Moonglow",
+      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Jingliu's ATK to a single enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Transcendent Flash",
+      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Jingliu's ATK to a single enemy and obtains {2} stack(s) of Syzygy.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Florephemeral Dreamflux",
+      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Jingliu's ATK to a single enemy, and deals Ice DMG equal to <span style=\"color: #f29e38ff\">{3}</span> of Jingliu's ATK to any adjacent enemies. Gains {2} stack(s) of Syzygy after attack ends.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          1
+        ],
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        ""
+      ]
+    },
+    "talent": {
+      "name": "Crescent Transmigration",
+      "desc": "When Jingliu has {5} stack(s) of Syzygy, she enters the Spectral Transmigration state with her Action Advanced by {6} and her CRIT Rate increases by <span style=\"color: #f29e38ff\">{7}</span>. Then, Jingliu's Skill \"Transcendent Flash\" becomes enhanced and turns into \"Moon On Glacial River,\" and becomes the only ability she can use in battle. When Jingliu uses an attack in the Spectral Transmigration state, she consumes HP from all other allies equal to {2} of their respective Max HP (this cannot reduce allies' HP to lower than 1). Jingliu's ATK increases by {3} of the total HP consumed from all allies in this attack, capped at <span style=\"color: #f29e38ff\">{4}</span> of her base ATK, lasting until the current attack ends. Jingliu cannot enter the Spectral Transmigration state again until the current Spectral Transmigration state ends. Syzygy can stack up to 3 times. When Syzygy stacks become 0, Jingliu will exit the Spectral Transmigration state.",
+      "values": [
+        [
+          0.3000000002793968
+        ],
+        [
+          4
+        ],
+        [
+          540
+        ],
+        [
+          90,
+          99,
+          108,
+          117,
+          126,
+          135,
+          146,
+          158,
+          169,
+          180,
+          189,
+          198,
+          207,
+          216,
+          225
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ],
+        [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "After attacking an enemy and entering battle, the enemy's corresponding Type Toughness will be Weakened.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Shine of Truth",
+      "desc": "After using this Technique, creates a dimension around Jingliu that lasts for {3} seconds, and all enemies in this dimension will become Frozen. After entering combat with enemies in the dimension, Jingliu immediately regenerates {6} Energy and obtains {1} stack(s) of Syzygy, with a {2} <u>base chance</u> of Freezing enemy targets for {4} turn(s). While Frozen, enemy targets cannot take action, and receive Ice <u>Additional DMG</u> equal to {5} of Jingliu's ATK at the start of every turn. Only 1 dimension created by allies can exist at the same time.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          1
+        ],
+        [
+          80
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Moon On Glacial River",
+      "desc": "Deals Ice DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Jingliu's ATK to a single enemy, and deals Ice DMG equal to <span style=\"color: #f29e38ff\">{3}</span> of Jingliu's ATK to adjacent enemies. Consumes {2} stack(s) of Syzygy. Using this ability does not consume Skill Points.",
+      "values": [
+        [
+          125,
+          138,
+          150,
+          163,
+          175,
+          188,
+          203,
+          219,
+          234,
+          250,
+          263,
+          275,
+          288,
+          300,
+          312
+        ],
+        [
+          1
+        ],
+        [
+          63,
+          69,
+          75,
+          81,
+          88,
+          94,
+          102,
+          109,
+          117,
+          125,
+          131,
+          138,
+          144,
+          150,
+          156
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
   "dan-heng-imbibitor-lunae": {
     "attack": {
       "name": "Beneficent Lotus",
@@ -5590,7 +5844,7 @@
     },
     "skill": {
       "name": "Dracore Libre",
-      "desc": "Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.\\nEnhanced once, Beneficent Lotus becomes Transcendence.\\nEnhanced twice, Beneficent Lotus becomes Divine Spear.\\nEnhanced 3 times, Beneficent Lotus becomes Fulgurant Leap.\\nWhen using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of \"Outroar\" is gained before every hit. Each stack of \"Outroar\" increases Dan Heng • Imbibitor Lunae's CRIT DMG by <span style=\"color: #f29e38ff\">{1}</span>, for a max of {2} stacks. These stacks last until the end of his turn.",
+      "desc": "Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.\\nEnhanced once, Beneficent Lotus becomes Transcendence.\\nEnhanced twice, Beneficent Lotus becomes Divine Spear.\\nEnhanced thrice, Beneficent Lotus becomes Fulgurant Leap.\\nWhen using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of Outroar is gained before every hit. Each stack of Outroar increases Dan Heng • Imbibitor Lunae's CRIT DMG by <span style=\"color: #f29e38ff\">{1}</span>, for a max of {2} stacks. These stacks last until the end of his turn.",
       "values": [
         [
           6,
@@ -5620,7 +5874,7 @@
     },
     "ultimate": {
       "name": "Azure's Aqua Ablutes All",
-      "desc": "Uses a 3-hit attack and deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target. At the same time, deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Dan Heng • Imbibitor Lunae's ATK to adjacent targets. Then, obtains {3} Squama Sacrosancta.\\nIt's possible to hold up to {4} Squama Sacrosancta, which can be used to offset the consumption of Dan Heng • Imbibitor Lunae's skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points.",
+      "desc": "Uses a 3-hit attack and deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target. At the same time, deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Dan Heng • Imbibitor Lunae's ATK to adjacent targets. Then, obtains {3} Squama Sacrosancta.\\nIt's possible to hold up to {4} Squama Sacrosancta, which can be used to offset Dan Heng • Imbibitor Lunae's consumption of skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points.",
       "values": [
         [
           180,
@@ -5739,13 +5993,7 @@
           500,
           550,
           600,
-          650,
-          250,
-          250,
-          250,
-          250,
-          250,
-          250
+          650
         ],
         [
           90,
@@ -5756,13 +6004,7 @@
           180,
           198,
           216,
-          234,
-          90,
-          90,
-          90,
-          90,
-          90,
-          90
+          234
         ]
       ],
       "format": [

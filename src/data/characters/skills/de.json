@@ -3174,7 +3174,7 @@
   "lynx": {
     "attack": {
       "name": "Steigeisentechnik",
-      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> der max. LP des Anwenders zu.",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> der max. LP von Lynx zu.",
       "values": [
         [
           25,
@@ -3193,8 +3193,8 @@
       ]
     },
     "skill": {
-      "name": "Gesalzene Campingdosen",
-      "desc": "Wendet die Überlebensreaktion auf einen anvisierten Verbündeten an und erhöht dessen max. LP um <span style=\"color: #f29e38ff\">{1}</span> der max. LP von Lynx plus <span style=\"color: #f29e38ff\">{2}</span>. Wenn dieser Verbündete eine Figur auf dem Pfad der Zerstörung oder der Bewahrung ist, wird die Chance stark erhöht, dass er von Gegnern angegriffen wird. Die Überlebensreaktion hält für {3} Rd. an.\\nStellt beim Ziel LP in Höhe von <span style=\"color: #f29e38ff\">{4}</span> der max. LP von Lynx plus <span style=\"color: #f29e38ff\">{5}</span>.",
+      "name": "Gesalzenes Dosenfutter",
+      "desc": "Wendet „Überlebensreaktion“ auf einen anvisierten Verbündeten an und erhöht dessen max. LP um <span style=\"color: #f29e38ff\">{1}</span> der max. LP von Lynx plus <span style=\"color: #f29e38ff\">{2}</span>. Wenn dieser Verbündete dem Pfad der Zerstörung oder der Bewahrung angehört, wird die Chance stark erhöht, dass er von Gegnern angegriffen wird. Die „Überlebensreaktion“ hält für {3} Rd. an.\\nStellt beim Ziel LP in Höhe von <span style=\"color: #f29e38ff\">{4}</span> der max. LP von Lynx plus <span style=\"color: #f29e38ff\">{5}</span> wieder her.",
       "values": [
         [
           5,
@@ -3282,7 +3282,7 @@
     },
     "ultimate": {
       "name": "Ersthilfeplan in der Schneewüste",
-      "desc": "Entfernt {1} <u>Debuff</u> von allen Verbündeten und heilt bei ihnen sofort LP in Höhe von <span style=\"color: #f29e38ff\">{2}</span> der max. LP von Lynx + <span style=\"color: #f29e38ff\">{3}</span> Punkte.",
+      "desc": "Entfernt {1} <u>Debuff</u> von allen Verbündeten und stellt bei ihnen sofort LP in Höhe von <span style=\"color: #f29e38ff\">{2}</span> der max. LP von Lynx plus <span style=\"color: #f29e38ff\">{3}</span> wieder her.",
       "values": [
         [
           1
@@ -3330,7 +3330,7 @@
     },
     "talent": {
       "name": "Überleben in der Wildnis",
-      "desc": "Wenn du Lynx’ Fertigkeit oder Ultimate einsetzt, erhält der anvisierte Verbündete für {1} Rd. zu Beginn jeder Runde kontinuierliche Heilung, sodass bei ihm LP in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Lynx’ max. LP + <span style=\"color: #f29e38ff\">{3}</span> wiederhergestellt werden. Wenn die Überlebensreaktion des anvisierten Gegners aktiv ist, stellt der kontinuierliche Heileffekt zusätzlich LP in Höhe von <span style=\"color: #f29e38ff\">{4}</span> von Lynx’ max. LP + <span style=\"color: #f29e38ff\">{5}</span> wieder her.",
+      "desc": "Wenn Lynx ihre Fertigkeit oder ihren Ultimate einsetzt, erhält der anvisierte Verbündete für {1} Rd. zu Beginn jeder Runde kontinuierliche Heilung in Höhe von <span style=\"color: #f29e38ff\">{2}</span> der max. LP von Lynx plus <span style=\"color: #f29e38ff\">{3}</span>. Wenn das anvisierte Ziel mit „Überlebensreaktion“ ausgestattet ist, stellt der kontinuierliche Heileffekt zusätzlich LP in Höhe von <span style=\"color: #f29e38ff\">{4}</span> der max. LP von Lynx plus <span style=\"color: #f29e38ff\">{5}</span> wieder her.",
       "values": [
         [
           2
@@ -3414,13 +3414,13 @@
     },
     "mazeattack": {
       "name": "Angriff",
-      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den Widerstand des gegnerischen Ziels des entsprechenden Typs.",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Schokoenergieriegel",
-      "desc": "Nachdem Lynx ihre Technik eingesetzt hat, erhalten alle Verbündeten zu Beginn des nächsten Kampfes für {1} Rd. kontinuierliche Heilung durch ihr Talent.",
+      "name": "Schoko-Energieriegel",
+      "desc": "Nachdem Lynx ihre Technik eingesetzt hat, erhalten alle Verbündeten zu Beginn des nächsten Kampfes für {1} Rd. kontinuierliche Heilung von ihrem Talent.",
       "values": [
         [
           2
@@ -4968,7 +4968,7 @@
     },
     "skill": {
       "name": "Astronomisches Wunder",
-      "desc": "Aktiviert die „Matrix der Voraussicht“. Für {3} Rd. wird {1} des SCH, den Fu Xuans Verbündete erleiden (und bevor dieser Schaden durch eventuell vorhandene Schilde adsorbiert wird), mit Fu Xuan <u>geteilt</u>.\\nAlle Verbündeten, die von der „Matrix der Voraussicht“ betroffen sind, erhalten den Status „Wissen“, der ihre max. LP um <span style=\"color: #f29e38ff\">{4}</span> von Fu Xuans max. LP und ihre KRIT-Rate um <span style=\"color: #f29e38ff\">{5}</span> erhöht.\\nWenn Fu Xuan <u>handlungsunfähig</u> wird, verschwindet die „Matrix der Voraussicht“.",
+      "desc": "Aktiviert die „Matrix der Voraussicht“. Für {3} Rd. wird {1} des SCH, den Fu Xuans Verbündete erleiden (und bevor dieser Schaden durch eventuell vorhandene Schilde absorbiert wird), mit Fu Xuan <u>geteilt</u>.\\nAlle Verbündeten, die von der „Matrix der Voraussicht“ betroffen sind, erhalten den Status „Wissen“, der ihre max. LP um <span style=\"color: #f29e38ff\">{4}</span> der max. LP von Fu Xuan und ihre KRIT-Rate um <span style=\"color: #f29e38ff\">{5}</span> erhöht.\\nWenn Fu Xuan <u>handlungsunfähig</u> wird, verschwindet die „Matrix der Voraussicht“.",
       "values": [
         [
           65
@@ -5024,7 +5024,7 @@
     },
     "ultimate": {
       "name": "Ultimative Evolution",
-      "desc": "Fügt allen Gegnern Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Fu Xuans max. LP zu und erhält 1 Auslösepunkt für die LP-Wiederherstellung von Fu Xuans Talent.",
+      "desc": "Fügt allen Gegnern Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> der max. LP von Fu Xuan zu und verleiht 1 Auslösepunkt für die LP-Wiederherstellung von Fu Xuans Talent.",
       "values": [
         [
           60,
@@ -5050,7 +5050,7 @@
     },
     "talent": {
       "name": "Nach Weh kommt Wohl",
-      "desc": "Solange Fu Xuan kampffähig ist, wird „Unglücksvermeidung“ auf alle Verbündeten angewendet. Im Status von „Unglücksvermeidung“ erleiden die Verbündeten <span style=\"color: #f29e38ff\">{1}</span> weniger SCH.\\nLP-Wiederherstellung wird für Fu Xuan ausgelöst, wenn ihr LP-Prozentsatz auf {2} oder weniger ihrer max. LP liegt. Dieser Effekt stellt ihre LP in Höhe von <span style=\"color: #f29e38ff\">{3}</span> der bisher verlorenen LP wieder her. Er kann nicht ausgelöst werden, wenn sie einen Todesstoß erleidet. Dieser Effekt kann anfangs 1-mal ausgelöst werden und hat eine max. Auslösungsanzahl von 2.",
+      "desc": "Solange Fu Xuan kampffähig ist, wird „Unglücksvermeidung“ auf alle Verbündeten angewendet. Im Status „Unglücksvermeidung“ erleiden die Verbündeten <span style=\"color: #f29e38ff\">{1}</span> weniger SCH.\\nLP-Wiederherstellung wird für Fu Xuan ausgelöst, wenn ihr LP-Prozentsatz auf {2} oder weniger liegt. Dieser Effekt stellt ihre LP in Höhe von <span style=\"color: #f29e38ff\">{3}</span> der bisher verlorenen LP wieder her. Er kann nicht ausgelöst werden, wenn sie einen Todesstoß erleidet. Dieser Effekt kann anfangs 1-mal ausgelöst werden und hat eine max. Auslösungsanzahl von 2.",
       "values": [
         [
           10,
@@ -5567,10 +5567,264 @@
       ]
     }
   },
+  "jingliu": {
+    "attack": {
+      "name": "Strahlendes Mondleuchten",
+      "desc": "Fügt einem anvisierten Gegner Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jinglius ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Transzendenter Blitz",
+      "desc": "Fügt einem anvisierten Gegner Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jinglius ANG zu und erhält {2} Stapelung „Lunation“.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Traum der vergänglichen Blüten",
+      "desc": "Fügt einem anvisierten Gegner Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jinglius ANG zu und fügt angrenzenden Einheiten Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Jinglius ANG zu. Nach dem Angriff erhält sie {2} Stapelung „Lunation“.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          1
+        ],
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        ""
+      ]
+    },
+    "talent": {
+      "name": "Seelenwanderung der Mondsichel",
+      "desc": "Wenn Jingliu über {5} Stapelungen „Lunation“ verfügt, tritt sie in den Status „Seelenwanderung“ ein, wobei ihre Aktion um {6} vorgezogen und ihre KRIT-Rate um <span style=\"color: #f29e38ff\">{7}</span> erhöht wird. Danach wird die Fertigkeit „Transzendenter Blitz“ zu „Gletscherfluss im Mondenschein“ verstärkt und sie kann nur noch diese Fertigkeit einsetzen. Wenn Jingliu im Status „Seelenwanderung“ Angriff ausführt, verbraucht sie {2} der max. LP ihrer Verbündeten (die LP aller Verbündeten können bis auf 1 verbraucht werden). Jinglius ANG wird um {3} der diesmal gesamt verbrauchten Menge der LP aller Verbündeten erhöht, bis zu einem Maximum von <span style=\"color: #f29e38ff\">{4}</span> ihres Basis-ANG und dies hält an, bis ihr aktueller Angriff beendet. Jingliu kann den Status „Seelenwanderung“ nicht wieder betreten, bevor er endet. „Lunation“ ist bis zu 3-fach stapelbar. Wenn keine Stapelungen von „Lunation“ vorhanden sind, wird der Status „Seelenwanderung“ beendet.",
+      "values": [
+        [
+          0.3000000002793968
+        ],
+        [
+          4
+        ],
+        [
+          540
+        ],
+        [
+          90,
+          99,
+          108,
+          117,
+          126,
+          135,
+          146,
+          158,
+          169,
+          180,
+          189,
+          198,
+          207,
+          216,
+          225
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ],
+        [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Glanz des Inneren",
+      "desc": "Nach dem Einsatz der Technik wird eine spezielle Dimension für {3} Sek. um Jingliu herum erzeugt. Alle Gegner innerhalb dieser Dimension werden eingefroren. Nach Kampfeintritt mit Gegnern in dieser Dimension werden {6} Pkt. Energie sofort wiederhergestellt. Gleichzeitig erhält Jingliu {1} Stapelung „Lunation“ und hat eine <u>Grundchance</u> von {2}, Gegner für {4} Rd. einzufrieren. Gefrorene Gegner können keine Aktionen ausführen und erleiden zu Beginn jeder Runde <u>zusätzlichen</u> Eis-SCH in Höhe von {5} von Jinglius ANG. Es kann nur 1 von Verbündeten erschaffene Dimension zur gleichen Zeit existieren.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          1
+        ],
+        [
+          80
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Gletscherfluss im Mondenschein",
+      "desc": "Fügt einem anvisierten Gegner Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jinglius ANG zu und fügt angrenzenden Einheiten Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Jinglius ANG zu. Verbraucht {2} Stapelung „Lunation“. Der Einsatz dieser Fähigkeit verbraucht keine Fertigkeitspunkte.",
+      "values": [
+        [
+          125,
+          138,
+          150,
+          163,
+          175,
+          188,
+          203,
+          219,
+          234,
+          250,
+          263,
+          275,
+          288,
+          300,
+          312
+        ],
+        [
+          1
+        ],
+        [
+          63,
+          69,
+          75,
+          81,
+          88,
+          94,
+          102,
+          109,
+          117,
+          125,
+          131,
+          138,
+          144,
+          150,
+          156
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
   "dan-heng-imbibitor-lunae": {
     "attack": {
       "name": "Segensreicher Lotus",
-      "desc": "Verwendet einen Angriff mit 2 Treffern und fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Dan Heng – Imbibitor Lunae zu.",
+      "desc": "Führt einen Angriff mit 2 Treffern aus und fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Dan Heng – Imbibitor Lunae zu.",
       "values": [
         [
           50,
@@ -5590,7 +5844,7 @@
     },
     "skill": {
       "name": "Zügellos",
-      "desc": "Verstärkt den Standardangriff bis zu 3-mal hintereinander. Der Einsatz dieser Fähigkeit verbraucht keinen Fertigkeitspunkt und gilt nicht als Einsatz einer Fertigkeit.\\nDurch einmalige Verstärkung des Standardangriffs verwandelt sich „Segensreicher Lotus“ in „Transzendenz“.\\nDurch zweimalige Verstärkung des Standardangriffs verwandelt sich „Segensreicher Lotus“ in „Himmlischer Speer“.\\nDurch dreimalige Verstärkung des Standardangriffs verwandelt sich „Segensreicher Lotus“ in „Blitzartiger Sprung“.\\nBeim Einsatz von „Himmlischer Speer“ oder „Blitzartiger Sprung“ erhält Dan Heng – Imbibitor Lunae ab dem vierten Treffer dieses Angriffs vor jedem Treffer jeweils 1 Stapelung „Beherrschendes Gebrüll“. Jede Stapelung von „Beherrschendes Gebrüll“ erhöht den KRIT-SCH von Dan Heng – Imbibitor Lunae um <span style=\"color: #f29e38ff\">{1}</span>. Dieser Effekt ist bis zu {2}-fach stapelbar und hält bis zum Ende seiner Runde an.",
+      "desc": "Verstärkt den Standardangriff bis zu 3-mal hintereinander. Der Einsatz dieser Fähigkeit verbraucht keinen Fertigkeitspunkt und gilt nicht als Einsatz einer Fertigkeit.\\nDurch einmalige Verstärkung des Standardangriffs verwandelt sich „Segensreicher Lotus“ in „Transzendenz“, durch zweimalige Verstärkung in „Himmlischer Speer“ und durch dreimalige Verstärkung in „Blitzartiger Sprung“.\\nBeim Einsatz von „Himmlischer Speer“ oder „Blitzartiger Sprung“ erhält Dan Heng – Imbibitor Lunae ab dem vierten Treffer dieses Angriffs vor jedem Treffer jeweils 1 Stapelung „Beherrschendes Gebrüll“. Jede Stapelung von „Beherrschendes Gebrüll“ erhöht den KRIT-SCH von Dan Heng – Imbibitor Lunae um <span style=\"color: #f29e38ff\">{1}</span>. Dieser Effekt ist bis zu {2}-fach stapelbar und hält bis zum Ende seiner Runde an.",
       "values": [
         [
           6,
@@ -5620,7 +5874,7 @@
     },
     "ultimate": {
       "name": "Säuberung der Welt",
-      "desc": "Führt einen Angriff mit 3 Treffern aus und fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Dan Heng – Imbibitor Lunae zu. Fügt gleichzeitig angrenzenden Einheiten imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des ANG von Dan Heng – Imbibitor Lunae zu. Erhält {3} „Unantastbare Schuppen“.\\n„Unantastbare Schuppe“ kann bis zu <span style=\"color: #f29e38ff\">{4}</span>-mal erhalten werden. Dan Heng – Imbibitor Lunae kann eine entsprechende Anzahl von „Unantastbare Schuppen“ anstelle von Fertigkeitspunkten verbrauchen. Das Verbrauchen von „Unantastbare Schuppen“ wird dem Verbrauchen von Fertigkeitspunkten gleichgesetzt.",
+      "desc": "Führt einen Angriff mit 3 Treffern aus und fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Dan Heng – Imbibitor Lunae zu. Fügt gleichzeitig angrenzenden Einheiten imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des ANG von Dan Heng – Imbibitor Lunae zu. Erhält {3} „Unantastbare Schuppen“.\\n„Unantastbare Schuppe“ kann bis zu <span style=\"color: #f29e38ff\">{4}</span>-mal erhalten werden. Dan Heng – Imbibitor Lunae kann eine entsprechende Anzahl von „Unantastbaren Schuppen“ anstelle von Fertigkeitspunkten verbrauchen. Das Verbrauchen von „Unantastbaren Schuppen“ wird dem Verbrauchen von Fertigkeitspunkten gleichgesetzt.",
       "values": [
         [
           180,
@@ -5708,7 +5962,7 @@
     },
     "technique": {
       "name": "Blitz des Regenbogens",
-      "desc": "Nach der Anwendung seiner Technik geht Dan Heng – Imbibitor Lunae für 2[i] Sekunden in den Status Springender Drache über. Im Status Springender Drache bewegt sich Dan Heng – Imbibitor Lunae beim Einsatz seines Angriffs eine bestimmte Strecke schnell vorwärts, greift alle Gegner an, die er berührt und blockt alle eingehenden Angriffe. Wenn Dan Heng – Imbibitor Lunae durch Angriff von Feinden im Status Springender Drache in einen Kampf eintritt, fügt er allen Feinden imaginären SCH in Höhe von {3} seines ANG zu und erhält {1} „Unantastbare Schuppe“.",
+      "desc": "Nach der Anwendung seiner Technik geht Dan Heng – Imbibitor Lunae für {2} Sek. in den Status „Springender Drache“ über. Im Status Springender Drache bewegt sich Dan Heng – Imbibitor Lunae beim Einsatz seines Angriffs eine bestimmte Strecke schnell vorwärts, greift alle Gegner an, die er berührt und blockt alle eingehenden Angriffe. Wenn Dan Heng – Imbibitor Lunae im Status „Springender Drache“ durch Angriff auf den Gegner in einen Kampf eintritt, fügt er allen Gegnern imaginären SCH in Höhe von {3} seines ANG zu und erhält {1} „Unantastbare Schuppe“.",
       "values": [
         [
           1
@@ -5722,13 +5976,13 @@
       ],
       "format": [
         "[i]",
-        "",
+        "[i]",
         "[i]%"
       ]
     },
     "undefined": {
       "name": "Blitzartiger Sprung",
-      "desc": "Führe einen Angriff mit 7 Treffern aus, der einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Dan Heng – Imbibitor Lunaes ANG zufügt. Fügt ab dem vierten Treffer den angrenzenden Einheiten imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Dan Heng – Imbibitor Lunaes ANG zu.",
+      "desc": "Führt einen Angriff mit 7 Treffern aus und fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Dan Heng – Imbibitor Lunaes ANG zu. Fügt ab dem vierten Treffer den angrenzenden Einheiten imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Dan Heng – Imbibitor Lunaes ANG zu.",
       "values": [
         [
           250,
@@ -5739,13 +5993,7 @@
           500,
           550,
           600,
-          650,
-          250,
-          250,
-          250,
-          250,
-          250,
-          250
+          650
         ],
         [
           90,
@@ -5756,13 +6004,7 @@
           180,
           198,
           216,
-          234,
-          90,
-          90,
-          90,
-          90,
-          90,
-          90
+          234
         ]
       ],
       "format": [

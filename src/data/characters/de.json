@@ -149,7 +149,7 @@
     "path": "abundance",
     "element": "quantum",
     "rarity": 4,
-    "background": "Eine Schneewüsten-Erkunderin aus Belobog und die jüngste Schwester der Familie Landau.\\nBesitzt eine ruhige Persönlichkeit und handelt schnell und entschlossen. Verbringt die meiste Zeit, um die Schneewüste zu erkunden."
+    "background": "Eine Schneewüsten-Erkunderin aus Belobog und die jüngste Schwester der Familie Landau.\\nBesitzt eine ruhige Persönlichkeit und handelt schnell und entschlossen. Verbringt die meiste Zeit, die Schneewüste zu erkunden."
   },
   "luka": {
     "id": "luka",
@@ -239,6 +239,14 @@
     "rarity": 5,
     "background": "Die Hohe Älteste des Vidyadhara wird auf der Xianzhou Luofu auch „Heilerin“ genannt.\\nMit ihrer einzigartigen Heilkunst und Behandlungsmethoden, die nur von den Vidyadhara-Drachen eingesetzt werden können, rettet sie Leben."
   },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "Jingliu",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Sie war einst Schwertmeisterin der Luofu und hat die Legenden von der Unbesiegbarkeit der Wolkenritter erschaffen.\\nDoch jetzt ist ihr Name aus den Annalen gelöscht worden. Sie gilt als Verräterin der Xianzhou und wandelt auf dem schmalen Grat zwischen Vernunft und Mara."
+  },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
     "name": "Dan Heng – Imbibitor Lunae",
@@ -253,6 +261,6 @@
     "path": "adaptive",
     "element": "adaptive",
     "rarity": 5,
-    "background": "Ein Mädchen/Junge an Bord des Astralexpresses.\\nHat beschlossen, mit dem Astralexpress zu reisen, um den Gefahren des Stellarons zu entrinnen."
+    "background": "Ein Mädchen/Junge an Bord des Astralexpresses.\\nHat beschlossen, mit dem Astralexpress zu reisen, um der Bedrohung durch das Stellaron Einhalt zu gebieten."
   }
 }

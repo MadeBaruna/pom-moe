@@ -3330,7 +3330,7 @@
     },
     "talent": {
       "name": "Supervivencia al aire libre",
-      "desc": "Al usar la habilidad básica o la habilidad definitiva, un objetivo aliado obtiene un efecto de curación continua durante {1} turno(s). Al comenzar cada turno, el objetivo regenera una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{2}</span> de los PV máx. de Lynx + <span style=\"color: #f29e38ff\">{3}</span>. Si el objetivo está afectado por Reacción de supervivencia, el efecto de regeneración continua de PV regenera de forma adicional una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{4}</span> de los PV máx. de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "desc": "Al usar la habilidad básica o la habilidad definitiva, un objetivo aliado obtiene un efecto de curación continua durante {1} turnos. Al comenzar cada turno, el objetivo regenera una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{2}</span> de los PV máx. de Lynx + <span style=\"color: #f29e38ff\">{3}</span>. Si el objetivo está afectado por Reacción de supervivencia, el efecto de curación continua regenera de forma adicional una cantidad de PV equivalente al <span style=\"color: #f29e38ff\">{4}</span> de los PV máx. de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
       "values": [
         [
           2
@@ -3420,7 +3420,7 @@
     },
     "technique": {
       "name": "Barrita energética de chocolate",
-      "desc": "Tras usar la técnica, al comenzar la siguiente batalla, se aplica el efecto de curación continua de Lynx a todos los aliados durante {1} turnos.",
+      "desc": "Tras usar la técnica, al comenzar la siguiente batalla, se aplica el efecto de curación continua del talento de Lynx a todos los aliados durante {1} turnos.",
       "values": [
         [
           2
@@ -4968,7 +4968,7 @@
     },
     "skill": {
       "name": "Maravilla astronómica",
-      "desc": "Activa Matriz del Presagio y todos los aliados de Fu Xuan <u>traspasan</u> un {1} del daño que reciben (antes de que un escudo mitigue el daño) a Fu Xuan durante {3} turno(s).\\nTodos los aliados afectados por Matriz del Presagio obtienen Conocimiento. En este estado, los PV máx. de los aliados aumentan en una cantidad equivalente al <span style=\"color: #f29e38ff\">{4}</span> de los PV máx. de Fu Xuan y su Prob. CRIT aumenta en un <span style=\"color: #f29e38ff\">{5}</span>.\\nCuando Fu Xuan es <u>derrotada</u>, Matriz del Presagio se disipa.",
+      "desc": "Activa Matriz del Presagio y todos los aliados de Fu Xuan <u>traspasan</u> un {1} del daño que reciben (antes de que un escudo mitigue el daño) a Fu Xuan durante {3} turnos.\\nMientras están afectados por Matriz del Presagio, todos los aliados obtienen Conocimiento. En este estado, los PV máx. de los aliados aumentan en una cantidad equivalente al <span style=\"color: #f29e38ff\">{4}</span> de los PV máx. de Fu Xuan y su Prob. CRIT aumenta en un <span style=\"color: #f29e38ff\">{5}</span>.\\nCuando Fu Xuan es <u>derrotada</u>, Matriz del Presagio se disipa.",
       "values": [
         [
           65
@@ -5050,7 +5050,7 @@
     },
     "talent": {
       "name": "Tras la adversidad viene la felicidad",
-      "desc": "Cuando Fu Xuan no ha sido derrotada, todos los aliados obtienen Escape del infortunio. En este estado, el daño que reciben todos los aliados se reduce en un <span style=\"color: #f29e38ff\">{1}</span>.\\nFu Xuan regenera sus PV cuando tiene un porcentaje de PV inferior o igual al {2}. Este efecto regenera un <span style=\"color: #f29e38ff\">{3}</span> de los PV que le falten en ese momento, y no puede activarse cuando recibe un golpe letal. Inicialmente, este efecto puede activarse 1 vez, y se puede activar hasta 2 veces como máximo.",
+      "desc": "Mientras Fu Xuan no haya sido derrotada, todos los aliados obtienen Escape del infortunio. En este estado, el daño que reciben todos los aliados se reduce en un <span style=\"color: #f29e38ff\">{1}</span>.\\nFu Xuan regenera sus PV cuando tiene un porcentaje de PV inferior o igual al {2}. Este efecto regenera un <span style=\"color: #f29e38ff\">{3}</span> de los PV que le falten en ese momento, y no puede activarse cuando recibe un golpe letal. Al inicio, este efecto cuenta con 1 activación, y se pueden tener un máximo de 2 activaciones.",
       "values": [
         [
           10,
@@ -5104,7 +5104,7 @@
     },
     "technique": {
       "name": "De la fortuna viene el destino",
-      "desc": "Tras usar la técnica, todos los aliados obtienen una barrera durante {1} segundos. Esta barrera bloquea los ataques infligidos por los enemigos e impide que los aliados entren en combate. Si se entra en combate mientras la barrera está activa, Fu Xuan activa automáticamente Matriz del Presagio durante {2} turnos.",
+      "desc": "Tras usar la técnica, todos los aliados obtienen una barrera durante {1} segundos. Esta barrera bloquea los ataques de los enemigos e impide que se entre en combate al recibir un ataque. Si se entra en combate mientras la barrera está activa, Fu Xuan activa automáticamente Matriz del Presagio durante {2} turnos.",
       "values": [
         [
           20
@@ -5567,6 +5567,260 @@
       ]
     }
   },
+  "jingliu": {
+    "attack": {
+      "name": "Brillo resplandeciente",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Jingliu como Daño de Hielo a un enemigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Destello trascendental",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Jingliu como Daño de Hielo a un enemigo y obtiene {2} acumulación de Sizigia.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Sueño de flores efímeras",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Jingliu como Daño de Hielo a un enemigo y un <span style=\"color: #f29e38ff\">{3}</span> del ATQ de Jingliu como Daño de Hielo a los enemigos adyacentes. Cuando termina el ataque, obtiene {2} acumulación de Sizigia.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          1
+        ],
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        ""
+      ]
+    },
+    "talent": {
+      "name": "Transmigración creciente",
+      "desc": "Cuando Jingliu tiene {5} acumulaciones de Sizigia, entra en el estado de Transmigración espectral, su acción se adelanta un {6} y su Prob. CRIT aumenta en un <span style=\"color: #f29e38ff\">{7}</span>. Después, la habilidad básica Destello trascendental se potencia y se convierte en Reflejo helado de la luna (solo puede usar esta habilidad básica). Al lanzar un ataque en el estado de Transmigración espectral, consume un {2} de los PV máx. de los aliados (como máximo, consume PV hasta que a cada aliado solo le quede 1). El ATQ de Jingliu aumenta en un {3} de la cantidad total de PV consumidos a todos los aliados, hasta un máximo del <span style=\"color: #f29e38ff\">{4}</span> del ATQ base de Jingliu. Dura hasta que termine el ataque actual. No puede volver a entrar en el estado de Transmigración espectral antes de que este acabe. Sizigia se puede acumular hasta 3 veces. Cuando no quedan acumulaciones de Sizigia, sale del estado de Transmigración espectral.",
+      "values": [
+        [
+          0.3000000002793968
+        ],
+        [
+          4
+        ],
+        [
+          540
+        ],
+        [
+          90,
+          99,
+          108,
+          117,
+          126,
+          135,
+          146,
+          158,
+          169,
+          180,
+          189,
+          198,
+          207,
+          216,
+          225
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ],
+        [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Resplandor de la verdad",
+      "desc": "Tras usar la técnica, crea una zona especial a su alrededor que dura {3} segundos. Los enemigos que estén en la zona especial son afectados con Congelación. Al entrar en combate con los enemigos dentro de la zona, recupera {6} pts. de energía, obtiene {1} acumulación de Sizigia y tiene una <u>probabilidad base</u> del {2} de congelar a los enemigos durante {4} turno. Los enemigos congelados no se pueden mover y al principio de cada turno reciben un Daño de Hielo <u>adicional</u> equivalente al {5} del ATQ de Jingliu. Solo puede haber una zona especial creada por los aliados a la vez.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          1
+        ],
+        [
+          80
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Reflejo helado de la luna",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Jingliu como Daño de Hielo a un enemigo y un <span style=\"color: #f29e38ff\">{3}</span> del ATQ de Jingliu como Daño de Hielo a los enemigos adyacentes. Consume {2} acumulación de Sizigia. Esta habilidad no consume pts. de habilidad básica.",
+      "values": [
+        [
+          125,
+          138,
+          150,
+          163,
+          175,
+          188,
+          203,
+          219,
+          234,
+          250,
+          263,
+          275,
+          288,
+          300,
+          312
+        ],
+        [
+          1
+        ],
+        [
+          63,
+          69,
+          75,
+          81,
+          88,
+          94,
+          102,
+          109,
+          117,
+          125,
+          131,
+          138,
+          144,
+          150,
+          156
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
   "dan-heng-imbibitor-lunae": {
     "attack": {
       "name": "Loto benéfico",
@@ -5590,7 +5844,7 @@
     },
     "skill": {
       "name": "Libre de ataduras",
-      "desc": "Dan Heng - Imbibitor Lunae potencia el ATQ básico un máximo de 3 veces consecutivas. Esta habilidad no consume pts. de habilidad básica y no se considera como un uso de la habilidad básica.\\nAl potenciarse 1 vez, Loto benéfico se transforma en Trascendencia.\\nAl potenciarse 2 veces, Loto benéfico se transforma en Lanza divina.\\nAl potenciarse 3 veces, Loto benéfico se transforma en Salto fulgurante.\\nAl lanzar Lanza divina o Salto fulgurante, a partir del 4.º golpe obtiene 1 acumulación de Rugido dominante antes de cada golpe. Rugido dominante hace que el Daño CRIT de Dan Heng - Imbibitor Lunae aumente en un <span style=\"color: #f29e38ff\">{1}</span>. Este efecto se puede acumular un máximo de {2} veces hasta el final de su turno.",
+      "desc": "Potencia el ATQ básico un máximo de 3 veces consecutivas. Esta habilidad no consume pts. de habilidad básica y no se considera como un uso de la habilidad básica.\\nAl potenciarse 1 vez, Loto benéfico se transforma en Trascendencia.\\nAl potenciarse 2 veces, Loto benéfico se transforma en Lanza divina.\\nAl potenciarse 3 veces, Loto benéfico se transforma en Salto fulgurante.\\nAl lanzar Lanza divina o Salto fulgurante, a partir del 4.º golpe obtiene 1 acumulación de Rugido dominante antes de cada golpe. Rugido dominante hace que el Daño CRIT de Dan Heng - Imbibitor Lunae aumente en un <span style=\"color: #f29e38ff\">{1}</span>. Este efecto se puede acumular un máximo de {2} veces y dura hasta el final de su turno.",
       "values": [
         [
           6,
@@ -5672,7 +5926,7 @@
     },
     "talent": {
       "name": "Corazón justo",
-      "desc": "Dan Heng - Imbibitor Lunae obtiene 1 acumulación de Corazón justo después de cada golpe y el daño que inflige aumenta en un <span style=\"color: #f29e38ff\">{1}</span>. Este efecto se puede acumular un máximo de {2} veces hasta el final de su turno.",
+      "desc": "Dan Heng - Imbibitor Lunae obtiene 1 acumulación de Corazón justo después de cada golpe y el daño que inflige aumenta en un <span style=\"color: #f29e38ff\">{1}</span>. Este efecto se puede acumular un máximo de {2} veces y dura hasta el final de su turno.",
       "values": [
         [
           5,
@@ -5708,7 +5962,7 @@
     },
     "technique": {
       "name": "Prismadragón atraviesacielos",
-      "desc": "Después de usar su técnica, Dan Heng - Imbibitor Lunae entra en el estado de Salto en espiral durante {2} segundos. En este estado, al lanzar un ataque, avanza rápidamente una cierta distancia y ataca a los enemigos con los que entra en contacto, bloqueando los ataques infligidos por los enemigos. Al entrar en combate tras atacar a un enemigo en el estado Salto en espiral, inflige un Daño Imaginario equivalente al {3} de su ATQ a todos los enemigos y obtiene {1} acumulación de Escama sacrosanta.",
+      "desc": "Tras usar la técnica, Dan Heng - Imbibitor Lunae entra en el estado de Salto en espiral durante {2} segundos. En este estado, al lanzar un ataque, avanza rápidamente una cierta distancia, ataca a todos los enemigos con los que entra en contacto y bloquea sus ataques. Al entrar en combate tras atacar a un enemigo en el estado Salto en espiral, inflige un Daño Imaginario equivalente al {3} de su ATQ a todos los enemigos y obtiene {1} acumulación de Escama sacrosanta.",
       "values": [
         [
           1
@@ -5739,13 +5993,7 @@
           500,
           550,
           600,
-          650,
-          250,
-          250,
-          250,
-          250,
-          250,
-          250
+          650
         ],
         [
           90,
@@ -5756,13 +6004,7 @@
           180,
           198,
           216,
-          234,
-          90,
-          90,
-          90,
-          90,
-          90,
-          90
+          234
         ]
       ],
       "format": [

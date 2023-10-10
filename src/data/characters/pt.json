@@ -239,6 +239,14 @@
     "rarity": 5,
     "background": "A Grande Mestra dos Vidyadharas, também conhecida como a \"Curandeira\" do Luofu.\\nEla usa sua ciência medicinal única para tratamentos que só podem ser concedidos à raça dracônica Vidyadhara para salvar vidas."
   },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "Jingliu",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Ex-campeã da Espada do Luofu e criadora das lendas dos poderes invencíveis dos Cavaleiros das Nuvens.\\nSeu nome foi apagado dos registros, e ela é uma traidora do Xianzhou que trafega na tênue linha entre a sanidade e a Mara."
+  },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
     "name": "Dan Heng - Embebidor Lunae",

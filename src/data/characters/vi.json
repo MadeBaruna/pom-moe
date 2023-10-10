@@ -149,7 +149,7 @@
     "path": "abundance",
     "element": "quantum",
     "rarity": 4,
-    "background": "Nhà thám hiểm Cánh Đồng Tuyết của Belobog, cô em út của nhà Landau. \\nLà người điềm tĩnh, sức hành động rất mạnh. Thường đến Cánh Đồng Tuyết thám hiểm một mình."
+    "background": "Nhà thám hiểm Cánh Đồng Tuyết của Belobog, cô em út của nhà Landau. \\nLà người điềm tĩnh, kiên định trong hành động. Thường đến Cánh Đồng Tuyết thám hiểm một mình."
   },
   "luka": {
     "id": "luka",
@@ -238,6 +238,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "Tôn trưởng của tộc Vidyadhara ở Xianzhou Luofu, là thầy thuốc có biệt danh \"Long Nữ Trị Liệu\".\\nCứu kẻ sắp chết, giúp người bị thương bằng \"cách chữa trị\" mà chỉ có y thuật độc môn và long mạch mới có thể làm được."
+  },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "Jingliu",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Từng là kiếm thủ hàng đầu của Luofu, người sáng lập Vân Kỵ Quân nổi tiếng bất bại.\\nNhưng nay tên của cô đã bị xóa nhòa, trở thành phản đồ của Xianzhou đang đi trên ranh giới giữa sự tỉnh táo và Xác Nhập Ma."
   },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",

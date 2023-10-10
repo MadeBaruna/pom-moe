@@ -4981,20 +4981,20 @@
         ],
         [
           3,
-          3,
-          4,
-          4,
-          4,
-          4,
-          5,
-          5,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
           6,
-          6,
-          6,
-          7,
-          7,
-          7,
-          7
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
         ],
         [
           6,
@@ -5018,7 +5018,7 @@
         "[i]%",
         "",
         "[i]",
-        "[i]%",
+        "[f1]%",
         "[f1]%"
       ]
     },
@@ -5567,6 +5567,260 @@
       ]
     }
   },
+  "jingliu": {
+    "attack": {
+      "name": "Lucent Moonglow",
+      "desc": "Mengakibatkan Ice DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Jingliu pada 1 musuh yang ditarget.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Transcendent Flash",
+      "desc": "Mengakibatkan Ice DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Jingliu pada 1 musuh yang ditarget dan memperoleh {2} lapis \"Syzygy\".",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Florephemeral Dreamflux",
+      "desc": "Mengakibatkan Ice DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Jingliu pada 1 musuh yang ditarget, serta mengakibatkan Ice DMG sebesar <span style=\"color: #f29e38ff\">{3}</span> ATK Jingliu pada musuh di sekitar target. Setelah serangan berakhir, akan memperoleh {2} lapis \"Syzygy\".",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          1
+        ],
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        ""
+      ]
+    },
+    "talent": {
+      "name": "Crescent Transmigration",
+      "desc": "Saat Jingliu memiliki {5} lapis Syzygy, dia akan memasuki status \"Spectral Transmigration\", mendahulukan aksinya sebesar {6}, dan meningkatkan <span style=\"color: #f29e38ff\">{7}</span> CRIT Rate dirinya. Setelah itu, Skill \"Transcendent Flash\" miliknya akan diperkuat menjadi \"Moon On Glacial River\", dan dirinya hanya akan bisa menggunakan Skill ini. Saat melancarkan serangan dalam status \"Spectral Transmigration\", Jingliu akan mengonsumsi HP rekan tim-nya sebesar {2} Max HP rekan tim-nya masing-masing (HP setiap rekan tim maksimal bisa dikonsumsi hingga tersisa 1). Meningkatkan ATK Jingliu sebesar {3} dari total jumlah HP yang dikonsumsi dari seluruh rekan tim kali ini, maksimum tidak lebih dari <span style=\"color: #f29e38ff\">{4}</span> Base ATK Jingliu dan berlangsung hingga serangan ini berakhir. Sebelum status \"Spectral Transmigration\" yang sedang berlangsung berakhir, Jingliu tidak akan bisa memasuki status \"Spectral Transmigration\" lagi. \"Syzygy\" dapat ditumpuk hingga 3 lapis, dan Jingliu akan keluar dari status \"Spectral Transmigration\" saat lapisan Syzygy berjumlah 0.",
+      "values": [
+        [
+          0.3000000002793968
+        ],
+        [
+          4
+        ],
+        [
+          540
+        ],
+        [
+          90,
+          99,
+          108,
+          117,
+          126,
+          135,
+          146,
+          158,
+          169,
+          180,
+          189,
+          198,
+          207,
+          216,
+          225
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ],
+        [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Shine of Truth",
+      "desc": "Setelah menggunakan Technique, karakter akan menciptakan Dimension di sekelilingnya selama {3} detik, dan musuh yang berada dalam Dimension akan memasuki status Frozen. Setelah memasuki pertempuran dengan musuh dalam Dimension, akan segera memulihkan {6} Energy diri sendiri, memperoleh {1} lapis \"Syzygy\", dan memiliki {2} <u>peluang dasar</u> untuk membuat target musuh memasuki status Frozen yang berlangsung selama {4} giliran. Selama dalam status Frozen, target musuh tidak dapat beraksi, dan akan menerima Ice <u>DMG tambahan</u> sebesar {5} ATK Jingliu setiap saat gilirannya dimulai. Hanya boleh ada 1 efek Dimension ciptaan rekan tim dalam satu waktu.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          1
+        ],
+        [
+          80
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Moon On Glacial River",
+      "desc": "Mengakibatkan Ice DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Jingliu pada 1 musuh yang ditarget, serta mengakibatkan Ice DMG sebesar <span style=\"color: #f29e38ff\">{3}</span> ATK Jingliu pada musuh di sekitar target. Mengonsumsi {2} lapis \"Syzygy\". Melancarkan kemampuan ini tidak akan mengonsumsi Poin Skill.",
+      "values": [
+        [
+          125,
+          138,
+          150,
+          163,
+          175,
+          188,
+          203,
+          219,
+          234,
+          250,
+          263,
+          275,
+          288,
+          300,
+          312
+        ],
+        [
+          1
+        ],
+        [
+          63,
+          69,
+          75,
+          81,
+          88,
+          94,
+          102,
+          109,
+          117,
+          125,
+          131,
+          138,
+          144,
+          150,
+          156
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
+      ]
+    }
+  },
   "dan-heng-imbibitor-lunae": {
     "attack": {
       "name": "Beneficent Lotus",
@@ -5739,13 +5993,7 @@
           500,
           550,
           600,
-          650,
-          250,
-          250,
-          250,
-          250,
-          250,
-          250
+          650
         ],
         [
           90,
@@ -5756,13 +6004,7 @@
           180,
           198,
           216,
-          234,
-          90,
-          90,
-          90,
-          90,
-          90,
-          90
+          234
         ]
       ],
       "format": [

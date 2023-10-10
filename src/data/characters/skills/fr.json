@@ -160,13 +160,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Beauté glacée",
-      "desc": "Attaque immédiatement les ennemis. Il y a {1} de <u>chances de base</u> de geler un ennemi aléatoire pendant {2} tour après être entré en combat.\\nUn ennemi gelé ne peut pas agir et subit des DGT de glace <u>additionnels</u> équivalents à {3} de l'ATQ de March 7th au début de chaque tour.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Il y a {1} de <u>chances de base</u> de geler un ennemi aléatoire pendant {2} tour après être entré en combat.\\nUn ennemi gelé ne peut pas agir et subit des DGT de glace <u>additionnels</u> équivalents à {3} de l'ATQ de March 7th au début de chaque tour.",
       "values": [
         [
           100
@@ -320,7 +320,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -468,13 +468,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Combustion incomplète",
-      "desc": "Crée une dimension qui dure {4} secondes après utilisation de la technique. Après être entré en combat avec des ennemis dans la dimension, il y a {1} de <u>chances de base</u> d'augmenter les DGT de feu subis par les ennemis de {2} pendant {3} tours. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "desc": "Crée une dimension qui dure {4} secondes. Il y a {1} de <u>chances de base</u> d'augmenter les DGT de feu subis par les ennemis de {2} pendant {3} tours après être entré en combat avec des ennemis dans la dimension. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
       "values": [
         [
           100
@@ -650,13 +650,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Emprisonnement gravitationnel",
-      "desc": "Crée une dimension qui dure {4} secondes après utilisation de la technique. Les ennemis dans cette dimension voient leur vitesse de déplacement réduite de {5}. Après être entré en combat avec des ennemis dans la dimension, il y a {1} de <u>chances de base</u> d'emprisonner les ennemis pour 1 tour.\\nLes ennemis emprisonnés voient leurs <u>actions retardées</u> de {2} et leur VIT réduite de {3}. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "desc": "Crée une dimension qui dure {4} secondes. Les ennemis dans cette dimension voient leur vitesse de déplacement réduite de {5}. Il y a {1} de <u>chances de base</u> d'emprisonner les ennemis pour 1 tour après être entré en combat avec des ennemis dans la dimension.\\nLes ennemis emprisonnés voient leur <u>action retardée</u> de {2} et leur VIT réduite de {3}. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
       "values": [
         [
           100
@@ -872,7 +872,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -1148,13 +1148,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Arrêt forcé du programme",
-      "desc": "Attaque immédiatement. Inflige des DGT quantiques équivalents à {1} de l'ATQ de Louve d'argent à tous les ennemis, ignore les types de faiblesse et réduit la robustesse de tous les ennemis après être entré en combat. Les ennemis qui subissent une Rupture de faiblesse de cette manière déclenchent l'effet de Rupture de faiblesse quantique.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Inflige des DGT quantiques équivalents à {1} de l'ATQ de Louve d'argent à tous les ennemis, ignore les types de faiblesse et réduit la robustesse de tous les ennemis après être entré en combat. Les ennemis qui subissent une Rupture de faiblesse de cette manière déclenchent l'effet de Rupture de faiblesse quantique.",
       "values": [
         [
           80
@@ -1288,13 +1288,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Moisson rapide",
-      "desc": "Attaque immédiatement les ennemis. Inflige des DGT de foudre équivalents à {1} de l'ATQ d'Arlan à tous les ennemis après être entré en combat.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Inflige des DGT de foudre équivalents à {1} de l'ATQ d'Arlan à tous les ennemis après être entré en combat.",
       "values": [
         [
           80
@@ -1418,13 +1418,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Coup de génie",
-      "desc": "Attaque immédiatement. Inflige des DGT de feu équivalents à {1} de l'ATQ d'Asta à tous les ennemis après être entré en combat.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Inflige des DGT de feu équivalents à {1} de l'ATQ d'Asta à tous les ennemis après être entré en combat.",
       "values": [
         [
           50
@@ -1548,7 +1548,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -1722,7 +1722,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -1856,7 +1856,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -2022,13 +2022,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Bonsoir Belobog",
-      "desc": "Attaque immédiatement les ennemis. Inflige des DGT de foudre équivalents à {4} de l'ATQ de Serval à un ennemi aléatoire après être entré en combat, avec {1} de <u>chances de base</u> que tous les ennemis soient stupéfiés pendant {3} tours.\\nLes ennemis stupéfiés subissent des dégâts de foudre sur la durée équivalents à {2} de l'ATQ de Serval au début de chaque tour.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Inflige des DGT de foudre équivalents à {4} de l'ATQ de Serval à un ennemi aléatoire après être entré en combat, avec {1} de <u>chances de base</u> que tous les ennemis soient stupéfiés pendant {3} tours.\\nLes ennemis stupéfiés subissent des dégâts de foudre sur la durée équivalents à {2} de l'ATQ de Serval au début de chaque tour.",
       "values": [
         [
           100
@@ -2200,7 +2200,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -2406,13 +2406,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Recherche sur l'hypnose",
-      "desc": "Attaque immédiatement les ennemis. Inflige des DGT physiques équivalents à {4} de l'ATQ de Natasha à un ennemi aléatoire après être entré en combat, avec {1} de <u>chances de base</u> d'affaiblir tous les ennemis.\\nLes ennemis affaiblis infligent {2} de DGT en moins aux alliés pendant {3} tour.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Inflige des DGT physiques équivalents à {4} de l'ATQ de Natasha à un ennemi aléatoire après être entré en combat, avec {1} de <u>chances de base</u> d'affaiblir tous les ennemis.\\nLes ennemis affaiblis infligent {2} de DGT en moins aux alliés pendant {3} tour.",
       "values": [
         [
           100
@@ -2566,13 +2566,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Frappe préventive",
-      "desc": "Attaque immédiatement les ennemis. Pela inflige des DGT de glace équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat, avec {1} de <u>chances de base</u> de diminuer la DÉF de tous les ennemis de {2} pendant {3} tours.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Pela inflige des DGT de glace équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat, avec {1} de <u>chances de base</u> de diminuer la DÉF de tous les ennemis de {2} pendant {3} tours.",
       "values": [
         [
           100
@@ -2752,13 +2752,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Le prix de la victoire",
-      "desc": "Attaque immédiatement les ennemis. Les chances pour Clara de se faire attaquer par des ennemis augmentent pendant {1} tours en entrant en combat.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Les chances de Clara de se faire attaquer par des ennemis augmentent pendant {1} tours en entrant en combat.",
       "values": [
         [
           2
@@ -2916,7 +2916,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -3072,13 +3072,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Aïe ! Regarde-moi ce bazar !",
-      "desc": "Attaque immédiatement les ennemis. Hook inflige des DGT de feu équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat. D'autre part, il y a {1} de <u>chances de base</u> d'infliger Brûlure à tous les ennemis pendant {3} tours.\\nLes ennemis affectés par l'état Brûlure subissent des dégâts de feu sur la durée équivalents à {2} de l'ATQ de Hook au début de chaque tour.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Hook inflige des DGT de feu équivalents à {4} de son ATQ à un ennemi aléatoire en entrant en combat. D'autre part, il y a {1} de <u>chances de base</u> d'infliger Brûlure à tous les ennemis pendant {3} tours.\\nLes ennemis affectés par l'état Brûlure subissent des dégâts de feu sur la durée équivalents à {2} de l'ATQ de Hook au début de chaque tour.",
       "values": [
         [
           100
@@ -3173,7 +3173,7 @@
   },
   "lynx": {
     "attack": {
-      "name": "Assaut du pic à glace",
+      "name": "Attaque au pic à glace",
       "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> des PV max de Lynx à un ennemi unique.",
       "values": [
         [
@@ -3329,8 +3329,8 @@
       ]
     },
     "talent": {
-      "name": "Expérience de survie en plein air",
-      "desc": "Chaque fois que Lynx utilise sa compétence ou son ultime, elle applique un effet de soins continus sur l'allié ciblé pendant {1} tours, ce qui restaure un montant de PV équivalent à <span style=\"color: #f29e38ff\">{2}</span> des PV max de Lynx + <span style=\"color: #f29e38ff\">{3}</span> au début de chaque tour. Si la cible bénéficie d'Instinct de survie, l'effet de soins continus restaure en plus un montant de PV équivalent à <span style=\"color: #f29e38ff\">{4}</span> des PV max de Lynx + <span style=\"color: #f29e38ff\">{5}</span>.",
+      "name": "Expérience de survie en pleine nature",
+      "desc": "Chaque fois que Lynx utilise sa compétence ou son ultime, elle applique des soins continus pour {1} tours sur les alliés affectés. Ils restaurent donc un montant de PV équivalent à <span style=\"color: #f29e38ff\">{2}</span> des PV max de Lynx + <span style=\"color: #f29e38ff\">{3}</span> au début de chaque tour. L'effet des soins continus restaure en plus un montant de PV équivalent à <span style=\"color: #f29e38ff\">{4}</span> des PV max de Lynx + <span style=\"color: #f29e38ff\">{5}</span> aux cibles qui bénéficient d'Instinct de survie.",
       "values": [
         [
           2
@@ -3414,7 +3414,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -3596,13 +3596,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Anticipation",
-      "desc": "Attaque immédiatement les ennemis. Luka inflige des DGT physiques équivalents à {1} de son ATQ à un ennemi aléatoire en entrant en combat, avec {2} de <u>chances de base</u> de lui infliger l'effet Saignement de sa compétence, à la suite de quoi Luka obtient un cumul supplémentaire de Soif de combat.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Luka inflige des DGT physiques équivalents à {1} de son ATQ à un ennemi aléatoire en entrant en combat, avec {2} de <u>chances de base</u> de lui infliger l'effet Saignement de sa compétence, à la suite de quoi Luka obtient un cumul supplémentaire de Soif de combat.",
       "values": [
         [
           50
@@ -3758,7 +3758,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -3956,7 +3956,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -4130,7 +4130,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -4270,7 +4270,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -4520,13 +4520,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Vent de karma",
-      "desc": "Attaque immédiatement les ennemis. Consomme {2} des PV max de Blade après être entré en combat pour infliger des DGT de vent équivalents à {1} de ses PV max à tous les ennemis.\\nSi les PV de Blade sont insuffisants, ils tombent à 1 après utilisation de cette technique.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Consomme {2} des PV max de Blade après être entré en combat pour infliger des DGT de vent équivalents à {1} de ses PV max à tous les ennemis.\\nSi les PV de Blade sont insuffisants, ils tombent à 1 après utilisation de cette technique.",
       "values": [
         [
           40
@@ -4754,13 +4754,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Escrime perce-nuages : Cri de guerre",
-      "desc": "Attaque immédiatement les ennemis. Sushang inflige des DGT physiques équivalents à {1} de son ATQ à tous les ennemis en entrant en combat.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Sushang inflige des DGT physiques équivalents à {1} de son ATQ à tous les ennemis en entrant en combat.",
       "values": [
         [
           80
@@ -4824,7 +4824,7 @@
     },
     "ultimate": {
       "name": "Crécerelle en piqué",
-      "desc": "Si Yukong bénéficie de « Rugissement des cordes » lorsqu'elle utilise son ultime, les chances de coup critique de tous les alliés augmentent de <span style=\"color: #f29e38ff\">{2}</span> et leurs DGT critiques de <span style=\"color: #f29e38ff\">{3}</span>. D'autre part, inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yukong à un ennemi unique.",
+      "desc": "Si Yukong bénéficie de Rugissement des cordes lorsqu'elle utilise son ultime, les chances de coup critique de tous les alliés augmentent de <span style=\"color: #f29e38ff\">{2}</span> et leurs DGT critiques de <span style=\"color: #f29e38ff\">{3}</span>. D'autre part, inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Yukong à un ennemi unique.",
       "values": [
         [
           228,
@@ -4920,7 +4920,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -5050,7 +5050,7 @@
     },
     "talent": {
       "name": "Coup du sort",
-      "desc": "Tant que Fu Xuan n'a pas été mise à terre, Évitement d'infortune s'applique à toute l'équipe. Lorsqu'ils sont affectés par Évitement d'infortune, les alliés subissent <span style=\"color: #f29e38ff\">{1}</span> moins de DGT.\\nLa restauration de PV de Fu Xuan se déclenche lorsque ses PV tombent à {2} de ses PV max ou moins. Cela lui permet de récupérer <span style=\"color: #f29e38ff\">{3}</span> du montant de PV qu'il lui manque actuellement. Cet effet ne peut pas être déclenché en cas de coup fatal. Il est disponible 1 fois par défaut, et peut passer à 2 fois au maximum.",
+      "desc": "Tant que Fu Xuan n'a pas été mise à terre, Évitement d'infortune s'applique à toute l'équipe. Lorsqu'ils bénéficient d'Évitement d'infortune, les alliés subissent <span style=\"color: #f29e38ff\">{1}</span> de DGT en moins.\\nLa restauration de PV de Fu Xuan se déclenche lorsque ses PV tombent à {2} de ses PV max ou moins. Cela lui permet de récupérer <span style=\"color: #f29e38ff\">{3}</span> de ses PV manquants. Cet effet ne peut pas être déclenché en cas de coup fatal. Il est disponible 1 fois par défaut, et peut passer à 2 fois au maximum.",
       "values": [
         [
           10,
@@ -5098,7 +5098,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque l'ennemi. Réduit la robustesse des cibles ennemies au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -5318,7 +5318,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -5550,7 +5550,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
@@ -5564,6 +5564,260 @@
       ],
       "format": [
         "[i]"
+      ]
+    }
+  },
+  "jingliu": {
+    "attack": {
+      "name": "Lueur sélénite",
+      "desc": "Inflige des DGT de glace équivalent à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Jingliu à un ennemi unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Éclair transcendant",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Jingliu à un ennemi unique et obtient {2} cumul de Syzygie.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Rêves floréphémères",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Jingliu à un ennemi unique et des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{3}</span> de l'ATQ de Jingliu aux ennemis adjacents. Obtient {2} cumul de Syzygie à la fin de l'attaque.",
+      "values": [
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ],
+        [
+          1
+        ],
+        [
+          90,
+          96,
+          102,
+          108,
+          114,
+          120,
+          127,
+          135,
+          143,
+          150,
+          156,
+          162,
+          168,
+          174,
+          180
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        ""
+      ]
+    },
+    "talent": {
+      "name": "Migration du croissant",
+      "desc": "Lorsque Jingliu possède {5} cumuls de Syzygie, elle entre en état de Migration spectrale, ce qui avance son action de {6} et augmente ses chances de coup critique de <span style=\"color: #f29e38ff\">{7}</span>. La compétence de Jingliu Éclair transcendant devient alors renforcée pour se transformer en Reflet de lune sur rivière glacée, et devient la seule capacité qu'elle peut utiliser en combat. Lorsque Jingliu utilise une attaque dans l'état Migration spectrale, elle consomme {2} des PV max respectifs des alliés (les PV des alliés ne peuvent pas être réduits en dessous de 1). L'ATQ de Jingliu augmente à hauteur de {3} du total de PV consommés chez tous les alliés lors de cette attaque, sans excéder <span style=\"color: #f29e38ff\">{4}</span> de son ATQ de base, jusqu'à la fin de l'attaque en cours. Jingliu ne peut pas entrer à nouveau dans l'état Migration spectrale jusqu'à ce que l'état Migration spectrale actuel se termine. Syzygie peut se cumuler jusqu'à 3 fois. Jingliu sort de l'état Migration spectrale lorsque les cumuls de Syzygie tombent à 0.",
+      "values": [
+        [
+          0.3000000002793968
+        ],
+        [
+          4
+        ],
+        [
+          540
+        ],
+        [
+          90,
+          99,
+          108,
+          117,
+          126,
+          135,
+          146,
+          158,
+          169,
+          180,
+          189,
+          198,
+          207,
+          216,
+          225
+        ],
+        [
+          2
+        ],
+        [
+          100
+        ],
+        [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      ],
+      "format": [
+        "",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Éclat de la vérité",
+      "desc": "Crée une dimension autour de Jingliu qui dure {3} secondes. Tous les ennemis dans cette dimension sont gelés. Jingliu génère immédiatement {6} points d'énergie et obtient {1} cumul de Syzygie, avec {2} de <u>chances de base</u> de geler les cibles ennemies pendant {4} tours lorsque le combat est engagé avec des ennemis de la dimension. Les cibles ennemies gelées ne peuvent pas agir et subissent des <u>DGT de glace additionnels</u> équivalents à {5} de l'ATQ de Jingliu au début de chaque tour. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ],
+        [
+          1
+        ],
+        [
+          80
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Reflet de lune sur rivière glacée",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Jingliu à un ennemi unique et des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{3}</span> de l'ATQ de Jingliu aux ennemis adjacents. Consomme {2} cumul de Syzygie. L'utilisation de cette capacité ne consomme pas de point de compétence.",
+      "values": [
+        [
+          125,
+          138,
+          150,
+          163,
+          175,
+          188,
+          203,
+          219,
+          234,
+          250,
+          263,
+          275,
+          288,
+          300,
+          312
+        ],
+        [
+          1
+        ],
+        [
+          63,
+          69,
+          75,
+          81,
+          88,
+          94,
+          102,
+          109,
+          117,
+          125,
+          131,
+          138,
+          144,
+          150,
+          156
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
       ]
     }
   },
@@ -5620,7 +5874,7 @@
     },
     "ultimate": {
       "name": "Absolution des eaux azur",
-      "desc": "Utilise une attaque qui frappe 3 fois et inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dan Heng • Imbibitor Lunae à une cible ennemie unique. D'autre part, inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Dan Heng • Imbibitor Lunae aux cibles adjacentes. Puis, obtient {3} Écailles sacrées.\\nDan Heng • Imbibitor Lunae peut posséder jusqu'à {4} Écailles sacrées à la fois. Elles peuvent être utilisées pour compenser la consommation de points de compétence. L'utilisation d'Écailles sacrées est considérée comme équivalente à la consommation de points de compétence.",
+      "desc": "Utilise une attaque qui frappe 3 fois et inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dan Heng • Imbibitor Lunae à une cible ennemie unique. D'autre part, inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Dan Heng • Imbibitor Lunae aux cibles adjacentes. Puis, obtient {3} Écailles sacrées.\\nDan Heng • Imbibitor Lunae peut posséder jusqu'à {4} Écailles sacrées à la fois. Les Écailles sacrées remplacent les points de compétence. L'utilisation d'Écailles sacrées est considérée comme équivalente à la consommation de points de compétence.",
       "values": [
         [
           180,
@@ -5702,13 +5956,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Prismadragon de fulguration",
-      "desc": "Après utilisation de sa technique, Dan Heng • Imbibitor Lunae entre dans l'état du Dragon bondissant pendant {2} secondes. Lorsqu'il est dans cet état, il fonce en avant sur une courte distance lorsqu'il utilise son attaque, attaquant tous les ennemis sur sa route et bloquant toutes les attaques qui le touchent. S'il entre en combat en ayant attaqué des ennemis dans l'état du Dragon bondissant, Dan Heng • Imbibitor Lunae inflige des DGT imaginaires équivalents à {3} de son ATQ à tous les ennemis et obtient {1} Écaille sacrée.",
+      "desc": "Après utilisation de sa technique, Dan Heng • Imbibitor Lunae entre dans l'état Dragon bondissant pendant {2} secondes. Lorsqu'il est dans cet état, il fonce en avant sur une courte distance lorsqu'il utilise son attaque, attaquant tous les ennemis sur sa route et bloquant toutes les attaques qui le touchent. S'il entre en combat en ayant attaqué des ennemis dans l'état Dragon bondissant, Dan Heng • Imbibitor Lunae inflige des DGT imaginaires équivalents à {3} de son ATQ à tous les ennemis et obtient {1} Écaille sacrée.",
       "values": [
         [
           1
@@ -5739,13 +5993,7 @@
           500,
           550,
           600,
-          650,
-          250,
-          250,
-          250,
-          250,
-          250,
-          250
+          650
         ],
         [
           90,
@@ -5756,13 +6004,7 @@
           180,
           198,
           216,
-          234,
-          90,
-          90,
-          90,
-          90,
-          90,
-          90
+          234
         ]
       ],
       "format": [
@@ -5924,7 +6166,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
       "values": [],
       "format": []
     },
