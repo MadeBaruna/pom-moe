@@ -354,6 +354,13 @@
         "desc": "Até Logo, Luofu do Xianzhou\\n<color=#8790abff>※ Participe da cerimônia de apaziguamento de espírito e forme uma aliança com o Xianzhou</color>",
         "rarity": 2,
         "version": "1.3"
+      },
+      {
+        "id": 4032701,
+        "name": "Tarefas Solares Pedem Chuvas Exemplares",
+        "desc": "Ajude Jarilo-VI e Belobog a solucionar sua grande crise (novamente)\\n<color=#8790abff>※ Conclua a Continuidade de Desbravamento \"Mercado Futuro\"</color>",
+        "rarity": 2,
+        "version": "1.4"
       }
     ]
   },
@@ -676,7 +683,7 @@
       {
         "id": 4052615,
         "name": "O Sabor do Rio dos Mortos é Amargo",
-        "desc": "Conclua a Missão de Companheiro \"O Vingador do Futuro\"",
+        "desc": "Conclua a Missão de Companheiro \"A Vingadora do Futuro\"",
         "rarity": 1,
         "version": "1.3"
       },
@@ -696,7 +703,7 @@
       },
       {
         "id": 4052618,
-        "name": "Restam Apenas Cinzas",
+        "name": "Tudo o Que Resta São Cinzas Completamente Brancas",
         "desc": "Conclua a Missão de Companheiro \"Mo Cuishle\"",
         "rarity": 1,
         "version": "1.3"
@@ -1053,7 +1060,7 @@
       },
       {
         "id": 4052604,
-        "name": "Esquife Estelar de Tróia",
+        "name": "Esquife Estelar de Troia",
         "desc": "Amontoe 6 Guarda(s) Aurumaton no esquife estelar de carga em \"Agitação do Beco Aurum\"",
         "rarity": 1,
         "version": "1.3"
@@ -1088,7 +1095,7 @@
       },
       {
         "id": 4052607,
-        "name": "Loja de Penhores Nº8",
+        "name": "Loja de Penhores N.º8",
         "desc": "Estabeleça uma colaboração com o Sr. Huo em \"Agitação do Beco Aurum\"",
         "rarity": 1,
         "version": "1.3"
@@ -1110,7 +1117,7 @@
       {
         "id": 4052608,
         "name": "Dínamo de Entrega",
-        "desc": "Conclua um pedido de entrega personalizado da Garça Expressa em Agitação do Beco Aurum",
+        "desc": "Conclua um pedido personalizado da Garça Expressa em Agitação do Beco Aurum",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1138,7 +1145,7 @@
       {
         "id": 4052610,
         "name": "Fundos Gastos, Fortunas Expandidas",
-        "desc": "Gaste 1280000 dos fundos da Guilda dos Comerciantes em \"Agitação do Beco Aurum\"",
+        "desc": "Gaste 1280000 dos fundos da Guilda de Comerciantes em \"Agitação do Beco Aurum\"",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1199,11 +1206,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052701,
+        "name": "Entrada no Hall da Fama",
+        "desc": "Ganhe o título de Campeão nas Guerras de Aetherium: Festival do Torneio Interastral",
+        "rarity": 2,
+        "version": "1.4"
+      },
+      {
         "id": 4052327,
         "name": "Um Segredo Torna a Mulher Uma Mulher",
         "desc": "Deixe que a Beldade Vulpe continue a farsa durante a missão \"Do Xianzhou com Amor\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052702,
+        "name": "Rainho Elso",
+        "desc": "Encerre a fatídica batalha na Colina do Inverno Eterno nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052328,
@@ -1213,11 +1234,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052703,
+        "name": "Ferido, mas Não Partido",
+        "desc": "Conclua a Missão de Companheiro \"Nuvens Não Deixam Rastros\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052329,
         "name": "Melhor Sete Pássaros na Mão do que Mil Voando",
         "desc": "Ajude a Garça Expressa a recuperar todas as MechAves",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052704,
+        "name": "Temos Que Pegar",
+        "desc": "Obtenha todos os Espíritos Etéreos nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052330,
@@ -1227,11 +1262,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052705,
+        "name": "Mestre das Guerras de Aetherium",
+        "desc": "Alcance o nível mais alto do Índice de Vitória nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052331,
         "name": "Vale Tudo no Amor e na Guerra",
         "desc": "Vença a Competição de Comilança do Luofu do Xianzhou trapaceando",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052706,
+        "name": "Campeão Casual de Hyperlink",
+        "desc": "Derrote todos os rivais nas Guerras de Aetherium: Partida de Hyperlink",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052332,
@@ -1241,11 +1290,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052707,
+        "name": "Marca do Vento Congelante",
+        "desc": "Supere todos os desafios na Zona da Vitória do Corredor de Ecos Atenuados nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052333,
         "name": "Longe Deste Insensato Mundo",
         "desc": "Fale com o Imortal no Vaso e obtenha o presente que está no vaso",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052708,
+        "name": "Marca da Liga",
+        "desc": "Supere todos os desafios na Zona da Vitória de Vau-Nuvem nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052334,
@@ -1255,11 +1318,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052709,
+        "name": "Marca do Intelecto",
+        "desc": "Supere todos os desafios na Zona da Vitória da Estação Espacial Herta nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052335,
         "name": "Hasta La Vista, Hexanexus!",
         "desc": "Conclua 15 desafio(s) de Hexanexus no Clube Hex",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052710,
+        "name": "Marca da Farsa",
+        "desc": "Supere todos os desafios na Zona da Vitória da Grande Mina nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052336,
@@ -1269,11 +1346,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052711,
+        "name": "A Taça do Mundo é Nossa?",
+        "desc": "Vença uma Partida de Exibição nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052337,
         "name": "Labor Omnia Vincit",
         "desc": "Examine 7 armários de arquivos diferentes na Sede da Presciência Divina",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052712,
+        "name": "Língua da Loquacidade",
+        "desc": "Ouça o show do Mini Xiyan",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052338,
@@ -1283,11 +1374,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052713,
+        "name": "Punchline Um-Dois",
+        "desc": "Ouça o show dos Mini Vai e Volta",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052339,
         "name": "Voo Cancelado",
         "desc": "Ajude o turista estranho a jogar uma moeda no motor do esquife estelar",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052714,
+        "name": "Pernas Só Servem Para Mostrar Mesmo",
+        "desc": "Desenvolva um plano ultrajante para o Motor da Criação",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052340,
@@ -1297,11 +1402,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052715,
+        "name": "Ascenda, Motor da Criação!",
+        "desc": "Desenvolva um plano confiável para o Motor da Criação",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052341,
         "name": "Deixa Quieto",
         "desc": "Não recuperou os créditos roubados pelo fraudador",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052716,
+        "name": "Esse Jogo Não Tem Atualizações?",
+        "desc": "Obtenha todos os Chips de Expansão",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052342,
@@ -1311,11 +1430,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052717,
+        "name": "O Vento do Norte Cria Heróis",
+        "desc": "Derrote Gepard atrás do portão na Marcha dos Soldados Invernais (Dificuldade III)",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052343,
         "name": "Os Sete Erros das MechAves: Luxúria",
         "desc": "Siga a MechAve cavalheiresca para encontrar o livro ilustrado retido pela alfândega",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052718,
+        "name": "Vitória, e Então Vem o Adeus",
+        "desc": "Devolva \"{TEXTJOIN#54}\" quando a poeira baixar",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052344,
@@ -1325,11 +1458,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052719,
+        "name": "O Fim, e Então Vem o Início",
+        "desc": "Mantenha {TEXTJOIN#54} quando a poeira baixar",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052345,
         "name": "Os Sete Erros das MechAves: Avareza",
         "desc": "Explore a \"montanha de entregas\" protegida pelo \"dragão do mal\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052720,
+        "name": "O Primeiro Passo para o Futuro",
+        "desc": "Se mantenha atualizado sobre o progresso do desenvolvimento de Belobog.\\n<color=#8790abff>※ Compre a Edição 226 do \"Minerador Semanal\"</color>",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052346,
@@ -1339,11 +1486,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052721,
+        "name": "Fruta da Sabedoria Inorgânica",
+        "desc": "Obtenha o item de leitura \"Mensagem de Screwllum\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052347,
         "name": "Os Sete Erros das MechAves: Ira",
         "desc": "Derrote os assaltantes com a MechAve corajosa",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052722,
+        "name": "Jornada até o Filhote de Urso Ártico",
+        "desc": "Interaja com o filhote de urso ártico",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052348,
@@ -1353,11 +1514,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052723,
+        "name": "Obrigado, Pela",
+        "desc": "Ajude Fedora a concluir a aposta dela",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052501,
         "name": "O Desejo Não Morde",
         "desc": "Descubra a conexão entre os dois pescadores da Comissão de Artesanato",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052724,
+        "name": "Aço e Brinquedos",
+        "desc": "Entregue as sobras do projeto de criação para Benjamin",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052502,
@@ -1367,11 +1542,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052725,
+        "name": "Aço e Lâmpadas de Rua",
+        "desc": "Entregue as sobras do projeto de criação para Pela",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052503,
         "name": "Borda Lunarescente",
         "desc": "Participe 1 vez do Exame de Direção de Aurumatons",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052726,
+        "name": "Com o Colosso como Testemunha",
+        "desc": "Recupere sua língua presa no trilho congelado",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052504,
@@ -1381,11 +1570,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052727,
+        "name": "Não Tente Isso em Casa",
+        "desc": "Receba uma lição (de novo) por ter quebrado o recipiente",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052505,
         "name": "Iniciante Literário",
         "desc": "Falhe em ter seu talento literário reconhecido pelo Poeta da Métrica",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052728,
+        "name": "Antes de Mais Nada",
+        "desc": "Ganhe um fã fanático",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052508,
@@ -1395,11 +1598,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052729,
+        "name": "Confissão da Máscara",
+        "desc": "Investigue a Bolha da Memória de origem desconhecida",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052509,
         "name": "Os Meios Justificam os Fins",
         "desc": "Testemunhe o fim dos Livres",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052730,
+        "name": "Gelo Sombrio",
+        "desc": "Obtenha Lixo de uma lata de lixo congelada",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052510,
@@ -1945,7 +2162,7 @@
       },
       {
         "id": 4071504,
-        "name": "Os Treze Trabalhos",
+        "name": "Prova dos Treze",
         "desc": "Em uma única batalha, faça com que Svarog bloqueie 13 ataques contra Clara",
         "rarity": 2,
         "version": "1.0"
@@ -2285,6 +2502,34 @@
         "desc": "Em uma única batalha, acione o efeito de restauração de PV do Talento \"Das Sombras à Alegria\" de Fu Xuan um total de 4 vezes",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4072701,
+        "name": "Dança da Guerra: Provação da Lança",
+        "desc": "Use um Dan Heng aliado para realizar o último golpe em uma vitória contra Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072702,
+        "name": "Dança da Guerra...?",
+        "desc": "Use um Yanqing aliado para realizar o último golpe em uma vitória contra Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072703,
+        "name": "Dança da Guerra: Provação d'Alma de Ferro",
+        "desc": "Use uma Jingliu aliada para realizar o último golpe em uma vitória contra Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072704,
+        "name": "De Quatro Pessoas, o Preço...",
+        "desc": "Use Jingliu para reduzir os PV de um aliado a 1 em uma única batalha",
+        "rarity": 1,
+        "version": "1.4"
       }
     ]
   },
@@ -2619,6 +2864,69 @@
         "desc": "Entre em uma batalha atacando um inimigo distante com Natasha durante a exploração",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4082701,
+        "name": "Spam de SPAM",
+        "desc": "Alimente bastante um Cofrinho\\n<color=#8790abff>※ Use a Caixa de Bate-Papo \"{TEXTJOIN#54}\" para enviar um grande volume de texto</color>",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082702,
+        "name": "Guerra Familiar",
+        "desc": "Use um Dinheirinho aliado para derrotar um Cofrinho",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082703,
+        "name": "Zero Absoluto",
+        "desc": "Use Jingliu e interaja com a Pistola de Avaliação",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082704,
+        "name": "Confie no Processo",
+        "desc": "Compre 1 Encomenda(s) Não Resgatada(s) de Maozhen em Vau-Nuvem",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082705,
+        "name": "Está Tudo Bem",
+        "desc": "Obtenha um resultado de \"Felicidade\" pela primeira vez na loja de divinação",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082706,
+        "name": "É Sempre Mais Escuro Antes do Alvorecer",
+        "desc": "Obtenha um resultado de \"Infortúnio\" pela primeira vez na loja de divinação",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082707,
+        "name": "O Pássaro Cinabre Traz uma Sorte Rápida",
+        "desc": "Obtenha um resultado de \"Folga\" pela primeira vez na loja de divinação",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082708,
+        "name": "Navegando em Águas Calmas com Sábios Conselhos",
+        "desc": "Obtenha um resultado de \"Soneca\" pela primeira vez na loja de divinação",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082709,
+        "name": "Boneco de Madeira: Star Rail",
+        "desc": "Conclua 3 batalhas usando o Boneco de Madeira Automático",
+        "rarity": 1,
+        "version": "1.4"
       }
     ]
   },
@@ -2628,14 +2936,14 @@
       {
         "id": 4092635,
         "name": "Os 400 Golpes",
-        "desc": "Use o ATQ Básico pelo menos 40 vezes e ganhe em uma única batalha no Universo Simulado: O Desastre do Enxame",
+        "desc": "Use o ATQ Básico pelo menos 40 vezes e ganhe em uma única batalha no Universo Simulado",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092633,
         "name": "Desejo da Colmeia",
-        "desc": "Desbloqueie 12 Bênção(s) da Propagação no Universo Simulado",
+        "desc": "Desbloqueie 1 Bênção da Propagação no Universo Simulado",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2859,14 +3167,14 @@
       {
         "id": 4092631,
         "name": "Investigador Weyland-Yutani",
-        "desc": "No Universo Simulado: O Desastre do Enxame, entre no domínio Combate: O Enxame, Ocorrência: O Enxame ou Chefe: O Enxame com um Caminho que não seja o da Propagação por um total de 20 vezes",
+        "desc": "No Universo Simulado: O Desastre do Enxame, entre no domínio Combate: O Enxame, Ocorrência: O Enxame ou Chefe: O Enxame com um Caminho que não seja o da Propagação por um total de 15 vezes",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092632,
         "name": "Retransmissão de Massa",
-        "desc": "Tenha o Nível da Perturbação da Desordem Plana no nível 20 ou superior ao concluir o Universo Simulado: O Desastre do Enxame",
+        "desc": "Tenha o Nível de Perturbação do Desarranjo Plano no nível 20 ou superior ao concluir o Universo Simulado: O Desastre do Enxame",
         "rarity": 1,
         "version": "1.3"
       },
@@ -3104,49 +3412,49 @@
       {
         "id": 4092323,
         "name": "A Essência Precede a Existência",
-        "desc": "Desbloqueie 12 Bênção(s) da Preservação no Universo Simulado",
+        "desc": "Desbloqueie 12 Bênçãos da Preservação no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092324,
         "name": "As Lembranças me Observam",
-        "desc": "Desbloqueie 12 Bênção(s) da Recordação no Universo Simulado",
+        "desc": "Desbloqueie 12 Bênçãos da Recordação no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092325,
         "name": "Cause Um Belo Caos",
-        "desc": "Desbloqueie 12 Bênção(s) da Euforia no Universo Simulado",
+        "desc": "Desbloqueie 12 Bênçãos da Euforia no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092326,
         "name": "Velocidade da Expansão do Universo",
-        "desc": "Desbloqueie 12 Bênção(s) da Caça no Universo Simulado",
+        "desc": "Desbloqueie 12 Bênçãos da Caça no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092327,
         "name": "Detona Você",
-        "desc": "Desbloqueie 12 Bênção(s) da Destruição no Universo Simulado",
+        "desc": "Desbloqueie 12 Bênçãos da Destruição no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092328,
         "name": "Gnosticismo",
-        "desc": "Desbloqueie 12 Bênção(s) da Inexistência no Universo Simulado",
+        "desc": "Desbloqueie 12 Bênçãos da Inexistência no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092329,
         "name": "Expirar",
-        "desc": "Desbloqueie 12 Bênção(s) da Abundância no Universo Simulado",
+        "desc": "Desbloqueie 12 Bênçãos da Abundância no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
       },

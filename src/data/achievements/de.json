@@ -351,9 +351,16 @@
       {
         "id": 4032601,
         "name": "Auf der Durchreise",
-        "desc": "Lebe wohl, Xianzhou Luofu\\n<color=#8790abff>※ Nimm an der Zeremonie zur Seelenberuhigung teil und schließe ein Bündnis mit den Xianzhou.</color>",
+        "desc": "Lebe wohl, Xianzhou Luofu\\n<color=#8790abff>※ Nimm an der Zeremonie zur Seelenberuhigung teil und schließe ein Bündnis mit Xianzhou.</color>",
         "rarity": 2,
         "version": "1.3"
+      },
+      {
+        "id": 4032701,
+        "name": "Immer hilfsbereit",
+        "desc": "Hilf Jarilo-VI und Belobog (erneut), ihre enorme Krise zu lösen. ※ <color=#8790abff>Schließe die Trailblaze-Fortsetzung „Markt der Zukunft“ ab.</color>",
+        "rarity": 2,
+        "version": "1.4"
       }
     ]
   },
@@ -661,7 +668,7 @@
     "achievements": [
       {
         "id": 4052613,
-        "name": "Wahrer Trailblazer",
+        "name": "Aufrichtiger Trailblazer",
         "desc": "Sage Cleo die Wahrheit über Todd.",
         "rarity": 1,
         "version": "1.3"
@@ -675,7 +682,7 @@
       },
       {
         "id": 4052615,
-        "name": "Gezeiten der Qualen",
+        "name": "Das Wasser von Lethe schmeckt bitter",
         "desc": "Schließe die Begleitermission „Lückenlose Erinnerung“ ab.",
         "rarity": 1,
         "version": "1.3"
@@ -711,7 +718,7 @@
       {
         "id": 4052603,
         "name": "Friedlicher Abend",
-        "desc": "Hör dir die gesamte Folge der „Interastralen Friedensübertragung“ 1 an.",
+        "desc": "Hör dir 1 gesamte Folge der „Interastralen Friedensübertragung“ an.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1032,7 +1039,7 @@
       },
       {
         "id": 4052601,
-        "name": "Mach die Aurum-Allee wieder wohlhabend!",
+        "name": "Bringe die Aurum-Allee wieder zum Wohlstand!",
         "desc": "Schließe die Mission „Wieder im Geschäft 4“ ab und gewinne die Ausschreibung für das Gewerbegebiet der Aurum-Allee.",
         "rarity": 2,
         "version": "1.3"
@@ -1053,15 +1060,15 @@
       },
       {
         "id": 4052604,
-        "name": "Robotischer Ausleger",
-        "desc": "Staple in „Hektik und Trubel in der Aurum-Allee“ 6 Aurumaton-Torwächter auf dem Fracht-Sternskiff.",
+        "name": "Skiffe voller Roboter",
+        "desc": "Platziere in „Hektik und Trubel in der Aurum-Allee“ 6 Aurumaton-Torwächter auf dem Frachtskiff.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4052605,
-        "name": "Raumschiffjäger",
-        "desc": "{LAYOUT_MOBILE#Tippe}{LAYOUT_CONTROLLER#Drücke}{LAYOUT_KEYBOARD#Klicke} während „Hektik und Trubel in der Aurum-Allee“ auf 24 auf Fracht-Sternskiff(e).",
+        "name": "Frachtskiffjäger",
+        "desc": "{LAYOUT_MOBILE#Tippe}{LAYOUT_CONTROLLER#Drücke}{LAYOUT_KEYBOARD#Klicke} während „Hektik und Trubel in der Aurum-Allee“ auf 24 Frachtskiffe.",
         "rarity": 2,
         "version": "1.3"
       },
@@ -1075,7 +1082,7 @@
       {
         "id": 4052606,
         "name": "Geldtopf",
-        "desc": "Verdiene in „Hektik und Trubel in der Aurum-Allee“ 1000000 des Geldes der Handelsgilde für die Handelsgilde der Aurum-Allee.",
+        "desc": "Verdiene in „Hektik und Trubel in der Aurum-Allee“ 1000000 an Geldern für die Handelsgilde der Aurum-Allee.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1089,7 +1096,7 @@
       {
         "id": 4052607,
         "name": "Das Pfandhaus Nr. 8",
-        "desc": "Knüpfe in „Hektik und Trubel in der Aurum-Allee“ eine Geschäftsbeziehung mit Herrn Huo.",
+        "desc": "Baue in „Hektik und Trubel in der Aurum-Allee“ Partnerschaft mit Herrn Huo auf.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1109,8 +1116,8 @@
       },
       {
         "id": 4052608,
-        "name": "Lieferungs-Dynamo",
-        "desc": "Erledige in „Hektik und Trubel in der Aurum-Allee“ einen individuellen Lieferauftrag von Kranich Express.",
+        "name": "(Automatisches Senden)",
+        "desc": "Erledige in „Hektik und Trubel in der Aurum-Allee“ eine individuelle Bestellung von Kranich Express.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1123,7 +1130,7 @@
       },
       {
         "id": 4052609,
-        "name": "Perfekt erprobt",
+        "name": "Delikatessen aus der Ferne",
         "desc": "Schließe in „Hektik und Trubel in der Aurum-Allee“ das Straßenereignis „Ditings Suche“ ab.",
         "rarity": 1,
         "version": "1.3"
@@ -1137,15 +1144,15 @@
       },
       {
         "id": 4052610,
-        "name": "Finanzierung der Zukunft",
-        "desc": "Gib in „Hektik und Trubel in der Aurum-Allee“ 1280000 der Gelder der Handelsgilde aus.",
+        "name": "Investition in die Zukunft",
+        "desc": "Gib in „Hektik und Trubel in der Aurum-Allee“ 1280000 der Gelder für die Handelsgilde aus.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4052611,
-        "name": "Stellar gestapelt",
-        "desc": "Ordne in „Hektik und Trubel in der Aurum-Allee“ 81 Einheiten von Inventargütern auf einem einzigen Fracht-Sternskiff an.",
+        "name": "Maximalgewicht erreicht",
+        "desc": "Ordne in „Hektik und Trubel in der Aurum-Allee“ 81 Einheiten von Inventargütern auf einem einzigen Frachtskiff an.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1158,8 +1165,8 @@
       },
       {
         "id": 4052612,
-        "name": "Märkte: Skyline",
-        "desc": "Erreiche in „Hektik und Trubel in der Aurum-Allee“ für einen beliebigen Schifffahrtsweg eine Planpunktzahl von 81.",
+        "name": "Nachtmarkt: Skyline",
+        "desc": "Erreiche in „Hektik und Trubel in der Aurum-Allee“ für eine beliebige Route eine Punktzahl von 81.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1173,7 +1180,7 @@
       {
         "id": 4052619,
         "name": "Kranich Express: Wir haben es versucht, wirklich",
-        "desc": "Untersuche alle Spezial-Kurierpakete in der Aurum-Allee.",
+        "desc": "Untersuche alle spezialle Kurierpakete in der Aurum-Allee.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1186,7 +1193,7 @@
       },
       {
         "id": 4052620,
-        "name": "Aufbruchstimmung",
+        "name": "Haupt- und Nebenweg",
         "desc": "Werde Zeuge der Geschichte von Yongrens verborgener Identität.",
         "rarity": 1,
         "version": "1.3"
@@ -1199,11 +1206,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052701,
+        "name": "In die Ruhmeshalle",
+        "desc": "Erhalte den Championtitel in Ätheriumkrieg: Interastrales Turnierfestival.",
+        "rarity": 2,
+        "version": "1.4"
+      },
+      {
         "id": 4052327,
         "name": "Ein Geheimnis macht die Frau zur Frau",
         "desc": "Entscheide bei der Mission „Verlockung der Liebe in Xianzhou“, dass die foxianische Schönheit ihre Tarnung aufrecht erhält.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052702,
+        "name": "König der verschneiten Hügel",
+        "desc": "Beende die schicksalhafte Schlacht am Immerwinterhügel in Ätheriumkrieg.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052328,
@@ -1213,11 +1234,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052703,
+        "name": "Gebogen, aber ungebrochen",
+        "desc": "Schließe die Begleitermission „Die vorbeiziehende Wolke“ ab.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052329,
         "name": "Besser sieben Spatzen in der Hand als tausend Tauben auf dem Dach",
         "desc": "Hilf Kranich Express, alle verlorenen Mechakraniche wiederzufinden.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052704,
+        "name": "Wir müssen sie alle fangen!",
+        "desc": "Erhalte alle Äthergeister in Ätheriumkrieg.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052330,
@@ -1227,11 +1262,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052705,
+        "name": "Ätheriumkrieg-Meister",
+        "desc": "Erreiche die höchste Siegeswertung in Ätheriumkrieg.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052331,
         "name": "Schummeln ist der Schlüssel",
         "desc": "Gewinne den Fressmeister-Wettbewerb der Xianzhou Luofu auf hinterhältige Weise.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052706,
+        "name": "Hyperlink-Gelegenheitsmeister",
+        "desc": "Besiege alle Rivalen in Ätheriumkrieg: Hyperlinkmatch",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052332,
@@ -1241,11 +1290,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052707,
+        "name": "Abzeichen des eisigen Windes",
+        "desc": "Überwinde alle Hindernisse in der Siegerzone vom Korridor der verhallenden Echos in Ätheriumkrieg.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052333,
         "name": "Weltabgewandt",
         "desc": "Sprich mit dem Unsterblichen in der Vase und erhalte sein Geschenk aus der Vase.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052708,
+        "name": "Abzeichen der Legierung",
+        "desc": "Überwinde alle Hindernisse in der Siegerzone von Wolkenfurt in Ätheriumkrieg.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052334,
@@ -1255,11 +1318,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052709,
+        "name": "Abzeichen der Intelligenz",
+        "desc": "Überwinde alle Hindernisse in der Siegerzone der Raumstation Herta in Ätheriumkrieg.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052335,
         "name": "Hexer, verschwinde aus Xianzhou",
         "desc": "Schließe 15 Hexanexus-Herausforderung(en) des Hex-Clubs ab.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052710,
+        "name": "Abzeichen der Fassade",
+        "desc": "Überwinde alle Hindernisse in der Siegerzone der Großen Mine in Ätheriumkrieg.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052336,
@@ -1269,11 +1346,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052711,
+        "name": "Wir sind der Champion?",
+        "desc": "Gewinne einen Schaukampf in Ätheriumkrieg.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052337,
         "name": "Arbeit ohne Ende",
         "desc": "Untersuche 7 verschiedene Aktenschränke beim Thron der göttlichen Vorsehung.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052712,
+        "name": "Mundwerk der Geschwätzigkeit",
+        "desc": "Höre dir Mini-Xiyans Show an.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052338,
@@ -1283,11 +1374,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052713,
+        "name": "Von einem Witz zum anderen",
+        "desc": "Höre dir Mini-Hin-und-Hers Show an.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052339,
         "name": "Flug gestrichen",
         "desc": "Hilf dem seltsamen Touristen, Münzen in den Sternskiffmotor zu werfen.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052714,
+        "name": "Die Beine sind sowieso nur zur Schau",
+        "desc": "Entwickle einen unerhörten Plan für den Motor der Schöpfung.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052340,
@@ -1297,11 +1402,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052715,
+        "name": "Erhebe dich, Motor der Schöpfung!",
+        "desc": "Entwickle einen zuverlässigen Plan für den Motor der Schöpfung.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052341,
         "name": "Belassen wir es dabei",
         "desc": "Hol die Credits von dem Betrüger, der sie gestohlen hat, nicht zurück.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052716,
+        "name": "Keine Versionsaktualisierungen für dieses Spiel?",
+        "desc": "Erhalte alle Äther-Erweiterungschips.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052342,
@@ -1311,11 +1430,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052717,
+        "name": "Nordwind erschafft Helden",
+        "desc": "Besiege Gepard hinter dem Tor im Marsch der Wintersoldaten auf dem Schwierigkeitsgrad III.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052343,
         "name": "Die sieben Irrtümer des Mechakranichs: Lust",
         "desc": "Folge dem Mechakranich-Gentleman, um das vom Zoll zurückgehaltene Bilderbuch zu finden.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052718,
+        "name": "Der Sieg, und dann der Abschied",
+        "desc": "Gib {TEXTJOIN#54} zurück, wenn sich der Staub gelegt hat.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052344,
@@ -1325,11 +1458,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052719,
+        "name": "Das Ende, und dann der Anfang",
+        "desc": "Behalte {TEXTJOIN#54}, wenn sich der Staub gelegt hat.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052345,
         "name": "Die sieben Irrtümer des Mechakranichs: Gier",
         "desc": "Erforsche den „Berg der Lieferungen“, der vom „bösen Drachen“ beschützt wird.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052720,
+        "name": "Der erste Schritt in die Zukunft",
+        "desc": "Halte dich über den Entwicklungsfortschritt von Belobog auf dem Laufenden.\\n<color=#8790abff>※ Kaufe „Bergarbeiter Wochenausgabe 226“ </color>.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052346,
@@ -1339,11 +1486,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052721,
+        "name": "Frucht der anorganischen Weisheit",
+        "desc": "Erhalte das lesbare Element „Screwllums Nachricht“.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052347,
         "name": "Die sieben Irrtümer des Mechakranichs: Zorn",
         "desc": "Besiege mit dem mutigen Mechakranichs die Wegelagerer.",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052722,
+        "name": "Die Reise zum Eisbärenjungen",
+        "desc": "Interagiere herzlich mit dem Eisbärenjungen.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052348,
@@ -1353,11 +1514,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052723,
+        "name": "Danke schön, Pela",
+        "desc": "Hilf Fedora, ihre Wette zu erfüllen.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052501,
         "name": "Der Willige beißt nicht an",
         "desc": "Enthülle die Verbindung zwischen den beiden Anglern der Kunsthandwerkskommission.",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052724,
+        "name": "Stahl und Spielzeug",
+        "desc": "Bringe die Abfälle aus dem Schöpfungsprojekt zu Benjamin.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052502,
@@ -1367,11 +1542,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052725,
+        "name": "Stahl und Straßenlaternen",
+        "desc": "Bringe die Abfälle aus dem Schöpfungsprojekt zu Pela.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052503,
         "name": "Rand des Mondlichtmeeres",
         "desc": "Nimm 1-mal an der Aurumaton-Fahrprüfung teil.",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052726,
+        "name": "Mit dem Koloss als Zeuge",
+        "desc": "Rette deine Zunge, die an dem gefrorenen Geländer festhängt.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052504,
@@ -1381,11 +1570,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052727,
+        "name": "Probier das nicht zu Hause aus",
+        "desc": "Erhalte erneut eine Lektion, weil du das Gefäß kaputt gemacht hast.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052505,
         "name": "Literarischer Anfänger",
         "desc": "Scheitere beim Versuch, dein literarisches Talent vom metrischen Dichter anerkennen zu lassen.",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052728,
+        "name": "Das Wichtigste zuerst",
+        "desc": "Gewinne einen fanatischen Fan.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052508,
@@ -1395,11 +1598,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052729,
+        "name": "Das Geständnis der Fassade",
+        "desc": "Untersuche die Erinnerungsblase unbekannter Herkunft.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052509,
         "name": "Das Mittel ist wichtiger als der Zweck",
         "desc": "Erlebe das Ende der Entfesselten.",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052730,
+        "name": "Schrott-Eiscreme",
+        "desc": "Besorge dir Müll aus einer gefrorenen Mülltonne.",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052510,
@@ -2030,7 +2247,7 @@
       {
         "id": 4072008,
         "name": "Gelähmter Wolf",
-        "desc": "Besiege den Automaton „Düsterwolf“, ohne den Fällbefehl auszulösen.",
+        "desc": "Besiege den Automaton: Düsterwolf, ohne den Fällbefehl auszulösen.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2226,56 +2443,56 @@
       {
         "id": 4072603,
         "name": "Kampfkunstzeremonie: Großschwert-Probe",
-        "desc": "Lass Sushang Yanqing den finalen Treffer verpassen.",
+        "desc": "Benutze Sushang, um den letzten Schlag für einen Sieg gegen Yanqing zu versetzen.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4072604,
         "name": "Kampfkunstzeremonie: Degen-Probe",
-        "desc": "Lass Luocha Yanqing den finalen Treffer verpassen.",
+        "desc": "Benutze Luocha, um den letzten Schlag für einen Sieg gegen Yanqing zu versetzen.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4072605,
-        "name": "Käferknacker",
-        "desc": "Benutze die „Entomon-Grabrede“ eines Kleinen Treustachels oder eines Jungen Treustachels, um Der Schwarm: Treustachel zu besiegen.",
+        "name": "Insekt ... mit Rang 5?",
+        "desc": "Benutze die „Entomologische Elegie“ eines Wachsenden Treustachels oder eines Jungen Treustachels, um „Der Schwarm: Treustachel“ zu besiegen.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4072606,
         "name": "Ich bin der Schwarm",
-        "desc": "Wenn Der Schwarm: Treustachel den Schwarm-Angriff einsetzt, befinden sich keine Jungen Treustachel oder Kleinen Treustachel auf dem Schlachtfeld.",
+        "desc": "Wenn „Der Schwarm: Treustachel“ den Schwarmansturm einsetzt, befinden sich kein Junger Treustachel oder Wachsender Treustachel auf dem Schlachtfeld.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4072607,
         "name": "Nur ein Wurm",
-        "desc": "Besiege in einem einzigen Angriff gleichzeitig 2 von Der Schwarm: Treustachel.",
+        "desc": "Besiege in einem einzigen Angriff gleichzeitig 2 „Der Schwarm: Treustachel“.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4072608,
         "name": "Kampfkunstzeremonie: Todesgleven-Probe",
-        "desc": "Lass Jing Yuan Yanqing den finalen Treffer verpassen.",
+        "desc": "Benutze Jing Yuan, um den letzten Schlag für einen Sieg gegen Yanqing zu versetzen.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4072610,
-        "name": "Wir sind Dreifachdrachen",
-        "desc": "Verwende während der Runde von Dan Heng – Imbibitor Lunae 3-mal hintereinander in einem einzigen Kampf einen verstärkten Blitzartigen Sprung.",
+        "name": "Dreifachdrache",
+        "desc": "Setze während der Runde von Dan Heng – Imbibitor Lunae in einem einzigen Kampf 3-mal hintereinander „Blitzartiger Sprung“ ein.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4072611,
         "name": "Überleben, überleben, überleben",
-        "desc": "Verwende Lynx, um die max. LP deiner Verbündeten in einem einzigen Kampf um das 3-fache zu erhöhen.",
+        "desc": "Verwende Lynx, um die max. LP der Verbündeten in einem einzigen Kampf 3-mal zu erhöhen.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2285,6 +2502,34 @@
         "desc": "Löse in einem einzigen Kampf die LP-Wiederherstellung von Fu Xuans Talent „Nach Weh kommt Wohl“ insgesamt 4-mal aus.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4072701,
+        "name": "Kampfkunstzeremonie: Speer-Probe",
+        "desc": "Setze deinen Verbündeten Dan Heng ein, um den letzten Schlag für einen Sieg gegen Yanqing zu versetzen.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072702,
+        "name": "Kampfkunstzeremonie ...?",
+        "desc": "Setze deinen Verbündeten Yanqing ein, um den letzten Schlag für einen Sieg gegen Yanqing zu versetzen.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072703,
+        "name": "Kampfkunstzeremonie: Seelenstahl-Probe",
+        "desc": "Setze deine Verbündete Jingliu ein, um den letzten Schlag für einen Sieg gegen Yanqing zu versetzen.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072704,
+        "name": "Von vier Menschen, der Preis ...",
+        "desc": "Verwende Jingliu, um die LP eines Verbündeten in einem einzigen Kampf auf 1 zu reduzieren.",
+        "rarity": 1,
+        "version": "1.4"
       }
     ]
   },
@@ -2552,8 +2797,8 @@
       },
       {
         "id": 4082601,
-        "name": "Immer langsam mit den Pferden",
-        "desc": "Bleibe 15 Sekunden lang stehen, ohne in einen Kampf zu geraten, während du vom Gegner verfolgt wirst.",
+        "name": "Langsam, bitte",
+        "desc": "Halte 15 Sekunden, ohne in den Kampf einzugreifen, während du vom Gegner verfolgt wirst.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2574,14 +2819,14 @@
       {
         "id": 4082604,
         "name": "Es ist nur ein Bild",
-        "desc": "Ändere zum ersten Mal dein Handy-Hintergrundbild.",
+        "desc": "Wechsle zum ersten Mal dein Handy-Hintergrundbild.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4082605,
         "name": "Kunst überwindet Sprache",
-        "desc": "Ändere zum ersten Mal Nachrichten- und Chatfenster.",
+        "desc": "Wechsle zum ersten Mal Nachrichten- und Chatfenster.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2595,7 +2840,7 @@
       {
         "id": 4082607,
         "name": "Astralexpress-ionen",
-        "desc": "Sende insgesamt 20 Astralexpress-Besatzungssticker.",
+        "desc": "Sende insgesamt 20 Sticker von Astralexpress-Besatzung.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2608,17 +2853,80 @@
       },
       {
         "id": 4072602,
-        "name": "Im Namen von Landau",
+        "name": "Im Namen von Landau!",
         "desc": "Gewinne 1 Kampf mit einem Team aus Serval, Gepard und Lynx.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4072609,
-        "name": "Lasst die Kanonenkugeln fliegen",
-        "desc": "Beginne einen Kampf, indem du einen weit entfernten Gegner während der Erkundung mit Natasha angreifst.",
+        "name": "Lass die Kanonenkugeln fliegen",
+        "desc": "Beginne einen Kampf, indem du während der Erkundung einen weit entfernten Gegner mit Natasha angreifst.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4082701,
+        "name": "So ... So quadratisch",
+        "desc": "Füttere das Sparschwein in großen Mengen.\\n<color=#8790abff>※ Verwende das Chatfenster „{TEXTJOIN#54}“, um eine große Menge an Textinhalten zu versenden.</color>",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082702,
+        "name": "Familienstreitigkeit",
+        "desc": "Benutze deinen Verbündeten Kontie, um ein Sparschwein zu besiegen.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082703,
+        "name": "Absoluter Nullpunkt",
+        "desc": "Setze Jingliu ein und interagiere mit der Bewertungspistole.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082704,
+        "name": "Vertraue dem Ablauf",
+        "desc": "Kaufe 1 nicht abgeholtes Paket von Maozhen in Wolkenfurt.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082705,
+        "name": "Alles ist gut",
+        "desc": "Habe zum ersten Mal ein „Wohl“ im Weissagungsladen.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082706,
+        "name": "Vor der Morgendämmerung ist es immer am dunkelsten",
+        "desc": "Habe zum ersten Mal ein „Wehe“ im Weissagungsladen.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082707,
+        "name": "Der zinnoberrote Vogel bringt schnelles Glück",
+        "desc": "Habe zum ersten Mal ein „Faulenzen“ im Weissagungsladen.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082708,
+        "name": "Edle Menschen erteilen weisen Rat",
+        "desc": "Habe zum ersten Mal ein „Dösen“ im Weissagungsladen.",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082709,
+        "name": "Holzpuppe: Star Rail",
+        "desc": "Schließe 3 Kämpfe mit der automatischen Holzpuppe ab.",
+        "rarity": 1,
+        "version": "1.4"
       }
     ]
   },
@@ -2628,90 +2936,90 @@
       {
         "id": 4092635,
         "name": "Die 400 Schläge",
-        "desc": "Benutze mindestens 40-mal Standardangriff und gewinne einen einzigen Kampf in der Universum-Simulation: Schwarmkatastrophe.",
+        "desc": "Führe mindestens 40-mal Standardangriff in einem einzelnen Kampf aus und gewinne denselben Kampf in der Universum-Simulation.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092633,
-        "name": "Der Wille Des Bienenvolkes",
-        "desc": "Schalte in der Universum-Simulation Segen der Ausbreitung ×12 frei.",
+        "name": "Der Wille des Insektennests",
+        "desc": "Schalte in der Universum-Simulation insgesamt 1 Segen der Ausbreitung frei.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092634,
-        "name": "Die Vierte Phase",
+        "name": "Die vierte Phase",
         "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen der Ausbreitung.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092601,
-        "name": "Frühling In Fialta",
-        "desc": "Benutze den Pfad des Hochgefühls, um die Universum-Simulation: Schwarmkatastrophe abzuschließen und erhalte insgesamt 12 verschiedenes „Glück“.",
+        "name": "„Frühling In Fialta“",
+        "desc": "Erhalte insgesamt 12 verschiedenes „Glück“, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad des Hochgefühls abschließt.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092602,
         "name": "Saisonales Jagen",
-        "desc": "Fange in der „Universum-Simulation: Schwarmkatastrophe“ Sparschwein ×8 durch Kämpfe in der gleichen Ebene, während du dem Pfad der Jagd folgst.",
+        "desc": "Fange in der Universum-Simulation: Schwarmkatastrophe durch Kämpfe in der gleichen Ebene mit dem Pfad der Jagd 8 oder mehr Sparschweine.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092603,
-        "name": "Makadam-Geschichten",
-        "desc": "Dupliziere in der Universum-Simulation: Schwarmkatastrophe mithilfe des Pfads des Gedenkens insgesamt 6-mal eine Region – Belohnung.",
+        "name": "Asphalte",
+        "desc": "Dupliziere in der Universum-Simulation: Schwarmkatastrophe mit dem Pfad des Gedenkens 6-mal hintereinander eine Region – Belohnung.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092604,
-        "name": "Räuber",
-        "desc": "Siege in 40 Kämpfen, wenn du die „Universum-Simulation: Schwarmkatastrophe“ mit dem Pfad der Zerstörung beendest.",
+        "name": "Predator",
+        "desc": "Gewinne 40 Kämpfe, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Zerstörung abschließt.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092605,
-        "name": "Symbolischer Tausch Und Tod",
-        "desc": "Betritt 15-mal „Region – Leer“, wenn du die „Universum-Simulation: Schwarmkatastrophe“ mit dem Pfad der Nichtigkeit beendest.",
+        "name": "Der symbolische Tausch und der Tod",
+        "desc": "Betritt 15-mal „Region – Leer“, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Nichtigkeit abschließt.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092606,
-        "name": "Das Simulationsuniversum wurde nicht an einem Tag erbaut",
-        "desc": "Wende Eckpfeiler auf 8 Regionen verschiedener Typen an, wenn du die „Universum-Simulation: Schwarmkatastrophe“ mit dem Pfad der Bewahrung beendest.",
+        "name": "Die Universum-Simulation wurde nicht an einem Tag erbaut",
+        "desc": "Wende Eckpfeiler auf 8 verschiedene Regionenarten an, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Bewahrung abschließt.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092607,
         "name": "Mit einer einfachen Geste",
-        "desc": "Benutze den Pfad des Überflusses, um die Universum-Simulation: Schwarmkatastrophe mit dem Countdown-Zähler 80 oder höher abzuschließen.",
+        "desc": "Der Countdown-Zähler bleibt mindestens 80, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad des Überflusses abschließt.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092608,
         "name": "Zurück zu Klendathu",
-        "desc": "Wenn du die „Universum-Simulation: Schwarmkatastrophe“ mit dem Pfad der Ausbreitung beendest, betritt 15-mal die Region „Kampf: Der Schwarm“, „Ereignis: Der Schwarm“ oder „Boss: Der Schwarm“.",
+        "desc": "Betritt 15-mal die Region „Kampf: Der Schwarm“, „Ereignis: Der Schwarm“ oder „Boss: Der Schwarm“, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Ausbreitung abschließt.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092609,
-        "name": "Willkommen Im Affenhaus",
+        "name": "„Willkommen im Affenhaus“",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Das Hochgefühl“.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092610,
-        "name": "Wenn der Schotter sich verstreut, werden die steifen und Kranken untergehen",
+        "name": "Verstreute Hagelkörner, zerschmetterte Geisterknochen",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Die Jagd“.",
         "rarity": 1,
         "version": "1.3"
@@ -2725,7 +3033,7 @@
       },
       {
         "id": 4092612,
-        "name": "Die Welt als Abbild",
+        "name": "Die Welt als Vorstellung",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Die Nichtigkeit“.",
         "rarity": 1,
         "version": "1.3"
@@ -2739,7 +3047,7 @@
       },
       {
         "id": 4092614,
-        "name": "Zuhörerin und Einzelgängerin Yana",
+        "name": "Zuören, erwachen, erleuchten",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Der Überfluss“.",
         "rarity": 1,
         "version": "1.3"
@@ -2760,113 +3068,113 @@
       },
       {
         "id": 4092617,
-        "name": "Datenbankbeauftragter",
-        "desc": "Besitze beim Abschluss der Universum-Simulation: Schwarmkatastrophe 9999 oder mehr Kosmisches Fragment.",
+        "name": "Verwalter der Datenbank",
+        "desc": "Besitze beim Abschluss der Universum-Simulation: Schwarmkatastrophe 9999 oder mehr Kosmische Fragmente.",
         "rarity": 2,
         "version": "1.3"
       },
       {
         "id": 4092618,
-        "name": "Die Liebe & Der Imperator",
-        "desc": "<u>Erhalte grenzenlose Kraft</u> im Ereignis Die Universum-Simulation: Schwarmkatastrophe, Die IFK-Aufstiegssaga",
+        "name": "Nach den Sternen greifen",
+        "desc": "<u>Besitze grenzenlose Macht</u> im Ereignis der Universum-Simulation: Schwarmkatastrophe, Die IFK-Beförderungsgeschichte.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092619,
-        "name": "Q",
+        "name": "Herr Q",
         "desc": "Kaufe in der Universum-Simulation: Schwarmkatastrophe in derselben „Region – Handel“ alle Gegenstände im Segensladen und im Kuriositätsladen.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092620,
-        "name": "Willkommen in Walhalla",
-        "desc": "Werde in der Universum-Simulation: Schwarmkatastrophe in dem Kampf besiegt, der durch eine Aktion von Yu Qingtu, #55 der Geniusgesellschaft, ausgelöst wurde.",
+        "name": "Willkommen in Valhalla",
+        "desc": "Verliere in der Universum-Simulation: Schwarmkatastrophe den Kampf, der von Yu Qingtu, Nr. 55 der Geniusgesellschaft, ausgelöst wurde.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092621,
-        "name": "Randale-Ralph II",
-        "desc": "Zerstöre in der Universum-Simulation: Schwarmkatastrophe mindestens Zerstörbares Objekt ×100.",
+        "name": "Kaputtmacher II",
+        "desc": "Zerstöre in einem Durchlauf von Universum-Simulation: Schwarmkatastrophe mindestens Zerstörbares Objekt ×100.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092622,
-        "name": "Erntemond",
+        "name": "Harvest Moon",
         "desc": "Fange mindestens Sparschwein ×16 in einer „Region – Abenteuer“ der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092623,
-        "name": "Raum der Abschiedspfade",
-        "desc": "Beleuchte 1 versteckte „Wege des Pfadfinders“ in der Universum-Simulation: Schwarmkatastrophe.",
+        "name": "Raum der verschiedenen Pfade",
+        "desc": "Beleuchte 1 versteckten „Weg des Pfadfinders“ in der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092624,
-        "name": "Party",
-        "desc": "Löse in der Universum-Simulation: Schwarmkatastrophe insgesamt #1-mal eine Resonanzkreuzung aus.",
+        "name": "Ein-Mann-Chor",
+        "desc": "Löse in einem Durchlauf von Universum-Simulation: Schwarmkatastrophe 2-mal eine Resonanzkreuzung aus.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092625,
-        "name": "Sein Oder Nichtsein",
-        "desc": "Mache Pfadentscheidungen ×1 in Region – Ereignis in der Universum-Simulation: Schwarmkatastrophe.",
+        "name": "Bewahrung oder Zerstörung?",
+        "desc": "Schließe 1-mal Pfadentscheidung in Region – Ereignis der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092626,
-        "name": "Drehscheibe Des Schicksals",
-        "desc": "Schließe alle Pfadentscheidungen in der Universum-Simulation: Schwarmkatastrophe ab.",
+        "name": "Rad des Schicksals",
+        "desc": "Schließe alle Pfadentscheidungen in Region – Ereignis der Universum-Simulation: Schwarmkatastrophe ab.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092627,
-        "name": "Zukünftige Ereignisse",
-        "desc": "Schummel 10-mal in der Universum-Simulation: Schwarmkatastrophe.",
+        "name": "Was kommen wird",
+        "desc": "Mogele insgesamt 10-mal in der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092628,
-        "name": "Zurück In Die Zukunft",
-        "desc": "Würfle insgesamt 50-mal erneut in der Universum-Simulation: Schwarmkatastrophe.",
+        "name": "Zurück in die Zukunft",
+        "desc": "Verbrauche insgesamt 50-mal Wiederholungsversuche in der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092629,
         "name": "Das Ende Der Ewigkeit",
-        "desc": "Betritt in der Universum-Simulation: Schwarmkatastrophe mit einem beliebigen Pfad, außer dem Pfad der Nichtigkeit, die „Region – Leer“.",
+        "desc": "Betritt in der Universum-Simulation: Schwarmkatastrophe mit einem anderen Pfad als dem Pfad der Nichtigkeit die „Region – Leer“.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092630,
-        "name": "Auf Dem Kometen",
-        "desc": "Erreiche in der Universum-Simulation: Schwarmkatastrophe alle Ziele in einer beliebigen „Region – Abenteuer“.",
+        "name": "Auf dem Kometen",
+        "desc": "Erreiche in einer beliebigen „Region – Abenteuer“ der Universum-Simulation: Schwarmkatastrophe alle Ziele.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092631,
-        "name": "Ermittler Weyland-Yutani",
-        "desc": "Betritt in der Universum-Simulation: Schwarmkatastrophe 20-mal die Regionen „Kampf: Der Schwarm“, „Ereignis: Der Schwarm“ oder „Boss: Der Schwarm“ mit einem anderen Pfad als dem Pfad der Ausbreitung.",
+        "name": "Ermittler von Weyland-Yutani",
+        "desc": "Betritt in der Universum-Simulation: Schwarmkatastrophe insgesamt 15-mal die Regionen „Kampf: Der Schwarm“, „Ereignis: Der Schwarm“ oder „Boss: Der Schwarm“ mit einem anderen Pfad als dem Pfad der Ausbreitung.",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092632,
         "name": "Massenrelais",
-        "desc": "Besitze mindestens Stufe 20 der Störungsstufe des Planaren Durcheinanders, wenn du die Universum-Simulation: Schwarmkatastrophe abschließt.",
+        "desc": "Die Störungsstufe von „Planaren Durcheinander!“ erreicht mindestens 20 beim Abschluss der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2893,7 +3201,7 @@
       },
       {
         "id": 4092636,
-        "name": "Stilles Laufen",
+        "name": "Lautlos im Weltraum",
         "desc": "Schließe alle Geschichten der Schwarmkatastrophe in der Universum-Simulation: Schwarmkatastrophe ab.",
         "rarity": 2,
         "version": "1.3"
@@ -2907,7 +3215,7 @@
       },
       {
         "id": 4092637,
-        "name": "Fremder In Einem Fremden Land",
+        "name": "Fremder in einer fremden Welt",
         "desc": "Sammle alle Trailblaze-Geheimnisse in der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 2,
         "version": "1.3"
@@ -2921,7 +3229,7 @@
       },
       {
         "id": 4092638,
-        "name": "Schieße Sie Aus Dem Orbit",
+        "name": "Vernichten aus dem Orbit",
         "desc": "Schließe Universum-Simulation: Schwarmkatastrophe Schwierigkeit V ab.",
         "rarity": 1,
         "version": "1.3"
@@ -2935,8 +3243,8 @@
       },
       {
         "id": 4092639,
-        "name": "Äonenübergreifende Plage",
-        "desc": "Sammle „Schwarmkatastrophe“ Kapitel „Die Jagd I“.",
+        "name": "Pest unter den Äonen",
+        "desc": "Sammle das Kapitel der Schwarmkatastrophe „Die Jagd I“.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2949,8 +3257,8 @@
       },
       {
         "id": 4092640,
-        "name": "Ein Traum Von Babel",
-        "desc": "Sammle „Schwarmkatastrophe“ Kapitel „Die Bewahrung II“.",
+        "name": "Ein Traum von Babel",
+        "desc": "Sammle das Kapitel der Schwarmkatastrophe „Die Bewahrung II“.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2963,8 +3271,8 @@
       },
       {
         "id": 4092641,
-        "name": "Wie Man Zu Dem Wird, Was Man Ist",
-        "desc": "Sammle „Schwarmkatastrophe“ Kapitel „Die Nichtigkeit I“.",
+        "name": "Wie man wird, was man ist",
+        "desc": "Sammle das Kapitel der Schwarmkatastrophe „Die Nichtigkeit I“.",
         "rarity": 1,
         "version": "1.3"
       },
@@ -3131,7 +3439,7 @@
       },
       {
         "id": 4092327,
-        "name": "Randale-Ralph",
+        "name": "Kaputtmacher",
         "desc": "Schalte in der Universum-Simulation 12 Segen der Zerstörung frei.",
         "rarity": 1,
         "version": "1.0"

@@ -354,6 +354,13 @@
         "desc": "Farewell, Xianzhou Luofu\\n<color=#8790abff>※ Participate in the soul-soothing ceremony and form an alliance with the Xianzhou</color>",
         "rarity": 2,
         "version": "1.3"
+      },
+      {
+        "id": 4032701,
+        "name": "Sunny Deeds Beget Rainy Needs",
+        "desc": "Help Jarilo-VI and Belobog solve their enormous crisis (again)\\n<color=#8790abff>※ Complete Trailblaze Continuance \"Future Market\"</color>",
+        "rarity": 2,
+        "version": "1.4"
       }
     ]
   },
@@ -696,7 +703,7 @@
       },
       {
         "id": 4052618,
-        "name": "Only Ashes Remain",
+        "name": "All That Remains is Pure White Ash",
         "desc": "Complete the Companion Mission \"Mo Cuishle\"",
         "rarity": 1,
         "version": "1.3"
@@ -1110,7 +1117,7 @@
       {
         "id": 4052608,
         "name": "Delivery Dynamo",
-        "desc": "Complete a custom delivery order from Heron Express in Aurum Alley's Hustle and Bustle",
+        "desc": "Complete a custom order from Heron Express in Aurum Alley's Hustle and Bustle",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1199,11 +1206,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052701,
+        "name": "Into Hall of Fame",
+        "desc": "Earn the Champion title in the Aetherium Wars: Interastral Tournament Festival",
+        "rarity": 2,
+        "version": "1.4"
+      },
+      {
         "id": 4052327,
         "name": "A Secret Makes a Woman, Woman.",
         "desc": "Choose to let the Foxian Beauty continue the ruse during the mission \"From Xianzhou With Love\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052702,
+        "name": "King of the Snowy Hill",
+        "desc": "End the fateful battle at Everwinter Hill in the Aetherium Wars",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052328,
@@ -1213,11 +1234,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052703,
+        "name": "Bent but Unbroken",
+        "desc": "Complete the Companion Mission \"Clouds Leave No Trace\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052329,
         "name": "Seven Birds in the Hand Is Worth A Thousand in the Bush",
         "desc": "Help Heron Express to recover all lost cycranes",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052704,
+        "name": "Gotta Catch 'Em All",
+        "desc": "Obtain all Aether Spirits in the Aetherium Wars",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052330,
@@ -1227,11 +1262,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052705,
+        "name": "Aetherium Wars Master",
+        "desc": "Achieve the highest Victory Rating level in the Aetherium Wars",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052331,
         "name": "All Is Fair in Love and War",
         "desc": "Win the Xianzhou Luofu Competitive Eater Championship in underhanded ways",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052706,
+        "name": "Hyperlink Casual Champion",
+        "desc": "Defeat all rivals in the Aetherium Wars: Hyperlink Match",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052332,
@@ -1241,11 +1290,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052707,
+        "name": "Mark of Frigid Gust",
+        "desc": "Overcome all challenges in the Corridor of Fading Echoes Victory Zone in Aetherium Wars",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052333,
         "name": "Far From the Madding Crowd",
         "desc": "Talk with the Immortal in a Vase and obtain its gift from the vase",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052708,
+        "name": "Mark of Alloy",
+        "desc": "Overcome all challenges in the Cloudford Victory Zone in the Aetherium Wars",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052334,
@@ -1255,11 +1318,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052709,
+        "name": "Mark of Intellect",
+        "desc": "Overcome all challenges in the Herta Space Station Victory Zone in the Aetherium Wars",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052335,
         "name": "Hasta la vista, Hexanexus!",
         "desc": "Complete 15 Hexanexus challenge(s) from the Hex Club",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052710,
+        "name": "Mark of Facade",
+        "desc": "Overcome all challenges in the Great Mine Victory Zone in the Aetherium Wars",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052336,
@@ -1269,11 +1346,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052711,
+        "name": "We Are the Champion?",
+        "desc": "Win one Exhibition Match in the Aetherium Wars",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052337,
         "name": "Labor Omnia Vincit",
         "desc": "Examine 7 separate file cabinets in the Seat of Divine Foresight",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052712,
+        "name": "Tongue of Loquacity",
+        "desc": "Listen to Mini Xiyan's show",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052338,
@@ -1283,11 +1374,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052713,
+        "name": "One-Two Punchline",
+        "desc": "Listen to Mini Back'n and Forth's show",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052339,
         "name": "Flight Cancelled",
         "desc": "Help the strange tourist to throw a coin into the starskiff engine",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052714,
+        "name": "Legs Are Just for Show Anyway",
+        "desc": "Develop an outrageous plan for the Engine of Creation",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052340,
@@ -1297,11 +1402,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052715,
+        "name": "Rise, Engine of Creation!",
+        "desc": "Develop a reliable plan for the Engine of Creation",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052341,
         "name": "Leave It There",
         "desc": "Did not retrieve the credits that the fraudster took",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052716,
+        "name": "Does This Game Not Have Version Updates?",
+        "desc": "Obtain all Aether Expansion Chips",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052342,
@@ -1311,11 +1430,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052717,
+        "name": "North Wind Creates Heroes",
+        "desc": "Defeat Gepard behind the gate in Winter Soldiers' March (Difficulty III)",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052343,
         "name": "The Seven Errors of Cycranes: Lust",
         "desc": "Follow the gentlemanly cycrane to find the picture book withheld by customs",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052718,
+        "name": "Victory, and Then Comes Farewell",
+        "desc": "Return {TEXTJOIN#54} once the dust settles",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052344,
@@ -1325,11 +1458,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052719,
+        "name": "The End, and Then Comes the Beginning",
+        "desc": "Keep {TEXTJOIN#54} once the dust settles",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052345,
         "name": "The Seven Errors of Cycranes: Greed",
         "desc": "Explore the \"mountain of deliveries\" protected by the \"evil dragon\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052720,
+        "name": "The First Step of the Future",
+        "desc": "Stay updated on the development progress of Belobog.\\n<color=#8790abff>※ Purchase <i>Miners Weekly</i> Issue 226</color>",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052346,
@@ -1339,11 +1486,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052721,
+        "name": "Inorganic Wisdom Fruit",
+        "desc": "Obtain the readable item, Screwllum's Message",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052347,
         "name": "The Seven Errors of Cycranes: Wrath",
         "desc": "Defeat the highwaymen with the brave cycrane",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052722,
+        "name": "Journey to the Arctic Bear Cub",
+        "desc": "Interact warmly with the arctic bear cub",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052348,
@@ -1353,11 +1514,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052723,
+        "name": "Thank You, Pela",
+        "desc": "Help Fedora complete her bet",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052501,
         "name": "The Willing Does Not Bite",
         "desc": "Uncover the connection between the two anglers from the Artisanship Commission",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052724,
+        "name": "Steel and Toys",
+        "desc": "Deliver the waste from the creation project to Benjamin",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052502,
@@ -1367,11 +1542,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052725,
+        "name": "Steel and Street Lamps",
+        "desc": "Deliver the waste from the creation project to Pela",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052503,
         "name": "Lunarescent Rim",
         "desc": "Participate 1 time in the Aurumaton Driving Exam",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052726,
+        "name": "With the Colossus As Witness",
+        "desc": "Salvage your tongue stuck on the frozen railing",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052504,
@@ -1381,11 +1570,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052727,
+        "name": "Don't Try This At Home",
+        "desc": "Be taught a lesson (again) due to breaking the vessel",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052505,
         "name": "Literary Novice",
         "desc": "Fail to have your literary talent recognized by the Metrical Poet",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052728,
+        "name": "First Things First",
+        "desc": "Gain a fanatical fan",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052508,
@@ -1395,11 +1598,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052729,
+        "name": "Confession of the Mask",
+        "desc": "Investigate the Memory Bubble of unknown origin",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052509,
         "name": "Means Above the Ends",
         "desc": "Witness the end of the Unshackled",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052730,
+        "name": "Ice Grim",
+        "desc": "Obtain Trash from a frozen trash can",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052510,
@@ -1945,7 +2162,7 @@
       },
       {
         "id": 4071504,
-        "name": "The Thirteen Labors",
+        "name": "Trial of Thirteen",
         "desc": "In a single battle, make Svarog block attacks toward Clara 13 times",
         "rarity": 2,
         "version": "1.0"
@@ -2285,6 +2502,34 @@
         "desc": "In a single battle, trigger the HP Restore effect of Fu Xuan's Talent \"Bleak Breeds Bliss\" for a total of 4 times",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4072701,
+        "name": "Wardance: Spear Trial",
+        "desc": "Use ally Dan Heng to deal the final blow in a victory against Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072702,
+        "name": "Wardance...?",
+        "desc": "Use ally Yanqing to deal the final blow in a victory against Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072703,
+        "name": "Wardance: Soulsteel Trial",
+        "desc": "Use ally Jingliu to deal the final blow in a victory against Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072704,
+        "name": "Of Four People, The Price...",
+        "desc": "Use Jingliu to reduce any ally's HP to 1 in a single battle",
+        "rarity": 1,
+        "version": "1.4"
       }
     ]
   },
@@ -2619,6 +2864,69 @@
         "desc": "Enter a battle by attacking a distant enemy with Natasha during exploration",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4082701,
+        "name": "Spamming SPAM",
+        "desc": "Feed Trotter in large quantities\\n<color=#8790abff>※ Use the \"{TEXTJOIN#54}\" Chat Box to send a large amount of text content</color>",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082702,
+        "name": "War at Home",
+        "desc": "Use ally Numby to defeat a Trotter",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082703,
+        "name": "Absolute Zero",
+        "desc": "Use Jingliu and interact with the Rating Pistol",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082704,
+        "name": "Trust the Process",
+        "desc": "Purchase 1 Unclaimed Parcels from Maozhen in Cloudford",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082705,
+        "name": "All Is Well",
+        "desc": "Get a \"Weal\" result for the first time in the divination shop",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082706,
+        "name": "It's Always Darkest Before the Dawn",
+        "desc": "Get a \"Woe\" result for the first time in the divination shop",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082707,
+        "name": "The Vermillion Bird Brings Swift Fortune",
+        "desc": "Get a \"Slack\" result for the first time in the divination shop",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082708,
+        "name": "Smooth Sailing With Wise Council",
+        "desc": "Get a \"Doze\" result for the first time in the divination shop",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082709,
+        "name": "Wooden Dummy: Star Rail",
+        "desc": "Complete 3 battles using the Automatic Wooden Dummy",
+        "rarity": 1,
+        "version": "1.4"
       }
     ]
   },
@@ -2628,14 +2936,14 @@
       {
         "id": 4092635,
         "name": "The 400 Blows",
-        "desc": "Use Basic ATK at least 40 times and win within a single battle in Simulated Universe: Swarm Disaster",
+        "desc": "Use Basic ATK at least 40 times and win within a single battle in Simulated Universe",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092633,
         "name": "Will of the Hive",
-        "desc": "Unlock 12 Blessing(s) of Propagation in Simulated Universe",
+        "desc": "Unlock 1 Blessing of Propagation in Simulated Universe",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2859,7 +3167,7 @@
       {
         "id": 4092631,
         "name": "Weyland-Yutani Investigator",
-        "desc": "In Simulated Universe: Swarm Disaster, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain with a Path other than Propagation for a total of 20 times",
+        "desc": "In Simulated Universe: Swarm Disaster, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain with a Path other than Propagation for a total of 15 times",
         "rarity": 1,
         "version": "1.3"
       },
@@ -3104,49 +3412,49 @@
       {
         "id": 4092323,
         "name": "Existence Precedes Essence",
-        "desc": "Unlock 12 Blessing(s) of Preservation in Simulated Universe",
+        "desc": "Unlock 12 Blessings of Preservation in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092324,
         "name": "Memories Look at Me",
-        "desc": "Unlock 12 Blessing(s) of Remembrance in Simulated Universe",
+        "desc": "Unlock 12 Blessings of Remembrance in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092325,
         "name": "Create A Beautiful Chaos",
-        "desc": "Unlock 12 Blessing(s) of Elation in Simulated Universe",
+        "desc": "Unlock 12 Blessings of Elation in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092326,
         "name": "Velocity of the Universe's Expansion",
-        "desc": "Unlock 12 Blessing(s) of The Hunt in Simulated Universe",
+        "desc": "Unlock 12 Blessings of The Hunt in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092327,
         "name": "Wreck-It Self",
-        "desc": "Unlock 12 Blessing(s) of Destruction in Simulated Universe",
+        "desc": "Unlock 12 Blessings of Destruction in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092328,
         "name": "Gnosticism",
-        "desc": "Unlock 12 Blessing(s) of Nihility in Simulated Universe",
+        "desc": "Unlock 12 Blessings of Nihility in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4092329,
         "name": "Exhalation",
-        "desc": "Unlock 12 Blessing(s) of Abundance in Simulated Universe",
+        "desc": "Unlock 12 Blessings of Abundance in Simulated Universe",
         "rarity": 1,
         "version": "1.0"
       },

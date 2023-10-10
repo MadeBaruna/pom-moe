@@ -354,6 +354,13 @@
         "desc": "Adieux au Luofu\\n<color=#8790abff>※ Participer à la cérémonie d'apaisement des âmes et former une alliance avec Xianzhou</color>",
         "rarity": 2,
         "version": "1.3"
+      },
+      {
+        "id": 4032701,
+        "name": "Les bons comptes font les bons amis",
+        "desc": "Aider (encore) à résoudre la crise profonde que traversent Jarilo-VI et Belobog\\n<color=#8790abff>※ Terminer la continuité pionnière « Marché à terme »</color>",
+        "rarity": 2,
+        "version": "1.4"
       }
     ]
   },
@@ -696,7 +703,7 @@
       },
       {
         "id": 4052618,
-        "name": "Seules les cendres subsistent",
+        "name": "Seule la cendre blanche subsiste",
         "desc": "Terminer la mission de compagnon « Mon amour, ma chair, mon sang »",
         "rarity": 1,
         "version": "1.3"
@@ -1032,7 +1039,7 @@
       },
       {
         "id": 4052601,
-        "name": "Rendre à l'allée des Aurums ce qui appartient à l'allée des Aurums !",
+        "name": "Rendre à l'allée des Aurums ce qui appartient à l'allée des Aurums !",
         "desc": "Terminer la mission « Les affaires reprennent (IV) » et remporter l'appel d'offres pour le quartier commercial de l'allée des Aurums",
         "rarity": 2,
         "version": "1.3"
@@ -1124,7 +1131,7 @@
       {
         "id": 4052609,
         "name": "À la recherche de l'arôme perdu",
-        "desc": "Terminer l'événement de rue « À la recherche de Truffie » dans « Ramdam à l'allée des Aurums »",
+        "desc": "Terminer l'événement de rue « Truffie à la rescousse » dans « Ramdam à l'allée des Aurums »",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1199,11 +1206,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052701,
+        "name": "Entrée au Panthéon",
+        "desc": "Remporter le titre de Maître des Guerres de l'étherium au Festival du tournoi interastral",
+        "rarity": 2,
+        "version": "1.4"
+      },
+      {
         "id": 4052327,
         "name": "Le secret fait la femme",
         "desc": "Faire en sorte que la Beauté foxienne poursuive son subterfuge durant la mission « Bons baisers de Xianzhou »",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052702,
+        "name": "Roi de la colline enneigée",
+        "desc": "Terminer le combat fatidique des Guerres de l'étherium à la Colline de l'Hiver éternel",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052328,
@@ -1213,11 +1234,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052703,
+        "name": "Le Chêne et le Roseau",
+        "desc": "Terminer la mission de compagnon « Les nuages s'estompent sans laisser de trace »",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052329,
         "name": "Méca-ornithologue",
         "desc": "Aider le Héron express à retrouver toutes les mécagrues perdues",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052704,
+        "name": "Attrapez-les tous",
+        "desc": "Obtenir tous les esprits d'éther dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052330,
@@ -1227,11 +1262,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052705,
+        "name": "Maître des Guerres de l'étherium",
+        "desc": "Obtenir le plus haut niveau de classement dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052331,
         "name": "Tous les coups sont permis",
         "desc": "Remporter le concours du plus gros mangeur du Luofu de Xianzhou en contournant les règles",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052706,
+        "name": "Maître des combats hyperlink",
+        "desc": "Vaincre tous les adversaires dans les combats hyperlink des Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052332,
@@ -1241,11 +1290,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052707,
+        "name": "Badge du souffle glacé",
+        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire du Couloir des échos faiblissants dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052333,
         "name": "Loin de la foule déchaînée",
         "desc": "Parler à l'Immortel du vase et obtenir le cadeau qui se trouve à l'intérieur",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052708,
+        "name": "Badge d'alliage",
+        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire de Passenuage dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052334,
@@ -1255,11 +1318,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052709,
+        "name": "Badge d'intelligence",
+        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire de la Station spatiale Herta dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052335,
         "name": "Hasta la vista, Hexanexus !",
         "desc": "Terminer 15 défis de l'Hexanexus du Club Hex",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052710,
+        "name": "Badge de façade",
+        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire de la Grande mine dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052336,
@@ -1269,11 +1346,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052711,
+        "name": "On est les champions ?",
+        "desc": "Remporter une rencontre amicale dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052337,
         "name": "Dur labeur",
         "desc": "Examiner 7 meubles de rangement différents du Siège de la clairvoyance divine",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052712,
+        "name": "Le bon parler",
+        "desc": "Écouter la représentation de Mini Xiyan",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052338,
@@ -1283,11 +1374,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052713,
+        "name": "L'art du bon mot",
+        "desc": "Écouter la représentation des Minis Al et Retour",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052339,
         "name": "Vol annulé",
         "desc": "Aider la touriste bizarre à jeter une pièce dans le moteur de l'astroskiff",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052714,
+        "name": "Les jambes, c'est surcoté",
+        "desc": "Élaborer un plan abracadabrantesque pour le Moteur de la création",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052340,
@@ -1297,11 +1402,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052715,
+        "name": "Lève-toi, Moteur de la création !",
+        "desc": "Élaborer un plan réaliste pour le Moteur de la création",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052341,
         "name": "Laxisme",
         "desc": "Ne pas récupérer les crédits que l'escroc a pris",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052716,
+        "name": "Il n'y a jamais de mise à jour dans ce jeu ?",
+        "desc": "Obtenir toutes les puces d'amélioration des esprits d'éther",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052342,
@@ -1311,11 +1430,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052717,
+        "name": "Le vent du Nord crée des héros",
+        "desc": "Vaincre Gepard derrière le portail dans la Marche des soldats de l'hiver en difficulté III",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052343,
         "name": "Les sept bugs des mécagrues : la luxure",
         "desc": "Suivre l'élégante mécagrue pour trouver le magazine conservé par la douane",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052718,
+        "name": "Toutes les bonnes choses ont une fin",
+        "desc": "Rendre {TEXTJOIN#54} après la fin du tournoi",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052344,
@@ -1325,11 +1458,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052719,
+        "name": "Nouveau départ",
+        "desc": "Garder {TEXTJOIN#54} après la fin du tournoi",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052345,
         "name": "Les sept bugs des mécagrues : l'avarice",
         "desc": "Explorer la montagne de colis protégée par le Dragon maléfique",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052720,
+        "name": "Premier pas vers l'avenir",
+        "desc": "Rester informé sur le progrès du développement de Belobog.\\n<color=#8790abff>※ Acheter la Parution n° 226 du <i>Mineur hebdo</i></color>",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052346,
@@ -1339,11 +1486,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052721,
+        "name": "Fruit défendu inorganique",
+        "desc": "Obtenir l'élément de lecture « Message de Screwllum »",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052347,
         "name": "Les sept bugs des mécagrues : la colère",
         "desc": "Battre les bandits de grand chemin aux côtés de la preuse mécagrue",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052722,
+        "name": "À la rencontre de l'ourson polaire",
+        "desc": "Interagir chaleureusement avec l'ourson polaire",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052348,
@@ -1353,11 +1514,25 @@
         "version": "1.0"
       },
       {
+        "id": 4052723,
+        "name": "Merci, Pela",
+        "desc": "Aider Fédora avec son pari",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052501,
         "name": "Mordre à l'hameçon",
         "desc": "Découvrir ce qui lie les deux pêcheurs de la Commission de l'artisanat",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052724,
+        "name": "De l'acier et des jouets",
+        "desc": "Remettre la ferraille du chantier à Benjamin",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052502,
@@ -1367,11 +1542,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052725,
+        "name": "De l'acier et des lampadaires",
+        "desc": "Remettre la ferraille du chantier à Pela",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052503,
         "name": "Turbonescence",
         "desc": "Participer 1 fois à l'examen de conduite d'aurumaton",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052726,
+        "name": "Sous les yeux du colosse",
+        "desc": "Sauver votre langue collée à une clôture gelée",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052504,
@@ -1381,11 +1570,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052727,
+        "name": "N'essayez pas ça chez vous",
+        "desc": "Se faire passer un savon (encore) pour avoir cassé le vase",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052505,
         "name": "Novice de la littérature",
         "desc": "Échouer à faire reconnaître vos talents littéraires par le Poète métrique",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052728,
+        "name": "Chaque chose en son temps",
+        "desc": "Gagner une fan invétérée",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052508,
@@ -1395,11 +1598,25 @@
         "version": "1.2"
       },
       {
+        "id": 4052729,
+        "name": "Confession du masque",
+        "desc": "Examiner la bulle mémorielle d'origine inconnue",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4052509,
         "name": "Tout a une fin",
         "desc": "Assister à la fin des Esprits libres",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052730,
+        "name": "Cryordures",
+        "desc": "Trouver des Ordures dans une poubelle gelée",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4052510,
@@ -2285,6 +2502,34 @@
         "desc": "Déclencher l'effet de restauration de PV du talent de Fu Xuan, Coup du sort, 4 fois au cours d'un même combat",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4072701,
+        "name": "Danse martiale : Épreuve de la lance",
+        "desc": "Utiliser Dan Heng pour porter le coup de grâce lors d'une victoire contre Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072702,
+        "name": "Danse martiale...?",
+        "desc": "Utiliser Yanqing pour porter le coup de grâce lors d'une victoire contre Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072703,
+        "name": "Danse martiale : Épreuve de l'âme d'acier",
+        "desc": "Utiliser Jingliu pour porter le coup de grâce lors d'une victoire contre Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072704,
+        "name": "Parmi quatre personnes...",
+        "desc": "Réduire les PV d'un allié à 1 en combat avec Jingliu",
+        "rarity": 1,
+        "version": "1.4"
       }
     ]
   },
@@ -2619,6 +2864,69 @@
         "desc": "Engager le combat en phase d'exploration en attaquant un ennemi à distance avec Natasha",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4082701,
+        "name": "Spammeur en série",
+        "desc": "Gaver le Magoret\\n<color=#8790abff>※ Envoyer beaucoup de messages avec la fenêtre de discussion {TEXTJOIN#54}</color>",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082702,
+        "name": "Fratricide",
+        "desc": "Vaincre un Magoret avec Compti",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082703,
+        "name": "Zéro absolu",
+        "desc": "Utiliser le Pistolet d'évaluation avec Jingliu",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082704,
+        "name": "Pas d'inquiétude",
+        "desc": "Acheter 1 colis non réclamé auprès de Maozhen à Passenuage",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082705,
+        "name": "Tout va bien",
+        "desc": "Tirer un bâtonnet de « bon augure » pour la première fois à l'échoppe de divination",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082706,
+        "name": "Les ténèbres avant l'aube",
+        "desc": "Tirer un bâtonnet de « mauvais augure » pour la première fois à l'échoppe de divination",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082707,
+        "name": "L'oiseau vermillon apporte la richesse",
+        "desc": "Tirer un bâtonnet de « RAS » pour la première fois à l'échoppe de divination",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082708,
+        "name": "Noble et de bon conseil",
+        "desc": "Tirer un bâtonnet de « petit somme » pour la première fois à l'échoppe de divination",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4082709,
+        "name": "Mannequin : Star Rail",
+        "desc": "Terminer 3 combats après avoir utilisé le Mannequin en bois automatique",
+        "rarity": 1,
+        "version": "1.4"
       }
     ]
   },
@@ -2628,14 +2936,14 @@
       {
         "id": 4092635,
         "name": "Les Quatre Cents Coups",
-        "desc": "Utiliser l'ATQ normale au moins 40 fois au cours d'un même combat et remporter la victoire dans le Désastre de l'Essaim",
+        "desc": "Utiliser l'ATQ normale au moins 40 fois au cours d'un même combat et remporter la victoire dans l'Univers simulé",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4092633,
         "name": "Volonté de la ruche",
-        "desc": "Débloquer 12 bénédictions de la Propagation dans l'Univers simulé",
+        "desc": "Débloquer 1 bénédiction de la Propagation dans l'Univers simulé",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2803,7 +3111,7 @@
       {
         "id": 4092623,
         "name": "Chambre du destin",
-        "desc": "Illuminer 1 Sentiers de l'Éclaireur dissimulés dans le Désastre de l'Essaim",
+        "desc": "Illuminer 1 Sentier des Éclaireurs dissimulé dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
       },
@@ -2859,7 +3167,7 @@
       {
         "id": 4092631,
         "name": "Enquêteur de Weyland-Yutani",
-        "desc": "Entrer dans une zone de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim en suivant une Voie autre que la Propagation 20 fois dans le Désastre de l'Essaim",
+        "desc": "Entrer dans une zone de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim en suivant une Voie autre que la Propagation 15 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
       },
