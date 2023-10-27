@@ -3649,6 +3649,180 @@
       ]
     }
   },
+  "topaz-and-numby": {
+    "attack": {
+      "name": "Deficit...",
+      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Topaz's ATK to a single enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Difficulty Paying?",
+      "desc": "Inflicts a single target enemy with a Proof of Debt status, increasing the DMG it takes from <u>follow-up attacks</u> by <span style=\"color: #f29e38ff\">{2}</span>. Proof of Debt only takes effect on the most recent target it is applied to. If there are no enemies inflicted with Proof of Debt on the field when an ally's turn starts or when an ally takes action, Topaz will inflict a random enemy with Proof of Debt.\\nNumby deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Topaz's ATK to this target. Using this Skill to deal DMG is considered as launching a <u>follow-up attack</u>.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Turn a Profit!",
+      "desc": "Numby enters the Windfall Bonanza! state and its DMG multiplier increases by <span style=\"color: #f29e38ff\">{1}</span> and CRIT DMG increases by <span style=\"color: #f29e38ff\">{2}</span>. Also, when enemies with Proof of Debt are hit by an ally's Basic ATK, Skill, or Ultimate, Numby's action is Advanced Forward by {3}. Numby exits the Windfall Bonanza! state after using {4} attacks.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          12,
+          14,
+          15,
+          16,
+          17,
+          19,
+          20,
+          22,
+          23,
+          25,
+          26,
+          27,
+          29,
+          30,
+          31
+        ],
+        [
+          50
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Trotter Market!?",
+      "desc": "Summons Numby at the start of battle. Numby has {1} SPD by default. When taking action, Numby launches <u>follow-up attacks</u> on a single enemy target afflicted with Proof of Debt, dealing Fire DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Topaz's ATK.\\nWhen enemies afflicted with Proof of Debt receive an ally's follow-up attacks, Numby's action is Advanced Forward by {3}. The action Advance Forward effect cannot be triggered during Numby's own turn.\\nWhen Topaz is <u>downed</u>, Numby disappears.",
+      "values": [
+        [
+          80
+        ],
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "After attacking an enemy and entering battle, the enemy target's corresponding Type Toughness will be Weakened.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Explicit Subsidy",
+      "desc": "Summons Numby when Topaz enters the overworld. Numby will automatically search for Basic Treasures and Trotters within a set radius.\\nUsing her Technique will regenerate {1} Energy for Topaz after Numby's first attack in the next battle.\\nIf Topaz is still in the team after using her Technique and defeating overworld enemies, a small bonus amount of credits will be added to the earned credits. A maximum of {2} bonus credits can be received per calendar day.\\nAfter using her Technique and defeating enemies in Simulated Universe, additionally receive a small amount of Cosmic Fragments with a small chance to obtain 1 random Curio.",
+      "values": [
+        [
+          60
+        ],
+        [
+          10000
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "qingque": {
     "attack": {
       "name": "Flower Pick",
@@ -5340,6 +5514,214 @@
         "[i]%",
         "[i]%",
         "[i]"
+      ]
+    }
+  },
+  "guinaifen": {
+    "attack": {
+      "name": "Standing Ovation",
+      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Guinaifen's ATK to a single enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Blazing Welcome",
+      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Guinaifen's ATK to a single enemy and deals Fire DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Guinaifen's ATK to any adjacent enemies with a {3} <u>base chance</u> to Burn the target and adjacent targets. When Burned, enemies will take a Fire DoT equal to <span style=\"color: #f29e38ff\">{4}</span> of Guinaifen's ATK at the beginning of each turn, lasting for {5} turn(s).",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50
+        ],
+        [
+          100
+        ],
+        [
+          84,
+          92,
+          101,
+          109,
+          117,
+          130,
+          147,
+          168,
+          193,
+          218,
+          229,
+          240,
+          251,
+          262,
+          273
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Watch This Showstopper",
+      "desc": "Deals Fire DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Guinaifen's ATK to all enemies. If the target enemy is currently inflicted with Burn, then their Burn status immediately produce DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of their original DMG.",
+      "values": [
+        [
+          72,
+          76.8,
+          81.6,
+          86.4,
+          91.2,
+          96,
+          102,
+          108,
+          114,
+          120,
+          124.8,
+          129.6,
+          134.4,
+          139.2,
+          144
+        ],
+        [
+          72,
+          74,
+          76,
+          78,
+          80,
+          82,
+          85,
+          87,
+          90,
+          92,
+          94,
+          96,
+          98,
+          100,
+          102
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "PatrAeon Benefits",
+      "desc": "When Guinaifen is on the field, there is a {1} <u>base chance</u> to apply Firekiss to an enemy after their Burn status causes DMG. While inflicted with Firekiss, the enemy receives <span style=\"color: #f29e38ff\">{4}</span> increased DMG, which lasts for {5} turn(s) and can stack up to {6} time(s).",
+      "values": [
+        [
+          100
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          4,
+          4.3,
+          4.6,
+          4.9,
+          5.2,
+          5.5,
+          5.9,
+          6.3,
+          6.6,
+          7,
+          7.3,
+          7.6,
+          7.9,
+          8.2,
+          8.5
+        ],
+        [
+          3
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "After attacking an enemy and entering battle, the enemy target's corresponding Type Toughness will be Weakened.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Skill Showcase",
+      "desc": "Immediately attacks the enemy. After entering battle, deals DMG for {2} time(s), dealing Fire DMG equal to {1} of Guinaifen's ATK to a random single enemy target each time, with a {3} <u>base chance</u> of inflicting Firekiss on them.",
+      "values": [
+        [
+          50
+        ],
+        [
+          4
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
       ]
     }
   },

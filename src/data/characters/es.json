@@ -159,6 +159,14 @@
     "rarity": 4,
     "background": "Campeón de lucha del Bajomundo de Belobog y uno de los mejores combatientes de Llamarada.\\nEl varias veces campeón del Club de la Pelea inspira a los niños del Bajomundo con su entusiasmo."
   },
+  "topaz-and-numby": {
+    "id": "topaz-and-numby",
+    "name": "Topaz y Conti",
+    "path": "the-hunt",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Topaz, la experta del Departamento de Inversiones Estratégicas de la Corporación para la Paz Interastral y líder del equipo especial de fiscalización de deudas.\\nEs miembro de los Diez Corazones de Piedra desde muy joven y su especialidad es la recaudación de deudas.\\nSu compañero, un Chanchito Dimensional llamado Conti, es capaz de percibir con agudeza dónde hay riquezas, con lo que los trabajos relacionados con seguridad, cobro de deudas y procesos actuariales no suponen ningún problema.\\nActualmente, viajan juntos por el cosmos investigando diversas deudas y obligaciones que pueden afectar negativamente al desarrollo de los negocios de la Corporación."
+  },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
@@ -230,6 +238,14 @@
     "element": "ice",
     "rarity": 5,
     "background": "Guardaespaldas del general Jing Yuan. A pesar de su corta edad, es un espadachín sin rival.\\nNadie puede vencerle cuando tiene una espada en la mano."
+  },
+  "guinaifen": {
+    "id": "guinaifen",
+    "name": "Guinaifen",
+    "path": "nihility",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Una artista que vive en el Luofu de Xianzhou. Más concretamente, una artista callejera.\\nCuando no está intentando conseguir comida y un techo, persigue una nueva vida en el Luofu."
   },
   "bailu": {
     "id": "bailu",

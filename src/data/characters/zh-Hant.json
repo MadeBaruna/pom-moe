@@ -159,6 +159,14 @@
     "rarity": 4,
     "background": "貝洛伯格下層區的冠軍拳手，「地火」的得力幹將之一。\\n在搏擊俱樂部蟬聯冠軍，以自身的熱情激勵著下層區有夢想的孩子們。"
   },
+  "topaz-and-numby": {
+    "id": "topaz-and-numby",
+    "name": "托帕&帳帳",
+    "path": "the-hunt",
+    "element": "fire",
+    "rarity": 5,
+    "background": "星際和平公司旗下「策略投資部」高級幹部托帕，帶領特殊債務糾察小組。\\n年紀輕輕便已成為「石心十人」之一，基石為「催討黃玉」。\\n搭檔次元撲滿「帳帳」則能敏銳感知「財富」所在，即便是保全、催債、精算等工作也不在話下。\\n如今他們正一同巡行銀河，追究各類影響公司業務展開的債務糾紛。"
+  },
   "qingque": {
     "id": "qingque",
     "name": "青雀",
@@ -230,6 +238,14 @@
     "element": "ice",
     "rarity": 5,
     "background": "將軍景元的侍衛，不過總角之年的御劍天才。\\n手中握劍，即立於不敗之地。"
+  },
+  "guinaifen": {
+    "id": "guinaifen",
+    "name": "桂乃芬",
+    "path": "nihility",
+    "element": "fire",
+    "rarity": 4,
+    "background": "客居仙舟「羅浮」的行為藝術家——或者說，街頭藝人。\\n在三餐溫飽之餘，追逐著自己在羅浮的新生活。"
   },
   "bailu": {
     "id": "bailu",

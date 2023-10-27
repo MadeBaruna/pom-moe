@@ -159,6 +159,14 @@
     "rarity": 4,
     "background": "Võ Sĩ Quyền Anh quán quân khu tầng dưới của Belobog, là một trong những thành viên đắc lực của Lửa Ngầm.\\nQuán quân liên tục của Câu Lạc Bộ Đấu Quyền, dùng sự nhiệt huyết của bản thân để khích lệ những đứa trẻ khu tầng dưới thực hiện khát vọng của riêng mình."
   },
+  "topaz-and-numby": {
+    "id": "topaz-and-numby",
+    "name": "Topaz & Numby",
+    "path": "the-hunt",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Topaz, cán bộ cao cấp của Bộ Đầu Tư Chiến Lược thuộc Công Ty Hành Tinh Hòa Bình, lãnh đạo nhóm theo dõi khoản nợ đặc biệt.\\nTuổi còn trẻ mà đã trở thành một trong \"<unbreak>10</unbreak> người có trái tim đá\", với nền tảng là \"giục trả nợ\".\\nCộng sự Heo Đất Không Gian \"Numby\" lại có thể cảm nhận nhạy bén về sự tồn tại của \"của cải\", ngay cả những việc liên quan đến an ninh, đòi nợ, thống kê v.v... cũng không thành vấn đề.\\nNgày nay họ đang cùng nhau tuần tra ngân hà, theo đuổi các vấn đề tranh chấp nợ nần gây ảnh hưởng đến sự phát triển của công ty."
+  },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
@@ -230,6 +238,14 @@
     "element": "ice",
     "rarity": 5,
     "background": "Thị vệ của tướng quân Jing Yuan, tuy còn trẻ tuổi nhưng đã là một kiếm sĩ tài năng.\\nTay lăm lăm thanh kiếm, bất khả chiến bại."
+  },
+  "guinaifen": {
+    "id": "guinaifen",
+    "name": "Guinaifen",
+    "path": "nihility",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Nghệ sĩ tạm trú ở Xianzhou Luofu, hoặc có thể nói là, nghệ nhân đường phố.\\nSau khi cơm no ba bữa, sẽ theo đuổi cuộc sống mới của mình ở Luofu."
   },
   "bailu": {
     "id": "bailu",

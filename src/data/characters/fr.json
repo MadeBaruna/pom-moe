@@ -159,6 +159,14 @@
     "rarity": 4,
     "background": "Le champion de boxe du Souterrain de Belobog et l'un des meilleurs combattants des Feux sauvages.\\nVainqueur en titre à multiples reprises du Club de combat, son enthousiasme est source d'inspiration pour les enfants du Souterrain qui rêvent de grandeur."
   },
+  "topaz-and-numby": {
+    "id": "topaz-and-numby",
+    "name": "Topaz et Compti",
+    "path": "the-hunt",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Topaz est à la tête de l'équipe de surveillance des dettes spéciales et a un poste haut placé au sein du Département des investissements stratégiques de la Corporation pour la Paix Interastrale.\\nElle a rejoint très jeune les « Dix cœurs de pierre » et se spécialise dans le « recouvrement de dettes ».\\nSon acolyte, le Magoret « Compti », est capable de détecter avec précision où se trouvent les « richesses », ce qui en fait un cador dans les domaines de la sécurité, la récupération de dettes et toutes les activités en rapport avec les finances.\\nIls parcourent ensemble le cosmos à la recherche de tout ce qui pourrait nuire aux affaires de la CPI."
+  },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
@@ -230,6 +238,14 @@
     "element": "ice",
     "rarity": 5,
     "background": "Serviteur du général Jing Yuan. Un épéiste talentueux qui n'a même pas atteint sa majorité.\\nLorsque Yanqing a son épée en main, personne ne lui arrive à la cheville."
+  },
+  "guinaifen": {
+    "id": "guinaifen",
+    "name": "Guinaifen",
+    "path": "nihility",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Une artiste qui fait des spectacles, plus exactement une artiste de rue, en visite à bord du Luofu de Xianzhou.\\nElle cherche à se construire une nouvelle vie à bord du Luofu, lorsqu'elle n'a pas des problèmes pour trouver de la nourriture ou se loger."
   },
   "bailu": {
     "id": "bailu",

@@ -159,6 +159,14 @@
     "rarity": 4,
     "background": "O campeão de boxe do Mundo de Baixo de Belobog e um dos lutadores mais habilidosos da Fogo Vivo.\\nO campeão consecutivo do Clube da Luta, seu entusiasmo inspira as crianças do Mundo de Baixo a sonhar alto."
   },
+  "topaz-and-numby": {
+    "id": "topaz-and-numby",
+    "name": "Topaz e Dinheirinho",
+    "path": "the-hunt",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Topaz é a líder do Grupo de Coleta de Dívidas Especiais e administradora de alto nível do Departamento de Investimento Estratégico sob a Corporação da Paz Interastral.\\nMembro dos \"Dez Corações de Pedra\" desde muito jovem, a especialidade fundamental de Topaz é a \"coleta de dívidas\".\\nSeu parceiro, o Cofrinho Dimensional \"Dinheirinho\", também é capaz de perceber perfeitamente onde \"riquezas\" estão localizadas, garantindo que trabalhos baseados em segurança, coleta de dívidas e variedades atuariais não sejam nenhum desafio.\\nAtualmente, eles viajam juntos pelo cosmos, buscando qualquer disputa de dívidas que possa estar afetando a progressão estável dos negócios da CPI."
+  },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
@@ -230,6 +238,14 @@
     "element": "ice",
     "rarity": 5,
     "background": "Serviçal do general Jing Yuan. Espadachim habilidoso que nem atingiu a maioridade ainda.\\nCom uma espada na mão, Yanqing é invencível."
+  },
+  "guinaifen": {
+    "id": "guinaifen",
+    "name": "Guinaifen",
+    "path": "nihility",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Uma artista visitando o Luofu do Xianzhou. Em outras palavras, uma artista de rua.\\nQuando não está preocupada com comida e abrigo, procura uma vida nova no Luofu."
   },
   "bailu": {
     "id": "bailu",

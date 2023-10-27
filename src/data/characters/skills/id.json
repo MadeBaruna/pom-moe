@@ -3649,6 +3649,180 @@
       ]
     }
   },
+  "topaz-and-numby": {
+    "attack": {
+      "name": "Deficit...",
+      "desc": "Mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Topaz pada 1 musuh yang ditargetkan.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Difficulty Paying?",
+      "desc": "Mengakibatkan 1 musuh yang ditarget memasuki status \"Proof of Debt\" dan mengakibatkan DMG <u>Serangan Lanjutan</u> yang diterima target meningkat <span style=\"color: #f29e38ff\">{2}</span>. \"Proof of Debt\" hanya akan efektif pada target terbaru yang menerima efeknya. Saat giliran rekan tim dimulai atau saat rekan tim beraksi, jika tidak ada target musuh berstatus \"Proof of Debt\" di medan pertempuran, Topaz akan mengakibatkan 1 target musuh secara acak untuk memasuki status \"Proof of Debt\".\\nNumby akan mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Topaz pada target tersebut. Saat melancarkan Skill ini untuk mengakibatkan DMG, akan dianggap sama dengan memicu <u>Serangan Lanjutan</u>.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Turn a Profit!",
+      "desc": "Membuat Numby memasuki status \"Windfall Bonanza!\", meningkatkan <span style=\"color: #f29e38ff\">{1}</span> DMG Multiplier dan <span style=\"color: #f29e38ff\">{2}</span> CRIT DMG. Saat target musuh berstatus \"Proof of Debt\" menerima serangan dari Basic Attack, Skill, atau Ultimate dari rekan tim, aksi Numby akan didahulukan sebesar {3}. Setelah Numby melancarkan {4} kali serangan, Numby akan keluar dari status \"Windfall Bonanza!\".",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          12,
+          14,
+          15,
+          16,
+          17,
+          19,
+          20,
+          22,
+          23,
+          25,
+          26,
+          27,
+          29,
+          30,
+          31
+        ],
+        [
+          50
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Trotter Market!?",
+      "desc": "Memanggil Numby saat pertempuran dimulai. Numby memiliki {1} SPD dasar. Saat beraksi, Numby akan melancarkan <u>Serangan Lanjutan</u> pada 1 musuh yang berstatus \"Proof of Debt\", mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Topaz.\\nSaat target musuh berstatus \"Proof of Debt\" terkena Serangan Lanjutan dari rekan tim, aksi Numby akan didahulukan sebesar {3}. Saat dalam giliran Numby sendiri, efek pendahuluan aksi tidak dapat dipicu.\\nSaat Topaz <u>gugur</u>, Numby akan menghilang.",
+      "values": [
+        [
+          80
+        ],
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Explicit Subsidy",
+      "desc": "Saat Topaz adalah karakter yang digunakan di latar tempat, akan memanggil Numby. Numby akan secara otomatis mencari Peti Harta biasa dan Trotter dalam jangkauan tertentu.\\nMelancarkan Technique akan membuat Topaz memulihkan {1} Energy setelah Numby melancarkan serangan pertamanya pada pertempuran berikutnya.\\nSetelah melancarkan Technique, jika Topaz masih berada dalam tim saat musuh di latar tempat dikalahkan, kamu akan memperoleh Credit tambahan dalam jumlah kecil saat menerima Credit. Setiap hari dalam kalender bumi, kamu hanya dapat menerima maksimal {2} Credit tambahan.\\nSetelah melancarkan Technique dan mengalahkan musuh di Simulated Universe, kamu akan memperoleh Cosmic Fragment tambahan dalam jumlah kecil, serta memiliki peluang kecil untuk memperoleh 1 Benda Langka secara acak.",
+      "values": [
+        [
+          60
+        ],
+        [
+          10000
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "qingque": {
     "attack": {
       "name": "Flower Pick",
@@ -5340,6 +5514,214 @@
         "[i]%",
         "[i]%",
         "[i]"
+      ]
+    }
+  },
+  "guinaifen": {
+    "attack": {
+      "name": "Standing Ovation",
+      "desc": "Mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Guinaifen pada 1 musuh yang ditarget.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Blazing Welcome",
+      "desc": "Mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Guinaifen pada 1 musuh yang ditarget, dan mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Guinaifen pada musuh di sekitar target, memiliki {3} <u>peluang dasar</u> untuk membuat musuh dan target di sekitarnya memasuki status Burn. Target musuh dengan status Burn akan menerima Fire DoT sebesar <span style=\"color: #f29e38ff\">{4}</span> ATK Guinaifen setiap saat gilirannya dimulai selama {5} giliran.",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50
+        ],
+        [
+          100
+        ],
+        [
+          84,
+          92,
+          101,
+          109,
+          117,
+          130,
+          147,
+          168,
+          193,
+          218,
+          229,
+          240,
+          251,
+          262,
+          273
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Watch This Showstopper",
+      "desc": "Mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Guinaifen pada seluruh musuh. Jika target berstatus Burn, maka status Burn tersebut akan segera mengakibatkan DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> DMG awal.",
+      "values": [
+        [
+          72,
+          76.8,
+          81.6,
+          86.4,
+          91.2,
+          96,
+          102,
+          108,
+          114,
+          120,
+          124.8,
+          129.6,
+          134.4,
+          139.2,
+          144
+        ],
+        [
+          72,
+          74,
+          76,
+          78,
+          80,
+          82,
+          85,
+          87,
+          90,
+          92,
+          94,
+          96,
+          98,
+          100,
+          102
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "PatrAeon Benefits",
+      "desc": "Saat Guinaifen berada di medan pertempuran, setelah status Burn yang diterima musuh memicu DMG, musuh tersebut memiliki {1} <u>peluang dasar</u> memasuki status \"Firekiss\". Saat berstatus \"Firekiss\", DMG yang diterima target musuh akan meningkat <span style=\"color: #f29e38ff\">{4}</span> selama {5} giliran. Efek ini dapat ditumpuk hingga {6} lapis.",
+      "values": [
+        [
+          100
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          4,
+          4.3,
+          4.6,
+          4.9,
+          5.2,
+          5.5,
+          5.9,
+          6.3,
+          6.6,
+          7,
+          7.3,
+          7.6,
+          7.9,
+          8.2,
+          8.5
+        ],
+        [
+          3
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Skill Showcase",
+      "desc": "Segera menyerang musuh. Setelah memasuki pertempuran, mengakibatkan {2} kali DMG yang masing-masing mengakibatkan Fire DMG sebesar {1} ATK Guinaifen pada musuh secara acak, serta memiliki {3} <u>Peluang Dasar</u> untuk membuat target memasuki status \"Firekiss\".",
+      "values": [
+        [
+          50
+        ],
+        [
+          4
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
       ]
     }
   },

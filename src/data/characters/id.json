@@ -159,6 +159,14 @@
     "rarity": 4,
     "background": "Petinju juara di Underworld Belobog, salah satu orang paling berbakat di \"Wildfire\".\\nJuara berturut-turut Fight Club, dia menggunakan antusiasmenya untuk memotivasi anak-anak Underworld yang mempunyai mimpi."
   },
+  "topaz-and-numby": {
+    "id": "topaz-and-numby",
+    "name": "Topaz & Numby",
+    "path": "the-hunt",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Topaz adalah manajer tingkat tinggi \"Departemen Investasi Strategis\" di bawah Interastral Peace Corporation, dan juga pemimpin dari Tim Piket Utang Khusus.\\nMenjadi salah satu anggota \"Sepuluh Orang Berhati Batu\" di usia yang muda, bidang keahlian Topaz adalah \"menagih utang\".\\nRekannya, Warp Trotter yang bernama \"Numby\", memiliki kemampuan untuk melihat keberadaan \"orang kaya\". Pekerjaan yang berhubungan dengan keamanan, menagih utang, atau akuntansi tidak akan menjadi masalah.\\nSekarang ini, mereka bersama-sama mengembara di galaksi, menyelidiki berbagai sengketa utang yang memengaruhi jalannya bisnis IPC."
+  },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
@@ -230,6 +238,14 @@
     "element": "ice",
     "rarity": 5,
     "background": "Pengawal Jenderal Jing Yuan, jenius ilmu pedang yang belum dewasa.\\nTidak ada yang bisa mengalahkan Yanqing saat dia menggenggam pedang di tangan."
+  },
+  "guinaifen": {
+    "id": "guinaifen",
+    "name": "Guinaifen",
+    "path": "nihility",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Seorang seniman pertunjukan yang tinggal di Xianzhou \"Luofu\" — atau lebih tepatnya, seniman jalanan.\\nSelain makan tiga kali sehari, mereka mengejar kehidupan baru mereka di Luofu."
   },
   "bailu": {
     "id": "bailu",

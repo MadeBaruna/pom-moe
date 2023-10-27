@@ -3649,6 +3649,180 @@
       ]
     }
   },
+  "topaz-and-numby": {
+    "attack": {
+      "name": "Defizit ...",
+      "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Topaz zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Schwierigkeiten beim Bezahlen?",
+      "desc": "Verursacht bei einem anvisierten Gegner „Schuldennachweis“ und erhöht den erlittenen SCH des Ziels aus <u>Folgeangriffen</u> um <span style=\"color: #f29e38ff\">{2}</span>. Der „Schuldennachweis“ wirkt nur auf das letzte Ziel, auf das er angewendet wird. Wenn sich zu Beginn der Runde eines Verbündeten oder während der Aktion eines Verbündeten keine Gegner mit „Schuldennachweis“ auf dem Feld befinden, verursacht Topaz bei einem zufälligen Gegner „Schuldennachweis“.\\nKontie fügt diesem Ziel Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Topaz zu. Der Einsatz dieser Fertigkeit, um SCH zu verursachen, wird als ein <u>Folgeangriff</u> gewertet.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Vom Verlust zum Gewinn!",
+      "desc": "Kontie tritt in den Status „Erstaunlicher Aufstieg!“ ein. Sein SCH-Multiplikator wird um <span style=\"color: #f29e38ff\">{1}</span> und der KRIT-SCH wird um <span style=\"color: #f29e38ff\">{2}</span> erhöht. Außerdem wird Konties Aktion um {3} vorgezogen, wenn Gegner mit „Schuldennachweis“ von Standardangriff, Fertigkeit oder Ultimate eines Verbündeten getroffen werden. Nachdem Kontie {4}-mal Angriff eingesetzt hat, wird der Status „Erstaunlicher Aufstieg!“ beendet.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          12,
+          14,
+          15,
+          16,
+          17,
+          19,
+          20,
+          22,
+          23,
+          25,
+          26,
+          27,
+          29,
+          30,
+          31
+        ],
+        [
+          50
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Sparschweinmarkt?!",
+      "desc": "Beschwört Kontie zu Beginn des Kampfes. Kontie hat standardmäßig {1} Pkt. GES. Wenn er eine Aktion ausführt, startet Kontie <u>Folgeangriff</u> auf einen Gegner mit „Schuldennachweis“ und verursacht dabei Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des ANG von Topaz.\\nWenn Gegner mit „Schuldennachweis“ Folgeangriffe eines Verbündeten erhalten, wird Konties Aktion um {3} vorgezogen. Der Effekt von Aktionsvorzug kann nicht während Konties eigener Runde ausgelöst werden.\\nWenn Topaz <u>handlungsunfähig</u> ist, verschwindet Kontie.",
+      "values": [
+        [
+          80
+        ],
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Explizite Subvention",
+      "desc": "Beschwört Kontie, wenn Topaz die Karte betritt. Kontie sucht automatisch nach gewöhnlichen Schätzen und Sparschweinen in einer bestimmten Reichweite.\\nNach dem aktiven Einsatz der Technik wird Energie für Topaz nach Konties erstem Angriff im nächsten Kampf um {1} Pkt. wiederhergestellt.\\nNach dem aktiven Einsatz der Technik und dem Besiegen von Gegnern auf der offenen Karte wird zusätzlich eine kleine Menge Credits erhalten, wenn Topaz noch im Team ist. Nur {2} zusätzliche Credits können pro Standardtag erhalten werden.\\nNach dem aktiven Einsatz der Technik und dem Besiegen von Gegnern in der Universum-Simulation wird zusätzlich eine kleine Menge Kosmische Fragmenten erhalten. Außerdem besteht es eine geringe Chance, 1 zufällige Kuriosität zu erhalten.",
+      "values": [
+        [
+          60
+        ],
+        [
+          10000
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "qingque": {
     "attack": {
       "name": "Selbstgezogener Sieg",
@@ -5340,6 +5514,214 @@
         "[i]%",
         "[i]%",
         "[i]"
+      ]
+    }
+  },
+  "guinaifen": {
+    "attack": {
+      "name": "Stehende Ovation",
+      "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Guinaifens ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Herzliche Begrüßung",
+      "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> und angrenzenden Einheiten Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Guinaifens ANG zu. Verursacht beim Ziel und angrenzenden Einheiten mit einer <u>Grundchance</u> von {3} Brennen. Brennende Gegner erleiden für {5} Rd. zu Beginn jeder Runde Feuer-DoT in Höhe von <span style=\"color: #f29e38ff\">{4}</span> von Guinaifens ANG.",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50
+        ],
+        [
+          100
+        ],
+        [
+          84,
+          92,
+          101,
+          109,
+          117,
+          130,
+          147,
+          168,
+          193,
+          218,
+          229,
+          240,
+          251,
+          262,
+          273
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Erstklassige Show",
+      "desc": "Fügt allen Gegnern Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Guinaifens ANG zu. Wenn Ziele von Brennen betroffen sind, verursacht das Brennen sofort SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des ursprünglichen SCH.",
+      "values": [
+        [
+          72,
+          76.8,
+          81.6,
+          86.4,
+          91.2,
+          96,
+          102,
+          108,
+          114,
+          120,
+          124.8,
+          129.6,
+          134.4,
+          139.2,
+          144
+        ],
+        [
+          72,
+          74,
+          76,
+          78,
+          80,
+          82,
+          85,
+          87,
+          90,
+          92,
+          94,
+          96,
+          98,
+          100,
+          102
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Vorteile für Gönner",
+      "desc": "Wenn Guinaifen auf dem Feld ist und der Status von Brennen des Gegners SCH ausgelöst hat, besteht eine <u>Grundchance</u> von {1}, dass bei ihm „Feuer spucken“ verursacht wird. Im Status „Feuer spucken“ erleiden das Ziel für {5} Rd <span style=\"color: #f29e38ff\">{4}</span> mehr SCH, bis {6}-fach stapelbar.",
+      "values": [
+        [
+          100
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          4,
+          4.3,
+          4.6,
+          4.9,
+          5.2,
+          5.5,
+          5.9,
+          6.3,
+          6.6,
+          7,
+          7.3,
+          7.6,
+          7.9,
+          8.2,
+          8.5
+        ],
+        [
+          3
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Demonstration der Fähigkeiten",
+      "desc": "Greift den Gegner unmittelbar an. Verursacht nach Kampfeintritt {2}-mal SCH, wobei jedes Mal einem zufälligen Gegner Feuer-SCH in Höhe von {1} von Guinaifens ANG zugefügt wird und eine <u>Grundchance</u> von {3} hat, „Feuer spucken“ bei ihm zu verursachen.",
+      "values": [
+        [
+          50
+        ],
+        [
+          4
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
       ]
     }
   },

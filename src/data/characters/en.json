@@ -159,6 +159,14 @@
     "rarity": 4,
     "background": "The boxing champion in Belobog's Underworld, and one of Wildfire's most capable fighters.\\nThe consecutive reigning champion of the Fight Club, whose enthusiasm inspires children of the Underworld to dream big."
   },
+  "topaz-and-numby": {
+    "id": "topaz-and-numby",
+    "name": "Topaz and Numby",
+    "path": "the-hunt",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Topaz is the Leader of the Special Debts Picket Team and high-level manager of the Strategic Investment Department under the Interastral Peace Corporation.\\nA member of the \"Ten Stonehearts\" at a young age, Topaz's foundational expertise is \"debt retrieval.\"\\nHer partner, the Warp Trotter \"Numby,\" is also capable of keenly perceiving where \"riches\" are located, ensuring that jobs based in security, debt collection, and actuarial varieties are of no great challenge.\\nAt presently they are traveling the cosmos together, seeking all manner of liability disputes that might be affecting the stable progression of the IPC's businesses."
+  },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
@@ -230,6 +238,14 @@
     "element": "ice",
     "rarity": 5,
     "background": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age.\\nNo one can best Yanqing when he holds a sword in hand."
+  },
+  "guinaifen": {
+    "id": "guinaifen",
+    "name": "Guinaifen",
+    "path": "nihility",
+    "element": "fire",
+    "rarity": 4,
+    "background": "A performance artist visiting the Xianzhou Luofu — in other words, a street performer.\\nShe's chasing a new life on the Luofu when not concerned with food and shelter."
   },
   "bailu": {
     "id": "bailu",

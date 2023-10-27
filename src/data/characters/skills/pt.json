@@ -3649,6 +3649,180 @@
       ]
     }
   },
+  "topaz-and-numby": {
+    "attack": {
+      "name": "Déficit...",
+      "desc": "Causa Dano de Fogo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Topaz a um único inimigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Dificuldade para Pagar?",
+      "desc": "Inflige o status de Prova de Débito a um único inimigo-alvo, aumentando o Dano de <u>Ataques Extras</u> recebido pelo inimigo-alvo em <span style=\"color: #f29e38ff\">{2}</span>. Prova de Débito só entra em efeito no alvo mais recente em que foi aplicado. Caso não existam inimigos afetados com Prova de Débito no campo quando a rodada de um aliado começar, ou quando um aliado agir, Topaz infligirá Prova de Débito a um inimigo aleatório.\\nDinheirinho causa Dano de Fogo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Topaz a este alvo. Usar esta Perícia para causar Dano é considerado realizar um <u>Ataque Extra</u>.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          25,
+          27,
+          30,
+          32,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          58,
+          60,
+          63
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Lucrar!",
+      "desc": "Dinheirinho entra no estado de \"Bonança Inesperada!\", seu multiplicador de Dano aumenta em <span style=\"color: #f29e38ff\">{1}</span> e o Dano CRIT aumenta em <span style=\"color: #f29e38ff\">{2}</span>. Além disso, quando inimigos com Prova de Débito são atingidos por um ATQ Básico, uma Perícia ou uma Perícia Suprema de um aliado, a ação de Dinheirinho é Avançada Adiante em {3}. Dinheirinho sai do estado de \"Bonança Inesperada!\" depois de usar {4} ataques.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          12,
+          14,
+          15,
+          16,
+          17,
+          19,
+          20,
+          22,
+          23,
+          25,
+          26,
+          27,
+          29,
+          30,
+          31
+        ],
+        [
+          50
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Mercado de Cofrinhos?!",
+      "desc": "Invoca Dinheirinho no início da batalha. Dinheirinho tem {1} de VEL por padrão. Ao agir, Dinheirinho realiza <u>Ataques Extras</u> em um único inimigo-alvo afligido com Prova de Débito, causando Dano de Fogo igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Topaz.\\nQuando os inimigos afligidos com Prova de Débito recebem Ataques Extras de um aliado, a ação de Dinheirinho é Avançada Adiante em {3}. O efeito de Avançar Adiante da ação não pode ser ativado durante a rodada do Dinheirinho.\\nQuando Topaz é <u>derrubada</u>, Dinheirinho desaparece.",
+      "values": [
+        [
+          80
+        ],
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Após atacar um inimigo e entrar na batalha, a Tenacidade do Tipo correspondente do inimigo-alvo sofrerá Enfraquecimento.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Subsídio Explícito",
+      "desc": "Invoca Dinheirinho quando Topaz entra no campo. Dinheirinho buscará automaticamente por Tesouros Básicos e Cofrinhos dentro de um certo alcance.\\nUsar sua Técnica regenera {1} de Energia para Topaz após o primeiro ataque de Dinheirinho na próxima batalha.\\nSe Topaz ainda estiver no time quando os inimigos do mapa forem derrotados, uma pequena quantidade de créditos adicionais será adicionada aos créditos obtidos. Um máximo de {2} de créditos adicionais podem ser recebidos a cada dia do calendário.\\nApós usar sua Técnica e derrotar inimigos no Universo Simulado, recebe adicionalmente uma pequena quantidade de Fragmentos Cósmicos com uma pequena chance de obter 1 Curio aleatória.",
+      "values": [
+        [
+          60
+        ],
+        [
+          10000
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "qingque": {
     "attack": {
       "name": "Colher Flores",
@@ -5340,6 +5514,214 @@
         "[i]%",
         "[i]%",
         "[i]"
+      ]
+    }
+  },
+  "guinaifen": {
+    "attack": {
+      "name": "Chuva de Aplausos",
+      "desc": "Causa Dano de Fogo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Guinaifen a um único inimigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Recepção Escaldante",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Guinaifen como Dano de Fogo a um único inimigo, além de <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Guinaifen como Dano de Fogo a inimigos adjacentes, com {3} de <u>chance-base</u> de infligir Queimadura no alvo e alvos adjacentes. Enquanto estiverem afligidos com Queimadura, inimigos recebem <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Guinaifen como um Dano de Fogo Contínuo no início de cada rodada, com duração de {5} rodada(s).",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          35,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50
+        ],
+        [
+          100
+        ],
+        [
+          84,
+          92,
+          101,
+          109,
+          117,
+          130,
+          147,
+          168,
+          193,
+          218,
+          229,
+          240,
+          251,
+          262,
+          273
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Se Liga Nisso",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Guinaifen como Dano de Fogo a todos os inimigos. Se o inimigo-alvo já estiver com Queimadura no momento, o estado de Queimadura produz imediatamente <span style=\"color: #f29e38ff\">{2}</span> do seu Dano original.",
+      "values": [
+        [
+          72,
+          76.8,
+          81.6,
+          86.4,
+          91.2,
+          96,
+          102,
+          108,
+          114,
+          120,
+          124.8,
+          129.6,
+          134.4,
+          139.2,
+          144
+        ],
+        [
+          72,
+          74,
+          76,
+          78,
+          80,
+          82,
+          85,
+          87,
+          90,
+          92,
+          94,
+          96,
+          98,
+          100,
+          102
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Benefícios do PatrAeon",
+      "desc": "Quando Guinaifen estiver em campo, há {1} de <u>chance-base</u> de aplicar Beijo de Fogo em um inimigo após seu estado de Queimadura causar Dano. Enquanto estiver afligido com Beijo de Fogo, o inimigo recebe <span style=\"color: #f29e38ff\">{4}</span> a mais de Dano por {5} rodada(s), podendo acumular até {6} vez(es).",
+      "values": [
+        [
+          100
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          4,
+          4.3,
+          4.6,
+          4.9,
+          5.2,
+          5.5,
+          5.9,
+          6.3,
+          6.6,
+          7,
+          7.3,
+          7.6,
+          7.9,
+          8.2,
+          8.5
+        ],
+        [
+          3
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Após atacar um inimigo e entrar na batalha, o Tipo de Tenacidade do inimigo-alvo sofrerá Enfraquecimento.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Demonstração de Habilidades",
+      "desc": "Ataca o inimigo imediatamente. Depois de entrar na batalha, causa Dano {2} vez(es), causando {1} do ATQ de Guinaifen como Dano de Fogo a um único inimigo-alvo aleatório a cada vez, com uma <u>chance-base</u> de {3} de infligir Beijo de Fogo a ele.",
+      "values": [
+        [
+          50
+        ],
+        [
+          4
+        ],
+        [
+          100
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%"
       ]
     }
   },

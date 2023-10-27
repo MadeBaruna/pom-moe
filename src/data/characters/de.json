@@ -159,6 +159,14 @@
     "rarity": 4,
     "background": "Der Boxchampion von Belobogs Unterwelt und einer der fähigsten Kämpfer von Wildfeuer.\\nDer mehrjährige Champion des Fight Clubs beflügelt mit seinem Enthusiasmus die Träume der Kinder der Unterwelt."
   },
+  "topaz-and-numby": {
+    "id": "topaz-and-numby",
+    "name": "Topaz und Kontie",
+    "path": "the-hunt",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Topaz, eine hochrangige Führungskraft in der Abteilung für strategische Investitionen der Interastralen Friedenskorporation und Leiterin des Teams zur Überwachung besonderer Schulden.\\nTopaz ist trotz ihres jungen Alters bereits eine der „Zehn Steinherzen“. Ihr Kernstein ist der „Topas der Schuldeneintreibung“.\\nIhr Partner, das Warp-Sparschwein „Kontie“, kann sogar Aufgaben erledigen, die mit dem Eintreiben von Schulden, Wertpapieren und Versicherungswissenschaften zu tun haben.\\nGegenwärtig bereisen sie gemeinsam den Kosmos, um Schulden und Passiva nachzujagen, die sich negativ auf die unternehmerischen Vorhaben der IFK auswirken."
+  },
   "qingque": {
     "id": "qingque",
     "name": "Qingque",
@@ -230,6 +238,14 @@
     "element": "ice",
     "rarity": 5,
     "background": "General Jing Yuans Dienstmann. Ein begabter Schwertkämpfer, der noch nicht einmal volljährig ist.\\nWenn Yanqing ein Schwert in der Hand hat, ist er unbezwingbar."
+  },
+  "guinaifen": {
+    "id": "guinaifen",
+    "name": "Guinaifen",
+    "path": "nihility",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Eine Performance-Künstlerin, die die Xianzhou Luofu besucht. Mit anderen Worten, eine Straßenkünstlerin.\\nSie sucht ein neues Leben auf der Luofu, wenn sie sich nicht um Essen und Unterkunft kümmert."
   },
   "bailu": {
     "id": "bailu",
