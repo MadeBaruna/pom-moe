@@ -170,7 +170,36 @@ export const banners: Banners = {
 			pos: '70% 20%',
 			zoom: 1.2,
 			featured5: ['jingliu'],
-			featured4: ['tingyun', 'qingque', 'sampo']
+			featured4: ['tingyun', 'qingque', 'sampo'],
+			timezoneDependent: true
+		},
+		{
+			code: 2012,
+			type: 'character',
+			name: 'Sunset Clause',
+			start: '2023-10-27 12:00:00',
+			end: '2023-11-14 14:59:00',
+			color: '#c1c4f8',
+			version: '1.4',
+			image: 'Sunset Clause 2012.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['topaz-and-numby'],
+			featured4: ['guinaifen', 'luka', 'sushang']
+		},
+		{
+			code: 2013,
+			type: 'character',
+			name: 'Butterfly on Swordtip',
+			start: '2023-10-27 12:00:00',
+			end: '2023-11-14 14:59:00',
+			color: '#dfb6ff',
+			version: '1.4',
+			image: 'Butterfly on Swordtip 2013.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['seele'],
+			featured4: ['guinaifen', 'luka', 'sushang']
 		}
 	],
 	lightcone: [
@@ -230,8 +259,7 @@ export const banners: Banners = {
 			pos: '70% 8%',
 			zoom: 1.2,
 			featured5: ['echoes-of-the-coffin'],
-			featured4: ['good-night-and-sleep-well', 'geniuses-repose', 'dance-dance-dance'],
-			timezoneDependent: true
+			featured4: ['good-night-and-sleep-well', 'geniuses-repose', 'dance-dance-dance']
 		},
 		{
 			code: 3007,
@@ -245,7 +273,8 @@ export const banners: Banners = {
 			pos: '70% 8%',
 			zoom: 1.2,
 			featured5: ['the-unreachable-side'],
-			featured4: ['a-secret-vow', 'shared-feeling', 'swordplay']
+			featured4: ['a-secret-vow', 'shared-feeling', 'swordplay'],
+			timezoneDependent: true
 		},
 		{
 			code: 3008,
@@ -277,7 +306,8 @@ export const banners: Banners = {
 			pos: '70% 0%',
 			zoom: 1.2,
 			featured5: ['brighter-than-the-sun'],
-			featured4: ['dance-dance-dance', 'planetary-rendezvous', 'landaus-choice']
+			featured4: ['dance-dance-dance', 'planetary-rendezvous', 'landaus-choice'],
+			timezoneDependent: true
 		},
 		{
 			code: 3010,
@@ -305,7 +335,44 @@ export const banners: Banners = {
 			pos: '70% 0%',
 			zoom: 1.2,
 			featured5: ['i-shall-be-my-own-sword'],
-			featured4: ['memories-of-the-past', 'make-the-world-clamor', 'eyes-of-the-prey']
+			featured4: ['memories-of-the-past', 'make-the-world-clamor', 'eyes-of-the-prey'],
+			timezoneDependent: true
+		},
+		{
+			code: 3012,
+			type: 'character',
+			name: 'Brilliant Fixation',
+			start: '2023-10-27 12:00:00',
+			end: '2023-11-14 14:59:00',
+			color: '#f7f6fd',
+			version: '1.4',
+			image: 'Brilliant Fixation 3012.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['worrisome-blissful'],
+			featured4: [
+				'the-moles-welcome-you',
+				'resolution-shines-as-pearls-of-sweat',
+				'only-silence-remains'
+			]
+		},
+		{
+			code: 3013,
+			type: 'character',
+			name: 'Bygone Reminiscence',
+			start: '2023-10-27 12:00:00',
+			end: '2023-11-14 14:59:00',
+			color: '#f7f6fd',
+			version: '1.4',
+			image: 'Bygone Reminiscence 3013.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['in-the-night'],
+			featured4: [
+				'the-moles-welcome-you',
+				'resolution-shines-as-pearls-of-sweat',
+				'only-silence-remains'
+			]
 		}
 	],
 	standard: [
