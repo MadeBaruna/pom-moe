@@ -3,6 +3,19 @@ import type { Timeline } from '$types';
 const timeline: Array<Timeline[]> = [
 	[
 		{
+			name: 'Realm of the Strange',
+			start: '2023-11-03 04:00:00',
+			end: '2023-11-10 03:59:00',
+			image: 'Realm of the Strange.png',
+			color: '#729de6',
+			pos: '30%, -30%',
+			zoom: 1.2,
+			url: 'https://www.hoyolab.com/article/22522972',
+			show: true
+		}
+	],
+	[
+		{
 			name: 'Planar Fissure',
 			start: '2023-09-15 04:00:00',
 			end: '2023-09-22 03:59:00',
@@ -33,6 +46,17 @@ const timeline: Array<Timeline[]> = [
 			pos: '30%, -40%',
 			zoom: 1.2,
 			url: 'https://www.hoyolab.com/article/22183093',
+			show: true
+		},
+		{
+			name: 'Planar Infinity',
+			start: '2023-10-27 12:00:00',
+			end: '2023-11-13 03:59:00',
+			image: 'Planar Infinity.png',
+			color: '#bd98f1',
+			pos: '30%, -30%',
+			zoom: 1.2,
+			url: 'https://www.hoyolab.com/article/22556498',
 			show: true
 		}
 	],
@@ -70,7 +94,20 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/22227545',
 			timezoneDependent: true,
 			show: true
-		},
+		}
+	],
+	[
+		{
+			name: 'Butterfly on Swordtip - Seele Warp Event',
+			start: '2023-10-27 12:00:00',
+			end: '2023-11-14 14:59:00',
+			image: 'Butterfly on Swordtip 2013.jpg',
+			color: '#dfb6ff',
+			pos: '5%, -5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/22556268',
+			show: true
+		}
 	],
 	[
 		{
@@ -106,6 +143,17 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/22226154',
 			timezoneDependent: true,
+			show: true
+		},
+		{
+			name: 'Sunset Clause - Topaz & Numby Warp Event',
+			start: '2023-10-27 12:00:00',
+			end: '2023-11-14 14:59:00',
+			image: 'Sunset Clause 2012.jpg',
+			color: '#c1c4f8',
+			pos: '5%, 3%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/22556268',
 			show: true
 		}
 	],
@@ -144,6 +192,30 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/22226154',
 			timezoneDependent: true,
+			show: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2023-10-27 12:00:00',
+			end: '2023-11-14 14:59:00',
+			image: 'Brilliant Fixation 3012.jpg',
+			color: '#f7f6fd',
+			pos: '0%, 5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/22556268',
+			show: true
+		}
+	],
+	[
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2023-10-27 12:00:00',
+			end: '2023-11-14 14:59:00',
+			image: 'Bygone Reminiscence 3013.jpg',
+			color: '#dfb6ff',
+			pos: '0%, 5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/22556268',
 			show: true
 		}
 	],
