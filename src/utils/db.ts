@@ -89,3 +89,23 @@ export async function exportAll() {
 
 	return data;
 }
+
+export async function importDb(data: object, dbname: string = 'default',) {
+	const currentDb = new Database(dbname);
+	const tables = currentDb.tables;
+
+	for (const table of tables) {
+		await table.clear();
+	}
+
+	for (const [key, entry] of Object.entries(data[dbname])) {
+		let table = currentDb[key];
+
+		for (const tableItem of entry) {
+			table.put(tableItem);
+			// throw new Error();
+		}
+	}
+
+	alert('Import finished!');
+}

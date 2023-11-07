@@ -3,15 +3,18 @@
 	import Select from '$components/Select.svelte';
 	import Title from '$components/Title.svelte';
 	import type { Option } from '$types';
-	import { db, exportAll } from '$utils/db';
+	import { db, exportAll, importDb } from '$utils/db';
 	import { getCurrentProfile, getProfiles } from '$utils/profile';
 	import dayjs from 'dayjs';
 	import { onMount } from 'svelte';
 	import DownloadIcon from '@iconify-icons/mdi/download';
+	import UploadIcon from '@iconify-icons/mdi/upload';
 	import Icon from '@iconify/svelte';
 
 	let currentProfile: Option<string> = { value: 'default', label: 'default' };
 	let profiles: Option<string>[] = [currentProfile];
+	let fileInput : HTMLInputElement;
+	let files : null|FileList = null;
 
 	let servers: Option<number>[] = [
 		{ value: 8, label: 'Asia / China' },
@@ -36,6 +39,29 @@
 		const data = await exportAll();
 		const name = `pom-moe-export-${dayjs().format('YYYYMMDD')}`;
 		downloadData(JSON.stringify(data), name);
+	}
+
+	async function importData() {
+		const reader = new FileReader();
+
+		reader.onload = async (e) => {
+			if (e.target) {
+				try {
+					var dataObj = JSON.parse(e.target.result as string);
+					importDb(dataObj);
+				} catch ({errName, message}) {
+					if (errName === 'SyntaxError') {
+						alert('Import failed! Invalid Filetype or corrupted content!');
+					}
+				}
+			}
+		}
+
+		if (files) {
+			reader.readAsText(files[0]);
+		} else {
+			alert('Import failed!');
+		}
 	}
 
 	function changeServer() {
@@ -82,5 +108,15 @@
 		<Button on:click={exportData} class="text-lg"
 			><Icon class="mr-2" icon={DownloadIcon} /> Download Data</Button
 		>
+		<br>
+		<Button on:click={() => fileInput.click()} class="text-lg mt-4"
+		><Icon class="mr-2" icon={UploadIcon}/>{files !== null && files[0] ? files[0].name : "Restore Data (*.json file)"}</Button
+		>
+		<br>
+		{#if files !== null && files[0]}
+			<Button on:click={importData} class="mt-4">Continue</Button>
+		{/if}
+		<p class="text-red-400 mb-2 mt-4">Remember to backup your data by exporting first! All data will be replaced!</p>
+		<input bind:this={fileInput} bind:files type="file" class="hidden" accept="application/json"/>
 	</div>
 </div>
