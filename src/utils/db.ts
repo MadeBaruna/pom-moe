@@ -103,7 +103,6 @@ export async function importDb(data: object, dbname: string = 'default',) {
 
 		for (const tableItem of entry) {
 			table.put(tableItem);
-			// throw new Error();
 		}
 	}
 
