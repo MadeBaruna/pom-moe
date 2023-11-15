@@ -593,19 +593,19 @@
         ],
         [
           32,
-          33,
-          34,
-          34,
-          35,
+          32.8,
+          33.6,
+          34.4,
+          35.2,
           36,
           37,
           38,
           39,
           40,
-          41,
-          42,
-          42,
-          43,
+          40.8,
+          41.6,
+          42.4,
+          43.2,
           44
         ],
         [
@@ -617,7 +617,7 @@
       ],
       "format": [
         "[i]%",
-        "[i]%",
+        "[f1]%",
         "[i]%",
         "[i]%"
       ]
@@ -3649,7 +3649,7 @@
       ]
     }
   },
-  "topaz-and-numby": {
+  "topaz-numby": {
     "attack": {
       "name": "Mức Thâm Hụt...",
       "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Topaz.",
@@ -5019,20 +5019,20 @@
         ],
         [
           21,
-          22,
-          22,
-          23,
-          24,
-          24,
-          25,
-          26,
-          27,
+          21.7,
+          22.4,
+          23.1,
+          23.8,
+          24.5,
+          25.4,
+          26.3,
+          27.1,
           28,
-          29,
-          29,
-          30,
-          31,
-          31
+          28.7,
+          29.4,
+          30.1,
+          30.8,
+          31.5
         ],
         [
           39,
@@ -5054,7 +5054,7 @@
       ],
       "format": [
         "[i]%",
-        "[i]%",
+        "[f1]%",
         "[i]%"
       ]
     },
@@ -5848,7 +5848,7 @@
     },
     "talent": {
       "name": "Hành Y Giúp Đời",
-      "desc": "Mục tiêu phe ta có \"Sinh Mệnh\", sau khi bị tấn công sẽ hồi lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{2}</span>, hiệu ứng này có thể kích hoạt {5} lần.\\nKhi đồng đội của Bailu chịu tấn công chí tử, sẽ không rơi vào <u>trạng thái không thể chiến đấu</u>, Bailu sẽ trị liệu ngay cho mục tiêu đó, hồi HP bằng <span style=\"color: #f29e38ff\">{3}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{4}</span>. Hiệu ứng này có thể kích hoạt 1 lần trong 1 trận.",
+      "desc": "Mục tiêu phe ta có \"Sinh Mệnh\", sau khi bị tấn công sẽ hồi lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{2}</span>, hiệu ứng này có thể kích hoạt {5} lần.\\nKhi đồng đội của Bailu chịu tấn công chí tử, sẽ không rơi vào <u>trạng thái không thể chiến đấu</u>, Bailu sẽ trị liệu ngay cho đồng đội đó, hồi HP bằng <span style=\"color: #f29e38ff\">{3}</span> Giới Hạn HP của Bailu +<span style=\"color: #f29e38ff\">{4}</span>. Hiệu ứng này có thể kích hoạt 1 lần trong 1 trận.",
       "values": [
         [
           3.6,
@@ -5886,19 +5886,19 @@
         ],
         [
           12,
-          13,
-          13,
-          14,
+          12.7,
+          13.5,
+          14.3,
           15,
-          16,
-          16,
-          17,
-          17,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
           18,
-          19,
-          19,
-          20,
-          20,
+          18.6,
+          19.2,
+          19.8,
+          20.4,
           21
         ],
         [
@@ -5925,7 +5925,7 @@
       "format": [
         "[f1]%",
         "[i]",
-        "[i]%",
+        "[f1]%",
         "[i]",
         "[i]"
       ]
@@ -6001,7 +6001,7 @@
       ]
     },
     "ultimate": {
-      "name": "Phù Hoa Sinh Diệt, Thiên Hà Dệt Mộng",
+      "name": "Đàm Hoa Sinh Diệt, Thiên Hà Dệt Mộng",
       "desc": "Gây cho 1 kẻ địch chỉ định Sát Thương Băng bằng <span style=\"color: #f29e38ff\">{1}</span> tấn công của Jingliu, đồng thời gây cho các mục tiêu gần đó Sát Thương Băng bằng <span style=\"color: #f29e38ff\">{3}</span> tấn công của Jingliu. Sau khi tấn công kết thúc sẽ nhận {2} tầng Sóc Vọng.",
       "values": [
         [
@@ -6392,6 +6392,254 @@
       "format": [
         "[i]%",
         "[i]%"
+      ]
+    }
+  },
+  "huohuo": {
+    "attack": {
+      "name": "Cờ Lệnh - Hô Mưa Gọi Gió",
+      "desc": "Gây cho 1 kẻ địch chỉ định Sát Thương Phong bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Huohuo.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Linh Phù - Hộ Thân",
+      "desc": "Giải trừ {5} <u>Hiệu Ứng Xấu</u> cho 1 đồng đội chỉ định, lập tức hồi phục cho 1 đồng đội chỉ định một lượng HP bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn HP của Huohuo +<span style=\"color: #f29e38ff\">{2}</span>, đồng thời hồi phục cho mục tiêu ở gần một lượng HP bằng <span style=\"color: #f29e38ff\">{3}</span> Giới Hạn HP của Huohuo +<span style=\"color: #f29e38ff\">{4}</span>.",
+      "values": [
+        [
+          14,
+          14.9,
+          15.7,
+          16.6,
+          17.5,
+          18.2,
+          18.9,
+          19.6,
+          20.3,
+          21,
+          21.7,
+          22.4,
+          23.1,
+          23.8,
+          24.5
+        ],
+        [
+          140,
+          224,
+          287,
+          350,
+          392,
+          434,
+          466,
+          497,
+          529,
+          560,
+          592,
+          623,
+          655,
+          686,
+          718
+        ],
+        [
+          11.2,
+          11.9,
+          12.6,
+          13.3,
+          14,
+          14.6,
+          15.1,
+          15.7,
+          16.2,
+          16.8,
+          17.4,
+          17.9,
+          18.5,
+          19,
+          19.6
+        ],
+        [
+          112,
+          179,
+          230,
+          280,
+          314,
+          347,
+          372,
+          398,
+          423,
+          448,
+          473,
+          498,
+          524,
+          549,
+          574
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Lão Đuôi - Chế Ngự Tâm Linh",
+      "desc": "Hồi phục Năng Lượng cho đồng đội ngoài bản thân bằng <span style=\"color: #f29e38ff\">{1}</span> Giới Hạn Năng Lượng của mỗi người, đồng thời tăng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công cho người này, duy trì {3} hiệp.",
+      "values": [
+        [
+          15,
+          15.5,
+          16,
+          16.5,
+          17,
+          17.5,
+          18.1,
+          18.8,
+          19.4,
+          20,
+          20.5,
+          21,
+          21.5,
+          22,
+          22.5
+        ],
+        [
+          24,
+          25.6,
+          27.2,
+          28.8,
+          30.4,
+          32,
+          34,
+          36,
+          38,
+          40,
+          41.6,
+          43.2,
+          44.8,
+          46.4,
+          48
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Nhập Thể - Kết Nối Siêu Hình",
+      "desc": "Sau khi thi triển Chiến Kỹ, Huohuo nhận Cầu Mệnh, duy trì {1} hiệp, mỗi khi Huohuo bắt đầu hiệp, số hiệp duy trì giảm 1. Khi Huohuo có Cầu Mệnh, và mục tiêu phe ta bắt đầu hiệp hoặc dùng Tuyệt Kỹ, sẽ hồi HP bằng <span style=\"color: #f29e38ff\">{3}</span> Giới Hạn HP của Huohuo +<span style=\"color: #f29e38ff\">{5}</span> cho bản thân, đồng thời sinh ra 1 lần hiệu ứng hồi phục cho mỗi một mục tiêu phe ta có phần trăm HP hiện tại từ {6} trở xuống.\\nKhi kích hoạt Cầu Mệnh trị liệu cho mục tiêu phe ta, sẽ giải trừ {2} <u>Hiệu Ứng Xấu</u> của mục tiêu này, hiệu ứng này có thể kích hoạt {7} lần, sau khi thi triển Chiến Kỹ lần nữa sẽ làm mới số lần kích hoạt hiệu ứng.",
+      "values": [
+        [
+          2
+        ],
+        [
+          1
+        ],
+        [
+          3,
+          3.2,
+          3.4,
+          3.6,
+          3.7,
+          3.9,
+          4.1,
+          4.2,
+          4.4,
+          4.5,
+          4.6,
+          4.8,
+          4.9,
+          5.1,
+          5.3
+        ],
+        [
+          0
+        ],
+        [
+          30,
+          48,
+          62,
+          75,
+          84,
+          93,
+          100,
+          107,
+          113,
+          120,
+          127,
+          134,
+          140,
+          147,
+          154
+        ],
+        [
+          50
+        ],
+        [
+          6
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[f1]%",
+        "",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm sức bền thuộc tính tương ứng của kẻ địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Hung Sát - Trấn Áp Yêu Tà",
+      "desc": "Huohuo hù dọa kẻ địch xung quanh, khiến kẻ địch rơi vào trạng thái \"Phách Tán\". Kẻ địch ở trạng thái \"Phách Tán\" sẽ trốn chạy thật xa khỏi Huohuo, duy trì {4} giây. Sau khi vào chiến đấu với kẻ địch ở trạng thái \"Phách Tán\", có {1} <u>xác suất cơ bản</u> giảm {2} Tấn Công của mỗi một kẻ địch, duy trì {3} hiệp.",
+      "values": [
+        [
+          100
+        ],
+        [
+          25
+        ],
+        [
+          2
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
       ]
     }
   },

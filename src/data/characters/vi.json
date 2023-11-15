@@ -159,8 +159,8 @@
     "rarity": 4,
     "background": "Võ Sĩ Quyền Anh quán quân khu tầng dưới của Belobog, là một trong những thành viên đắc lực của Lửa Ngầm.\\nQuán quân liên tục của Câu Lạc Bộ Đấu Quyền, dùng sự nhiệt huyết của bản thân để khích lệ những đứa trẻ khu tầng dưới thực hiện khát vọng của riêng mình."
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
+  "topaz-numby": {
+    "id": "topaz-numby",
     "name": "Topaz & Numby",
     "path": "the-hunt",
     "element": "fire",
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "Nguyên trạng thật sự của Dan Heng tộc Vidyadhara, mang trên người sức mạnh Ẩm Nguyệt Quân để lại.\\nKhi tiếp nhận chiếc sừng uy nghiêm trên đỉnh trán, anh ấy phải tiếp nhận tất cả công và tội một đời của tội nhân này."
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "Huohuo",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Phán Quan thực tập của Sở Thập Vương Xianzhou Luofu, bé gái Người Hồ Ly bị Tuế Dương nhập.\\nTính cách nhút nhát, yếu đuối, sợ hãi trước những sự việc quái dị, nhưng lại gánh trọng trách dụ dỗ và trấn áp tà ma."
   },
   "trailblazer": {
     "id": "trailblazer",

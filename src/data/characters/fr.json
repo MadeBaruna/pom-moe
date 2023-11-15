@@ -45,7 +45,7 @@
     "path": "nihility",
     "element": "quantum",
     "rarity": 5,
-    "background": "Membre des Chasseurs de Stellaron et hackeuse hors pair.\\nElle considère l'univers comme un jeu de simulation immersive grandeur nature qui l'amuse.\\nElle manie à la perfection l'« Édition d'éther », une compétence qui altère les données de la réalité."
+    "background": "Membre des Chasseurs de Stellaron et hackeuse hors pair.\\nElle considère l'univers comme un jeu de simulation immersive grandeur nature qui l'amuse.\\nElle manie à la perfection l'« édition d'éther », une compétence qui altère les données de la réalité."
   },
   "arlan": {
     "id": "arlan",
@@ -159,8 +159,8 @@
     "rarity": 4,
     "background": "Le champion de boxe du Souterrain de Belobog et l'un des meilleurs combattants des Feux sauvages.\\nVainqueur en titre à multiples reprises du Club de combat, son enthousiasme est source d'inspiration pour les enfants du Souterrain qui rêvent de grandeur."
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
+  "topaz-numby": {
+    "id": "topaz-numby",
     "name": "Topaz et Compti",
     "path": "the-hunt",
     "element": "fire",
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "La forme originelle de Dan Heng, reflet de son héritage vidyadharien, déploie la puissance résiduelle de son incarnation passée : l'Imbibitor Lunae.\\nEn acceptant les majestueuses cornes qui habillent son crâne, Dan Heng doit accepter tous les mérites et toutes les fautes attribués à ce pécheur."
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "Huohuo",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Juge en formation de la Commission des dix seigneurs du Luofu possédée par un Héliobe.\\nJeune Foxienne timide et craintive, elle assume la responsabilité difficile de capturer les mauvais esprits malgré sa peur des phénomènes étranges."
   },
   "trailblazer": {
     "id": "trailblazer",

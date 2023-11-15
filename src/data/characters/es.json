@@ -159,8 +159,8 @@
     "rarity": 4,
     "background": "Campeón de lucha del Bajomundo de Belobog y uno de los mejores combatientes de Llamarada.\\nEl varias veces campeón del Club de la Pelea inspira a los niños del Bajomundo con su entusiasmo."
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
+  "topaz-numby": {
+    "id": "topaz-numby",
     "name": "Topaz y Conti",
     "path": "the-hunt",
     "element": "fire",
@@ -261,7 +261,7 @@
     "path": "destruction",
     "element": "ice",
     "rarity": 5,
-    "background": "Antigua maestra de espadas del Luofu y fundadora de los intachables Nimbocaballeros.\\nEn la actualidad, su nombre se ha borrado de todos los registros y se ha convertido en una traidora a Xianzhou que camina entre los poseídos por Mara."
+    "background": "Antigua maestra de espadas del Luofu y responsable de la reputación de invencibilidad de los Nimbocaballeros.\\nEn la actualidad, su nombre se ha borrado de todos los registros y se ha convertido en una traidora a Xianzhou que camina por la delgada línea que hay entre la cordura y la posesión por Mara."
   },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "La forma original vidyadhara de Dan Heng contiene el poder que queda de su vida anterior como Imbibitor Lunae.\\nAl aceptar la majestuosa corona de astas, también tiene que adoptar todos los méritos y las faltas atribuidos a ese pecador."
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "Huohuo",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Jueza en práctica de la Comisión de los Diez Líderes del Luofu de Xianzhou. Es una joven raposiana poseída por un heliobus.\\nTímida y débil. Le tiene miedo a todo tipo de cosas extrañas, pero es la encargada de someter a los espíritus malignos."
   },
   "trailblazer": {
     "id": "trailblazer",

@@ -159,8 +159,8 @@
     "rarity": 4,
     "background": "ベロブルグ下層部のボクシングチャンピオン、「地炎」の中堅メンバーの一人。\\nファイトクラブの王座保持者。その熱情で下層部の夢ある子どもたちを励ましてきた。"
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
+  "topaz-numby": {
+    "id": "topaz-numby",
     "name": "トパーズ&カブ",
     "path": "the-hunt",
     "element": "fire",
@@ -245,7 +245,7 @@
     "path": "nihility",
     "element": "fire",
     "rarity": 4,
-    "background": "仙舟「羅浮」に滞在するパフォーマンスアーティスト——あるいは、大道芸人。\\n衣食住を賄うついでに、羅浮での新生活を追っている。"
+    "background": "仙舟「羅浮」に滞在するパフォーマンスアーティスト——あるいは、大道芸人。\\n衣食住を賄うついでに、羅浮での新生活を送っている。"
   },
   "bailu": {
     "id": "bailu",
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "持明族としての丹恒の本相、その前世である「飲月君」が残した力。\\n崢嶸たる角冠を受け継いだ以上、咎人の功罪をすべて受け継がなければならない。"
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "フォフォ",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "仙舟「羅浮」の十王司見習い判官。歳陽に取り憑かれた狐族の少女。\\n怪異を恐れる臆病で不憫な女の子だが、邪悪なるものを捕える責任を担っている。"
   },
   "trailblazer": {
     "id": "trailblazer",

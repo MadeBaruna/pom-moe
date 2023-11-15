@@ -159,8 +159,8 @@
     "rarity": 4,
     "background": "O campeão de boxe do Mundo de Baixo de Belobog e um dos lutadores mais habilidosos da Fogo Vivo.\\nO campeão consecutivo do Clube da Luta, seu entusiasmo inspira as crianças do Mundo de Baixo a sonhar alto."
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
+  "topaz-numby": {
+    "id": "topaz-numby",
     "name": "Topaz e Dinheirinho",
     "path": "the-hunt",
     "element": "fire",
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "A forma verdadeira de Dan Heng de sua linhagem Vidyadhara carrega o poder residual deixado pela sua encarnação passada, o Embebidor Lunae.\\nAo aceitar os majestosos chifres sobre sua coroa, ele deve aceitar todos os méritos e falhas atribuídos a esse pecador."
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "Huohuo",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Juíza novata da Comissão dos Dez Senhores do Luofu do Xianzhou, ela é uma garota Vulpe possuída por um Heliobus.\\nÉ uma menina tímida e fraca que tem medo de tudo que é estranho, mas é responsável por atrair e subjugar espíritos malignos."
   },
   "trailblazer": {
     "id": "trailblazer",

@@ -3,15 +3,20 @@
 	import Select from '$components/Select.svelte';
 	import Title from '$components/Title.svelte';
 	import type { Option } from '$types';
-	import { db, exportAll } from '$utils/db';
+	import { db, exportAll, importAll } from '$utils/db';
 	import { getCurrentProfile, getProfiles } from '$utils/profile';
 	import dayjs from 'dayjs';
 	import { onMount } from 'svelte';
 	import DownloadIcon from '@iconify-icons/mdi/download';
+	import UploadIcon from '@iconify-icons/mdi/upload';
+	import WarningIcon from '@iconify-icons/mdi/warning';
 	import Icon from '@iconify/svelte';
 
 	let currentProfile: Option<string> = { value: 'default', label: 'default' };
 	let profiles: Option<string>[] = [currentProfile];
+	let fileinput: HTMLInputElement;
+	let file: File | null = null;
+	let confirm = false;
 
 	let servers: Option<number>[] = [
 		{ value: 8, label: 'Asia / China' },
@@ -40,6 +45,29 @@
 
 	function changeServer() {
 		db.timezone.set(currentServer.value);
+	}
+
+	async function confirmRestore() {
+		console.log(file);
+		if (confirm) {
+			if (file === null) return;
+			const reader = new FileReader();
+			reader.onload = async () => {
+				const data = reader.result as string;
+				await importAll(data);
+			};
+
+			reader.readAsText(file);
+
+			confirm = false;
+			return;
+		}
+
+		confirm = true;
+	}
+
+	function handleFileInput() {
+		file = fileinput.files?.[0] ?? null;
 	}
 
 	onMount(() => {
@@ -82,5 +110,17 @@
 		<Button on:click={exportData} class="text-lg"
 			><Icon class="mr-2" icon={DownloadIcon} /> Download Data</Button
 		>
+		<div class="mt-8 flex flex-col items-start gap-2">
+			<input type="file" class="text-white" bind:this={fileinput} on:change={handleFileInput} />
+			<Button on:click={confirmRestore} class="text-lg"
+				><Icon class="mr-2" icon={UploadIcon} />
+				{confirm ? 'Click again to confirm' : 'Restore Data'}</Button
+			>
+			{#if confirm}
+				<p class="rounded-md bg-red-400/40 p-4 text-white">
+					<Icon class="mr-2 inline text-xl" icon={WarningIcon} /> This will replace current data!!!
+				</p>
+			{/if}
+		</div>
 	</div>
 </div>

@@ -159,9 +159,9 @@
     "rarity": 4,
     "background": "The boxing champion in Belobog's Underworld, and one of Wildfire's most capable fighters.\\nThe consecutive reigning champion of the Fight Club, whose enthusiasm inspires children of the Underworld to dream big."
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
-    "name": "Topaz and Numby",
+  "topaz-numby": {
+    "id": "topaz-numby",
+    "name": "Topaz & Numby",
     "path": "the-hunt",
     "element": "fire",
     "rarity": 5,
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae.\\nUpon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner."
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "Huohuo",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus.\\nShe is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits."
   },
   "trailblazer": {
     "id": "trailblazer",

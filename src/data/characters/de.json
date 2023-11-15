@@ -159,9 +159,9 @@
     "rarity": 4,
     "background": "Der Boxchampion von Belobogs Unterwelt und einer der fähigsten Kämpfer von Wildfeuer.\\nDer mehrjährige Champion des Fight Clubs beflügelt mit seinem Enthusiasmus die Träume der Kinder der Unterwelt."
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
-    "name": "Topaz und Kontie",
+  "topaz-numby": {
+    "id": "topaz-numby",
+    "name": "Topaz & Kontie",
     "path": "the-hunt",
     "element": "fire",
     "rarity": 5,
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "Dan Hengs wahre Form aus seiner Vidyadhara-Abstammung trägt die verbleibenden Kräfte seiner letzten Wiedergeburt Imbibitor Lunae in sich.\\nBei Annahme seiner Krone aus majestätischen Hörnern muss er alle Vorzüge und Fehler hinnehmen, die mit diesem Sünder in Verbindung stehen."
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "Huohuo",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Dieses junge, foxianische Mädchen wird zur Richterin der Zehn-Fürsten-Kommission der Xianzhou Luofu ausgebildet und ist von einem Heliobus besessen.\\nSie ist schüchtern und schwach und fürchtet sich vor allen seltsamen Dingen. Trotzdem ist es ihre Aufgabe, böse Geister herauszulocken und zu bezwingen."
   },
   "trailblazer": {
     "id": "trailblazer",

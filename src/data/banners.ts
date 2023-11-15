@@ -184,7 +184,7 @@ export const banners: Banners = {
 			image: 'Sunset Clause 2012.jpg',
 			pos: '70% 20%',
 			zoom: 1.2,
-			featured5: ['topaz-and-numby'],
+			featured5: ['topaz-numby'],
 			featured4: ['guinaifen', 'luka', 'sushang']
 		},
 		{

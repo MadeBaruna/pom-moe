@@ -78,6 +78,10 @@ async function processWarps(banner: BannerType, warps: GachaItem[]) {
 		const bannerCode = Number(warp.bannerCode);
 		const currentBanner = bannersMap[bannerCode];
 
+		if (warp.name === 'topaz-and-numby') {
+			warp.name = 'topaz-numby';
+		}
+
 		pity[4]++;
 		pity[5]++;
 
@@ -122,7 +126,11 @@ async function processWarps(banner: BannerType, warps: GachaItem[]) {
 		const bannerCode = Number(warp.gacha_id);
 		const currentBanner = bannersMap[bannerCode];
 
-		const name = slugify(warp.name);
+		let name = slugify(warp.name);
+		if (name === 'topaz-and-numby') {
+			name = 'topaz-numby';
+		}
+
 		itemCount.set(name, (itemCount.get(name) ?? 0) + 1);
 
 		pity[4]++;

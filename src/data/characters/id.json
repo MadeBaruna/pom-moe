@@ -159,13 +159,13 @@
     "rarity": 4,
     "background": "Petinju juara di Underworld Belobog, salah satu orang paling berbakat di \"Wildfire\".\\nJuara berturut-turut Fight Club, dia menggunakan antusiasmenya untuk memotivasi anak-anak Underworld yang mempunyai mimpi."
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
+  "topaz-numby": {
+    "id": "topaz-numby",
     "name": "Topaz & Numby",
     "path": "the-hunt",
     "element": "fire",
     "rarity": 5,
-    "background": "Topaz adalah manajer tingkat tinggi \"Departemen Investasi Strategis\" di bawah Interastral Peace Corporation, dan juga pemimpin dari Tim Piket Utang Khusus.\\nMenjadi salah satu anggota \"Sepuluh Orang Berhati Batu\" di usia yang muda, bidang keahlian Topaz adalah \"menagih utang\".\\nRekannya, Warp Trotter yang bernama \"Numby\", memiliki kemampuan untuk melihat keberadaan \"orang kaya\". Pekerjaan yang berhubungan dengan keamanan, menagih utang, atau akuntansi tidak akan menjadi masalah.\\nSekarang ini, mereka bersama-sama mengembara di galaksi, menyelidiki berbagai sengketa utang yang memengaruhi jalannya bisnis IPC."
+    "background": "Topaz adalah manajer tingkat tinggi \"Departemen Investasi Strategis\" di bawah Interastral Peace Corporation, dan juga pemimpin dari Tim Piket Utang Khusus.\\nMenjadi salah satu anggota \"Sepuluh Orang Berhati Batu\" di usia yang muda, bidang keahlian Topaz adalah \"menagih utang\".\\nRekannya, Warp Trotter yang bernama \"Numby\", memiliki kemampuan untuk melihat keberadaan \"kekayaan\". Pekerjaan yang berhubungan dengan keamanan, menagih utang, atau akuntansi tidak akan menjadi masalah.\\nSekarang ini, mereka bersama-sama mengembara di galaksi, menyelidiki berbagai sengketa utang yang memengaruhi jalannya bisnis IPC."
   },
   "qingque": {
     "id": "qingque",
@@ -245,7 +245,7 @@
     "path": "nihility",
     "element": "fire",
     "rarity": 4,
-    "background": "Seorang seniman pertunjukan yang tinggal di Xianzhou \"Luofu\" — atau lebih tepatnya, seniman jalanan.\\nSelain makan tiga kali sehari, mereka mengejar kehidupan baru mereka di Luofu."
+    "background": "Seorang seniman pertunjukan yang tinggal di Xianzhou \"Luofu\" — atau lebih tepatnya, seniman jalanan.\\nSelain makan tiga kali sehari, ia juga mengejar kehidupan baru di Luofu."
   },
   "bailu": {
     "id": "bailu",
@@ -261,7 +261,7 @@
     "path": "destruction",
     "element": "ice",
     "rarity": 5,
-    "background": "Mantan pendekar pedang Luofu dan pencipta Cloud Knight yang tak terkalahkan.\\nKini, namanya telah dihapus dari catatan sejarah, dan menjadi pengkhianat Xianzhou yang berjalan di tepi Mara."
+    "background": "Sang Juara Pedang Luofu yang terdahulu dan pencipta dari reputasi Cloud Knight yang tak terkalahkan.\\nKini namanya telah dihapus dari catatan sejarah, dan menjadi pengkhianat Xianzhou yang berjalan di sepanjang garis tipis di antara kewarasan dan kegilaan Mara."
   },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "Wujud asli Dan Heng dari ras Vidyadhara, yang memiliki sisa kekuatan \"Imbibitor Lunae\" di kehidupan sebelumnya.\\nSaat dirinya menerima mahkota tanduk yang agung di atas kepalanya, dia juga harus menerima semua jasa dan dosa yang ditinggalkan sang penjahat."
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "Huohuo",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Hakim magang Ten-Lords Commission dari Xianzhou Luofu, seorang gadis Foxian yang dirasuki oleh Heliobus.\\nDia adalah seorang gadis pemalu dan lemah yang takut pada segala macam hal-hal aneh, tapi bertanggung jawab untuk menarik dan menaklukkan roh jahat."
   },
   "trailblazer": {
     "id": "trailblazer",

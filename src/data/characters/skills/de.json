@@ -593,19 +593,19 @@
         ],
         [
           32,
-          33,
-          34,
-          34,
-          35,
+          32.8,
+          33.6,
+          34.4,
+          35.2,
           36,
           37,
           38,
           39,
           40,
-          41,
-          42,
-          42,
-          43,
+          40.8,
+          41.6,
+          42.4,
+          43.2,
           44
         ],
         [
@@ -617,7 +617,7 @@
       ],
       "format": [
         "[i]%",
-        "[i]%",
+        "[f1]%",
         "[i]%",
         "[i]%"
       ]
@@ -3454,7 +3454,7 @@
     },
     "skill": {
       "name": "Schredderfaust",
-      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Lukas ANG zu. Es besteht eine <u>Grundchance</u> von {2}, bei diesem Gegner für {5} Rd. Bluten zu verursachen.\\nDer blutende Gegner erleidet zu Beginn jeder Runde physischen DoT in Höhe von {3} seiner max. LP. Dieser SCH kann nicht <span style=\"color: #f29e38ff\">{4}</span> von Lukas ANG übersteigen.",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Lukas ANG zu. Es besteht eine <u>Grundchance</u> von {2}, bei diesem Gegner für {5} Rd. Bluten zu verursachen.\\nDer blutende Gegner erleidet zu Beginn jeder Runde physischen DoT in Höhe von {3} seiner max. LP. Dieser SCH kann <span style=\"color: #f29e38ff\">{4}</span> von Lukas ANG nicht übersteigen.",
       "values": [
         [
           60,
@@ -3649,7 +3649,7 @@
       ]
     }
   },
-  "topaz-and-numby": {
+  "topaz-numby": {
     "attack": {
       "name": "Defizit ...",
       "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Topaz zu.",
@@ -3768,7 +3768,7 @@
     },
     "talent": {
       "name": "Sparschweinmarkt?!",
-      "desc": "Beschwört Kontie zu Beginn des Kampfes. Kontie hat standardmäßig {1} Pkt. GES. Wenn er eine Aktion ausführt, startet Kontie <u>Folgeangriff</u> auf einen Gegner mit „Schuldennachweis“ und verursacht dabei Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des ANG von Topaz.\\nWenn Gegner mit „Schuldennachweis“ Folgeangriffe eines Verbündeten erhalten, wird Konties Aktion um {3} vorgezogen. Der Effekt von Aktionsvorzug kann nicht während Konties eigener Runde ausgelöst werden.\\nWenn Topaz <u>handlungsunfähig</u> ist, verschwindet Kontie.",
+      "desc": "Beschwört Kontie zu Beginn des Kampfes. Kontie hat standardmäßig {1} Pkt. GES. Wenn Kontie eine Aktion ausführt, startet es einen <u>Folgeangriff</u> auf einen Gegner mit „Schuldennachweis“ und verursacht dabei Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des ANG von Topaz.\\nWenn Gegner mit „Schuldennachweis“ Folgeangriffe eines Verbündeten erhalten, wird Konties Aktion um {3} vorgezogen. Der Effekt von Aktionsvorzug kann nicht während Konties eigener Runde ausgelöst werden.\\nWenn Topaz <u>handlungsunfähig</u> ist, verschwindet Kontie.",
       "values": [
         [
           80
@@ -3808,7 +3808,7 @@
     },
     "technique": {
       "name": "Explizite Subvention",
-      "desc": "Beschwört Kontie, wenn Topaz die Karte betritt. Kontie sucht automatisch nach gewöhnlichen Schätzen und Sparschweinen in einer bestimmten Reichweite.\\nNach dem aktiven Einsatz der Technik wird Energie für Topaz nach Konties erstem Angriff im nächsten Kampf um {1} Pkt. wiederhergestellt.\\nNach dem aktiven Einsatz der Technik und dem Besiegen von Gegnern auf der offenen Karte wird zusätzlich eine kleine Menge Credits erhalten, wenn Topaz noch im Team ist. Nur {2} zusätzliche Credits können pro Standardtag erhalten werden.\\nNach dem aktiven Einsatz der Technik und dem Besiegen von Gegnern in der Universum-Simulation wird zusätzlich eine kleine Menge Kosmische Fragmenten erhalten. Außerdem besteht es eine geringe Chance, 1 zufällige Kuriosität zu erhalten.",
+      "desc": "Beschwört Kontie, wenn Topaz die Karte betritt. Kontie sucht automatisch nach gewöhnlichen Schätzen und Sparschweinen in einer bestimmten Reichweite.\\nNach dem aktiven Einsatz der Technik wird Topaz‘ Energie nach Konties erstem Angriff im nächsten Kampf um {1} Pkt. wiederhergestellt.\\nNach dem aktiven Einsatz der Technik und dem Besiegen von Gegnern auf der offenen Karte wird zusätzlich eine kleine Menge Credits erhalten, wenn Topaz noch im Team ist. Nur {2} zusätzliche Credits können pro Standardtag erhalten werden.\\nNach dem aktiven Einsatz der Technik und dem Besiegen von Gegnern in der Universum-Simulation wird zusätzlich eine kleine Menge an Kosmischen Fragmenten erhalten. Außerdem besteht eine geringe Chance, 1 zufällige Kuriosität zu erhalten.",
       "values": [
         [
           60
@@ -5019,20 +5019,20 @@
         ],
         [
           21,
-          22,
-          22,
-          23,
-          24,
-          24,
-          25,
-          26,
-          27,
+          21.7,
+          22.4,
+          23.1,
+          23.8,
+          24.5,
+          25.4,
+          26.3,
+          27.1,
           28,
-          29,
-          29,
-          30,
-          31,
-          31
+          28.7,
+          29.4,
+          30.1,
+          30.8,
+          31.5
         ],
         [
           39,
@@ -5054,7 +5054,7 @@
       ],
       "format": [
         "[i]%",
-        "[i]%",
+        "[f1]%",
         "[i]%"
       ]
     },
@@ -5654,7 +5654,7 @@
     },
     "talent": {
       "name": "Vorteile für Gönner",
-      "desc": "Wenn Guinaifen auf dem Feld ist und der Status von Brennen des Gegners SCH ausgelöst hat, besteht eine <u>Grundchance</u> von {1}, dass bei ihm „Feuer spucken“ verursacht wird. Im Status „Feuer spucken“ erleiden das Ziel für {5} Rd <span style=\"color: #f29e38ff\">{4}</span> mehr SCH, bis {6}-fach stapelbar.",
+      "desc": "Wenn Guinaifen auf dem Feld ist und der Status Brennen des Gegners SCH ausgelöst hat, besteht eine <u>Grundchance</u> von {1}, dass bei ihm „Feuer spucken“ verursacht wird. Im Status „Feuer spucken“ erleidet das Ziel für {5} Rd. <span style=\"color: #f29e38ff\">{4}</span> mehr SCH, bis {6}-fach stapelbar.",
       "values": [
         [
           100
@@ -5706,7 +5706,7 @@
     },
     "technique": {
       "name": "Demonstration der Fähigkeiten",
-      "desc": "Greift den Gegner unmittelbar an. Verursacht nach Kampfeintritt {2}-mal SCH, wobei jedes Mal einem zufälligen Gegner Feuer-SCH in Höhe von {1} von Guinaifens ANG zugefügt wird und eine <u>Grundchance</u> von {3} hat, „Feuer spucken“ bei ihm zu verursachen.",
+      "desc": "Greift den Gegner unmittelbar an. Verursacht nach Kampfeintritt {2}-mal SCH, wobei jedes Mal einem zufälligen Gegner Feuer-SCH in Höhe von {1} von Guinaifens ANG zugefügt wird und eine <u>Grundchance</u> von {3} besteht, „Feuer spucken“ bei ihm zu verursachen.",
       "values": [
         [
           50
@@ -5886,19 +5886,19 @@
         ],
         [
           12,
-          13,
-          13,
-          14,
+          12.7,
+          13.5,
+          14.3,
           15,
-          16,
-          16,
-          17,
-          17,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
           18,
-          19,
-          19,
-          20,
-          20,
+          18.6,
+          19.2,
+          19.8,
+          20.4,
           21
         ],
         [
@@ -5925,7 +5925,7 @@
       "format": [
         "[f1]%",
         "[i]",
-        "[i]%",
+        "[f1]%",
         "[i]",
         "[i]"
       ]
@@ -6002,7 +6002,7 @@
     },
     "ultimate": {
       "name": "Traum der vergänglichen Blüten",
-      "desc": "Fügt einem anvisierten Gegner Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jinglius ANG zu und fügt angrenzenden Einheiten Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Jinglius ANG zu. Nach dem Angriff erhält sie {2} Stapelung „Lunation“.",
+      "desc": "Fügt einem anvisierten Gegner Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jinglius ANG und angrenzenden Einheiten Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Jinglius ANG zu. Nach dem Angriff erhält sie {2} Stapelung „Lunation“.",
       "values": [
         [
           180,
@@ -6054,7 +6054,7 @@
     },
     "talent": {
       "name": "Seelenwanderung der Mondsichel",
-      "desc": "Wenn Jingliu über {5} Stapelungen „Lunation“ verfügt, tritt sie in den Status „Seelenwanderung“ ein, wobei ihre Aktion um {6} vorgezogen und ihre KRIT-Rate um <span style=\"color: #f29e38ff\">{7}</span> erhöht wird. Danach wird die Fertigkeit „Transzendenter Blitz“ zu „Gletscherfluss im Mondenschein“ verstärkt und sie kann nur noch diese Fertigkeit einsetzen. Wenn Jingliu im Status „Seelenwanderung“ Angriff ausführt, verbraucht sie {2} der max. LP ihrer Verbündeten (die LP aller Verbündeten können bis auf 1 verbraucht werden). Jinglius ANG wird um {3} der diesmal gesamt verbrauchten Menge der LP aller Verbündeten erhöht, bis zu einem Maximum von <span style=\"color: #f29e38ff\">{4}</span> ihres Basis-ANG und dies hält an, bis ihr aktueller Angriff beendet. Jingliu kann den Status „Seelenwanderung“ nicht wieder betreten, bevor er endet. „Lunation“ ist bis zu 3-fach stapelbar. Wenn keine Stapelungen von „Lunation“ vorhanden sind, wird der Status „Seelenwanderung“ beendet.",
+      "desc": "Wenn Jingliu über {5} Stapelungen „Lunation“ verfügt, tritt sie in den Status „Seelenwanderung“ ein, wobei ihre Aktion um {6} vorgezogen und ihre KRIT-Rate um <span style=\"color: #f29e38ff\">{7}</span> erhöht wird. Danach wird die Fertigkeit „Transzendenter Blitz“ zu „Gletscherfluss im Mondenschein“ verstärkt und sie kann nur noch diese Fertigkeit einsetzen. Wenn Jingliu im Status „Seelenwanderung“ einen Angriff ausführt, verbraucht sie {2} der max. LP ihrer Verbündeten (die LP aller Verbündeten können bis auf 1 verbraucht werden). Jinglius ANG wird um {3} der diesmal gesamt verbrauchten Menge der LP aller Verbündeten erhöht, bis zu einem Maximum von <span style=\"color: #f29e38ff\">{4}</span> ihres Basis-ANG und dies hält an, bis ihr aktueller Angriff beendet ist. Jingliu kann nicht wiederholt in den Status „Seelenwanderung“ eintreten, bevor dieser endet. „Lunation“ ist bis zu 3-fach stapelbar. Wenn keine Stapelungen von „Lunation“ vorhanden sind, wird der Status „Seelenwanderung“ beendet.",
       "values": [
         [
           0.3000000002793968
@@ -6156,7 +6156,7 @@
     },
     "undefined": {
       "name": "Gletscherfluss im Mondenschein",
-      "desc": "Fügt einem anvisierten Gegner Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jinglius ANG zu und fügt angrenzenden Einheiten Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Jinglius ANG zu. Verbraucht {2} Stapelung „Lunation“. Der Einsatz dieser Fähigkeit verbraucht keine Fertigkeitspunkte.",
+      "desc": "Fügt einem anvisierten Gegner Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Jinglius ANG und angrenzenden Einheiten Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Jinglius ANG zu. Verbraucht {2} Stapelung „Lunation“. Der Einsatz dieser Fähigkeit verbraucht keine Fertigkeitspunkte.",
       "values": [
         [
           125,
@@ -6392,6 +6392,254 @@
       "format": [
         "[i]%",
         "[i]%"
+      ]
+    }
+  },
+  "huohuo": {
+    "attack": {
+      "name": "Banner: Durch Wind und Regen",
+      "desc": "Fügt einem anvisierten Gegner Wind-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Huohuos max. LP zu.",
+      "values": [
+        [
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Talisman: Schutz des Lebens",
+      "desc": "Entfernt {5} <u>Debuff(s)</u> von einem Verbündeten und stellt unmittelbar dessen LP in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Huohuos max. LP plus <span style=\"color: #f29e38ff\">{2}</span> wieder her. Stellt gleichzeitig die LP der angrenzenden Verbündeten des anvisierten Verbündeten in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Huohuos max. LP plus <span style=\"color: #f29e38ff\">{4}</span> wieder her.",
+      "values": [
+        [
+          14,
+          14.9,
+          15.7,
+          16.6,
+          17.5,
+          18.2,
+          18.9,
+          19.6,
+          20.3,
+          21,
+          21.7,
+          22.4,
+          23.1,
+          23.8,
+          24.5
+        ],
+        [
+          140,
+          224,
+          287,
+          350,
+          392,
+          434,
+          466,
+          497,
+          529,
+          560,
+          592,
+          623,
+          655,
+          686,
+          718
+        ],
+        [
+          11.2,
+          11.9,
+          12.6,
+          13.3,
+          14,
+          14.6,
+          15.1,
+          15.7,
+          16.2,
+          16.8,
+          17.4,
+          17.9,
+          18.5,
+          19,
+          19.6
+        ],
+        [
+          112,
+          179,
+          230,
+          280,
+          314,
+          347,
+          372,
+          398,
+          423,
+          448,
+          473,
+          498,
+          524,
+          549,
+          574
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Schweif: Unterwerfung von Teufeln",
+      "desc": "Stellt Energie für alle Verbündeten außer Huohuo in Höhe von <span style=\"color: #f29e38ff\">{1}</span> ihrer jeweiligen max. Energie wieder her. Erhöht gleichzeitig den ANG für {3} Rd. um <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          15,
+          15.5,
+          16,
+          16.5,
+          17,
+          17.5,
+          18.1,
+          18.8,
+          19.4,
+          20,
+          20.5,
+          21,
+          21.5,
+          22,
+          22.5
+        ],
+        [
+          24,
+          25.6,
+          27.2,
+          28.8,
+          30.4,
+          32,
+          34,
+          36,
+          38,
+          40,
+          41.6,
+          43.2,
+          44.8,
+          46.4,
+          48
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Besessenheit: Metaphysische Verbindung",
+      "desc": "Nach dem Einsatz der Fertigkeit erhält Huohuo für {1} Rd. „Geopfertes Leben“. Diese Dauer verringert sich zu Beginn jeder Runde von Huohuo um 1. Besitzt Huohuo Geopfertes Leben, wird zu Beginn jeder Runde eines Verbündeten oder beim Einsatz eines Ultimates seine LP um <span style=\"color: #f29e38ff\">{3}</span> von Huohuos max. LP plus <span style=\"color: #f29e38ff\">{5}</span> wiederhergestellt. Gleichzeitig werden alle Verbündeten, deren LP-Prozentsatz zu diesem Zeitpunkt bei {6} oder niedriger liegt, einmal geheilt.\\nWird ein Verbündeter durch den Einsatz von Geopfertes Leben geheilt, werden {2} <u>Debuff(s)</u> von ihm entfernt. Dieser Effekt kann {7}-mal ausgelöst werden. Bei erneutem Einsatz der Fertigkeit wird die Anzahl der Auslösungen zurückgesetzt.",
+      "values": [
+        [
+          2
+        ],
+        [
+          1
+        ],
+        [
+          3,
+          3.2,
+          3.4,
+          3.6,
+          3.7,
+          3.9,
+          4.1,
+          4.2,
+          4.4,
+          4.5,
+          4.6,
+          4.8,
+          4.9,
+          5.1,
+          5.3
+        ],
+        [
+          0
+        ],
+        [
+          30,
+          48,
+          62,
+          75,
+          84,
+          93,
+          100,
+          107,
+          113,
+          120,
+          127,
+          134,
+          140,
+          147,
+          154
+        ],
+        [
+          50
+        ],
+        [
+          6
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[f1]%",
+        "",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Unhold: Unterdrückung von Dämonen",
+      "desc": "Huohuo terrorisiert angrenzende Gegner und verursacht bei ihnen Verängstigung. Verängstigte Gegner fliehen vor Huohuo für {4} Sek. Falls ein Gegner bei Kampfbeginn verängstigt ist, besteht eine <u>Grundchance</u> von {1}, dass der ANG jedes Gegners für {3} Rd. um {2} gesenkt wird.",
+      "values": [
+        [
+          100
+        ],
+        [
+          25
+        ],
+        [
+          2
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
       ]
     }
   },

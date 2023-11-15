@@ -159,8 +159,8 @@
     "rarity": 4,
     "background": "벨로보그 하층 구역의 챔피언 격투선수, 「와일드 파이어」의 실력파 멤버 중 하나.\\n격투 클럽의 연속 디펜딩 챔피언, 자신의 열정으로 하층 구역의 꿈이 있는 아이들을 격려한다"
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
+  "topaz-numby": {
+    "id": "topaz-numby",
     "name": "토파즈&복순이",
     "path": "the-hunt",
     "element": "fire",
@@ -173,7 +173,7 @@
     "path": "erudition",
     "element": "quantum",
     "rarity": 4,
-    "background": "선주 「나부」의 태복사 소속 점술가. 서고 관리자를 겸하고 있다.\\n업무를 너무 태만히 한 탓에 곧 「문지기」로 좌천될 예정이라고 한다"
+    "background": "선주 「나부」의 태복사 소속 점술가 겸 서고 관리자\\n업무를 너무 태만히 한 탓에 곧 「문지기」로 좌천될 예정이라고 한다"
   },
   "tingyun": {
     "id": "tingyun",
@@ -237,7 +237,7 @@
     "path": "the-hunt",
     "element": "ice",
     "rarity": 5,
-    "background": "경원 장군의 수행원이다. 어린 나이임에도 불구하고 천재라 불릴 정도로 뛰어난 검술을 지니고 있다.\\n검 한 자루만 있으면 누구에게도 지지 않는다."
+    "background": "경원 장군의 호위무사이다. 어린 나이임에도 불구하고 천재라 불릴 정도로 뛰어난 검술을 지니고 있다.\\n검 한 자루만 있으면 누구에게도 지지 않는다."
   },
   "guinaifen": {
     "id": "guinaifen",
@@ -245,7 +245,7 @@
     "path": "nihility",
     "element": "fire",
     "rarity": 4,
-    "background": "선주 「나부」에 방문한 행위 예술가——혹은 길거리 예술가.\\n삼시세끼가 보장된 상황에서 자신의 새로운 삶을 나부에서 추구하고 있다"
+    "background": "선주 「나부」에 방문한 행위 예술가——혹은 길거리 예술가\\n삼시세끼가 보장된 상황에서 자신의 새로운 삶을 나부에서 추구하고 있다"
   },
   "bailu": {
     "id": "bailu",
@@ -261,7 +261,7 @@
     "path": "destruction",
     "element": "ice",
     "rarity": 5,
-    "background": "과거 나부 검술의 일인자이자 운기군 불패신화의 창조자.\\n오늘날 그녀의 이름은 역사에서 지워졌고, 마각의 몸의 경계를 걷는 배신자가 되었다"
+    "background": "과거 나부 검술의 일인자이자 운기군 불패신화의 창조자.\\n오늘날 그녀의 이름은 역사에서 지워졌고, 마각의 몸의 경계를 걷는 선주의 역적이 되었다"
   },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "단항의 비디아다라족으로서의 본모습, 전생의 「음월군」이 남긴 힘.\\n이맛전의 각관을 받으면 그 죄인의 모든 공과를 이어받아야 한다"
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "곽향",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "선주 나부 시왕사의 견습 판관, 세양에게 빙의된 여우족 여자아이.\\n겁 많은 성격에 연약하고 여러 괴상한 일들을 두려워하지만, 악귀를 처리하는 직책을 맡고 있다"
   },
   "trailblazer": {
     "id": "trailblazer",

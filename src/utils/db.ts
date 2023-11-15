@@ -82,10 +82,26 @@ async function exportDb(dbname: string) {
 	return data;
 }
 
+async function importToDb(dbname: string, data: { [key: string]: unknown[] }) {
+	const currentDb = new Database(dbname);
+	const tables = currentDb.tables;
+
+	for (const table of tables) {
+		console.log(table.name);
+		console.log(data[table.name]);
+		table.bulkPut(data[table.name]);
+	}
+}
+
 export async function exportAll() {
 	const data: { [key: string]: unknown } = {};
 
 	data['default'] = await exportDb('default');
 
 	return data;
+}
+
+export async function importAll(data: string) {
+	const json = JSON.parse(data);
+	await importToDb('default', json['default']);
 }

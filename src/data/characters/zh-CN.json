@@ -159,8 +159,8 @@
     "rarity": 4,
     "background": "贝洛伯格下层区的冠军拳手，「地火」的得力干将之一。\\n搏击俱乐部的蝉联冠军，以自身的热情激励着下层区有梦想的孩子们。"
   },
-  "topaz-and-numby": {
-    "id": "topaz-and-numby",
+  "topaz-numby": {
+    "id": "topaz-numby",
     "name": "托帕&账账",
     "path": "the-hunt",
     "element": "fire",
@@ -270,6 +270,14 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "丹恒身为持明族的本相，其上一世「饮月君」所遗存的力量。\\n接受了额顶的峥嵘角冠，就要接受那罪人所立的一切功过。"
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "藿藿",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "仙舟罗浮的十王司见习判官，被岁阳附身的狐人小女孩。\\n性格怯懦，弱小可怜，害怕种种怪异之事却肩负起勾摄邪魔的职责。"
   },
   "trailblazer": {
     "id": "trailblazer",
