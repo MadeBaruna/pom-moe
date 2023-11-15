@@ -341,6 +341,12 @@
     "path": "nihility",
     "rarity": 4
   },
+  "hey-over-here": {
+    "id": "hey-over-here",
+    "name": "Ei, Estou Aqui",
+    "path": "abundance",
+    "rarity": 4
+  },
   "night-on-the-milky-way": {
     "id": "night-on-the-milky-way",
     "name": "Noite na Via Láctea",
@@ -441,6 +447,12 @@
     "id": "worrisome-blissful",
     "name": "Inquietante, Extasiante",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "night-of-fright": {
+    "id": "night-of-fright",
+    "name": "Noite Aterrorizante",
+    "path": "abundance",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

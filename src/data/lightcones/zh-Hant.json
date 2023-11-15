@@ -341,6 +341,12 @@
     "path": "nihility",
     "rarity": 4
   },
+  "hey-over-here": {
+    "id": "hey-over-here",
+    "name": "嘿，我在這裡",
+    "path": "abundance",
+    "rarity": 4
+  },
   "night-on-the-milky-way": {
     "id": "night-on-the-milky-way",
     "name": "銀河鐵道之夜",
@@ -441,6 +447,12 @@
     "id": "worrisome-blissful",
     "name": "煩惱著，幸福著",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "night-of-fright": {
+    "id": "night-of-fright",
+    "name": "驚魂夜",
+    "path": "abundance",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

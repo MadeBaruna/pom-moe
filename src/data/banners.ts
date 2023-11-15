@@ -200,6 +200,20 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['seele'],
 			featured4: ['guinaifen', 'luka', 'sushang']
+		},
+		{
+			code: 2014,
+			type: 'character',
+			name: 'Bloom in Gloom',
+			start: '2023-11-15 06:00:00',
+			end: '2023-12-06 11:59:00',
+			color: '#dcedc9',
+			version: '1.5',
+			image: 'Bloom in Gloom 2014.png',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['huohuo'],
+			featured4: ['dan-heng', 'arlan', 'serval']
 		}
 	],
 	lightcone: [
@@ -340,7 +354,7 @@ export const banners: Banners = {
 		},
 		{
 			code: 3012,
-			type: 'character',
+			type: 'lightcone',
 			name: 'Brilliant Fixation',
 			start: '2023-10-27 12:00:00',
 			end: '2023-11-14 14:59:00',
@@ -358,7 +372,7 @@ export const banners: Banners = {
 		},
 		{
 			code: 3013,
-			type: 'character',
+			type: 'lightcone',
 			name: 'Bygone Reminiscence',
 			start: '2023-10-27 12:00:00',
 			end: '2023-11-14 14:59:00',
@@ -373,6 +387,20 @@ export const banners: Banners = {
 				'resolution-shines-as-pearls-of-sweat',
 				'only-silence-remains'
 			]
+		},
+		{
+			code: 3014,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-11-15 06:00:00',
+			end: '2023-12-06 11:59:00',
+			color: '#cee6da',
+			version: '1.5',
+			image: 'Brilliant Fixation 3014.png',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['night-of-fright'],
+			featured4: ['shared-feeling', 'subscribe-for-more', 'trend-of-the-universal-market']
 		}
 	],
 	standard: [

@@ -341,6 +341,12 @@
     "path": "nihility",
     "rarity": 4
   },
+  "hey-over-here": {
+    "id": "hey-over-here",
+    "name": "Hi, Tôi Ở Đây",
+    "path": "abundance",
+    "rarity": 4
+  },
   "night-on-the-milky-way": {
     "id": "night-on-the-milky-way",
     "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà",
@@ -441,6 +447,12 @@
     "id": "worrisome-blissful",
     "name": "Phiền Não, Hạnh Phúc",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "night-of-fright": {
+    "id": "night-of-fright",
+    "name": "Đêm Kinh Hoàng",
+    "path": "abundance",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
