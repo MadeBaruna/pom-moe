@@ -6395,6 +6395,148 @@
       ]
     }
   },
+  "hanya": {
+    "attack": {
+      "name": "Pincel do Oráculo",
+      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Hanya a um único inimigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Samsara, Bloqueada",
+      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Hanya a um único inimigo, então aplica Fardo a ele.\\nA cada 2 ATQs Básicos, Perícias ou Perícias Supremas utilizados por aliados em um inimigo com Fardo, aliados recuperam imediatamente 1 Ponto de Perícia. Fardo só fica ativo no último alvo em que foi aplicado, e será removido automaticamente depois que o efeito de recuperação de Ponto de Perícia for ativado {2} vezes.",
+      "values": [
+        [
+          120,
+          132,
+          144,
+          156,
+          168,
+          180,
+          195,
+          210,
+          225,
+          240,
+          252,
+          264,
+          276,
+          288,
+          300
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Decreto dos Três Senhores, Todos Devem Obedecer",
+      "desc": "Aumenta a VEL de um aliado-alvo em <span style=\"color: #f29e38ff\">{3}</span> da VEL de Hanya e aumenta o ATQ do mesmo aliado-alvo em <span style=\"color: #f29e38ff\">{1}</span> por {2} rodada(s).",
+      "values": [
+        [
+          36,
+          38,
+          41,
+          43,
+          46,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62,
+          65,
+          67,
+          70,
+          72
+        ],
+        [
+          2
+        ],
+        [
+          15,
+          15.5,
+          16,
+          16.5,
+          17,
+          17.5,
+          18.1,
+          18.8,
+          19.4,
+          20,
+          20.5,
+          21,
+          21.5,
+          22,
+          22.5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[f1]%"
+      ]
+    },
+    "talent": {
+      "name": "Sanção",
+      "desc": "Quando um aliado usa um ATQ Básico, uma Perícia ou uma Perícia Suprema em um inimigo afligido com Fardo, o Dano causado aumenta em <span style=\"color: #f29e38ff\">{1}</span> por {2} rodada(s).",
+      "values": [
+        [
+          15,
+          16,
+          18,
+          19,
+          21,
+          22,
+          24,
+          26,
+          28,
+          30,
+          31,
+          33,
+          34,
+          36,
+          38
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Julgamento do Submundo",
+      "desc": "Ataca o inimigo imediatamente. Ao entrar na batalha, aplica Fardo equivalente ao aplicado pela Perícia a um inimigo aleatório.",
+      "values": [],
+      "format": []
+    }
+  },
   "huohuo": {
     "attack": {
       "name": "Estandarte: Invoca-Tempestades",
@@ -6639,6 +6781,196 @@
         "[i]%",
         "[i]%",
         "[i]",
+        "[i]"
+      ]
+    }
+  },
+  "argenti": {
+    "attack": {
+      "name": "Perfume Efêmero",
+      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Argenti a um único inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Justiça, Aqui Floresce",
+      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Argenti a todos os inimigos.",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Pois Neste Jardim a Beleza Suprema Concede",
+      "desc": "Consome {2} de Energia e causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Argenti a todos os inimigos.",
+      "values": [
+        [
+          96,
+          102,
+          109,
+          115,
+          122,
+          128,
+          136,
+          144,
+          152,
+          160,
+          166,
+          173,
+          179,
+          186,
+          192
+        ],
+        [
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Objeto Sublime",
+      "desc": "Para cada inimigo atingido quando Argenti usa seu ATQ Básico, Perícia ou Perícia Suprema, regenera a Energia de Argenti em {1}, e concede a ele um acúmulo de Ascender, além de aumentar sua Chance de CRIT em <span style=\"color: #f29e38ff\">{2}</span>. Este efeito pode acumular até {3} vez(es).",
+      "values": [
+        [
+          3
+        ],
+        [
+          1,
+          1.2,
+          1.3,
+          1.5,
+          1.6,
+          1.7,
+          1.9,
+          2.1,
+          2.3,
+          2.5,
+          2.6,
+          2.8,
+          2.9,
+          3.1,
+          3.3
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Manifesto da Mais Pura Virtude",
+      "desc": "Após usar sua Técnica, inflige Confusão por {1} segundo(s) aos inimigos dentro de uma área definida. Inimigos com Confusão não atacarão a equipe ativamente.\\nAo atacar um inimigo com Confusão para entrar em combate, causa Dano Físico de {2} do ATQ de Argenti a todos os inimigos e regenera a Energia de Argenti em {3}.",
+      "values": [
+        [
+          10
+        ],
+        [
+          80
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Mérito Concedido em \"Meu\" Jardim",
+      "desc": "Consome {4} de Energia e causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Argenti a todos os inimigos, e ainda causa Dano por {2} vez(es) extra(s), com cada vez causando Dano Físico igual a <span style=\"color: #f29e38ff\">{3}</span> do ATQ de Argenti a um inimigo aleatório.",
+      "values": [
+        [
+          168,
+          179,
+          190,
+          202,
+          213,
+          224,
+          238,
+          252,
+          266,
+          280,
+          291,
+          302,
+          314,
+          325,
+          336
+        ],
+        [
+          6
+        ],
+        [
+          57,
+          61,
+          65,
+          68,
+          72,
+          76,
+          81,
+          86,
+          90,
+          95,
+          99,
+          103,
+          106,
+          110,
+          114
+        ],
+        [
+          180
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
         "[i]"
       ]
     }

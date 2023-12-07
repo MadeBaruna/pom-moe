@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "Wujud asli Dan Heng dari ras Vidyadhara, yang memiliki sisa kekuatan \"Imbibitor Lunae\" di kehidupan sebelumnya.\\nSaat dirinya menerima mahkota tanduk yang agung di atas kepalanya, dia juga harus menerima semua jasa dan dosa yang ditinggalkan sang penjahat."
   },
+  "hanya": {
+    "id": "hanya",
+    "name": "Hanya",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Salah satu hakim dari Ten-Lords Commission Xianzhou \"Luofu\".\\nMenerima perintah dari Ten-Lords, mengendalikan kuas ramalan, membaca jenis-jenis dosa manusia, serta memberikan hukuman penebusan karma."
+  },
   "huohuo": {
     "id": "huohuo",
     "name": "Huohuo",
@@ -278,6 +286,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "Hakim magang Ten-Lords Commission dari Xianzhou Luofu, seorang gadis Foxian yang dirasuki oleh Heliobus.\\nDia adalah seorang gadis pemalu dan lemah yang takut pada segala macam hal-hal aneh, tapi bertanggung jawab untuk menarik dan menaklukkan roh jahat."
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "Argenti",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Seorang kesatria klasik dari \"Knight of Beauty\" yang mengagumi Idrila, Aeon \"Beauty\" yang hilang.\\nOrangnya jujur dan berintegritas, dia mengembara di alam semesta, dan menyebarkan keindahan nama Idrila."
   },
   "trailblazer": {
     "id": "trailblazer",

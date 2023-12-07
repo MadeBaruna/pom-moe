@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae.\\nUpon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner."
   },
+  "hanya": {
+    "id": "hanya",
+    "name": "Hanya",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "One of the judges of the Xianzhou Luofu's Ten-Lords Commission.\\nOrdained by the Ten-Lords and wielding the authority of the Oracle Brush, she reads the multitudes of human sins and transgressions, then issues punishments and karmic retribution."
+  },
   "huohuo": {
     "id": "huohuo",
     "name": "Huohuo",
@@ -278,6 +286,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus.\\nShe is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits."
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "Argenti",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"\\nForthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
   },
   "trailblazer": {
     "id": "trailblazer",

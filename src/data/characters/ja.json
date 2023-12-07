@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "持明族としての丹恒の本相、その前世である「飲月君」が残した力。\\n崢嶸たる角冠を受け継いだ以上、咎人の功罪をすべて受け継がなければならない。"
   },
+  "hanya": {
+    "id": "hanya",
+    "name": "寒鴉",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "仙舟「羅浮」十王司の判官の一人。\\n十王の命を受け、冥兆天筆を使って様々な罪業を読み取り、判決を下す。"
+  },
   "huohuo": {
     "id": "huohuo",
     "name": "フォフォ",
@@ -278,6 +286,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "仙舟「羅浮」の十王司見習い判官。歳陽に取り憑かれた狐族の少女。\\n怪異を恐れる臆病で不憫な女の子だが、邪悪なるものを捕える責任を担っている。"
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "アルジェンティ",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。\\n正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。"
   },
   "trailblazer": {
     "id": "trailblazer",

@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "A forma verdadeira de Dan Heng de sua linhagem Vidyadhara carrega o poder residual deixado pela sua encarnação passada, o Embebidor Lunae.\\nAo aceitar os majestosos chifres sobre sua coroa, ele deve aceitar todos os méritos e falhas atribuídos a esse pecador."
   },
+  "hanya": {
+    "id": "hanya",
+    "name": "Hanya",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Uma das juízas da Comissão dos Dez Senhores do Luofu do Xianzhou.\\nConsagrada pelos Dez Senhores e portando a autoridade do Pincel do Oráculo, ela lê os diversos pecados e transgressões humanas, e então emite punições e retribuições cármicas."
+  },
   "huohuo": {
     "id": "huohuo",
     "name": "Huohuo",
@@ -278,6 +286,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "Juíza novata da Comissão dos Dez Senhores do Luofu do Xianzhou, ela é uma garota Vulpe possuída por um Heliobus.\\nÉ uma menina tímida e fraca que tem medo de tudo que é estranho, mas é responsável por atrair e subjugar espíritos malignos."
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "Argenti",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Um cavaleiro clássico dos \"Cavaleiros da Beleza\" que busca piamente por seu Aeon perdido, Idrila, \"a Beleza\".\\nDireto e franco, ele vaga pelo cosmos defendendo as virtudes do bom nome de Idrila."
   },
   "trailblazer": {
     "id": "trailblazer",

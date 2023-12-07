@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "丹恆身為持明族的本相，其上一世「飲月君」所遺存的力量。\\n接受了額頂的崢嶸角冠，就要接受那罪人所留的一切功過。"
   },
+  "hanya": {
+    "id": "hanya",
+    "name": "寒鴉",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "仙舟「羅浮」十王司的判官之一。\\n受命十王，執掌冥讖天筆、讀取罪業種種，並下達業報判罰。"
+  },
   "huohuo": {
     "id": "huohuo",
     "name": "藿藿",
@@ -278,6 +286,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "仙舟羅浮的十王司見習判官，被歲陽附身的狐人小女孩。\\n性格怯懦，弱小可憐，害怕種種怪異之事卻肩負起勾攝邪魔的職責。"
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "銀枝",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "「純美騎士團」的古典騎士，虔誠地仰慕著已失蹤的「純美」星神伊德莉拉。\\n為人正直、光明磊落，於宇宙中漫遊，宣揚伊德莉拉的美名。"
   },
   "trailblazer": {
     "id": "trailblazer",

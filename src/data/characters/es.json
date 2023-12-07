@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "La forma original vidyadhara de Dan Heng contiene el poder que queda de su vida anterior como Imbibitor Lunae.\\nAl aceptar la majestuosa corona de astas, también tiene que adoptar todos los méritos y las faltas atribuidos a ese pecador."
   },
+  "hanya": {
+    "id": "hanya",
+    "name": "Hanya",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Una de las juezas de la Comisión de los Diez Líderes del Luofu de Xianzhou.\\nFue nombrada por los Diez Líderes y ostenta la autoridad del pincel del oráculo. Los pecados y las transgresiones deben listarse y conocerse, y la rueda del karma tiene que dictar los castigos"
+  },
   "huohuo": {
     "id": "huohuo",
     "name": "Huohuo",
@@ -278,6 +286,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "Jueza en práctica de la Comisión de los Diez Líderes del Luofu de Xianzhou. Es una joven raposiana poseída por un heliobus.\\nTímida y débil. Le tiene miedo a todo tipo de cosas extrañas, pero es la encargada de someter a los espíritus malignos."
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "Argenti",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Un clásico caballero de los Caballeros de la Belleza que busca piadosamente a su Eón desaparecido, Idrila, la Belleza.\\nEs franco y cándido y vaga por el cosmos propugnando las virtudes del buen nombre de Idrila."
   },
   "trailblazer": {
     "id": "trailblazer",

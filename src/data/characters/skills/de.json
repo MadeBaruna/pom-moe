@@ -6395,6 +6395,148 @@
       ]
     }
   },
+  "hanya": {
+    "attack": {
+      "name": "Schrift des Orakels",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Hanyas ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Die Fesseln des Samsara",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Hanyas ANG zu und belegt ihn mit „Aufbürden“.\\nJedes Mal, wenn Verbündete 2 Standardangriffe, Fertigkeiten oder Ultimates gegen einen mit Aufbürden belegten Gegner einsetzen, erhält das Team 1 Fertigkeitspunkt zurück. Aufbürden wirkt sich nur auf den letzten Gegner aus, der damit belegt wurde, und wird automatisch entfernt, sobald die Fertigkeitspunkte {2}-mal wiederhergestellt werden.",
+      "values": [
+        [
+          120,
+          132,
+          144,
+          156,
+          168,
+          180,
+          195,
+          210,
+          225,
+          240,
+          252,
+          264,
+          276,
+          288,
+          300
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Bedingungsloser Gehorsam",
+      "desc": "Erhöht die GES eines anvisierten Verbündeten um <span style=\"color: #f29e38ff\">{3}</span> von Hanyas GES und erhöht den ANG des Verbündeten für {2} Rd. um <span style=\"color: #f29e38ff\">{1}</span>.",
+      "values": [
+        [
+          36,
+          38,
+          41,
+          43,
+          46,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62,
+          65,
+          67,
+          70,
+          72
+        ],
+        [
+          2
+        ],
+        [
+          15,
+          15.5,
+          16,
+          16.5,
+          17,
+          17.5,
+          18.1,
+          18.8,
+          19.4,
+          20,
+          20.5,
+          21,
+          21.5,
+          22,
+          22.5
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[f1]%"
+      ]
+    },
+    "talent": {
+      "name": "Sanktion",
+      "desc": "Wenn ein Verbündeter einen Standardangriff, eine Fertigkeit oder einen Ultimate gegen einen Gegner einsetzt, der mit „Aufbürden“ belegt ist, wird der zugefügte SCH um <span style=\"color: #f29e38ff\">{1}</span> für {2} Rd. erhöht.",
+      "values": [
+        [
+          15,
+          16,
+          18,
+          19,
+          21,
+          22,
+          24,
+          26,
+          28,
+          30,
+          31,
+          33,
+          34,
+          36,
+          38
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Urteil der Unterwelt",
+      "desc": "Greift den Gegner unmittelbar an. Belegt nach Kampfeintritt einen zufälligen Gegner entsprechend der Fertigkeit mit Aufbürden.",
+      "values": [],
+      "format": []
+    }
+  },
   "huohuo": {
     "attack": {
       "name": "Banner: Durch Wind und Regen",
@@ -6639,6 +6781,196 @@
         "[i]%",
         "[i]%",
         "[i]",
+        "[i]"
+      ]
+    }
+  },
+  "argenti": {
+    "attack": {
+      "name": "Flüchtiger Duft",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Argentis ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Gerechtigkeit erblüht hier",
+      "desc": "Fügt allen Gegnern physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Argentis ANG zu.",
+      "values": [
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          112,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Denn dieser Garten schenkt höchste Schönheit",
+      "desc": "Verbraucht {2} Pkt. Energie und fügt allen Gegnern physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Argentis ANG zu.",
+      "values": [
+        [
+          96,
+          102,
+          109,
+          115,
+          122,
+          128,
+          136,
+          144,
+          152,
+          160,
+          166,
+          173,
+          179,
+          186,
+          192
+        ],
+        [
+          90
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Erhabene Moral",
+      "desc": "Nach dem Einsatz des Standardangriffs, der Fertigkeit oder des Ultimates stellt Argenti für jeden getroffenen Gegner {1} Pkt. Energie wieder her und erhält 1 Stapelung „Aufsteigend“, wodurch seine KRIT-Rate um <span style=\"color: #f29e38ff\">{2}</span> erhöht wird. Dieser Effekt ist bis zu {3}-fach stapelbar.",
+      "values": [
+        [
+          3
+        ],
+        [
+          1,
+          1.2,
+          1.3,
+          1.5,
+          1.6,
+          1.7,
+          1.9,
+          2.1,
+          2.3,
+          2.5,
+          2.6,
+          2.8,
+          2.9,
+          3.1,
+          3.3
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Manifest der reinen Tugend",
+      "desc": "Nach dem Einsatz der Technik werden Gegner in einem bestimmten Bereich {1} s lang von Schwindel betroffen und können nicht angreifen.\\nGreift man aktiv einen von Schwindel betroffenen Gegner an, verursacht Argenti nach Kampfeintritt bei allen Gegnern physischen SCH in Höhe von {2} seines ANG und stellt {3} Pkt. Energie wieder her.",
+      "values": [
+        [
+          10
+        ],
+        [
+          80
+        ],
+        [
+          15
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Der Wert meines holden Gartens",
+      "desc": "Verbraucht {4} Pkt. Energie und fügt allen Gegnern physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Argentis ANG zu und verursacht zusätzlich {2}-mal SCH. Jeder Treffer fügt einem zufälligen Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Argentis ANG zu.",
+      "values": [
+        [
+          168,
+          179,
+          190,
+          202,
+          213,
+          224,
+          238,
+          252,
+          266,
+          280,
+          291,
+          302,
+          314,
+          325,
+          336
+        ],
+        [
+          6
+        ],
+        [
+          57,
+          61,
+          65,
+          68,
+          72,
+          76,
+          81,
+          86,
+          90,
+          95,
+          99,
+          103,
+          106,
+          110,
+          114
+        ],
+        [
+          180
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
         "[i]"
       ]
     }

@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "La forme originelle de Dan Heng, reflet de son héritage vidyadharien, déploie la puissance résiduelle de son incarnation passée : l'Imbibitor Lunae.\\nEn acceptant les majestueuses cornes qui habillent son crâne, Dan Heng doit accepter tous les mérites et toutes les fautes attribués à ce pécheur."
   },
+  "hanya": {
+    "id": "hanya",
+    "name": "Hanya",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "L'une des juges de la Commission des dix seigneurs du Luofu de Xianzhou.\\nNominée par les Dix seigneurs et porteuse de l'autorité du Pinceau divin, elle lit le flux constant des vices et péchés humains, puis prononce les châtiments et punitions karmiques."
+  },
   "huohuo": {
     "id": "huohuo",
     "name": "Huohuo",
@@ -278,6 +286,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "Juge en formation de la Commission des dix seigneurs du Luofu possédée par un Héliobe.\\nJeune Foxienne timide et craintive, elle assume la responsabilité difficile de capturer les mauvais esprits malgré sa peur des phénomènes étranges."
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "Argenti",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Un chevalier des Chevaliers de la Beauté, dont la quête pieuse est de retrouver l'Aiôn disparu, Idrila la Beauté.\\nFranc et candide, il erre à travers l'espace, défendant les vertus prônées par Idrila."
   },
   "trailblazer": {
     "id": "trailblazer",

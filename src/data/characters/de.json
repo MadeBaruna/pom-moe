@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "Dan Hengs wahre Form aus seiner Vidyadhara-Abstammung trägt die verbleibenden Kräfte seiner letzten Wiedergeburt Imbibitor Lunae in sich.\\nBei Annahme seiner Krone aus majestätischen Hörnern muss er alle Vorzüge und Fehler hinnehmen, die mit diesem Sünder in Verbindung stehen."
   },
+  "hanya": {
+    "id": "hanya",
+    "name": "Hanya",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Eine der Richter der Zehn-Fürsten-Kommission der Xianzhou Luofu.\\nVon den Zehn Fürsten bestimmt und mit der Autorität der Schrift des Orakels ausgestattet, müssen Sünden und Übertretungen aufgelistet und bekannt gemacht werden, und die Strafen müssen aus den Karmischen Konsequenzen hervorgehen."
+  },
   "huohuo": {
     "id": "huohuo",
     "name": "Huohuo",
@@ -278,6 +286,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "Dieses junge, foxianische Mädchen wird zur Richterin der Zehn-Fürsten-Kommission der Xianzhou Luofu ausgebildet und ist von einem Heliobus besessen.\\nSie ist schüchtern und schwach und fürchtet sich vor allen seltsamen Dingen. Trotzdem ist es ihre Aufgabe, böse Geister herauszulocken und zu bezwingen."
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "Argenti",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Ein klassischer „Ritter der Schönheit“ auf frommer Suche nach seinem vermissten Äon, Idrila der „Schönheit“.\\nOffen wandert er durch den Kosmos und vertritt Idrilas Tugenden und ihren guten Namen."
   },
   "trailblazer": {
     "id": "trailblazer",

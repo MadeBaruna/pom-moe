@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "Nguyên trạng thật sự của Dan Heng tộc Vidyadhara, mang trên người sức mạnh Ẩm Nguyệt Quân để lại.\\nKhi tiếp nhận chiếc sừng uy nghiêm trên đỉnh trán, anh ấy phải tiếp nhận tất cả công và tội một đời của tội nhân này."
   },
+  "hanya": {
+    "id": "hanya",
+    "name": "Hanya",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "Một trong những Phán Quan của Sở Thập Vương Xianzhou Luofu.\\nNhận lệnh Thập Vương, chấp chưởng Thiên Bút Tiên Tri, đọc danh sách tội nghiệt và truyền đạt kết quả phán tội."
+  },
   "huohuo": {
     "id": "huohuo",
     "name": "Huohuo",
@@ -278,6 +286,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "Phán Quan thực tập của Sở Thập Vương Xianzhou Luofu, bé gái Người Hồ Ly bị Tuế Dương nhập.\\nTính cách nhút nhát, yếu đuối, sợ hãi trước những sự việc quái dị, nhưng lại gánh trọng trách dụ dỗ và trấn áp tà ma."
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "Argenti",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Kỵ sĩ cổ điển của Đội Kỵ Sĩ Đẹp Thuần Khiết, thành kính tín ngưỡng Aeon \"Đẹp Thuần Khiết\" Idrila đã mất tích.\\nNgay thẳng chính trực, chu du khắp vũ trụ, ca ngợi vẻ đẹp của Idrila."
   },
   "trailblazer": {
     "id": "trailblazer",
