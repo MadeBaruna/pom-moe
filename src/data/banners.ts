@@ -213,7 +213,36 @@ export const banners: Banners = {
 			pos: '70% 20%',
 			zoom: 1.2,
 			featured5: ['huohuo'],
-			featured4: ['dan-heng', 'arlan', 'serval']
+			featured4: ['dan-heng', 'arlan', 'serval'],
+			timezoneDependent: true
+		},
+		{
+			code: 2015,
+			type: 'character',
+			name: 'Thorns of Scented Crown',
+			start: '2023-12-06 12:00:00',
+			end: '2023-12-26 14:59:00',
+			color: '#e97762',
+			version: '1.5',
+			image: 'Thorns of Scented Crown 2015.png',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['argenti'],
+			featured4: ['hanya', 'lynx', 'asta']
+		},
+		{
+			code: 2016,
+			type: 'character',
+			name: 'Contract Zero',
+			start: '2023-12-06 12:00:00',
+			end: '2023-12-26 14:59:00',
+			color: '#e97762',
+			version: '1.5',
+			image: 'Contract Zero 2016.png',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['silver-wolf'],
+			featured4: ['hanya', 'lynx', 'asta']
 		}
 	],
 	lightcone: [
@@ -400,7 +429,36 @@ export const banners: Banners = {
 			pos: '70% 20%',
 			zoom: 1.2,
 			featured5: ['night-of-fright'],
-			featured4: ['shared-feeling', 'subscribe-for-more', 'trend-of-the-universal-market']
+			featured4: ['shared-feeling', 'subscribe-for-more', 'trend-of-the-universal-market'],
+			timezoneDependent: true
+		},
+		{
+			code: 3015,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-12-06 12:00:00',
+			end: '2023-12-26 14:59:00',
+			color: '#e97762',
+			version: '1.5',
+			image: 'Brilliant Fixation 3015.png',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['an-instant-before-a-gaze'],
+			featured4: ['under-the-blue-sky', 'post-op-conversation', 'the-birth-of-the-self']
+		},
+		{
+			code: 3016,
+			type: 'lightcone',
+			name: 'Bygone Reminiscence',
+			start: '2023-12-06 12:00:00',
+			end: '2023-12-26 14:59:00',
+			color: '#e97762',
+			version: '1.5',
+			image: 'Bygone Reminiscence 3016.png',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['incessant-rain'],
+			featured4: ['under-the-blue-sky', 'post-op-conversation', 'the-birth-of-the-self']
 		}
 	],
 	standard: [
