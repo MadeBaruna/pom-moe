@@ -61,6 +61,8 @@
 	<p class="mt-4 w-fit rounded-md border border-white/10 bg-purple-300/5 px-2 py-1 text-white/90">
 		{#if ended}
 			Finished
+		{:else if !started}
+			Start in {duration}
 		{:else}
 			Ending in {duration}
 		{/if}

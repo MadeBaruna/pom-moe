@@ -12,6 +12,17 @@ const timeline: Array<Timeline[]> = [
 			zoom: 1.2,
 			url: 'https://www.hoyolab.com/article/22522972',
 			show: true
+		},
+		{
+			name: 'Stellar Shadowseeker',
+			start: '2023-12-06 12:00:00',
+			end: '2023-12-25 03:59:00',
+			image: 'Boulder Town Martial Exhibition.png',
+			color: '#e19e7e',
+			pos: '30%, -30%',
+			zoom: 1.2,
+			url: 'https://www.hoyolab.com/article/23404782',
+			show: true
 		}
 	],
 	[
@@ -58,6 +69,17 @@ const timeline: Array<Timeline[]> = [
 			zoom: 1.2,
 			url: 'https://www.hoyolab.com/article/22906842',
 			show: true
+		},
+		{
+			name: 'Garden of Plenty',
+			start: '2023-12-15 04:00:00',
+			end: '2023-12-22 03:59:00',
+			image: 'Garden of Plenty.png',
+			color: '#f3cc4b',
+			pos: '30%, -40%',
+			zoom: 1.2,
+			url: 'https://www.hoyolab.com/article/23288207',
+			show: true
 		}
 	],
 	[
@@ -97,6 +119,17 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/22556268',
 			show: true
+		},
+		{
+			name: 'Contract Zero - Silver Wolf Warp Event',
+			start: '2023-12-06 12:00:00',
+			end: '2023-12-26 14:59:00',
+			image: 'Contract Zero 2016.png',
+			color: '#79b0f9',
+			pos: '-5%, -8%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/23404231',
+			show: true
 		}
 	],
 	[
@@ -133,6 +166,17 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/22906842',
 			timezoneDependent: true,
+			show: true
+		},
+		{
+			name: 'Thorns of Scented Crown - Argenti Warp Event',
+			start: '2023-12-06 12:00:00',
+			end: '2023-12-26 14:59:00',
+			image: 'Thorns of Scented Crown 2015.png',
+			color: '#e97762',
+			pos: '5%, 8%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/23404231',
 			show: true
 		}
 	],
@@ -171,6 +215,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/22906842',
 			timezoneDependent: true,
 			show: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2023-12-06 12:00:00',
+			end: '2023-12-26 14:59:00',
+			image: 'Brilliant Fixation 3015.png',
+			color: '#e9817d',
+			pos: '0%, 5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/23404282',
+			show: true
 		}
 	],
 	[
@@ -183,6 +238,17 @@ const timeline: Array<Timeline[]> = [
 			pos: '0%, 5%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/22556268',
+			show: true
+		},
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2023-12-06 12:00:00',
+			end: '2023-12-26 14:59:00',
+			image: 'Bygone Reminiscence 3016.png',
+			color: '#aa9ed8',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/23404282',
 			show: true
 		}
 	],
