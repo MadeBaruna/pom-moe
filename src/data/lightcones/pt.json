@@ -455,6 +455,12 @@
     "path": "abundance",
     "rarity": 5
   },
+  "an-instant-before-a-gaze": {
+    "id": "an-instant-before-a-gaze",
+    "name": "Um Instante Eternamente Adorado",
+    "path": "erudition",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "Na Queda de Um Aeon",

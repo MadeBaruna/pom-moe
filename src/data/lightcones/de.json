@@ -455,6 +455,12 @@
     "path": "abundance",
     "rarity": 5
   },
+  "an-instant-before-a-gaze": {
+    "id": "an-instant-before-a-gaze",
+    "name": "Ein unvergesslicher Augenblick",
+    "path": "erudition",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "Der Niedergang eines Äons",

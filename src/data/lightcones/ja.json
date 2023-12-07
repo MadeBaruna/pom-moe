@@ -455,6 +455,12 @@
     "path": "abundance",
     "rarity": 5
   },
+  "an-instant-before-a-gaze": {
+    "id": "an-instant-before-a-gaze",
+    "name": "その一刻、目に焼き付けて",
+    "path": "erudition",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "とある星神の殞落を記す",
