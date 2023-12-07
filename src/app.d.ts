@@ -83,6 +83,7 @@ export type Achievement = {
 	name: string;
 	desc: string;
 	rarity: number;
+	version: number;
 };
 
 export type Achievements = {

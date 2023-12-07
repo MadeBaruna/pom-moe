@@ -141,7 +141,13 @@
 				class="flex items-center rounded-md bg-white/10 px-4 py-2 leading-tight hover:bg-white/20"
 			>
 				<div>
-					<p class="font-semibold text-white">{item.name}</p>
+					<p class="font-semibold text-white">
+						{item.name}
+						<span
+							class="absolute ml-1 mt-0.5 rounded-md bg-4/30 px-2 text-xs font-normal text-white/80"
+							>v{item.version}</span
+						>
+					</p>
 					<p class="whitespace-pre-line text-white/80">{@html item.desc.replace(/\\n/, '<br/>')}</p>
 				</div>
 				<div class="flex-1" />

@@ -10,6 +10,34 @@
         "version": "1.0"
       },
       {
+        "id": 4010301,
+        "name": "Masa Kecilku",
+        "desc": "Memiliki karakter Lv. 40",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010302,
+        "name": "Di Dunia Fana",
+        "desc": "Memiliki karakter Lv. 60",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010303,
+        "name": "Kampusku",
+        "desc": "Memiliki karakter Lv. 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010102,
+        "name": "Akhir dari Masa Kecil",
+        "desc": "Memiliki 4 karakter Lv. 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
         "id": 4010201,
         "name": "Dalam Takdir (1)",
         "desc": "Memiliki 1 Light Cone Lv. 40",
@@ -45,13 +73,6 @@
         "version": "1.0"
       },
       {
-        "id": 4010301,
-        "name": "Masa Kecilku",
-        "desc": "Memiliki karakter Lv. 40",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
         "id": 4080202,
         "name": "Makin Sulit Makin Semangat (2)",
         "desc": "Level Equilibrium mencapai Lv. 3",
@@ -59,30 +80,9 @@
         "version": "1.0"
       },
       {
-        "id": 4010302,
-        "name": "Di Dunia Fana",
-        "desc": "Memiliki karakter Lv. 60",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
         "id": 4080203,
         "name": "Makin Sulit Makin Semangat (3)",
         "desc": "Level Equilibrium mencapai Lv. 6",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
-        "id": 4010303,
-        "name": "Kampusku",
-        "desc": "Memiliki karakter Lv. 80",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
-        "id": 4010102,
-        "name": "Akhir dari Masa Kecil",
-        "desc": "Memiliki 4 karakter Lv. 80",
         "rarity": 3,
         "version": "1.0"
       },
@@ -148,19 +148,19 @@
         "desc": "Karakter mengenakan Relic 5★ Lv. 15 di seluruh slot",
         "rarity": 3,
         "version": "1.0"
+      },
+      {
+        "id": 4012801,
+        "name": "Masuk dengan Teratur",
+        "desc": "Melihat Buku Tamu untuk pertama kalinya",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
   "2": {
     "name": "Jejak Waktu",
     "achievements": [
-      {
-        "id": 4022302,
-        "name": "Konglomerat Pembelok Cahaya",
-        "desc": "Memperoleh 100000000 Credit",
-        "rarity": 2,
-        "version": "1.0"
-      },
       {
         "id": 4020201,
         "name": "Panduan Penumpang Express ke Galaksi",
@@ -228,6 +228,13 @@
         "id": 4020702,
         "name": "Anggota Interastral Peace Level Gold",
         "desc": "Memperoleh 10000000 Credit",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4022302,
+        "name": "Konglomerat Pembelok Cahaya",
+        "desc": "Memperoleh 100000000 Credit",
         "rarity": 2,
         "version": "1.0"
       },
@@ -361,6 +368,20 @@
         "desc": "Bantu Jarilo-Ⅵ dan Belobog selesaikan krisis besar (lagi)\\n<color=#8790abff>※ Selesaikan Misi Trailblaze Lanjutan \"Pasar Masa Depan\"</color>",
         "rarity": 2,
         "version": "1.4"
+      },
+      {
+        "id": 4032802,
+        "name": "Bahaya dalam Hatiku",
+        "desc": "Pergi selidiki hal mistis di Fyxestroll Garden bersama Guinaifen\\n<color=#8790abff>※ Bereskan Heliobus Cirrus untuk menyelesaikan krisis Heliobus di Fyxestroll Garden</color>",
+        "rarity": 2,
+        "version": "1.5"
+      },
+      {
+        "id": 4032801,
+        "name": "Ekor Berbulu dan Gemas",
+        "desc": "Mengumpulkan cerita mistis bersama dengan tim pemburu hantu\\n<color=#8790abff>※ Cari kembali Tail dan bereskan Heliobus yang melarikan diri di Luofu ....</color>",
+        "rarity": 2,
+        "version": "1.5"
       }
     ]
   },
@@ -389,18 +410,18 @@
         "version": "1.0"
       },
       {
-        "id": 4040101,
-        "name": "Karakter Permainan Peran yang Legal",
-        "desc": "Membuka Peti Harta 30 kali di Stasiun Luar Angkasa \"Herta\"",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
         "id": 4042506,
         "name": "Menyusuri Jarak Jauh",
         "desc": "Mengaktifkan Space Anchor 20 kali di Xianzhou \"Luofu\"",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4040101,
+        "name": "Karakter Permainan Peran yang Legal",
+        "desc": "Membuka Peti Harta 30 kali di Stasiun Luar Angkasa \"Herta\"",
+        "rarity": 3,
+        "version": "1.0"
       },
       {
         "id": 4040102,
@@ -606,6 +627,13 @@
         "version": "1.0"
       },
       {
+        "id": 4052717,
+        "name": "Angin Utara Melahirkan Pahlawan",
+        "desc": "Mengalahkan Gepard yang ada di belakang gerbang pada \"Mars Tentara Musim Dingin\" tingkat kesulitan III",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4040411,
         "name": "Metafora Gua",
         "desc": "Menyelesaikan Hexanexus 30 kali",
@@ -655,6 +683,20 @@
         "version": "1.2"
       },
       {
+        "id": 4042802,
+        "name": "Bagaimana Golem Datang ke Dunia",
+        "desc": "Memperoleh total 9 kali hadiah \"Pathfinder\" di Fyxestroll Garden",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4042801,
+        "name": "Mencari Kebahagiaan dari Kesempitan",
+        "desc": "Lewati cermin perunggu dan buka Peti Harta yang tersembunyi di pulau yang mengapung di udara",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
         "id": 4042401,
         "name": "Terjebak Perangkap",
         "desc": "Menangkap Trotter yang tersesat 1 kali dalam pertempuran",
@@ -667,60 +709,11 @@
     "name": "Memori Bersamamu",
     "achievements": [
       {
-        "id": 4052613,
-        "name": "Trailblazer yang Jujur",
-        "desc": "Ceritakan pada Cleo kebenaran tentang Todd",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052614,
-        "name": "Tahap Kehidupan Baru",
-        "desc": "Tutupi kebenaran tentang Todd dari Cleo",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052615,
-        "name": "Pahitnya Air Sungai Pelupaan",
-        "desc": "Menyelesaikan Misi Bersama \"Mengenang Penuh\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052616,
-        "name": "Pemandangan Asli Dataran Salju",
-        "desc": "Menyelesaikan Misi Bersama \"Lebih Jauh dari Dataran Salju\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052617,
-        "name": "Hujan dan Embun Masa Lalu",
-        "desc": "Menyelesaikan Misi Bersama \"Sang Naga Kembali\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052618,
-        "name": "Hanya Abu Putih yang Tersisa",
-        "desc": "Menyelesaikan Misi Bersama \"Kesayanganku, Darah Dagingku\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4051001,
         "name": "Coba Tebak Siapa Aku",
         "desc": "Menyelesaikan Misi Bersama \"Kamu Tahu Aku\"",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4052603,
-        "name": "Ketenangan Senja",
-        "desc": "Mendengarkan seluruh \"Siaran Interastral Peace\" Episode 1",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4051002,
@@ -779,20 +772,6 @@
         "version": "1.1"
       },
       {
-        "id": 4052401,
-        "name": "Di mana Dahan untuk Bersandar?",
-        "desc": "Ungkap identitas monster Mara-struck ke Liangmu di misi \"Bagaikan Embun Fajar\"",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
-        "id": 4052402,
-        "name": "Hutang Budi yang Terpendam",
-        "desc": "Sembunyikan identitas monster Mara-struck dari Liangmu di misi \"Bagaikan Embun Fajar\"",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052403,
         "name": "Penari Keranda",
         "desc": "Menyaksikan sisi tersembunyi Luocha\\n<color=#8790abff>※ Periksa rekaman yang diperbaiki dan dengarkan kata-kata Luocha</color>",
@@ -819,6 +798,76 @@
         "desc": "Menyelesaikan Misi Bersama \"Surat dari Wanita Misterius\"\\n<color=#8790abff>※ Kamu memilih untuk meninggalkan Kafka. Jarang sekali ada orang yang akan berbuat seperti ini, tapi ini adalah bukti bahwa kamu punya kehendak bebas</color>",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052615,
+        "name": "Pahitnya Air Sungai Pelupaan",
+        "desc": "Menyelesaikan Misi Bersama \"Mengenang Penuh\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052616,
+        "name": "Pemandangan Asli Dataran Salju",
+        "desc": "Menyelesaikan Misi Bersama \"Lebih Jauh dari Dataran Salju\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052617,
+        "name": "Hujan dan Embun Masa Lalu",
+        "desc": "Menyelesaikan Misi Bersama \"Sang Naga Kembali\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052618,
+        "name": "Hanya Abu Putih yang Tersisa",
+        "desc": "Menyelesaikan Misi Bersama \"Kesayanganku, Darah Dagingku\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052703,
+        "name": "Bengkok Tapi Tak Patah",
+        "desc": "Menyelesaikan Misi Bersama \"Awan Tidak Meninggalkan Jejak\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052801,
+        "name": "Ratusan Pertempuran Serangga Langit",
+        "desc": "Menyelesaikan Misi Bersama \"Malam Halusinasi Alam Semesta\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4051109,
+        "name": "Satu Hari Lagi",
+        "desc": "Menemukan semua item Julian dalam misi \"Benda Berharga Hook\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051110,
+        "name": "Siklus Hidup Objek Perangkat Lunak",
+        "desc": "Memilih untuk tidak memformat robot kecil dalam misi \"Jarang Perhatian (Bagian 2)\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051111,
+        "name": "Untuk Napas Aku Bertahan",
+        "desc": "Memilih untuk memformat robot kecil dalam misi \"Jarang Perhatian (Bagian 2)\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052603,
+        "name": "Ketenangan Senja",
+        "desc": "Mendengarkan seluruh \"Siaran Interastral Peace\" Episode 1",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4051103,
@@ -912,13 +961,6 @@
         "version": "1.0"
       },
       {
-        "id": 4051109,
-        "name": "Satu Hari Lagi",
-        "desc": "Menemukan semua item Julian dalam misi \"Benda Berharga Hook\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4080601,
         "name": "Adil dan Beradab",
         "desc": "Adu mulut dengan Pelindung Properti Publik dan berikan dia pelajaran karena menghalangimu (atau mengaku salah dengan rendah hati)",
@@ -926,23 +968,9 @@
         "version": "1.0"
       },
       {
-        "id": 4051110,
-        "name": "Siklus Hidup Objek Perangkat Lunak",
-        "desc": "Memilih untuk tidak memformat robot kecil dalam misi \"Jarang Perhatian (Bagian 2)\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4080602,
         "name": "Pendatang Asing",
         "desc": "Mengembalikan kotak musik yang ditemukan di Rivet Town pada pemiliknya yang patah hati",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4051111,
-        "name": "Untuk Napas Aku Bertahan",
-        "desc": "Memilih untuk memformat robot kecil dalam misi \"Jarang Perhatian (Bagian 2)\"",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1038,13 +1066,6 @@
         "version": "1.0"
       },
       {
-        "id": 4052601,
-        "name": "Buat Aurum Alley Berjaya Lagi!",
-        "desc": "Menyelesaikan misi \"Hiruk Pikuk yang Kembali Bergaung 4\" dan menangkan penawaran untuk Distrik Komersial Aurum Alley",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
         "id": 4052318,
         "name": "Geng Gila",
         "desc": "Temukan harta karun yang tersembunyi di air mancur Administrative District, Belobog",
@@ -1057,6 +1078,587 @@
         "desc": "Selesaikan semua teka-teki The Fool's Box di Misi \"Wadah Orang Biasa\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052320,
+        "name": "Tikus Keempat",
+        "desc": "Temukan seluruh peti harta tersembunyi di misi \"Petualang The Moles\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052321,
+        "name": "\"Petualang The Moles\" Edisi Sudah Dewasa",
+        "desc": "Beli \"Petualang The Moles: Harta Karun Tak Terlihat\" dengan Book Merchant di Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052714,
+        "name": "Kaki Itu Cuma Hiasan",
+        "desc": "Membuat proposal yang konyol untuk proyek Engine of Creation",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052715,
+        "name": "Bangkitlah ... Engine of Creation!",
+        "desc": "Membuat proposal yang bagus untuk proyek Engine of Creation",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052720,
+        "name": "Langkah Pertama dari Masa Depan",
+        "desc": "Peduli terhadap perkembangan Belobog\\n<color=#8790abff>※ Membeli \"Tabloid Mingguan Penambang edisi 226\"</color>",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052721,
+        "name": "Buah Kebijaksanaan Anorganik",
+        "desc": "Memperoleh item bacaan \"Pesan dari Screwllum\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052722,
+        "name": "Perjalanan Beruang Kutub",
+        "desc": "Berinteraksi secara hangat dengan beruang kutub kecil",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052723,
+        "name": "Terima Kasih, Pela",
+        "desc": "Bantu Fedora menyelesaikan taruhannya",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052724,
+        "name": "Baja dan Mainan",
+        "desc": "Kirim material sisa dari proyek ke Benjamin",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052725,
+        "name": "Baja dan Lampu Jalanan",
+        "desc": "Kirim material sisa dari proyek ke Pela",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052726,
+        "name": "Sang Raksasa Adalah Saksinya",
+        "desc": "Jaga lidahmu agar tidak melekat pada pegangan yang membeku",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052727,
+        "name": "Adegan Berbahaya, Jangan Ditiru",
+        "desc": "Mendapat pelajaran (lagi) karena memecahkan wadah",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052728,
+        "name": "Yang Pertama Harus Diutamakan",
+        "desc": "Memiliki 1 penggemar yang fanatik",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052729,
+        "name": "Pengakuan dari Sang Topeng",
+        "desc": "Memeriksa Gelembung Memori yang asal usulnya tidak jelas",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052730,
+        "name": "Sampah (Es) Krim",
+        "desc": "Memperoleh sampah dari tempat sampah yang beku",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052404,
+        "name": "Gratis untuk Hari Ini",
+        "desc": "Buka area pameran umum History and Culture Museum di Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052405,
+        "name": "Kucing dan Tikus",
+        "desc": "Buka tiga area pameran History and Culture Museum di Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052406,
+        "name": "Kamu Harusnya Tinggal di Museum!",
+        "desc": "Kumpulkan semua benda yang dipamerkan di History and Culture Museum di Belobog",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
+        "id": 4052701,
+        "name": "Naik Podium Kehormatan",
+        "desc": "Merebut gelar juara di \"Perang Aetherium: Festival Turnamen Interastral\"",
+        "rarity": 2,
+        "version": "1.4"
+      },
+      {
+        "id": 4052702,
+        "name": "Raja Gunung Salju",
+        "desc": "Selesaikan duel yang ditakdirkan di Everwinter Hill pada \"Perang Aetherium\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052704,
+        "name": "Gotta Catch 'Em All",
+        "desc": "Memperoleh seluruh Aether Spirit di \"Perang Aetherium\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052705,
+        "name": "Pemenang Perang Aetherium",
+        "desc": "Mencapai \"Victory Rating\" tertinggi di \"Perang Aetherium\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052706,
+        "name": "Raja Hyperlink",
+        "desc": "Mengalahkan seluruh lawan di \"Perang Aetherium - Duel Hyperlink\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052707,
+        "name": "Lencana Hembusan Dingin",
+        "desc": "Menyelesaikan semua ujian Corridor of Fading Echoes Victory Zone di \"Perang Aetherium\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052708,
+        "name": "Lencana Logam",
+        "desc": "Menyelesaikan semua ujian Cloudford Victory Zone di \"Perang Aetherium\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052709,
+        "name": "Lencana Kecerdasan",
+        "desc": "Menyelesaikan semua ujian Herta Space Station Victory Zone di \"Perang Aetherium\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052710,
+        "name": "Lencana Topeng",
+        "desc": "Menyelesaikan semua ujian Great Mine Victory Zone di \"Perang Aetherium\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052711,
+        "name": "Kita Juaranya?",
+        "desc": "Memenangkan 1 \"Pertandingan Ekshibisi\" di \"Perang Aetherium\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052718,
+        "name": "Setelah Kemenangan, Datanglah Perpisahan",
+        "desc": "Mengembalikan {TEXTJOIN#54} setelah semuanya selesai",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052719,
+        "name": "Setelah Akhir, Datanglah Awal",
+        "desc": "Menyimpan {TEXTJOIN#54} setelah semuanya selesai",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052716,
+        "name": "Game Ini Tidak Ada Update Versi ya?",
+        "desc": "Memperoleh seluruh \"Aether Expansion Chip\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4032309,
+        "name": "Sarang Ular",
+        "desc": "Saksikan kisah Dan Shu",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4052510,
+        "name": "Teman Cloud Knight",
+        "desc": "Selesaikan perintah dari Jenderal tanpa terdistraksi",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4052323,
+        "name": "Hidup Sederhana",
+        "desc": "Menerima pesan dari Luhui setelah menyelesaikan misi \"Pemecatan\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052324,
+        "name": "Kerahkan Seluruh Tenaga, Jadi Pesimis, Lalu Menyerah",
+        "desc": "Menerima semua pesan tentang semangat Chengjie yang pudar setelah menyelesaikan misi \"Guru dan Teman\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052325,
+        "name": "Penipuan Dunia Maya",
+        "desc": "Memilih untuk membuat Nona Foxian menyerahkan diri di misi \"Mengejar Cinta di Xianzhou\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052326,
+        "name": "Tuan Tootsie",
+        "desc": "Memilih untuk membuat Nona Foxian mengungkap identitas aslinya di misi \"Mengejar Cinta di Xianzhou\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052327,
+        "name": "Rahasia Membuat Wanita Menjadi Wanita",
+        "desc": "Memilih untuk membuat Nona Foxian tetap misterius di misi \"Mengejar Cinta di Xianzhou\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052401,
+        "name": "Di mana Dahan untuk Bersandar?",
+        "desc": "Ungkap identitas monster Mara-struck ke Liangmu di misi \"Bagaikan Embun Fajar\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052402,
+        "name": "Hutang Budi yang Terpendam",
+        "desc": "Sembunyikan identitas monster Mara-struck dari Liangmu di misi \"Bagaikan Embun Fajar\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052328,
+        "name": "Tujuh Kesalahan Burung Pengintai: Malas",
+        "desc": "Bujuk Burung Pengintai yang depresi kembali bekerja",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052329,
+        "name": "Tujuh Burung di Tangan Lebih Baik dari Ribuan Burung di Hutan",
+        "desc": "Bantu Heron Express menemukan semua Burung Pengintai yang hilang",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052330,
+        "name": "Bertindak Sesuai Alasan",
+        "desc": "Menangkan Kompetisi Makan Besar Xianzhou \"Luofu\" dengan adil",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052331,
+        "name": "Trik Penghancur Musuh",
+        "desc": "Menangkan Kompetisi Makan Besar Xianzhou \"Luofu\" dengan cara licik",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052332,
+        "name": "Kalah Telak",
+        "desc": "Kalah di Kompetisi Makan Besar Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052333,
+        "name": "Jauh dari Dunia",
+        "desc": "Bicara dengan Dewa dalam Vas dan dapatkan hadiah dari vas",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052334,
+        "name": "Biarkan Hasrat Hilang Terbawa Angin",
+        "desc": "Bicara dengan Dewa dalam Vas dan tolak hadiah darinya",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052335,
+        "name": "Pergilah dari Xianzhou, yang Terkutuk",
+        "desc": "Selesaikan 15 tantangan Hexanexus dari Hex Club",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052336,
+        "name": "Coba Uji Aku",
+        "desc": "Selesaikan 15 tantangan Hexanexus baru dari Hex Club",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052337,
+        "name": "Kerja Bagai Kuda",
+        "desc": "Periksa 3 lemari dokumen yang berbeda di Seat of Divine Foresight",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052338,
+        "name": "Benang Penyambung di Aksi Kriminal",
+        "desc": "Hentikan aksi turis aneh yang melempar koin ke mesin Starskiff",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052339,
+        "name": "Penerbangan Dibatalkan",
+        "desc": "Bantu turis aneh melempar koin ke mesin Starskiff",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052340,
+        "name": "Pulanglah",
+        "desc": "Ambil kembali Credit yang diambil penipu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052341,
+        "name": "Tinggalkan Saja",
+        "desc": "Tidak mengambil kembali Credit yang diambil penipu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052342,
+        "name": "Ketamakan Tiada Henti",
+        "desc": "Ambil Credit lebih banyak dari yang seharusnya dari penipu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052343,
+        "name": "Tujuh Kesalahan Burung Pengintai: Hasrat",
+        "desc": "Ikuti Burung Pengintai yang Sopan mencari album gambar yang disita bea cukai",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052344,
+        "name": "Tujuh Kesalahan Burung Pengintai: Rakus",
+        "desc": "Selesaikan 1 taruhan dengan Burung Pengintai yang Tidak Puas",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052345,
+        "name": "Tujuh Kesalahan Burung Pengintai: Tamak",
+        "desc": "Jelajahi \"gunung pengantaran\" yang dijaga \"Naga Jahat\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052346,
+        "name": "Tujuh Kesalahan Burung Pengintai: Iri",
+        "desc": "Selesaikan tantangan Burung Pengintai yang Marah",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052347,
+        "name": "Tujuh Kesalahan Burung Pengintai: Murka",
+        "desc": "Kalahkan penjahat yang menghalangi bersama Burung Pengintai yang Pemberani",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052348,
+        "name": "Tujuh Kesalahan Burung Pengintai: Arogan",
+        "desc": "Selesaikan tantangan \"Empat Orang Jahat Luofu\" (sebut sendiri)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "Yang Mau Tidak Terjebak Umpan",
+        "desc": "Menemukan hubungan antara dua pemancing dari Artisanship Commission",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Caraku Mengatasi Ketakutan",
+        "desc": "Sukses menangani krisis bom neutron",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Pengitaran Bulan dan Gelombang Laut",
+        "desc": "Mengikuti Tes Mengemudi Pilot Aurumaton 1 kali",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Penulis Ulung",
+        "desc": "Mendapatkan pengakuan bakat literasi dari Metrical Poet",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Penulis Awam",
+        "desc": "Gagal mendapat pengakuan bakat literasi dari Metrical Poet",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "Dari Hati Turun ke Aksi",
+        "desc": "Menyelesaikan 1 kali pelepasan bersama dengan \"Kelompok Pelepasan\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Dari Mata Turun ke Hati",
+        "desc": "Menyaksikan akhir \"Kelompok Pelepasan\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052613,
+        "name": "Trailblazer yang Jujur",
+        "desc": "Ceritakan pada Cleo kebenaran tentang Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052614,
+        "name": "Tahap Kehidupan Baru",
+        "desc": "Tutupi kebenaran tentang Todd dari Cleo",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052824,
+        "name": "Aku, Naga Terhormat, Tolong Transfer",
+        "desc": "Menerima pesan penipuan yang berpura-pura menjadi Naga Terhormat di Fyxestroll Garden",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052813,
+        "name": "Wuu Ha Ha!",
+        "desc": "Memperoleh 900 hadiah teka-teki dari Hantu Kecil di Fyxestroll Garden",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052814,
+        "name": "Tarian Jari Jemari",
+        "desc": "Membantu Heliobus di kecapi untuk menyelesaikan lagunya",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052815,
+        "name": "Gunung Tinggi dan Sungai Berarus",
+        "desc": "Menyanyikan \"Anggur Pernikahan\" bersama-sama dengan Aktor Hantu, dan mempertunjukkan performa yang sempurna",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052816,
+        "name": "Murid, Anak Didik, dan Pemberontak!",
+        "desc": "Menyanyikan \"Anggur Pernikahan\" bersama-sama dengan Aktor Hantu, dan salah menyanyikan lirik",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052817,
+        "name": "Warisan Misterius",
+        "desc": "Memecahkan warisan misterius di batu nisan di Foxsomn Tomb",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052818,
+        "name": "Tutup Mataku",
+        "desc": "Bertemu dengan pemilik batu nisan di Foxsomn Tomb",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052819,
+        "name": "Emas! Legendaris!",
+        "desc": "Memperoleh hadiah emas di gameplay baru Celestial Jade",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052820,
+        "name": "Redam Kini Sudah Pijar Istimewa",
+        "desc": "Membawa pergi Heliobus meski Wenyuan dan Ruoxi memohon sambil menangis tersedu-sedu",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052821,
+        "name": "Untuk Kamu yang Abadi",
+        "desc": "Memilih melepaskan Heliobus karena Wenyuan dan Ruoxi memohon sambil menangis tersedu-sedu",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052822,
+        "name": "Sampai Ujung Dunia",
+        "desc": "Setelah menjelajahi Luofu bersama Arkeri, lepaskan Arkeri ke alam semesta",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052823,
+        "name": "Kalahkan yang Jahat, Kontrol Semesta",
+        "desc": "Setelah menjelajahi Luofu bersama Arkeri, segel Argeri ke dalam Menara Penjinak Iblis",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052601,
+        "name": "Buat Aurum Alley Berjaya Lagi!",
+        "desc": "Menyelesaikan misi \"Hiruk Pikuk yang Kembali Bergaung 4\" dan menangkan penawaran untuk Distrik Komersial Aurum Alley",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4052604,
@@ -1073,25 +1675,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052320,
-        "name": "Tikus Keempat",
-        "desc": "Temukan seluruh peti harta tersembunyi di misi \"Petualang The Moles\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052606,
         "name": "Pembawa Kekayaan",
         "desc": "Menghasilkan 1000000 dana untuk Serikat Dagang Aurum Alley pada \"Hiruk Pikuk Aurum Alley\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052321,
-        "name": "\"Petualang The Moles\" Edisi Sudah Dewasa",
-        "desc": "Beli \"Petualang The Moles: Harta Karun Tak Terlihat\" dengan Book Merchant di Belobog",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052607,
@@ -1101,20 +1689,6 @@
         "version": "1.3"
       },
       {
-        "id": 4032309,
-        "name": "Sarang Ular",
-        "desc": "Saksikan kisah Dan Shu",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
-        "id": 4052404,
-        "name": "Gratis untuk Hari Ini",
-        "desc": "Buka area pameran umum History and Culture Museum di Belobog",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052608,
         "name": "Pengiriman Efektif",
         "desc": "Menyelesaikan pesanan khusus \"Heron Express\" pada \"Hiruk Pikuk Aurum Alley\"",
@@ -1122,25 +1696,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052405,
-        "name": "Kucing dan Tikus",
-        "desc": "Buka tiga area pameran History and Culture Museum di Belobog",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052609,
         "name": "Diuji untuk Kesempurnaan",
         "desc": "Menyelesaikan event jalanan \"Pencarian Diting\" pada \"Hiruk Pikuk Aurum Alley\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052406,
-        "name": "Kamu Harusnya Tinggal di Museum!",
-        "desc": "Kumpulkan semua benda yang dipamerkan di History and Culture Museum di Belobog",
-        "rarity": 2,
-        "version": "1.1"
       },
       {
         "id": 4052610,
@@ -1157,25 +1717,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052323,
-        "name": "Hidup Sederhana",
-        "desc": "Menerima pesan dari Luhui setelah menyelesaikan misi \"Pemecatan\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052612,
         "name": "Garis Langit Pasar Malam",
         "desc": "Mencapai skor 81 dalam perencanaan rute pengiriman pada \"Hiruk Pikuk Aurum Alley\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052324,
-        "name": "Kerahkan Seluruh Tenaga, Jadi Pesimis, Lalu Menyerah",
-        "desc": "Menerima semua pesan tentang semangat Chengjie yang pudar setelah menyelesaikan misi \"Guru dan Teman\"",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052619,
@@ -1185,179 +1731,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052325,
-        "name": "Penipuan Dunia Maya",
-        "desc": "Memilih untuk membuat Nona Foxian menyerahkan diri di misi \"Mengejar Cinta di Xianzhou\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052620,
         "name": "Jalan yang Dapat Dijelaskan Bukanlah Jalan yang Sejati",
         "desc": "Saksikan kisah identitas tersembunyi Yongren",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052326,
-        "name": "Tuan Tootsie",
-        "desc": "Memilih untuk membuat Nona Foxian mengungkap identitas aslinya di misi \"Mengejar Cinta di Xianzhou\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052701,
-        "name": "Naik Podium Kehormatan",
-        "desc": "Merebut gelar juara di \"Perang Aetherium: Festival Turnamen Interastral\"",
-        "rarity": 2,
-        "version": "1.4"
-      },
-      {
-        "id": 4052327,
-        "name": "Rahasia Membuat Wanita Menjadi Wanita",
-        "desc": "Memilih untuk membuat Nona Foxian tetap misterius di misi \"Mengejar Cinta di Xianzhou\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052702,
-        "name": "Raja Gunung Salju",
-        "desc": "Selesaikan duel yang ditakdirkan di Everwinter Hill pada \"Perang Aetherium\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052328,
-        "name": "Tujuh Kesalahan Burung Pengintai: Malas",
-        "desc": "Bujuk Burung Pengintai yang depresi kembali bekerja",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052703,
-        "name": "Bengkok Tapi Tak Patah",
-        "desc": "Menyelesaikan Misi Bersama \"Awan Tidak Meninggalkan Jejak\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052329,
-        "name": "Tujuh Burung di Tangan Lebih Baik dari Ribuan Burung di Hutan",
-        "desc": "Bantu Heron Express menemukan semua Burung Pengintai yang hilang",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052704,
-        "name": "Gotta Catch 'Em All",
-        "desc": "Memperoleh seluruh Aether Spirit di \"Perang Aetherium\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052330,
-        "name": "Bertindak Sesuai Alasan",
-        "desc": "Menangkan Kompetisi Makan Besar Xianzhou \"Luofu\" dengan adil",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052705,
-        "name": "Pemenang Perang Aetherium",
-        "desc": "Mencapai \"Victory Rating\" tertinggi di \"Perang Aetherium\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052331,
-        "name": "Trik Penghancur Musuh",
-        "desc": "Menangkan Kompetisi Makan Besar Xianzhou \"Luofu\" dengan cara licik",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052706,
-        "name": "Raja Hyperlink",
-        "desc": "Mengalahkan seluruh lawan di \"Perang Aetherium - Duel Hyperlink\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052332,
-        "name": "Kalah Telak",
-        "desc": "Kalah di Kompetisi Makan Besar Xianzhou Luofu",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052707,
-        "name": "Lencana Hembusan Dingin",
-        "desc": "Menyelesaikan semua ujian Corridor of Fading Echoes Victory Zone di \"Perang Aetherium\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052333,
-        "name": "Jauh dari Dunia",
-        "desc": "Bicara dengan Dewa dalam Vas dan dapatkan hadiah dari vas",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052708,
-        "name": "Lencana Logam",
-        "desc": "Menyelesaikan semua ujian Cloudford Victory Zone di \"Perang Aetherium\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052334,
-        "name": "Biarkan Hasrat Hilang Terbawa Angin",
-        "desc": "Bicara dengan Dewa dalam Vas dan tolak hadiah darinya",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052709,
-        "name": "Lencana Kecerdasan",
-        "desc": "Menyelesaikan semua ujian Herta Space Station Victory Zone di \"Perang Aetherium\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052335,
-        "name": "Pergilah dari Xianzhou, yang Terkutuk",
-        "desc": "Selesaikan 15 tantangan Hexanexus dari Hex Club",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052710,
-        "name": "Lencana Topeng",
-        "desc": "Menyelesaikan semua ujian Great Mine Victory Zone di \"Perang Aetherium\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052336,
-        "name": "Coba Uji Aku",
-        "desc": "Selesaikan 15 tantangan Hexanexus baru dari Hex Club",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052711,
-        "name": "Kita Juaranya?",
-        "desc": "Memenangkan 1 \"Pertandingan Ekshibisi\" di \"Perang Aetherium\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052337,
-        "name": "Kerja Bagai Kuda",
-        "desc": "Periksa 7 lemari dokumen yang berbeda di Seat of Divine Foresight",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052712,
@@ -1367,13 +1745,6 @@
         "version": "1.4"
       },
       {
-        "id": 4052338,
-        "name": "Benang Penyambung di Aksi Kriminal",
-        "desc": "Hentikan aksi turis aneh yang melempar koin ke mesin Starskiff",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052713,
         "name": "Belajar Melawak",
         "desc": "Dengarkan pertunjukan mini Dang Dut",
@@ -1381,249 +1752,81 @@
         "version": "1.4"
       },
       {
-        "id": 4052339,
-        "name": "Penerbangan Dibatalkan",
-        "desc": "Bantu turis aneh melempar koin ke mesin Starskiff",
+        "id": 4052802,
+        "name": "Halo, Dunia!",
+        "desc": "Membuat sebuah postingan di \"Situs Mistis Luofu\"",
         "rarity": 1,
-        "version": "1.0"
+        "version": "1.5"
       },
       {
-        "id": 4052714,
-        "name": "Kaki Itu Cuma Hiasan",
-        "desc": "Membuat proposal yang konyol untuk proyek Engine of Creation",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052340,
-        "name": "Pulanglah",
-        "desc": "Ambil kembali Credit yang diambil penipu",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052715,
-        "name": "Bangkitlah ... Engine of Creation!",
-        "desc": "Membuat proposal yang bagus untuk proyek Engine of Creation",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052341,
-        "name": "Tinggalkan Saja",
-        "desc": "Tidak mengambil kembali Credit yang diambil penipu",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052716,
-        "name": "Game Ini Tidak Ada Update Versi ya?",
-        "desc": "Memperoleh seluruh \"Aether Expansion Chip\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052342,
-        "name": "Ketamakan Tiada Henti",
-        "desc": "Ambil Credit lebih banyak dari yang seharusnya dari penipu",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052717,
-        "name": "Angin Utara Melahirkan Pahlawan",
-        "desc": "Mengalahkan Gepard yang ada di belakang gerbang pada \"Mars Tentara Musim Dingin\" tingkat kesulitan III",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052343,
-        "name": "Tujuh Kesalahan Burung Pengintai: Hasrat",
-        "desc": "Ikuti Burung Pengintai yang Sopan mencari album gambar yang disita bea cukai",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052718,
-        "name": "Setelah Kemenangan, Datanglah Perpisahan",
-        "desc": "Mengembalikan {TEXTJOIN#54} setelah semuanya selesai",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052344,
-        "name": "Tujuh Kesalahan Burung Pengintai: Rakus",
-        "desc": "Selesaikan 1 taruhan dengan Burung Pengintai yang Tidak Puas",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052719,
-        "name": "Setelah Akhir, Datanglah Awal",
-        "desc": "Menyimpan {TEXTJOIN#54} setelah semuanya selesai",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052345,
-        "name": "Tujuh Kesalahan Burung Pengintai: Tamak",
-        "desc": "Jelajahi \"gunung pengantaran\" yang dijaga \"Naga Jahat\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052720,
-        "name": "Langkah Pertama dari Masa Depan",
-        "desc": "Peduli terhadap perkembangan Belobog\\n<color=#8790abff>※ Membeli \"Tabloid Mingguan Penambang edisi 226\"</color>",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052346,
-        "name": "Tujuh Kesalahan Burung Pengintai: Iri",
-        "desc": "Selesaikan tantangan Burung Pengintai yang Marah",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052721,
-        "name": "Buah Kebijaksanaan Anorganik",
-        "desc": "Memperoleh item bacaan \"Pesan dari Screwllum\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052347,
-        "name": "Tujuh Kesalahan Burung Pengintai: Murka",
-        "desc": "Kalahkan penjahat yang menghalangi bersama Burung Pengintai yang Pemberani",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052722,
-        "name": "Perjalanan Beruang Kutub",
-        "desc": "Berinteraksi secara hangat dengan beruang kutub kecil",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052348,
-        "name": "Tujuh Kesalahan Burung Pengintai: Arogan",
-        "desc": "Selesaikan tantangan \"Empat Orang Jahat Luofu\" (sebut sendiri)",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052723,
-        "name": "Terima Kasih, Pela",
-        "desc": "Bantu Fedora menyelesaikan taruhannya",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052501,
-        "name": "Yang Mau Tidak Terjebak Umpan",
-        "desc": "Menemukan hubungan antara dua pemancing dari Artisanship Commission",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052724,
-        "name": "Baja dan Mainan",
-        "desc": "Kirim material sisa dari proyek ke Benjamin",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052502,
-        "name": "Caraku Mengatasi Ketakutan",
-        "desc": "Sukses menangani krisis bom neutron",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052725,
-        "name": "Baja dan Lampu Jalanan",
-        "desc": "Kirim material sisa dari proyek ke Pela",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052503,
-        "name": "Pengitaran Bulan dan Gelombang Laut",
-        "desc": "Mengikuti Tes Mengemudi Pilot Aurumaton 1 kali",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052726,
-        "name": "Sang Raksasa Adalah Saksinya",
-        "desc": "Jaga lidahmu agar tidak melekat pada pegangan yang membeku",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052504,
-        "name": "Penulis Ulung",
-        "desc": "Mendapatkan pengakuan bakat literasi dari Metrical Poet",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052727,
-        "name": "Adegan Berbahaya, Jangan Ditiru",
-        "desc": "Mendapat pelajaran (lagi) karena memecahkan wadah",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052505,
-        "name": "Penulis Awam",
-        "desc": "Gagal mendapat pengakuan bakat literasi dari Metrical Poet",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052728,
-        "name": "Yang Pertama Harus Diutamakan",
-        "desc": "Memiliki 1 penggemar yang fanatik",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052508,
-        "name": "Dari Hati Turun ke Aksi",
-        "desc": "Menyelesaikan 1 kali pelepasan bersama dengan \"Kelompok Pelepasan\"",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052729,
-        "name": "Pengakuan dari Sang Topeng",
-        "desc": "Memeriksa Gelembung Memori yang asal usulnya tidak jelas",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052509,
-        "name": "Dari Mata Turun ke Hati",
-        "desc": "Menyaksikan akhir \"Kelompok Pelepasan\"",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052730,
-        "name": "Sampah (Es) Krim",
-        "desc": "Memperoleh sampah dari tempat sampah yang beku",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052510,
-        "name": "Teman Cloud Knight",
-        "desc": "Selesaikan perintah dari Jenderal tanpa terdistraksi",
+        "id": 4052803,
+        "name": "Halo, Dunia Baru!",
+        "desc": "Mengumpulkan #1[m] penggemar di \"Situs Mistis Luofu\"",
         "rarity": 2,
-        "version": "1.2"
+        "version": "1.5"
+      },
+      {
+        "id": 4052804,
+        "name": "Jatuh Tujuh Kali, Bangkit Delapan Kali",
+        "desc": "Menguasai semua Teknik Mengusir Setan",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052805,
+        "name": "Pertempuran Pion di Atas Papan",
+        "desc": "Menyelesaikan semua tantangan Catatan Supranatural",
+        "rarity": 2,
+        "version": "1.5"
+      },
+      {
+        "id": 4052806,
+        "name": "Vlogger Pemburu",
+        "desc": "Membuat lebih banyak postingan \"Berita Terkini\" di \"Situs Mistis Luofu\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052807,
+        "name": "Vlogger Misterius",
+        "desc": "Membuat lebih banyak postingan \"Mitospedia\" di \"Situs Mistis Luofu\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052808,
+        "name": "Vlogger yang Riang Gembira",
+        "desc": "Membuat lebih banyak postingan \"Gosip HOT\" di \"Situs Mistis Luofu\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052809,
+        "name": "Vlogger yang Adil dan Seimbang",
+        "desc": "Membuat postingan berbagai topik dengan jumlah yang sama di \"Situs Mistis Luofu\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052810,
+        "name": "\"Tolong kasih jempol!\"",
+        "desc": "Menyukai 15 postingan di \"Situs Mistis Luofu\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052811,
+        "name": "Pengaruh dalam Genggaman",
+        "desc": "Membalas komentar lebih dari 10 kali di \"Situs Mistis Luofu\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052812,
+        "name": "Bersatu Kita Teguh, Bercerai Kita Runtuh",
+        "desc": "Menggunakan \"Burung Pengintai Pengusir Setan\" dan mengumpulkan 24 Pecahan Heliobus",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
@@ -2455,6 +2658,27 @@
         "version": "1.3"
       },
       {
+        "id": 4072701,
+        "name": "Ritual Bela Diri: Ujian Tombak Panjang",
+        "desc": "Menggunakan Dan Heng untuk melancarkan serangan kemenangan melawan Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072702,
+        "name": "Ritual Bela Diri ...?",
+        "desc": "Menggunakan Yanqing untuk melancarkan serangan kemenangan melawan Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072703,
+        "name": "Ritual Bela Diri: Ujian Jiwa Pedang",
+        "desc": "Menggunakan Jingliu untuk melancarkan serangan kemenangan melawan Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4072605,
         "name": "Serangga ... Terbaik Peringkat 5?",
         "desc": "Manfaatkan \"Entomon Eulogy\" dari Lesser Sting atau Juvenile Sting untuk mengalahkan Swarm: True Sting",
@@ -2504,32 +2728,53 @@
         "version": "1.3"
       },
       {
-        "id": 4072701,
-        "name": "Ritual Bela Diri: Ujian Tombak Panjang",
-        "desc": "Menggunakan Dan Heng untuk melancarkan serangan kemenangan melawan Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4072702,
-        "name": "Ritual Bela Diri ...?",
-        "desc": "Menggunakan Yanqing untuk melancarkan serangan kemenangan melawan Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4072703,
-        "name": "Ritual Bela Diri: Ujian Jiwa Pedang",
-        "desc": "Menggunakan Jingliu untuk melancarkan serangan kemenangan melawan Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
         "id": 4072704,
         "name": "Dari Empat Orang, ... Di Antaranya Harus Membayar Harga ....",
         "desc": "Menggunakan Jingliu untuk mengurangi HP rekan tim mana pun hingga 1 dalam satu pertempuran",
         "rarity": 1,
         "version": "1.4"
+      },
+      {
+        "id": 4072806,
+        "name": "Yang Kaya Juga Kelaparan",
+        "desc": "Musuh dengan anomali \"Usurp\" gagal mencuri Poin Skill 5 kali saat menyerang",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072805,
+        "name": "Hakim Sejati Melawan Kejahatan",
+        "desc": "Menyelesaikan stage manapun di \"Catatan Supranatural\" tanpa terkena DMG",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072804,
+        "name": "Sabetan Scythe Berapi",
+        "desc": "Menggunakan Teknik Mengusir Setan dan mengubah Trotter menjadi Trotter",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072803,
+        "name": "Petir Membahana",
+        "desc": "Di saat bersamaan memicu 3 atau lebih \"Quincunx Smite\" dan mengakhiri pertempuran",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072802,
+        "name": "Sepanas Neraka",
+        "desc": "Dalam tantangan \"Illusory Maze: Cirrus\", ada 4 Flamespawn di medan di saat bersamaan",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072801,
+        "name": "Semua Berkumpul! Bubar!",
+        "desc": "Menggunakan Technique Huohuo \"Fiend: Impeachment of Evil\", dan di saat bersamaan membuat 6 target atau lebih melarikan diri",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
@@ -2581,7 +2826,7 @@
       {
         "id": 4080304,
         "name": "Konsekuensi Karma",
-        "desc": "Biarkan Keberadaan Mulia yang hidup di dalam hati kami berbisik padamu\\n<color=#8790abff>※ Temukan cara untuk menggunakan \"Pengakuan Moral Tertinggi\"</color>",
+        "desc": "Biarkan Keberadaan Mulia yang hidup di dalam hati kami berbisik padamu\\n<color=#8790abff>※ Temukan cara untuk menggunakan \"Praise of High Moral\"</color>",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2889,7 +3134,7 @@
       {
         "id": 4082704,
         "name": "Proses Lebih Penting daripada Hasil",
-        "desc": "Membeli 1 Paket yang Belum Diambil dari Maozhen di Cloudford",
+        "desc": "Membeli 1 Paket Berharga yang Belum Diambil dari Maozhen di Cloudford",
         "rarity": 1,
         "version": "1.4"
       },
@@ -2927,257 +3172,54 @@
         "desc": "Menyelesaikan 3 pertempuran dengan menggunakan \"Automatic Wooden Dummy\"",
         "rarity": 1,
         "version": "1.4"
+      },
+      {
+        "id": 4082806,
+        "name": "Misi yang Tidak Mungkin?",
+        "desc": "Mengalahkan Phantylia dengan menggunakan Basic Attack Huohuo \"Banner: Stormcaller\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082805,
+        "name": "Selamat Malam, Nina Bobo",
+        "desc": "Memasuki pertempuran setelah menggunakan Hypnotic Hammer dan ada karakter yang memasuki status Strong Reverberation",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082804,
+        "name": "Tim Berani Mati",
+        "desc": "Memenangkan 1 pertempuran dengan tim yang terdiri dari Huohuo, Sushang, Guinaifen, dan {NICKNAME}",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082803,
+        "name": "Kabur Tapi Ada Untungnya",
+        "desc": "Mundur dari pertempuran saat seluruh rekan tim gugur terkecuali Huohuo",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082802,
+        "name": "Tim Kesatria Galaksi",
+        "desc": "Memenangkan 1 pertempuran dengan tim yang terdiri dari Argenti dan {NICKNAME}",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082801,
+        "name": "Panggil Aku di Tengah Dunia",
+        "desc": "Memicu 10 kalimat bersuara dari rekan tim yang berbeda saat satu tim dengan {NICKNAME}",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
   "9": {
     "name": "Dunia dalam Sekam",
     "achievements": [
-      {
-        "id": 4092635,
-        "name": "Empat Ratus Serangan",
-        "desc": "Menggunakan minimal 40 Basic Attack dan menang dalam satu pertempuran di \"Simulated Universe\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092633,
-        "name": "Tekad Bersama",
-        "desc": "Total membuka 1 Blessing dengan Path \"Propagation\" di \"Simulated Universe\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092634,
-        "name": "Tahap Keempat",
-        "desc": "Membawa lebih dari atau sama dengan 10 Blessing dengan Path \"Propagation\" saat menyelesaikan \"Simulated Universe\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092601,
-        "name": "Musim Semi di Fialta",
-        "desc": "Saat menggunakan Path \"Elation\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memperoleh 12 \"Happiness\" yang berbeda",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092602,
-        "name": "Musim Berburu",
-        "desc": "Menggunakan Path \"Hunt\" dan menangkap lebih dari 8 Trotter melalui pertempuran di permukaan yang sama di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092603,
-        "name": "Macadam Stories",
-        "desc": "Menggunakan Path \"Remembrance\" untuk menyalin Zona \"Hadiah\" sebanyak 6 kali berturut-turut di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092604,
-        "name": "Predator",
-        "desc": "Saat menggunakan Path \"Destruction\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memperoleh 40 kemenangan di pertempuran",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092605,
-        "name": "Lambang Pertukaran dan Kematian",
-        "desc": "Saat menggunakan Path \"Nihility\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memasuki 15 Zona \"Kosong\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092606,
-        "name": "Simulated Universe Bukan Candi Prambanan",
-        "desc": "Saat menggunakan Path \"Preservation\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", menambahkan \"Cornerstone\" ke 8 Zona yang berbeda",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092607,
-        "name": "Satu Jentikan Tangan",
-        "desc": "Saat menggunakan Path \"Abundance\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", sisa waktu hitung mundur lebih dari atau sama dengan 80",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092608,
-        "name": "Kembali ke Klendathu",
-        "desc": "Saat menggunakan Path \"Propagation\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memasuki Zona \"Pertempuran: Swarm\", \"Event: Swarm\", atau \"Boss: Swarm\" sebanyak 15 kali",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092609,
-        "name": "Selamat Datang ke Rumah Monyet",
-        "desc": "Mengocok Dadu Interelasi: Elation total 100 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092610,
-        "name": "Sekeras-kerasnya Batu, Tertimpa Hujan akan Retak Juga",
-        "desc": "Mengocok Dadu Interelasi: Hunt total 100 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092611,
-        "name": "Kekal dan Sehari",
-        "desc": "Mengocok Dadu Interelasi: Remembrance total 100 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092612,
-        "name": "Dunia Sebagai Perwakilan",
-        "desc": "Mengocok Dadu Interelasi: Nihility total 100 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092613,
-        "name": "Pembumihangusan",
-        "desc": "Mengocok Dadu Interelasi: Destruction total 100 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092614,
-        "name": "Pendengar dan Pengamat",
-        "desc": "Mengocok Dadu Interelasi: Abundance total 100 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092615,
-        "name": "Pembentukan Inti yang Merata",
-        "desc": "Mengocok Dadu Interelasi: Preservation total 100 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092616,
-        "name": "Putra Methuselah",
-        "desc": "Mengocok Dadu Interelasi: Propagation total 100 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092617,
-        "name": "Pengelola Arsip",
-        "desc": "Saat menyelesaikan \"Simulated Universe: Bencana Swarm\", mempunyai lebih dari atau sama dengan 9999 Cosmic Fragment",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
-        "id": 4092618,
-        "name": "Tangan yang Meraih Bintang",
-        "desc": "<u>Memperoleh kekuatan yang tak terbatas</u> di event Kisah Promosi IPC dalam \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092619,
-        "name": "Tuan Q",
-        "desc": "Membeli semua item di toko Blessing dan Benda Langka di Zona \"Transaksi\" yang sama di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092620,
-        "name": "Selamat Datang di Valhalla",
-        "desc": "Kalah dalam pertempuran yang dipicu di event Genius Society #55 Yu Qingtu di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092621,
-        "name": "Si Penghancur Ⅱ",
-        "desc": "Menghancurkan objek yang bisa dihancurkan sebanyak lebih dari atau sama dengan 100 di 1 tantangan \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092622,
-        "name": "Kisah Peternakan",
-        "desc": "Menangkap lebih dari atau sama dengan 16 Trotter di dalam 1 Zona \"Petualangan\" di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092623,
-        "name": "Ruang dengan Takdir Berbeda",
-        "desc": "Menyalakan 1 \"Jalan Pathstrider\" yang tersembunyi di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092624,
-        "name": "Paduan Suara Solo",
-        "desc": "Menghasilkan 2 kali Resonance Interplay dalam 1 kali \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092625,
-        "name": "Melestarikan, atau Menghancurkan?",
-        "desc": "Menyelesaikan 1 kali pilihan Path di Zona \"Event\" di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092626,
-        "name": "Roda Takdir",
-        "desc": "Menyelesaikan seluruh pilihan Path di Zona \"Event\" di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092627,
-        "name": "Yang Akan Terjadi",
-        "desc": "Melakukan Cheat total 10 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092628,
-        "name": "Kembali ke Masa Depan",
-        "desc": "Kocok ulang 50 kali di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092629,
-        "name": "Akhir dari Kekekalan",
-        "desc": "Memasuki Zona \"Kosong\" dengan Path selain Nihility di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092630,
-        "name": "Menunggangi Komet",
-        "desc": "Menyelesaikan seluruh target di Zona \"Petualangan\" mana pun di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092631,
-        "name": "Penyidik Weyland-Yutani",
-        "desc": "Memasuki Zona \"Pertempuran: Swarm\", \"Event: Swarm\", atau \"Boss: Swarm\" sebanyak 15 kali menggunakan Path selain \"Propagation\" di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092632,
-        "name": "Perangkat Relai",
-        "desc": "Membuat Level Gangguan di Gangguan Permukaan lebih dari atau sama dengan Lv. 20 saat menyelesaikan \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
       {
         "id": 4090201,
         "name": "Kebebasan Pertama dan Terakhir",
@@ -3200,25 +3242,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092636,
-        "name": "Kesunyian Semesta",
-        "desc": "Menyelesaikan semua alur cerita Bencana Swarm di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
         "id": 4090204,
         "name": "Mekanisme Reaksi Elemental",
         "desc": "Mengakibatkan 5 Tipe DMG atau lebih dalam satu kali serang di pertempuran \"Simulated Universe\"",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092637,
-        "name": "Asing di Daratan Asing",
-        "desc": "Mengumpulkan seluruh alur cerita Rahasia Trailblaze di \"Simulated Universe: Bencana Swarm\"",
-        "rarity": 2,
-        "version": "1.3"
       },
       {
         "id": 4090205,
@@ -3228,25 +3256,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092638,
-        "name": "Serangan Orbital",
-        "desc": "Menyelesaikan \"Simulated Universe: Bencana Swarm\" tingkat kesulitan V",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4090206,
         "name": "Dua Puluh Empat Puisi Romansa dan Lagu Keputusasaaan",
         "desc": "Saat memenangkan pertempuran di \"Simulated Universe\", persentase HP seluruh karakter dalam tim saat ini kurang dari atau sama dengan 0%",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092639,
-        "name": "Wabah Empat Penjuru",
-        "desc": "Mengumpulkan \"Bencana Swarm\" Chapter \"Hunt I\"",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4090207,
@@ -3256,25 +3270,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092640,
-        "name": "Mimpi Babel",
-        "desc": "Mengumpulkan \"Bencana Swarm\" Chapter \"Preservation II\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4090301,
         "name": "Selamat Malam, Temanku",
         "desc": "Mengalahkan total 15 musuh di \"Simulated Universe\"",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092641,
-        "name": "Lihat! Dasar Orang Ini",
-        "desc": "Mengumpulkan \"Bencana Swarm\" Chapter \"Nihility I\"",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4090303,
@@ -3625,6 +3625,300 @@
         "desc": "Seluruh HP karakter rata-rata masih di Max HP setiap kali memenangkan pertempuran di \"Simulated Universe\" Tingkat Kesulitan 2 ke atas",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4092633,
+        "name": "Tekad Bersama",
+        "desc": "Total membuka 1 Blessing dengan Path \"Propagation\" di \"Simulated Universe\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092635,
+        "name": "Empat Ratus Serangan",
+        "desc": "Menggunakan minimal 40 Basic Attack dan menang dalam satu pertempuran di \"Simulated Universe\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092634,
+        "name": "Tahap Keempat",
+        "desc": "Membawa lebih dari atau sama dengan 10 Blessing dengan Path \"Propagation\" saat menyelesaikan \"Simulated Universe\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092801,
+        "name": "Bantuan dari Keindahan",
+        "desc": "Di Simulated Universe, menggunakan tim berisi Argenti dan menerima Bantuan Knight of Beauty",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4092601,
+        "name": "Musim Semi di Fialta",
+        "desc": "Saat menggunakan Path \"Elation\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memperoleh 12 \"Happiness\" yang berbeda",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092602,
+        "name": "Musim Berburu",
+        "desc": "Menggunakan Path \"Hunt\" dan menangkap lebih dari 8 Trotter melalui pertempuran di permukaan yang sama di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092603,
+        "name": "Macadam Stories",
+        "desc": "Menggunakan Path \"Remembrance\" untuk menyalin Zona \"Hadiah\" sebanyak 6 kali berturut-turut di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092604,
+        "name": "Predator",
+        "desc": "Saat menggunakan Path \"Destruction\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memperoleh 40 kemenangan di pertempuran",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092605,
+        "name": "Lambang Pertukaran dan Kematian",
+        "desc": "Saat menggunakan Path \"Nihility\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memasuki 15 Zona \"Kosong\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092606,
+        "name": "Simulated Universe Bukan Candi Prambanan",
+        "desc": "Saat menggunakan Path \"Preservation\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", menambahkan \"Cornerstone\" ke 8 Zona yang berbeda",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092607,
+        "name": "Satu Jentikan Tangan",
+        "desc": "Saat menggunakan Path \"Abundance\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", sisa waktu hitung mundur lebih dari atau sama dengan 80",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092608,
+        "name": "Kembali ke Klendathu",
+        "desc": "Saat menggunakan Path \"Propagation\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memasuki Zona \"Pertempuran: Swarm\", \"Event: Swarm\", atau \"Boss: Swarm\" sebanyak 15 kali",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092609,
+        "name": "Selamat Datang ke Rumah Monyet",
+        "desc": "Mengocok Dadu Interelasi: Elation total 100 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092610,
+        "name": "Sekeras-kerasnya Batu, Tertimpa Hujan akan Retak Juga",
+        "desc": "Mengocok Dadu Interelasi: Hunt total 100 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092611,
+        "name": "Kekal dan Sehari",
+        "desc": "Mengocok Dadu Interelasi: Remembrance total 100 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092612,
+        "name": "Dunia Sebagai Perwakilan",
+        "desc": "Mengocok Dadu Interelasi: Nihility total 100 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092613,
+        "name": "Pembumihangusan",
+        "desc": "Mengocok Dadu Interelasi: Destruction total 100 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092614,
+        "name": "Pendengar dan Pengamat",
+        "desc": "Mengocok Dadu Interelasi: Abundance total 100 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092615,
+        "name": "Pembentukan Inti yang Merata",
+        "desc": "Mengocok Dadu Interelasi: Preservation total 100 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092616,
+        "name": "Putra Methuselah",
+        "desc": "Mengocok Dadu Interelasi: Propagation total 100 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092617,
+        "name": "Pengelola Arsip",
+        "desc": "Saat menyelesaikan \"Simulated Universe: Bencana Swarm\", mempunyai lebih dari atau sama dengan 9999 Cosmic Fragment",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092618,
+        "name": "Tangan yang Meraih Bintang",
+        "desc": "<u>Memperoleh kekuatan yang tak terbatas</u> di event Kisah Promosi IPC dalam \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092619,
+        "name": "Tuan Q",
+        "desc": "Membeli semua item di toko Blessing dan Benda Langka di Zona \"Transaksi\" yang sama di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092620,
+        "name": "Selamat Datang di Valhalla",
+        "desc": "Kalah dalam pertempuran yang dipicu di event Genius Society #55 Yu Qingtu di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092621,
+        "name": "Si Penghancur Ⅱ",
+        "desc": "Menghancurkan objek yang bisa dihancurkan sebanyak lebih dari atau sama dengan 100 di 1 tantangan \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092622,
+        "name": "Kisah Peternakan",
+        "desc": "Menangkap lebih dari atau sama dengan 16 Trotter di dalam 1 Zona \"Petualangan\" di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092623,
+        "name": "Ruang dengan Takdir Berbeda",
+        "desc": "Menyalakan 1 \"Jalan Pathstrider\" yang tersembunyi di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092624,
+        "name": "Paduan Suara Solo",
+        "desc": "Menghasilkan 2 kali Resonance Interplay dalam 1 kali \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092625,
+        "name": "Melestarikan, atau Menghancurkan?",
+        "desc": "Menyelesaikan 1 kali pilihan Path di Zona \"Event\" di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092626,
+        "name": "Roda Takdir",
+        "desc": "Menyelesaikan seluruh pilihan Path di Zona \"Event\" di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092627,
+        "name": "Yang Akan Terjadi",
+        "desc": "Melakukan Cheat total 10 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092628,
+        "name": "Kembali ke Masa Depan",
+        "desc": "Kocok ulang 50 kali di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092629,
+        "name": "Akhir dari Kekekalan",
+        "desc": "Memasuki Zona \"Kosong\" dengan Path selain Nihility di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092630,
+        "name": "Menunggangi Komet",
+        "desc": "Menyelesaikan seluruh target di Zona \"Petualangan\" mana pun di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092631,
+        "name": "Penyidik Weyland-Yutani",
+        "desc": "Memasuki Zona \"Pertempuran: Swarm\", \"Event: Swarm\", atau \"Boss: Swarm\" sebanyak 15 kali menggunakan Path selain \"Propagation\" di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092632,
+        "name": "Perangkat Relai",
+        "desc": "Membuat Level Gangguan di Gangguan Permukaan lebih dari atau sama dengan Lv. 20 saat menyelesaikan \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092636,
+        "name": "Kesunyian Semesta",
+        "desc": "Menyelesaikan semua alur cerita Bencana Swarm di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092637,
+        "name": "Asing di Daratan Asing",
+        "desc": "Mengumpulkan seluruh alur cerita Rahasia Trailblaze di \"Simulated Universe: Bencana Swarm\"",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092638,
+        "name": "Serangan Orbital",
+        "desc": "Menyelesaikan \"Simulated Universe: Bencana Swarm\" tingkat kesulitan V",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092639,
+        "name": "Wabah Empat Penjuru",
+        "desc": "Mengumpulkan \"Bencana Swarm\" Chapter \"Hunt I\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092640,
+        "name": "Mimpi Babel",
+        "desc": "Mengumpulkan \"Bencana Swarm\" Chapter \"Preservation II\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092641,
+        "name": "Lihat! Dasar Orang Ini",
+        "desc": "Mengumpulkan \"Bencana Swarm\" Chapter \"Nihility I\"",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   }

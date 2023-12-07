@@ -10,6 +10,34 @@
         "version": "1.0"
       },
       {
+        "id": 4010301,
+        "name": "Tuổi Thơ",
+        "desc": "Nhân vật ngẫu nhiên đạt cấp 40",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010302,
+        "name": "Giữa Nhân Gian",
+        "desc": "Nhân vật ngẫu nhiên đạt cấp 60",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010303,
+        "name": "Đại Học Của Tôi",
+        "desc": "Nhân vật ngẫu nhiên đạt cấp 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010102,
+        "name": "Kết Thúc Của Tuổi Thơ",
+        "desc": "4 nhân vật đạt cấp 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
         "id": 4010201,
         "name": "Trong Nguồn Vận Mệnh (1)",
         "desc": "Có 1 Nón Ánh Sáng đạt cấp 40",
@@ -45,13 +73,6 @@
         "version": "1.0"
       },
       {
-        "id": 4010301,
-        "name": "Tuổi Thơ",
-        "desc": "Nhân vật ngẫu nhiên đạt cấp 40",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
         "id": 4080202,
         "name": "Vượt Qua Khó Khăn (2)",
         "desc": "Cân Bằng đạt cấp 3",
@@ -59,30 +80,9 @@
         "version": "1.0"
       },
       {
-        "id": 4010302,
-        "name": "Giữa Nhân Gian",
-        "desc": "Nhân vật ngẫu nhiên đạt cấp 60",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
         "id": 4080203,
         "name": "Vượt Qua Khó Khăn (3)",
         "desc": "Cân Bằng đạt cấp 6",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
-        "id": 4010303,
-        "name": "Đại Học Của Tôi",
-        "desc": "Nhân vật ngẫu nhiên đạt cấp 80",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
-        "id": 4010102,
-        "name": "Kết Thúc Của Tuổi Thơ",
-        "desc": "4 nhân vật đạt cấp 80",
         "rarity": 3,
         "version": "1.0"
       },
@@ -148,19 +148,19 @@
         "desc": "Tất cả bộ phận của nhân vật ngẫu nhiên, trang bị Di Vật 5 Sao cấp 15",
         "rarity": 3,
         "version": "1.0"
+      },
+      {
+        "id": 4012801,
+        "name": "Ngay Ngắn Có Trật Tự",
+        "desc": "Lần đầu xem Sổ Đăng Ký Du Khách",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
   "2": {
     "name": "Dấu Vết Năm Tháng",
     "achievements": [
-      {
-        "id": 4022302,
-        "name": "Con Nhà Giàu Hào Quang Lấp Lánh",
-        "desc": "Tích lũy nhận 100000000 điểm tín dụng",
-        "rarity": 2,
-        "version": "1.0"
-      },
       {
         "id": 4020201,
         "name": "Hướng Dẫn Hành Khách Ngân Hà",
@@ -228,6 +228,13 @@
         "id": 4020702,
         "name": "Hội Viên Vàng Hành Tinh Hòa Bình",
         "desc": "Tích lũy nhận 10000000 điểm tín dụng",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4022302,
+        "name": "Con Nhà Giàu Hào Quang Lấp Lánh",
+        "desc": "Tích lũy nhận 100000000 điểm tín dụng",
         "rarity": 2,
         "version": "1.0"
       },
@@ -361,6 +368,20 @@
         "desc": "(Lặp lại) Giúp Jarilo-VI và Belobog giải quyết mối nguy cực lớn\\n<color=#8790abff>※Hoàn thành Khai Phá Tiếp Diễn \"Thị Trường Tương Lai\"</color>",
         "rarity": 2,
         "version": "1.4"
+      },
+      {
+        "id": 4032802,
+        "name": "Thứ Nguy Hiểm Trong Lòng Tôi",
+        "desc": "Cùng Guinaifen khám phá hiện tượng siêu nhiên ở Khu Vườn Tĩnh Mịch\\n<color=#8790abff>※Trấn áp Tuế Dương Phù Yên, giải quyết mối nguy Tuế Dương ở Khu Vườn Tĩnh Mịch</color>",
+        "rarity": 2,
+        "version": "1.5"
+      },
+      {
+        "id": 4032801,
+        "name": "Có Đuôi To To",
+        "desc": "Cùng Biệt Đội Bắt Ma thu thập tin tức ma quái\\n<color=#8790abff>※Tìm Lão Đuôi, trấn áp Tuế Dương bỏ trốn ở Luofu...</color>",
+        "rarity": 2,
+        "version": "1.5"
       }
     ]
   },
@@ -389,18 +410,18 @@
         "version": "1.0"
       },
       {
-        "id": 4040101,
-        "name": "Người Chơi Nhập Vai Hợp Chuẩn",
-        "desc": "Mở 30 lần Chiến Lợi Phẩm Trạm Không Gian Herta",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
         "id": 4042506,
         "name": "Hành Tung Nơi Xa",
         "desc": "Kích hoạt 20 lần Mỏ Neo Không Gian ở Xianzhou Luofu",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4040101,
+        "name": "Người Chơi Nhập Vai Hợp Chuẩn",
+        "desc": "Mở 30 lần Chiến Lợi Phẩm Trạm Không Gian Herta",
+        "rarity": 3,
+        "version": "1.0"
       },
       {
         "id": 4040102,
@@ -606,6 +627,13 @@
         "version": "1.0"
       },
       {
+        "id": 4052717,
+        "name": "Gió Bắc Tạo Anh Hùng",
+        "desc": "Đánh bại Gepard sau cửa trong Khúc Quân Hành Băng Giá độ khó III",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4040411,
         "name": "Lời Ví Von Hang Động",
         "desc": "Hoàn thành 30 lần Khối Lục Giác",
@@ -655,6 +683,20 @@
         "version": "1.2"
       },
       {
+        "id": 4042802,
+        "name": "Nhật Ký Chiến Thắng Áp Đảo",
+        "desc": "Tại Khu Vườn Tĩnh Mịch, tích lũy nhận 9 lần thưởng \"Tìm Đường Chỉ Lối\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4042801,
+        "name": "Nấc Thang Lên Thiên Đường",
+        "desc": "Xuyên qua gương đồng, mở chiến lợi phẩm ẩn giấu trên Đảo Lơ Lửng",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
         "id": 4042401,
         "name": "Tự Sa Vào Lưới",
         "desc": "Bắt Heo Đất đi lạc trong chiến đấu đạt 1 lần",
@@ -667,60 +709,11 @@
     "name": "Hồi Ức Đồng Hành Cùng Bạn",
     "achievements": [
       {
-        "id": 4052613,
-        "name": "Đi Lại Không Ngừng",
-        "desc": "Nói cho Cleo biết sự thật về Todd",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052614,
-        "name": "Ngã Rẽ Cuộc Đời",
-        "desc": "Giấu sự thật về Todd với Cleo",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052615,
-        "name": "Nước Vong Xuyên Bao Đau Khổ",
-        "desc": "Hoàn thành nhiệm vụ đồng hành \"Hồi Ức Toàn Diện\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052616,
-        "name": "Bên Ngoài Cánh Đồng Tuyết",
-        "desc": "Hoàn thành nhiệm vụ đồng hành \"Xa Hơn Cả Cánh Đồng Tuyết\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052617,
-        "name": "Cơn Mưa Ngày Cũ",
-        "desc": "Hoàn thành nhiệm vụ đồng hành \"Rồng Hồi Hương\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052618,
-        "name": "Tàn Tro Còn Lại",
-        "desc": "Hoàn thành nhiệm vụ đồng hành \"Tình Yêu Của Tôi, Nhịp Đập Của Tôi\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4051001,
         "name": "Đoán Xem Tôi Là Ai",
         "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Có Biết Tôi Không\"",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4052603,
-        "name": "Bảy Giờ Tối Nhàn Hạ",
-        "desc": "Nghe toàn bộ \"Bản Tin Hành Tinh Hòa Bình\" Kỳ 1",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4051002,
@@ -779,20 +772,6 @@
         "version": "1.1"
       },
       {
-        "id": 4052401,
-        "name": "Biết Đậu Cành Nào",
-        "desc": "Trong nhiệm vụ \"Ví Như Sương Mai\", tiết lộ thân phận quái vật Xác Nhập Ma cho Liangmu",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
-        "id": 4052402,
-        "name": "Nhớ Ân Tình Cũ",
-        "desc": "Trong nhiệm vụ \"Ví Như Sương Mai\", che giấu thân phận quái vật Xác Nhập Ma với Liangmu",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052403,
         "name": "Vũ Công Quan Tài",
         "desc": "Chứng kiến mặt trái không để người khác biết của Luocha\\n<color=#8790abff>※Xem đoạn ghi hình sau khi sửa chữa, nghe Luocha độc thoại</color>",
@@ -819,6 +798,76 @@
         "desc": "Hoàn thành nhiệm vụ đồng hành \"Bức Thư Từ Người Phụ Nữ Xa Lạ\"\\n<color=#8790abff>※Bạn đã chọn rời khỏi Kafka, rất ít người làm như vậy, nhưng việc này chứng minh bạn có ý chí tự do</color>",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052615,
+        "name": "Nước Vong Xuyên Bao Đau Khổ",
+        "desc": "Hoàn thành nhiệm vụ đồng hành \"Hồi Ức Toàn Diện\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052616,
+        "name": "Bên Ngoài Cánh Đồng Tuyết",
+        "desc": "Hoàn thành nhiệm vụ đồng hành \"Xa Hơn Cả Cánh Đồng Tuyết\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052617,
+        "name": "Cơn Mưa Ngày Cũ",
+        "desc": "Hoàn thành nhiệm vụ đồng hành \"Rồng Hồi Hương\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052618,
+        "name": "Tàn Tro Còn Lại",
+        "desc": "Hoàn thành nhiệm vụ đồng hành \"Tình Yêu Của Tôi, Nhịp Đập Của Tôi\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052703,
+        "name": "Kiếm Gãy Lại Lành",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Mây Đi Không Dấu Vết\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052801,
+        "name": "Bách Chiến Thiên Trùng",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Đêm Vũ Trụ Ảo Giác\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4051109,
+        "name": "Chỉ Mong Ngày Mai",
+        "desc": "Trong nhiệm vụ Bảo Bối Của Hook tìm tất cả vật phẩm của Julian",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051110,
+        "name": "Vòng Đời Của Phần Mềm",
+        "desc": "Trong nhiệm vụ Chút Ân Tình Hiếm Hoi-2 chọn Robot Nhỏ không theo định dạng nào",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051111,
+        "name": "Khi Hơi Thở Còn Mãi",
+        "desc": "Trong nhiệm vụ Chút Ân Tình Hiếm Hoi-2 chọn Robot Nhỏ để định dạng",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052603,
+        "name": "Bảy Giờ Tối Nhàn Hạ",
+        "desc": "Nghe toàn bộ \"Bản Tin Hành Tinh Hòa Bình\" Kỳ 1",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4051103,
@@ -912,13 +961,6 @@
         "version": "1.0"
       },
       {
-        "id": 4051109,
-        "name": "Chỉ Mong Ngày Mai",
-        "desc": "Trong nhiệm vụ Bảo Bối Của Hook tìm tất cả vật phẩm của Julian",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4080601,
         "name": "Công Bằng Và Lý Lẽ",
         "desc": "Đối chất với Người Bảo Vệ Của Công, cho anh ta biết cái giá phải trả vì đã ngăn cản bạn (hoặc phải cúi mình nhận sai)",
@@ -926,23 +968,9 @@
         "version": "1.0"
       },
       {
-        "id": 4051110,
-        "name": "Vòng Đời Của Phần Mềm",
-        "desc": "Trong nhiệm vụ Chút Ân Tình Hiếm Hoi-2 chọn Robot Nhỏ không theo định dạng nào",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4080602,
         "name": "Người Xứ Khác",
         "desc": "Giao Hộp Nhạc tìm được ở Thị Trấn Rivet cho chủ nhân đang rất đau lòng của nó.",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4051111,
-        "name": "Khi Hơi Thở Còn Mãi",
-        "desc": "Trong nhiệm vụ Chút Ân Tình Hiếm Hoi-2 chọn Robot Nhỏ để định dạng",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1038,13 +1066,6 @@
         "version": "1.0"
       },
       {
-        "id": 4052601,
-        "name": "Giúp Phố Kim Nhân Hưng Thịnh Trở Lại!",
-        "desc": "Hoàn thành nhiệm vụ \"Huyên Náo Trở Lại 4\" và chiến thắng đấu thầu khu thương mại Phố Kim Nhân",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
         "id": 4052318,
         "name": "Cuồng đồ ngoài vòng pháp luật",
         "desc": "Khai quật kho báu giấu trong đài phun nước của Belobog - Khu Hành Chính",
@@ -1057,6 +1078,587 @@
         "desc": "Trong nhiệm vụ Rương Của Kẻ Tầm Thường hoàn thành tất cả câu đố Rương Kẻ Ngốc",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052320,
+        "name": "Chuột Chũi Thứ 4",
+        "desc": "Trong nhiệm vụ Đội Chuột Chũi Phiêu Lưu, tìm thấy tất cả rương ẩn",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052321,
+        "name": "Bản Trưởng Thành Siêu Cấp \"Đội Chuột Chũi Phiêu Lưu\"",
+        "desc": "Tại tiệm sách của Belobog mua \"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052714,
+        "name": "Chân Chỉ Để Trang Trí Thôi",
+        "desc": "Xây dựng một kế hoạch không tưởng cho Gốc Rễ Của Tạo Vật",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052715,
+        "name": "Vận Động Đi... Gốc Rễ Của Tạo Vật!",
+        "desc": "Xây dựng một kế hoạch đáng tin cậy cho Gốc Rễ Của Tạo Vật",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052720,
+        "name": "Bước Đầu Tiên Của Tương Lai",
+        "desc": "Quan tâm động thái phát triển của Belobog\\n<color=#8790abff>※Mua \"Tuần Báo Thợ Mỏ Kỳ 226\"</color>",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052721,
+        "name": "Quả Trí Tuệ Vô Cơ",
+        "desc": "Nhận Tài Liệu \"Lời Nhắn Của Screwllum\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052722,
+        "name": "Hành Trình Của Gấu Con Đồng Tuyết",
+        "desc": "Tương tác nồng nhiệt với Gấu Con Đồng Tuyết",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052723,
+        "name": "Cảm Ơn Nha, Pela",
+        "desc": "Giúp Fedora hoàn thành đặt cược",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052724,
+        "name": "Gang Thép Và Đồ Chơi",
+        "desc": "Giao phế liệu của công trình tạo vật cho Benjamin",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052725,
+        "name": "Gang Thép Và Đèn Đường",
+        "desc": "Giao phế liệu của công trình tạo vật cho Pela",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052726,
+        "name": "Dưới Sự Làm Chứng Của Tượng",
+        "desc": "Cứu lấy chiếc lưỡi mắc kẹt trên lan can đóng băng",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052727,
+        "name": "Động Tác Nguy Hiểm, Xin Đừng Bắt Chước",
+        "desc": "Bị dạy một bài học (lần nữa) vì phá vỡ vật chứa",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052728,
+        "name": "Đầu Tiên, Thứ Nhất",
+        "desc": "Có được 1 Fan Cuồng",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052729,
+        "name": "Lời Thú Tội Của Mặt Nạ",
+        "desc": "Xem Bong Bóng Ký Ức không rõ lai lịch",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052730,
+        "name": "Kem Rác",
+        "desc": "Nhận được rác trong thùng rác đóng băng",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052404,
+        "name": "Hôm Nay Mở Miễn Phí",
+        "desc": "Mở khu trưng bày tổng hợp Viện Bảo Tàng Văn Hóa Lịch Sử Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052405,
+        "name": "Trò Chơi Mèo Chuột",
+        "desc": "Mở 3 khu trưng bày Viện Bảo Tàng Văn Hóa Lịch Sử Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052406,
+        "name": "Bạn Nên Ở Trong Viện Bảo Tàng!",
+        "desc": "Thu thập toàn bộ vật trưng bày của Viện Bảo Tàng Văn Hóa Lịch Sử Belobog",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
+        "id": 4052701,
+        "name": "Bước Vào Đại Sảnh Danh Vọng",
+        "desc": "Đạt được danh hiệu \"Nhà Vô Địch Hàng Đầu\" trong \"Cuộc Chiến Aetherium - Lễ Hội Giải Đấu Liên Vũ Trụ\"",
+        "rarity": 2,
+        "version": "1.4"
+      },
+      {
+        "id": 4052702,
+        "name": "Vua Của Đỉnh Núi Tuyết",
+        "desc": "Trong \"Cuộc Chiến Aetherium\", kết thúc trận quyết đấu số mệnh tại Dãy Everwinter",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052704,
+        "name": "Đã Thu Phục Hồn Aether!",
+        "desc": "Trong \"Cuộc Chiến Aetherium\", nhận tất cả Hồn Aether",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052705,
+        "name": "Bậc Thầy Cuộc Chiến Aetherium",
+        "desc": "Trong \"Cuộc Chiến Aetherium\", \"cấp bậc Quyết Đấu\" đạt cấp tối đa",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052706,
+        "name": "Nhà Vô Địch Siêu Liên Kết",
+        "desc": "Trong \"Cuộc Chiến Aetherium - Quyết Đấu Siêu Liên Kết\" đánh bại tất cả đối thủ",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052707,
+        "name": "Huy Hiệu Gió Rét",
+        "desc": "Trong \"Cuộc Chiến Aetherium\", hoàn thành tất cả khảo nghiệm Công Viên Quyết Đấu Hành Lang Âm Vang",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052708,
+        "name": "Huy Hiệu Luyện Kim",
+        "desc": "Trong \"Cuộc Chiến Aetherium\", hoàn thành tất cả khảo nghiệm Công Viên Quyết Đấu Cảng Lưu Vân",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052709,
+        "name": "Huy Hiệu Tài Trí",
+        "desc": "Trong \"Cuộc Chiến Aetherium\", hoàn thành tất cả khảo nghiệm Công Viên Quyết Đấu Trạm Không Gian Herta",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052710,
+        "name": "Huy Hiệu Mặt Nạ",
+        "desc": "Trong \"Cuộc Chiến Aetherium\", hoàn thành tất cả khảo nghiệm Công Viên Quyết Đấu Khu Mỏ Khổng Lồ",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052711,
+        "name": "Chúng Ta Là Quán Quân?",
+        "desc": "Trong \"Cuộc Chiến Aetherium\", chiến thắng 1 trận \"Giải Biểu Diễn\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052718,
+        "name": "Chiến Thắng, Sau Đó Là Tạm Biệt",
+        "desc": "Sau khi mọi chuyện lắng xuống, trả lại {TEXTJOIN#54}",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052719,
+        "name": "Kết Thúc, Sau Đó Là Bắt Đầu",
+        "desc": "Sau khi mọi chuyện lắng xuống, giữ lại {TEXTJOIN#54}",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052716,
+        "name": "Game Này Không Cập Nhật Phiên Bản Sao?",
+        "desc": "Nhận tất cả Chip Mở Rộng Aether",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4032309,
+        "name": "Rắn Độc Khắp Nơi",
+        "desc": "Chứng kiến câu chuyện của Dan Shu",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4052510,
+        "name": "Bạn Của Vân Kỵ",
+        "desc": "Toàn tâm toàn ý hoàn thành giao phó của tướng quân",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4052323,
+        "name": "Cuộc Sống Giản Dị",
+        "desc": "Sau khi hoàn thành nhiệm vụ Sa Thải, nhận được tin nhắn báo cáo tình hình gần đây của Luhui",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052324,
+        "name": "Một Hồi Dũng Mãnh, Hai Hồi Giảm, Ba Hồi Cạn",
+        "desc": "Sau khi hoàn thành nhiệm vụ \"Vừa Thầy Vừa Bạn\", nhận được tất cả tin nhắn nhiệt tình giảm sút của Chengjie",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052325,
+        "name": "Lừa Gạt Trên Mạng",
+        "desc": "Trong nhiệm vụ \"Câu Chuyện Tình Yêu Từ Xianzhou\", chọn để Hồ Tiên tự thú",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052326,
+        "name": "Tootsie",
+        "desc": "Trong nhiệm vụ \"Câu Chuyện Tình Yêu Từ Xianzhou\", chọn để Hồ Tiên công khai thân phận thật sự",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052327,
+        "name": "Bí Mật Làm Nên Phụ Nữ",
+        "desc": "Trong nhiệm vụ \"Câu Chuyện Tình Yêu Từ Xianzhou\", chọn để Hồ Tiên tiếp tục thần bí",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052401,
+        "name": "Biết Đậu Cành Nào",
+        "desc": "Trong nhiệm vụ \"Ví Như Sương Mai\", tiết lộ thân phận quái vật Xác Nhập Ma cho Liangmu",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052402,
+        "name": "Nhớ Ân Tình Cũ",
+        "desc": "Trong nhiệm vụ \"Ví Như Sương Mai\", che giấu thân phận quái vật Xác Nhập Ma với Liangmu",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052328,
+        "name": "7 Sự Cố Của Chim Robot: Lười Biếng",
+        "desc": "Thuyết phục Chim Robot \"buồn\" quay lại làm việc",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052329,
+        "name": "Ngàn Chim Trên Cây, Không Bằng Bảy Chim Trong Tay",
+        "desc": "Giúp Chuyển Phát Nhanh Hạc Vận tìm lại tất cả Chim Robot đi lạc",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052330,
+        "name": "Có Cớ Ra Tay",
+        "desc": "Đường hoàng chiến thắng cuộc thi Vua Dạ Dày Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052331,
+        "name": "Dùng Mưu Phá Kế",
+        "desc": "Chiến thắng cuộc thi Vua Dạ Dày Xianzhou Luofu bằng cách không quang minh chính đại lắm",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052332,
+        "name": "Thất Bại Ê Chề",
+        "desc": "Thất bại trong cuộc thi Vua Dạ Dày Xianzhou Luofu",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052333,
+        "name": "Thế Ngoại Xa Vời Đoạn Nhân Gian",
+        "desc": "Nói chuyện với Tiên Trong Hũ, lấy được quà đáp lễ từ trong hũ",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052334,
+        "name": "Vô Tư Khảng Khái Tan Theo Gió",
+        "desc": "Nói chuyện với Tiên Trong Hũ, từ chối quà đáp lễ của tiên nhân",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052335,
+        "name": "Người lập phương ra khỏi Xianzhou",
+        "desc": "Hoàn thành khiêu chiến 15 Khối Lục Giác trong Bí Hội Lập Phương",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052336,
+        "name": "Lấy thứ này để thử thách ta à",
+        "desc": "Hoàn thành khiêu chiến 15 Khối Lục Giác phiên bản mới trong Bí Hội Lập Phương",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052337,
+        "name": "Công Việc Bận Rộn",
+        "desc": "Trong Phủ Thần Sách, xem 3 tủ hồ sơ khác nhau",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052338,
+        "name": "Khi Cầu Nguyện Kết Thúc",
+        "desc": "Ngăn du khách kỳ quái ném đồng xu vào Động Cơ Thuyền Sao",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052339,
+        "name": "Hủy Chuyến Bay",
+        "desc": "Giúp du khách kỳ quái ném đồng xu vào Động Cơ Thuyền Sao",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052340,
+        "name": "Trở Về",
+        "desc": "Thu hồi điểm tín dụng bị lừa từ chỗ kẻ lừa đảo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052341,
+        "name": "Không Thu Nhặt",
+        "desc": "Không thu hồi điểm tín dụng bị lừa từ chỗ kẻ lừa đảo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052342,
+        "name": "Lòng Tham Không Đáy",
+        "desc": "Đòi quá mức điểm tín dụng bị lừa từ chỗ kẻ lừa đảo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052343,
+        "name": "7 Sự Cố Của Chim Robot: Sắc Dục",
+        "desc": "Đi theo Chim Robot Quý Tộc và tìm thấy tập vẽ bị hải quan giữ lại",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052344,
+        "name": "7 Sự Cố Của Chim Robot: Ham Ăn",
+        "desc": "Hoàn thành 1 lần đánh cược với Chim Robot",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052345,
+        "name": "7 Sự Cố Của Chim Robot: Tham Lam",
+        "desc": "Khám phá Núi Chuyển Phát Nhanh được Ác Long bảo vệ",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052346,
+        "name": "7 Sự Cố Của Chim Robot: Đố Kỵ",
+        "desc": "Hoàn thành khiêu chiến Chim Robot Oán Giận",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052347,
+        "name": "7 Sự Cố Của Chim Robot: Bạo Nộ",
+        "desc": "Cùng Chim Robot Dũng Cảm chiến thắng ác đồ cản đường",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052348,
+        "name": "7 Sự Cố Của Chim Robot: Ngạo Mạn",
+        "desc": "Hoàn thành khiêu chiến \"Tứ Đại Ác Nhân Luofu\" (tự xưng)",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "Nguyện Người Đừng Cắn Câu",
+        "desc": "Phát hiện mối quan hệ giữa hai kẻ ở Sở Công Nghiệp",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Làm Sao Học Được Cách Dừng Lo Sợ",
+        "desc": "Giải quyết thành công cuộc khủng hoảng đạn dược",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Ba Nguyệt Cổ Hải",
+        "desc": "Tham gia 1 lần kiểm tra điều khiểu Kim Nhân",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Văn Chương Hoa Mỹ",
+        "desc": "Có được sự công nhận từ Nhà Thơ Niêm Luật trong thử thách của Nhà Thơ",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Văn Chương Sơ Sài",
+        "desc": "Chưa nhận được sự công nhận từ Nhà Thơ Niêm Luật trong thử thách của Nhà Thơ",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "Quan Trọng Là Giải Pháp",
+        "desc": "Hoàn thành 1 lần phóng sinh thành công cùng với \"Bang Phóng Sinh\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Quan Trọng Là Kết Quả",
+        "desc": "Chứng kiến kết cuộc của \"Bang Phóng Sinh\"",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052613,
+        "name": "Đi Lại Không Ngừng",
+        "desc": "Nói cho Cleo biết sự thật về Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052614,
+        "name": "Ngã Rẽ Cuộc Đời",
+        "desc": "Giấu sự thật về Todd với Cleo",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052824,
+        "name": "Tôi, Long Tôn, Trả Tiền",
+        "desc": "Tại Khu Vườn Tĩnh Mịch nhận được tin nhắn lừa gạt của Long Tôn giả mạo",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052813,
+        "name": "Ma Ha Ha!!!",
+        "desc": "Từ chỗ Tiểu Quỷ Khu Vườn Tĩnh Mịch nhận 900 phần thưởng câu đố",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052814,
+        "name": "Sao Chưa Đàn Một Khúc",
+        "desc": "Giúp Tuế Dương Trên Đàn Cổ hoàn thành khúc nhạc",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052815,
+        "name": "Núi Cao Nước Chảy",
+        "desc": "Cùng Quỷ Kép Hát hát 1 bài \"Rượu Hợp Hôn\" và hoàn thành nó một cách hoàn hảo",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052816,
+        "name": "Học Đồ, Nhi Đồ Và Nghịch Đồ!",
+        "desc": "Cùng Quỷ Kép Hát hát 1 bài \"Rượu Hợp Hôn\" và hát sai lời",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052817,
+        "name": "Tường Đá Linh Tựu Cung",
+        "desc": "Tại Mộ Hồ Miên, giải mã di sản bí ẩn trên bia mộ",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052818,
+        "name": "Khép Đôi Mắt Tôi Lại",
+        "desc": "Gặp chủ nhân bia mộ ở Mộ Hồ Miên",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052819,
+        "name": "Màu Vàng! Huyền Thoại!",
+        "desc": "Trong cách chơi mới của Quỳnh Ngọc Đế Viên, mở ra phần thưởng vàng!",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052820,
+        "name": "Ngọn Lửa Le Lói",
+        "desc": "Trong sự van nài thành khẩn của Wenyuan và Ruoxi, kiên quyết đưa Tuế Dương đi",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052821,
+        "name": "Cho Người Bạn Bất Diệt",
+        "desc": "Trong sự van nài thành khẩn của Wenyuan và Ruoxi, chọn tha cho Tuế Dương",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052822,
+        "name": "Cho Đến Khi Tận Thế",
+        "desc": "Sau khi du ngoạn Luofu cùng Bảo Chúc, thả nó trở về vũ trụ",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052823,
+        "name": "Sát Khí Trấn Càn Khôn",
+        "desc": "Sau khi du ngoạn Luofu cùng Bảo Chúc, phong ấn nó vào Tháp Trấn Yêu",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052601,
+        "name": "Giúp Phố Kim Nhân Hưng Thịnh Trở Lại!",
+        "desc": "Hoàn thành nhiệm vụ \"Huyên Náo Trở Lại 4\" và chiến thắng đấu thầu khu thương mại Phố Kim Nhân",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4052604,
@@ -1073,25 +1675,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052320,
-        "name": "Chuột Chũi Thứ 4",
-        "desc": "Trong nhiệm vụ Đội Chuột Chũi Phiêu Lưu, tìm thấy tất cả rương ẩn",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052606,
         "name": "Kho Báu Đầy Ắp",
         "desc": "Trong \"Phố Cũ Kim Nhân Hối Hả\", giúp thương hội Phố Kim Nhân kiếm 1000000 Kinh Phí Thương Hội",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052321,
-        "name": "Bản Trưởng Thành Siêu Cấp \"Đội Chuột Chũi Phiêu Lưu\"",
-        "desc": "Tại tiệm sách của Belobog mua \"Đội Chuột Chũi Phiêu Lưu: Kho Báu Ẩn Giấu\"",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052607,
@@ -1101,20 +1689,6 @@
         "version": "1.3"
       },
       {
-        "id": 4032309,
-        "name": "Rắn Độc Khắp Nơi",
-        "desc": "Chứng kiến câu chuyện của Dan Shu",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
-        "id": 4052404,
-        "name": "Hôm Nay Mở Miễn Phí",
-        "desc": "Mở khu trưng bày tổng hợp Viện Bảo Tàng Văn Hóa Lịch Sử Belobog",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052608,
         "name": "(Hệ Thống Gửi Tự Động)",
         "desc": "Trong \"Phố Cũ Kim Nhân Hối Hả\", hoàn thành Đơn Theo Yêu Cầu của Chuyển Phát Nhanh Hạc Vận",
@@ -1122,25 +1696,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052405,
-        "name": "Trò Chơi Mèo Chuột",
-        "desc": "Mở 3 khu trưng bày Viện Bảo Tàng Văn Hóa Lịch Sử Belobog",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052609,
         "name": "Thử Nghiệm Để Hoàn Thiện",
         "desc": "Trong \"Phố Cũ Kim Nhân Hối Hả\", hoàn thành \"Diting Tìm Người\" ở các sự kiện đường phố",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052406,
-        "name": "Bạn Nên Ở Trong Viện Bảo Tàng!",
-        "desc": "Thu thập toàn bộ vật trưng bày của Viện Bảo Tàng Văn Hóa Lịch Sử Belobog",
-        "rarity": 2,
-        "version": "1.1"
       },
       {
         "id": 4052610,
@@ -1157,25 +1717,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052323,
-        "name": "Cuộc Sống Giản Dị",
-        "desc": "Sau khi hoàn thành nhiệm vụ Sa Thải, nhận được tin nhắn báo cáo tình hình gần đây của Luhui",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052612,
         "name": "Chợ Đêm: Đường Chân Trời",
         "desc": "Trong \"Phố Cũ Kim Nhân Hối Hả\", đạt 81 điểm quy hoạch làn đường cho cửa tiệm bất kỳ",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052324,
-        "name": "Một Hồi Dũng Mãnh, Hai Hồi Giảm, Ba Hồi Cạn",
-        "desc": "Sau khi hoàn thành nhiệm vụ \"Vừa Thầy Vừa Bạn\", nhận được tất cả tin nhắn nhiệt tình giảm sút của Chengjie",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052619,
@@ -1185,179 +1731,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052325,
-        "name": "Lừa Gạt Trên Mạng",
-        "desc": "Trong nhiệm vụ \"Câu Chuyện Tình Yêu Từ Xianzhou\", chọn để Hồ Tiên tự thú",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052620,
         "name": "Đạo Khả Đạo, Vô Gian Đạo",
         "desc": "Chứng kiến câu chuyện về thân phận được che giấu của Yongren",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052326,
-        "name": "Tootsie",
-        "desc": "Trong nhiệm vụ \"Câu Chuyện Tình Yêu Từ Xianzhou\", chọn để Hồ Tiên công khai thân phận thật sự",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052701,
-        "name": "Bước Vào Đại Sảnh Danh Vọng",
-        "desc": "Đạt được danh hiệu \"Nhà Vô Địch Hàng Đầu\" trong \"Cuộc Chiến Aetherium - Lễ Hội Giải Đấu Liên Vũ Trụ\"",
-        "rarity": 2,
-        "version": "1.4"
-      },
-      {
-        "id": 4052327,
-        "name": "Bí Mật Làm Nên Phụ Nữ",
-        "desc": "Trong nhiệm vụ \"Câu Chuyện Tình Yêu Từ Xianzhou\", chọn để Hồ Tiên tiếp tục thần bí",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052702,
-        "name": "Vua Của Đỉnh Núi Tuyết",
-        "desc": "Trong \"Cuộc Chiến Aetherium\", kết thúc trận quyết đấu số mệnh tại Dãy Everwinter",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052328,
-        "name": "7 Sự Cố Của Chim Robot: Lười Biếng",
-        "desc": "Thuyết phục Chim Robot \"buồn\" quay lại làm việc",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052703,
-        "name": "Kiếm Gãy Lại Lành",
-        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Mây Đi Không Dấu Vết\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052329,
-        "name": "Ngàn Chim Trên Cây, Không Bằng Bảy Chim Trong Tay",
-        "desc": "Giúp Chuyển Phát Nhanh Hạc Vận tìm lại tất cả Chim Robot đi lạc",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052704,
-        "name": "Đã Thu Phục Hồn Aether!",
-        "desc": "Trong \"Cuộc Chiến Aetherium\", nhận tất cả Hồn Aether",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052330,
-        "name": "Có Cớ Ra Tay",
-        "desc": "Đường hoàng chiến thắng cuộc thi Vua Dạ Dày Xianzhou Luofu",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052705,
-        "name": "Bậc Thầy Cuộc Chiến Aetherium",
-        "desc": "Trong \"Cuộc Chiến Aetherium\", \"cấp bậc Quyết Đấu\" đạt cấp tối đa",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052331,
-        "name": "Dùng Mưu Phá Kế",
-        "desc": "Chiến thắng cuộc thi Vua Dạ Dày Xianzhou Luofu bằng cách không quang minh chính đại lắm",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052706,
-        "name": "Nhà Vô Địch Siêu Liên Kết",
-        "desc": "Trong \"Cuộc Chiến Aetherium - Quyết Đấu Siêu Liên Kết\" đánh bại tất cả đối thủ",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052332,
-        "name": "Thất Bại Ê Chề",
-        "desc": "Thất bại trong cuộc thi Vua Dạ Dày Xianzhou Luofu",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052707,
-        "name": "Huy Hiệu Gió Rét",
-        "desc": "Trong \"Cuộc Chiến Aetherium\", hoàn thành tất cả khảo nghiệm Công Viên Quyết Đấu Hành Lang Âm Vang",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052333,
-        "name": "Thế Ngoại Xa Vời Đoạn Nhân Gian",
-        "desc": "Nói chuyện với Tiên Trong Hũ, lấy được quà đáp lễ từ trong hũ",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052708,
-        "name": "Huy Hiệu Luyện Kim",
-        "desc": "Trong \"Cuộc Chiến Aetherium\", hoàn thành tất cả khảo nghiệm Công Viên Quyết Đấu Cảng Lưu Vân",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052334,
-        "name": "Vô Tư Khảng Khái Tan Theo Gió",
-        "desc": "Nói chuyện với Tiên Trong Hũ, từ chối quà đáp lễ của tiên nhân",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052709,
-        "name": "Huy Hiệu Tài Trí",
-        "desc": "Trong \"Cuộc Chiến Aetherium\", hoàn thành tất cả khảo nghiệm Công Viên Quyết Đấu Trạm Không Gian Herta",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052335,
-        "name": "Người lập phương ra khỏi Xianzhou",
-        "desc": "Hoàn thành khiêu chiến 15 Khối Lục Giác trong Bí Hội Lập Phương",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052710,
-        "name": "Huy Hiệu Mặt Nạ",
-        "desc": "Trong \"Cuộc Chiến Aetherium\", hoàn thành tất cả khảo nghiệm Công Viên Quyết Đấu Khu Mỏ Khổng Lồ",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052336,
-        "name": "Lấy thứ này để thử thách ta à",
-        "desc": "Hoàn thành khiêu chiến 15 Khối Lục Giác phiên bản mới trong Bí Hội Lập Phương",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052711,
-        "name": "Chúng Ta Là Quán Quân?",
-        "desc": "Trong \"Cuộc Chiến Aetherium\", chiến thắng 1 trận \"Giải Biểu Diễn\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052337,
-        "name": "Công Việc Bận Rộn",
-        "desc": "Trong Phủ Thần Sách, xem 7 tủ hồ sơ khác nhau",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052712,
@@ -1367,13 +1745,6 @@
         "version": "1.4"
       },
       {
-        "id": 4052338,
-        "name": "Khi Cầu Nguyện Kết Thúc",
-        "desc": "Ngăn du khách kỳ quái ném đồng xu vào Động Cơ Thuyền Sao",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052713,
         "name": "Luyện Tập Chơi Chữ",
         "desc": "Lắng nghe tiết mục của Back'n Forth Nhỏ Bé",
@@ -1381,249 +1752,81 @@
         "version": "1.4"
       },
       {
-        "id": 4052339,
-        "name": "Hủy Chuyến Bay",
-        "desc": "Giúp du khách kỳ quái ném đồng xu vào Động Cơ Thuyền Sao",
+        "id": 4052802,
+        "name": "Xin Chào Thế Giới!",
+        "desc": "Đăng 1 bài viết lên trang web \"Luobiz\"",
         "rarity": 1,
-        "version": "1.0"
+        "version": "1.5"
       },
       {
-        "id": 4052714,
-        "name": "Chân Chỉ Để Trang Trí Thôi",
-        "desc": "Xây dựng một kế hoạch không tưởng cho Gốc Rễ Của Tạo Vật",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052340,
-        "name": "Trở Về",
-        "desc": "Thu hồi điểm tín dụng bị lừa từ chỗ kẻ lừa đảo",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052715,
-        "name": "Vận Động Đi... Gốc Rễ Của Tạo Vật!",
-        "desc": "Xây dựng một kế hoạch đáng tin cậy cho Gốc Rễ Của Tạo Vật",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052341,
-        "name": "Không Thu Nhặt",
-        "desc": "Không thu hồi điểm tín dụng bị lừa từ chỗ kẻ lừa đảo",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052716,
-        "name": "Game Này Không Cập Nhật Phiên Bản Sao?",
-        "desc": "Nhận tất cả Chip Mở Rộng Aether",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052342,
-        "name": "Lòng Tham Không Đáy",
-        "desc": "Đòi quá mức điểm tín dụng bị lừa từ chỗ kẻ lừa đảo",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052717,
-        "name": "Gió Bắc Tạo Anh Hùng",
-        "desc": "Đánh bại Gepard sau cửa trong Khúc Quân Hành Băng Giá độ khó III",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052343,
-        "name": "7 Sự Cố Của Chim Robot: Sắc Dục",
-        "desc": "Đi theo Chim Robot Quý Tộc và tìm thấy tập vẽ bị hải quan giữ lại",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052718,
-        "name": "Chiến Thắng, Sau Đó Là Tạm Biệt",
-        "desc": "Sau khi mọi chuyện lắng xuống, trả lại {TEXTJOIN#54}",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052344,
-        "name": "7 Sự Cố Của Chim Robot: Ham Ăn",
-        "desc": "Hoàn thành 1 lần đánh cược với Chim Robot",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052719,
-        "name": "Kết Thúc, Sau Đó Là Bắt Đầu",
-        "desc": "Sau khi mọi chuyện lắng xuống, giữ lại {TEXTJOIN#54}",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052345,
-        "name": "7 Sự Cố Của Chim Robot: Tham Lam",
-        "desc": "Khám phá Núi Chuyển Phát Nhanh được Ác Long bảo vệ",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052720,
-        "name": "Bước Đầu Tiên Của Tương Lai",
-        "desc": "Quan tâm động thái phát triển của Belobog\\n<color=#8790abff>※Mua \"Tuần Báo Thợ Mỏ Kỳ 226\"</color>",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052346,
-        "name": "7 Sự Cố Của Chim Robot: Đố Kỵ",
-        "desc": "Hoàn thành khiêu chiến Chim Robot Oán Giận",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052721,
-        "name": "Quả Trí Tuệ Vô Cơ",
-        "desc": "Nhận Tài Liệu \"Lời Nhắn Của Screwllum\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052347,
-        "name": "7 Sự Cố Của Chim Robot: Bạo Nộ",
-        "desc": "Cùng Chim Robot Dũng Cảm chiến thắng ác đồ cản đường",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052722,
-        "name": "Hành Trình Của Gấu Con Đồng Tuyết",
-        "desc": "Tương tác nồng nhiệt với Gấu Con Đồng Tuyết",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052348,
-        "name": "7 Sự Cố Của Chim Robot: Ngạo Mạn",
-        "desc": "Hoàn thành khiêu chiến \"Tứ Đại Ác Nhân Luofu\" (tự xưng)",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052723,
-        "name": "Cảm Ơn Nha, Pela",
-        "desc": "Giúp Fedora hoàn thành đặt cược",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052501,
-        "name": "Nguyện Người Đừng Cắn Câu",
-        "desc": "Phát hiện mối quan hệ giữa hai kẻ ở Sở Công Nghiệp",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052724,
-        "name": "Gang Thép Và Đồ Chơi",
-        "desc": "Giao phế liệu của công trình tạo vật cho Benjamin",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052502,
-        "name": "Làm Sao Học Được Cách Dừng Lo Sợ",
-        "desc": "Giải quyết thành công cuộc khủng hoảng đạn dược",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052725,
-        "name": "Gang Thép Và Đèn Đường",
-        "desc": "Giao phế liệu của công trình tạo vật cho Pela",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052503,
-        "name": "Ba Nguyệt Cổ Hải",
-        "desc": "Tham gia 1 lần kiểm tra điều khiểu Kim Nhân",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052726,
-        "name": "Dưới Sự Làm Chứng Của Tượng",
-        "desc": "Cứu lấy chiếc lưỡi mắc kẹt trên lan can đóng băng",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052504,
-        "name": "Văn Chương Hoa Mỹ",
-        "desc": "Có được sự công nhận từ Nhà Thơ Niêm Luật trong thử thách của Nhà Thơ",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052727,
-        "name": "Động Tác Nguy Hiểm, Xin Đừng Bắt Chước",
-        "desc": "Bị dạy một bài học (lần nữa) vì phá vỡ vật chứa",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052505,
-        "name": "Văn Chương Sơ Sài",
-        "desc": "Chưa nhận được sự công nhận từ Nhà Thơ Niêm Luật trong thử thách của Nhà Thơ",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052728,
-        "name": "Đầu Tiên, Thứ Nhất",
-        "desc": "Có được 1 Fan Cuồng",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052508,
-        "name": "Quan Trọng Là Giải Pháp",
-        "desc": "Hoàn thành 1 lần phóng sinh thành công cùng với \"Bang Phóng Sinh\"",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052729,
-        "name": "Lời Thú Tội Của Mặt Nạ",
-        "desc": "Xem Bong Bóng Ký Ức không rõ lai lịch",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052509,
-        "name": "Quan Trọng Là Kết Quả",
-        "desc": "Chứng kiến kết cuộc của \"Bang Phóng Sinh\"",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052730,
-        "name": "Kem Rác",
-        "desc": "Nhận được rác trong thùng rác đóng băng",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052510,
-        "name": "Bạn Của Vân Kỵ",
-        "desc": "Toàn tâm toàn ý hoàn thành giao phó của tướng quân",
+        "id": 4052803,
+        "name": "Xin Chào Thế Giới Mới!",
+        "desc": "Đạt #1[m] Fan trên trang Luobiz",
         "rarity": 2,
-        "version": "1.2"
+        "version": "1.5"
+      },
+      {
+        "id": 4052804,
+        "name": "Vân Cấp Thất Thiêm",
+        "desc": "Nắm bắt tất cả Thuật Trừ Tà",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052805,
+        "name": "Trận Đấu Trên Bàn Cờ",
+        "desc": "Hoàn thành tất cả khiêu chiến Hàng Yêu Tập Lục",
+        "rarity": 2,
+        "version": "1.5"
+      },
+      {
+        "id": 4052806,
+        "name": "Blogger Săn Bắn",
+        "desc": "Đăng nhiều bài về \"Tin Giật Gân\" hơn trên trang web \"Luobiz\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052807,
+        "name": "Blogger Thần Bí",
+        "desc": "Đăng nhiều bài về \"Phổ Cập Khoa Học Ma Quái\" hơn trên trang web \"Luobiz\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052808,
+        "name": "Blogger Vui Vẻ",
+        "desc": "Đăng nhiều bài về \"Xì Căng Đan Showbiz\" hơn trên trang web \"Luobiz\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052809,
+        "name": "Blogger Cân Bằng",
+        "desc": "Đăng số lượng bài viết bằng nhau với xu hướng nội dung khác nhau trên trang web \"Luobiz\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052810,
+        "name": "Cho Tôi Xin Lượt Thích!",
+        "desc": "Tích lũy 15 Like trên trang Luobiz",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052811,
+        "name": "Mật Mã Nằm Trong Tay",
+        "desc": "Phản hồi trên 10 lần trên trang Luobiz",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052812,
+        "name": "Tụ Hợp Thành Đốm Lửa, Tan Thành Vạn Ngôi Sao",
+        "desc": "Dùng \"Chim Robot Trừ Tà\" thu thập 24 Tuế Dương trốn thoát",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
@@ -2455,6 +2658,27 @@
         "version": "1.3"
       },
       {
+        "id": 4072701,
+        "name": "Lễ Diễn Võ: Đấu Trường Thương",
+        "desc": "Dùng Dan Heng phe ta để ra đòn chiến thắng cuối cùng khi đấu với Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072702,
+        "name": "Lễ Diễn Võ...?",
+        "desc": "Dùng Yanqing phe ta để ra đòn chiến thắng cuối cùng khi đấu với Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072703,
+        "name": "Lễ Diễn Võ: Đấu Tâm Kiếm",
+        "desc": "Dùng Jingliu phe ta để ra đòn chiến thắng cuối cùng khi đấu với Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4072605,
         "name": "Bọ... Thứ 5 Xịn Nhất?",
         "desc": "Dùng Vong Ngữ mà Bọ Gai Nhỏ hoặc Bọ Gai Lớn thi triển để tiêu diệt Đàn Côn Trùng - Bọ Gai Trưởng Thành",
@@ -2504,32 +2728,53 @@
         "version": "1.3"
       },
       {
-        "id": 4072701,
-        "name": "Lễ Diễn Võ: Đấu Trường Thương",
-        "desc": "Dùng Dan Heng phe ta để ra đòn chiến thắng cuối cùng khi đấu với Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4072702,
-        "name": "Lễ Diễn Võ...?",
-        "desc": "Dùng Yanqing phe ta để ra đòn chiến thắng cuối cùng khi đấu với Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4072703,
-        "name": "Lễ Diễn Võ: Đấu Tâm Kiếm",
-        "desc": "Dùng Jingliu phe ta để ra đòn chiến thắng cuối cùng khi đấu với Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
         "id": 4072704,
         "name": "Trong Bốn Người, \"...\" Phải Trả Giá",
         "desc": "Trong một trận đấu, dùng Jingliu phe ta tiêu hao HP của đồng đội ngẫu nhiên về 1",
         "rarity": 1,
         "version": "1.4"
+      },
+      {
+        "id": 4072806,
+        "name": "Địa Chủ Cũng Không Còn Lương Thực",
+        "desc": "Kẻ địch có trạng thái \"Chiếm Đoạt\", khi tấn công cướp Điểm Chiến Kỹ thất bại 5 lần",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072805,
+        "name": "Phán Quan Trừ Ma Truyền Kỳ",
+        "desc": "Hoàn thành ải \"Hàng Yêu Tập Lục\" bất kỳ mà không chịu sát thương nào",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072804,
+        "name": "Cuồng Đao Ma Trơi",
+        "desc": "Dùng Thuật Trừ Tà biến Heo Đất thành Heo Đất",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072803,
+        "name": "Ngũ Lôi Phủ Đầu",
+        "desc": "Cùng lúc kích hoạt 3 Ngũ Lôi Trấn Tà trở lên và kết thúc chiến đấu",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072802,
+        "name": "Bừng Lửa",
+        "desc": "Trong khiêu chiến \"Mê Trận Ảo Cảnh - Phù Yên\", trong trận cùng lúc tồn tại 4 Tạo Vật Bừng Lửa",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072801,
+        "name": "Toàn Thể Tập Hợp! Giải Tán!",
+        "desc": "Dùng Bí Kỹ Huohuo \"Hung Sát - Trấn Áp Yêu Tà\", khiến cùng lúc 6 mục tiêu trở lên bỏ chạy",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
@@ -2889,7 +3134,7 @@
       {
         "id": 4082704,
         "name": "Quá Trình Vượt Qua Kết Quả",
-        "desc": "Mua 1 bưu kiện quá hạn chưa được nhận từ Maozhen ở Cảng Lưu Vân",
+        "desc": "Mua 1 bưu kiện quý nhưng quá hạn chưa được nhận từ Maozhen ở Cảng Lưu Vân",
         "rarity": 1,
         "version": "1.4"
       },
@@ -2927,257 +3172,54 @@
         "desc": "Dùng \"Cọc Người Gỗ Tự Động\" hoàn thành 3 trận đấu",
         "rarity": 1,
         "version": "1.4"
+      },
+      {
+        "id": 4082806,
+        "name": "Nhiệm Vụ Bất Khả Thi?",
+        "desc": "Dùng Tấn Công Thường của Huohuo \"Cờ Lệnh - Hô Mưa Gọi Gió\", đánh bại Phantylia",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082805,
+        "name": "Ngủ Ngon! Makka Pakka",
+        "desc": "Dùng Búa Yên Giấc vào chiến đấu và có nhân vật ngẫu nhiên rơi vào trạng thái Chấn Động Mạnh Mẽ",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082804,
+        "name": "Đội Cảm Tử Bắt Ma",
+        "desc": "Dùng đội có cả Huohuo, Sushang, Guinaifen, {NICKNAME} đánh thắng 1 trận",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082803,
+        "name": "Bỏ Chạy Tuy Nhục Nhưng Hữu Dụng",
+        "desc": "Dùng nhân vật phe ta Huohuo rút lui khi tất cả đồng đội rơi vào trạng thái không thể chiến đấu",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082802,
+        "name": "Đội Thương Kỵ Ngân Hà",
+        "desc": "Dùng đội có cả Argenti, {NICKNAME} đánh thắng 1 trận",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082801,
+        "name": "Ở Trung Tâm Thế Giới Kêu Gọi Tôi",
+        "desc": "Kích hoạt 10 câu lồng tiếng Điều Chỉnh Đội-{NICKNAME} khác nhau",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
   "9": {
     "name": "Vũ Trụ Trong Vỏ Quả",
     "achievements": [
-      {
-        "id": 4092635,
-        "name": "400 Đòn",
-        "desc": "Trong Vũ Trụ Mô Phỏng, trong 1 trận đấu tích lũy dùng tối thiểu 40 lần Tấn Công Thường và chiến thắng",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092633,
-        "name": "Ý Chí Tổ Côn Trùng",
-        "desc": "Trong Vũ Trụ Mô Phỏng, tích lũy mở khóa 1 Chúc Phúc Vận Mệnh \"Sinh Sôi\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092634,
-        "name": "Giai Đoạn 4",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng, số Chúc Phúc Vận Mệnh \"Sinh Sôi\" mang theo lớn hơn hoặc bằng 10",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092601,
-        "name": "Mùa Xuân Ở Fialta",
-        "desc": "Khi dùng vận mệnh Vui Vẻ vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, nhận tích lũy 12 loại \"Vui Vẻ\" khác nhau",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092602,
-        "name": "Chuyến Săn Bắn Thu Đông",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, dùng vận mệnh \"Săn Bắn\" chiến đấu bắt được 8 Heo Đất trở lên trong 1 Vị Diện",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092603,
-        "name": "Khách Thuê",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, dùng vận mệnh Ký Ức 6 lần liên tục sao chép khu vực Thưởng",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092604,
-        "name": "Chiến Sĩ Thiện Chiến",
-        "desc": "Khi dùng vận mệnh \"Hủy Diệt\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, chiến thắng 40 trận",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092605,
-        "name": "Trao Đổi Tượng Trưng Và Cái Chết",
-        "desc": "Khi dùng vận mệnh \"Hư Vô\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, vào 15 Khu Vực \"Trống\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092606,
-        "name": "Vũ Trụ Mô Phỏng Không Chỉ Xây Trong 1 Ngày",
-        "desc": "Khi dùng vận mệnh \"Bảo Hộ\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, đính kèm \"Đá Tảng\" lên 8 Khu Vực khác loại",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092607,
-        "name": "Chỉ Trong Nháy Mắt",
-        "desc": "Dùng vận mệnh \"Trù Phú\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng thành công khi thời gian đếm ngược lớn hơn hoặc bằng 80",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092608,
-        "name": "Trở Về Klendathu",
-        "desc": "Khi dùng vận mệnh \"Sinh Sôi\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, vào khu vực Chiến Đấu - Đàn Côn Trùng, Sự Kiện - Đàn Côn Trùng hoặc Thủ Lĩnh - Đàn Côn Trùng 15 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092609,
-        "name": "Chào Mừng Đến Với Triển Lãm Khỉ",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Vui Vẻ 100 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092610,
-        "name": "Đá Bay Trong Mưa, Cái Chết Ắt Đến",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Săn Bắn 100 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092611,
-        "name": "Vĩnh Cửu Và Một Ngày",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Ký Ức 100 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092612,
-        "name": "Thế Giới Biểu Tượng",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Hư Vô 100 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092613,
-        "name": "Chính Sách Tro Tàn",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Hủy Diệt 100 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092614,
-        "name": "Cơ Duyên Gặp Gỡ",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Trù Phú 100 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092615,
-        "name": "Tạo Nên Hạt Nhân Tương Đồng",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Bảo Hộ 100 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092616,
-        "name": "Đứa Con Nhà Methuselah",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Sinh Sôi 100 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092617,
-        "name": "Trưởng Kho Lưu Trữ",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, có số Mảnh Vũ Trụ lớn hơn hoặc bằng 9999",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
-        "id": 4092618,
-        "name": "Với Tay Hái Sao Trời",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, sự kiện Công Ty Hành Tinh Hòa Bình \"Nhật Ký Thăng Chức\", <u>nắm giữ quyền lực vô tận</u>",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092619,
-        "name": "Q",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, trong cùng một khu vực \"Giao Dịch\", mua tất cả vật phẩm Cửa Hàng Chúc Phúc và Cửa Hàng Vật Thể Lạ",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092620,
-        "name": "Chào Mừng Đến Với Valhalla",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, chiến đấu thất bại trong sự kiện do Câu Lạc Bộ Thiên Tài #55 Yu Qingtu kích hoạt",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092621,
-        "name": "Vua Phá Hoại Vô Địch II",
-        "desc": "Trong 1 lần Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy phá vỡ Vật Có Thể Phá Hủy trong lần khiêu chiến này lớn hơn hoặc bằng 100",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092622,
-        "name": "Nông Trại Vui Vẻ",
-        "desc": "Trong 1 khu vực \"Thám Hiểm\" của Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, số Heo Đất bắt được lớn hơn hoặc bằng 16",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092623,
-        "name": "Gian Phòng Vận Mệnh",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, thắp sáng 1 Con Đường Hành Giả ẩn",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092624,
-        "name": "Nhóm Đơn Ca",
-        "desc": "Trong 1 lần Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, phát sinh 2 lần Tiếng Vọng Giao Thoa",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092625,
-        "name": "Bảo Hộ Hay Hủy Diệt?",
-        "desc": "Trong khu vực \"Sự Kiện\" của Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, hoàn thành 1 lần chọn lựa Vận Mệnh",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092626,
-        "name": "Vòng Quay Vận Mệnh",
-        "desc": "Trong khu vực \"Sự Kiện\" của Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, hoàn thành tất cả chọn lựa Vận Mệnh",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092627,
-        "name": "Cứ Như Thế Diễn Ra",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy sử dụng 10 lần cheat",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092628,
-        "name": "Về Đến Tương Lai",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng tích lũy sử dụng 50 lần ném lại",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092629,
-        "name": "Sự Kết Thúc Của Vương Quốc Vĩnh Cửu",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, dùng vận mệnh ngoài \"Hư Vô\" vào Khu Vực \"Trống\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092630,
-        "name": "Cưỡi Trên Sao Chổi",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tại khu vực \"Thám Hiểm\" ngẫu nhiên đạt được tất cả mục tiêu",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092631,
-        "name": "Điều Tra Viên Weyland-Yutani",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, dùng vận mệnh ngoài \"Sinh Sôi\" vào khu vực \"Chiến Đấu - Đàn Côn Trùng\", \"Sự Kiện - Đàn Côn Trùng\" hoặc \"Thủ Lĩnh - Đàn Côn Trùng\" 15 lần",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092632,
-        "name": "Máy Trung Chuyển Chất Lượng",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, \"Cấp Rối Loạn\" của \"Vị Diện Rối Loạn!\" lớn hơn hoặc bằng cấp 20",
-        "rarity": 1,
-        "version": "1.3"
-      },
       {
         "id": 4090201,
         "name": "Tự Do Lần Đầu Và Cũng Là Cuối Cùng",
@@ -3200,25 +3242,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092636,
-        "name": "Vũ Trụ Tĩnh Mịch",
-        "desc": "Vượt ải toàn bộ cốt truyện Thảm Họa Đàn Côn Trùng trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
         "id": 4090204,
         "name": "Cơ Chế Phản Ứng Nguyên Tố",
         "desc": "Trong chiến đấu Vũ Trụ Mô Phỏng, một lần tấn công gây cho kẻ địch 5 loại sát thương thuộc tính trở lên",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092637,
-        "name": "Khách Tha Hương",
-        "desc": "Thu thập toàn bộ cốt truyện Bí Mật Khai Phá trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng",
-        "rarity": 2,
-        "version": "1.3"
       },
       {
         "id": 4090205,
@@ -3228,25 +3256,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092638,
-        "name": "Tấn Công Hạt Nhân Quỹ Đạo",
-        "desc": "Hoàn thành Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng ở độ khó V",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4090206,
         "name": "24 Bài Thơ Tình Và 1 Bài Ca Tuyệt Vọng",
         "desc": "Khi chiến thắng Vũ Trụ Mô Phỏng, Phần Trăm HP hiện tại của tất cả nhân vật phe ta từ 0% trở xuống",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092639,
-        "name": "Diệt Trừ Nạn Côn Trùng",
-        "desc": "Thu thập chương \"Săn Bắn I\" của Thảm Họa Đàn Côn Trùng",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4090207,
@@ -3256,25 +3270,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092640,
-        "name": "Giấc Mộng Babel",
-        "desc": "Thu thập chương \"Bảo Hộ II\" của Thảm Họa Đàn Côn Trùng",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4090301,
         "name": "Ngủ Ngon Nào Bạn Tôi",
         "desc": "Trong Vũ Trụ Mô Phỏng, tích lũy tiêu diệt 15 kẻ địch",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092641,
-        "name": "Hãy Nhìn Người Này",
-        "desc": "Thu thập chương \"Hư Vô I\" của Thảm Họa Đàn Côn Trùng",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4090303,
@@ -3625,6 +3625,300 @@
         "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\" (Từ độ khó 2 trở lên), mỗi trận thắng, HP hiện tại của tất cả nhân vật phe ta bằng Giới Hạn HP của từng người.",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4092633,
+        "name": "Ý Chí Tổ Côn Trùng",
+        "desc": "Trong Vũ Trụ Mô Phỏng, tích lũy mở khóa 1 Chúc Phúc Vận Mệnh \"Sinh Sôi\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092635,
+        "name": "400 Đòn",
+        "desc": "Trong Vũ Trụ Mô Phỏng, trong 1 trận đấu tích lũy dùng tối thiểu 40 lần Tấn Công Thường và chiến thắng",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092634,
+        "name": "Giai Đoạn 4",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng, số Chúc Phúc Vận Mệnh \"Sinh Sôi\" mang theo lớn hơn hoặc bằng 10",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092801,
+        "name": "Sự Trợ Giúp Của Đẹp Thuần Khiết",
+        "desc": "Trong Vũ Trụ Mô Phỏng, dùng đội có Argenti nhận sự trợ giúp từ Kỵ Sĩ Đẹp Thuần Khiết",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4092601,
+        "name": "Mùa Xuân Ở Fialta",
+        "desc": "Khi dùng vận mệnh Vui Vẻ vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, nhận tích lũy 12 loại \"Vui Vẻ\" khác nhau",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092602,
+        "name": "Chuyến Săn Bắn Thu Đông",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, dùng vận mệnh \"Săn Bắn\" chiến đấu bắt được 8 Heo Đất trở lên trong 1 Vị Diện",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092603,
+        "name": "Khách Thuê",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, dùng vận mệnh Ký Ức 6 lần liên tục sao chép khu vực Thưởng",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092604,
+        "name": "Chiến Sĩ Thiện Chiến",
+        "desc": "Khi dùng vận mệnh \"Hủy Diệt\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, chiến thắng 40 trận",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092605,
+        "name": "Trao Đổi Tượng Trưng Và Cái Chết",
+        "desc": "Khi dùng vận mệnh \"Hư Vô\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, vào 15 Khu Vực \"Trống\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092606,
+        "name": "Vũ Trụ Mô Phỏng Không Chỉ Xây Trong 1 Ngày",
+        "desc": "Khi dùng vận mệnh \"Bảo Hộ\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, đính kèm \"Đá Tảng\" lên 8 Khu Vực khác loại",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092607,
+        "name": "Chỉ Trong Nháy Mắt",
+        "desc": "Dùng vận mệnh \"Trù Phú\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng thành công khi thời gian đếm ngược lớn hơn hoặc bằng 80",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092608,
+        "name": "Trở Về Klendathu",
+        "desc": "Khi dùng vận mệnh \"Sinh Sôi\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, vào khu vực Chiến Đấu - Đàn Côn Trùng, Sự Kiện - Đàn Côn Trùng hoặc Thủ Lĩnh - Đàn Côn Trùng 15 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092609,
+        "name": "Chào Mừng Đến Với Triển Lãm Khỉ",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Vui Vẻ 100 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092610,
+        "name": "Đá Bay Trong Mưa, Cái Chết Ắt Đến",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Săn Bắn 100 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092611,
+        "name": "Vĩnh Cửu Và Một Ngày",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Ký Ức 100 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092612,
+        "name": "Thế Giới Biểu Tượng",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Hư Vô 100 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092613,
+        "name": "Chính Sách Tro Tàn",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Hủy Diệt 100 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092614,
+        "name": "Cơ Duyên Gặp Gỡ",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Trù Phú 100 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092615,
+        "name": "Tạo Nên Hạt Nhân Tương Đồng",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Bảo Hộ 100 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092616,
+        "name": "Đứa Con Nhà Methuselah",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Sinh Sôi 100 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092617,
+        "name": "Trưởng Kho Lưu Trữ",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, có số Mảnh Vũ Trụ lớn hơn hoặc bằng 9999",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092618,
+        "name": "Với Tay Hái Sao Trời",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, sự kiện Công Ty Hành Tinh Hòa Bình \"Nhật Ký Thăng Chức\", <u>nắm giữ quyền lực vô tận</u>",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092619,
+        "name": "Q",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, trong cùng một khu vực \"Giao Dịch\", mua tất cả vật phẩm Cửa Hàng Chúc Phúc và Cửa Hàng Vật Thể Lạ",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092620,
+        "name": "Chào Mừng Đến Với Valhalla",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, chiến đấu thất bại trong sự kiện do Câu Lạc Bộ Thiên Tài #55 Yu Qingtu kích hoạt",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092621,
+        "name": "Vua Phá Hoại Vô Địch II",
+        "desc": "Trong 1 lần Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy phá vỡ Vật Có Thể Phá Hủy trong lần khiêu chiến này lớn hơn hoặc bằng 100",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092622,
+        "name": "Nông Trại Vui Vẻ",
+        "desc": "Trong 1 khu vực \"Thám Hiểm\" của Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, số Heo Đất bắt được lớn hơn hoặc bằng 16",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092623,
+        "name": "Gian Phòng Vận Mệnh",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, thắp sáng 1 Con Đường Hành Giả ẩn",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092624,
+        "name": "Nhóm Đơn Ca",
+        "desc": "Trong 1 lần Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, phát sinh 2 lần Tiếng Vọng Giao Thoa",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092625,
+        "name": "Bảo Hộ Hay Hủy Diệt?",
+        "desc": "Trong khu vực \"Sự Kiện\" của Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, hoàn thành 1 lần chọn lựa Vận Mệnh",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092626,
+        "name": "Vòng Quay Vận Mệnh",
+        "desc": "Trong khu vực \"Sự Kiện\" của Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, hoàn thành tất cả chọn lựa Vận Mệnh",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092627,
+        "name": "Cứ Như Thế Diễn Ra",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy sử dụng 10 lần cheat",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092628,
+        "name": "Về Đến Tương Lai",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng tích lũy sử dụng 50 lần ném lại",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092629,
+        "name": "Sự Kết Thúc Của Vương Quốc Vĩnh Cửu",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, dùng vận mệnh ngoài \"Hư Vô\" vào Khu Vực \"Trống\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092630,
+        "name": "Cưỡi Trên Sao Chổi",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tại khu vực \"Thám Hiểm\" ngẫu nhiên đạt được tất cả mục tiêu",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092631,
+        "name": "Điều Tra Viên Weyland-Yutani",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, dùng vận mệnh ngoài \"Sinh Sôi\" vào khu vực \"Chiến Đấu - Đàn Côn Trùng\", \"Sự Kiện - Đàn Côn Trùng\" hoặc \"Thủ Lĩnh - Đàn Côn Trùng\" 15 lần",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092632,
+        "name": "Máy Trung Chuyển Chất Lượng",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, \"Cấp Rối Loạn\" của \"Vị Diện Rối Loạn!\" lớn hơn hoặc bằng cấp 20",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092636,
+        "name": "Vũ Trụ Tĩnh Mịch",
+        "desc": "Vượt ải toàn bộ cốt truyện Thảm Họa Đàn Côn Trùng trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092637,
+        "name": "Khách Tha Hương",
+        "desc": "Thu thập toàn bộ cốt truyện Bí Mật Khai Phá trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092638,
+        "name": "Tấn Công Hạt Nhân Quỹ Đạo",
+        "desc": "Hoàn thành Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng ở độ khó V",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092639,
+        "name": "Diệt Trừ Nạn Côn Trùng",
+        "desc": "Thu thập chương \"Săn Bắn I\" của Thảm Họa Đàn Côn Trùng",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092640,
+        "name": "Giấc Mộng Babel",
+        "desc": "Thu thập chương \"Bảo Hộ II\" của Thảm Họa Đàn Côn Trùng",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092641,
+        "name": "Hãy Nhìn Người Này",
+        "desc": "Thu thập chương \"Hư Vô I\" của Thảm Họa Đàn Côn Trùng",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   }

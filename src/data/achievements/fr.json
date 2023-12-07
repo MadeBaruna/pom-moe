@@ -10,6 +10,34 @@
         "version": "1.0"
       },
       {
+        "id": 4010301,
+        "name": "Mon enfance",
+        "desc": "Améliorer un personnage au Niv. 40",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010302,
+        "name": "Mon apprentissage",
+        "desc": "Améliorer un personnage au Niv. 60",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010303,
+        "name": "Mes études",
+        "desc": "Améliorer un personnage au Niv. 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010102,
+        "name": "Passage à l'âge adulte",
+        "desc": "Améliorer 4 personnages au Niv. 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
         "id": 4010201,
         "name": "Appels du destin (I)",
         "desc": "Posséder 1 cône de lumière Niv. 40",
@@ -45,13 +73,6 @@
         "version": "1.0"
       },
       {
-        "id": 4010301,
-        "name": "Mon enfance",
-        "desc": "Améliorer un personnage au Niv. 40",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
         "id": 4080202,
         "name": "Ne me rendez pas la tâche trop facile (II)",
         "desc": "Atteindre le niveau d'équilibre 3",
@@ -59,30 +80,9 @@
         "version": "1.0"
       },
       {
-        "id": 4010302,
-        "name": "Mon apprentissage",
-        "desc": "Améliorer un personnage au Niv. 60",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
         "id": 4080203,
         "name": "Ne me rendez pas la tâche trop facile (III)",
         "desc": "Atteindre le niveau d'équilibre 6",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
-        "id": 4010303,
-        "name": "Mes études",
-        "desc": "Améliorer un personnage au Niv. 80",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
-        "id": 4010102,
-        "name": "Passage à l'âge adulte",
-        "desc": "Améliorer 4 personnages au Niv. 80",
         "rarity": 3,
         "version": "1.0"
       },
@@ -148,19 +148,19 @@
         "desc": "Équiper des reliques 5 étoiles renforcées au Niv. 15 dans tous les emplacements de relique d'un personnage",
         "rarity": 3,
         "version": "1.0"
+      },
+      {
+        "id": 4012801,
+        "name": "Tout est en ordre",
+        "desc": "Consulter le Livre d'or pour la première fois",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
   "2": {
     "name": "Vestiges de lumière",
     "achievements": [
-      {
-        "id": 4022302,
-        "name": "Tout l'argent de l'univers",
-        "desc": "Obtenir un total de 100000000 crédits",
-        "rarity": 2,
-        "version": "1.0"
-      },
       {
         "id": 4020201,
         "name": "Le Guide du voyageur de l'Express galactique",
@@ -228,6 +228,13 @@
         "id": 4020702,
         "name": "Membre diamant suprême de la Paix Interastrale",
         "desc": "Obtenir un total de 10000000 crédits",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4022302,
+        "name": "Tout l'argent de l'univers",
+        "desc": "Obtenir un total de 100000000 crédits",
         "rarity": 2,
         "version": "1.0"
       },
@@ -361,6 +368,20 @@
         "desc": "Aider (encore) à résoudre la crise profonde que traversent Jarilo-VI et Belobog\\n<color=#8790abff>※ Terminer la continuité pionnière « Marché à terme »</color>",
         "rarity": 2,
         "version": "1.4"
+      },
+      {
+        "id": 4032802,
+        "name": "L'amour du risque",
+        "desc": "Vivre différentes aventures surnaturelles au Jardin de vulpeflâne en compagnie de Guinaifen\\n<color=#8790abff>※ Emprisonnez la grande Cirrus, et résolvez la crise des Héliobes au Jardin de vulpeflâne.</color>",
+        "rarity": 2,
+        "version": "1.5"
+      },
+      {
+        "id": 4032801,
+        "name": "Pas de ménage sans Plumeau",
+        "desc": "Partir à l'aventure avec la brigade de chasse aux fantômes\\n<color=#8790abff>※ Retrouvez Plumeau et emprisonnez les Héliobes en cavale qui sévissent à bord du Luofu...</color>",
+        "rarity": 2,
+        "version": "1.5"
       }
     ]
   },
@@ -389,18 +410,18 @@
         "version": "1.0"
       },
       {
-        "id": 4040101,
-        "name": "Maître du jeu de rôle",
-        "desc": "Ouvrir 30 coffres au trésor à bord de la Station spatiale Herta",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
         "id": 4042506,
         "name": "Voyage au loin",
         "desc": "Activer des ancres spatiales 20 fois à bord du Luofu de Xianzhou",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4040101,
+        "name": "Maître du jeu de rôle",
+        "desc": "Ouvrir 30 coffres au trésor à bord de la Station spatiale Herta",
+        "rarity": 3,
+        "version": "1.0"
       },
       {
         "id": 4040102,
@@ -606,6 +627,13 @@
         "version": "1.0"
       },
       {
+        "id": 4052717,
+        "name": "Le vent du Nord crée des héros",
+        "desc": "Vaincre Gepard derrière le portail dans la Marche des soldats de l'hiver en difficulté III",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4040411,
         "name": "L'allégorie de la caverne",
         "desc": "Terminer l'Hexanexus 30 fois",
@@ -655,6 +683,20 @@
         "version": "1.2"
       },
       {
+        "id": 4042802,
+        "name": "Naissance du Golem",
+        "desc": "Obtenir 9 récompenses du « Chemin de la destinée » dans le Jardin de vulpeflâne",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4042801,
+        "name": "De l'autre côté du miroir",
+        "desc": "Traverser le miroir en bronze et obtenir le trésor caché sur l'île flottante",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
         "id": 4042401,
         "name": "Dans la gueule du loup",
         "desc": "Capturer 1 Magoret égaré en combat",
@@ -667,60 +709,11 @@
     "name": "Souvenirs partagés",
     "achievements": [
       {
-        "id": 4052613,
-        "name": "Le poids de la vérité",
-        "desc": "Dire la vérité à Cléo à propos de Todd",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052614,
-        "name": "Harmonie cachée",
-        "desc": "Cacher la vérité à Cléo à propos de Todd",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052615,
-        "name": "Les vagues du tourment",
-        "desc": "Terminer la mission de compagnon « Total Recall »",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052616,
-        "name": "Par-delà les frontières glacées",
-        "desc": "Terminer la mission de compagnon « Au-delà des Plaines des neiges »",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052617,
-        "name": "Larmes du passé",
-        "desc": "Terminer la mission de compagnon « Le retour du dragon »",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052618,
-        "name": "Seule la cendre blanche subsiste",
-        "desc": "Terminer la mission de compagnon « Mon amour, ma chair, mon sang »",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4051001,
         "name": "Devine qui c'est",
         "desc": "Terminer la mission de compagnon « Tu-me-connais-déjà »",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4052603,
-        "name": "La paix en avant-première",
-        "desc": "Écouter l'intégralité de l'épisode 1 du programme de la Paix Interastrale",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4051002,
@@ -779,20 +772,6 @@
         "version": "1.1"
       },
       {
-        "id": 4052401,
-        "name": "Pas de refuge pour les vagabonds",
-        "desc": "Laisser Liangmu découvrir l'identité du monstre frappé par le mara dans la mission « Évanescence de la rosée du matin »",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
-        "id": 4052402,
-        "name": "Au nom du bon vieux temps",
-        "desc": "Cacher l'identité du monstre frappé par le mara à Liangmu dans la mission « Évanescence de la rosée du matin »",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052403,
         "name": "Le danseur au cercueil",
         "desc": "Découvrir la face cachée de Luocha.\\n<color=#8790abff>※ Consulter l'enregistrement restauré et écouter le monologue de Luocha.</color>",
@@ -819,6 +798,76 @@
         "desc": "Terminer la mission de compagnon « Lettre d'une femme étrange »\\n<color=#8790abff>※ Choix que peu ferait, vous avez décidé de ne pas aider Kafka et de démontrer votre libre arbitre</color>",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052615,
+        "name": "Les vagues du tourment",
+        "desc": "Terminer la mission de compagnon « Total Recall »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052616,
+        "name": "Par-delà les frontières glacées",
+        "desc": "Terminer la mission de compagnon « Au-delà des Plaines des neiges »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052617,
+        "name": "Larmes du passé",
+        "desc": "Terminer la mission de compagnon « Le retour du dragon »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052618,
+        "name": "Seule la cendre blanche subsiste",
+        "desc": "Terminer la mission de compagnon « Mon amour, ma chair, mon sang »",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052703,
+        "name": "Le Chêne et le Roseau",
+        "desc": "Terminer la mission de compagnon « Les nuages s'estompent sans laisser de trace »",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052801,
+        "name": "Guerre sempiternelle",
+        "desc": "Terminer la mission de compagnon « Nuit des hallucinations cosmiques »",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4051109,
+        "name": "En attendant demain",
+        "desc": "Trouver tous les objets de Julian dans la mission « Le trésor de Hook »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051110,
+        "name": "Le cycle des objets logiciels",
+        "desc": "Choisir de ne pas formater Petit robot dans la mission « Rarement tendre (partie 2) »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051111,
+        "name": "Le temps d'un souffle, je m'attarde",
+        "desc": "Choisir de formater Petit robot dans la mission « Rarement tendre (partie 2) »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052603,
+        "name": "La paix en avant-première",
+        "desc": "Écouter l'intégralité de l'épisode 1 du programme de la Paix Interastrale",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4051103,
@@ -912,13 +961,6 @@
         "version": "1.0"
       },
       {
-        "id": 4051109,
-        "name": "En attendant demain",
-        "desc": "Trouver tous les objets de Julian dans la mission « Le trésor de Hook »",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4080601,
         "name": "Supériorité morale",
         "desc": "Confronter le protecteur des biens publics et lui montrer ce qu'il se passe quand on essaie de vous mettre des bâtons dans les roues (ou faire en sorte qu'il reconnaisse publiquement ses torts)",
@@ -926,23 +968,9 @@
         "version": "1.0"
       },
       {
-        "id": 4051110,
-        "name": "Le cycle des objets logiciels",
-        "desc": "Choisir de ne pas formater Petit robot dans la mission « Rarement tendre (partie 2) »",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4080602,
         "name": "Passant serviable",
         "desc": "Rendre la boîte à musique trouvée dans la Ville de Rivet à sa propriétaire dévastée",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4051111,
-        "name": "Le temps d'un souffle, je m'attarde",
-        "desc": "Choisir de formater Petit robot dans la mission « Rarement tendre (partie 2) »",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1038,13 +1066,6 @@
         "version": "1.0"
       },
       {
-        "id": 4052601,
-        "name": "Rendre à l'allée des Aurums ce qui appartient à l'allée des Aurums !",
-        "desc": "Terminer la mission « Les affaires reprennent (IV) » et remporter l'appel d'offres pour le quartier commercial de l'allée des Aurums",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
         "id": 4052318,
         "name": "Chasse au trésor",
         "desc": "Déterrer le trésor caché dans la fontaine du district administratif de Belobog",
@@ -1057,6 +1078,587 @@
         "desc": "Résoudre toutes les énigmes de la Boîte de la Sotte dans la mission « Réceptacle de médiocrité »",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052320,
+        "name": "La quatrième petite taupe",
+        "desc": "Trouver tous les trésors cachés dans la mission « Les Taupes aventurières »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052321,
+        "name": "Les Taupes aventurières, édition super adulte",
+        "desc": "Acheter <i>Les Taupes aventurières : le trésor caché</i> chez la libraire de Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052714,
+        "name": "Les jambes, c'est surcoté",
+        "desc": "Élaborer un plan abracadabrantesque pour le Moteur de la création",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052715,
+        "name": "Lève-toi, Moteur de la création !",
+        "desc": "Élaborer un plan réaliste pour le Moteur de la création",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052720,
+        "name": "Premier pas vers l'avenir",
+        "desc": "Rester informé sur le progrès du développement de Belobog.\\n<color=#8790abff>※ Acheter la Parution n° 226 du <i>Mineur hebdo</i></color>",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052721,
+        "name": "Fruit défendu inorganique",
+        "desc": "Obtenir l'élément de lecture « Message de Screwllum »",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052722,
+        "name": "À la rencontre de l'ourson polaire",
+        "desc": "Interagir chaleureusement avec l'ourson polaire",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052723,
+        "name": "Merci, Pela",
+        "desc": "Aider Fédora avec son pari",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052724,
+        "name": "De l'acier et des jouets",
+        "desc": "Remettre la ferraille du chantier à Benjamin",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052725,
+        "name": "De l'acier et des lampadaires",
+        "desc": "Remettre la ferraille du chantier à Pela",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052726,
+        "name": "Sous les yeux du colosse",
+        "desc": "Sauver votre langue collée à une clôture gelée",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052727,
+        "name": "N'essayez pas ça chez vous",
+        "desc": "Se faire passer un savon (encore) pour avoir cassé le vase",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052728,
+        "name": "Chaque chose en son temps",
+        "desc": "Gagner une fan invétérée",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052729,
+        "name": "Confession du masque",
+        "desc": "Examiner la bulle mémorielle d'origine inconnue",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052730,
+        "name": "Cryordures",
+        "desc": "Trouver des Ordures dans une poubelle gelée",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052404,
+        "name": "La journée du patrimoine",
+        "desc": "Ouvrir la Galerie principale du Musée de l'histoire et de la culture de Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052405,
+        "name": "Arrête-moi si tu peux",
+        "desc": "Ouvrir trois galeries au Musée de l'histoire et de la culture de Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052406,
+        "name": "Le nouveau conservateur du musée !",
+        "desc": "Obtenir toutes les pièces d'exposition pour le Musée de l'histoire et de culture de Belobog",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
+        "id": 4052701,
+        "name": "Entrée au Panthéon",
+        "desc": "Remporter le titre de Maître des Guerres de l'étherium au Festival du tournoi interastral",
+        "rarity": 2,
+        "version": "1.4"
+      },
+      {
+        "id": 4052702,
+        "name": "Roi de la colline enneigée",
+        "desc": "Terminer le combat fatidique des Guerres de l'étherium à la Colline de l'Hiver éternel",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052704,
+        "name": "Attrapez-les tous",
+        "desc": "Obtenir tous les esprits d'éther dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052705,
+        "name": "Maître des Guerres de l'étherium",
+        "desc": "Obtenir le plus haut niveau de classement dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052706,
+        "name": "Maître des combats hyperlink",
+        "desc": "Vaincre tous les adversaires dans les combats hyperlink des Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052707,
+        "name": "Badge du souffle glacé",
+        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire du Couloir des échos faiblissants dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052708,
+        "name": "Badge d'alliage",
+        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire de Passenuage dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052709,
+        "name": "Badge d'intelligence",
+        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire de la Station spatiale Herta dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052710,
+        "name": "Badge de façade",
+        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire de la Grande mine dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052711,
+        "name": "On est les champions ?",
+        "desc": "Remporter une rencontre amicale dans les Guerres de l'étherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052718,
+        "name": "Toutes les bonnes choses ont une fin",
+        "desc": "Rendre {TEXTJOIN#54} après la fin du tournoi",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052719,
+        "name": "Nouveau départ",
+        "desc": "Garder {TEXTJOIN#54} après la fin du tournoi",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052716,
+        "name": "Il n'y a jamais de mise à jour dans ce jeu ?",
+        "desc": "Obtenir toutes les puces d'amélioration des esprits d'éther",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4032309,
+        "name": "Opulence draconique",
+        "desc": "Assister à l'histoire de Dan Shu",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4052510,
+        "name": "Ami des Chevaliers des nuages",
+        "desc": "Exécuter scrupuleusement les ordres du général sans détour",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4052323,
+        "name": "Un cœur simple",
+        "desc": "Recevoir un message de Luhui après avoir terminé la mission « Licenciement »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052324,
+        "name": "Carpe Diem, Festina Lente, et Tempus Fugit",
+        "desc": "Faire renaître la flamme et tout donner\\nRecevoir tous les messages au sujet de la passion essoufflée de Chengjie après avoir terminé la mission « Professeur et ami »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052325,
+        "name": "Cybercrime",
+        "desc": "Faire en sorte que la Beauté foxienne se dénonce durant la mission « Bons baisers de Xianzhou »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052326,
+        "name": "Cœur à prendre",
+        "desc": "Faire en sorte que la Beauté foxienne révèle sa véritable identité durant la mission « Bons baisers de Xianzhou »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052327,
+        "name": "Le secret fait la femme",
+        "desc": "Faire en sorte que la Beauté foxienne poursuive son subterfuge durant la mission « Bons baisers de Xianzhou »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052401,
+        "name": "Pas de refuge pour les vagabonds",
+        "desc": "Laisser Liangmu découvrir l'identité du monstre frappé par le mara dans la mission « Évanescence de la rosée du matin »",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052402,
+        "name": "Au nom du bon vieux temps",
+        "desc": "Cacher l'identité du monstre frappé par le mara à Liangmu dans la mission « Évanescence de la rosée du matin »",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052328,
+        "name": "Les sept bugs des mécagrues : la paresse",
+        "desc": "Convaincre la mécagrue déprimée de retourner travailler",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052329,
+        "name": "Méca-ornithologue",
+        "desc": "Aider le Héron express à retrouver toutes les mécagrues perdues",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052330,
+        "name": "À la loyale",
+        "desc": "Remporter le concours du plus gros mangeur du Luofu de Xianzhou sans tricher",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052331,
+        "name": "Tous les coups sont permis",
+        "desc": "Remporter le concours du plus gros mangeur du Luofu de Xianzhou en contournant les règles",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052332,
+        "name": "C'est le bide",
+        "desc": "Perdre le concours du plus gros mangeur du Luofu de Xianzhou",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052333,
+        "name": "Loin de la foule déchaînée",
+        "desc": "Parler à l'Immortel du vase et obtenir le cadeau qui se trouve à l'intérieur",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052334,
+        "name": "Advienne que pourra",
+        "desc": "Parler à l'Immortel du vase et refuser son cadeau",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052335,
+        "name": "Hasta la vista, Hexanexus !",
+        "desc": "Terminer 15 défis de l'Hexanexus du Club Hex",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052336,
+        "name": "Casse-tête",
+        "desc": "Terminer 15 nouveaux défis de l'Hexanexus du Club Hex",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052337,
+        "name": "Dur labeur",
+        "desc": "Examiner 3 meubles de rangement différents du Siège de la clairvoyance divine",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052338,
+        "name": "Les crimes qui rapprochent",
+        "desc": "Empêcher la touriste bizarre de jeter une pièce dans le moteur de l'astroskiff",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052339,
+        "name": "Vol annulé",
+        "desc": "Aider la touriste bizarre à jeter une pièce dans le moteur de l'astroskiff",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052340,
+        "name": "Juste retour des choses",
+        "desc": "Récupérer les crédits que l'escroc a pris",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052341,
+        "name": "Laxisme",
+        "desc": "Ne pas récupérer les crédits que l'escroc a pris",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052342,
+        "name": "Avoir le beurre et l'argent du beurre",
+        "desc": "Récupérer plus de crédits que ce que l'escroc avait pris",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052343,
+        "name": "Les sept bugs des mécagrues : la luxure",
+        "desc": "Suivre l'élégante mécagrue pour trouver le magazine conservé par la douane",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052344,
+        "name": "Les sept bugs des mécagrues : la gourmandise",
+        "desc": "Faire un pari avec la mécagrue mécontente",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052345,
+        "name": "Les sept bugs des mécagrues : l'avarice",
+        "desc": "Explorer la montagne de colis protégée par le Dragon maléfique",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052346,
+        "name": "Les sept bugs des mécagrues : l'envie",
+        "desc": "Terminer le défi de la mécagrue aigrie",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052347,
+        "name": "Les sept bugs des mécagrues : la colère",
+        "desc": "Battre les bandits de grand chemin aux côtés de la preuse mécagrue",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052348,
+        "name": "Les sept bugs des mécagrues : l'orgueil",
+        "desc": "Terminer le défi des « Quatre grands criminels (autoproclamés) du Luofu »",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "Mordre à l'hameçon",
+        "desc": "Découvrir ce qui lie les deux pêcheurs de la Commission de l'artisanat",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Comment j'ai appris à ne plus m'en faire",
+        "desc": "Résoudre la crise de la bombe à neutrons",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Turbonescence",
+        "desc": "Participer 1 fois à l'examen de conduite d'aurumaton",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Virtuose de la prose",
+        "desc": "Voir vos talents littéraires reconnus par le Poète métrique",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Novice de la littérature",
+        "desc": "Échouer à faire reconnaître vos talents littéraires par le Poète métrique",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "La fin justifie les moyens",
+        "desc": "Relâcher 1 créature avec les Esprits libres",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Tout a une fin",
+        "desc": "Assister à la fin des Esprits libres",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052613,
+        "name": "Le poids de la vérité",
+        "desc": "Dire la vérité à Cléo à propos de Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052614,
+        "name": "Harmonie cachée",
+        "desc": "Cacher la vérité à Cléo à propos de Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052824,
+        "name": "En avant la monnaie",
+        "desc": "Recevoir un message frauduleux prétendant provenir du Grand ancien au Jardin de vulpeflâne",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052813,
+        "name": "Les chocottes !",
+        "desc": "Récupérer 900 récompenses à l'issue du quizz de l'enfant au Jardin de vulpeflâne",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052814,
+        "name": "Du bout de mes doigts fébriles et sensibles",
+        "desc": "Aider l'Héliobe de la cithare et terminer la composition",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052815,
+        "name": "Sous le vent",
+        "desc": "Chanter <i>Vin de mariage</i> en duo avec l'actrice fantôme et réaliser une performance parfaite",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052816,
+        "name": "La déception de Nagui",
+        "desc": "Chanter <i>Vin de mariage</i> en duo avec l'actrice fantôme et oublier les paroles",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052817,
+        "name": "Héritage ésotérique",
+        "desc": "Déchiffrer la mystérieuse inscription sur la tombe du Tumulus du renard",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052818,
+        "name": "Fermer les yeux",
+        "desc": "Faire la rencontre du propriétaire de la tombe du Tumulus du renard",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052819,
+        "name": "Légend'or",
+        "desc": "Obtenir une récompense dorée dans le nouveau mode de jeu de Jade céleste !",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052820,
+        "name": "Feu pâle",
+        "desc": "Choisir d'emmener l'Héliobe après l'argumentaire de Wenyuan et Ruoxi",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052821,
+        "name": "À ton éternité",
+        "desc": "Choisir de laisser l'Héliobe après l'argumentaire de Wenyuan et Ruoxi",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052822,
+        "name": "Sekai ga Owaru Made wa...",
+        "desc": "Relâcher Arkeri après une promenade à bord du Luofu en sa compagnie",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052823,
+        "name": "Emprisonnement du mal et maîtrise du cosmos",
+        "desc": "Emprisonner Arkeri dans la tour d'exorcisme après une promenade à bord du Luofu en sa compagnie",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052601,
+        "name": "Rendre à l'allée des Aurums ce qui appartient à l'allée des Aurums !",
+        "desc": "Terminer la mission « Les affaires reprennent (IV) » et remporter l'appel d'offres pour le quartier commercial de l'allée des Aurums",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4052604,
@@ -1073,25 +1675,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052320,
-        "name": "La quatrième petite taupe",
-        "desc": "Trouver tous les trésors cachés dans la mission « Les Taupes aventurières »",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052606,
         "name": "Corne d'abondance",
         "desc": "Obtenir 1000000 de fonds pour le compte de la Guilde des commerçants de l'allée des Aurums dans « Ramdam à l'allée des Aurums »",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052321,
-        "name": "Les Taupes aventurières, édition super adulte",
-        "desc": "Acheter <i>Les Taupes aventurières : le trésor caché</i> chez la libraire de Belobog",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052607,
@@ -1101,20 +1689,6 @@
         "version": "1.3"
       },
       {
-        "id": 4032309,
-        "name": "Opulence draconique",
-        "desc": "Assister à l'histoire de Dan Shu",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
-        "id": 4052404,
-        "name": "La journée du patrimoine",
-        "desc": "Ouvrir la Galerie principale du Musée de l'histoire et de la culture de Belobog",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052608,
         "name": "Livraison automatique",
         "desc": "Terminer une livraison personnalisée de Héron express dans « Ramdam à l'allée des Aurums »",
@@ -1122,25 +1696,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052405,
-        "name": "Arrête-moi si tu peux",
-        "desc": "Ouvrir trois galeries au Musée de l'histoire et de la culture de Belobog",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052609,
         "name": "À la recherche de l'arôme perdu",
         "desc": "Terminer l'événement de rue « Truffie à la rescousse » dans « Ramdam à l'allée des Aurums »",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052406,
-        "name": "Le nouveau conservateur du musée !",
-        "desc": "Obtenir toutes les pièces d'exposition pour le Musée de l'histoire et de culture de Belobog",
-        "rarity": 2,
-        "version": "1.1"
       },
       {
         "id": 4052610,
@@ -1157,25 +1717,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052323,
-        "name": "Un cœur simple",
-        "desc": "Recevoir un message de Luhui après avoir terminé la mission « Licenciement »",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052612,
         "name": "Un horizon pour le marché nocturne",
         "desc": "Obtenir un score de planification d'itinéraire de 81 pour n'importe quel magasin dans « Ramdam à l'allée des Aurums »",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052324,
-        "name": "Carpe Diem, Festina Lente, et Tempus Fugit",
-        "desc": "Faire renaître la flamme et tout donner\\nRecevoir tous les messages au sujet de la passion essoufflée de Chengjie après avoir terminé la mission « Professeur et ami »",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052619,
@@ -1185,179 +1731,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052325,
-        "name": "Cybercrime",
-        "desc": "Faire en sorte que la Beauté foxienne se dénonce durant la mission « Bons baisers de Xianzhou »",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052620,
         "name": "L'Infiltré",
         "desc": "Être témoin de l'histoire de l'identité cachée de Yongren",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052326,
-        "name": "Cœur à prendre",
-        "desc": "Faire en sorte que la Beauté foxienne révèle sa véritable identité durant la mission « Bons baisers de Xianzhou »",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052701,
-        "name": "Entrée au Panthéon",
-        "desc": "Remporter le titre de Maître des Guerres de l'étherium au Festival du tournoi interastral",
-        "rarity": 2,
-        "version": "1.4"
-      },
-      {
-        "id": 4052327,
-        "name": "Le secret fait la femme",
-        "desc": "Faire en sorte que la Beauté foxienne poursuive son subterfuge durant la mission « Bons baisers de Xianzhou »",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052702,
-        "name": "Roi de la colline enneigée",
-        "desc": "Terminer le combat fatidique des Guerres de l'étherium à la Colline de l'Hiver éternel",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052328,
-        "name": "Les sept bugs des mécagrues : la paresse",
-        "desc": "Convaincre la mécagrue déprimée de retourner travailler",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052703,
-        "name": "Le Chêne et le Roseau",
-        "desc": "Terminer la mission de compagnon « Les nuages s'estompent sans laisser de trace »",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052329,
-        "name": "Méca-ornithologue",
-        "desc": "Aider le Héron express à retrouver toutes les mécagrues perdues",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052704,
-        "name": "Attrapez-les tous",
-        "desc": "Obtenir tous les esprits d'éther dans les Guerres de l'étherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052330,
-        "name": "À la loyale",
-        "desc": "Remporter le concours du plus gros mangeur du Luofu de Xianzhou sans tricher",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052705,
-        "name": "Maître des Guerres de l'étherium",
-        "desc": "Obtenir le plus haut niveau de classement dans les Guerres de l'étherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052331,
-        "name": "Tous les coups sont permis",
-        "desc": "Remporter le concours du plus gros mangeur du Luofu de Xianzhou en contournant les règles",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052706,
-        "name": "Maître des combats hyperlink",
-        "desc": "Vaincre tous les adversaires dans les combats hyperlink des Guerres de l'étherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052332,
-        "name": "C'est le bide",
-        "desc": "Perdre le concours du plus gros mangeur du Luofu de Xianzhou",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052707,
-        "name": "Badge du souffle glacé",
-        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire du Couloir des échos faiblissants dans les Guerres de l'étherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052333,
-        "name": "Loin de la foule déchaînée",
-        "desc": "Parler à l'Immortel du vase et obtenir le cadeau qui se trouve à l'intérieur",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052708,
-        "name": "Badge d'alliage",
-        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire de Passenuage dans les Guerres de l'étherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052334,
-        "name": "Advienne que pourra",
-        "desc": "Parler à l'Immortel du vase et refuser son cadeau",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052709,
-        "name": "Badge d'intelligence",
-        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire de la Station spatiale Herta dans les Guerres de l'étherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052335,
-        "name": "Hasta la vista, Hexanexus !",
-        "desc": "Terminer 15 défis de l'Hexanexus du Club Hex",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052710,
-        "name": "Badge de façade",
-        "desc": "Venir à bout de toutes les épreuves de la Zone de victoire de la Grande mine dans les Guerres de l'étherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052336,
-        "name": "Casse-tête",
-        "desc": "Terminer 15 nouveaux défis de l'Hexanexus du Club Hex",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052711,
-        "name": "On est les champions ?",
-        "desc": "Remporter une rencontre amicale dans les Guerres de l'étherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052337,
-        "name": "Dur labeur",
-        "desc": "Examiner 7 meubles de rangement différents du Siège de la clairvoyance divine",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052712,
@@ -1367,13 +1745,6 @@
         "version": "1.4"
       },
       {
-        "id": 4052338,
-        "name": "Les crimes qui rapprochent",
-        "desc": "Empêcher la touriste bizarre de jeter une pièce dans le moteur de l'astroskiff",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052713,
         "name": "L'art du bon mot",
         "desc": "Écouter la représentation des Minis Al et Retour",
@@ -1381,249 +1752,81 @@
         "version": "1.4"
       },
       {
-        "id": 4052339,
-        "name": "Vol annulé",
-        "desc": "Aider la touriste bizarre à jeter une pièce dans le moteur de l'astroskiff",
+        "id": 4052802,
+        "name": "Salut tout le monde !",
+        "desc": "Publier un post sur le Canard possédé",
         "rarity": 1,
-        "version": "1.0"
+        "version": "1.5"
       },
       {
-        "id": 4052714,
-        "name": "Les jambes, c'est surcoté",
-        "desc": "Élaborer un plan abracadabrantesque pour le Moteur de la création",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052340,
-        "name": "Juste retour des choses",
-        "desc": "Récupérer les crédits que l'escroc a pris",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052715,
-        "name": "Lève-toi, Moteur de la création !",
-        "desc": "Élaborer un plan réaliste pour le Moteur de la création",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052341,
-        "name": "Laxisme",
-        "desc": "Ne pas récupérer les crédits que l'escroc a pris",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052716,
-        "name": "Il n'y a jamais de mise à jour dans ce jeu ?",
-        "desc": "Obtenir toutes les puces d'amélioration des esprits d'éther",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052342,
-        "name": "Avoir le beurre et l'argent du beurre",
-        "desc": "Récupérer plus de crédits que ce que l'escroc avait pris",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052717,
-        "name": "Le vent du Nord crée des héros",
-        "desc": "Vaincre Gepard derrière le portail dans la Marche des soldats de l'hiver en difficulté III",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052343,
-        "name": "Les sept bugs des mécagrues : la luxure",
-        "desc": "Suivre l'élégante mécagrue pour trouver le magazine conservé par la douane",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052718,
-        "name": "Toutes les bonnes choses ont une fin",
-        "desc": "Rendre {TEXTJOIN#54} après la fin du tournoi",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052344,
-        "name": "Les sept bugs des mécagrues : la gourmandise",
-        "desc": "Faire un pari avec la mécagrue mécontente",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052719,
-        "name": "Nouveau départ",
-        "desc": "Garder {TEXTJOIN#54} après la fin du tournoi",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052345,
-        "name": "Les sept bugs des mécagrues : l'avarice",
-        "desc": "Explorer la montagne de colis protégée par le Dragon maléfique",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052720,
-        "name": "Premier pas vers l'avenir",
-        "desc": "Rester informé sur le progrès du développement de Belobog.\\n<color=#8790abff>※ Acheter la Parution n° 226 du <i>Mineur hebdo</i></color>",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052346,
-        "name": "Les sept bugs des mécagrues : l'envie",
-        "desc": "Terminer le défi de la mécagrue aigrie",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052721,
-        "name": "Fruit défendu inorganique",
-        "desc": "Obtenir l'élément de lecture « Message de Screwllum »",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052347,
-        "name": "Les sept bugs des mécagrues : la colère",
-        "desc": "Battre les bandits de grand chemin aux côtés de la preuse mécagrue",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052722,
-        "name": "À la rencontre de l'ourson polaire",
-        "desc": "Interagir chaleureusement avec l'ourson polaire",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052348,
-        "name": "Les sept bugs des mécagrues : l'orgueil",
-        "desc": "Terminer le défi des « Quatre grands criminels (autoproclamés) du Luofu »",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052723,
-        "name": "Merci, Pela",
-        "desc": "Aider Fédora avec son pari",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052501,
-        "name": "Mordre à l'hameçon",
-        "desc": "Découvrir ce qui lie les deux pêcheurs de la Commission de l'artisanat",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052724,
-        "name": "De l'acier et des jouets",
-        "desc": "Remettre la ferraille du chantier à Benjamin",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052502,
-        "name": "Comment j'ai appris à ne plus m'en faire",
-        "desc": "Résoudre la crise de la bombe à neutrons",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052725,
-        "name": "De l'acier et des lampadaires",
-        "desc": "Remettre la ferraille du chantier à Pela",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052503,
-        "name": "Turbonescence",
-        "desc": "Participer 1 fois à l'examen de conduite d'aurumaton",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052726,
-        "name": "Sous les yeux du colosse",
-        "desc": "Sauver votre langue collée à une clôture gelée",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052504,
-        "name": "Virtuose de la prose",
-        "desc": "Voir vos talents littéraires reconnus par le Poète métrique",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052727,
-        "name": "N'essayez pas ça chez vous",
-        "desc": "Se faire passer un savon (encore) pour avoir cassé le vase",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052505,
-        "name": "Novice de la littérature",
-        "desc": "Échouer à faire reconnaître vos talents littéraires par le Poète métrique",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052728,
-        "name": "Chaque chose en son temps",
-        "desc": "Gagner une fan invétérée",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052508,
-        "name": "La fin justifie les moyens",
-        "desc": "Relâcher 1 créature avec les Esprits libres",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052729,
-        "name": "Confession du masque",
-        "desc": "Examiner la bulle mémorielle d'origine inconnue",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052509,
-        "name": "Tout a une fin",
-        "desc": "Assister à la fin des Esprits libres",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052730,
-        "name": "Cryordures",
-        "desc": "Trouver des Ordures dans une poubelle gelée",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052510,
-        "name": "Ami des Chevaliers des nuages",
-        "desc": "Exécuter scrupuleusement les ordres du général sans détour",
+        "id": 4052803,
+        "name": "Salut everybody tout le monde !",
+        "desc": "Obtenir #1[m] abonnés sur le site du Canard possédé",
         "rarity": 2,
-        "version": "1.2"
+        "version": "1.5"
+      },
+      {
+        "id": 4052804,
+        "name": "Plein pouvoir",
+        "desc": "Maîtriser toutes les techniques d'exorcisme",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052805,
+        "name": "Combat acharné sur l'échiquier",
+        "desc": "Terminer tous les défis des Chroniques d'exorcisme",
+        "rarity": 2,
+        "version": "1.5"
+      },
+      {
+        "id": 4052806,
+        "name": "Influenceur de la Chasse",
+        "desc": "Publier des posts « SCOOP » sur le Canard possédé",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052807,
+        "name": "Influenceur de l'Enigmata",
+        "desc": "Publier des posts « Sciences occultes » sur le Canard possédé",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052808,
+        "name": "Influenceur de l'Allégresse",
+        "desc": "Publier des posts « Info choc » sur le Canard possédé",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052809,
+        "name": "Influenceur équilibré",
+        "desc": "Publier un nombre équivalent de posts avec des styles différents sur le Canard possédé",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052810,
+        "name": "« Lâche un pouce bleu ! »",
+        "desc": "Aimer 15 posts sur le site du Canard possédé",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052811,
+        "name": "L'influence pour les nuls",
+        "desc": "Répondre 10 fois sur le site du Canard possédé",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052812,
+        "name": "Que brillent nos éclats, réunis ou séparés",
+        "desc": "Récupérer 24 Héliobes dispersés avec la « mécagrue d'exorcisme »",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
@@ -1757,21 +1960,21 @@
       {
         "id": 4070401,
         "name": "Coups de poing normaux consécutifs",
-        "desc": "Infliger au moins 2000 DGT en une seule action",
+        "desc": "Infliger 2000 de DGT en une seule attaque",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070402,
         "name": "Lame de Taixu",
-        "desc": "Infliger au moins 40000 DGT en une seule action",
+        "desc": "Infliger 40000 de DGT en une seule attaque",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070403,
         "name": "Résonance de ruine",
-        "desc": "Infliger au moins 300000 DGT en une seule action",
+        "desc": "Infliger 300000 de DGT en une seule attaque",
         "rarity": 2,
         "version": "1.0"
       },
@@ -2128,7 +2331,7 @@
       {
         "id": 4071018,
         "name": "Usine à gaz",
-        "desc": "Infliger 20000 DGT ou plus à un ennemi dont les PV sont inférieurs ou égaux à <unbreak>0%</unbreak> en une seule action",
+        "desc": "Infliger 20000 DGT ou plus à un ennemi dont les PV sont inférieurs ou égaux à <unbreak>0%</unbreak> en une seule attaque",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2142,7 +2345,7 @@
       {
         "id": 4071501,
         "name": "Quatre pirouettes et demie",
-        "desc": "Déclencher le talent de Herta avec une seule action alliée et la faire tournoyer 5 fois",
+        "desc": "Déclencher le talent de Herta avec une seule attaque alliée et la faire tournoyer 5 fois",
         "rarity": 2,
         "version": "1.0"
       },
@@ -2352,7 +2555,7 @@
       {
         "id": 4072103,
         "name": "Tir ami",
-        "desc": "Vaincre le Gardien aurumaton grâce à la « Flamme de bougie » de l'Ingéniosité envoûtée : poisson-dragon illuminé",
+        "desc": "Vaincre le Gardien aurumaton grâce à la « Flamme de bougie » du Poisson-dragon illuminé",
         "rarity": 2,
         "version": "1.0"
       },
@@ -2408,7 +2611,7 @@
       {
         "id": 4072504,
         "name": "Désir inassouvi",
-        "desc": "Ce n'était pas nécessaire.\\n<color=#8790abff>※ Lorsque les PV de Blade sont inférieurs ou égaux à 0%, les faire passer à <unbreak>30</unbreak> % ou plus en une seule action <unbreak>2</unbreak> fois au cours d'un même combat</color>",
+        "desc": "Ce n'était pas nécessaire.\\n<color=#8790abff>※ Lorsque les PV de Blade sont inférieurs ou égaux à 0%, les faire passer à <unbreak>30</unbreak> % ou plus en une seule attaque <unbreak>2</unbreak> fois au cours d'un même combat</color>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -2453,6 +2656,27 @@
         "desc": "Utiliser Luocha pour infliger le coup de grâce lors d'une victoire contre Yanqing",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4072701,
+        "name": "Danse martiale : Épreuve de la lance",
+        "desc": "Utiliser Dan Heng pour porter le coup de grâce lors d'une victoire contre Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072702,
+        "name": "Danse martiale...?",
+        "desc": "Utiliser Yanqing pour porter le coup de grâce lors d'une victoire contre Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072703,
+        "name": "Danse martiale : Épreuve de l'âme d'acier",
+        "desc": "Utiliser Jingliu pour porter le coup de grâce lors d'une victoire contre Yanqing",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4072605,
@@ -2504,32 +2728,53 @@
         "version": "1.3"
       },
       {
-        "id": 4072701,
-        "name": "Danse martiale : Épreuve de la lance",
-        "desc": "Utiliser Dan Heng pour porter le coup de grâce lors d'une victoire contre Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4072702,
-        "name": "Danse martiale...?",
-        "desc": "Utiliser Yanqing pour porter le coup de grâce lors d'une victoire contre Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4072703,
-        "name": "Danse martiale : Épreuve de l'âme d'acier",
-        "desc": "Utiliser Jingliu pour porter le coup de grâce lors d'une victoire contre Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
         "id": 4072704,
         "name": "Parmi quatre personnes...",
         "desc": "Réduire les PV d'un allié à 1 en combat avec Jingliu",
         "rarity": 1,
         "version": "1.4"
+      },
+      {
+        "id": 4072806,
+        "name": "Les riches aussi meurent de faim",
+        "desc": "Échec du vol de points de compétence lors de l'attaque d'ennemis avec l'anomalie Usurpation 5 fois",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072805,
+        "name": "Protection juridique",
+        "desc": "Terminer un niveau des Chroniques d'exorcisme sans subir de DGT",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072804,
+        "name": "Cochon comme cochon",
+        "desc": "Transformer un Magoret en Magoret à l'aide d'une technique d'exorcisme",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072803,
+        "name": "Que s'abattent tous les maux",
+        "desc": "Déclencher un minimum de 3 « Tonnerres de châtiment » simultanément et terminer le combat",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072802,
+        "name": "Barbecue",
+        "desc": "Avoir simultanément 4 Engeances de flammes sur le champ de bataille lors du défi du Labyrinthe illusoire de Cirrus",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072801,
+        "name": "Lever de drapeau blanc",
+        "desc": "Utiliser la technique de Huohuo « Répression du mal » et faire fuir 6 cibles simultanément",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
@@ -2889,7 +3134,7 @@
       {
         "id": 4082704,
         "name": "Pas d'inquiétude",
-        "desc": "Acheter 1 colis non réclamé auprès de Maozhen à Passenuage",
+        "desc": "Acheter 1 colis de valeur non réclamés auprès de Maozhen à Passenuage",
         "rarity": 1,
         "version": "1.4"
       },
@@ -2927,257 +3172,54 @@
         "desc": "Terminer 3 combats après avoir utilisé le Mannequin en bois automatique",
         "rarity": 1,
         "version": "1.4"
+      },
+      {
+        "id": 4082806,
+        "name": "Mission impossible ?",
+        "desc": "Vaincre Phantylie avec l'ATQ normale de Huohuo « Bannière de tempête »",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082805,
+        "name": "Bonne nuit les petits",
+        "desc": "Entrer en combat après avoir utilisé le Marteau hypnotisant et avoir un personnage affecté par Forte réverbération",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082804,
+        "name": "Who You Gonna Call?",
+        "desc": "Remporter 1 combat avec une équipe composée de Huohuo, Sushang, Guinaifen et {NICKNAME}",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082803,
+        "name": "Courage, fuyons",
+        "desc": "Battre en retraite alors que tous les alliés sur le champ de bataille sont à terre, à l'exception de Huohuo",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082802,
+        "name": "Un duo cosmique",
+        "desc": "Remporter 1 combat avec une équipe composée d'Argenti et {NICKNAME}",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082801,
+        "name": "Viens je t'emmène",
+        "desc": "Déclencher 10 répliques différentes lors de l'ajout de personnages dans une équipe avec {NICKNAME}",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
   "9": {
     "name": "L'Univers dans une coquille de noix",
     "achievements": [
-      {
-        "id": 4092635,
-        "name": "Les Quatre Cents Coups",
-        "desc": "Utiliser l'ATQ normale au moins 40 fois au cours d'un même combat et remporter la victoire dans l'Univers simulé",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092633,
-        "name": "Volonté de la ruche",
-        "desc": "Débloquer 1 bénédiction de la Propagation dans l'Univers simulé",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092634,
-        "name": "Phase 4",
-        "desc": "Terminer l'Univers simulé avec au moins 10 bénédictions de la Propagation",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092601,
-        "name": "Spring in Fialta",
-        "desc": "Terminer le Désastre de l'Essaim avec 12 Bonheurs de types différents en suivant la Voie de la l'Allégresse",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092602,
-        "name": "The Hunter Games",
-        "desc": "Capturer 8 Magorets en combattant dans le même plan tout en suivant la Voie de la Chasse dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092603,
-        "name": "Les Chroniques de l'Asphalte",
-        "desc": "Utiliser la Voie du Souvenir pour copier une zone de récompense 6 fois consécutives dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092604,
-        "name": "The Predator",
-        "desc": "Terminer le Désastre de l'Essaim avec 40 victoires en combat en suivant la Voie de la Destruction",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092605,
-        "name": "L'échange symbolique et la mort",
-        "desc": "Terminer le Désastre de l'Essaim en étant entré 15 fois dans une zone de néant en suivant la Voie de la Nihilité",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092606,
-        "name": "L'Univers simulé ne s'est pas fait en un jour",
-        "desc": "Terminer le Désastre de l'Essaim en ayant appliqué Pierre angulaire à 8 zones de types différents en suivant la Voie de la Préservation",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092607,
-        "name": "L'heure de vérité",
-        "desc": "Terminer le Désastre de l'Essaim avec un compte à rebours supérieur ou égal à 80 en suivant la Voie de l'Abondance",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092608,
-        "name": "Retour à Klendathu",
-        "desc": "Terminer le Désastre de l'Essaim en étant entré dans des zones de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim 15 fois en suivant la Voie de la Propagation",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092609,
-        "name": "Bienvenue chez les fous",
-        "desc": "Lancer le dé d'audience de l'Allégresse un total de 100 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092610,
-        "name": "Faire parler la poudre",
-        "desc": "Lancer le dé d'audience de la Chasse un total de 100 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092611,
-        "name": "L'Éternité et un jour",
-        "desc": "Lancer le dé d'audience du Souvenir un total de 100 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092612,
-        "name": "Le Monde comme représentation",
-        "desc": "Lancer le dé d'audience de la Nihilité un total de 100 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092613,
-        "name": "Politique de la terre brûlée",
-        "desc": "Lancer le dé d'audience de la Destruction un total de 100 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092614,
-        "name": "Samantabhadra",
-        "desc": "Lancer le dé d'audience de l'Abondance un total de 100 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092615,
-        "name": "Nucléation homogène",
-        "desc": "Lancer le dé d'audience de la Préservation un total de 100 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092616,
-        "name": "Les Enfants de Mathusalem",
-        "desc": "Lancer le dé d'audience de la Propagation un total de 100 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092617,
-        "name": "Trésorier de la banque de données",
-        "desc": "Terminer le Désastre de l'Essaim avec au moins 9999 fragments cosmiques",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
-        "id": 4092618,
-        "name": "Love & the Emperor",
-        "desc": "<u>Obtenir des pouvoirs illimités</u> dans la Saga de la CPI du Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092619,
-        "name": "Q",
-        "desc": "Acheter tous les objets de la boutique de bénédictions et de la boutique de bizarreries dans la même zone de transaction dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092620,
-        "name": "Bienvenue au Valhalla",
-        "desc": "Échouer lors de la bataille déclenchée par l'événement Yu Qingtu, membre n°55 de la Société des génies dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092621,
-        "name": "Je vais tout casser II",
-        "desc": "Détruire au moins 100 objets destructibles dans une session du Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092622,
-        "name": "Attrapez-les tous !",
-        "desc": "Capturer au moins 16 Magorets dans une zone d'aventure du Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092623,
-        "name": "Chambre du destin",
-        "desc": "Illuminer 1 Sentier des Éclaireurs dissimulé dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092624,
-        "name": "Concerto pour une voix",
-        "desc": "Générer 2 Combinaisons de résonance en une seule session du Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092625,
-        "name": "Être ou ne pas être",
-        "desc": "Faire 1 choix des Voies dans des zones d'événement du Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092626,
-        "name": "Cadran de la destinée",
-        "desc": "Terminer tous les choix des Voies des zones d'événement du Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092627,
-        "name": "Les Mondes futurs",
-        "desc": "Tricher 10 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092628,
-        "name": "Retour vers le futur",
-        "desc": "Relancer le dé 50 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092629,
-        "name": "La Fin de l'Éternité",
-        "desc": "Entrer dans une zone de néant avec une Voie autre que la Nihilité dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092630,
-        "name": "Sur la comète",
-        "desc": "Terminer tous les objectifs de n'importe quelle zone d'aventure du Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092631,
-        "name": "Enquêteur de Weyland-Yutani",
-        "desc": "Entrer dans une zone de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim en suivant une Voie autre que la Propagation 15 fois dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092632,
-        "name": "Relais cosmodésique",
-        "desc": "Terminer le Désastre de l'Essaim avec la Rupture planaire au Niv. 20 ou plus",
-        "rarity": 1,
-        "version": "1.3"
-      },
       {
         "id": 4090201,
         "name": "La première et ultime liberté",
@@ -3200,25 +3242,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092636,
-        "name": "Silent Running",
-        "desc": "Terminer toutes les histoires du Désastre de l'Essaim",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
         "id": 4090204,
         "name": "Réactions en chaîne",
-        "desc": "Infliger au moins 5 types de DGT en une seule action dans l'Univers simulé",
+        "desc": "Infliger au moins 5 types de DGT en une seule attaque dans l'Univers simulé",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092637,
-        "name": "En terre étrangère",
-        "desc": "Récupérer tous les secrets de pionnier dans le Désastre de l'Essaim",
-        "rarity": 2,
-        "version": "1.3"
       },
       {
         "id": 4090205,
@@ -3228,25 +3256,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092638,
-        "name": "Nuke it from orbit !",
-        "desc": "Terminer le Désastre de l'Essaim au niveau de difficulté V",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4090206,
         "name": "Vingt-quatre poèmes d'amour et une ode au désespoir",
         "desc": "Le pourcentage de PV de tous les alliés est inférieur ou égal à 0% lorsque vous remportez un combat dans l'Univers simulé",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092639,
-        "name": "La peste à travers les éons",
-        "desc": "Récupérer le chapitre « La Chasse I » dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4090207,
@@ -3256,25 +3270,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092640,
-        "name": "Tour de Babel",
-        "desc": "Récupérer le chapitre « La Préservation II » dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4090301,
         "name": "Bonne nuit, camarade",
         "desc": "Éliminer 15 ennemis dans l'Univers simulé",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092641,
-        "name": "Comment on devient ce que l'on est",
-        "desc": "Récupérer le chapitre « La Nihilité I » dans le Désastre de l'Essaim",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4090303,
@@ -3625,6 +3625,300 @@
         "desc": "Terminer l'Univers simulé (niveau de difficulté 2 ou plus) en faisant en sorte que tous les alliés aient leurs PV au max à la fin de chaque combat",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4092633,
+        "name": "Volonté de la ruche",
+        "desc": "Débloquer 1 bénédiction de la Propagation dans l'Univers simulé",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092635,
+        "name": "Les Quatre Cents Coups",
+        "desc": "Utiliser l'ATQ normale au moins 40 fois au cours d'un même combat et remporter la victoire dans l'Univers simulé",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092634,
+        "name": "Phase 4",
+        "desc": "Terminer l'Univers simulé avec au moins 10 bénédictions de la Propagation",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092801,
+        "name": "L'entraide entre Chevaliers de la Beauté",
+        "desc": "Recevoir l'aide d'un Chevalier de la Beauté alors qu'Argenti fait partie de votre équipe déployée dans l'Univers simulé",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4092601,
+        "name": "Spring in Fialta",
+        "desc": "Terminer le Désastre de l'Essaim avec 12 Bonheurs de types différents en suivant la Voie de la l'Allégresse",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092602,
+        "name": "The Hunter Games",
+        "desc": "Capturer 8 Magorets en combattant dans le même plan tout en suivant la Voie de la Chasse dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092603,
+        "name": "Les Chroniques de l'Asphalte",
+        "desc": "Utiliser la Voie du Souvenir pour copier une zone de récompense 6 fois consécutives dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092604,
+        "name": "The Predator",
+        "desc": "Terminer le Désastre de l'Essaim avec 40 victoires en combat en suivant la Voie de la Destruction",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092605,
+        "name": "L'échange symbolique et la mort",
+        "desc": "Terminer le Désastre de l'Essaim en étant entré 15 fois dans une zone de néant en suivant la Voie de la Nihilité",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092606,
+        "name": "L'Univers simulé ne s'est pas fait en un jour",
+        "desc": "Terminer le Désastre de l'Essaim en ayant appliqué Pierre angulaire à 8 zones de types différents en suivant la Voie de la Préservation",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092607,
+        "name": "L'heure de vérité",
+        "desc": "Terminer le Désastre de l'Essaim avec un compte à rebours supérieur ou égal à 80 en suivant la Voie de l'Abondance",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092608,
+        "name": "Retour à Klendathu",
+        "desc": "Terminer le Désastre de l'Essaim en étant entré dans des zones de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim 15 fois en suivant la Voie de la Propagation",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092609,
+        "name": "Bienvenue chez les fous",
+        "desc": "Lancer le dé d'audience de l'Allégresse un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092610,
+        "name": "Faire parler la poudre",
+        "desc": "Lancer le dé d'audience de la Chasse un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092611,
+        "name": "L'Éternité et un jour",
+        "desc": "Lancer le dé d'audience du Souvenir un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092612,
+        "name": "Le Monde comme représentation",
+        "desc": "Lancer le dé d'audience de la Nihilité un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092613,
+        "name": "Politique de la terre brûlée",
+        "desc": "Lancer le dé d'audience de la Destruction un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092614,
+        "name": "Samantabhadra",
+        "desc": "Lancer le dé d'audience de l'Abondance un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092615,
+        "name": "Nucléation homogène",
+        "desc": "Lancer le dé d'audience de la Préservation un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092616,
+        "name": "Les Enfants de Mathusalem",
+        "desc": "Lancer le dé d'audience de la Propagation un total de 100 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092617,
+        "name": "Trésorier de la banque de données",
+        "desc": "Terminer le Désastre de l'Essaim avec au moins 9999 fragments cosmiques",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092618,
+        "name": "Love & the Emperor",
+        "desc": "<u>Obtenir des pouvoirs illimités</u> dans la Saga de la CPI du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092619,
+        "name": "Q",
+        "desc": "Acheter tous les objets de la boutique de bénédictions et de la boutique de bizarreries dans la même zone de transaction dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092620,
+        "name": "Bienvenue au Valhalla",
+        "desc": "Échouer lors de la bataille déclenchée par l'événement Yu Qingtu, membre n°55 de la Société des génies dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092621,
+        "name": "Je vais tout casser II",
+        "desc": "Détruire au moins 100 objets destructibles dans une session du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092622,
+        "name": "Attrapez-les tous !",
+        "desc": "Capturer au moins 16 Magorets dans une zone d'aventure du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092623,
+        "name": "Chambre du destin",
+        "desc": "Illuminer 1 Sentier des Éclaireurs dissimulé dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092624,
+        "name": "Concerto pour une voix",
+        "desc": "Générer 2 Combinaisons de résonance en une seule session du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092625,
+        "name": "Être ou ne pas être",
+        "desc": "Faire 1 choix des Voies dans des zones d'événement du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092626,
+        "name": "Cadran de la destinée",
+        "desc": "Terminer tous les choix des Voies des zones d'événement du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092627,
+        "name": "Les Mondes futurs",
+        "desc": "Tricher 10 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092628,
+        "name": "Retour vers le futur",
+        "desc": "Relancer le dé 50 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092629,
+        "name": "La Fin de l'Éternité",
+        "desc": "Entrer dans une zone de néant avec une Voie autre que la Nihilité dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092630,
+        "name": "Sur la comète",
+        "desc": "Terminer tous les objectifs de n'importe quelle zone d'aventure du Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092631,
+        "name": "Enquêteur de Weyland-Yutani",
+        "desc": "Entrer dans une zone de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim en suivant une Voie autre que la Propagation 15 fois dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092632,
+        "name": "Relais cosmodésique",
+        "desc": "Terminer le Désastre de l'Essaim avec la Rupture planaire au Niv. 20 ou plus",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092636,
+        "name": "Silent Running",
+        "desc": "Terminer toutes les histoires du Désastre de l'Essaim",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092637,
+        "name": "En terre étrangère",
+        "desc": "Récupérer tous les secrets de pionnier dans le Désastre de l'Essaim",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092638,
+        "name": "Nuke it from orbit !",
+        "desc": "Terminer le Désastre de l'Essaim au niveau de difficulté V",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092639,
+        "name": "La peste à travers les éons",
+        "desc": "Récupérer le chapitre « La Chasse I » dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092640,
+        "name": "Tour de Babel",
+        "desc": "Récupérer le chapitre « La Préservation II » dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092641,
+        "name": "Comment on devient ce que l'on est",
+        "desc": "Récupérer le chapitre « La Nihilité I » dans le Désastre de l'Essaim",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   }

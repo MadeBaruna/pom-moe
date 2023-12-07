@@ -10,6 +10,34 @@
         "version": "1.0"
       },
       {
+        "id": 4010301,
+        "name": "Minha Infância",
+        "desc": "Chegue ao Nível de Personagem 40 com qualquer personagem",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010302,
+        "name": "Meu Aprendizado",
+        "desc": "Chegue ao Nível de Personagem 60 com qualquer personagem",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4010303,
+        "name": "Minhas Universidades",
+        "desc": "Chegue ao Nível de Personagem 80 com qualquer personagem",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
+        "id": 4010102,
+        "name": "Fim da Infância",
+        "desc": "Aprimore 4 personagens até o Nv. 80",
+        "rarity": 3,
+        "version": "1.0"
+      },
+      {
         "id": 4010201,
         "name": "O Destino Chama (I)",
         "desc": "Tenha 1 Cone de Luz de Nv. 40",
@@ -45,13 +73,6 @@
         "version": "1.0"
       },
       {
-        "id": 4010301,
-        "name": "Minha Infância",
-        "desc": "Chegue ao Nível de Personagem 40 com qualquer personagem",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
         "id": 4080202,
         "name": "Não Facilite Tanto (II)",
         "desc": "Alcance o Nível de Equilíbrio 3",
@@ -59,30 +80,9 @@
         "version": "1.0"
       },
       {
-        "id": 4010302,
-        "name": "Meu Aprendizado",
-        "desc": "Chegue ao Nível de Personagem 60 com qualquer personagem",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
         "id": 4080203,
         "name": "Não Facilite Tanto (III)",
         "desc": "Alcance o Nível de Equilíbrio 6",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
-        "id": 4010303,
-        "name": "Minhas Universidades",
-        "desc": "Chegue ao Nível de Personagem 80 com qualquer personagem",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
-        "id": 4010102,
-        "name": "Fim da Infância",
-        "desc": "Aprimore 4 personagens até o Nv. 80",
         "rarity": 3,
         "version": "1.0"
       },
@@ -148,19 +148,19 @@
         "desc": "Equipe Relíquias de 5 estrelas aprimoradas até o Nv. 15 em todos os espaços de Relíquia de um personagem",
         "rarity": 3,
         "version": "1.0"
+      },
+      {
+        "id": 4012801,
+        "name": "Entrada Ordenada",
+        "desc": "Veja o Livro de Convidados pela primeira vez",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
   "2": {
     "name": "Vestígio de Luminiflux",
     "achievements": [
-      {
-        "id": 4022302,
-        "name": "Cara Megarrico Controlador da Luz",
-        "desc": "Obtenha um total de 100000000 créditos",
-        "rarity": 2,
-        "version": "1.0"
-      },
       {
         "id": 4020201,
         "name": "Guia do Passageiro do Expresso das Galáxias",
@@ -228,6 +228,13 @@
         "id": 4020702,
         "name": "Membro Diamante Supremo da Paz Interastral",
         "desc": "Obtenha um total de 10000000 créditos",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4022302,
+        "name": "Cara Megarrico Controlador da Luz",
+        "desc": "Obtenha um total de 100000000 créditos",
         "rarity": 2,
         "version": "1.0"
       },
@@ -361,6 +368,20 @@
         "desc": "Ajude Jarilo-VI e Belobog a solucionar sua grande crise (novamente)\\n<color=#8790abff>※ Conclua a Continuidade de Desbravamento \"Mercado Futuro\"</color>",
         "rarity": 2,
         "version": "1.4"
+      },
+      {
+        "id": 4032802,
+        "name": "Precisamos Falar Sobre Kevin",
+        "desc": "Explore os eventos sobrenaturais no Jardim Flamavulpe com Guinaifen\\n<color=#8790abff>※ Subjugue o grande Heliobus Cirrus e resolva a crise Heliobi no Jardim Flamavulpe.</color>",
+        "rarity": 2,
+        "version": "1.5"
+      },
+      {
+        "id": 4032801,
+        "name": "Rabin Fofin, Rabin Assim",
+        "desc": "Colete histórias de fantasmas com o Esquadrão Caça-Fantasmas\\n<color=#8790abff>※ Recupere o Rabin e subjugue os Heliobi que escaparam para o Luofu...</color>",
+        "rarity": 2,
+        "version": "1.5"
       }
     ]
   },
@@ -389,18 +410,18 @@
         "version": "1.0"
       },
       {
-        "id": 4040101,
-        "name": "Bom Jogador de RPG",
-        "desc": "Abra 30 Tesouro(s) na Estação Espacial Herta",
-        "rarity": 3,
-        "version": "1.0"
-      },
-      {
         "id": 4042506,
         "name": "Viagens ao Longe",
         "desc": "Ative 20 Âncoras Espaciais no Luofu do Xianzhou",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4040101,
+        "name": "Bom Jogador de RPG",
+        "desc": "Abra 30 Tesouro(s) na Estação Espacial Herta",
+        "rarity": 3,
+        "version": "1.0"
       },
       {
         "id": 4040102,
@@ -606,6 +627,13 @@
         "version": "1.0"
       },
       {
+        "id": 4052717,
+        "name": "O Vento do Norte Cria Heróis",
+        "desc": "Derrote Gepard atrás do portão na Marcha dos Soldados Invernais (Dificuldade III)",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
         "id": 4040411,
         "name": "Uma Metáfora das Cavernas",
         "desc": "Conclua o Hexanexus 30 vez(es)",
@@ -655,6 +683,20 @@
         "version": "1.2"
       },
       {
+        "id": 4042802,
+        "name": "Zé do Caixão",
+        "desc": "No Jardim Flamavulpe, obtenha um total de 9 recompensas do \"Abre-Caminhos\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4042801,
+        "name": "Vereda da Salvação",
+        "desc": "Passe pelo espelho de bronze e obtenha o tesouro escondido na ilha flutuante",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
         "id": 4042401,
         "name": "Em Direção à Armadilha",
         "desc": "Capture 1 Cofrinho(s) Perdido(s) na batalha",
@@ -667,60 +709,11 @@
     "name": "As Memórias que Compartilhamos",
     "achievements": [
       {
-        "id": 4052613,
-        "name": "Desbravador Honesto",
-        "desc": "Conte para Cleo a verdade sobre Todd",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052614,
-        "name": "Harmonia Oculta",
-        "desc": "Esconda de Cleo a verdade sobre Todd",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052615,
-        "name": "O Sabor do Rio dos Mortos é Amargo",
-        "desc": "Conclua a Missão de Companheiro \"A Vingadora do Futuro\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052616,
-        "name": "Além das Fronteiras Congeladas",
-        "desc": "Conclua a Missão de Companheiro \"Mais Longe que as Planícies Nevadas\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052617,
-        "name": "Sereno de Outrora",
-        "desc": "Conclua a Missão de Companheiro \"O Dragão Retorna ao Lar\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4052618,
-        "name": "Tudo o Que Resta São Cinzas Completamente Brancas",
-        "desc": "Conclua a Missão de Companheiro \"Mo Cuishle\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4051001,
         "name": "Adivinhe Quem Eu Sou",
         "desc": "Conclua a Missão de Companheiro \"Você Já me Conhece\"",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4052603,
-        "name": "Tempo Pacífico",
-        "desc": "Escute todo o Episódio N.º 1 da Transmissão da Paz Interastral",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4051002,
@@ -779,20 +772,6 @@
         "version": "1.1"
       },
       {
-        "id": 4052401,
-        "name": "Onde um Viajante Pode Descansar?",
-        "desc": "Deixe Liangmu saber a identidade do monstro marafílico na missão \"Dissipar Como o Orvalho da Manhã\"",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
-        "id": 4052402,
-        "name": "Pelos Bons Tempos",
-        "desc": "Esconda a identidade do monstro marafílico de Liangmu na missão \"Dissipar Como o Orvalho da Manhã\"",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052403,
         "name": "Dançando no Caixão",
         "desc": "Presencie o lado oculto do Luocha.\\n<color=#8790abff>※ Confira a gravação recuperada e ouça o monólogo do Luocha.</color>",
@@ -819,6 +798,76 @@
         "desc": "Conclua a Missão de Companheiro \"Carta de uma Mulher Estranha\"\\n<color=#8790abff>※ Você escolheu deixar Kafka. Não seriam muitas pessoas que fariam essa escolha, mas foi assim que você provou seu livre arbítrio</color>",
         "rarity": 1,
         "version": "1.2"
+      },
+      {
+        "id": 4052615,
+        "name": "O Sabor do Rio dos Mortos é Amargo",
+        "desc": "Conclua a Missão de Companheiro \"A Vingadora do Futuro\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052616,
+        "name": "Além das Fronteiras Congeladas",
+        "desc": "Conclua a Missão de Companheiro \"Mais Longe que as Planícies Nevadas\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052617,
+        "name": "Sereno de Outrora",
+        "desc": "Conclua a Missão de Companheiro \"O Dragão Retorna ao Lar\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052618,
+        "name": "Tudo o Que Resta São Cinzas Completamente Brancas",
+        "desc": "Conclua a Missão de Companheiro \"Mo Cuishle\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052703,
+        "name": "Ferido, mas Não Partido",
+        "desc": "Conclua a Missão de Companheiro \"Nuvens Não Deixam Rastros\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052801,
+        "name": "Minhocalipse",
+        "desc": "Conclua a Missão de Companheiro \"Noite das Alucinações Universais\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4051109,
+        "name": "Mais Um Dia",
+        "desc": "Encontre todos os itens do Julian na missão \"Tesouro da Hook\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051110,
+        "name": "O Ciclo da Vida Dos Objetos Eletrônicos",
+        "desc": "Escolha não formatar o Robozinho na missão \"Pouca Afeição (Parte 2)\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4051111,
+        "name": "Por Um Suspiro a Mais",
+        "desc": "Escolha formatar o Robozinho na missão \"Pouca Afeição (Parte 2)\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052603,
+        "name": "Tempo Pacífico",
+        "desc": "Escute todo o Episódio N.º 1 da Transmissão da Paz Interastral",
+        "rarity": 1,
+        "version": "1.3"
       },
       {
         "id": 4051103,
@@ -912,13 +961,6 @@
         "version": "1.0"
       },
       {
-        "id": 4051109,
-        "name": "Mais Um Dia",
-        "desc": "Encontre todos os itens do Julian na missão \"Tesouro da Hook\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4080601,
         "name": "Superioridade Moral",
         "desc": "Confronte o Protetor de propriedade pública e mostre a ele o preço de te impedir (ou faça-o humildemente reconhecer seu erro)",
@@ -926,23 +968,9 @@
         "version": "1.0"
       },
       {
-        "id": 4051110,
-        "name": "O Ciclo da Vida Dos Objetos Eletrônicos",
-        "desc": "Escolha não formatar o Robozinho na missão \"Pouca Afeição (Parte 2)\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4080602,
         "name": "Exomundo",
         "desc": "Devolva a caixinha de música encontrada na Vila dos Rebites à pessoa desolada",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4051111,
-        "name": "Por Um Suspiro a Mais",
-        "desc": "Escolha formatar o Robozinho na missão \"Pouca Afeição (Parte 2)\"",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1038,13 +1066,6 @@
         "version": "1.0"
       },
       {
-        "id": 4052601,
-        "name": "Faça o Beco Aurum Prosperar Novamente!",
-        "desc": "Conclua a missão \"De Volta aos Negócios IV\" e vença a licitação do Distrito Comercial do Beco Aurum",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
         "id": 4052318,
         "name": "A Gangue de Kelly",
         "desc": "Escave o tesouro escondido na fonte do Distrito Administrativo de Belobog",
@@ -1057,6 +1078,587 @@
         "desc": "Solucione todos os quebra-cabeças da Caixa do Tolo na missão \"Recipiente da Mediocridade\"",
         "rarity": 1,
         "version": "1.0"
+      },
+      {
+        "id": 4052320,
+        "name": "A Quarta Toupeirinha",
+        "desc": "Encontre todos os tesouros escondidos na missão \"As Toupeiras Aventureiras\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052321,
+        "name": "\"As Toupeiras Aventureiras\" Edição Superadultos",
+        "desc": "Compre \"As Toupeiras Aventureiras: Tesouro Escondido\" com o comerciante de livros de Belobog",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052714,
+        "name": "Pernas Só Servem Para Mostrar Mesmo",
+        "desc": "Desenvolva um plano ultrajante para o Motor da Criação",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052715,
+        "name": "Ascenda, Motor da Criação!",
+        "desc": "Desenvolva um plano confiável para o Motor da Criação",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052720,
+        "name": "O Primeiro Passo para o Futuro",
+        "desc": "Se mantenha atualizado sobre o progresso do desenvolvimento de Belobog.\\n<color=#8790abff>※ Compre a Edição 226 do \"Minerador Semanal\"</color>",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052721,
+        "name": "Fruta da Sabedoria Inorgânica",
+        "desc": "Obtenha o item de leitura \"Mensagem de Screwllum\"",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052722,
+        "name": "Jornada até o Filhote de Urso Ártico",
+        "desc": "Interaja com o filhote de urso ártico",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052723,
+        "name": "Obrigado, Pela",
+        "desc": "Ajude Fedora a concluir a aposta dela",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052724,
+        "name": "Aço e Brinquedos",
+        "desc": "Entregue as sobras do projeto de criação para Benjamin",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052725,
+        "name": "Aço e Lâmpadas de Rua",
+        "desc": "Entregue as sobras do projeto de criação para Pela",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052726,
+        "name": "Com o Colosso como Testemunha",
+        "desc": "Recupere sua língua presa no trilho congelado",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052727,
+        "name": "Não Tente Isso em Casa",
+        "desc": "Receba uma lição (de novo) por ter quebrado o recipiente",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052728,
+        "name": "Antes de Mais Nada",
+        "desc": "Ganhe um fã fanático",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052729,
+        "name": "Confissão da Máscara",
+        "desc": "Investigue a Bolha da Memória de origem desconhecida",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052730,
+        "name": "Gelo Sombrio",
+        "desc": "Obtenha Lixo de uma lata de lixo congelada",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052404,
+        "name": "Dia Livre",
+        "desc": "Abra a área de exibição geral do Museu de História e Cultura de Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052405,
+        "name": "Prenda-me Se For Capaz",
+        "desc": "Abra as três áreas de exibição do Museu de História e Cultura de Belobog",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052406,
+        "name": "Fique no Museu!",
+        "desc": "Colete todos os itens de exibição do Museu de História e Cultura de Belobog",
+        "rarity": 2,
+        "version": "1.1"
+      },
+      {
+        "id": 4052701,
+        "name": "Entrada no Hall da Fama",
+        "desc": "Ganhe o título de Campeão nas Guerras de Aetherium: Festival do Torneio Interastral",
+        "rarity": 2,
+        "version": "1.4"
+      },
+      {
+        "id": 4052702,
+        "name": "Rainho Elso",
+        "desc": "Encerre a fatídica batalha na Colina do Inverno Eterno nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052704,
+        "name": "Temos Que Pegar",
+        "desc": "Obtenha todos os Espíritos Etéreos nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052705,
+        "name": "Mestre das Guerras de Aetherium",
+        "desc": "Alcance o nível mais alto do Índice de Vitória nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052706,
+        "name": "Campeão Casual de Hyperlink",
+        "desc": "Derrote todos os rivais nas Guerras de Aetherium: Partida de Hyperlink",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052707,
+        "name": "Marca do Vento Congelante",
+        "desc": "Supere todos os desafios na Zona da Vitória do Corredor de Ecos Atenuados nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052708,
+        "name": "Marca da Liga",
+        "desc": "Supere todos os desafios na Zona da Vitória de Vau-Nuvem nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052709,
+        "name": "Marca do Intelecto",
+        "desc": "Supere todos os desafios na Zona da Vitória da Estação Espacial Herta nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052710,
+        "name": "Marca da Farsa",
+        "desc": "Supere todos os desafios na Zona da Vitória da Grande Mina nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052711,
+        "name": "A Taça do Mundo é Nossa?",
+        "desc": "Vença uma Partida de Exibição nas Guerras de Aetherium",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052718,
+        "name": "Vitória, e Então Vem o Adeus",
+        "desc": "Devolva \"{TEXTJOIN#54}\" quando a poeira baixar",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052719,
+        "name": "O Fim, e Então Vem o Início",
+        "desc": "Mantenha {TEXTJOIN#54} quando a poeira baixar",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4052716,
+        "name": "Esse Jogo Não Tem Atualizações?",
+        "desc": "Obtenha todos os Chips de Expansão",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4032309,
+        "name": "Opulência Dracônica",
+        "desc": "Testemunhe a história de Dan Shu",
+        "rarity": 2,
+        "version": "1.0"
+      },
+      {
+        "id": 4052510,
+        "name": "Amigo dos Cavaleiros das Nuvens",
+        "desc": "Cumpra as ordens do general sem distrações",
+        "rarity": 2,
+        "version": "1.2"
+      },
+      {
+        "id": 4052323,
+        "name": "Uma Vida Simples",
+        "desc": "Receba uma mensagem de Luhui após concluir a missão \"Demissão\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052324,
+        "name": "Carpe Diem, Festina Lente e Tempus Fugit",
+        "desc": "Acelerar, Perder a Força e Se Esgotar.\\nReceba todos os textos sobre a paixão desvanecente de Chengjie depois de completar a missão \"Um Professor e um Colega\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052325,
+        "name": "Fraude Cibernética",
+        "desc": "Faça a Beldade Vulpe se render durante a missão \"Do Xianzhou com Amor\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052326,
+        "name": "Não Sou Mais Mocinha",
+        "desc": "Faça a Beldade Vulpe revelar a identidade secreta dela durante a missão \"Do Xianzhou com Amor\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052327,
+        "name": "Um Segredo Torna a Mulher Uma Mulher",
+        "desc": "Deixe que a Beldade Vulpe continue a farsa durante a missão \"Do Xianzhou com Amor\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052401,
+        "name": "Onde um Viajante Pode Descansar?",
+        "desc": "Deixe Liangmu saber a identidade do monstro marafílico na missão \"Dissipar Como o Orvalho da Manhã\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052402,
+        "name": "Pelos Bons Tempos",
+        "desc": "Esconda a identidade do monstro marafílico de Liangmu na missão \"Dissipar Como o Orvalho da Manhã\"",
+        "rarity": 1,
+        "version": "1.1"
+      },
+      {
+        "id": 4052328,
+        "name": "Os Sete Erros das MechAves: Preguiça",
+        "desc": "Convença a MechAve deprimida a voltar ao trabalho",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052329,
+        "name": "Melhor Sete Pássaros na Mão do que Mil Voando",
+        "desc": "Ajude a Garça Expressa a recuperar todas as MechAves",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052330,
+        "name": "Justíssimo",
+        "desc": "Vença a Competição de Comilança do Luofu do Xianzhou abertamente e jogando limpo",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052331,
+        "name": "Vale Tudo no Amor e na Guerra",
+        "desc": "Vença a Competição de Comilança do Luofu do Xianzhou trapaceando",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052332,
+        "name": "De Herói a Zero",
+        "desc": "Perca a Competição de Comilança do Luofu do Xianzhou",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052333,
+        "name": "Longe Deste Insensato Mundo",
+        "desc": "Fale com o Imortal no Vaso e obtenha o presente que está no vaso",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052334,
+        "name": "Deixa Acontecer Naturalmente",
+        "desc": "Fale com o Imortal no Vaso e recuse o presente oferecido",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052335,
+        "name": "Hasta La Vista, Hexanexus!",
+        "desc": "Conclua 15 desafio(s) de Hexanexus no Clube Hex",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052336,
+        "name": "Cubo Trágico",
+        "desc": "Conclua 15 novo(s) desafio(s) de Hexanexus no Clube Hex",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052337,
+        "name": "Labor Omnia Vincit",
+        "desc": "Examine 3 armários de arquivos diferentes na Sede da Presciência Divina",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052338,
+        "name": "Os Crimes que Prendem",
+        "desc": "Impeça que o turista estranho jogue uma moeda no motor do esquife estelar",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052339,
+        "name": "Voo Cancelado",
+        "desc": "Ajude o turista estranho a jogar uma moeda no motor do esquife estelar",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052340,
+        "name": "Achados e Perdidos",
+        "desc": "Recuperou os créditos roubados pelo fraudador",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052341,
+        "name": "Deixa Quieto",
+        "desc": "Não recuperou os créditos roubados pelo fraudador",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052342,
+        "name": "Rapadura Doce e Mole Também",
+        "desc": "Pegou mais créditos do fraudador do que ele roubou",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052343,
+        "name": "Os Sete Erros das MechAves: Luxúria",
+        "desc": "Siga a MechAve cavalheiresca para encontrar o livro ilustrado retido pela alfândega",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052344,
+        "name": "Os Sete Erros das MechAves: Gula",
+        "desc": "Chegue ao fim de uma aposta com a MechAve insatisfeita",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052345,
+        "name": "Os Sete Erros das MechAves: Avareza",
+        "desc": "Explore a \"montanha de entregas\" protegida pelo \"dragão do mal\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052346,
+        "name": "Os Sete Erros das MechAves: Inveja",
+        "desc": "Conclua o desafio da MechAve ressentida",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052347,
+        "name": "Os Sete Erros das MechAves: Ira",
+        "desc": "Derrote os assaltantes com a MechAve corajosa",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052348,
+        "name": "Os Sete Erros das MechAves: Soberba",
+        "desc": "Conclua o desafio dos \"quatro grandes vilões do Luofu (de acordo com eles mesmos)\"",
+        "rarity": 1,
+        "version": "1.0"
+      },
+      {
+        "id": 4052501,
+        "name": "O Desejo Não Morde",
+        "desc": "Descubra a conexão entre os dois pescadores da Comissão de Artesanato",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052502,
+        "name": "Como Eu Aprendi a Parar de Me Preocupar",
+        "desc": "Resolva a crise da bomba de nêutrons",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052503,
+        "name": "Borda Lunarescente",
+        "desc": "Participe 1 vez do Exame de Direção de Aurumatons",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052504,
+        "name": "Forjador de Palavras",
+        "desc": "Tenha seu talento literário reconhecido pelo Poeta da Métrica",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052505,
+        "name": "Iniciante Literário",
+        "desc": "Falhe em ter seu talento literário reconhecido pelo Poeta da Métrica",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052508,
+        "name": "Os Fins Justificam os Meios",
+        "desc": "Conclua 1 libertação com Os Livres",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052509,
+        "name": "Os Meios Justificam os Fins",
+        "desc": "Testemunhe o fim dos Livres",
+        "rarity": 1,
+        "version": "1.2"
+      },
+      {
+        "id": 4052613,
+        "name": "Desbravador Honesto",
+        "desc": "Conte para Cleo a verdade sobre Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052614,
+        "name": "Harmonia Oculta",
+        "desc": "Esconda de Cleo a verdade sobre Todd",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4052824,
+        "name": "Grande Mestre Aqui, Passa a Grana",
+        "desc": "Receba uma mensagem de golpe fingindo ser o Grande Mestre no Jardim Flamavulpe",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052813,
+        "name": "BUUUUU!",
+        "desc": "Obteve 900 recompensa(s) do quiz da criança no Jardim Flamavulpe",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052814,
+        "name": "Passei no Vestibulinho",
+        "desc": "Ajude o Heliobus do guqin a concluir a composição",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052815,
+        "name": "Gogó, Tem Gogó, Querida?",
+        "desc": "Faça um dueto de \"Vinho de Casamento\" com o Ator Fantasma e faça tudo perfeitamente",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052816,
+        "name": "Parabéns, Nota Dó",
+        "desc": "Faça um dueto de \"Vinho de Casamento\" com o Ator Fantasma e erre toda a letra",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052817,
+        "name": "O Túmulo do Mago",
+        "desc": "No Mausoléu Sonhos Vulpes, decifre o misterioso legado na lápide",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052818,
+        "name": "Feche Meus Olhos",
+        "desc": "No Mausoléu Sonhos Vulpes, encontre o dono da lápide",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052819,
+        "name": "Icônico!",
+        "desc": "Obtenha uma recompensa dourada no novo modo de jogo do Jade Celestial!",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052820,
+        "name": "Fogo Pálido",
+        "desc": "Insista em levar o Heliobus embora apesar dos pedidos de Wenyuan e Ruoxi",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052821,
+        "name": "À Sua Eternidade",
+        "desc": "Escolha deixar o Heliobus ir embora, ouvindo os pedidos de Wenyuan e Ruoxi",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052822,
+        "name": "O Adeus de Pikachu...",
+        "desc": "Solte Arkeri no espaço após visitar o Luofu com ele",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052823,
+        "name": "Os Heliobi Se Divertem",
+        "desc": "Sele Arkeri na Torre de Supressão após visitar o Luofu com ele",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052601,
+        "name": "Faça o Beco Aurum Prosperar Novamente!",
+        "desc": "Conclua a missão \"De Volta aos Negócios IV\" e vença a licitação do Distrito Comercial do Beco Aurum",
+        "rarity": 2,
+        "version": "1.3"
       },
       {
         "id": 4052604,
@@ -1073,25 +1675,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052320,
-        "name": "A Quarta Toupeirinha",
-        "desc": "Encontre todos os tesouros escondidos na missão \"As Toupeiras Aventureiras\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052606,
         "name": "Chifre da Fartura",
         "desc": "Obtenha 1000000 em fundos para a Guilda de Comerciantes do Beco Aurum em \"Agitação do Beco Aurum\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052321,
-        "name": "\"As Toupeiras Aventureiras\" Edição Superadultos",
-        "desc": "Compre \"As Toupeiras Aventureiras: Tesouro Escondido\" com o comerciante de livros de Belobog",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052607,
@@ -1101,20 +1689,6 @@
         "version": "1.3"
       },
       {
-        "id": 4032309,
-        "name": "Opulência Dracônica",
-        "desc": "Testemunhe a história de Dan Shu",
-        "rarity": 2,
-        "version": "1.0"
-      },
-      {
-        "id": 4052404,
-        "name": "Dia Livre",
-        "desc": "Abra a área de exibição geral do Museu de História e Cultura de Belobog",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052608,
         "name": "Dínamo de Entrega",
         "desc": "Conclua um pedido personalizado da Garça Expressa em Agitação do Beco Aurum",
@@ -1122,25 +1696,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052405,
-        "name": "Pegue-me Se For Capaz",
-        "desc": "Abra as três áreas de exibição do Museu de História e Cultura de Belobog",
-        "rarity": 1,
-        "version": "1.1"
-      },
-      {
         "id": 4052609,
         "name": "Buscou Sabores Distantes, Encontrou Sabores Farsantes",
         "desc": "Conclua o Evento de Rua \"A Procura do Diting\" em \"Agitação do Beco Aurum\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052406,
-        "name": "Fique no Museu!",
-        "desc": "Colete todos os itens de exibição do Museu de História e Cultura de Belobog",
-        "rarity": 2,
-        "version": "1.1"
       },
       {
         "id": 4052610,
@@ -1157,25 +1717,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052323,
-        "name": "Uma Vida Simples",
-        "desc": "Receba uma mensagem de Luhui após concluir a missão \"Demissão\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052612,
         "name": "Mercados: Skyline",
         "desc": "Em \"Agitação do Beco Aurum\", alcance uma pontuação de 81 no planejamento da pista de entrega para qualquer loja",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052324,
-        "name": "Carpe Diem, Festina Lente e Tempus Fugit",
-        "desc": "Acelerar, Perder a Força e Se Esgotar.\\nReceba todos os textos sobre a paixão desvanecente de Chengjie depois de completar a missão \"Um Professor e um Colega\"",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052619,
@@ -1185,179 +1731,11 @@
         "version": "1.3"
       },
       {
-        "id": 4052325,
-        "name": "Fraude Cibernética",
-        "desc": "Faça a Beldade Vulpe se render durante a missão \"Do Xianzhou com Amor\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052620,
         "name": "Os Que Partiram São Com Quem Falamos",
         "desc": "Testemunhe a história da identidade secreta de Yongren",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4052326,
-        "name": "Não Sou Mais Mocinha",
-        "desc": "Faça a Beldade Vulpe revelar a identidade secreta dela durante a missão \"Do Xianzhou com Amor\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052701,
-        "name": "Entrada no Hall da Fama",
-        "desc": "Ganhe o título de Campeão nas Guerras de Aetherium: Festival do Torneio Interastral",
-        "rarity": 2,
-        "version": "1.4"
-      },
-      {
-        "id": 4052327,
-        "name": "Um Segredo Torna a Mulher Uma Mulher",
-        "desc": "Deixe que a Beldade Vulpe continue a farsa durante a missão \"Do Xianzhou com Amor\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052702,
-        "name": "Rainho Elso",
-        "desc": "Encerre a fatídica batalha na Colina do Inverno Eterno nas Guerras de Aetherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052328,
-        "name": "Os Sete Erros das MechAves: Preguiça",
-        "desc": "Convença a MechAve deprimida a voltar ao trabalho",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052703,
-        "name": "Ferido, mas Não Partido",
-        "desc": "Conclua a Missão de Companheiro \"Nuvens Não Deixam Rastros\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052329,
-        "name": "Melhor Sete Pássaros na Mão do que Mil Voando",
-        "desc": "Ajude a Garça Expressa a recuperar todas as MechAves",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052704,
-        "name": "Temos Que Pegar",
-        "desc": "Obtenha todos os Espíritos Etéreos nas Guerras de Aetherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052330,
-        "name": "Justíssimo",
-        "desc": "Vença a Competição de Comilança do Luofu do Xianzhou abertamente e jogando limpo",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052705,
-        "name": "Mestre das Guerras de Aetherium",
-        "desc": "Alcance o nível mais alto do Índice de Vitória nas Guerras de Aetherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052331,
-        "name": "Vale Tudo no Amor e na Guerra",
-        "desc": "Vença a Competição de Comilança do Luofu do Xianzhou trapaceando",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052706,
-        "name": "Campeão Casual de Hyperlink",
-        "desc": "Derrote todos os rivais nas Guerras de Aetherium: Partida de Hyperlink",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052332,
-        "name": "De Herói a Zero",
-        "desc": "Perca a Competição de Comilança do Luofu do Xianzhou",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052707,
-        "name": "Marca do Vento Congelante",
-        "desc": "Supere todos os desafios na Zona da Vitória do Corredor de Ecos Atenuados nas Guerras de Aetherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052333,
-        "name": "Longe Deste Insensato Mundo",
-        "desc": "Fale com o Imortal no Vaso e obtenha o presente que está no vaso",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052708,
-        "name": "Marca da Liga",
-        "desc": "Supere todos os desafios na Zona da Vitória de Vau-Nuvem nas Guerras de Aetherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052334,
-        "name": "Deixa Acontecer Naturalmente",
-        "desc": "Fale com o Imortal no Vaso e recuse o presente oferecido",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052709,
-        "name": "Marca do Intelecto",
-        "desc": "Supere todos os desafios na Zona da Vitória da Estação Espacial Herta nas Guerras de Aetherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052335,
-        "name": "Hasta La Vista, Hexanexus!",
-        "desc": "Conclua 15 desafio(s) de Hexanexus no Clube Hex",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052710,
-        "name": "Marca da Farsa",
-        "desc": "Supere todos os desafios na Zona da Vitória da Grande Mina nas Guerras de Aetherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052336,
-        "name": "Cubo Trágico",
-        "desc": "Conclua 15 novo(s) desafio(s) de Hexanexus no Clube Hex",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052711,
-        "name": "A Taça do Mundo é Nossa?",
-        "desc": "Vença uma Partida de Exibição nas Guerras de Aetherium",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052337,
-        "name": "Labor Omnia Vincit",
-        "desc": "Examine 7 armários de arquivos diferentes na Sede da Presciência Divina",
-        "rarity": 1,
-        "version": "1.0"
       },
       {
         "id": 4052712,
@@ -1367,13 +1745,6 @@
         "version": "1.4"
       },
       {
-        "id": 4052338,
-        "name": "Os Crimes que Prendem",
-        "desc": "Impeça que o turista estranho jogue uma moeda no motor do esquife estelar",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
         "id": 4052713,
         "name": "Punchline Um-Dois",
         "desc": "Ouça o show dos Mini Vai e Volta",
@@ -1381,249 +1752,81 @@
         "version": "1.4"
       },
       {
-        "id": 4052339,
-        "name": "Voo Cancelado",
-        "desc": "Ajude o turista estranho a jogar uma moeda no motor do esquife estelar",
+        "id": 4052802,
+        "name": "Olá, Mundo!",
+        "desc": "Faça uma postagem no site do Bosque dos Fantasmas",
         "rarity": 1,
-        "version": "1.0"
+        "version": "1.5"
       },
       {
-        "id": 4052714,
-        "name": "Pernas Só Servem Para Mostrar Mesmo",
-        "desc": "Desenvolva um plano ultrajante para o Motor da Criação",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052340,
-        "name": "Achados e Perdidos",
-        "desc": "Recuperou os créditos roubados pelo fraudador",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052715,
-        "name": "Ascenda, Motor da Criação!",
-        "desc": "Desenvolva um plano confiável para o Motor da Criação",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052341,
-        "name": "Deixa Quieto",
-        "desc": "Não recuperou os créditos roubados pelo fraudador",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052716,
-        "name": "Esse Jogo Não Tem Atualizações?",
-        "desc": "Obtenha todos os Chips de Expansão",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052342,
-        "name": "Rapadura Doce e Mole Também",
-        "desc": "Pegou mais créditos do fraudador do que ele roubou",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052717,
-        "name": "O Vento do Norte Cria Heróis",
-        "desc": "Derrote Gepard atrás do portão na Marcha dos Soldados Invernais (Dificuldade III)",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052343,
-        "name": "Os Sete Erros das MechAves: Luxúria",
-        "desc": "Siga a MechAve cavalheiresca para encontrar o livro ilustrado retido pela alfândega",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052718,
-        "name": "Vitória, e Então Vem o Adeus",
-        "desc": "Devolva \"{TEXTJOIN#54}\" quando a poeira baixar",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052344,
-        "name": "Os Sete Erros das MechAves: Gula",
-        "desc": "Chegue ao fim de uma aposta com a MechAve insatisfeita",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052719,
-        "name": "O Fim, e Então Vem o Início",
-        "desc": "Mantenha {TEXTJOIN#54} quando a poeira baixar",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052345,
-        "name": "Os Sete Erros das MechAves: Avareza",
-        "desc": "Explore a \"montanha de entregas\" protegida pelo \"dragão do mal\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052720,
-        "name": "O Primeiro Passo para o Futuro",
-        "desc": "Se mantenha atualizado sobre o progresso do desenvolvimento de Belobog.\\n<color=#8790abff>※ Compre a Edição 226 do \"Minerador Semanal\"</color>",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052346,
-        "name": "Os Sete Erros das MechAves: Inveja",
-        "desc": "Conclua o desafio da MechAve ressentida",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052721,
-        "name": "Fruta da Sabedoria Inorgânica",
-        "desc": "Obtenha o item de leitura \"Mensagem de Screwllum\"",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052347,
-        "name": "Os Sete Erros das MechAves: Ira",
-        "desc": "Derrote os assaltantes com a MechAve corajosa",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052722,
-        "name": "Jornada até o Filhote de Urso Ártico",
-        "desc": "Interaja com o filhote de urso ártico",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052348,
-        "name": "Os Sete Erros das MechAves: Soberba",
-        "desc": "Conclua o desafio dos \"quatro grandes vilões do Luofu (de acordo com eles mesmos)\"",
-        "rarity": 1,
-        "version": "1.0"
-      },
-      {
-        "id": 4052723,
-        "name": "Obrigado, Pela",
-        "desc": "Ajude Fedora a concluir a aposta dela",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052501,
-        "name": "O Desejo Não Morde",
-        "desc": "Descubra a conexão entre os dois pescadores da Comissão de Artesanato",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052724,
-        "name": "Aço e Brinquedos",
-        "desc": "Entregue as sobras do projeto de criação para Benjamin",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052502,
-        "name": "Como Eu Aprendi a Parar de Me Preocupar",
-        "desc": "Resolva a crise da bomba de nêutrons",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052725,
-        "name": "Aço e Lâmpadas de Rua",
-        "desc": "Entregue as sobras do projeto de criação para Pela",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052503,
-        "name": "Borda Lunarescente",
-        "desc": "Participe 1 vez do Exame de Direção de Aurumatons",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052726,
-        "name": "Com o Colosso como Testemunha",
-        "desc": "Recupere sua língua presa no trilho congelado",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052504,
-        "name": "Forjador de Palavras",
-        "desc": "Tenha seu talento literário reconhecido pelo Poeta da Métrica",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052727,
-        "name": "Não Tente Isso em Casa",
-        "desc": "Receba uma lição (de novo) por ter quebrado o recipiente",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052505,
-        "name": "Iniciante Literário",
-        "desc": "Falhe em ter seu talento literário reconhecido pelo Poeta da Métrica",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052728,
-        "name": "Antes de Mais Nada",
-        "desc": "Ganhe um fã fanático",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052508,
-        "name": "Os Fins Justificam os Meios",
-        "desc": "Conclua 1 libertação com Os Livres",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052729,
-        "name": "Confissão da Máscara",
-        "desc": "Investigue a Bolha da Memória de origem desconhecida",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052509,
-        "name": "Os Meios Justificam os Fins",
-        "desc": "Testemunhe o fim dos Livres",
-        "rarity": 1,
-        "version": "1.2"
-      },
-      {
-        "id": 4052730,
-        "name": "Gelo Sombrio",
-        "desc": "Obtenha Lixo de uma lata de lixo congelada",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4052510,
-        "name": "Amigo dos Cavaleiros das Nuvens",
-        "desc": "Cumpra as ordens do general sem distrações",
+        "id": 4052803,
+        "name": "Olá, Mundo Novo!",
+        "desc": "Ganhou #1[m] fãs no site do Bosque dos Fantasmas",
         "rarity": 2,
-        "version": "1.2"
+        "version": "1.5"
+      },
+      {
+        "id": 4052804,
+        "name": "Não Conheci o Outro Mundo Por Querer",
+        "desc": "Domine todos os exorcismos",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052805,
+        "name": "Guerra no Tabuleiro",
+        "desc": "Conclua todos os desafios nas Crônicas de Exorcismo",
+        "rarity": 2,
+        "version": "1.5"
+      },
+      {
+        "id": 4052806,
+        "name": "Bosqueirinho da Caça",
+        "desc": "Fez mais posts de \"URGENTE\" no Bosque dos Fantasmas",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052807,
+        "name": "Bosqueirinho Enigmata",
+        "desc": "Fez mais posts de \"Mitopédia\" no Bosque dos Fantasmas",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052808,
+        "name": "Bosqueirinho da Euforia",
+        "desc": "Fez mais postagens de \"Fofocas Fresquinhas\" no site do Bosque dos Fantasmas",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052809,
+        "name": "Bosqueirinho Balanceado",
+        "desc": "Fez um número equivalente de postagens com estilos diferentes no site do Bosque dos Fantasmas",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052810,
+        "name": "\"Deixa sua Curtida! Ativa o Sininho!\"",
+        "desc": "Curtiu 15 postagem(ens) no site Bosque dos Fantasmas",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052811,
+        "name": "Os Perrengues do Influencer",
+        "desc": "Escreveu mais que 10 respostas no site Bosque dos Fantasmas",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4052812,
+        "name": "Juntos um Sol Brilhante, Separados uma Galáxia Distante",
+        "desc": "Coletou 24 Heliobi dispersos com a \"MechAve Exorcista\"",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
@@ -1757,21 +1960,21 @@
       {
         "id": 4070401,
         "name": "Socos Normais Consecutivos",
-        "desc": "Cause 2000 de Dano com uma única ação",
+        "desc": "Cause 2000 de Dano com um único ataque",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4070402,
         "name": "Lâmina de Taixu",
-        "desc": "Cause 40000 de Dano com uma única ação",
+        "desc": "Cause 40000 de Dano com um único ataque",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4070403,
         "name": "Ruína Reverberante",
-        "desc": "Cause 300000 de Dano com uma única ação",
+        "desc": "Cause 300000 de Dano com um único ataque",
         "rarity": 2,
         "version": "1.0"
       },
@@ -2128,7 +2331,7 @@
       {
         "id": 4071018,
         "name": "Levar Uma Pistola para uma Briga de Facas",
-        "desc": "Cause 20000 ou mais de Dano com uma única ação a um inimigo com PV igual ou menor que <unbreak>0%</unbreak>.",
+        "desc": "Cause 20000 ou mais de Dano com um único ataque a um inimigo com PV igual ou menor que <unbreak>0%</unbreak>.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2142,7 +2345,7 @@
       {
         "id": 4071501,
         "name": "Quatro Piruetas e Meia",
-        "desc": "Ative o Talento de Herta com uma única ação de um aliado e a faça girar 5 vez(es)",
+        "desc": "Ative o talento de Herta com um único ataque de um aliado e a faça girar 5 vez(es)",
         "rarity": 2,
         "version": "1.0"
       },
@@ -2408,7 +2611,7 @@
       {
         "id": 4072504,
         "name": "Desejo Não Realizado",
-        "desc": "\"Desnecessário\"\\n<color=#8790abff>※ Em uma única batalha, use o personagem Blade para restaurar seus PV de uma quantidade menor ou igual a 0% até uma quantidade maior ou igual a <unbreak>30%</unbreak>, em uma única ação <unbreak>2</unbreak> vez(es)</color>",
+        "desc": "\"Desnecessário\"\\n<color=#8790abff>※ Em uma única batalha, use o personagem Blade para restaurar seus PV de uma quantidade menor ou igual a 0% até uma quantidade maior ou igual a <unbreak>30%</unbreak>, em um único ataque <unbreak>2</unbreak> vez(es)</color>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -2453,6 +2656,27 @@
         "desc": "Use Luocha para realizar o último golpe em uma vitória contra Yanqing",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4072701,
+        "name": "Dança da Guerra: Provação da Lança",
+        "desc": "Use um Dan Heng aliado para realizar o último golpe em uma vitória contra Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072702,
+        "name": "Dança da Guerra...?",
+        "desc": "Use um Yanqing aliado para realizar o último golpe em uma vitória contra Yanqing",
+        "rarity": 1,
+        "version": "1.4"
+      },
+      {
+        "id": 4072703,
+        "name": "Dança da Guerra: Provação d'Alma de Ferro",
+        "desc": "Use uma Jingliu aliada para realizar o último golpe em uma vitória contra Yanqing",
+        "rarity": 1,
+        "version": "1.4"
       },
       {
         "id": 4072605,
@@ -2504,32 +2728,53 @@
         "version": "1.3"
       },
       {
-        "id": 4072701,
-        "name": "Dança da Guerra: Provação da Lança",
-        "desc": "Use um Dan Heng aliado para realizar o último golpe em uma vitória contra Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4072702,
-        "name": "Dança da Guerra...?",
-        "desc": "Use um Yanqing aliado para realizar o último golpe em uma vitória contra Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
-        "id": 4072703,
-        "name": "Dança da Guerra: Provação d'Alma de Ferro",
-        "desc": "Use uma Jingliu aliada para realizar o último golpe em uma vitória contra Yanqing",
-        "rarity": 1,
-        "version": "1.4"
-      },
-      {
         "id": 4072704,
         "name": "De Quatro Pessoas, o Preço...",
         "desc": "Use Jingliu para reduzir os PV de um aliado a 1 em uma única batalha",
         "rarity": 1,
         "version": "1.4"
+      },
+      {
+        "id": 4072806,
+        "name": "Até os Ricos Estão Passando Fome",
+        "desc": "Inimigos com \"Usurpar\" estranhamente falharam ao roubar Pontos de Perícia 5 vezes ao atacar",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072805,
+        "name": "O Exorcista (De Verdade)",
+        "desc": "Conclua qualquer estágio das Crônicas de Exorcismo sem receber Dano",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072804,
+        "name": "Lago dos Cofrinhos",
+        "desc": "Transforme um Cofrinho em um Cofrinho com os exorcismos",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072803,
+        "name": "Selvageria Quíntupla",
+        "desc": "Acione simultaneamente 3 ou mais \"Punição Divina\" e encerre a batalha",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072802,
+        "name": "Inferno",
+        "desc": "Tenha 4 Proles da Chama no campo simultaneamente durante o desafio \"Labirinto Ilusório: Cirrus\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4072801,
+        "name": "Chega Mais! Agora Vaza!",
+        "desc": "Use a Técnica de Huohuo \"Demônio: Destituição do Mal\" e faça 6 alvos fugirem simultaneamente",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
@@ -2889,7 +3134,7 @@
       {
         "id": 4082704,
         "name": "Confie no Processo",
-        "desc": "Compre 1 Encomenda(s) Não Resgatada(s) de Maozhen em Vau-Nuvem",
+        "desc": "Compre 1 Encomenda(s) Valiosa(s) Não Resgatada(s) de Maozhen em Vau-Nuvem",
         "rarity": 1,
         "version": "1.4"
       },
@@ -2927,257 +3172,54 @@
         "desc": "Conclua 3 batalhas usando o Boneco de Madeira Automático",
         "rarity": 1,
         "version": "1.4"
+      },
+      {
+        "id": 4082806,
+        "name": "Missão Impossível?",
+        "desc": "Derrote Phantylia com o ATQ Básico de Huohuo \"Estandarte: Invoca-Tempestades\"",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082805,
+        "name": "Dorme Neném, Que a Cuca Vem Pegar",
+        "desc": "Entre em uma batalha após usar o Martelo Hipnótico e fazer com que qualquer personagem fique afligido com Reverberação Forte",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082804,
+        "name": "Quem Você Vai Chamar?",
+        "desc": "Vença 1 batalha(s) com uma equipe com Huohuo, Sushang, Guinaifen e {NICKNAME}",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082803,
+        "name": "Noiva em Fuga",
+        "desc": "Recuou da batalha quando todos os outros membros da equipe, exceto por uma Huohuo aliada, foram derrubados",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082802,
+        "name": "Os Guardiões da Meta-Galáxia",
+        "desc": "Vença 1 batalha(s) com uma equipe com Argenti e {NICKNAME}",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4082801,
+        "name": "Me Chame No Seu Coração",
+        "desc": "Ativou 10 falas únicas ao adicionar personagens a uma equipe com {NICKNAME}",
+        "rarity": 1,
+        "version": "1.5"
       }
     ]
   },
   "9": {
     "name": "Universo Lacônico",
     "achievements": [
-      {
-        "id": 4092635,
-        "name": "Os 400 Golpes",
-        "desc": "Use o ATQ Básico pelo menos 40 vezes e ganhe em uma única batalha no Universo Simulado",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092633,
-        "name": "Desejo da Colmeia",
-        "desc": "Desbloqueie 1 Bênção da Propagação no Universo Simulado",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092634,
-        "name": "A Quarta Fase",
-        "desc": "Tenha 10 ou mais Bênção(s) da Propagação ao concluir o Universo Simulado",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092601,
-        "name": "\"Primavera em Fialta\"",
-        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Euforia, conquiste um total de 12 tipos diferentes de Felicidade",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092602,
-        "name": "Jogos Sagazes",
-        "desc": "No Universo Simulado: O Desastre do Enxame, capture 8 Cofrinhos ao batalhar no mesmo plano enquanto segue o Caminho da Caça",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092603,
-        "name": "Histórias de Macadâmia",
-        "desc": "No Universo Simulado: O Desastre do Enxame, use o Caminho da Recordação para copiar consecutivamente uma Recompensa de Domínio 6 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092604,
-        "name": "O Predador",
-        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Destruição, conquiste 40 vitórias em batalha",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092605,
-        "name": "Morte e Troca Simbólicas",
-        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Inexistência, entre em um domínio Vazio 15 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092606,
-        "name": "O Universo Simulado Não Foi Feito em um Dia",
-        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Preservação, aplique Alicerce em 8 domínios de tipos diferentes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092607,
-        "name": "Bem na Hora",
-        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Abundância, a Contagem Regressiva restante é maior ou igual a 80",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092608,
-        "name": "De Volta a Klendathu",
-        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Propagação, entre no domínio Combate: O Enxame, Ocorrência: O Enxame ou Chefe: O Enxame 15 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092609,
-        "name": "\"Bem-Vindo à Casa do Macaco\"",
-        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Euforia\" por um total de 100 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092610,
-        "name": "Granizos Espalhados, Fantasmas Despedaçados",
-        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Caça\" por um total de 100 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092611,
-        "name": "Eternidade e um Dia",
-        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Recordação\" por um total de 100 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092612,
-        "name": "O Mundo como Representação",
-        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Inexistência\" por um total de 100 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092613,
-        "name": "Terra Arrasada",
-        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Destruição\" por um total de 100 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092614,
-        "name": "Escute, Desperte, Viva",
-        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Abundância\" por um total de 100 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092615,
-        "name": "Nucleação Homogênea",
-        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Preservação\" por um total de 100 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092616,
-        "name": "Filhos de Methuselah",
-        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Propagação\" por um total de 100 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092617,
-        "name": "Supervisor do Banco de Dados",
-        "desc": "Tenha 9999 Fragmento(s) Cósmico(s) ou mais ao concluir o Universo Simulado: O Desastre do Enxame",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
-        "id": 4092618,
-        "name": "Amor e o Imperador",
-        "desc": "<u>Maneje poder ilimitado</u> na Saga de Promoção da CPI do Universo Simulado: O Desastre do Enxame",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092619,
-        "name": "Q",
-        "desc": "No Universo Simulado: O Desastre do Enxame, compre todos os itens na Loja de Bênçãos e na Loja de Curios no mesmo domínio de Transação",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092620,
-        "name": "Bem-Vindo à Valhalla",
-        "desc": "No Universo Simulado: O Desastre do Enxame, seja derrotado na batalha acionada pelo evento de Yu Qingtu, #55 da Sociedade de Gênios",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092621,
-        "name": "Detona Você II",
-        "desc": "Em uma ida ao Universo Simulado: O Desastre do Enxame, quebre um número maior ou igual a 100 de objetos destrutíveis",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092622,
-        "name": "Colheita Feliz",
-        "desc": "No Universo Simulado: O Desastre do Enxame, capture 16 ou mais Cofrinhos em um domínio de Aventura",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092623,
-        "name": "Sala dos Caminhos de Partida",
-        "desc": "No Universo Simulado: O Desastre do Enxame, ilumine 1 Trilha do Explorador escondida",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092624,
-        "name": "Coral de Um",
-        "desc": "Gere 2 Interações de Ressonância em uma partida no Universo Simulado: O Desastre do Enxame",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092625,
-        "name": "Ser ou Não Ser",
-        "desc": "No Universo Simulado: O Desastre do Enxame, realize 1 Escolha(s) de Caminhos em domínios de Ocorrência",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092626,
-        "name": "Conexão do Destino",
-        "desc": "No Universo Simulado: O Desastre do Enxame, conclua todas as Escolha(s) de Caminhos em domínios de Ocorrência",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092627,
-        "name": "Coisas a Acontecer",
-        "desc": "Trapaceie um total de 10 vezes no Universo Simulado: O Desastre do Enxame",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092628,
-        "name": "De Volta Para o Futuro",
-        "desc": "Jogue os dados novamente um total de 50 vezes no Universo Simulado: O Desastre do Enxame",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092629,
-        "name": "O Fim da Eternidade",
-        "desc": "No Universo Simulado: O Desastre do Enxame, entre em um domínio Vazio com qualquer Caminho que não seja o da Inexistência",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092630,
-        "name": "No Cometa",
-        "desc": "No Universo Simulado: O Desastre do Enxame, conquiste todos os objetivos em qualquer domínio de Aventura",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092631,
-        "name": "Investigador Weyland-Yutani",
-        "desc": "No Universo Simulado: O Desastre do Enxame, entre no domínio Combate: O Enxame, Ocorrência: O Enxame ou Chefe: O Enxame com um Caminho que não seja o da Propagação por um total de 15 vezes",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
-        "id": 4092632,
-        "name": "Retransmissão de Massa",
-        "desc": "Tenha o Nível de Perturbação do Desarranjo Plano no nível 20 ou superior ao concluir o Universo Simulado: O Desastre do Enxame",
-        "rarity": 1,
-        "version": "1.3"
-      },
       {
         "id": 4090201,
         "name": "A Primeira e a Última Liberdade",
@@ -3200,25 +3242,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092636,
-        "name": "Correndo em Silêncio",
-        "desc": "Conclua todas as histórias dos Desastres do Enxame no Universo Simulado: O Desastre do Enxame",
-        "rarity": 2,
-        "version": "1.3"
-      },
-      {
         "id": 4090204,
         "name": "Sistema de Reação Elemental",
-        "desc": "Cause 5 ou mais Tipos de Dano em uma única ação no Universo Simulado",
+        "desc": "Cause 5 ou mais Tipos de Dano em um único ataque no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092637,
-        "name": "Estranho em uma Terra Estranha",
-        "desc": "Colete todas as histórias dos Segredos do Desbravamento no Universo Simulado: O Desastre do Enxame",
-        "rarity": 2,
-        "version": "1.3"
       },
       {
         "id": 4090205,
@@ -3228,25 +3256,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092638,
-        "name": "Exploda-os Para Fora da Órbita",
-        "desc": "Conclua a Dificuldade V do Universo Simulado: O Desastre do Enxame",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4090206,
         "name": "24 Poemas de Amor e Uma Canção do Desespero",
         "desc": "Todos os aliados têm PV iguais a 0% ou menos ao vencer uma batalha no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092639,
-        "name": "Praga Através das Eras",
-        "desc": "Colete o capítulo \"A Caça I\" em \"O Desastre do Enxame\"",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4090207,
@@ -3256,25 +3270,11 @@
         "version": "1.0"
       },
       {
-        "id": 4092640,
-        "name": "Um Sonho de Babel",
-        "desc": "Colete o capítulo \"A Preservação II\" em \"O Desastre do Enxame\"",
-        "rarity": 1,
-        "version": "1.3"
-      },
-      {
         "id": 4090301,
         "name": "Boa Noite, Camarada",
         "desc": "Derrote 15 inimigos no Universo Simulado",
         "rarity": 1,
         "version": "1.0"
-      },
-      {
-        "id": 4092641,
-        "name": "Como Alguém Se Torna o Que É",
-        "desc": "Colete o capítulo \"A Inexistência I\" em \"O Desastre do Enxame\"",
-        "rarity": 1,
-        "version": "1.3"
       },
       {
         "id": 4090303,
@@ -3625,6 +3625,300 @@
         "desc": "Conclua o Universo Simulado (Nível de Dificuldade 2 e acima) com todos os aliados com PV cheios no fim de todas as batalhas",
         "rarity": 2,
         "version": "1.0"
+      },
+      {
+        "id": 4092633,
+        "name": "Desejo da Colmeia",
+        "desc": "Desbloqueie 1 Bênção da Propagação no Universo Simulado",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092635,
+        "name": "Os 400 Golpes",
+        "desc": "Use o ATQ Básico pelo menos 40 vezes e ganhe em uma única batalha no Universo Simulado",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092634,
+        "name": "Fase IV",
+        "desc": "Tenha 10 ou mais Bênção(s) da Propagação ao concluir o Universo Simulado",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092801,
+        "name": "Coach Quântico da Beleza",
+        "desc": "Receba a ajuda de um Cavaleiro da Beleza com Argenti em sua equipe ativa no Universo Simulado",
+        "rarity": 1,
+        "version": "1.5"
+      },
+      {
+        "id": 4092601,
+        "name": "\"Primavera em Fialta\"",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Euforia, conquiste um total de 12 tipos diferentes de Felicidade",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092602,
+        "name": "Jogos Sagazes",
+        "desc": "No Universo Simulado: O Desastre do Enxame, capture 8 Cofrinhos ao batalhar no mesmo plano enquanto segue o Caminho da Caça",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092603,
+        "name": "Histórias de Macadâmia",
+        "desc": "No Universo Simulado: O Desastre do Enxame, use o Caminho da Recordação para copiar consecutivamente uma Recompensa de Domínio 6 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092604,
+        "name": "O Predador",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Destruição, conquiste 40 vitórias em batalha",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092605,
+        "name": "Morte e Troca Simbólicas",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Inexistência, entre em um domínio Vazio 15 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092606,
+        "name": "O Universo Simulado Não Foi Feito em um Dia",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Preservação, aplique Alicerce em 8 domínios de tipos diferentes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092607,
+        "name": "Bem na Hora",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Abundância, a Contagem Regressiva restante é maior ou igual a 80",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092608,
+        "name": "De Volta a Klendathu",
+        "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Propagação, entre no domínio Combate: O Enxame, Ocorrência: O Enxame ou Chefe: O Enxame 15 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092609,
+        "name": "\"Bem-Vindo à Casa do Macaco\"",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Euforia\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092610,
+        "name": "Granizos Espalhados, Fantasmas Despedaçados",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Caça\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092611,
+        "name": "Eternidade e um Dia",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Recordação\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092612,
+        "name": "O Mundo como Representação",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Inexistência\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092613,
+        "name": "Terra Arrasada",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Destruição\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092614,
+        "name": "Escute, Desperte, Viva",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Abundância\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092615,
+        "name": "Nucleação Homogênea",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Preservação\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092616,
+        "name": "Filhos de Methuselah",
+        "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Propagação\" por um total de 100 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092617,
+        "name": "Supervisor do Banco de Dados",
+        "desc": "Tenha 9999 Fragmento(s) Cósmico(s) ou mais ao concluir o Universo Simulado: O Desastre do Enxame",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092618,
+        "name": "As Estrelas ao seu Alcance",
+        "desc": "<u>Maneje poder ilimitado</u> na Saga de Promoção da CPI do Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092619,
+        "name": "Q",
+        "desc": "No Universo Simulado: O Desastre do Enxame, compre todos os itens na Loja de Bênçãos e na Loja de Curios no mesmo domínio de Transação",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092620,
+        "name": "Bem-Vindo à Valhalla",
+        "desc": "No Universo Simulado: O Desastre do Enxame, seja derrotado na batalha acionada pelo evento de Yu Qingtu, #55 da Sociedade de Gênios",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092621,
+        "name": "Detona Você II",
+        "desc": "Em uma ida ao Universo Simulado: O Desastre do Enxame, quebre um número maior ou igual a 100 de objetos destrutíveis",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092622,
+        "name": "Colheita Feliz",
+        "desc": "No Universo Simulado: O Desastre do Enxame, capture 16 ou mais Cofrinhos em um domínio de Aventura",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092623,
+        "name": "Sala dos Caminhos de Partida",
+        "desc": "No Universo Simulado: O Desastre do Enxame, ilumine 1 Trilha do Explorador escondida",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092624,
+        "name": "Coral de Um",
+        "desc": "Gere 2 Interações de Ressonância em uma partida no Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092625,
+        "name": "Ser ou Não Ser",
+        "desc": "No Universo Simulado: O Desastre do Enxame, realize 1 Escolha(s) de Caminhos em domínios de Ocorrência",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092626,
+        "name": "Conexão do Destino",
+        "desc": "No Universo Simulado: O Desastre do Enxame, conclua todas as Escolha(s) de Caminhos em domínios de Ocorrência",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092627,
+        "name": "Coisas a Acontecer",
+        "desc": "Trapaceie um total de 10 vezes no Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092628,
+        "name": "De Volta Para o Futuro",
+        "desc": "Jogue os dados novamente um total de 50 vezes no Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092629,
+        "name": "O Fim da Eternidade",
+        "desc": "No Universo Simulado: O Desastre do Enxame, entre em um domínio Vazio com qualquer Caminho que não seja o da Inexistência",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092630,
+        "name": "No Cometa",
+        "desc": "No Universo Simulado: O Desastre do Enxame, conquiste todos os objetivos em qualquer domínio de Aventura",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092631,
+        "name": "Investigador Weyland-Yutani",
+        "desc": "No Universo Simulado: O Desastre do Enxame, entre no domínio Combate: O Enxame, Ocorrência: O Enxame ou Chefe: O Enxame com um Caminho que não seja o da Propagação por um total de 15 vezes",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092632,
+        "name": "Retransmissão de Massa",
+        "desc": "Tenha o Nível de Perturbação do Desarranjo Plano no nível 20 ou superior ao concluir o Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092636,
+        "name": "Correndo em Silêncio",
+        "desc": "Conclua todas as histórias dos Desastres do Enxame no Universo Simulado: O Desastre do Enxame",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092637,
+        "name": "Estranho em uma Terra Estranha",
+        "desc": "Colete todas as histórias dos Segredos do Desbravamento no Universo Simulado: O Desastre do Enxame",
+        "rarity": 2,
+        "version": "1.3"
+      },
+      {
+        "id": 4092638,
+        "name": "Exploda-os Para Fora da Órbita",
+        "desc": "Conclua a Dificuldade V do Universo Simulado: O Desastre do Enxame",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092639,
+        "name": "Praga Através das Eras",
+        "desc": "Colete o capítulo \"A Caça I\" em \"O Desastre do Enxame\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092640,
+        "name": "Um Sonho de Babel",
+        "desc": "Colete o capítulo \"A Preservação II\" em \"O Desastre do Enxame\"",
+        "rarity": 1,
+        "version": "1.3"
+      },
+      {
+        "id": 4092641,
+        "name": "Como Alguém Se Torna o Que É",
+        "desc": "Colete o capítulo \"A Inexistência I\" em \"O Desastre do Enxame\"",
+        "rarity": 1,
+        "version": "1.3"
       }
     ]
   }
