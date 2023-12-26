@@ -920,7 +920,7 @@
     },
     "skill": {
       "name": "Allow Changes?",
-      "desc": "Memiliki <span style=\"color: #f29e38ff\">{2}</span> <u>peluang dasar</u> untuk memberikan 1 Weakness tambahan dengan Tipe yang sama dengan salah 1 rekan tim secara acak pada 1 target musuh dan mengurangi {4} DMG RES target musuh terhadap Tipe serangan tersebut selama {3} giliran. Jika Weakness yang ditambahkan adalah Weakness yang sudah dimiliki oleh target musuh, maka tidak akan memicu pengurangan DMG RES terhadap Tipe serangan tersebut.\\nSatu target musuh hanya dapat menerima 1 Weakness dari Silver Wolf. Saat Silver Wolf menambah Weakness lagi pada target musuh yang sama, maka hanya Weakness terbaru yang akan dipertahankan.\\nMemiliki {5} <u>peluang dasar</u> untuk memberi tambahan pengurangan DMG RES seluruh tipe pada target sebesar <span style=\"color: #f29e38ff\">{6}</span> selama {7} giliran.\\nMengakibatkan Quantum DMG pada target tersebut sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Silver Wolf.",
+      "desc": "Memiliki <span style=\"color: #f29e38ff\">{2}</span> <u>peluang dasar</u> untuk memberikan 1 Weakness tambahan dengan Tipe yang sama dengan salah satu rekan tim secara acak pada 1 target musuh dan mengurangi {4} DMG RES target musuh terhadap Tipe serangan tersebut selama {3} giliran. Jika Weakness yang ditambahkan adalah Weakness yang sudah dimiliki oleh target musuh, maka tidak akan memicu pengurangan DMG RES terhadap Tipe serangan tersebut.\\nSatu target musuh hanya dapat menerima 1 Weakness dari Silver Wolf. Saat Silver Wolf menambah Weakness lagi pada target musuh yang sama, maka hanya Weakness terbaru yang akan dipertahankan.\\nMemiliki {5} <u>peluang dasar</u> untuk memberi tambahan pengurangan DMG RES seluruh tipe pada target sebesar <span style=\"color: #f29e38ff\">{6}</span> selama {7} giliran.\\nMengakibatkan Quantum DMG pada target tersebut sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Silver Wolf.",
       "values": [
         [
           98,
@@ -6395,6 +6395,186 @@
       ]
     }
   },
+  "xueyi": {
+    "attack": {
+      "name": "Mara-Sunder Awl",
+      "desc": "Mengakibatkan Quantum DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Xueyi pada 1 target musuh.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Iniquity Obliteration",
+      "desc": "Mengakibatkan Quantum DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Xueyi pada satu musuh yang ditarget, serta mengakibatkan Quantum DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Xueyi pada musuh di sekitar target.",
+      "values": [
+        [
+          70,
+          77,
+          84,
+          91,
+          98,
+          105,
+          114,
+          122,
+          131,
+          140,
+          147,
+          154,
+          161,
+          168,
+          175
+        ],
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Divine Castigation",
+      "desc": "Mengakibatkan Quantum DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Xueyi pada 1 target musuh. Serangan ini mengabaikan Tipe Weakness dan mengurangi Toughness musuh tersebut. Jika mengakibatkan Weakness Break dengan cara ini, maka akan memicu efek Quantum Weakness Break.\\nDalam serangan kali ini, semakin banyak Toughness yang berkurang, semakin tinggi DMG yang diakibatkan, maksimal hingga <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          150,
+          160,
+          170,
+          180,
+          190,
+          200,
+          212,
+          225,
+          238,
+          250,
+          260,
+          270,
+          280,
+          290,
+          300
+        ],
+        [
+          0.09000000008381903,
+          0.09599999967031181,
+          0.10199999995529652,
+          0.1079999995417893,
+          0.113999999826774,
+          0.12000000011175871,
+          0.12749999994412065,
+          0.13499999977648258,
+          0.14250000030733645,
+          0.1500000001396984,
+          0.15599999972619116,
+          0.16200000001117587,
+          0.16799999959766865,
+          0.17399999988265336,
+          0.18000000016763806
+        ],
+        [
+          36,
+          38.4,
+          40.8,
+          43.2,
+          45.6,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62.4,
+          64.8,
+          67.2,
+          69.6,
+          72
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[f1]%"
+      ]
+    },
+    "talent": {
+      "name": "Karmic Perpetuation",
+      "desc": "Saat serangan yang dilancarkan Xueyi mengurangi Toughness musuh, Xueyi akan menumpuk lapisan \"Karma\". Semakin banyak Toughness yang berkurang, semakin banyak lapisan \"Karma\" yang diperoleh, dapat ditumpuk hingga {1} lapis.\\nSetelah serangan yang dilancarkan rekan tim Xueyi mengurangi Toughness musuh, Xueyi akan memperoleh {3} lapis \"Karma\".\\nSaat tumpukan lapisan \"Karma\" mencapai batas maksimum, semua lapisan \"Karma\" saat ini akan dikonsumsi, dan Xueyi akan segera melancarkan <u>Serangan Lanjutan</u> pada target musuh, mengakibatkan DMG sebanyak 3 kali, yang masing-masing mengakibatkan Quantum DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Xueyi pada musuh secara acak. Serangan Lanjutan ini tidak akan menambah lapisan \"Karma\".",
+      "values": [
+        [
+          8
+        ],
+        [
+          45,
+          50,
+          54,
+          59,
+          63,
+          68,
+          73,
+          79,
+          84,
+          90,
+          95,
+          99,
+          103,
+          108,
+          112
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Summary Execution",
+      "desc": "Segera menyerang musuh, dan setelah memasuki pertempuran, mengakibatkan Quantum DMG sebesar {1} ATK Xueyi pada seluruh musuh.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "hanya": {
     "attack": {
       "name": "Oracle Brush",
@@ -6532,7 +6712,7 @@
     },
     "technique": {
       "name": "Netherworld Judgment",
-      "desc": "Segera menyerang musuh. Setelah memasuki pertempuran, memberikan \"Burden\" sebesar efek Skill pada 1 musuh secara acak.",
+      "desc": "Segera menyerang musuh. Setelah memasuki pertempuran, akan memberikan \"Burden\" yang sama dengan efek Skill pada 1 musuh secara acak.",
       "values": [],
       "format": []
     }
@@ -6691,7 +6871,7 @@
       ]
     },
     "talent": {
-      "name": "Possessed: Ethereal Metaflow",
+      "name": "Possession: Ethereal Metaflow",
       "desc": "Setelah melancarkan Skill, Huohuo akan memperoleh \"Divine Provision\" yang berlangsung selama {1} giliran. Setiap saat giliran Huohuo dimulai, durasi \"Divine Provision\" akan berkurang 1 giliran. Saat Huohuo memiliki \"Divine Provision\", saat giliran rekan tim dimulai atau saat rekan tim melancarkan Ultimate, akan memulihkan HP rekan tersebut sebesar <span style=\"color: #f29e38ff\">{3}</span> Max HP Huohuo + <span style=\"color: #f29e38ff\">{5}</span>. Di saat yang bersamaan, akan menciptakan 1 kali efek pemulihan pada setiap rekan tim yang persentase HP-nya saat ini kurang dari atau sama dengan {6}.\\nSaat memicu \"Divine Provision\" untuk memberikan efek pemulihan pada rekan tim, akan menghapus {2} efek <u>Debuff</u> dari rekan tersebut. Efek penghapusan ini dapat terpicu {7} kali. Setelah melancarkan Skill, jumlah pemicuan akan di-refresh kembali.",
       "values": [
         [
@@ -6833,7 +7013,7 @@
       ]
     },
     "ultimate": {
-      "name": "For In This Garden Supreme Beauty Bestows",
+      "name": "For In This Garden, Supreme Beauty Bestows",
       "desc": "Mengonsumsi {2} Energy dan mengakibatkan Physical DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Argenti pada seluruh musuh.",
       "values": [
         [
@@ -6864,7 +7044,7 @@
     },
     "talent": {
       "name": "Sublime Object",
-      "desc": "Saat melancarkan Basic Attack, Skill, atau Ultimate, setiap 1 target musuh yang terkena serangan akan memulihkan {1} Energy Argenti dan memberikan 1 lapis \"Ascend\", yang akan meningkatkan <span style=\"color: #f29e38ff\">{2}</span> CRIT Rate Argenti. Efek ini dapat ditumpuk hingga {3} lapis.",
+      "desc": "Saat melancarkan Basic Attack, Skill, atau Ultimate, setiap 1 target musuh yang terkena serangan akan memulihkan {1} Energy Argenti dan memberikan 1 lapis \"Apotheosis\", yang akan meningkatkan <span style=\"color: #f29e38ff\">{2}</span> CRIT Rate Argenti. Efek ini dapat ditumpuk hingga {3} lapis.",
       "values": [
         [
           3
@@ -6970,6 +7150,192 @@
       "format": [
         "[i]%",
         "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "ruan-mei": {
+    "attack": {
+      "name": "Threading Fragrance",
+      "desc": "Mengakibatkan Ice DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Ruan Mei pada 1 target musuh.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "String Sings Slow Swirls",
+      "desc": "Setelah Ruan Mei melancarkan Skill, Ruan Mei akan memperoleh \"Overtone\" yang berlangsung selama {3} giliran. Setiap giliran Ruan Mei dimulai, durasi giliran akan berkurang 1. Saat Ruan Mei memiliki \"Overtone\", seluruh rekan tim akan mendapat peningkatan <span style=\"color: #f29e38ff\">{1}</span> DMG dan {2} Weakness Break Efficiency.",
+      "values": [
+        [
+          16,
+          17.6,
+          19.2,
+          20.8,
+          22.4,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33.6,
+          35.2,
+          36.8,
+          38.4,
+          40
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Petals to Stream, Repose in Dream",
+      "desc": "Ruan Mei membuka sebuah Field yang berlangsung selama {2} giliran. Durasi giliran Field akan berkurang 1 setiap kali giliran Ruan Mei dimulai.\\nSeluruh rekan tim yang berada dalam Field akan mendapat peningkatan <span style=\"color: #f29e38ff\">{1}</span> RES PEN Seluruh Tipe, dan setelah menyerang, akan menambahkan \"Thanatoplum Rebloom\" pada target musuh.\\n\"Thanatoplum Rebloom\" akan terpicu saat target musuh mencoba pulih dari status Weakness Break, memperpanjang status Weakness Break yang dimilikinya dan menunda aksinya. Penundaan aksinya adalah sebesar {3} Break Effect Ruan Mei + {4}, serta mengakibatkan Break DMG pada target tersebut sebesar <span style=\"color: #f29e38ff\">{5}</span> Ice Break DMG Ruan Mei.\\nTarget musuh yang belum pulih dari status Weakness Break tidak dapat terkena \"Thanatoplum Rebloom\" lagi.",
+      "values": [
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21.3,
+          22.5,
+          23.8,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          2
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ],
+        [
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Somatotypical Helix",
+      "desc": "Meningkatkan <span style=\"color: #f29e38ff\">{1}</span> SPD seluruh rekan tim selain diri sendiri. Saat mengakibatkan Weakness Break pada target musuh (berlaku untuk seluruh rekan tim), Ruan Mei akan mengakibatkan Break DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> Ice Break DMG Ruan Mei pada musuh tersebut.",
+      "values": [
+        [
+          8,
+          8.2,
+          8.4,
+          8.6,
+          8.8,
+          9,
+          9.3,
+          9.5,
+          9.7,
+          10,
+          10.2,
+          10.4,
+          10.6,
+          10.8,
+          11
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          97.5,
+          105,
+          112.5,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Silken Serenade",
+      "desc": "Setelah menggunakan Technique, akan memperoleh \"Silken Serenade\". Saat pertempuran berikutnya dimulai, akan otomatis memicu Skill dirinya sebanyak {1} kali, dan pemicuan kali ini tidak akan mengonsumsi Poin Skill.\\nSaat Ruan Mei memiliki \"Silken Serenade\" di Simulated Universe, saat rekan tim menyerang musuh secara aktif, akan selalu dianggap menyerang Weakness saat memasuki pertempuran, dan serangan kali ini akan mengurangi Toughness seluruh musuh tanpa memedulikan Tipe Weakness-nya. Saat mengakibatkan Weakness Break, akan memicu efek Weakness Break yang sesuai dengan Tipe Serangan penyerang. Untuk setiap 1 Blessing yang dimiliki, Toughness-Reducing DMG (DMG terhadap Toughness) yang diakibatkan serangan kali ini akan meningkat ekstra {2}. Jika serangan ini mengakibatkan Weakness Break, maka akan mengakibatkan Break DMG sebesar {3} Ice Break DMG Ruan Mei pada target musuh tersebut. Berlaku untuk maksimal {4} Blessing.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
         "[i]%",
         "[i]"
       ]

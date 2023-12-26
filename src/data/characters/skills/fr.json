@@ -160,7 +160,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -320,7 +320,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -468,7 +468,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -650,7 +650,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -872,7 +872,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -1148,7 +1148,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -1288,7 +1288,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -1418,7 +1418,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -1548,7 +1548,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -1722,7 +1722,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -1856,7 +1856,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -2022,7 +2022,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -2200,7 +2200,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -2406,7 +2406,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -2566,7 +2566,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -2752,7 +2752,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -2916,7 +2916,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -3072,7 +3072,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -3414,7 +3414,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -3596,7 +3596,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -3671,7 +3671,7 @@
       ]
     },
     "skill": {
-      "name": "Des difficultés de paiement ?",
+      "name": "Des difficultés de paiement ?",
       "desc": "Applique Reconnaissance de dette à une cible ennemie unique, ce qui augmente les DGT des <u>attaques de suivi</u> qu'elle subit de <span style=\"color: #f29e38ff\">{2}</span>. Reconnaissance de dette ne s'applique qu'à sa dernière cible. Si aucun ennemi sur le champ de bataille n'est affecté par Reconnaissance de dette au début du tour ou pendant l'action d'un allié, Topaz applique Reconnaissance de dette à une cible ennemie aléatoire.\\nCompti inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Topaz à cette cible. Les DGT infligés par cette compétence sont considérés comme provenant d'une <u>attaque de suivi</u>.",
       "values": [
         [
@@ -3802,7 +3802,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -3932,7 +3932,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -4130,7 +4130,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -4304,7 +4304,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -4444,7 +4444,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -4694,7 +4694,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -4928,7 +4928,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -5094,7 +5094,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -5272,7 +5272,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -5492,7 +5492,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -5700,7 +5700,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -5932,7 +5932,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -6118,7 +6118,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -6338,7 +6338,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -6391,6 +6391,186 @@
       ],
       "format": [
         "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "xueyi": {
+    "attack": {
+      "name": "Pique scindemara",
+      "desc": "Inflige des DGT quantiques à hauteur de <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Xueyi à une cible unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Éradication des péchés",
+      "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Xueyi à un ennemi unique et des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{2}</span> de son ATQ aux ennemis adjacents.",
+      "values": [
+        [
+          70,
+          77,
+          84,
+          91,
+          98,
+          105,
+          114,
+          122,
+          131,
+          140,
+          147,
+          154,
+          161,
+          168,
+          175
+        ],
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Châtiment divin",
+      "desc": "Inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Xueyi à un ennemi unique. Cette attaque ignore les types de faiblesse et réduit la robustesse de la cible. L'effet de la Rupture de faiblesse quantique se déclenche en cas de Rupture de faiblesse.\\nPlus la robustesse est faible, plus les DGT infligés par cette attaque sont élevés, jusqu'à un maximum de <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          150,
+          160,
+          170,
+          180,
+          190,
+          200,
+          212,
+          225,
+          238,
+          250,
+          260,
+          270,
+          280,
+          290,
+          300
+        ],
+        [
+          0.09000000008381903,
+          0.09599999967031181,
+          0.10199999995529652,
+          0.1079999995417893,
+          0.113999999826774,
+          0.12000000011175871,
+          0.12749999994412065,
+          0.13499999977648258,
+          0.14250000030733645,
+          0.1500000001396984,
+          0.15599999972619116,
+          0.16200000001117587,
+          0.16799999959766865,
+          0.17399999988265336,
+          0.18000000016763806
+        ],
+        [
+          36,
+          38.4,
+          40.8,
+          43.2,
+          45.6,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62.4,
+          64.8,
+          67.2,
+          69.6,
+          72
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[f1]%"
+      ]
+    },
+    "talent": {
+      "name": "Rétribution karmique",
+      "desc": "Lorsque les attaques de Xueyi réduisent la robustesse ennemie, elle cumule du Karma. Plus la robustesse est réduite, plus elle gagne de cumuls de Karma, avec un maximum de {1} cumuls.\\nLorsque les alliés de Xueyi réduisent la robustesse ennemie avec des attaques, Xueyi gagne {3} cumul de Karma.\\nLorsque le nombre de cumuls de Karma atteint son maximum, elle consomme tous les cumuls de Karma et déclenche immédiatement une <u>attaque de suivi</u>, qui inflige des DGT à 3 reprises. Chaque instance de DGT inflige des DGT quantiques équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Xueyi à une cible aléatoire unique. Cette attaque de suivi ne permet pas d'accumuler de Karma.",
+      "values": [
+        [
+          8
+        ],
+        [
+          45,
+          50,
+          54,
+          59,
+          63,
+          68,
+          73,
+          79,
+          84,
+          90,
+          95,
+          99,
+          103,
+          108,
+          112
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Exécution sommaire",
+      "desc": "Engage immédiatement le combat contre les ennemis. Inflige des DGT quantiques équivalents à {1} de l'ATQ de Xueyi à tous les ennemis après être entré en combat.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
         "[i]%"
       ]
     }
@@ -6496,7 +6676,7 @@
     },
     "talent": {
       "name": "Châtiment",
-      "desc": "Lorsqu'un allié utilise une ATQ normale, une compétence ou un ultime sur un ennemi affecté par Fardeau, ses DGT augmentent de <span style=\"color: #f29e38ff\">{1}</span> pendant {2} tours.",
+      "desc": "Lorsqu'un allié utilise une ATQ normale, une compétence ou un ultime sur un ennemi affecté par Fardeau, ses DGT augmentent de <span style=\"color: #f29e38ff\">{1}</span> pendant {2} tours.",
       "values": [
         [
           15,
@@ -6526,13 +6706,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Jugement de l'au-delà",
-      "desc": "Engage immédiatement le combat contre les ennemis. Applique le même effet Fardeau que la compétence à un ennemi aléatoire après être entré en combat.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Applique le même effet Fardeau que celui de la compétence à un ennemi aléatoire après être entré en combat.",
       "values": [],
       "format": []
     }
@@ -6644,7 +6824,7 @@
     },
     "ultimate": {
       "name": "Domination spirituelle de Plumeau",
-      "desc": "Régénère des points d'énergie de tous les alliés, hormis Huohuo, à hauteur de <span style=\"color: #f29e38ff\">{1}</span> de leur énergie max respective. Augmente aussi leur ATQ de <span style=\"color: #f29e38ff\">{2}</span> pendant {3} tours.",
+      "desc": "Régénère des points d'énergie pour tous les alliés, hormis Huohuo, à hauteur de <span style=\"color: #f29e38ff\">{1}</span> de leur énergie max respective. Augmente aussi leur ATQ de <span style=\"color: #f29e38ff\">{2}</span> pendant {3} tours.",
       "values": [
         [
           15,
@@ -6756,7 +6936,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
@@ -6864,7 +7044,7 @@
     },
     "talent": {
       "name": "Objet de convoitise",
-      "desc": "Quand Argenti utilise son ATQ normale, sa compétence ou son ultime, chaque ennemi touché lui permet de régénérer {1} points d'énergie et lui accorde un cumul d'Ascension, ce qui augmente de <span style=\"color: #f29e38ff\">{2}</span> ses chances de coup critique. Cet effet peut être cumulé jusqu'à {3} fois.",
+      "desc": "Quand Argenti utilise son ATQ normale, sa compétence ou son ultime, chaque ennemi touché lui permet de régénérer {1} points d'énergie et lui accorde un cumul d'Ascension, effet qui augmente de <span style=\"color: #f29e38ff\">{2}</span> ses chances de coup critique. Cet effet peut être cumulé jusqu'à {3} fois.",
       "values": [
         [
           3
@@ -6898,13 +7078,13 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Manifeste de la vertu",
-      "desc": "Après utilisation de la technique d'Argenti, les ennemis situés dans une zone définie subissent Hébété pendant {1} secondes. Les ennemis hébétés ne peuvent pas attaquer votre équipe.\\nInitier un combat en attaquant un ennemi hébété inflige des DGT équivalents à {2} de l'ATQ d'Argenti à tous les ennemis en début de combat et régénère son énergie de {3} points.",
+      "desc": "Après utilisation de la technique, les ennemis situés dans une zone définie subissent Hébété pendant {1} secondes. Les ennemis hébétés ne peuvent pas attaquer activement votre équipe.\\nEngager le combat en attaquant un ennemi hébété inflige des DGT équivalents à {2} de l'ATQ d'Argenti à tous les ennemis et régénère son énergie de {3} points.",
       "values": [
         [
           10
@@ -6970,6 +7150,192 @@
       "format": [
         "[i]%",
         "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "ruan-mei": {
+    "attack": {
+      "name": "Parfum entêtant",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Ruan Mei à une cible unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Chant lancinant des cordes",
+      "desc": "Ruan Mei gagne Tonalité après avoir utilisé sa compétence, pour une durée de {3} tours. Cette durée diminue de 1 au début du tour de Ruan Mei. Les DGT de tous les alliés augmentent de <span style=\"color: #f29e38ff\">{1}</span> lorsque Ruan Mei bénéficie de Tonalité et leur efficacité de Rupture de faiblesse de {2}.",
+      "values": [
+        [
+          16,
+          17.6,
+          19.2,
+          20.8,
+          22.4,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33.6,
+          35.2,
+          36.8,
+          38.4,
+          40
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Ondée de pétales",
+      "desc": "Ruan Mei déploie un champ qui dure {2} tours. La durée de ce champ diminue de 1 au début de son tour.\\nLa PÉN de RÉS à tous les types de tous les alliés augmente de <span style=\"color: #f29e38ff\">{1}</span> lorsqu'ils se trouvent à l'intérieur du champ et leurs attaques appliquent Floraison incomplète aux ennemis touchés.\\nFloraison incomplète se déclenche lorsque ces ennemis tentent de se rétablir d'une Rupture de faiblesse, ce qui prolonge la durée de leur état de Rupture de faiblesse et retarde leur action à hauteur de {3} de l'effet de Rupture de Ruan Mei + {4}, tout en infligeant des DGT de rupture équivalents à <span style=\"color: #f29e38ff\">{5}</span> des DGT de rupture de glace de Ruan Mei.\\nLes cibles ennemies ne peuvent pas subir à nouveau Floraison incomplète tant qu'elles n'ont pas récupéré de l'état de Rupture de faiblesse.",
+      "values": [
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21.3,
+          22.5,
+          23.8,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          2
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ],
+        [
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Spirale fractale",
+      "desc": "Augmente de <span style=\"color: #f29e38ff\">{1}</span> la VIT de toute l'équipe (à l'exception de ce personnage). Lorsqu'un allié inflige une Rupture de faiblesse à une cible ennemie, Ruan Mei inflige des DGT de rupture équivalents à <span style=\"color: #f29e38ff\">{2}</span> de ses DGT de rupture de glace à cette cible.",
+      "values": [
+        [
+          8,
+          8.2,
+          8.4,
+          8.6,
+          8.8,
+          9,
+          9.3,
+          9.5,
+          9.7,
+          10,
+          10.2,
+          10.4,
+          10.6,
+          10.8,
+          11
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          97.5,
+          105,
+          112.5,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Sérénade de soie",
+      "desc": "Obtient Sérénade de soie après avoir utilisé la technique. Déclenche automatiquement la compétence sans utiliser de point de compétence {1} fois au début du combat suivant.\\nDans l'Univers simulé, lorsque Ruan Mei bénéficie de Sérénade de soie et que l'équipe attaque activement une cible ennemie, la Faiblesse de l'ennemi est toujours considérée comme ayant été attaquée pour entrer en combat, et cette attaque peut réduire la robustesse de tous les ennemis quel que soit leur type de faiblesse. Lorsque vous infligez une Rupture de faiblesse, vous déclenchez l'effet de Rupture correspondant au type de faiblesse de l'assaillant. Augmente les DGT à la robustesse de cette attaque de {2} pour chaque bénédiction possédée, jusqu'à {4} bénédictions. D'autre part, inflige à l'ennemi des DGT de rupture équivalents à {3} des DGT de rupture de glace de Ruan Mei si cette attaque provoque une Rupture de faiblesse à un ennemi.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
         "[i]%",
         "[i]"
       ]
@@ -7128,7 +7494,7 @@
     },
     "mazeattack": {
       "name": "Attaque",
-      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
       "values": [],
       "format": []
     },

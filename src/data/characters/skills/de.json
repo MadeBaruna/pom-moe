@@ -1630,7 +1630,7 @@
     },
     "ultimate": {
       "name": "Der Belobog-Marsch",
-      "desc": "Erhöht den ANG aller Verbündeten um <span style=\"color: #f29e38ff\">{1}</span> und ihren KRIT-SCH um <span style=\"color: #f29e38ff\">{2}</span> von Bronyas KRIT-SCH plus <span style=\"color: #f29e38ff\">{3}</span> für {4} Rd.",
+      "desc": "Erhöht den ANG aller Verbündeten um <span style=\"color: #f29e38ff\">{1}</span> und ihren KRIT-SCH um <span style=\"color: #f29e38ff\">{2}</span> von Bronyas KRIT-SCH plus <span style=\"color: #f29e38ff\">{3}</span> für {4} Rd.",
       "values": [
         [
           33,
@@ -2662,7 +2662,7 @@
     },
     "ultimate": {
       "name": "Ein Versprechen, kein Befehl",
-      "desc": "Reduziert nach dem Einsatz des Ultimates den von Clara erlittenen SCH zusätzlich um <span style=\"color: #f29e38ff\">{4}</span> und erhöht stark für {3} Rd. die Chance, von Gegnern angegriffen zu werden.\\nAußerdem wird Svarogs <u>Konter</u> verstärkt. Wird ein Verbündeter angegriffen, führt Svarog sofort einen <u>Konter</u> aus. Dieser Konter erhöht den SCH-Multiplikator gegen den Gegner um <span style=\"color: #f29e38ff\">{2}</span> und fügt angrenzenden Zielen 50 % des vom anvisierten Gegner erlittenen SCH zu. Der verstärkte <u>Konter</u> kann {5}-mal ausgelöst werden.",
+      "desc": "Reduziert nach dem Einsatz des Ultimates den von Clara erlittenen SCH zusätzlich um <span style=\"color: #f29e38ff\">{4}</span> und erhöht stark für {3} Rd. die Chance, von Gegnern angegriffen zu werden.\\nAußerdem wird Svarogs <u>Konter</u> verstärkt. Wird ein Verbündeter angegriffen, führt Svarog sofort einen <u>Konter</u> aus. Dieser Konter erhöht den SCH-Multiplikator gegen den Gegner um <span style=\"color: #f29e38ff\">{2}</span> und fügt angrenzenden Zielen 50 % des vom anvisierten Gegner erlittenen SCH zu. Der verstärkte <u>Konter</u> kann {5}-mal ausgelöst werden.",
       "values": [
         [
           5
@@ -4398,7 +4398,7 @@
     },
     "talent": {
       "name": "Prana ausgemerzt",
-      "desc": "Beschwört den Blitz-Lord beim Kampfeintritt. Er hat eine GES von {1} und eine Trefferzahl von {4}. Seine Angriffe werden als <u>Folgeangriffe</u> gewertet. Jeder Treffer des Blitz-Lords fügt einem zufälligen Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Jing Yuans ANG zu und fügt angrenzenden Zielen Blitz-SCH in Höhe von {5} des am anvisierten Ziel verursachten SCH zu.\\nDie Trefferzahl des Blitz-Lords ist bis zu max. {6} stapelbar und die GES des Blitz-Lords erhöht sich um {3} für jeden zusätzlichen Treffer. Nach dem Ende der Aktion werden die GES und die Trefferzahl des Blitz-Lords zurückgesetzt.\\nIst Jing Yuan <u>handlungsunfähig</u>, verschwindet der Blitz-Lord.\\nSteht Jing Yuan unter dem Einfluss von <u>Mengenkontrolle-Debuffs</u>, kann der Blitz-Lord auch keine Aktion ausführen.",
+      "desc": "Beschwört den Blitz-Lord beim Kampfeintritt. Er hat eine GES von {1} und eine Trefferzahl von {4}. Seine Angriffe werden als <u>Folgeangriffe</u> gewertet. Jeder Treffer des Blitz-Lords fügt einem zufälligen Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Jing Yuans ANG zu und fügt angrenzenden Zielen Blitz-SCH in Höhe von {5} des am anvisierten Ziel verursachten SCH zu.\\nDie Trefferzahl des Blitz-Lords ist bis zu max. {6}-fach stapelbar und die GES des Blitz-Lords erhöht sich um {3} für jeden zusätzlichen Treffer. Nach dem Ende der Aktion werden die GES und die Trefferzahl des Blitz-Lords zurückgesetzt.\\nIst Jing Yuan <u>handlungsunfähig</u>, verschwindet der Blitz-Lord.\\nSteht Jing Yuan unter dem Einfluss von <u>Mengenkontrolle-Debuffs</u>, kann der Blitz-Lord auch keine Aktion ausführen.",
       "values": [
         [
           60
@@ -6395,6 +6395,186 @@
       ]
     }
   },
+  "xueyi": {
+    "attack": {
+      "name": "Marabrecher-Ahle",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Xueyis ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Vernichtung des Frevels",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Xueyis ANG zu und fügt angrenzenden Zielen Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Xueyis ANG zu.",
+      "values": [
+        [
+          70,
+          77,
+          84,
+          91,
+          98,
+          105,
+          114,
+          122,
+          131,
+          140,
+          147,
+          154,
+          161,
+          168,
+          175
+        ],
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Göttliche Geißelung",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Xueyis ANG zu. Dieser Angriff ignoriert die Schwächen des Gegners und reduziert den WDS des Ziels. Wenn die Schwäche eines Gegners gebrochen wird, wird der Effekt „Schwächebruch: Quanten“ ausgelöst.\\nJe mehr WDS reduziert wird, desto höher ist der Schaden, der mit diesem Angriff zugefügt wird, bis maximal <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          150,
+          160,
+          170,
+          180,
+          190,
+          200,
+          212,
+          225,
+          238,
+          250,
+          260,
+          270,
+          280,
+          290,
+          300
+        ],
+        [
+          0.09000000008381903,
+          0.09599999967031181,
+          0.10199999995529652,
+          0.1079999995417893,
+          0.113999999826774,
+          0.12000000011175871,
+          0.12749999994412065,
+          0.13499999977648258,
+          0.14250000030733645,
+          0.1500000001396984,
+          0.15599999972619116,
+          0.16200000001117587,
+          0.16799999959766865,
+          0.17399999988265336,
+          0.18000000016763806
+        ],
+        [
+          36,
+          38.4,
+          40.8,
+          43.2,
+          45.6,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62.4,
+          64.8,
+          67.2,
+          69.6,
+          72
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[f1]%"
+      ]
+    },
+    "talent": {
+      "name": "Karmischer Kreislauf",
+      "desc": "Fügt Stapelung von „Karma“ hinzu, wenn Xueyis Angriffe den WDS eines Ziels verringern, wobei mehr Stapelungen im Verhältnis zur Menge des verringerten WDS hinzugefügt werden, bis zu {1}-fach stapelbar.\\nWenn Xueyis Verbündete den WDS eines Ziels mit einem Angriff verringern, erhält sie {3} Stapelungen von „Karma“.\\nWenn „Karma“ maximal gestapelt wurde, werden alle Stapelungen verbraucht und es wird ein <u>Folgeangriff</u> auf ein Ziel ausgeführt, der 3-mal SCH verursacht, wobei einem zufälligen Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Xueyis ANG entspricht. Dieser Folgeangriff fügt keine „Karma“-Stapelung hinzu.",
+      "values": [
+        [
+          8
+        ],
+        [
+          45,
+          50,
+          54,
+          59,
+          63,
+          68,
+          73,
+          79,
+          84,
+          90,
+          95,
+          99,
+          103,
+          108,
+          112
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Kurzschluss-Exekution",
+      "desc": "Greift den Gegner unmittelbar an. Fügt nach Kampfeintritt allen Gegnern Quanten-SCH in Höhe von {1} von Xueyis ANG zu.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "hanya": {
     "attack": {
       "name": "Schrift des Orakels",
@@ -6418,7 +6598,7 @@
     },
     "skill": {
       "name": "Die Fesseln des Samsara",
-      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Hanyas ANG zu und belegt ihn mit „Aufbürden“.\\nJedes Mal, wenn Verbündete 2 Standardangriffe, Fertigkeiten oder Ultimates gegen einen mit Aufbürden belegten Gegner einsetzen, erhält das Team 1 Fertigkeitspunkt zurück. Aufbürden wirkt sich nur auf den letzten Gegner aus, der damit belegt wurde, und wird automatisch entfernt, sobald die Fertigkeitspunkte {2}-mal wiederhergestellt werden.",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Hanyas ANG zu und belegt ihn mit „Aufbürden“.\\nJedes Mal, wenn Verbündete 2 Standardangriffe, Fertigkeiten oder Ultimates gegen einen mit Aufbürden belegten Gegner einsetzen, erhält das Team 1 Fertigkeitspunkt zurück. Aufbürden wirkt sich nur auf den letzten Gegner aus, der damit belegt wurde, und wird automatisch entfernt, sobald die Fertigkeitspunkte {2}-mal wiederhergestellt wurden.",
       "values": [
         [
           120,
@@ -6496,7 +6676,7 @@
     },
     "talent": {
       "name": "Sanktion",
-      "desc": "Wenn ein Verbündeter einen Standardangriff, eine Fertigkeit oder einen Ultimate gegen einen Gegner einsetzt, der mit „Aufbürden“ belegt ist, wird der zugefügte SCH um <span style=\"color: #f29e38ff\">{1}</span> für {2} Rd. erhöht.",
+      "desc": "Wenn ein Verbündeter einen Standardangriff, eine Fertigkeit oder einen Ultimate gegen einen Gegner einsetzt, der mit „Aufbürden“ belegt ist, wird der zugefügte SCH für {2} Rd. um <span style=\"color: #f29e38ff\">{1}</span> erhöht.",
       "values": [
         [
           15,
@@ -6692,7 +6872,7 @@
     },
     "talent": {
       "name": "Besessenheit: Metaphysische Verbindung",
-      "desc": "Nach dem Einsatz der Fertigkeit erhält Huohuo für {1} Rd. „Geopfertes Leben“. Diese Dauer verringert sich zu Beginn jeder Runde von Huohuo um 1. Besitzt Huohuo Geopfertes Leben, wird zu Beginn jeder Runde eines Verbündeten oder beim Einsatz eines Ultimates seine LP um <span style=\"color: #f29e38ff\">{3}</span> von Huohuos max. LP plus <span style=\"color: #f29e38ff\">{5}</span> wiederhergestellt. Gleichzeitig werden alle Verbündeten, deren LP-Prozentsatz zu diesem Zeitpunkt bei {6} oder niedriger liegt, einmal geheilt.\\nWird ein Verbündeter durch den Einsatz von Geopfertes Leben geheilt, werden {2} <u>Debuff(s)</u> von ihm entfernt. Dieser Effekt kann {7}-mal ausgelöst werden. Bei erneutem Einsatz der Fertigkeit wird die Anzahl der Auslösungen zurückgesetzt.",
+      "desc": "Nach dem Einsatz der Fertigkeit erhält Huohuo für {1} Rd. „Gesegnete Heilung“. Diese Dauer verringert sich zu Beginn jeder Runde von Huohuo um 1. Besitzt Huohuo Gesegnete Heilung, wird zu Beginn jeder Runde eines Verbündeten oder beim Einsatz eines Ultimates seine LP um <span style=\"color: #f29e38ff\">{3}</span> von Huohuos max. LP plus <span style=\"color: #f29e38ff\">{5}</span> wiederhergestellt. Gleichzeitig werden alle Verbündeten, deren LP-Prozentsatz zu diesem Zeitpunkt bei {6} oder niedriger liegt, einmal geheilt.\\nWird ein Verbündeter durch den Einsatz von Gesegnete Heilung geheilt, werden {2} <u>Debuff(s)</u> von ihm entfernt. Dieser Effekt kann {7}-mal ausgelöst werden. Bei erneutem Einsatz der Fertigkeit wird die Anzahl der Auslösungen zurückgesetzt.",
       "values": [
         [
           2
@@ -6864,7 +7044,7 @@
     },
     "talent": {
       "name": "Erhabene Moral",
-      "desc": "Nach dem Einsatz des Standardangriffs, der Fertigkeit oder des Ultimates stellt Argenti für jeden getroffenen Gegner {1} Pkt. Energie wieder her und erhält 1 Stapelung „Aufsteigend“, wodurch seine KRIT-Rate um <span style=\"color: #f29e38ff\">{2}</span> erhöht wird. Dieser Effekt ist bis zu {3}-fach stapelbar.",
+      "desc": "Nach dem Einsatz des Standardangriffs, der Fertigkeit oder des Ultimates stellt Argenti für jeden getroffenen Gegner {1} Pkt. Energie wieder her und erhält 1 Stapelung „Apotheose“, wodurch seine KRIT-Rate um <span style=\"color: #f29e38ff\">{2}</span> erhöht wird. Dieser Effekt ist bis zu {3}-fach stapelbar.",
       "values": [
         [
           3
@@ -6924,7 +7104,7 @@
     },
     "undefined": {
       "name": "Der Wert meines holden Gartens",
-      "desc": "Verbraucht {4} Pkt. Energie und fügt allen Gegnern physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Argentis ANG zu und verursacht zusätzlich {2}-mal SCH. Jeder Treffer fügt einem zufälligen Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Argentis ANG zu.",
+      "desc": "Verbraucht {4} Pkt. Energie und fügt allen Gegnern physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Argentis ANG zu. Verursacht außerdem zusätzlich {2}-mal SCH. Jeder Treffer fügt einem zufälligen Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Argentis ANG zu.",
       "values": [
         [
           168,
@@ -6970,6 +7150,192 @@
       "format": [
         "[i]%",
         "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "ruan-mei": {
+    "attack": {
+      "name": "Orchideennadel",
+      "desc": "Fügt einem anvisierten Gegner Eis-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Ruan Meis ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Wiederholungsschleife",
+      "desc": "Nachdem Ruan Mei ihre Fertigkeit einsetzt, erhält sie für {3} Rd. „Oberton“. Die Dauer dieses Status verringert sich zu Beginn jeder ihrer Rd. um 1. Wenn Ruan Mei Oberton besitzt, wird der SCH aller Verbündeten um <span style=\"color: #f29e38ff\">{1}</span> und die Schwächebruch-Effizienz aller Verbündeten um {2} erhöht.",
+      "values": [
+        [
+          16,
+          17.6,
+          19.2,
+          20.8,
+          22.4,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33.6,
+          35.2,
+          36.8,
+          38.4,
+          40
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Blütenblätter im Wasserwirbel",
+      "desc": "Ruan Mei erzeugt ein Feld, das für {2} Rd. anhält. Die Dauer dieses Felds verringert sich jeweils zu Beginn ihrer Rd. um 1.\\nWährend das Feld aktiv ist, wird die WDS-DUR aller Typen für alle Verbündeten um <span style=\"color: #f29e38ff\">{1}</span> erhöht. Weiterhin wird nach einem Angriff eines Verbündeten dem Ziel „Überreife“ zugefügt.\\nÜberreife wird ausgelöst, wenn der Gegner versucht, sich von einem Schwächebruch zu erholen. Sein Schwächebruch wird verlängert und seine Aktion um {3} von Ruan Meis Brucheffekt plus {4} verzögert. Weiterhin erleidet der Gegner Bruch-SCH in Höhe von <span style=\"color: #f29e38ff\">{5}</span> von Ruan Meis Eis-Bruch-SCH.\\nGegner, die sich noch nicht von ihrem Schwächebruch erholt haben, können nicht erneut mit Überreife belegt werden.",
+      "values": [
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21.3,
+          22.5,
+          23.8,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          2
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ],
+        [
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Gespaltene Spirale",
+      "desc": "Erhöht die GES aller Verbündeten außer der eigenen um <span style=\"color: #f29e38ff\">{1}</span>. Wenn Verbündete bei einem Gegner Schwächebruch verursachen, fügt Ruan Mei diesem Gegner Bruch-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> ihres Eis-Bruch-SCH zu.",
+      "values": [
+        [
+          8,
+          8.2,
+          8.4,
+          8.6,
+          8.8,
+          9,
+          9.3,
+          9.5,
+          9.7,
+          10,
+          10.2,
+          10.4,
+          10.6,
+          10.8,
+          11
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          97.5,
+          105,
+          112.5,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Wisch die Zither, streich die Ärmel",
+      "desc": "Nach dem Einsatz der Technik wird „Wisch die Zither, streich die Ärmel“ erhalten. Beim nächsten Kampfbeginn wird automatisch {1}-mal Ruan Meis Fertigkeit ausgelöst. Dieser Effekt verbraucht keine Fertigkeitspunkte.\\nWenn Ruan Mei in der Universum-Simulation Wisch die Zither, streich die Ärmel besitzt und Verbündete Gegner angreifen, um einen Kampf zu beginnen, wird dies als Angriff auf die Schwäche der Gegner betrachtet und ungeachtet ihres Schwächetyps der Widerstand aller Gegner reduziert. Wenn so Schwächebruch verursacht wird, entspricht der Effekt dem jeweiligen Typ des Angreifers. Mit jedem Segen im Besitz (bis zu max. {4} Segen) wird der SCH der WDS-Reduzierung dieses Angriffs um {2} erhöht. Wenn der Angriff beim Gegner Schwächebruch verursacht, erleidet er zusätzlich Bruch-SCH in Höhe von {3} von Ruan Meis Eis-Bruch-SCH.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
         "[i]%",
         "[i]"
       ]

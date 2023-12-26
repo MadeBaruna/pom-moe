@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "La forma original vidyadhara de Dan Heng contiene el poder que queda de su vida anterior como Imbibitor Lunae.\\nAl aceptar la majestuosa corona de astas, también tiene que adoptar todos los méritos y las faltas atribuidos a ese pecador."
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "Xueyi",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Jueza de la Comisión de los Diez Líderes, que controla la vida y la muerte en el Luofu de Xianzhou.\\nLleva muerta muchos años, pero volvió al mundo en el cuerpo de una marioneta para cumplir con su misión."
+  },
   "hanya": {
     "id": "hanya",
     "name": "Hanya",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "Un clásico caballero de los Caballeros de la Belleza que busca piadosamente a su Eón desaparecido, Idrila, la Belleza.\\nEs franco y cándido y vaga por el cosmos propugnando las virtudes del buen nombre de Idrila."
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "Ruan Mei",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Miembro del Círculo de Genios y experta en las ciencias de la vida. Colaboró con Herta y el resto de genios para desarrollar el Universo Simulado."
   },
   "trailblazer": {
     "id": "trailblazer",

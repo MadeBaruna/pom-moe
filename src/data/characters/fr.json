@@ -5,7 +5,7 @@
     "path": "preservation",
     "element": "ice",
     "rarity": 4,
-    "background": "Une jeune fille qui sommeillait autrefois dans la glace éternelle et ignore tout de son passé.\\nPour découvrir la vérité à propos de ses origines, elle a choisi de voyager à bord de l'Astral Express.\\nÀ ce jour, elle s'est inventé pas loin de <unbreak>67</unbreak> versions différentes de sa propre vie."
+    "background": "Une jeune fille qui sommeillait autrefois dans la glace éternelle et ignore tout de son passé.\\nPour découvrir la vérité à propos de ses origines, elle a choisi de voyager à bord de l'Astral Express.\\nÀ ce jour, elle s'est inventé pas loin de <unbreak>67</unbreak> versions différentes de sa propre vie."
   },
   "dan-heng": {
     "id": "dan-heng",
@@ -161,7 +161,7 @@
   },
   "topaz-numby": {
     "id": "topaz-numby",
-    "name": "Topaz et Compti",
+    "name": "Topaz & Compti",
     "path": "the-hunt",
     "element": "fire",
     "rarity": 5,
@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "La forme originelle de Dan Heng, reflet de son héritage vidyadharien, déploie la puissance résiduelle de son incarnation passée : l'Imbibitor Lunae.\\nEn acceptant les majestueuses cornes qui habillent son crâne, Dan Heng doit accepter tous les mérites et toutes les fautes attribués à ce pécheur."
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "Xueyi",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Juge de la Commission des dix seigneurs qui contrôle la vie et la mort à bord du Luofu.\\nÀ la suite de sa propre mort, elle a pris possession d'un autre corps pour retourner dans le monde des vivants accomplir sa mission."
+  },
   "hanya": {
     "id": "hanya",
     "name": "Hanya",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "Un chevalier des Chevaliers de la Beauté, dont la quête pieuse est de retrouver l'Aiôn disparu, Idrila la Beauté.\\nFranc et candide, il erre à travers l'espace, défendant les vertus prônées par Idrila."
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "Ruan Mei",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Une membre de la Société des génies experte en sciences de la vie. Elle a collaboré avec Herta et d'autres génies pour développer l'Univers simulé."
   },
   "trailblazer": {
     "id": "trailblazer",

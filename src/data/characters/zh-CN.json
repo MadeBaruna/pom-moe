@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "丹恒身为持明族的本相，其上一世「饮月君」所遗存的力量。\\n接受了额顶的峥嵘角冠，就要接受那罪人所立的一切功过。"
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "雪衣",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "仙舟「罗浮」上监察生死的机构「十王司」的判官。\\n早已身死道消多年，借偃偶身躯「还阳」，履行使命。"
+  },
   "hanya": {
     "id": "hanya",
     "name": "寒鸦",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。\\n为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉的美名。"
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "阮•梅",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "天才俱乐部会员，生命科学领域专家，与黑塔等人联手研发模拟宇宙。"
   },
   "trailblazer": {
     "id": "trailblazer",

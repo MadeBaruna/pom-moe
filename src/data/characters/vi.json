@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "Nguyên trạng thật sự của Dan Heng tộc Vidyadhara, mang trên người sức mạnh Ẩm Nguyệt Quân để lại.\\nKhi tiếp nhận chiếc sừng uy nghiêm trên đỉnh trán, anh ấy phải tiếp nhận tất cả công và tội một đời của tội nhân này."
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "Xueyi",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Phán quan của \"Sở Thập Vương\", cơ quan giám sát sinh tử ở Xianzhou Luofu.\\nVốn đã mất từ nhiều năm, mượn cơ thể con rối để \"hoàn dương\" và thực hiện sứ mệnh."
+  },
   "hanya": {
     "id": "hanya",
     "name": "Hanya",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "Kỵ sĩ cổ điển của Đội Kỵ Sĩ Đẹp Thuần Khiết, thành kính tín ngưỡng Aeon \"Đẹp Thuần Khiết\" Idrila đã mất tích.\\nNgay thẳng chính trực, chu du khắp vũ trụ, ca ngợi vẻ đẹp của Idrila."
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "Ruan Mei",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Hội viên Câu Lạc Bộ Thiên Tài, chuyên gia trong lĩnh vực khoa học sinh mệnh, cùng hợp tác với nhóm người Herta phát triển Vũ Trụ Mô Phỏng."
   },
   "trailblazer": {
     "id": "trailblazer",

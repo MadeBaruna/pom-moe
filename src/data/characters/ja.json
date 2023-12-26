@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "持明族としての丹恒の本相、その前世である「飲月君」が残した力。\\n崢嶸たる角冠を受け継いだ以上、咎人の功罪をすべて受け継がなければならない。"
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "雪衣",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "仙舟「羅浮」で生死を監察する機構「十王司」の判官。\\nその身が死んでから長い時が経つが、人形の体を借りて「還陽」し、使命を全うする。"
+  },
   "hanya": {
     "id": "hanya",
     "name": "寒鴉",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。\\n正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。"
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "ルアン・メェイ",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "天才クラブのメンバー、生命科学の専門家。ヘルタたちと協力して模擬宇宙を開発した。"
   },
   "trailblazer": {
     "id": "trailblazer",

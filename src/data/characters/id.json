@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "Wujud asli Dan Heng dari ras Vidyadhara, yang memiliki sisa kekuatan \"Imbibitor Lunae\" di kehidupan sebelumnya.\\nSaat dirinya menerima mahkota tanduk yang agung di atas kepalanya, dia juga harus menerima semua jasa dan dosa yang ditinggalkan sang penjahat."
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "Xueyi",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Hakim dari \"Ten-Lords Commission\" yang mengawasi hidup dan mati di \"Luofu\".\\nBertahun-tahun setelah kematiannya, dia kembali ke dunia untuk memenuhi misinya dengan \"tubuh boneka\"."
+  },
   "hanya": {
     "id": "hanya",
     "name": "Hanya",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "Seorang kesatria klasik dari \"Knight of Beauty\" yang mengagumi Idrila, Aeon \"Beauty\" yang hilang.\\nOrangnya jujur dan berintegritas, dia mengembara di alam semesta, dan menyebarkan keindahan nama Idrila."
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "Ruan Mei",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Seorang anggota Genius Society dan ahli bidang ilmu kehidupan. Dia bekerja sama dengan Herta dan timnya untuk mengembangkan Simulated Universe."
   },
   "trailblazer": {
     "id": "trailblazer",

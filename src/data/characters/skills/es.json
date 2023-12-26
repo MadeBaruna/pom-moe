@@ -2796,7 +2796,7 @@
     },
     "skill": {
       "name": "Amor que rebota",
-      "desc": "Inflige un <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Sampo como Daño de Viento a un enemigo. También inflige daño {1} veces más, y cada vez inflige un Daño de Viento equivalente al <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Sampo a un enemigo al azar.",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Sampo como Daño de Viento a un enemigo. También inflige daño {1} veces más, y cada vez inflige un Daño de Viento equivalente al <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Sampo a un enemigo al azar.",
       "values": [
         [
           4
@@ -6395,6 +6395,186 @@
       ]
     }
   },
+  "xueyi": {
+    "attack": {
+      "name": "Azote de Mara",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Xueyi como Daño Cuántico a un enemigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Aniquilación del mal",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Xueyi como Daño Cuántico a un enemigo y un <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Xueyi como Daño Cuántico a los enemigos adyacentes.",
+      "values": [
+        [
+          70,
+          77,
+          84,
+          91,
+          98,
+          105,
+          114,
+          122,
+          131,
+          140,
+          147,
+          154,
+          161,
+          168,
+          175
+        ],
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Castigo divino",
+      "desc": "Inflige un Daño Cuántico equivalente al <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Xueyi a un enemigo. Este ataque ignora los tipos de Debilidad y consume la Firmeza del objetivo. Al romper la Debilidad, se activa el efecto de Ruptura Cuántica.\\nDurante este ataque, cuanta más Firmeza consuma, más daño inflige, hasta un aumento máximo de un <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          150,
+          160,
+          170,
+          180,
+          190,
+          200,
+          212,
+          225,
+          238,
+          250,
+          260,
+          270,
+          280,
+          290,
+          300
+        ],
+        [
+          0.09000000008381903,
+          0.09599999967031181,
+          0.10199999995529652,
+          0.1079999995417893,
+          0.113999999826774,
+          0.12000000011175871,
+          0.12749999994412065,
+          0.13499999977648258,
+          0.14250000030733645,
+          0.1500000001396984,
+          0.15599999972619116,
+          0.16200000001117587,
+          0.16799999959766865,
+          0.17399999988265336,
+          0.18000000016763806
+        ],
+        [
+          36,
+          38.4,
+          40.8,
+          43.2,
+          45.6,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62.4,
+          64.8,
+          67.2,
+          69.6,
+          72
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[f1]%"
+      ]
+    },
+    "talent": {
+      "name": "Perpetuación kármica",
+      "desc": "Xueyi acumula Karma cuando su ataque consume la Firmeza del enemigo. Cuanta más Firmeza consuma, más Karma acumulará, hasta un máximo de {1} acumulaciones.\\nCuando un aliado de Xueyi ataca y consume la Firmeza del enemigo, Xueyi obtiene {3} acumulación de Karma.\\nCuando las acumulaciones de Karma llegan al máximo, las consume todas y lanza un <u>ataque adicional</u> a un enemigo que inflige daño 3 veces. Cada vez inflige a un enemigo al azar un Daño Cuántico equivalente al <span style=\"color: #f29e38ff\">{2}</span> del ATQ de Xueyi. Este ataque adicional no acumula Karma.",
+      "values": [
+        [
+          8
+        ],
+        [
+          45,
+          50,
+          54,
+          59,
+          63,
+          68,
+          73,
+          79,
+          84,
+          90,
+          95,
+          99,
+          103,
+          108,
+          112
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Ejecución sumaria",
+      "desc": "Ataca inmediatamente a un enemigo y entra en combate. Inflige un {1} del ATQ de Xueyi como Daño Cuántico a todos los enemigos.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "hanya": {
     "attack": {
       "name": "Pincel del oráculo",
@@ -6864,7 +7044,7 @@
     },
     "talent": {
       "name": "Objeto sublime",
-      "desc": "Por cada enemigo que golpee con su ATQ básico, habilidad básica o habilidad definitiva, Argenti recupera {1} pts. de energía y obtiene 1 acumulación de Elevación. Además, su Prob. CRIT aumenta en un <span style=\"color: #f29e38ff\">{2}</span>. Este efecto se puede acumular hasta {3} veces.",
+      "desc": "Por cada enemigo que golpee con su ATQ básico, habilidad básica o habilidad definitiva, Argenti recupera {1} pts. de energía y obtiene 1 acumulación de Elevación, que aumenta su Prob. CRIT en un <span style=\"color: #f29e38ff\">{2}</span>. Este efecto se puede acumular hasta {3} veces.",
       "values": [
         [
           3
@@ -6924,7 +7104,7 @@
     },
     "undefined": {
       "name": "Mérito otorgado en \"mi\" jardín",
-      "desc": "Consume {4} pts. de energía e inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Argenti como Daño Físico a todos los enemigos. Además, inflige daño {2} veces más, y cada vez inflige un Daño Físico equivalente al <span style=\"color: #f29e38ff\">{3}</span> del ATQ de Argenti a un enemigo al azar.",
+      "desc": "Consume {4} pts. de energía e inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Argenti como Daño Físico a todos los enemigos. Además, inflige daño {2} veces más, y cada vez inflige un Daño Físico equivalente al <span style=\"color: #f29e38ff\">{3}</span> del ATQ de Argenti a un enemigo al azar.",
       "values": [
         [
           168,
@@ -6970,6 +7150,192 @@
       "format": [
         "[i]%",
         "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "ruan-mei": {
+    "attack": {
+      "name": "Aguja de orquídea",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Ruan Mei como Daño de Hielo a un enemigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Las cuerdas cantan con giros suaves",
+      "desc": "Tras usar su habilidad básica, Ruan Mei obtiene Sobretono durante {3} turnos. Esta duración se reduce en 1 al comienzo del turno de Ruan Mei. Cuando Ruan Mei tiene Sobretono, el daño de todos los aliados aumenta en un <span style=\"color: #f29e38ff\">{1}</span> y la eficiencia de la Ruptura de Debilidad aumenta en un {2}.",
+      "values": [
+        [
+          16,
+          17.6,
+          19.2,
+          20.8,
+          22.4,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33.6,
+          35.2,
+          36.8,
+          38.4,
+          40
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Flor delicada sobre el agua",
+      "desc": "Ruan Mei crea un campo que dura {2} turnos. Al comienzo de cada turno de Ruan Mei, los turnos del campo disminuyen en 1.\\nDentro del campo, la PEN de la RES a todos los tipos de todos los aliados aumenta en un <span style=\"color: #f29e38ff\">{1}</span> y los ataques aplican al enemigo golpeado Flores de ciruelo rotas.\\nFlores de ciruelo rotas se activará cuando el objetivo enemigo intente recuperarse del estado de Ruptura de Debilidad. Esto prolongará dicho estado y retrasará su acción en una cantidad equivalente al {3} del efecto de Ruptura de Ruan Mei + {4}. Además, inflige un <span style=\"color: #f29e38ff\">{5}</span> del Daño de Ruptura de Hielo de Ruan Mei como Daño de Ruptura.\\nEl objetivo enemigo no puede volver a ser afectado por Flores de ciruelo rotas hasta que no se recupere del estado de Ruptura de Debilidad.",
+      "values": [
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21.3,
+          22.5,
+          23.8,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          2
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ],
+        [
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Espiral somatotípica",
+      "desc": "La VEL de todos los aliados (excepto Ruan Mei) aumenta en un <span style=\"color: #f29e38ff\">{1}</span>. Cuando los aliados rompen la Debilidad de un enemigo, Ruan Mei le inflige un <span style=\"color: #f29e38ff\">{2}</span> de su Daño de Ruptura de Hielo como Daño de Ruptura.",
+      "values": [
+        [
+          8,
+          8.2,
+          8.4,
+          8.6,
+          8.8,
+          9,
+          9.3,
+          9.5,
+          9.7,
+          10,
+          10.2,
+          10.4,
+          10.6,
+          10.8,
+          11
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          97.5,
+          105,
+          112.5,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Serenata sedosa",
+      "desc": "Tras usar la técnica, obtiene Serenata sedosa. Al comenzar la siguiente batalla, se activa automáticamente {1} vez la habilidad básica sin consumir pts. de habilidad básica.\\nEn el Universo Simulado, cuando Ruan Mei tiene Serenata sedosa, si un aliado ataca de forma proactiva a un enemigo, se considerará como atacar su Debilidad para entrar en combate. Además, este ataque ignora el tipo de Debilidad y reduce la Firmeza de todos los enemigos. Al romper la Debilidad, se activa el efecto de Ruptura de Debilidad del tipo correspondiente del atacante. Por cada bendición que tengas (hasta un máximo de {4}), el daño a la Firmeza que inflige este ataque aumenta en un {2} adicional. Tras romper la Debilidad del enemigo, Ruan Mei le inflige de forma adicional un Daño de Ruptura equivalente al {3} de su Daño de Ruptura de Hielo.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
         "[i]%",
         "[i]"
       ]

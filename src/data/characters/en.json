@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae.\\nUpon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner."
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "Xueyi",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Judge of the Ten-Lords Commission, which presides over the jurisdiction of life and death on the Luofu.\\nFor years after her death, she inhabited a puppet body and returned to the world to fulfill her mission."
+  },
   "hanya": {
     "id": "hanya",
     "name": "Hanya",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"\\nForthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "Ruan Mei",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "A member of the Genius Society and an expert in life sciences. She teamed up with Herta and others to develop the Simulated Universe."
   },
   "trailblazer": {
     "id": "trailblazer",

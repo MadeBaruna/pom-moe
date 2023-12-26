@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "단항의 비디아다라족으로서의 본모습, 전생의 「음월군」이 남긴 힘.\\n이맛전의 각관을 받으면 그 죄인의 모든 공과를 이어받아야 한다"
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "설의",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "선주 「나부」의 생사를 감찰하는 기관 「시왕사」의 판관.\\n이미 죽은 지 오래지만, 인형의 몸을 빌려 「환생」하여 사명을 이행한다"
+  },
   "hanya": {
     "id": "hanya",
     "name": "한아",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "「미(美)의 기사단」의 고전적인 기사. 실종된 「미」의 에이언즈 이드릴라를 경건한 마음으로 흠모하고 있다.\\n정직하고 당당하며, 우주를 유람하면서 이드릴라의 명성을 널리 알린다"
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "완•매",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "지니어스 클럽 회원이자 생명과학 분야의 전문가로, 헤르타 일행과 함께 시뮬레이션 우주를 연구하고 있다"
   },
   "trailblazer": {
     "id": "trailblazer",

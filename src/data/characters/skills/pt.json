@@ -160,7 +160,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -320,7 +320,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -468,7 +468,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -650,7 +650,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -872,7 +872,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1148,13 +1148,13 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Fechar o Programa",
-      "desc": "Ataca o inimigo imediatamente. Após entrar na batalha, causa Dano Quântico igual a {1} do ATQ da Loba Prateada a todos os inimigos, ignora os Tipos de Fraqueza e reduz a Tenacidade de todos os inimigos. Inimigos com suas Fraquezas Quebradas desta forma ativarão o efeito de Quebra de Fraqueza contra Dano Quântico.",
+      "desc": "Ataca o inimigo imediatamente. Após entrar na batalha, causa Dano Quântico igual a {1} do ATQ da Loba Prateada a todos os inimigos, ignora os Tipos de Fraqueza e reduz a Tenacidade de todos os inimigos. Inimigos com suas Fraquezas Quebradas desta forma ativarão o efeito de Quebra de Fraqueza contra Quântico.",
       "values": [
         [
           80
@@ -1288,7 +1288,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1384,7 +1384,7 @@
     },
     "talent": {
       "name": "Astrometria",
-      "desc": "Ganha 1 acúmulo de Carga para cada inimigo diferente que Asta atingir, além de um acúmulo extra se o inimigo atingido tiver Fraqueza de Fogo.\\nPara cada acúmulo de Carga que Asta tiver, aumenta em <span style=\"color: #f29e38ff\">{1}</span> o ATQ de todos os aliados, até {2} vez(es).\\nA partir da segunda rodada, reduz em {3} a contagem de acúmulos de Carga de Asta no início de cada rodada.",
+      "desc": "Ganha 1 acúmulo de Carga para cada inimigo diferente que Asta atingir, além de um acúmulo extra se o inimigo atingido tiver Fraqueza contra Fogo.\\nPara cada acúmulo de Carga que Asta tiver, aumenta em <span style=\"color: #f29e38ff\">{1}</span> o ATQ de todos os aliados, até {2} vez(es).\\nA partir da segunda rodada, reduz em {3} a contagem de acúmulos de Carga de Asta no início de cada rodada.",
       "values": [
         [
           7,
@@ -1418,7 +1418,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1548,7 +1548,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1722,7 +1722,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -1856,7 +1856,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2022,7 +2022,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2200,7 +2200,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2406,7 +2406,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2566,7 +2566,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2752,7 +2752,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -2916,7 +2916,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -3072,7 +3072,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -3414,7 +3414,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -3596,7 +3596,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -3802,7 +3802,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -3932,7 +3932,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -4130,7 +4130,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -4304,7 +4304,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -4444,7 +4444,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -4694,7 +4694,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -4928,7 +4928,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -5094,7 +5094,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -5272,7 +5272,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -5492,7 +5492,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -5700,7 +5700,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -5932,7 +5932,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -6118,7 +6118,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -6338,7 +6338,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -6395,6 +6395,186 @@
       ]
     }
   },
+  "xueyi": {
+    "attack": {
+      "name": "Sovela Quebra-mara",
+      "desc": "Causa <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Xueyi como Dano Quântico a um único inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Obliteração de Iniquidade",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Xueyi a um único inimigo e <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Xueyi como Dano Quântico aos inimigos adjacentes.",
+      "values": [
+        [
+          70,
+          77,
+          84,
+          91,
+          98,
+          105,
+          114,
+          122,
+          131,
+          140,
+          147,
+          154,
+          161,
+          168,
+          175
+        ],
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Castigo Divino",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Xueyi a um único inimigo-alvo. Este ataque ignora os Tipos de Fraqueza e reduz a Tenacidade do inimigo. Quando o inimigo sofrer a Quebra de Fraqueza, o efeito Quebra de Fraqueza contra Quântico é ativado.\\nNeste ataque, quanto mais Tenacidade for reduzida, maior será o Dano causado, até um máximo de <span style=\"color: #f29e38ff\">{3}</span> de aumento.",
+      "values": [
+        [
+          150,
+          160,
+          170,
+          180,
+          190,
+          200,
+          212,
+          225,
+          238,
+          250,
+          260,
+          270,
+          280,
+          290,
+          300
+        ],
+        [
+          0.09000000008381903,
+          0.09599999967031181,
+          0.10199999995529652,
+          0.1079999995417893,
+          0.113999999826774,
+          0.12000000011175871,
+          0.12749999994412065,
+          0.13499999977648258,
+          0.14250000030733645,
+          0.1500000001396984,
+          0.15599999972619116,
+          0.16200000001117587,
+          0.16799999959766865,
+          0.17399999988265336,
+          0.18000000016763806
+        ],
+        [
+          36,
+          38.4,
+          40.8,
+          43.2,
+          45.6,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62.4,
+          64.8,
+          67.2,
+          69.6,
+          72
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "",
+        "[f1]%"
+      ]
+    },
+    "talent": {
+      "name": "Perpetuação Cármica",
+      "desc": "Quando Xueyi reduz a Tenacidade do inimigo com seus ataques, ela acumula Karma. Quando mais a Tenacidade é reduzida, mais acúmulos de Karma são adicionados, até {1} acúmulos.\\nQuando os aliados de Xueyi reduzem a Tenacidade do inimigo com seus ataques, Xueyi ganha {3} acúmulos de Karma.\\nQuando o Karma atingir o número máximo de acúmulos e consumir todos os acúmulos de Karma atuais, imediatamente lança um <u>Ataque Extra</u> contra um inimigo-alvo, causando Dano por 3 vezes, com cada vez causando Dano Quântico igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Xueyi a um único inimigo aleatório. Este Ataque Extra não pode adicionar acúmulos de Karma.",
+      "values": [
+        [
+          8
+        ],
+        [
+          45,
+          50,
+          54,
+          59,
+          63,
+          68,
+          73,
+          79,
+          84,
+          90,
+          95,
+          99,
+          103,
+          108,
+          112
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Execução Sumária",
+      "desc": "Ataca o inimigo imediatamente. Depois de entrar no combate, causa {1} do ATQ de Xueyi como Dano Quântico a todos os inimigos.",
+      "values": [
+        [
+          80
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "hanya": {
     "attack": {
       "name": "Pincel do Oráculo",
@@ -6418,7 +6598,7 @@
     },
     "skill": {
       "name": "Samsara, Bloqueada",
-      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Hanya a um único inimigo, então aplica Fardo a ele.\\nA cada 2 ATQs Básicos, Perícias ou Perícias Supremas utilizados por aliados em um inimigo com Fardo, aliados recuperam imediatamente 1 Ponto de Perícia. Fardo só fica ativo no último alvo em que foi aplicado, e será removido automaticamente depois que o efeito de recuperação de Ponto de Perícia for ativado {2} vezes.",
+      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Hanya a um único inimigo-alvo, então aplica Fardo a ele.\\nA cada 2 ATQs Básicos, Perícias ou Perícias Supremas utilizados por aliados em um inimigo com Fardo, aliados recuperam imediatamente 1 Ponto de Perícia. Fardo só fica ativo no último alvo em que foi aplicado, e será removido automaticamente depois que o efeito de recuperação de Ponto de Perícia for ativado {2} vezes.",
       "values": [
         [
           120,
@@ -6496,7 +6676,7 @@
     },
     "talent": {
       "name": "Sanção",
-      "desc": "Quando um aliado usa um ATQ Básico, uma Perícia ou uma Perícia Suprema em um inimigo afligido com Fardo, o Dano causado aumenta em <span style=\"color: #f29e38ff\">{1}</span> por {2} rodada(s).",
+      "desc": "Quando um aliado usa um ATQ Básico, uma Perícia ou uma Perícia Suprema em um inimigo afligido com Fardo, o Dano causado aumenta em <span style=\"color: #f29e38ff\">{1}</span> durando por {2} rodada(s).",
       "values": [
         [
           15,
@@ -6526,7 +6706,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -6756,7 +6936,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -6833,7 +7013,7 @@
       ]
     },
     "ultimate": {
-      "name": "Pois Neste Jardim a Beleza Suprema Concede",
+      "name": "Pois Neste Jardim, a Beleza Suprema Concede",
       "desc": "Consome {2} de Energia e causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Argenti a todos os inimigos.",
       "values": [
         [
@@ -6864,7 +7044,7 @@
     },
     "talent": {
       "name": "Objeto Sublime",
-      "desc": "Para cada inimigo atingido quando Argenti usa seu ATQ Básico, Perícia ou Perícia Suprema, regenera a Energia de Argenti em {1}, e concede a ele um acúmulo de Ascender, além de aumentar sua Chance de CRIT em <span style=\"color: #f29e38ff\">{2}</span>. Este efeito pode acumular até {3} vez(es).",
+      "desc": "Para cada inimigo atingido quando Argenti usa seu ATQ Básico, Perícia ou Perícia Suprema, regenera a Energia de Argenti em {1}, e concede a ele um acúmulo de Apoteose, além de aumentar sua Chance de CRIT em <span style=\"color: #f29e38ff\">{2}</span>. Este efeito pode acumular até {3} vez(es).",
       "values": [
         [
           3
@@ -6898,7 +7078,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },
@@ -6970,6 +7150,192 @@
       "format": [
         "[i]%",
         "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "ruan-mei": {
+    "attack": {
+      "name": "Fios de Perfume",
+      "desc": "Causa Dano de Gelo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Ruan Mei a um único inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Cordas Cantam Lentos Sons",
+      "desc": "Após usar sua Perícia, Ruan Mei ganha Tom Acima, durando por {3} rodada(s). Essa duração diminui em 1 no início da rodada de Ruan Mei. Quando Ruan Mei possui Tom Acima, o Dano de todos os aliados é aumentado em <span style=\"color: #f29e38ff\">{1}</span> e a Eficiência de Quebra de Fraqueza deles aumenta em {2}.",
+      "values": [
+        [
+          16,
+          17.6,
+          19.2,
+          20.8,
+          22.4,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33.6,
+          35.2,
+          36.8,
+          38.4,
+          40
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Pétalas na Corrente, Repouso Indolente",
+      "desc": "Ruan Mei implanta um campo que dura por {2} rodadas. A duração do campo diminui em 1 no início da rodada dela.\\nEnquanto estiver dentro do campo, a PEN de RES a Todos os Tipos de todos os aliados aumenta em <span style=\"color: #f29e38ff\">{1}</span> e os ataques deles aplicam Reflorescer da Ameixa aos inimigos atingidos.\\nQuando esses inimigos tentam se recuperar da Quebra de Fraqueza, Reflorescer da Ameixa é ativado, estendendo a duração da sua Quebra de Fraqueza, atrasando sua ação em uma quantidade igual a {3} do Efeito de Quebra de Ruan Mei + {4}, e causando Dano de Quebra igual a <span style=\"color: #f29e38ff\">{5}</span> do Dano de Quebra de Gelo de Ruan Mei.\\nReflorescer da Ameixa não pode ser aplicado novamente aos inimigos-alvo até eles se recuperarem da Quebra de Fraqueza.",
+      "values": [
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21.3,
+          22.5,
+          23.8,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          2
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ],
+        [
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          43,
+          45,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Hélice Somatotípica",
+      "desc": "Aumenta a VEL em <span style=\"color: #f29e38ff\">{1}</span> para a equipe (excluindo este personagem). Quando os aliados aplicam Quebra de Fraqueza a um inimigo-alvo, Ruan Mei causa Dano de Quebra a esse inimigo igual a <span style=\"color: #f29e38ff\">{2}</span> de seu Dano de Quebra de Gelo.",
+      "values": [
+        [
+          8,
+          8.2,
+          8.4,
+          8.6,
+          8.8,
+          9,
+          9.3,
+          9.5,
+          9.7,
+          10,
+          10.2,
+          10.4,
+          10.6,
+          10.8,
+          11
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          97.5,
+          105,
+          112.5,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Serenata de Seda",
+      "desc": "Depois de usar a Técnica, ganha Serenata de Seda. No início da próxima batalha, ativa automaticamente a Perícia {1} vez(es) sem consumir Pontos de Perícia.\\nNo Universo Simulado, quando Ruan Mei possuir Serenata de Seda, a equipe atacando inimigos será considerada como se sempre estivesse atacando sua Fraqueza para entrar em batalha, e este ataque pode reduzir a Tenacidade de todos os inimigos independente dos Tipos de Fraqueza. Ao aplicar Quebra de Fraqueza, ativa o Efeito de Quebra de Fraqueza correspondente ao Tipo do atacante. Para cada Bênção em posse (até {4} Bênçãos), adicionalmente aumenta o Dano de Redução de Tenacidade deste ataque em {2}. Após aplicar a Quebra de Fraqueza a um inimigo-alvo, causa adicionalmente Dano de Quebra igual a {3} do Dano de Quebra de Gelo de Ruan Mei ao inimigo-alvo.",
+      "values": [
+        [
+          1
+        ],
+        [
+          100
+        ],
+        [
+          100
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
         "[i]%",
         "[i]"
       ]
@@ -7128,7 +7494,7 @@
     },
     "mazeattack": {
       "name": "Ataque",
-      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do Tipo correspondente do inimigo-alvo.",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
       "values": [],
       "format": []
     },

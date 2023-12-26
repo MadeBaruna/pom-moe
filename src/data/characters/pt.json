@@ -69,7 +69,7 @@
     "path": "erudition",
     "element": "ice",
     "rarity": 4,
-    "background": "Membro nº <unbreak>83</unbreak> da Sociedade de Gênios e verdadeira dona da Estação Espacial.\\nUma cientista incrivelmente inteligente, mas não tem muita empatia."
+    "background": "Membro n.º <unbreak>83</unbreak> da Sociedade de Gênios e verdadeira dona da Estação Espacial.\\nUma cientista incrivelmente inteligente, mas não tem muita empatia."
   },
   "bronya": {
     "id": "bronya",
@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "A forma verdadeira de Dan Heng de sua linhagem Vidyadhara carrega o poder residual deixado pela sua encarnação passada, o Embebidor Lunae.\\nAo aceitar os majestosos chifres sobre sua coroa, ele deve aceitar todos os méritos e falhas atribuídos a esse pecador."
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "Xueyi",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Juíza da Comissão dos Dez Senhores, que preside a jurisdição de vida e morte no Luofu.\\nPor anos depois de sua morte, ela habitou o mundo dos vivos no corpo de um fantoche para concluir sua missão."
+  },
   "hanya": {
     "id": "hanya",
     "name": "Hanya",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "Um cavaleiro clássico dos \"Cavaleiros da Beleza\" que busca piamente por seu Aeon perdido, Idrila, \"a Beleza\".\\nDireto e franco, ele vaga pelo cosmos defendendo as virtudes do bom nome de Idrila."
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "Ruan Mei",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Uma membro da Sociedade de Gênios e especialista em ciências da vida. Ela se uniu à Herta e aos outros para desenvolver o Universo Simulado."
   },
   "trailblazer": {
     "id": "trailblazer",

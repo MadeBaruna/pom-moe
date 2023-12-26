@@ -271,6 +271,14 @@
     "rarity": 5,
     "background": "Dan Hengs wahre Form aus seiner Vidyadhara-Abstammung trägt die verbleibenden Kräfte seiner letzten Wiedergeburt Imbibitor Lunae in sich.\\nBei Annahme seiner Krone aus majestätischen Hörnern muss er alle Vorzüge und Fehler hinnehmen, die mit diesem Sünder in Verbindung stehen."
   },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "Xueyi",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "Richterin der Zehn-Fürsten-Kommission, die auf der Xianzhou Luofu über Leben und Tod entscheidet.\\nIhr Körper starb schon vor vielen Jahren. Sie hat einen Marionettenkörper, mit dem sie in die Welt zurückkehren kann, um ihre Mission zu erfüllen."
+  },
   "hanya": {
     "id": "hanya",
     "name": "Hanya",
@@ -294,6 +302,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "Ein klassischer „Ritter der Schönheit“ auf frommer Suche nach seinem vermissten Äon, Idrila der „Schönheit“.\\nOffen wandert er durch den Kosmos und vertritt Idrilas Tugenden und ihren guten Namen."
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "Ruan Mei",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "Ein Mitglied der Geniusgesellschaft und Expertin im Bereich Lebenswissenschaft. Sie hat zusammen mit Herta und den anderen die Universum-Simulation entwickelt."
   },
   "trailblazer": {
     "id": "trailblazer",
