@@ -116,7 +116,7 @@
       },
       {
         "id": 4012302,
-        "name": "Terminei a Corrida",
+        "name": "Eu Terminei a Corrida",
         "desc": "Leve todos os Rastros de um personagem ao nível máximo",
         "rarity": 3,
         "version": "1.0"
@@ -382,6 +382,13 @@
         "desc": "Colete histórias de fantasmas com o Esquadrão Caça-Fantasmas\\n<color=#8790abff>※ Recupere o Rabin e subjugue os Heliobi que escaparam para o Luofu...</color>",
         "rarity": 2,
         "version": "1.5"
+      },
+      {
+        "id": 4032901,
+        "name": "Verso Divino, Recto Mundano",
+        "desc": "Resolva a nova crise na Estação Espacial Herta\\n<color=#8790abff>※ Conclua a Continuidade de Desbravamento \"Coroa do Mundano e do Divino\"</color>",
+        "rarity": 2,
+        "version": "1.6"
       }
     ]
   },
@@ -1827,6 +1834,139 @@
         "desc": "Coletou 24 Heliobi dispersos com a \"MechAve Exorcista\"",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4052901,
+        "name": "Atualização que Nunca Chega",
+        "desc": "Peça mais atualizações de Herta após ver os manuscritos da propaganda dela",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052902,
+        "name": "Escape do Contêiner",
+        "desc": "Seja resgatado por Herta da cápsula experimental na Zona de Reclusão",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052903,
+        "name": "O Lorde do Trono de Ferro",
+        "desc": "Escolha ascender ao \"trono\" na Zona de Reclusão",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052904,
+        "name": "A Mão do Rei",
+        "desc": "Ajude o Perceptor a ascender ao \"trono\" na Zona de Reclusão",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052905,
+        "name": "Cuidador Qualificado",
+        "desc": "Conclua a Missão de Aventura \"Escolha de Criaturas\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052906,
+        "name": "Meu Tamagotchi Está com Fome de Novo",
+        "desc": "Colete todas as criações raras na Escolha de Criaturas",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052907,
+        "name": "A Ajuda de Peppy",
+        "desc": "Ajude Peppy a vencer o debate com o robô de segurança",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052908,
+        "name": "A Arte da Enganação",
+        "desc": "Vença o debate com o mordomo",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052909,
+        "name": "Dedos Verdes",
+        "desc": "Retire as ervas-daninhas da estufa da Zona de Reclusão por um total de três dias",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052910,
+        "name": "O Gato da Cartola",
+        "desc": "Salve as criações presas na \"cidade cercada\" e engolidas pelo monstro",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052911,
+        "name": "A Árvore que Esconde a Floresta",
+        "desc": "Observe a grande tela na Zona de Reclusão com personagens de tamanhos diferentes",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052912,
+        "name": "Fora da Área de Serviço",
+        "desc": "Não seja atendido ao tentar realizar uma comunicação remota com Ruan Mei através do terminal",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052913,
+        "name": "Um Jogador a Menos",
+        "desc": "Posicione 3 Lanchinho(s) da Sorte na mesma área",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052914,
+        "name": "Crianças da Meia-noite",
+        "desc": "Posicione 3 Bolo(s) de Lixo na mesma área",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052915,
+        "name": "As Criações Imitam seu Criador",
+        "desc": "Compartilhe a foto do Amigo de Lambda com Ruan Mei",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052916,
+        "name": "Bom Amigo dos Piratas",
+        "desc": "Conclua a Missão de Aventura \"Decoração Sábia de Youci\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052917,
+        "name": "O Deus das Coisas Pequenas",
+        "desc": "Colete todos os traços de criações no evento \"Escolha de Criaturas\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052918,
+        "name": "Suum Cuique",
+        "desc": "Obtenha a criação rara \"Gatinho de Óculos\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052919,
+        "name": "Manual de Diagnósticos de Doenças Crônicas",
+        "desc": "Colete todos os itens de leitura que contêm mensagens do Dr. Ratio na Zona de Reclusão",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   },
@@ -2093,7 +2233,7 @@
       {
         "id": 4070701,
         "name": "O Outro Gato De Schrödinger",
-        "desc": "Cause 5 Quebras de Fraqueza Quântico em uma única batalha",
+        "desc": "Cause 5 Quebras de Fraqueza contra Quântico em uma única batalha",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2107,7 +2247,7 @@
       {
         "id": 4070703,
         "name": "Imaginário Inimaginável",
-        "desc": "Cause 5 Quebras de Fraqueza Imaginário em uma única batalha",
+        "desc": "Cause 5 Quebras de Fraqueza contra Imaginário em uma única batalha",
         "rarity": 1,
         "version": "1.0"
       },
@@ -2749,11 +2889,25 @@
         "version": "1.5"
       },
       {
+        "id": 4072901,
+        "name": "Na Mais Profunda Treva",
+        "desc": "Depois que a Rei do Enxame Esmagador Estelar utiliza \"Carapaça do Desastre Criado\", inflija Quebra de Fraqueza a ele",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072804,
         "name": "Lago dos Cofrinhos",
         "desc": "Transforme um Cofrinho em um Cofrinho com os exorcismos",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4072902,
+        "name": "Meu Coração e Minhas Ações Estão Completamente Límpidos",
+        "desc": "Na batalha contra Argenti, derrote o Ponta de Lança, o Escudo e o Honrado enquanto eles estiverem no estado de Alma-Liberta",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4072803,
@@ -2763,6 +2917,13 @@
         "version": "1.5"
       },
       {
+        "id": 4072903,
+        "name": "As Coisas que Eu Faço pela Beleza",
+        "desc": "Na batalha contra Argenti, o Ponta de Lança, o Escudo e o Honrado não entraram no estado de Alma-Liberta",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072802,
         "name": "Inferno",
         "desc": "Tenha 4 Proles da Chama no campo simultaneamente durante o desafio \"Labirinto Ilusório: Cirrus\"",
@@ -2770,11 +2931,39 @@
         "version": "1.5"
       },
       {
+        "id": 4072904,
+        "name": "Dupla Dinâmica",
+        "desc": "Vença 1 batalha(s) com uma equipe com Hanya e Xueyi",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072801,
         "name": "Chega Mais! Agora Vaza!",
         "desc": "Use a Técnica de Huohuo \"Demônio: Destituição do Mal\" e faça 6 alvos fugirem simultaneamente",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4072905,
+        "name": "Sou Todo Ouvidos",
+        "desc": "Pare e escute a conversa de Hanya\\n<color=#8790abff>※ Escute todas as falas de inatividade de Hanya e suas falas de ação inativas</color>",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4072906,
+        "name": "Alerta de Gatilho",
+        "desc": "Use a Técnica do Dr. Ratio, Molde da Idolatria, para causar Provocação a 6 ou mais inimigos de uma vez",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4072907,
+        "name": "Corrente Quebra-gente",
+        "desc": "Em uma única batalha, ative o efeito de Ataque Extra do Talento do Dr. Ratio, Cogito Ergo Sum por 4 rodadas consecutivas",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   },
@@ -3662,11 +3851,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092902,
+        "name": "Glória ao Deus Eruditionis",
+        "desc": "No Universo Simulado, desbloqueie 1 Bênção(s) da Erudição",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092602,
         "name": "Jogos Sagazes",
         "desc": "No Universo Simulado: O Desastre do Enxame, capture 8 Cofrinhos ao batalhar no mesmo plano enquanto segue o Caminho da Caça",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092903,
+        "name": "Omnessias",
+        "desc": "Ao concluir o Universo Simulado, tenha 10 ou mais Bênção(s) da Erudição",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092603,
@@ -3676,11 +3879,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092904,
+        "name": "O Teorema das Quatro Cores",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, aplique o efeito de Conhecimento a um total de 200 domínios",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092604,
         "name": "O Predador",
         "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Destruição, conquiste 40 vitórias em batalha",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092905,
+        "name": "O Mundo por Um Fio",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, assista um total de 10 Histórias secretas",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092605,
@@ -3690,11 +3907,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092906,
+        "name": "Só Sei que Tudo Sei",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, a Intracognição alcança 40",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092606,
         "name": "O Universo Simulado Não Foi Feito em um Dia",
         "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Preservação, aplique Alicerce em 8 domínios de tipos diferentes",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092907,
+        "name": "Palidez Mental",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, a Intracognição alcança -40",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092607,
@@ -3704,11 +3935,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092909,
+        "name": "Consciência Coletiva",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, conclua 50 mudanças na Intracognição",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092608,
         "name": "De Volta a Klendathu",
         "desc": "Ao concluir o Universo Simulado: O Desastre do Enxame enquanto segue o Caminho da Propagação, entre no domínio Combate: O Enxame, Ocorrência: O Enxame ou Chefe: O Enxame 15 vezes",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092910,
+        "name": "O Lobo de Astral Street",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, alcance um grande sucesso de investimento na Ocorrência \"Dispositivo de Investimento da Paz Interastral\"",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -3718,11 +3963,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092911,
+        "name": "A Pacífica Segue Sendo a Pacífica",
+        "desc": "No Universo Simulado: Ouro e Engrenagens perca a batalha ativada pela ocorrência do Código de Trapaça (II)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092610,
         "name": "Granizos Espalhados, Fantasmas Despedaçados",
         "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Caça\" por um total de 100 vezes",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092912,
+        "name": "Funcionário de Classe D",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, aprimore uma Curio 1 vez(es) na ocorrência do Shopping da Filial Mecânica da Paz Interastral (II)",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -3732,11 +3991,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092913,
+        "name": "O Sino da Morte de Leibowitz",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, alcance a vitória em 25 ou mais batalhas enquanto usa o Dado Personalizado: Extrapolação de Combate",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092612,
         "name": "O Mundo como Representação",
         "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Inexistência\" por um total de 100 vezes",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092914,
+        "name": "Tau Zero",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, conclua interação de ocorrência 20 ou mais vezes enquanto usa o Dado Personalizado: Extrapolação de Ocorrência",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -3746,11 +4019,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092915,
+        "name": "Planos Mutáveis",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, use o Dado Personalizado: Busca para entrar em 5 ou mais domínios não adjacentes sucessivamente",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092614,
         "name": "Escute, Desperte, Viva",
         "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Abundância\" por um total de 100 vezes",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092916,
+        "name": "Todos os Porcos têm seu Fim",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, derrote ao menos 15 Cofrinhos enquanto usa o Dado Personalizado: Extrapolação de Cofrinho",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -3760,11 +4047,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092917,
+        "name": "Controlador do Porto Estelar",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, entre em ao menos 15 ou mais domínios com um sinalizador enquanto usa o Dado Personalizado: Simbiose de Andarilho",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092616,
         "name": "Filhos de Methuselah",
         "desc": "No Universo Simulado: O Desastre do Enxame, jogue os \"Dados da Audiência: A Propagação\" por um total de 100 vezes",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092918,
+        "name": "Até o Terminus",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, os domínios adentrados com o Dado Personalizado: Sinalizador Ultra-Remoto contêm sinalizadores de todos os tipos diferentes",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -3774,11 +4075,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092919,
+        "name": "O Homem que Vendeu a Lua",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, possua 2048 ou mais Fragmentos Cósmicos usando o Dado Personalizado: Venda de Investimento",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092618,
         "name": "As Estrelas ao seu Alcance",
         "desc": "<u>Maneje poder ilimitado</u> na Saga de Promoção da CPI do Universo Simulado: O Desastre do Enxame",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092920,
+        "name": "Junta de Acionistas da Holding Alcíone",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, aplique o efeito de Conhecimento a 30 ou mais domínios usando o Dado Personalizado: Barreira de Âmbar",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092619,
@@ -3788,11 +4103,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092921,
+        "name": "Tempo para Brincadeiras",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, possua 30 ou mais pontos na contagem regressiva enquanto usa o Dado Personalizado: Contagem Regressiva",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092620,
         "name": "Bem-Vindo à Valhalla",
         "desc": "No Universo Simulado: O Desastre do Enxame, seja derrotado na batalha acionada pelo evento de Yu Qingtu, #55 da Sociedade de Gênios",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092922,
+        "name": "Loja de 1,99 Espacial",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, faça 20 ou mais compras nas lojas de Bênção, Curio ou Aprimoramento enquanto usa o Dado Personalizado: Tempo de Empresa",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092621,
@@ -3802,11 +4131,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092923,
+        "name": "O Comerciante e o Portão do Alquimista",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, use ao menos 25 nova(s) jogada(s) ou tentativa(s) de trapaça enquanto usa o Dado Personalizado: Inflação de Informações",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092622,
         "name": "Colheita Feliz",
         "desc": "No Universo Simulado: O Desastre do Enxame, capture 16 ou mais Cofrinhos em um domínio de Aventura",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092924,
+        "name": "Tesouro de Herta",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, adquira 30 ou mais Curio enquanto usa o Dado Personalizado: Extrapolação de Curio",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -3816,11 +4159,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092925,
+        "name": "Eu Sou Alfa",
+        "desc": "Colete o \"Início\", o Segredo dos Aeons de Ouro e Engrenagens",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092624,
         "name": "Coral de Um",
         "desc": "Gere 2 Interações de Ressonância em uma partida no Universo Simulado: O Desastre do Enxame",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092926,
+        "name": "Eu Sou Ômega",
+        "desc": "Colete o \"Final\", o Segredo dos Aeons de Ouro e Engrenagens",
+        "rarity": 2,
+        "version": "1.6"
       },
       {
         "id": 4092625,
@@ -3830,11 +4187,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092927,
+        "name": "Dado de Sessenta Faces",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, desbloqueie 60 Face(s) do Dado",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092626,
         "name": "Conexão do Destino",
         "desc": "No Universo Simulado: O Desastre do Enxame, conclua todas as Escolha(s) de Caminhos em domínios de Ocorrência",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092928,
+        "name": "Roleta do Destino",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, desbloqueie todos os 12 Dados Personalizados",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -3844,11 +4215,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092929,
+        "name": "Fim do Mundo: Classe XK",
+        "desc": "Conclua o Universo Simulado: Ouro e Engrenagens na Dificuldade V",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092628,
         "name": "De Volta Para o Futuro",
         "desc": "Jogue os dados novamente um total de 50 vezes no Universo Simulado: O Desastre do Enxame",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092930,
+        "name": "Ascensão Mecânica",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, ative o Nódulo nº1 da Rede Neural",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092629,
@@ -3858,11 +4243,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092931,
+        "name": "Colosso: O Projeto Forbin",
+        "desc": "Conclua o Universo Simulado: Ouro e Engrenagens na Dificuldade Tortuosa quando o nível do Dilema dos Atributos for igual ou superior a 6",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092630,
         "name": "No Cometa",
         "desc": "No Universo Simulado: O Desastre do Enxame, conquiste todos os objetivos em qualquer domínio de Aventura",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092932,
+        "name": "Bubblegum Crisis",
+        "desc": "Conclua o Universo Simulado: Ouro e Engrenagens na Dificuldade Tortuosa quando o nível do Dilema Auxiliar for igual ou superior a 6",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092631,
@@ -3872,11 +4271,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092933,
+        "name": "Mar de Ferrugem",
+        "desc": "Conclua o Universo Simulado: Ouro e Engrenagens no Dilema de Nível igual ou superior a 12 na Dificuldade Tortuosa",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
         "id": 4092632,
         "name": "Retransmissão de Massa",
         "desc": "Tenha o Nível de Perturbação do Desarranjo Plano no nível 20 ou superior ao concluir o Universo Simulado: O Desastre do Enxame",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092934,
+        "name": "Chave de um Espaço Antigo",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, tenha o Nível de Perturbação do Desarranjo Plano no nível 20 ou superior",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092636,
@@ -3886,11 +4299,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092935,
+        "name": "Rei das Maldições",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, tenha 10 ou mais Curios Negativas",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092637,
         "name": "Estranho em uma Terra Estranha",
         "desc": "Colete todas as histórias dos Segredos do Desbravamento no Universo Simulado: O Desastre do Enxame",
         "rarity": 2,
         "version": "1.3"
+      },
+      {
+        "id": 4092936,
+        "name": "Distribuição Normal",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, role 6 Faces de Dado diferentes sucessivamente no mesmo Dispositivo de Comunhão",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -3900,11 +4327,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092937,
+        "name": "Blues Melancólico",
+        "desc": "Tenha 6 Face(s) de Dado(s) azul(is) equipadas ao concluir O Universo Simulado: Ouro e Engrenagens",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092639,
         "name": "Praga Através das Eras",
         "desc": "Colete o capítulo \"A Caça I\" em \"O Desastre do Enxame\"",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092938,
+        "name": "Todos São Vigiados Por Máquinas de uma Graça Amorosa",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, resista a 10 ou mais Extrapolação(ões) de Ressonância em uma única batalha",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -3914,11 +4355,32 @@
         "version": "1.3"
       },
       {
+        "id": 4092939,
+        "name": "Roda do Destino",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, Obtenha o grande prêmio 1 vez(es) no Desafio da Bússola da Sorte",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092641,
         "name": "Como Alguém Se Torna o Que É",
         "desc": "Colete o capítulo \"A Inexistência I\" em \"O Desastre do Enxame\"",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092940,
+        "name": "Reflexo Evasivo",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, realize 6 esquivas consecutivas no Desafio Evitando os Raios",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092941,
+        "name": "Exterminatus",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, use sua Perícia Suprema 10 vezes sucessivamente",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   }

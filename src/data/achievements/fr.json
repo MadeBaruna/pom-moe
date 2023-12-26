@@ -260,7 +260,7 @@
       {
         "id": 4030101,
         "name": "Mon cœur repose avec les étoiles",
-        "desc": "Entamer un périple dans l'immensité du cosmos\\n<color=#8790abff>※ Félicitations ! Vous avez embarqué à bord de l'Astral Express !</color>",
+        "desc": "Entamer un périple dans l'immensité du cosmos\\n<color=#8790abff>※ Félicitations ! Vous avez embarqué à bord de l'Astral Express !</color>",
         "rarity": 3,
         "version": "1.0"
       },
@@ -382,6 +382,13 @@
         "desc": "Partir à l'aventure avec la brigade de chasse aux fantômes\\n<color=#8790abff>※ Retrouvez Plumeau et emprisonnez les Héliobes en cavale qui sévissent à bord du Luofu...</color>",
         "rarity": 2,
         "version": "1.5"
+      },
+      {
+        "id": 4032901,
+        "name": "Génies et Indigents",
+        "desc": "Résoudre la nouvelle crise à bord de la Station spatiale Herta\\n<color=#8790abff>※ Terminez la continuité pionnière « Couronne du commun et du divin »</color>.",
+        "rarity": 2,
+        "version": "1.6"
       }
     ]
   },
@@ -545,14 +552,14 @@
       {
         "id": 4040503,
         "name": "Errance entre les Domaines",
-        "desc": "Terminer Expédition de guerre 1 fois",
+        "desc": "Terminer des expédition de guerre 1 fois",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4040504,
         "name": "On ne travaille pas pour des prunes, ici !",
-        "desc": "Terminer Expédition de guerre 9 fois",
+        "desc": "Terminer des expédition de guerre 9 fois",
         "rarity": 1,
         "version": "1.0"
       },
@@ -745,7 +752,7 @@
       },
       {
         "id": 4051006,
-        "name": "Serval : l'autobiographie authentique",
+        "name": "Serval : l'autobiographie authentique",
         "desc": "Terminer la mission de compagnon « Que des enfants »",
         "rarity": 1,
         "version": "1.0"
@@ -766,7 +773,7 @@
       },
       {
         "id": 4052409,
-        "name": "Adieu, Punklorde !",
+        "name": "Adieu, Punklorde !",
         "desc": "Terminer la mission de compagnon « Mentalité punklordienne »",
         "rarity": 1,
         "version": "1.1"
@@ -871,7 +878,7 @@
       },
       {
         "id": 4051103,
-        "name": "Une carte de 17 ans",
+        "name": "Une carte de 17 ans",
         "desc": "Trouver tous les éléments de lecture concernant Asta dans la mission « Le vide de Locus Silentii »",
         "rarity": 1,
         "version": "1.0"
@@ -976,7 +983,7 @@
       },
       {
         "id": 4080603,
-        "name": "50 crédits ?",
+        "name": "50 crédits ?",
         "desc": "Récupérer tous les avis de recherche de l'équipage de l'Express à Belobog",
         "rarity": 1,
         "version": "1.0"
@@ -1200,7 +1207,7 @@
       },
       {
         "id": 4052406,
-        "name": "Le nouveau conservateur du musée !",
+        "name": "Le nouveau conservateur du musée !",
         "desc": "Obtenir toutes les pièces d'exposition pour le Musée de l'histoire et de culture de Belobog",
         "rarity": 2,
         "version": "1.1"
@@ -1656,7 +1663,7 @@
       {
         "id": 4052601,
         "name": "Rendre à l'allée des Aurums ce qui appartient à l'allée des Aurums !",
-        "desc": "Terminer la mission « Les affaires reprennent (IV) » et remporter l'appel d'offres pour le quartier commercial de l'allée des Aurums",
+        "desc": "Terminer la mission « Les affaires reprennent (IV) » et remporter l'appel d'offres pour le quartier commercial de l'allée des Aurums",
         "rarity": 2,
         "version": "1.3"
       },
@@ -1827,6 +1834,139 @@
         "desc": "Récupérer 24 Héliobes dispersés avec la « mécagrue d'exorcisme »",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4052901,
+        "name": "Plus jamais de mise à jour",
+        "desc": "Demander plus de détails à Herta après avoir vu son annonce",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052902,
+        "name": "Escape Room",
+        "desc": "Recevoir l'aide de Herta dans la capsule expérimentale de la Zone d'isolement",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052903,
+        "name": "Seigneur du trône de fer",
+        "desc": "Choisir de mettre le trône en hauteur dans la Zone d'isolement",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052904,
+        "name": "Main du Roi",
+        "desc": "Aider Perspicace à élever le trône dans la Zone d'isolement",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052905,
+        "name": "Babysitter de qualité",
+        "desc": "Terminer la mission d'aventure « Chasse aux créatures insolites »",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052906,
+        "name": "Mon Tamagotchi a encore faim",
+        "desc": "Récupérer toutes les créations rares dans Chasse aux créatures insolites",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052907,
+        "name": "Peppynailler",
+        "desc": "Aider Peppy à remporter le débat face au robot de sécurité",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052908,
+        "name": "L'art de la supercherie",
+        "desc": "Remporter le débat face au majordome",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052909,
+        "name": "Main verte",
+        "desc": "Retirer les mauvaises herbes dans la serre de la Zone d'isolement pendant trois jours",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052910,
+        "name": "Le chat potté",
+        "desc": "Sauver les créatures qui ont été prises au piège dans la « ville emmurée » puis avalées par le monstre",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052911,
+        "name": "L'arbre qui cache la forêt",
+        "desc": "Regarder le grand écran de la Zone d'isolement avec des personnages de différentes tailles",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052912,
+        "name": "Hors réseau",
+        "desc": "Ne recevoir aucune réponse lors de la communication à distance avec Ruan Mei via le terminal",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052913,
+        "name": "Il manque un joueur",
+        "desc": "Placer 3 Délicieux encas dans la même zone",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052914,
+        "name": "Enfants de la nuit",
+        "desc": "Placer 3 Gâteaux d'ordures dans la même zone",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052915,
+        "name": "Telle maîtresse, telle créature",
+        "desc": "Partager la photo de l'Ami de Lambda avec Ruan Mei",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052916,
+        "name": "L'ami du pirate",
+        "desc": "Terminer la mission d'aventure « Enjolivements ingénieux de Youci »",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052917,
+        "name": "Divinité des petites choses",
+        "desc": "Réunir toutes les caractéristiques de créatures dans l'événement « Chasse aux créatures insolites »",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052918,
+        "name": "Chacun son chat",
+        "desc": "Obtenir la créature rare Chat à lunettes",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052919,
+        "name": "Manuel de diagnostic des maladies chroniques",
+        "desc": "Récupérer tous les éléments de lecture contenant des messages de Dr Ratio dans la Zone d'isolement",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   },
@@ -2449,7 +2589,7 @@
       },
       {
         "id": 4072008,
-        "name": "Loup y es-tu ?",
+        "name": "Loup y es-tu ?",
         "desc": "Vaincre l'Automate loup sans déclencher Ordre d'abattage",
         "rarity": 1,
         "version": "1.0"
@@ -2749,11 +2889,25 @@
         "version": "1.5"
       },
       {
+        "id": 4072901,
+        "name": "Dans l'obscurité absolue",
+        "desc": "Infliger une Rupture de faiblesse au Roi de l'Essaim briseur d'étoiles après sa première utilisation de « Carapace du désastre nourri »",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072804,
         "name": "Cochon comme cochon",
         "desc": "Transformer un Magoret en Magoret à l'aide d'une technique d'exorcisme",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4072902,
+        "name": "Mon cœur et mes actions sont absolument transparents",
+        "desc": "Vaincre les invocations de la Lance, du Bouclier et de « L'Honneur » dans l'état Âme libérée au cours du combat contre Argenti",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4072803,
@@ -2763,6 +2917,13 @@
         "version": "1.5"
       },
       {
+        "id": 4072903,
+        "name": "Au nom de la Beauté",
+        "desc": "Aucune des invocations de la Lance, du Bouclier ou de « L'Honneur » n'entre en état Âme libérée au cours du combat contre Argenti.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072802,
         "name": "Barbecue",
         "desc": "Avoir simultanément 4 Engeances de flammes sur le champ de bataille lors du défi du Labyrinthe illusoire de Cirrus",
@@ -2770,11 +2931,39 @@
         "version": "1.5"
       },
       {
+        "id": 4072904,
+        "name": "Duo de choc",
+        "desc": "Remporter 1 combat avec une équipe composée de Hanya et Xueyi",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072801,
         "name": "Lever de drapeau blanc",
         "desc": "Utiliser la technique de Huohuo « Répression du mal » et faire fuir 6 cibles simultanément",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4072905,
+        "name": "Voyons voir ce qu'elle a à dire",
+        "desc": "Prendre le temps d'écouter Hanya parler\\n<color=#8790abff>※ Écoutez les répliques d'animations d'oisiveté de Hanya et ses répliques d'actions d'oisiveté dans leur intégralité.</color>",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4072906,
+        "name": "Public averti",
+        "desc": "Utiliser la technique de Dr Ratio, Fascination façonnée, pour provoquer 6 ennemis ou plus en une fois",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4072907,
+        "name": "Destruction en chaîne",
+        "desc": "Déclencher l'attaque de suivi du talent de Dr Ratio, Cogito, Ergo Sum, pendant 4 tours consécutifs au cours d'un même combat",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   },
@@ -3662,6 +3851,13 @@
         "version": "1.3"
       },
       {
+        "id": 4092902,
+        "name": "Gloire à l'Érudition",
+        "desc": "Débloquer 1 bénédiction de l'Érudition dans l'Univers simulé",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092602,
         "name": "The Hunter Games",
         "desc": "Capturer 8 Magorets en combattant dans le même plan tout en suivant la Voie de la Chasse dans le Désastre de l'Essaim",
@@ -3669,11 +3865,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092903,
+        "name": "Omniscience",
+        "desc": "Terminer l'Univers simulé avec au moins 10 bénédictions de l'Érudition",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092603,
         "name": "Les Chroniques de l'Asphalte",
-        "desc": "Utiliser la Voie du Souvenir pour copier une zone de récompense 6 fois consécutives dans le Désastre de l'Essaim",
+        "desc": "Utiliser la Voie du Souvenir pour copier une Zone de récompense 6 fois consécutives dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092904,
+        "name": "Théorème des quatre couleurs",
+        "desc": "Appliquer l'effet Connaissance à 200 zones dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092604,
@@ -3683,11 +3893,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092905,
+        "name": "Le monde connecté",
+        "desc": "Regarder 10 histoires recommandées dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092605,
         "name": "L'échange symbolique et la mort",
-        "desc": "Terminer le Désastre de l'Essaim en étant entré 15 fois dans une zone de néant en suivant la Voie de la Nihilité",
+        "desc": "Terminer le Désastre de l'Essaim en étant entré 15 fois dans une Zone de néant en suivant la Voie de la Nihilité",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092906,
+        "name": "Connaissances infinies",
+        "desc": "Atteindre une introspection de 40 dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092606,
@@ -3697,6 +3921,13 @@
         "version": "1.3"
       },
       {
+        "id": 4092907,
+        "name": "Limitation mentale",
+        "desc": "Atteindre une introspection de - 40 dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092607,
         "name": "L'heure de vérité",
         "desc": "Terminer le Désastre de l'Essaim avec un compte à rebours supérieur ou égal à 80 en suivant la Voie de l'Abondance",
@@ -3704,11 +3935,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092909,
+        "name": "Esprit changeant",
+        "desc": "Changer d'introspection 50 fois dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092608,
         "name": "Retour à Klendathu",
-        "desc": "Terminer le Désastre de l'Essaim en étant entré dans des zones de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim 15 fois en suivant la Voie de la Propagation",
+        "desc": "Terminer le Désastre de l'Essaim en étant entré dans des Zones de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim 15 fois en suivant la Voie de la Propagation",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092910,
+        "name": "Le loup d'Astral Street",
+        "desc": "Investir avec succès dans l'événement Appareil d'investissement de la Paix Interastrale d'Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -3718,11 +3963,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092911,
+        "name": "Pacifica reste Pacifica",
+        "desc": "Perdre le combat de l'événement Code de triche (II) dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092610,
         "name": "Faire parler la poudre",
         "desc": "Lancer le dé d'audience de la Chasse un total de 100 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092912,
+        "name": "Employé de rang D",
+        "desc": "Améliorer une bizarrerie 1 fois au cours de l'événement Centre commerciale mécanique de la Paix Interastrale (II) dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -3732,11 +3991,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092913,
+        "name": "Un cantique pour Leibowitz",
+        "desc": "Avoir remporté la victoire au cours de 25 combat(s) ou plus en utilisant le dé personnalisé : Extrapolation de combat lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092612,
         "name": "Le Monde comme représentation",
         "desc": "Lancer le dé d'audience de la Nihilité un total de 100 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092914,
+        "name": "Tau zéro",
+        "desc": "Avoir terminé une interaction d'événement 20 fois ou plus en utilisant le dé personnalisé : Extrapolation d'événement lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -3746,11 +4019,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092915,
+        "name": "Plans parallèles",
+        "desc": "Utiliser le dé personnalisé : Poursuite pour entrer dans 5 zone(s) non-adjacente(s) ou plus à la suite dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092614,
         "name": "Samantabhadra",
         "desc": "Lancer le dé d'audience de l'Abondance un total de 100 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092916,
+        "name": "Cochons décochés",
+        "desc": "Avoir éliminé au moins 15 Magorets en utilisant le dé personnalisé : Extrapolation de Magoret lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -3760,11 +4047,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092917,
+        "name": "Contrôleur de la porte des étoiles",
+        "desc": "Être entré dans 15 zone(s) dotée(s) d'une balise ou plus en utilisant le dé personnalisé : Symbiose du marcheur lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092616,
         "name": "Les Enfants de Mathusalem",
         "desc": "Lancer le dé d'audience de la Propagation un total de 100 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092918,
+        "name": "Direction Terminus",
+        "desc": "Être entré dans des zones avec tous les types différents de balises en utilisant le dé personnalisé : Balise à ultra-distance lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -3774,6 +4075,13 @@
         "version": "1.3"
       },
       {
+        "id": 4092919,
+        "name": "L'homme qui vendit la Lune",
+        "desc": "Avoir obtenu au moins 2048 fragments cosmiques grâce à l'utilisation du dé personnalisé : Cession de parts lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092618,
         "name": "Love & the Emperor",
         "desc": "<u>Obtenir des pouvoirs illimités</u> dans la Saga de la CPI du Désastre de l'Essaim",
@@ -3781,11 +4089,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092920,
+        "name": "Méga-corporation de Halcyon",
+        "desc": "Avoir appliqué l'effet Connaissance à 30 zones ou plus en utilisant le dé personnalisé : Bouclier d'ambre lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092619,
         "name": "Q",
-        "desc": "Acheter tous les objets de la boutique de bénédictions et de la boutique de bizarreries dans la même zone de transaction dans le Désastre de l'Essaim",
+        "desc": "Acheter tous les objets de la boutique de bénédictions et de la boutique de bizarreries dans la même Zone de transaction dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092921,
+        "name": "Une petite dernière ?",
+        "desc": "Avoir eu au moins 30 points dans le compte à rebours en utilisant le dé personnalisé : Compte à rebours lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092620,
@@ -3795,6 +4117,13 @@
         "version": "1.3"
       },
       {
+        "id": 4092922,
+        "name": "J'ai dépensé sans compter",
+        "desc": "Avoir fait 20 achats ou plus dans les boutiques de bénédictions, de bizarreries ou de renforcements en utilisant le dé personnalisé : Temps de l'entreprise lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092621,
         "name": "Je vais tout casser II",
         "desc": "Détruire au moins 100 objets destructibles dans une session du Désastre de l'Essaim",
@@ -3802,11 +4131,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092923,
+        "name": "Le Marchand et la porte de l'alchimiste",
+        "desc": "Avoir utilisé 25 chances ou plus de relancer les dés ou de tricher en utilisant le dé personnalisé : Inflation de données lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092622,
         "name": "Attrapez-les tous !",
-        "desc": "Capturer au moins 16 Magorets dans une zone d'aventure du Désastre de l'Essaim",
+        "desc": "Capturer au moins 16 Magorets dans une Zone d'aventure du Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092924,
+        "name": "Le trésor de Herta",
+        "desc": "Avoir obtenu au moins 30 bizarreries en utilisant le dé personnalisé : Extrapolation de bizarrerie lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -3816,6 +4159,13 @@
         "version": "1.3"
       },
       {
+        "id": 4092925,
+        "name": "Je suis l'Alpha",
+        "desc": "Récupérer le Secret d'Aiôn « Débuts » dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092624,
         "name": "Concerto pour une voix",
         "desc": "Générer 2 Combinaisons de résonance en une seule session du Désastre de l'Essaim",
@@ -3823,18 +4173,39 @@
         "version": "1.3"
       },
       {
+        "id": 4092926,
+        "name": "Je suis l'Oméga",
+        "desc": "Récupérer le Secret d'Aiôn « Chapitre final » dans Or et machines",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
         "id": 4092625,
         "name": "Être ou ne pas être",
-        "desc": "Faire 1 choix des Voies dans des zones d'événement du Désastre de l'Essaim",
+        "desc": "Faire 1 choix des Voies dans des Zones d'événement du Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
       },
       {
+        "id": 4092927,
+        "name": "Dé à soixante faces",
+        "desc": "Débloquer 60 face(s) de dé dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092626,
         "name": "Cadran de la destinée",
-        "desc": "Terminer tous les choix des Voies des zones d'événement du Désastre de l'Essaim",
+        "desc": "Terminer tous les choix des Voies des Zones d'événement du Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092928,
+        "name": "Caprice du destin",
+        "desc": "Débloquer l'ensemble des 12 dés personnalisés d'Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -3844,6 +4215,13 @@
         "version": "1.3"
       },
       {
+        "id": 4092929,
+        "name": "Scénario de classe XK",
+        "desc": "Terminer Or et machines en difficulté V",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092628,
         "name": "Retour vers le futur",
         "desc": "Relancer le dé 50 fois dans le Désastre de l'Essaim",
@@ -3851,25 +4229,53 @@
         "version": "1.3"
       },
       {
+        "id": 4092930,
+        "name": "Ascension mécanique",
+        "desc": "Activer le nœud de connexion neuronale n° 1 dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092629,
         "name": "La Fin de l'Éternité",
-        "desc": "Entrer dans une zone de néant avec une Voie autre que la Nihilité dans le Désastre de l'Essaim",
+        "desc": "Entrer dans une Zone de néant avec une Voie autre que la Nihilité dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092931,
+        "name": "Le Cerveau d'acier",
+        "desc": "Terminer Or et machines en difficulté supplice avec un Niv. de casse-tête de stats supérieur ou égal à 6",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092630,
         "name": "Sur la comète",
-        "desc": "Terminer tous les objectifs de n'importe quelle zone d'aventure du Désastre de l'Essaim",
+        "desc": "Terminer tous les objectifs de n'importe quelle Zone d'aventure du Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
       },
       {
+        "id": 4092932,
+        "name": "Bubblegum Crisis",
+        "desc": "Terminer Or et machines en difficulté supplice avec un Niv. de casse-tête auxiliaire supérieur ou égal à 6",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092631,
         "name": "Enquêteur de Weyland-Yutani",
-        "desc": "Entrer dans une zone de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim en suivant une Voie autre que la Propagation 15 fois dans le Désastre de l'Essaim",
+        "desc": "Entrer dans une Zone de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim en suivant une Voie autre que la Propagation 15 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092933,
+        "name": "Océan de rouille",
+        "desc": "Terminer Or et machines en difficulté supplice avec un Niv. de casse-tête supérieur ou égal à 12",
+        "rarity": 2,
+        "version": "1.6"
       },
       {
         "id": 4092632,
@@ -3879,6 +4285,13 @@
         "version": "1.3"
       },
       {
+        "id": 4092934,
+        "name": "Clé d'un espace résolu",
+        "desc": "Terminer Or et machines avec la Rupture planaire au Niv. 20 ou plus",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092636,
         "name": "Silent Running",
         "desc": "Terminer toutes les histoires du Désastre de l'Essaim",
@@ -3886,11 +4299,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092935,
+        "name": "Roi des Fléaux",
+        "desc": "Terminer Or et machines avec au moins 10 bizarreries négatives en votre possession",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092637,
         "name": "En terre étrangère",
-        "desc": "Récupérer tous les secrets de pionnier dans le Désastre de l'Essaim",
+        "desc": "Récupérer tous les Secrets de pionnier dans le Désastre de l'Essaim",
         "rarity": 2,
         "version": "1.3"
+      },
+      {
+        "id": 4092936,
+        "name": "Loi normale",
+        "desc": "Faire 6 jets de face de dé différents à la suite sur le même dispositif de communion dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -3900,11 +4327,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092937,
+        "name": "Blu Da Ba Dee",
+        "desc": "Terminer Or et machines avec 6 faces de dé bleues équipées (difficulté III ou plus)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092639,
         "name": "La peste à travers les éons",
         "desc": "Récupérer le chapitre « La Chasse I » dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092938,
+        "name": "Tous surveillés par des machines d’amour et de grâce",
+        "desc": "Survivre à 10 Extrapolation(s) de résonance ou plus au cours d'un même combat dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -3914,11 +4355,32 @@
         "version": "1.3"
       },
       {
+        "id": 4092939,
+        "name": "Roue du destin",
+        "desc": "Obtenir le grand prix du défi de la boussole porte-bonheur 1 fois dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092641,
         "name": "Comment on devient ce que l'on est",
         "desc": "Récupérer le chapitre « La Nihilité I » dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092940,
+        "name": "Réflexe d'évasion",
+        "desc": "Réussir 6 esquives consécutives au cours du défi d'évitement des rayons dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092941,
+        "name": "Exterminatus",
+        "desc": "Utiliser 10 ultimes d'affilée dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   }

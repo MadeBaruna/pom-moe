@@ -382,6 +382,13 @@
         "desc": "Collect ghost stories with the ghost-hunting squad\\n<color=#8790abff>※ Retrieve Tail and subdue the heliobi that have escaped on the Luofu...</color>",
         "rarity": 2,
         "version": "1.5"
+      },
+      {
+        "id": 4032901,
+        "name": "Divine Verso, Mundane Recto",
+        "desc": "Resolve the new crisis on the Herta Space Station\\n<color=#8790abff>※ Finish the Trailblaze Continuance \"Crown of the Mundane and Divine\"</color>",
+        "rarity": 2,
+        "version": "1.6"
       }
     ]
   },
@@ -1827,6 +1834,139 @@
         "desc": "Collected 24 dispersed heliobi with \"exorcist cycrane\"",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4052901,
+        "name": "Never Updating",
+        "desc": "Ask for more updates from Herta after seeing her manuscripts ad",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052902,
+        "name": "Escape the Container",
+        "desc": "Rescued by Herta from the experimental pod in the Seclusion Zone",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052903,
+        "name": "The Lord of Iron Throne",
+        "desc": "Choose to ascend the \"throne\" in the seclusion zone",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052904,
+        "name": "Hand of the King",
+        "desc": "Help the Insighter ascend the \"throne\" in the seclusion zone",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052905,
+        "name": "Qualified Caretaker",
+        "desc": "Complete the adventure mission \"Critter Pick\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052906,
+        "name": "The Tame-A-Gotcha Is Hungry Again",
+        "desc": "Collect all the rare creations in Critter Pick",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052907,
+        "name": "Peppybacking",
+        "desc": "Help Peppy win the debate with the security robot",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052908,
+        "name": "The Art of Deception",
+        "desc": "Win the debate with the butler",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052909,
+        "name": "Greenfingers",
+        "desc": "Clear out weeds in the Seclusion Zone's greenhouse for a total of three days",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052910,
+        "name": "The Cat in the Hat",
+        "desc": "Rescue the creations stuck in the \"walled city\" and swallowed by the monster",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052911,
+        "name": "See the Forest for the Trees",
+        "desc": "Observe the large screen in the Seclusion Zone with characters of different sizes",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052912,
+        "name": "Out of Service Area",
+        "desc": "Receive no response when attempting remote communication with Ruan Mei through the terminal",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052913,
+        "name": "One Player Short",
+        "desc": "Place 3 Lucky Snack(s) in the same area",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052914,
+        "name": "Midnight's Children",
+        "desc": "Place 3 Trash Cake(s) in the same area",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052915,
+        "name": "Creations Mimic Creators",
+        "desc": "Share the photo of Lambda's Friend with Ruan Mei",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052916,
+        "name": "Good Friend of Pirate",
+        "desc": "Complete the Adventure Mission \"Youci's Clever Decor\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052917,
+        "name": "The God of Small Things",
+        "desc": "Collect all the creation traits in the \"Critter Pick\" event",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052918,
+        "name": "Suum Cuique",
+        "desc": "Obtain the rare creation \"Shader Cat\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052919,
+        "name": "Chronic Ailment Diagnostic Manual",
+        "desc": "Collect all the readables that contain messages from Dr. Ratio in the Seclusion Zone",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   },
@@ -2749,11 +2889,25 @@
         "version": "1.5"
       },
       {
+        "id": 4072901,
+        "name": "In Utter Darkness",
+        "desc": "After the Starcrusher Swarm King uses \"Carapace of Nurtured Disaster\" for the first time, inflict Weakness Break on it",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072804,
         "name": "Ghosty Scythe of Vice",
         "desc": "Transform a Trotter into a Trotter with exorcismics",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4072902,
+        "name": "My Heart and Actions Are Utterly Unclouded",
+        "desc": "In the battle against Argenti, defeat The Speartip, The Shield, and The Honored while they are in the Soulfreed state",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4072803,
@@ -2763,6 +2917,13 @@
         "version": "1.5"
       },
       {
+        "id": 4072903,
+        "name": "The Things I Do for Beauty",
+        "desc": "In the battle against Argenti, none of The Speartip, The Shield, and The Honored have entered the Soulfreed state",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072802,
         "name": "Inferno",
         "desc": "Have 4 Flamespawns simultaneously on the field during the \"Illusory Maze: Cirrus\" challenge",
@@ -2770,11 +2931,39 @@
         "version": "1.5"
       },
       {
+        "id": 4072904,
+        "name": "Sororal Duo",
+        "desc": "Win 1 battle(s) with a team comprising Hanya and Xueyi",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072801,
         "name": "Come Here! Now Go Away!",
         "desc": "Use Huohuo's Technique \"Fiend: Impeachment of Evil\" and simultaneously cause 6 targets to flee",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4072905,
+        "name": "Let Her Cook",
+        "desc": "Stop and listen to Hanya's prattling\\n<color=#8790abff>※ Fully listen to all of Hanya's idle animation voice-over lines, and her action idle voice-over lines</color>",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4072906,
+        "name": "Trigger Warning",
+        "desc": "Use Dr. Ratio's Technique, Mold of Idolatry, to Taunt 6 or more enemies at once",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4072907,
+        "name": "Chain Peoplebreaker",
+        "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito Ergo Sum, for 4 consecutive turns",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   },
@@ -3154,7 +3343,7 @@
       },
       {
         "id": 4082707,
-        "name": "The Vermillion Bird Brings Swift Fortune",
+        "name": "The Vermilion Bird Brings Swift Fortune",
         "desc": "Get a \"Slack\" result for the first time in the divination shop",
         "rarity": 1,
         "version": "1.4"
@@ -3662,11 +3851,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092902,
+        "name": "All Hail Deus Eruditionis",
+        "desc": "In Simulated Universe, unlock 1 Blessings of Erudition",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092602,
         "name": "The Hunter Games",
         "desc": "In Simulated Universe: Swarm Disaster, capture 8 Trotters through battling in the same plane while following the Path of The Hunt",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092903,
+        "name": "Omnissiah",
+        "desc": "When clearing Simulated Universe, have 10 or more Blessing(s) of Erudition",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092603,
@@ -3676,11 +3879,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092904,
+        "name": "The Four Color Theorem",
+        "desc": "In Simulated Universe: Gold and Gears, apply the Knowledge effect to a total of 200 domains",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092604,
         "name": "The Predator",
         "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Destruction, achieve 40 victories in battle",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092905,
+        "name": "World on a Wire",
+        "desc": "In Simulated Universe: Gold and Gears, watch a total of 10 recommended Secret stories",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092605,
@@ -3690,11 +3907,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092906,
+        "name": "Galaxy Brain",
+        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches 40",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092606,
         "name": "Simulated Universe Wasn't Built in a Day",
         "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Preservation, apply Cornerstone to 8 domains of different types",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092907,
+        "name": "The Mental Pale",
+        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches -40",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092607,
@@ -3704,11 +3935,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092909,
+        "name": "Hive Mind",
+        "desc": "In Simulated Universe: Gold and Gears, complete 50 changes to Intra-Cognition",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092608,
         "name": "Back to Klendathu",
         "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Propagation, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain for 15 times",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092910,
+        "name": "The Wolf of Astral Street",
+        "desc": "In Simulated Universe: Gold and Gears, achieve great investment success in the Occurrence \"Interastral Peace Investment Device\"",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -3718,11 +3963,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092911,
+        "name": "Pacifica Is Still Pacifica",
+        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheating Code (II) occurrence.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092610,
         "name": "Scattered Hailstones, Shattered Ghostbones",
         "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: The Hunt for a total of 100 times",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092912,
+        "name": "Class-D Personnel",
+        "desc": "In Simulated Universe: Gold and Gears, enhance a Curio 1 time(s) in the Interastral Peace Mechanical Branch Shopping Mall (II) occurrence",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -3732,11 +3991,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092913,
+        "name": "A Death Knell for Leibowitz",
+        "desc": "When clearing Simulated Universe: Gold and Gears, achieve victory in 25 or more battle(s) using Custom Dice: Combat Extrapolation",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092612,
         "name": "The World as Representation",
         "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Nihility for a total of 100 times",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092914,
+        "name": "Tau Zero",
+        "desc": "When clearing Simulated Universe: Gold and Gears, complete occurrence interaction 20 or more time(s) using Custom Dice: Occurrence Extrapolation",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -3746,11 +4019,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092915,
+        "name": "Changing Planes",
+        "desc": "In Simulated Universe: Gold and Gears, use Custom Dice: Pursuit to enter 5 or more non-adjacent domain(s) in succession",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092614,
         "name": "Hearken, Waken, Enliven",
         "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Abundance for a total of 100 times",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092916,
+        "name": "When Pigs Pry",
+        "desc": "When clearing Simulated Universe: Gold and Gears, defeat 15 or more Trotter(s) using Custom Dice: Trotter Extrapolation",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -3760,11 +4047,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092917,
+        "name": "Star Port Controller",
+        "desc": "When clearing Simulated Universe: Gold and Gears, enter 15 or more domain(s) with a beacon using Custom Dice: Walker Symbiosis",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092616,
         "name": "Methuselah's Children",
         "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Propagation for a total of 100 times",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092918,
+        "name": "To Terminus",
+        "desc": "When clearing Simulated Universe: Gold and Gears, the domains entered with Custom Dice: Ultra-Remote Beacon contain beacons of all different types",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -3774,11 +4075,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092919,
+        "name": "The Man Who Sold the Moon",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 2048 or more Cosmic Fragment(s) using Custom Dice: Investment Sale",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092618,
         "name": "Stars Within Reach",
         "desc": "<u>Wield unlimited power</u> in The IPC Promotion Saga of the Simulated Universe: Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092920,
+        "name": "Halcyon Holdings Corporate Board Specialist",
+        "desc": "When clearing Simulated Universe: Gold and Gears, apply the Knowledge effect to 30 or more domain(s) using the Custom Dice: Amber Barrier",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092619,
@@ -3788,11 +4103,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092921,
+        "name": "Time Enough for Play",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 30 or more points in the countdown using Custom Dice: Countdown",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092620,
         "name": "Welcome to Valhalla",
         "desc": "In Simulated Universe: Swarm Disaster, be defeated in the battle triggered in the event Genius Society #55 Yu Qingtu",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092922,
+        "name": "Spacer's Choice Vendor",
+        "desc": "When clearing Simulated Universe: Gold and Gears, make 20 or more purchase(s) across the Blessing, Curio, or Enhance stores using Custom Dice: Company Time",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092621,
@@ -3802,11 +4131,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092923,
+        "name": "The Merchant and the Alchemist's Gate",
+        "desc": "When clearing Simulated Universe: Gold and Gears, use 25 or more reroll or cheat attempt(s) using Custom Dice: Data Inflation",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092622,
         "name": "Harvest Moon",
         "desc": "In Simulated Universe: Swarm Disaster, capture Trotters equal to or greater than 16 within one Adventure domain",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092924,
+        "name": "Herta's Treasure",
+        "desc": "When clearing Simulated Universe: Gold and Gears, acquire 30 or more Curio(s) using Custom Dice: Curio Extrapolation",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -3816,11 +4159,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092925,
+        "name": "I Am Alpha",
+        "desc": "Collect the Gold and Gears' Aeon Secret \"Beginning\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092624,
         "name": "Choir of One",
         "desc": "Generate 2 Resonance Interplays in one run of Simulated Universe: Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092926,
+        "name": "I Am Omega",
+        "desc": "Collect the Gold and Gears' Aeon Secret \"Finale\"",
+        "rarity": 2,
+        "version": "1.6"
       },
       {
         "id": 4092625,
@@ -3830,11 +4187,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092927,
+        "name": "Sixty-Sided Die",
+        "desc": "In Simulated Universe: Gold and Gears, unlock 60 Dice Face(s)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092626,
         "name": "Dial of Destiny",
         "desc": "In Simulated Universe: Swarm Disaster, complete all Choices of the Paths in Occurrence domains",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092928,
+        "name": "Roulette of Destiny",
+        "desc": "In Simulated Universe: Gold and Gears, unlock all 12 Custom Dice",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -3844,11 +4215,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092929,
+        "name": "XK-Class Scenario",
+        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty V",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092628,
         "name": "Back to the Future",
         "desc": "Reroll a total of 50 times in Simulated Universe: Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092930,
+        "name": "Mechanical Ascension",
+        "desc": "In Simulated Universe: Gold and Gears, activate the No. 1 Neural Network node",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092629,
@@ -3858,11 +4243,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092931,
+        "name": "Colossus: The Forbin Project",
+        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Stats Conundrum level is 6 or higher",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092630,
         "name": "On the Comet",
         "desc": "In Simulated Universe: Swarm Disaster, achieve all goals in any Adventure domain",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092932,
+        "name": "Bubblegum Crisis",
+        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Auxiliary Conundrum level is 6 or higher",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092631,
@@ -3872,11 +4271,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092933,
+        "name": "Sea of Rust",
+        "desc": "Clear Simulated Universe: Gold and Gears at Conundrum Level 12 or higher in Torturous Difficulty",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
         "id": 4092632,
         "name": "Mass Relay",
         "desc": "Have the Planar Disarray's Disruption Level at level 20 or higher when completing Simulated Universe: Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092934,
+        "name": "Key to a Bygone Space",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have the Planar Disarray's Disruption Level at level 20 or higher",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092636,
@@ -3886,11 +4299,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092935,
+        "name": "King of Curses",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 10 or more Negative Curio(s)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092637,
         "name": "Stranger in a Strange Land",
         "desc": "Collect all Trailblaze Secrets stories in Simulated Universe: Swarm Disaster",
         "rarity": 2,
         "version": "1.3"
+      },
+      {
+        "id": 4092936,
+        "name": "Normal Distribution",
+        "desc": "In Simulated Universe: Gold and Gears, roll 6 different Dice Faces in succession on the same Communing Device",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -3900,11 +4327,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092937,
+        "name": "Gloomy Blues",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 6 blue Dice Face(s) equipped (Difficulty III or higher)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092639,
         "name": "Plague Across Eons",
         "desc": "Collect chapter The Hunt I in Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092938,
+        "name": "All Watched Over By Machines of Loving Grace",
+        "desc": "In Simulated Universe: Gold and Gears, endure 10 or more Resonance Extrapolation(s) in a single battle",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -3914,11 +4355,32 @@
         "version": "1.3"
       },
       {
+        "id": 4092939,
+        "name": "Wheel of Destiny",
+        "desc": "In Simulated Universe: Gold and Gears, obtain the grand prize 1 time(s) in Lucky Compass Challenge",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092641,
         "name": "How One Becomes What One Is",
         "desc": "Collect chapter Nihility I in Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092940,
+        "name": "Evasive Reflex",
+        "desc": "In Simulated Universe: Gold and Gears, successfully perform dodge 6 times consecutively in the Avoiding the Beams Challenge",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092941,
+        "name": "Exterminatus",
+        "desc": "In Simulated Universe: Gold and Gears, use Ultimate 10 times in succession",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   }

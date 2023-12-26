@@ -382,6 +382,13 @@
         "desc": "Sammle mit dem Geisterjägertrupp sonderbare Geschichten.\\n<color=#8790abff>※ Finde den Schweif wieder und fange die auf der Luofu entkommenen Heliobi ein ...</color>",
         "rarity": 2,
         "version": "1.5"
+      },
+      {
+        "id": 4032901,
+        "name": "Genie & Mundaner",
+        "desc": "Beruhige die neue Unruhe auf der Herta-Raumstation.\\n<color=#8790abff>Schließe die Trailblaze-Fortsetzung „Krone des Mundanen und Äonischen“ ab.</color>",
+        "rarity": 2,
+        "version": "1.6"
       }
     ]
   },
@@ -1040,7 +1047,7 @@
       {
         "id": 4052315,
         "name": "Lā Lá Lǎ Là Land",
-        "desc": "Unterhalte dich mit Tamila im Goldenen Theater und erhalte die Partitur für das Grammophon.",
+        "desc": "Unterhalte dich mit Tamila im Goldenen Theater und erhalte die Partitur für das Grammofon.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1089,7 +1096,7 @@
       {
         "id": 4052321,
         "name": "„Die abenteuerlustigen Maulwürfe“: Total erwachsene Ausgabe",
-        "desc": "Kaufe <i>Die abenteuerlustigen Maulwürfe: Verborgener Schatz</i> bei der Buchhändlerin von Belobog.",
+        "desc": "Kaufe „Die abenteuerlustigen Maulwürfe: Verborgener Schatz“ bei der Buchhändlerin von Belobog.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1775,7 +1782,7 @@
       {
         "id": 4052805,
         "name": "Schachtisch",
-        "desc": "Schließe alle Herausforderungen der Aktion „Dämonenbezwingung“ ab.",
+        "desc": "Schließe alle Herausforderungen der Aktion „Aufzeichnungen der Übernatürlichen“ ab.",
         "rarity": 2,
         "version": "1.5"
       },
@@ -1817,7 +1824,7 @@
       {
         "id": 4052811,
         "name": "Das Passwort in der Hand",
-        "desc": "Gib mehr als 10-mal Antwort auf der Website „Luofu Paranormal“.",
+        "desc": "Gib mehr als 10 Antworten auf der Website „Luofu Paranormal“.",
         "rarity": 1,
         "version": "1.5"
       },
@@ -1827,6 +1834,139 @@
         "desc": "Fange mithilfe eines Dämonenjäger-Mechakranichs 24 verstreute Heliobi ein.",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4052901,
+        "name": "Nie aktualisiert",
+        "desc": "Dränge Herta nach Aktualisierungen, nachdem du die Werbung von Hertas Manuskripten gesehen hast.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052902,
+        "name": "Flucht aus der Kapsel",
+        "desc": "Werde von Herta aus der experimentellen Kapsel in der Isolationszone gerettet.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052903,
+        "name": "Der Gebieter auf dem Eisenthron",
+        "desc": "Entscheide dich in der Isolationszone, den „Thron“ zu besteigen.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052904,
+        "name": "Königliche Taufe",
+        "desc": "Hilf dem Einsichtigen in der Isolationszone, den „Thron“ zu besteigen.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052905,
+        "name": "Qualifizierter Pfleger",
+        "desc": "Schließe die Abenteuermission „Exotische Haustiersammlung“ ab.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052906,
+        "name": "Das Happa-gotchi hat wieder Hunger",
+        "desc": "Sammle alle seltenen Schöpfungen in „Exotische Haustiersammlung“.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052907,
+        "name": "Hündischer Machtmissbrauch",
+        "desc": "Hilf Peppy, die Debatte mit dem Sicherheitsroboter zu gewinnen.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052908,
+        "name": "Die Kunst der Täuschung",
+        "desc": "Gewinne die Debatte mit dem Butler.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052909,
+        "name": "Grünfinger",
+        "desc": "Jäte insgesamt drei Tage Unkraut bei den Pflanzen in der Isolationszone.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052910,
+        "name": "Der Kater mit Hut",
+        "desc": "Rette die Schöpfungen, die in der „belagerten Stadt“ feststeckten und vom Monster verschlungen wurden.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052911,
+        "name": "Gipfel und Berge",
+        "desc": "Beobachte den großen Bildschirm in der Isolationszone mit Figuren unterschiedlicher Körpergröße.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052912,
+        "name": "Außerhalb des Servicebereichs",
+        "desc": "Der Kommunikationsversuch, Ruan Mei mit dem Terminal aus der Ferne zu erreichen, bleibt unbeantwortet.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052913,
+        "name": "Einer zu wenig",
+        "desc": "Platziere 3 Glückssnacks in derselben Region.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052914,
+        "name": "Mitternachtskinder",
+        "desc": "Platziere 3 Müllkuchen in derselben Region.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052915,
+        "name": "Wie der Besitzer, so das Haustier",
+        "desc": "Teile das Foto von „Freundin Lambdas“ mit Ruan Mei.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052916,
+        "name": "Piratenfreund",
+        "desc": "Schließe die Abenteuermission „Youcis cleveres Dekor“ ab.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052917,
+        "name": "Der Gott der kleinen Dinge",
+        "desc": "Sammle alle Schöpfungseigenschaften in der Aktion „Exotische Haustiersammlung“.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052918,
+        "name": "Gegenseitiges Schicksal",
+        "desc": "Erhalte die seltene Schöpfung „Sonnenbrillenkatze“.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4052919,
+        "name": "Ärztliches Attest für unheilbare Krankheit",
+        "desc": "Sammle alle lesbaren Elemente in der Isolationszone, die Nachrichten von Dr. Wahrheit enthalten.",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   },
@@ -2749,11 +2889,25 @@
         "version": "1.5"
       },
       {
+        "id": 4072901,
+        "name": "Fluten der Dunkelheit",
+        "desc": "Füge dem Schwarmkönig Sternenbrecher Schwächebruch zu, nachdem er „Carapax des Unheils“ zum ersten Mal eingesetzt hat.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072804,
         "name": "Sense des Irrlichts",
         "desc": "Verwende Austreibung, um ein Sparschwein in ein Sparschwein zu verwandeln.",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4072902,
+        "name": "Mein Herz, meine Handlungen, sie sind unbewölkt",
+        "desc": "Besiege im Kampf gegen Argenti die „Speerspitze“, den „Schild“ und den „Ehrenhaften“, während diese sich jeweils im Status Seelenbefreiung befinden.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4072803,
@@ -2763,6 +2917,13 @@
         "version": "1.5"
       },
       {
+        "id": 4072903,
+        "name": "Alles für die Schönheit",
+        "desc": "„Die Speerspitze“, „Der Schild“ und „Der Ehrenhafte“ sind in dem Kampf gegen Argenti nicht in den Status Seelenbefreiung eingetreten.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072802,
         "name": "Feuerbrunst",
         "desc": "Lasse im Illusionslabyrinth : Cirrus 4 Flammensprosse gleichzeitig existieren.",
@@ -2770,11 +2931,39 @@
         "version": "1.5"
       },
       {
+        "id": 4072904,
+        "name": "Unbeständige Unterwelt",
+        "desc": "Erringe 1 Kampfsieg mit einem Team, das Hanya und Xueyi enthält.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4072801,
         "name": "Alle zusammen! Auflösen!",
         "desc": "Verwende Huohuos Technik „Unhold: Unterdrückung von Dämonen“, um 6 oder mehr Gegner in die Flucht zu schlagen.",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4072905,
+        "name": "Zuhören ist die beste Kameradschaft",
+        "desc": "Halte an, um dir Hanyas Gemurmel anzuhören.\\n<color=#8790abff>※ Höre dir die Synchronisation von Hanyas Warteanimation und ihrem Warten auf Runde an.</color>",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4072906,
+        "name": "Wortgefecht der Gelehrten",
+        "desc": "Benutze Dr. Wahrheits Technik, Muster eines Idols, um mindestens 6 Gegner gleichzeitig zu verspotten.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4072907,
+        "name": "Menschenzerstörung",
+        "desc": "Verwende Dr. Wahrheit und löse mit seinem Talent „Ich denke, also bin ich“ Folgeangriffe für 4 aufeinanderfolgende Rd. in einem Kampf aus.",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   },
@@ -3662,11 +3851,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092902,
+        "name": "Es lebe der Geniestreich",
+        "desc": "Schalte in der Universum-Simulation 1 Segen der Gelehrsamkeit frei.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092602,
         "name": "Saisonales Jagen",
         "desc": "Fange in der Universum-Simulation: Schwarmkatastrophe durch Kämpfe in der gleichen Ebene mit dem Pfad der Jagd 8 oder mehr Sparschweine.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092903,
+        "name": "Omnissiah",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen der Gelehrsamkeit.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092603,
@@ -3676,11 +3879,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092904,
+        "name": "Vier-Farben-Problem",
+        "desc": "Belege insgesamt 200 Regionen mit „Wissen“ in der Universum-Simulation: Gold und Getriebe.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092604,
         "name": "Predator",
         "desc": "Gewinne 40 Kämpfe, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Zerstörung abschließt.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092905,
+        "name": "Welt am Draht",
+        "desc": "Sieh dir insgesamt 10 empfohlene Handlungen in der Universum-Simulation: Gold und Getriebe an.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092605,
@@ -3690,11 +3907,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092906,
+        "name": "Nach und nach verstehe ich alles",
+        "desc": "Selbstwahrnehmung in der Universum-Simulation: Gold und Getriebe erreicht 40.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092606,
         "name": "Die Universum-Simulation wurde nicht an einem Tag erbaut",
         "desc": "Wende Eckpfeiler auf 8 verschiedene Regionenarten an, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Bewahrung abschließt.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092907,
+        "name": "Mentales Grau",
+        "desc": "Selbstwahrnehmung in der Universum-Simulation: Gold und Getriebe erreicht -40.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092607,
@@ -3704,11 +3935,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092909,
+        "name": "Gruppenbewusstsein",
+        "desc": "Erreiche insgesamt 50 Veränderungen der Selbstwahrnehmung in der Universum-Simulation: Gold und Getriebe.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092608,
         "name": "Zurück zu Klendathu",
         "desc": "Betritt 15-mal die Region „Kampf: Der Schwarm“, „Ereignis: Der Schwarm“ oder „Boss: Der Schwarm“, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Ausbreitung abschließt.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092910,
+        "name": "Der Wolf der Wall Street",
+        "desc": "Erreiche beim Ereignis „Interastrales Investitionsgerät“ der Universum-Simulation: Gold und Getriebe großen Investitionserfolg.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -3718,11 +3963,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092911,
+        "name": "Pacifica ist immer noch Pacifica",
+        "desc": "Verliere in der Universum-Simulation: Gold und Getriebe den Kampf, der vom Ereignis „Cheat-Code (Teil 2)“ ausgelöst wurde.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092610,
         "name": "Verstreute Hagelkörner, zerschmetterte Geisterknochen",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Die Jagd“.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092912,
+        "name": "D-klassiges Personal",
+        "desc": "Verstärke beim Ereignis „Interastrales Friedens-Einkaufszentrum – Mechanische Filiale (Teil 2)“ der Universum-Simulation: Gold und Getriebe 1-mal eine Kuriosität.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -3732,11 +3991,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092913,
+        "name": "Totengeläut auf Leibowitz",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und erringe dabei mindestens 25 Kampfsiege, während du den personalisierten Würfel Kampf-Ableitung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092612,
         "name": "Die Welt als Vorstellung",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Die Nichtigkeit“.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092914,
+        "name": "Tau Zero",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und führe dabei mindestens 20 Ereignisinteraktionen durch, während du den personalisierten Würfel Ereignis-Ableitung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -3746,11 +4019,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092915,
+        "name": "Ebenen im Wandel",
+        "desc": "Betritt in der Universum-Simulation: Gold und Getriebe mindestens 5 nicht angrenzende Regionen in Folge, während du den personalisierten Würfel Verfolgungsjagd benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092614,
         "name": "Zuören, erwachen, erleuchten",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Der Überfluss“.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092916,
+        "name": "Liebesschwindel",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und besiege dabei mindestens 15 Sparschweine, während du den personalisierten Würfel Sparschwein-Ableitung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -3760,11 +4047,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092917,
+        "name": "Sternhafen-Fluglotse",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und betritt dabei mindestens 15 Regionen mit Leuchtfeuer, während du den personalisierten Würfel Fußgänger-Symbiose benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092616,
         "name": "Methusalems Kinder",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Die Ausbreitung“.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092918,
+        "name": "Nach Terminus",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und betritt dabei Regionen mit allen Arten von Leuchtfeuer, während du den personalisierten Würfel Fernstrecken-Leuchtfeuer benutzt.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -3774,11 +4075,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092919,
+        "name": "Der Mann, der den Mond verkaufte",
+        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens Kosmisches Fragment ×2048, während du den personalisierten Würfel Investitions-Verkauf benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092618,
         "name": "Nach den Sternen greifen",
         "desc": "<u>Besitze grenzenlose Macht</u> im Ereignis der Universum-Simulation: Schwarmkatastrophe, Die IFK-Beförderungsgeschichte.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092920,
+        "name": "Spezialist des Halcyon-Vorstands",
+        "desc": "Verwende in der Universum-Simulation: Gold und Getriebe den personalisierten Würfel: Bernstein-Barriere, um mindestens 30 Regionen mit „Wissen“ zu belegen.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092619,
@@ -3788,11 +4103,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092921,
+        "name": "Es ist immer Zeit für Vergnügen",
+        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 30 Pkt. des Countdowns, während du den personalisierten Würfel Countdown benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092620,
         "name": "Willkommen in Valhalla",
         "desc": "Verliere in der Universum-Simulation: Schwarmkatastrophe den Kampf, der von Yu Qingtu, Nr. 55 der Geniusgesellschaft, ausgelöst wurde.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092922,
+        "name": "Spacer’s Choice Laden",
+        "desc": "Tätige beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 20-mal einen Einkauf in einem Segens-, Kuriositäten- oder Verstärkungsladen, während du den personalisierten Würfel Unternehmermoment benutzt.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092621,
@@ -3802,11 +4131,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092923,
+        "name": "Der Kaufmann und das Portal des Alchemisten",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und verwende dabei mindestens 25 Bonus-Würfelversuche oder Mogelversuche, während du den personalisierten Würfel Datenerweiterung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092622,
         "name": "Harvest Moon",
         "desc": "Fange mindestens Sparschwein ×16 in einer „Region – Abenteuer“ der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092924,
+        "name": "Hertas Schatz",
+        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 30 Kuriositäten, während du den personalisierten Würfel Kuriosität-Ableitung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -3816,11 +4159,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092925,
+        "name": "Ich bin das Alpha",
+        "desc": "Sammle das Äonische Geheimnis „Der Anfang“ von Gold und Getriebe.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092624,
         "name": "Ein-Mann-Chor",
         "desc": "Löse in einem Durchlauf von Universum-Simulation: Schwarmkatastrophe 2-mal eine Resonanzkreuzung aus.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092926,
+        "name": "Ich bin das Omega",
+        "desc": "Sammle das Äonische Geheimnis „Das Ende“ von Gold und Getriebe.",
+        "rarity": 2,
+        "version": "1.6"
       },
       {
         "id": 4092625,
@@ -3830,11 +4187,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092927,
+        "name": "Sechzig-seitiger Würfel",
+        "desc": "Schalte 60 Würfelseiten in der Universum-Simulation: Gold und Getriebe frei.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092626,
         "name": "Rad des Schicksals",
         "desc": "Schließe alle Pfadentscheidungen in Region – Ereignis der Universum-Simulation: Schwarmkatastrophe ab.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092928,
+        "name": "Roulette des Schicksals",
+        "desc": "Schalte alle 12 personalisierten Würfel in der Universum-Simulation: Gold und Getriebe frei.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -3844,11 +4215,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092929,
+        "name": "XK-klassiges Ende der Welt",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad V ab.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092628,
         "name": "Zurück in die Zukunft",
         "desc": "Verbrauche insgesamt 50-mal Wiederholungsversuche in der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092930,
+        "name": "Mechanischer Aufstieg",
+        "desc": "Aktiviere im Neuronalen Netz in der Universum-Simulation: Gold und Getriebe Neuron 1.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092629,
@@ -3858,11 +4243,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092931,
+        "name": "Colossus: Das Forbin-Projekt",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad Extrem schwer ab, wenn die Attribut-Rätselstufe auf 6 oder höher ist.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092630,
         "name": "Auf dem Kometen",
         "desc": "Erreiche in einer beliebigen „Region – Abenteuer“ der Universum-Simulation: Schwarmkatastrophe alle Ziele.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092932,
+        "name": "Bubblegum-Krise",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad Extrem schwer ab, wenn die Zusätzliche Rätselstufe auf 6 oder höher ist.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092631,
@@ -3872,11 +4271,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092933,
+        "name": "Rostmeer",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad Extrem schwer ab, wenn die Rätselstufe auf 12 oder höher ist.",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
         "id": 4092632,
         "name": "Massenrelais",
         "desc": "Die Störungsstufe von „Planaren Durcheinander!“ erreicht mindestens 20 beim Abschluss der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092934,
+        "name": "Schlüssel zu alten elektronischen Räumen",
+        "desc": "Die Störungsstufe von „Planaren Durcheinander!“ erreicht mindestens 20 beim Abschluss der Universum-Simulation: Gold und Getriebe.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092636,
@@ -3886,11 +4299,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092935,
+        "name": "König der Flüche",
+        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 10 negative Kuriositäten.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092637,
         "name": "Fremder in einer fremden Welt",
         "desc": "Sammle alle Trailblaze-Geheimnisse in der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 2,
         "version": "1.3"
+      },
+      {
+        "id": 4092936,
+        "name": "Normalverteilung",
+        "desc": "Würfle in der Universum-Simulation: Gold und Getriebe auf demselben Audienzgerät 6 unterschiedliche Würfelseiten in Folge.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -3900,11 +4327,25 @@
         "version": "1.3"
       },
       {
+        "id": 4092937,
+        "name": "Graue Blues",
+        "desc": "Habe beim Abschluss der Universum-Simulation: Gold und Getriebe (Schwierigkeitsgrad III oder höher) 6 blaue Würfelseiten ausgerüstet.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092639,
         "name": "Pest unter den Äonen",
         "desc": "Sammle das Kapitel der Schwarmkatastrophe „Die Jagd I“.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092938,
+        "name": "Über alle wachen Maschinen von liebender Gnade",
+        "desc": "Erleide in einem Kampf in der Universum-Simulation: Gold und Getriebe mindestens 10-mal Resonanz-Ableitung.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -3914,11 +4355,32 @@
         "version": "1.3"
       },
       {
+        "id": 4092939,
+        "name": "Rad des Schicksals",
+        "desc": "Erhalte in „Herausforderung: Roulette“ der Universum-Simulation: Gold und Getriebe 1-mal den Hauptpreis.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
         "id": 4092641,
         "name": "Wie man wird, was man ist",
         "desc": "Sammle das Kapitel der Schwarmkatastrophe „Die Nichtigkeit I“.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092940,
+        "name": "Ausweichreflex",
+        "desc": "Weiche in „Herausforderung: Laserstrahlen ausweichen“ der Universum-Simulation: Gold und Getriebe für 6 aufeinanderfolgende Rd. aus.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092941,
+        "name": "Exterminatus",
+        "desc": "Setze in der Universum-Simulation: Gold und Getriebe Ultimate 10-mal hintereinander ein.",
+        "rarity": 1,
+        "version": "1.6"
       }
     ]
   }
