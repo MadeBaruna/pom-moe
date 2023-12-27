@@ -243,6 +243,36 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['silver-wolf'],
 			featured4: ['hanya', 'lynx', 'asta']
+		},
+		{
+			code: 2017,
+			type: 'character',
+			name: 'Floral Triptych',
+			start: '2023-12-27 06:00:00',
+			end: '2024-01-17 14:59:00',
+			color: '#ccdde1',
+			version: '1.6',
+			image: 'Floral Triptych 2017.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['ruan-mei'],
+			featured4: ['xueyi', 'march-7th', 'tingyun'],
+			timezoneDependent: true
+		},
+		{
+			code: 2018,
+			type: 'character',
+			name: 'A Lost Soul',
+			start: '2023-12-27 06:00:00',
+			end: '2024-01-17 14:59:00',
+			color: '#7d90c3',
+			version: '1.6',
+			image: 'A Lost Soul 2018.jpg',
+			pos: '55% 20%',
+			zoom: 1.2,
+			featured5: ['ruan-mei'],
+			featured4: ['xueyi', 'march-7th', 'tingyun'],
+			timezoneDependent: true
 		}
 	],
 	lightcone: [
@@ -459,6 +489,36 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['incessant-rain'],
 			featured4: ['under-the-blue-sky', 'post-op-conversation', 'the-birth-of-the-self']
+		},
+		{
+			code: 3017,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2023-12-27 06:00:00',
+			end: '2024-01-17 14:59:00',
+			color: '#e9e9e9',
+			version: '1.6',
+			image: 'Brilliant Fixation 3017.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['past-self-in-mirror'],
+			featured4: ['planetary-rendezvous', 'day-one-of-my-new-life', 'a-secret-vow'],
+			timezoneDependent: true
+		},
+		{
+			code: 3018,
+			type: 'lightcone',
+			name: 'Bygone Reminiscence',
+			start: '2023-12-27 06:00:00',
+			end: '2024-01-17 14:59:00',
+			color: '#7d90c3',
+			version: '1.6',
+			image: 'Bygone Reminiscence 3018.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['the-unreachable-side'],
+			featured4: ['planetary-rendezvous', 'day-one-of-my-new-life', 'a-secret-vow'],
+			timezoneDependent: true
 		}
 	],
 	standard: [
