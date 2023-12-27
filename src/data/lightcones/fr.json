@@ -229,13 +229,13 @@
   },
   "subscribe-for-more": {
     "id": "subscribe-for-more",
-    "name": "Abonnez-vous !",
+    "name": "Abonnez-vous !",
     "path": "the-hunt",
     "rarity": 4
   },
   "dance-dance-dance": {
     "id": "dance-dance-dance",
-    "name": "Ça n'arrête pas de danser !",
+    "name": "Ça n'arrête pas de danser !",
     "path": "harmony",
     "rarity": 4
   },
@@ -459,6 +459,18 @@
     "id": "an-instant-before-a-gaze",
     "name": "Moment de grâce",
     "path": "erudition",
+    "rarity": 5
+  },
+  "past-self-in-mirror": {
+    "id": "past-self-in-mirror",
+    "name": "Reflet du passé",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "baptism-of-pure-thought": {
+    "id": "baptism-of-pure-thought",
+    "name": "Baptême de pure réflexion",
+    "path": "the-hunt",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

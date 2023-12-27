@@ -461,6 +461,18 @@
     "path": "erudition",
     "rarity": 5
   },
+  "past-self-in-mirror": {
+    "id": "past-self-in-mirror",
+    "name": "Past Self in Mirror",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "baptism-of-pure-thought": {
+    "id": "baptism-of-pure-thought",
+    "name": "Baptism of Pure Thought",
+    "path": "the-hunt",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "On the Fall of an Aeon",

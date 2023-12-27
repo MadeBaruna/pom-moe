@@ -461,6 +461,18 @@
     "path": "erudition",
     "rarity": 5
   },
+  "past-self-in-mirror": {
+    "id": "past-self-in-mirror",
+    "name": "Tôi Trong Gương Ngày Ấy",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "baptism-of-pure-thought": {
+    "id": "baptism-of-pure-thought",
+    "name": "Lễ Rửa Tội Thuần Khiết",
+    "path": "the-hunt",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "Sự Sụp Đổ Của Aeon",

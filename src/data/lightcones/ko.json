@@ -461,6 +461,18 @@
     "path": "erudition",
     "rarity": 5
   },
+  "past-self-in-mirror": {
+    "id": "past-self-in-mirror",
+    "name": "거울 속 지난날의 나",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "baptism-of-pure-thought": {
+    "id": "baptism-of-pure-thought",
+    "name": "순수 사유의 세례",
+    "path": "the-hunt",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "어떤 에이언즈의 몰락",

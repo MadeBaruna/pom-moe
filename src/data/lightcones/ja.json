@@ -461,6 +461,18 @@
     "path": "erudition",
     "rarity": 5
   },
+  "past-self-in-mirror": {
+    "id": "past-self-in-mirror",
+    "name": "鏡の中の私",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "baptism-of-pure-thought": {
+    "id": "baptism-of-pure-thought",
+    "name": "純粋なる思惟の洗礼",
+    "path": "the-hunt",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "とある星神の殞落を記す",

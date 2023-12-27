@@ -343,7 +343,7 @@
   },
   "hey-over-here": {
     "id": "hey-over-here",
-    "name": "Ei, Estou Aqui",
+    "name": "Ei, Estou Aqui!",
     "path": "abundance",
     "rarity": 4
   },
@@ -459,6 +459,18 @@
     "id": "an-instant-before-a-gaze",
     "name": "Um Instante Eternamente Adorado",
     "path": "erudition",
+    "rarity": 5
+  },
+  "past-self-in-mirror": {
+    "id": "past-self-in-mirror",
+    "name": "Meu Passado no Espelho",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "baptism-of-pure-thought": {
+    "id": "baptism-of-pure-thought",
+    "name": "O Batismo de Pensamento Puro",
+    "path": "the-hunt",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

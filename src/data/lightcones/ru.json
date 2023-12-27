@@ -461,6 +461,18 @@
     "path": "erudition",
     "rarity": 5
   },
+  "past-self-in-mirror": {
+    "id": "past-self-in-mirror",
+    "name": "Отражение прошлой меня",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "baptism-of-pure-thought": {
+    "id": "baptism-of-pure-thought",
+    "name": "Крещение чистой мысли",
+    "path": "the-hunt",
+    "rarity": 5
+  },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
     "name": "О падении Эона",
