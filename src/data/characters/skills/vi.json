@@ -7341,6 +7341,148 @@
       ]
     }
   },
+  "dr-ratio": {
+    "attack": {
+      "name": "Tri Thức Là Sức Mạnh",
+      "desc": "Gây Sát Thương Số Ảo cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dr. Ratio.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Thuật Nâng Cao Trí Tuệ",
+      "desc": "Gây Sát Thương Số Ảo cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dr. Ratio.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Tam Đoạn Phản Luận",
+      "desc": "Gây Sát Thương Số Ảo lên 1 kẻ địch chỉ định bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dr. Ratio, đồng thời kèm theo Sự Mù Quáng Của Trí Giả. Khi đồng đội của Dr. Ratio tấn công mục tiêu đang có Sự Mù Quáng Của Trí Giả, Dr. Ratio sẽ phát động 1 lần <u>Đòn Đánh Theo Sau</u> của Thiên Phú lên mục tiêu này.\\nHiệu ứng Sự Mù Quáng Của Trí Giả tối đa kích hoạt {2} lần, hơn nữa chỉ có hiệu lực với mục tiêu mà Dr. Ratio thi triển Tuyệt Kỹ mới nhất lên đó. Sau khi thi triển Tuyệt Kỹ sẽ làm mới số lần kích hoạt hiệu ứng này.",
+      "values": [
+        [
+          144,
+          154,
+          163,
+          173,
+          182,
+          192,
+          204,
+          216,
+          228,
+          240,
+          250,
+          259,
+          269,
+          278,
+          288
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Tôi Tư Duy, Nên Tôi Tồn Tại",
+      "desc": "Khi thi triển Chiến Kỹ, có {2} <u>xác suất cố định</u> phát động 1 lần <u>Đòn Đánh Theo Sau</u> lên mục tiêu này, gây Sát Thương Số Ảo bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Dr. Ratio. Mỗi khi mục tiêu có 1 Hiệu Ứng Xấu sẽ tăng {3} <u>xác suất cố định</u> phát động <u>Đòn Đánh Theo Sau</u>. Nếu mục tiêu bị tiêu diệt trước khi phát động <u>Đòn Đánh Theo Sau</u> thì sẽ phát động <u>Đòn Đánh Theo Sau</u> lên 1 kẻ địch ngẫu nhiên.",
+      "values": [
+        [
+          135,
+          149,
+          162,
+          176,
+          189,
+          202,
+          219,
+          236,
+          253,
+          270,
+          284,
+          297,
+          310,
+          324,
+          338
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Hun Đúc Thần Tượng",
+      "desc": "Sau khi dùng Bí Kỹ, sẽ tạo ra 1 vùng đặc biệt khiêu khích kẻ địch ở gần, duy trì {1} giây. Sau khi vào chiến đấu với kẻ địch trong vùng đặc biệt, có {2} <u>xác suất cơ bản</u> khiến Tốc Độ của mỗi kẻ địch giảm {3}, duy trì {4} hiệp. Tối đa chỉ tồn tại 1 hiệu ứng vùng do phe ta tạo ra.",
+      "values": [
+        [
+          10
+        ],
+        [
+          100
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Tia Sáng Xuyên Băng",

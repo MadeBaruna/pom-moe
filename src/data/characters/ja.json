@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "天才クラブのメンバー、生命科学の専門家。ヘルタたちと協力して模擬宇宙を開発した。"
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "Dr.レイシオ",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "博識学会の学者。\\n\\n変わった性格をしていて、毒舌だが立ち振る舞いはエレガントである。\\n奇異な石膏頭の下の容貌は意外にも美しい。"
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "開拓者",

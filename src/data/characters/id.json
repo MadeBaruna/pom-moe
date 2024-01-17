@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "Seorang anggota Genius Society dan ahli bidang ilmu kehidupan. Dia bekerja sama dengan Herta dan timnya untuk mengembangkan Simulated Universe."
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "Dr. Ratio",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Anggota Intelligentsia Guild.\\nMemiliki kepribadian yang eksentrik, mulut yang tajam saat berbicara namun elegan.\\nWajah yang terdapat dalam kepala gipsum itu ternyata tampan."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",

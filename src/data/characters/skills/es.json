@@ -7341,6 +7341,148 @@
       ]
     }
   },
+  "dr-ratio": {
+    "attack": {
+      "name": "El conocimiento es poder",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ del Dr. Ratio como Daño Imaginario a un enemigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Método de refuerzo cognitivo",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ del Dr. Ratio como Daño Imaginario a un enemigo.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Paradoja silogística",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ del Dr. Ratio como Daño Imaginario a un enemigo y le aplica Locura de los sabios. Cuando un aliado del Dr. Ratio ataca a un objetivo afectado por Locura de los sabios, el Dr. Ratio lanza el <u>ataque adicional</u> del talento contra dicho objetivo.\\nLocura de los sabios se puede activar hasta {2} veces y solo afecta al último objetivo afectado por la habilidad definitiva del Dr. Ratio. Tras usar la habilidad definitiva, se reinicia el contador de activaciones.",
+      "values": [
+        [
+          144,
+          154,
+          163,
+          173,
+          182,
+          192,
+          204,
+          216,
+          228,
+          240,
+          250,
+          259,
+          269,
+          278,
+          288
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Pienso, luego existo",
+      "desc": "Al usar su habilidad básica, el Dr. Ratio tiene una <u>probabilidad fija</u> del {2} de lanzar un <u>ataque adicional</u> contra el objetivo e infligir un Daño Imaginario equivalente al <span style=\"color: #f29e38ff\">{1}</span> de su ATQ. Por cada estado negativo que tenga el objetivo, la <u>probabilidad fija</u> de lanzar el <u>ataque adicional</u> aumenta en un {3}. Si el objetivo es derrotado antes de que se lance el <u>ataque adicional</u>, el <u>ataque adicional</u> se dirige contra otro enemigo al azar.",
+      "values": [
+        [
+          135,
+          149,
+          162,
+          176,
+          189,
+          202,
+          219,
+          236,
+          253,
+          270,
+          284,
+          297,
+          310,
+          324,
+          338
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Molde de la idolatría",
+      "desc": "Tras usar la técnica, crea una zona especial que afecta con Provocación a los enemigos cercanos durante {1} s. Al entrar en combate con los enemigos dentro de la zona especial, hay una <u>probabilidad base</u> del {2} de que la VEL de cada enemigo se reduzca en un {3} durante {4} turnos. Solo puedes tener una zona especial creada por los aliados a la vez.",
+      "values": [
+        [
+          10
+        ],
+        [
+          100
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Luz rompehielos",

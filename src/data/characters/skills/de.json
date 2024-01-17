@@ -7341,6 +7341,148 @@
       ]
     }
   },
+  "dr-ratio": {
+    "attack": {
+      "name": "Wissen ist Macht",
+      "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Dr. Wahrheits ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Geistige Geburtshilfe",
+      "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Dr. Wahrheits ANG zu.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Dreiteiliges Paradoxon",
+      "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Dr. Wahrheits ANG zu und verursacht „Torheit der Weisen“. Wenn Dr. Wahrheits Verbündete mit Torheit der Weisen belegte Gegner angreifen, wird 1-mal ein <u>Folgeangriff</u> von Dr. Wahrheits Talent auf sie ausgelöst.\\nTorheit der Weisen kann max. {2}-mal ausgelöst werden und wirkt nur auf das letzte Ziel von Dr. Wahrheits Ultimate. Nach Einsatz von Dr. Wahrheits Ultimate wird die Auslösungsanzahl zurückgesetzt.",
+      "values": [
+        [
+          144,
+          154,
+          163,
+          173,
+          182,
+          192,
+          204,
+          216,
+          228,
+          240,
+          250,
+          259,
+          269,
+          278,
+          288
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Ich denke, also bin ich",
+      "desc": "Beim Einsatz der Fertigkeit besteht eine <u>feste Chance</u> von {2}, dass 1-mal ein <u>Folgeangriff</u> auf das Ziel ausgelöst wird, was ihm imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Dr. Wahrheits ANG zufügt. Für jeden Debuff des Ziels wird die <u>feste Chance</u> auf die Auslösung des <u>Folgeangriffs</u> um {3} erhöht. Wenn das Ziel vor der Auslösung besiegt wird, wird der <u>Folgeangriff</u> auf einen zufälligen Gegner ausgeübt.",
+      "values": [
+        [
+          135,
+          149,
+          162,
+          176,
+          189,
+          202,
+          219,
+          236,
+          253,
+          270,
+          284,
+          297,
+          310,
+          324,
+          338
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Muster eines Idols",
+      "desc": "Nach dem Einsatz der Technik wird für {1} Sek. eine spezielle Dimension erzeugt, die Gegner in der Nähe verspottet. Nach Kampfeintritt mit Gegnern in der Dimension besteht eine <u>Grundchance</u> von {2}, dass den Gegnern für {4} Rd. eine GES-Reduktion von {3} zugefügt wird. Es kann nur 1 von Verbündeten erschaffene Dimension zur gleichen Zeit existieren.",
+      "values": [
+        [
+          10
+        ],
+        [
+          100
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Eisbrechendes Licht",

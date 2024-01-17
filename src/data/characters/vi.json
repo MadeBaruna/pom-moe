@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "Hội viên Câu Lạc Bộ Thiên Tài, chuyên gia trong lĩnh vực khoa học sinh mệnh, cùng hợp tác với nhóm người Herta phát triển Vũ Trụ Mô Phỏng."
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "Dr. Ratio",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Học Giả Hội Trí Thức.\\nTính tình kỳ quặc, lời lẽ khắc khe nhưng không kém phần phong độ.\\nẨn chứa bên dưới cái đầu thạch cao kỳ quái đó là một dung mạo đẹp lạ thường."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Nhà Khai Phá",

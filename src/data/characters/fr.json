@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "Une membre de la Société des génies experte en sciences de la vie. Elle a collaboré avec Herta et d'autres génies pour développer l'Univers simulé."
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "Dr Ratio",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Membre de la Guilde de l'intelligentsia.\\nD'un tempérament excentrique, incisif, mais toujours élégant.\\nLe visage derrière l'étrange masque de plâtre ne manque pourtant pas de charmes."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Pionnier",

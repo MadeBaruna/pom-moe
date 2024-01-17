@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "Miembro del Círculo de Genios y experta en las ciencias de la vida. Colaboró con Herta y el resto de genios para desarrollar el Universo Simulado."
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "Dr. Ratio",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Un erudito de la Sociedad del Conocimiento.\\nTiene un temperamento peculiar y utiliza un lenguaje mordaz, pero con un estilo elegante.\\nA veces oculta su rostro bajo una extraña cabeza de yeso, aunque es muy atractivo."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trazacaminos",

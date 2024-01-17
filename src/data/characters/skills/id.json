@@ -7341,6 +7341,148 @@
       ]
     }
   },
+  "dr-ratio": {
+    "attack": {
+      "name": "Mind is Might",
+      "desc": "Mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Dr. Ratio pada 1 musuh yang ditarget.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Intellectual Midwifery",
+      "desc": "Mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Dr. Ratio pada 1 musuh yang ditarget.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Syllogistic Paradox",
+      "desc": "Mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Dr. Ratio pada satu musuh yang ditarget, dan menambahkan \"Wiseman's Folly\". Saat rekan tim Dr. Ratio menyerang target yang memiliki \"Wiseman's Folly\", Dr. Ratio akan melancarkan 1 kali <u>Serangan Lanjutan</u> dari Talent kepada target tersebut.\\nEfek \"Wiseman's Folly\" dapat dipicu paling banyak {2} kali dan hanya berlaku pada target Ultimate Dr. Ratio yang terbaru. Setelah melancarkan Ultimate, jumlah pemicuan efek ini akan direset.",
+      "values": [
+        [
+          144,
+          154,
+          163,
+          173,
+          182,
+          192,
+          204,
+          216,
+          228,
+          240,
+          250,
+          259,
+          269,
+          278,
+          288
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Cogito, Ergo Sum",
+      "desc": "Saat melancarkan Skill, ada {2} <u>peluang tetap</u> untuk melancarkan 1 kali <u>Serangan Lanjutan</u> pada target tersebut, yang mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Dr. Ratio. Untuk setiap 1 efek Debuff yang dimiliki target, akan meningkatkan {3} <u>peluang tetap</u> pelancaran <u>Serangan Lanjutan</u>. Jika target dikalahkan sebelum <u>Serangan Lanjutan</u> dilancarkan, maka akan melancarkan <u>Serangan Lanjutan</u> pada satu musuh secara acak.",
+      "values": [
+        [
+          135,
+          149,
+          162,
+          176,
+          189,
+          202,
+          219,
+          236,
+          253,
+          270,
+          284,
+          297,
+          310,
+          324,
+          338
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Mold of Idolatry",
+      "desc": "Setelah menggunakan Technique, akan menciptakan sebuah Dimension yang akan memancing (Taunt) musuh di sekitar, berlangsung selama {1} detik. Setelah memasuki pertempuran dengan musuh di dalam Dimension, ada {2} <u>peluang dasar</u> untuk membuat SPD setiap target musuh berkurang {3}, berlangsung selama {4} giliran. Hanya boleh ada 1 efek Dimension ciptaan rekan tim dalam satu waktu.",
+      "values": [
+        [
+          10
+        ],
+        [
+          100
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Ice-Breaking Light",

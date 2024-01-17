@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "지니어스 클럽 회원이자 생명과학 분야의 전문가로, 헤르타 일행과 함께 시뮬레이션 우주를 연구하고 있다"
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "Dr. 레이시오",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "지식학회 학자.\\n성정이 괴팍하고 언사가 야박하지만 품위가 있다.\\n기이한 석고 마스크 아래의 용모는 의외로 준수하다"
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "개척자",

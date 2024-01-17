@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "A member of the Genius Society and an expert in life sciences. She teamed up with Herta and others to develop the Simulated Universe."
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "Dr. Ratio",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Member of the Intelligentsia Guild.\\nEccentric temperament, sharp-tongued but with an elegant demeanor.\\nThe face under the strange plaster head sculpture is apparently unexpectedly handsome."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",

@@ -7341,6 +7341,148 @@
       ]
     }
   },
+  "dr-ratio": {
+    "attack": {
+      "name": "Mind is Might",
+      "desc": "Deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dr. Ratio's ATK to a single target enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Intellectual Midwifery",
+      "desc": "Deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dr. Ratio's ATK to a single target enemy.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Syllogistic Paradox",
+      "desc": "Deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's allies attack a target afflicted with Wiseman's Folly, Dr. Ratio launches his Talent's <u>follow-up attack</u> for 1 time against this target.\\nWiseman's Folly can be triggered for up to {2} times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used.",
+      "values": [
+        [
+          144,
+          154,
+          163,
+          173,
+          182,
+          192,
+          204,
+          216,
+          228,
+          240,
+          250,
+          259,
+          269,
+          278,
+          288
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Cogito, Ergo Sum",
+      "desc": "When using his Skill, Dr. Ratio has a {2} <u>fixed chance</u> of launching a <u>follow-up attack</u> against his target for 1 time, dealing Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Dr. Ratio's ATK. For each debuff the target enemy has, the <u>fixed chance</u> of launching <u>follow-up attack</u> increases by {3}. If the target enemy is defeated before the <u>follow-up attack</u> triggers, the <u>follow-up attack</u> will be directed at a single random enemy instead.",
+      "values": [
+        [
+          135,
+          149,
+          162,
+          176,
+          189,
+          202,
+          219,
+          236,
+          253,
+          270,
+          284,
+          297,
+          310,
+          324,
+          338
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Mold of Idolatry",
+      "desc": "After using Technique, creates a special dimension that Taunts nearby enemies, lasting for {1} second(s). After entering battle with enemies in this special dimension, there is a {2} <u>base chance</u> to reduce each single enemy target's SPD by {3} for {4} turn(s). Only 1 dimension created by allies can exist at the same time.",
+      "values": [
+        [
+          10
+        ],
+        [
+          100
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Ice-Breaking Light",

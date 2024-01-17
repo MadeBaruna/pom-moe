@@ -7341,6 +7341,148 @@
       ]
     }
   },
+  "dr-ratio": {
+    "attack": {
+      "name": "A Mente É Poderosa",
+      "desc": "Causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ do Dr. Ratio a um único inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Obstetrícia Intelectual",
+      "desc": "Causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ do Dr. Ratio a um único inimigo.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Paradoxo Silogístico",
+      "desc": "Causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ do Dr. Ratio a um único inimigo-alvo e aplica a Tolice do Sábio. Quando os aliados do Dr. Ratio atacam um alvo afligido com Tolice do Sábio, o Dr. Ratio realiza o <u>Ataque Extra</u> do seu Talento 1 vez contra o alvo.\\nA Tolice do Sábio pode ser ativada até {2} vezes e só afeta o alvo mais recente da Perícia Suprema do Dr. Ratio. Essa contagem de ativação reinicia depois que a Perícia Suprema do Dr. Ratio é utilizada.",
+      "values": [
+        [
+          144,
+          154,
+          163,
+          173,
+          182,
+          192,
+          204,
+          216,
+          228,
+          240,
+          250,
+          259,
+          269,
+          278,
+          288
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Cogito, Ergo Sum",
+      "desc": "Ao usar a sua Perícia, o Dr. Ratio tem uma <u>chance fixa</u> de {2} de realizar um <u>Ataque Extra</u> contra o alvo 1 vez, causando Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ do Dr. Ratio. Para cada penalidade que o inimigo possui, a <u>chance fixa</u> de realizar o <u>Ataque Extra</u> aumenta em {3}. Se o inimigo-alvo for derrotado antes da ativação do <u>Ataque Extra</u>, o <u>Ataque Extra</u> será direcionado a um único inimigo aleatório ao invés disso.",
+      "values": [
+        [
+          135,
+          149,
+          162,
+          176,
+          189,
+          202,
+          219,
+          236,
+          253,
+          270,
+          284,
+          297,
+          310,
+          324,
+          338
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Molde da Idolatria",
+      "desc": "Após usar a Técnica, cria uma dimensão especial que causa Provocação nos inimigos próximos, durando por {1} segundo(s). Após entrar em combate com inimigos nesta dimensão especial, há uma <u>chance-base</u> de {2} de reduzir a VEL de cada inimigo-alvo em {3} por {4} rodada(s). Apenas 1 dimensão criada pelos aliados pode existir ao mesmo tempo.",
+      "values": [
+        [
+          10
+        ],
+        [
+          100
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Luz Quebra-Gelo",

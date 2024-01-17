@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "Ein Mitglied der Geniusgesellschaft und Expertin im Bereich Lebenswissenschaft. Sie hat zusammen mit Herta und den anderen die Universum-Simulation entwickelt."
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "Dr. Wahrheit",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Mitglied der Intelligenzia-Gilde.\\nExzentrisches Temperament, scharfzüngig aber mit vornehmem Verhalten.\\nDas Gesicht unter der seltsamen Gipsskultur soll unerwartet hübsch sein."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",

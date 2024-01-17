@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "天才俱樂部會員，生命科學領域專家，與黑塔等人聯手研發模擬宇宙。"
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "真理醫生",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "博識學會學者。\\n性情古怪、言辭刻薄卻又風度翩翩。\\n奇異石膏頭雕下的面容似乎出人意料地俊美。"
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "開拓者",

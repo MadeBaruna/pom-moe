@@ -311,6 +311,14 @@
     "rarity": 5,
     "background": "Uma membro da Sociedade de Gênios e especialista em ciências da vida. Ela se uniu à Herta e aos outros para desenvolver o Universo Simulado."
   },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "Dr. Ratio",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Membro da Guilda de Intelectuais.\\nTem um temperamento excêntrico, uma língua afiada e uma aparência elegante.\\nO rosto por baixo da estranha escultura de gesso é inesperadamente belo."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Desbravador",

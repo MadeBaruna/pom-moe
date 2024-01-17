@@ -7341,6 +7341,148 @@
       ]
     }
   },
+  "dr-ratio": {
+    "attack": {
+      "name": "Puissance de l'esprit",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dr Ratio à une cible unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Déclic intellectuel",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dr Ratio à une cible unique.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          112,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Paradoxe du syllogisme",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dr Ratio à une cible ennemie unique et applique Folie du sage. Lorsque les alliés de Dr Ratio attaquent une cible affectée par Folie du sage, Dr Ratio lui inflige l'<u>attaque de suivi</u> de son talent une fois.\\nFolie du sage peut être déclenchée jusqu'à {2} fois et n'affecte que la cible la plus récente de l'ultime de Dr Ratio. Le nombre de déclenchements est réinitialisé après que Dr Ratio utilise son ultime.",
+      "values": [
+        [
+          144,
+          154,
+          163,
+          173,
+          182,
+          192,
+          204,
+          216,
+          228,
+          240,
+          250,
+          259,
+          269,
+          278,
+          288
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Cogito, Ergo Sum",
+      "desc": "Dr Ratio a {2} de <u>chances fixes</u> de déclencher 1 <u>attaque de suivi</u> contre sa cible lorsqu'il utilise sa compétence, lui infligeant des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dr Ratio. Les <u>chances fixes</u> de déclencher l'<u>attaque de suivi</u> augmentent de {3} pour chaque malus appliqué à la cible ennemie. L'<u>attaque de suivi</u> est lancée sur un autre ennemi aléatoire si la cible ennemie est vaincue avant que l'<u>attaque de suivi</u> ne soit déclenchée.",
+      "values": [
+        [
+          135,
+          149,
+          162,
+          176,
+          189,
+          202,
+          219,
+          236,
+          253,
+          270,
+          284,
+          297,
+          310,
+          324,
+          338
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Fascination façonnée",
+      "desc": "Crée une dimension spéciale qui provoque les ennemis proches pendant {1} secondes après avoir utilisé la technique. Il y a {2} de <u>chances de base</u> de réduire la VIT des ennemis de {3} pendant {4} tours en engageant le combat avec des ennemis dans la dimension. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "values": [
+        [
+          10
+        ],
+        [
+          100
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Feu fendeur de glace",
