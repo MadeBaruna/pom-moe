@@ -12,6 +12,17 @@ const timeline: Array<Timeline[]> = [
 			zoom: 1.2,
 			url: 'https://www.hoyolab.com/article/23404782',
 			show: true
+		},
+		{
+			name: 'Realm of the Strange',
+			start: '2024-01-26 04:00:00',
+			end: '2024-02-02 03:59:00',
+			image: 'Realm of the Strange.png',
+			color: '#6a77f4',
+			pos: '30%, -40%',
+			zoom: 1.2,
+			url: 'https://www.hoyolab.com/article/24300855',
+			show: true
 		}
 	],
 	[
@@ -57,6 +68,17 @@ const timeline: Array<Timeline[]> = [
 			pos: '30%, -40%',
 			zoom: 1.2,
 			url: 'https://www.hoyolab.com/article/23764233',
+			show: true
+		},
+		{
+			name: 'Virtual Scentventure',
+			start: '2024-01-17 12:00:00',
+			end: '2024-02-05 03:59:00',
+			image: 'Virtual Scentventure.png',
+			color: '#7bd0fa',
+			pos: '30%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24358259',
 			show: true
 		}
 	],
@@ -109,6 +131,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/23851896',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Nessun Dorma - Kafka Warp Event',
+			start: '2024-01-17 12:00:00',
+			end: '2024-02-05 14:59:00',
+			image: 'Nessun Dorma 2020.jpg',
+			color: '#bfa4ed',
+			pos: '0%, 3%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24375691',
+			show: true
 		}
 	],
 	[
@@ -146,6 +179,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/23851896',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Panta Rhei - Dr. Ratio Warp Event',
+			start: '2024-01-17 12:00:00',
+			end: '2024-02-05 14:59:00',
+			image: 'Panta Rhei 2019.jpg',
+			color: '#89ebfc',
+			pos: '0%, 3%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24375691',
+			show: true
 		}
 	],
 	[
@@ -183,6 +227,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/23851972',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2024-01-17 12:00:00',
+			end: '2024-02-05 14:59:00',
+			image: 'Brilliant Fixation 3019.jpg',
+			color: '#a6bed4',
+			pos: '0%, -5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24375691',
+			show: true
 		}
 	],
 	[
@@ -208,6 +263,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/23851972',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2024-01-17 12:00:00',
+			end: '2024-02-05 14:59:00',
+			image: 'Bygone Reminiscence 3020.jpg',
+			color: '#e599af',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24375691',
+			show: true
 		}
 	],
 	[
