@@ -273,6 +273,34 @@ export const banners: Banners = {
 			featured5: ['ruan-mei'],
 			featured4: ['xueyi', 'march-7th', 'tingyun'],
 			timezoneDependent: true
+		},
+		{
+			code: 2019,
+			type: 'character',
+			name: 'Panta Rhei',
+			start: '2024-01-17 12:00:00',
+			end: '2024-02-05 14:59:00',
+			color: '#7d90c3',
+			version: '1.6',
+			image: 'Panta Rhei 2019.jpg',
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['dr-ratio'],
+			featured4: ['sushang', 'natasha', 'hook']
+		},
+		{
+			code: 2020,
+			type: 'character',
+			name: 'Nessun Dorma',
+			start: '2024-01-17 12:00:00',
+			end: '2024-02-05 14:59:00',
+			color: '#7d90c3',
+			version: '1.6',
+			image: 'Panta Rhei 2019.jpg',
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['kafka'],
+			featured4: ['sushang', 'natasha', 'hook']
 		}
 	],
 	lightcone: [
@@ -519,6 +547,34 @@ export const banners: Banners = {
 			featured5: ['the-unreachable-side'],
 			featured4: ['planetary-rendezvous', 'day-one-of-my-new-life', 'a-secret-vow'],
 			timezoneDependent: true
+		},
+		{
+			code: 3019,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2024-01-17 12:00:00',
+			end: '2024-02-05 14:59:00',
+			color: '#7d90c3',
+			version: '1.6',
+			image: 'Brilliant Fixation 3019.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['baptism-of-pure-thought'],
+			featured4: ['perfect-timing', 'only-silence-remains', 'landaus-choice']
+		},
+		{
+			code: 3020,
+			type: 'lightcone',
+			name: 'Bygone Reminiscence',
+			start: '2024-01-17 12:00:00',
+			end: '2024-02-05 14:59:00',
+			color: '#7d90c3',
+			version: '1.6',
+			image: 'Bygone Reminiscence 3020.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['patience-is-all-you-need'],
+			featured4: ['perfect-timing', 'only-silence-remains', 'landaus-choice']
 		}
 	],
 	standard: [
