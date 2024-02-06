@@ -335,6 +335,54 @@
     "path": "erudition",
     "rarity": 4
   },
+  "what-is-real": {
+    "id": "what-is-real",
+    "name": "O Que É Real?",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "dreamville-adventure": {
+    "id": "dreamville-adventure",
+    "name": "Aventura de Sonhópolis",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "final-victor": {
+    "id": "final-victor",
+    "name": "O Último Vencedor",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "flames-afar": {
+    "id": "flames-afar",
+    "name": "Chamas Distantes",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "destinys-threads-forewoven": {
+    "id": "destinys-threads-forewoven",
+    "name": "Fios Forjados do Destino",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "the-day-the-cosmos-fell": {
+    "id": "the-day-the-cosmos-fell",
+    "name": "O Dia em que o Cosmos Caiu",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "its-showtime": {
+    "id": "its-showtime",
+    "name": "É Hora do Show",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "indelible-promise": {
+    "id": "indelible-promise",
+    "name": "Promessa Indelével",
+    "path": "destruction",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Antes do Início da Missão do Tutorial",
@@ -471,6 +519,18 @@
     "id": "baptism-of-pure-thought",
     "name": "O Batismo de Pensamento Puro",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "earthly-escapade": {
+    "id": "earthly-escapade",
+    "name": "Fuga Terrena",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "reforged-remembrance": {
+    "id": "reforged-remembrance",
+    "name": "Recordação Reforjada",
+    "path": "nihility",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

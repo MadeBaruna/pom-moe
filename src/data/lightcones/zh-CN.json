@@ -335,6 +335,54 @@
     "path": "erudition",
     "rarity": 4
   },
+  "what-is-real": {
+    "id": "what-is-real",
+    "name": "何物为真",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "dreamville-adventure": {
+    "id": "dreamville-adventure",
+    "name": "美梦小镇大冒险",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "final-victor": {
+    "id": "final-victor",
+    "name": "最后的赢家",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "flames-afar": {
+    "id": "flames-afar",
+    "name": "在火的远处",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "destinys-threads-forewoven": {
+    "id": "destinys-threads-forewoven",
+    "name": "织造命运之线",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "the-day-the-cosmos-fell": {
+    "id": "the-day-the-cosmos-fell",
+    "name": "银河沦陷日",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "its-showtime": {
+    "id": "its-showtime",
+    "name": "好戏开演",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "indelible-promise": {
+    "id": "indelible-promise",
+    "name": "铭记于心的约定",
+    "path": "destruction",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "新手任务开始前",
@@ -471,6 +519,18 @@
     "id": "baptism-of-pure-thought",
     "name": "纯粹思维的洗礼",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "earthly-escapade": {
+    "id": "earthly-escapade",
+    "name": "游戏尘寰",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "reforged-remembrance": {
+    "id": "reforged-remembrance",
+    "name": "重塑时光之忆",
+    "path": "nihility",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

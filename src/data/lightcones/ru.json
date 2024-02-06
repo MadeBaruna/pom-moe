@@ -335,6 +335,54 @@
     "path": "erudition",
     "rarity": 4
   },
+  "what-is-real": {
+    "id": "what-is-real",
+    "name": "Что есть реальность?",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "dreamville-adventure": {
+    "id": "dreamville-adventure",
+    "name": "Приключения Грёзавиля",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "final-victor": {
+    "id": "final-victor",
+    "name": "Единственный победитель",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "flames-afar": {
+    "id": "flames-afar",
+    "name": "Вдали от огня",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "destinys-threads-forewoven": {
+    "id": "destinys-threads-forewoven",
+    "name": "Плетение нитей судьбы",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "the-day-the-cosmos-fell": {
+    "id": "the-day-the-cosmos-fell",
+    "name": "День падения вселенной",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "its-showtime": {
+    "id": "its-showtime",
+    "name": "Шоу начинается",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "indelible-promise": {
+    "id": "indelible-promise",
+    "name": "Хранящееся в сердце обещание",
+    "path": "destruction",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Перед началом тренировочной миссии",
@@ -471,6 +519,18 @@
     "id": "baptism-of-pure-thought",
     "name": "Крещение чистой мысли",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "earthly-escapade": {
+    "id": "earthly-escapade",
+    "name": "Мирские шалости",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "reforged-remembrance": {
+    "id": "reforged-remembrance",
+    "name": "Изменённые воспоминания",
+    "path": "nihility",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

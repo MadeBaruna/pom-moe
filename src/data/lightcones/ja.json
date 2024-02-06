@@ -1,37 +1,37 @@
 {
   "arrows": {
     "id": "arrows",
-    "name": "矢じり",
+    "name": "{RUBY_B#や}矢{RUBY_E#}じり",
     "path": "the-hunt",
     "rarity": 3
   },
   "cornucopia": {
     "id": "cornucopia",
-    "name": "物穣",
+    "name": "{RUBY_B#ぶつじょう}物穣{RUBY_E#}",
     "path": "abundance",
     "rarity": 3
   },
   "collapsing-sky": {
     "id": "collapsing-sky",
-    "name": "天傾",
+    "name": "{RUBY_B#てんけい}天傾{RUBY_E#}",
     "path": "destruction",
     "rarity": 3
   },
   "amber": {
     "id": "amber",
-    "name": "琥珀",
+    "name": "{RUBY_B#こはく}琥珀{RUBY_E#}",
     "path": "preservation",
     "rarity": 3
   },
   "void": {
     "id": "void",
-    "name": "幽邃",
+    "name": "{RUBY_B#ゆうすい}幽邃{RUBY_E#}",
     "path": "nihility",
     "rarity": 3
   },
   "chorus": {
     "id": "chorus",
-    "name": "斉頌",
+    "name": "{RUBY_B#せいしょう}斉頌{RUBY_E#}",
     "path": "harmony",
     "rarity": 3
   },
@@ -43,187 +43,187 @@
   },
   "darting-arrow": {
     "id": "darting-arrow",
-    "name": "離弦",
+    "name": "{RUBY_B#りげん}離弦{RUBY_E#}",
     "path": "the-hunt",
     "rarity": 3
   },
   "fine-fruit": {
     "id": "fine-fruit",
-    "name": "嘉果",
+    "name": "{RUBY_B#かか}嘉果{RUBY_E#}",
     "path": "abundance",
     "rarity": 3
   },
   "shattered-home": {
     "id": "shattered-home",
-    "name": "楽壊",
+    "name": "{RUBY_B#らくかい}楽壊{RUBY_E#}",
     "path": "destruction",
     "rarity": 3
   },
   "defense": {
     "id": "defense",
-    "name": "防衛",
+    "name": "{RUBY_B#ぼうえい}防衛{RUBY_E#}",
     "path": "preservation",
     "rarity": 3
   },
   "loop": {
     "id": "loop",
-    "name": "淵環",
+    "name": "{RUBY_B#えんかん}淵環{RUBY_E#}",
     "path": "nihility",
     "rarity": 3
   },
   "meshing-cogs": {
     "id": "meshing-cogs",
-    "name": "輪契",
+    "name": "{RUBY_B#りんけい}輪契{RUBY_E#}",
     "path": "harmony",
     "rarity": 3
   },
   "passkey": {
     "id": "passkey",
-    "name": "霊鍵",
+    "name": "{RUBY_B#れいけん}霊鍵{RUBY_E#}",
     "path": "erudition",
     "rarity": 3
   },
   "adversarial": {
     "id": "adversarial",
-    "name": "相抗",
+    "name": "{RUBY_B#そうこう}相抗{RUBY_E#}",
     "path": "the-hunt",
     "rarity": 3
   },
   "multiplication": {
     "id": "multiplication",
-    "name": "蕃殖",
+    "name": "{RUBY_B#はんしょく}蕃殖{RUBY_E#}",
     "path": "abundance",
     "rarity": 3
   },
   "mutual-demise": {
     "id": "mutual-demise",
-    "name": "倶歿",
+    "name": "{RUBY_B#くぼつ}倶歿{RUBY_E#}",
     "path": "destruction",
     "rarity": 3
   },
   "pioneering": {
     "id": "pioneering",
-    "name": "新天地",
+    "name": "{RUBY_B#しんてんち}新天地{RUBY_E#}",
     "path": "preservation",
     "rarity": 3
   },
   "hidden-shadow": {
     "id": "hidden-shadow",
-    "name": "匿影",
+    "name": "{RUBY_B#とくえい}匿影{RUBY_E#}",
     "path": "nihility",
     "rarity": 3
   },
   "mediation": {
     "id": "mediation",
-    "name": "同調",
+    "name": "{RUBY_B#どうちょう}同調{RUBY_E#}",
     "path": "harmony",
     "rarity": 3
   },
   "sagacity": {
     "id": "sagacity",
-    "name": "見識",
+    "name": "{RUBY_B#けんしき}見識{RUBY_E#}",
     "path": "erudition",
     "rarity": 3
   },
   "post-op-conversation": {
     "id": "post-op-conversation",
-    "name": "手術後の会話",
+    "name": "{RUBY_B#しゅじゅつご}手術後{RUBY_E#}の{RUBY_B#かいわ}会話{RUBY_E#}",
     "path": "abundance",
     "rarity": 4
   },
   "good-night-and-sleep-well": {
     "id": "good-night-and-sleep-well",
-    "name": "おやすみなさいと寝顔",
+    "name": "おやすみなさいと{RUBY_B#ねがお}寝顔{RUBY_E#}",
     "path": "nihility",
     "rarity": 4
   },
   "day-one-of-my-new-life": {
     "id": "day-one-of-my-new-life",
-    "name": "余生の初日",
+    "name": "{RUBY_B#よせい}余生{RUBY_E#}の{RUBY_B#しょにち}初日{RUBY_E#}",
     "path": "preservation",
     "rarity": 4
   },
   "only-silence-remains": {
     "id": "only-silence-remains",
-    "name": "沈黙のみ",
+    "name": "{RUBY_B#ちんもく}沈黙{RUBY_E#}のみ",
     "path": "the-hunt",
     "rarity": 4
   },
   "memories-of-the-past": {
     "id": "memories-of-the-past",
-    "name": "記憶の中の姿",
+    "name": "{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}の{RUBY_B#すがた}姿{RUBY_E#}",
     "path": "harmony",
     "rarity": 4
   },
   "the-moles-welcome-you": {
     "id": "the-moles-welcome-you",
-    "name": "モグラ党へようこそ",
+    "name": "モグラ{RUBY_B#とう}党{RUBY_E#}へようこそ",
     "path": "destruction",
     "rarity": 4
   },
   "the-birth-of-the-self": {
     "id": "the-birth-of-the-self",
-    "name": "「私」の誕生",
+    "name": "「{RUBY_B#わたし}私{RUBY_E#}」の{RUBY_B#たんじょう}誕生{RUBY_E#}",
     "path": "erudition",
     "rarity": 4
   },
   "shared-feeling": {
     "id": "shared-feeling",
-    "name": "同じ気持ち",
+    "name": "{RUBY_B#おな}同{RUBY_E#}じ{RUBY_B#きも}気持{RUBY_E#}ち",
     "path": "abundance",
     "rarity": 4
   },
   "eyes-of-the-prey": {
     "id": "eyes-of-the-prey",
-    "name": "獲物の視線",
+    "name": "{RUBY_B#えもの}獲物{RUBY_E#}の{RUBY_B#しせん}視線{RUBY_E#}",
     "path": "nihility",
     "rarity": 4
   },
   "landaus-choice": {
     "id": "landaus-choice",
-    "name": "ランドゥーの選択",
+    "name": "ランドゥーの{RUBY_B#せんたく}選択{RUBY_E#}",
     "path": "preservation",
     "rarity": 4
   },
   "swordplay": {
     "id": "swordplay",
-    "name": "論剣",
+    "name": "{RUBY_B#ろんけん}論剣{RUBY_E#}",
     "path": "the-hunt",
     "rarity": 4
   },
   "planetary-rendezvous": {
     "id": "planetary-rendezvous",
-    "name": "惑星との出会い",
+    "name": "{RUBY_B#わくせい}惑星{RUBY_E#}との{RUBY_B#であ}出会{RUBY_E#}い",
     "path": "harmony",
     "rarity": 4
   },
   "a-secret-vow": {
     "id": "a-secret-vow",
-    "name": "秘密の誓い",
+    "name": "{RUBY_B#ひみつ}秘密{RUBY_E#}の{RUBY_B#ちか}誓{RUBY_E#}い",
     "path": "destruction",
     "rarity": 4
   },
   "make-the-world-clamor": {
     "id": "make-the-world-clamor",
-    "name": "この世界に喧噪を",
+    "name": "この{RUBY_B#せかい}世界{RUBY_E#}に{RUBY_B#けんそう}喧噪{RUBY_E#}を",
     "path": "erudition",
     "rarity": 4
   },
   "perfect-timing": {
     "id": "perfect-timing",
-    "name": "今が丁度",
+    "name": "{RUBY_B#いま}今{RUBY_E#}が{RUBY_B#ちょうど}丁度{RUBY_E#}",
     "path": "abundance",
     "rarity": 4
   },
   "resolution-shines-as-pearls-of-sweat": {
     "id": "resolution-shines-as-pearls-of-sweat",
-    "name": "決意は汗のように輝く",
+    "name": "{RUBY_B#けつい}決意{RUBY_E#}は{RUBY_B#あせ}汗{RUBY_E#}のように{RUBY_B#かがや}輝{RUBY_E#}く",
     "path": "nihility",
     "rarity": 4
   },
   "trend-of-the-universal-market": {
     "id": "trend-of-the-universal-market",
-    "name": "星間市場のトレンド",
+    "name": "{RUBY_B#せいかんいちば}星間市場{RUBY_E#}のトレンド",
     "path": "preservation",
     "rarity": 4
   },
@@ -241,19 +241,19 @@
   },
   "under-the-blue-sky": {
     "id": "under-the-blue-sky",
-    "name": "青空の下で",
+    "name": "{RUBY_B#あおぞら}青空{RUBY_E#}の{RUBY_B#した}下{RUBY_E#}で",
     "path": "destruction",
     "rarity": 4
   },
   "geniuses-repose": {
     "id": "geniuses-repose",
-    "name": "天才たちの休息",
+    "name": "{RUBY_B#てんさい}天才{RUBY_E#}たちの{RUBY_B#きゅうそく}休息{RUBY_E#}",
     "path": "erudition",
     "rarity": 4
   },
   "quid-pro-quo": {
     "id": "quid-pro-quo",
-    "name": "等価交換",
+    "name": "{RUBY_B#とうかこうかん}等価交換{RUBY_E#}",
     "path": "abundance",
     "rarity": 4
   },
@@ -265,43 +265,43 @@
   },
   "we-are-wildfire": {
     "id": "we-are-wildfire",
-    "name": "我ら地炎",
+    "name": "{RUBY_B#われ}我{RUBY_E#}ら{RUBY_B#ちえん}地炎{RUBY_E#}",
     "path": "preservation",
     "rarity": 4
   },
   "river-flows-in-spring": {
     "id": "river-flows-in-spring",
-    "name": "春水に初生する",
+    "name": "{RUBY_B#しゅんすい}春水{RUBY_E#}に{RUBY_B#しょせい}初生{RUBY_E#}する",
     "path": "the-hunt",
     "rarity": 4
   },
   "past-and-future": {
     "id": "past-and-future",
-    "name": "過去と未来",
+    "name": "{RUBY_B#かこ}過去{RUBY_E#}と{RUBY_B#みらい}未来{RUBY_E#}",
     "path": "harmony",
     "rarity": 4
   },
   "woof-walk-time": {
     "id": "woof-walk-time",
-    "name": "ワン！散歩の時間！",
+    "name": "ワン！{RUBY_B#さんぽ}散歩{RUBY_E#}の{RUBY_B#じかん}時間{RUBY_E#}！",
     "path": "destruction",
     "rarity": 4
   },
   "the-seriousness-of-breakfast": {
     "id": "the-seriousness-of-breakfast",
-    "name": "朝食の儀式感",
+    "name": "{RUBY_B#ちょうしょく}朝食{RUBY_E#}の{RUBY_B#ぎしきかん}儀式感{RUBY_E#}",
     "path": "erudition",
     "rarity": 4
   },
   "warmth-shortens-cold-nights": {
     "id": "warmth-shortens-cold-nights",
-    "name": "暖かい夜は長くない",
+    "name": "{RUBY_B#あたた}暖{RUBY_E#}かい{RUBY_B#よる}夜{RUBY_E#}は{RUBY_B#なが}長{RUBY_E#}くない",
     "path": "abundance",
     "rarity": 4
   },
   "we-will-meet-again": {
     "id": "we-will-meet-again",
-    "name": "またお会いしましょう",
+    "name": "またお{RUBY_B#あ}会{RUBY_E#}いしましょう",
     "path": "nihility",
     "rarity": 4
   },
@@ -313,31 +313,79 @@
   },
   "return-to-darkness": {
     "id": "return-to-darkness",
-    "name": "幽冥に帰す",
+    "name": "{RUBY_B#ゆうめい}幽冥{RUBY_E#}に{RUBY_B#き}帰{RUBY_E#}す",
     "path": "the-hunt",
     "rarity": 4
   },
   "carve-the-moon-weave-the-clouds": {
     "id": "carve-the-moon-weave-the-clouds",
-    "name": "彫月裁雲の意",
+    "name": "{RUBY_B#ちょうげつさいうん}彫月裁雲{RUBY_E#}の{RUBY_B#い}意{RUBY_E#}",
     "path": "harmony",
     "rarity": 4
   },
   "nowhere-to-run": {
     "id": "nowhere-to-run",
-    "name": "逃げ場なし",
+    "name": "{RUBY_B#に}逃{RUBY_E#}げ{RUBY_B#ば}場{RUBY_E#}なし",
     "path": "destruction",
     "rarity": 4
   },
   "today-is-another-peaceful-day": {
     "id": "today-is-another-peaceful-day",
-    "name": "今日も平和な一日",
+    "name": "{RUBY_B#きょう}今日{RUBY_E#}も{RUBY_B#へいわ}平和{RUBY_E#}な{RUBY_B#いちにち}一日{RUBY_E#}",
     "path": "erudition",
+    "rarity": 4
+  },
+  "what-is-real": {
+    "id": "what-is-real",
+    "name": "{RUBY_B#なに}何{RUBY_E#}が{RUBY_B#まこと}真{RUBY_E#}か",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "dreamville-adventure": {
+    "id": "dreamville-adventure",
+    "name": "ドリームタウンの{RUBY_B#だいぼうけん}大冒険{RUBY_E#}",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "final-victor": {
+    "id": "final-victor",
+    "name": "{RUBY_B#さいご}最後{RUBY_E#}の{RUBY_B#しょうしゃ}勝者{RUBY_E#}",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "flames-afar": {
+    "id": "flames-afar",
+    "name": "{RUBY_B#れっか}烈火{RUBY_E#}の{RUBY_B#かなた}彼方{RUBY_E#}",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "destinys-threads-forewoven": {
+    "id": "destinys-threads-forewoven",
+    "name": "{RUBY_B#うんめい}運命{RUBY_E#}を{RUBY_B#つむ}紡{RUBY_E#}ぐ{RUBY_B#いと}糸{RUBY_E#}",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "the-day-the-cosmos-fell": {
+    "id": "the-day-the-cosmos-fell",
+    "name": "{RUBY_B#ぎんが}銀河{RUBY_E#}が{RUBY_B#かんらく}陥落{RUBY_E#}した{RUBY_B#ひ}日{RUBY_E#}",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "its-showtime": {
+    "id": "its-showtime",
+    "name": "ショーの{RUBY_B#はじ}始{RUBY_E#}まり",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "indelible-promise": {
+    "id": "indelible-promise",
+    "name": "{RUBY_B#こころ}心{RUBY_E#}に{RUBY_B#きざ}刻{RUBY_E#}まれた{RUBY_B#やくそく}約束{RUBY_E#}",
+    "path": "destruction",
     "rarity": 4
   },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
-    "name": "初めてのクエストの前に",
+    "name": "{RUBY_B#はじ}初{RUBY_E#}めてのクエストの{RUBY_B#まえ}前{RUBY_E#}に",
     "path": "nihility",
     "rarity": 4
   },
@@ -349,13 +397,13 @@
   },
   "night-on-the-milky-way": {
     "id": "night-on-the-milky-way",
-    "name": "銀河鉄道の夜",
+    "name": "{RUBY_B#ぎんがてつどう}銀河鉄道{RUBY_E#}の{RUBY_B#よる}夜{RUBY_E#}",
     "path": "erudition",
     "rarity": 5
   },
   "in-the-night": {
     "id": "in-the-night",
-    "name": "夜の帳の中で",
+    "name": "{RUBY_B#よる}夜{RUBY_E#}の{RUBY_B#とばり}帳{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}で",
     "path": "the-hunt",
     "rarity": 5
   },
@@ -367,133 +415,145 @@
   },
   "but-the-battle-isnt-over": {
     "id": "but-the-battle-isnt-over",
-    "name": "だが戦争は終わらない",
+    "name": "だが{RUBY_B#せんそう}戦争{RUBY_E#}は{RUBY_B#お}終{RUBY_E#}わらない",
     "path": "harmony",
     "rarity": 5
   },
   "in-the-name-of-the-world": {
     "id": "in-the-name-of-the-world",
-    "name": "世界の名を以て",
+    "name": "{RUBY_B#せかい}世界{RUBY_E#}の{RUBY_B#な}名{RUBY_E#}を{RUBY_B#もっ}以{RUBY_E#}て",
     "path": "nihility",
     "rarity": 5
   },
   "moment-of-victory": {
     "id": "moment-of-victory",
-    "name": "勝利の刹那",
+    "name": "{RUBY_B#しょうり}勝利{RUBY_E#}の{RUBY_B#せつな}刹那{RUBY_E#}",
     "path": "preservation",
     "rarity": 5
   },
   "patience-is-all-you-need": {
     "id": "patience-is-all-you-need",
-    "name": "待つのみ",
+    "name": "{RUBY_B#ま}待{RUBY_E#}つのみ",
     "path": "nihility",
     "rarity": 5
   },
   "incessant-rain": {
     "id": "incessant-rain",
-    "name": "降りやまぬ雨",
+    "name": "{RUBY_B#ふ}降{RUBY_E#}りやまぬ{RUBY_B#あめ}雨{RUBY_E#}",
     "path": "nihility",
     "rarity": 5
   },
   "echoes-of-the-coffin": {
     "id": "echoes-of-the-coffin",
-    "name": "棺のこだま",
+    "name": "{RUBY_B#ひつぎ}棺{RUBY_E#}のこだま",
     "path": "abundance",
     "rarity": 5
   },
   "the-unreachable-side": {
     "id": "the-unreachable-side",
-    "name": "着かない彼岸",
+    "name": "{RUBY_B#つ}着{RUBY_E#}かない{RUBY_B#ひがん}彼岸{RUBY_E#}",
     "path": "destruction",
     "rarity": 5
   },
   "before-dawn": {
     "id": "before-dawn",
-    "name": "夜明け前",
+    "name": "{RUBY_B#よあ}夜明{RUBY_E#}け{RUBY_B#まえ}前{RUBY_E#}",
     "path": "erudition",
     "rarity": 5
   },
   "she-already-shut-her-eyes": {
     "id": "she-already-shut-her-eyes",
-    "name": "閉ざした瞳",
+    "name": "{RUBY_B#とざ}閉{RUBY_E#}ざした{RUBY_B#ひとみ}瞳{RUBY_E#}",
     "path": "preservation",
     "rarity": 5
   },
   "sleep-like-the-dead": {
     "id": "sleep-like-the-dead",
-    "name": "泥の如き眠り",
+    "name": "{RUBY_B#どろ}泥{RUBY_E#}の{RUBY_B#ごと}如{RUBY_E#}き{RUBY_B#ねむ}眠{RUBY_E#}り",
     "path": "the-hunt",
     "rarity": 5
   },
   "time-waits-for-no-one": {
     "id": "time-waits-for-no-one",
-    "name": "時節は居らず",
+    "name": "{RUBY_B#じせつ}時節{RUBY_E#}は{RUBY_B#お}居{RUBY_E#}らず",
     "path": "abundance",
     "rarity": 5
   },
   "i-shall-be-my-own-sword": {
     "id": "i-shall-be-my-own-sword",
-    "name": "この身は剣なり",
+    "name": "この{RUBY_B#み}身{RUBY_E#}は{RUBY_B#けん}剣{RUBY_E#}なり",
     "path": "destruction",
     "rarity": 5
   },
   "brighter-than-the-sun": {
     "id": "brighter-than-the-sun",
-    "name": "陽光より輝くもの",
+    "name": "{RUBY_B#ようこう}陽光{RUBY_E#}より{RUBY_B#かがや}輝{RUBY_E#}くもの",
     "path": "destruction",
     "rarity": 5
   },
   "worrisome-blissful": {
     "id": "worrisome-blissful",
-    "name": "悩んで笑って",
+    "name": "{RUBY_B#なや}悩{RUBY_E#}んで{RUBY_B#わら}笑{RUBY_E#}って",
     "path": "the-hunt",
     "rarity": 5
   },
   "night-of-fright": {
     "id": "night-of-fright",
-    "name": "驚魂の夜",
+    "name": "{RUBY_B#きょうこん}驚魂{RUBY_E#}の{RUBY_B#よる}夜{RUBY_E#}",
     "path": "abundance",
     "rarity": 5
   },
   "an-instant-before-a-gaze": {
     "id": "an-instant-before-a-gaze",
-    "name": "その一刻、目に焼き付けて",
+    "name": "その{RUBY_B#いっこく}一刻{RUBY_E#}、{RUBY_B#め}目{RUBY_E#}に{RUBY_B#や}焼{RUBY_E#}き{RUBY_B#つ}付{RUBY_E#}けて",
     "path": "erudition",
     "rarity": 5
   },
   "past-self-in-mirror": {
     "id": "past-self-in-mirror",
-    "name": "鏡の中の私",
+    "name": "{RUBY_B#かがみ}鏡{RUBY_E#}の{RUBY_B#なか}中{RUBY_E#}の{RUBY_B#わたし}私{RUBY_E#}",
     "path": "harmony",
     "rarity": 5
   },
   "baptism-of-pure-thought": {
     "id": "baptism-of-pure-thought",
-    "name": "純粋なる思惟の洗礼",
+    "name": "{RUBY_B#じゅんすい}純粋{RUBY_E#}なる{RUBY_B#しい}思惟{RUBY_E#}の{RUBY_B#せんれい}洗礼{RUBY_E#}",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "earthly-escapade": {
+    "id": "earthly-escapade",
+    "name": "{RUBY_B#じんせい}人生{RUBY_E#}は{RUBY_B#あそ}遊{RUBY_E#}び",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "reforged-remembrance": {
+    "id": "reforged-remembrance",
+    "name": "{RUBY_B#とき}時間{RUBY_E#}の{RUBY_B#きおく}記憶{RUBY_E#}を{RUBY_B#さいこうちく}再構築{RUBY_E#}して",
+    "path": "nihility",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
     "id": "on-the-fall-of-an-aeon",
-    "name": "とある星神の殞落を記す",
+    "name": "とある{RUBY_B#アイオーン}星神{RUBY_E#}の{RUBY_B#うんらく}殞落{RUBY_E#}を{RUBY_B#しる}記{RUBY_E#}す",
     "path": "destruction",
     "rarity": 5
   },
   "cruising-in-the-stellar-sea": {
     "id": "cruising-in-the-stellar-sea",
-    "name": "星海巡航",
+    "name": "{RUBY_B#せいかいじゅんこう}星海巡航{RUBY_E#}",
     "path": "the-hunt",
     "rarity": 5
   },
   "texture-of-memories": {
     "id": "texture-of-memories",
-    "name": "記憶の素材",
+    "name": "{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#そざい}素材{RUBY_E#}",
     "path": "preservation",
     "rarity": 5
   },
   "solitary-healing": {
     "id": "solitary-healing",
-    "name": "孤独の癒やし",
+    "name": "{RUBY_B#こどく}孤独{RUBY_E#}の{RUBY_B#いや}癒{RUBY_E#}やし",
     "path": "nihility",
     "rarity": 5
   }

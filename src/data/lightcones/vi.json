@@ -335,6 +335,54 @@
     "path": "erudition",
     "rarity": 4
   },
+  "what-is-real": {
+    "id": "what-is-real",
+    "name": "Đâu Là Thật?",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "dreamville-adventure": {
+    "id": "dreamville-adventure",
+    "name": "Chuyến Thám Hiểm Thị Trấn Mộng Đẹp",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "final-victor": {
+    "id": "final-victor",
+    "name": "Người Chiến Thắng Cuối Cùng",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "flames-afar": {
+    "id": "flames-afar",
+    "name": "Ở Nơi Xa Ngọn Lửa",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "destinys-threads-forewoven": {
+    "id": "destinys-threads-forewoven",
+    "name": "Dây Thêu Dệt Vận Mệnh",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "the-day-the-cosmos-fell": {
+    "id": "the-day-the-cosmos-fell",
+    "name": "Ngày Ngân Hà Sụp Đổ",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "its-showtime": {
+    "id": "its-showtime",
+    "name": "Vai Diễn Bắt Đầu",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "indelible-promise": {
+    "id": "indelible-promise",
+    "name": "Ước Hẹn Khắc Ghi",
+    "path": "destruction",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ",
@@ -471,6 +519,18 @@
     "id": "baptism-of-pure-thought",
     "name": "Lễ Rửa Tội Thuần Khiết",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "earthly-escapade": {
+    "id": "earthly-escapade",
+    "name": "Trò Đùa Trần Thế",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "reforged-remembrance": {
+    "id": "reforged-remembrance",
+    "name": "Hun Đúc Ký Ức Thời Gian",
+    "path": "nihility",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
