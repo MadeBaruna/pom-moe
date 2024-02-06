@@ -389,6 +389,48 @@
         "desc": "Resolve the new crisis on the Herta Space Station\\n<color=#8790abff>※ Finish the Trailblaze Continuance \"Crown of the Mundane and Divine\"</color>",
         "rarity": 2,
         "version": "1.6"
+      },
+      {
+        "id": 4033001,
+        "name": "Do you remember me?",
+        "desc": "At the outset of your journey, you find yourself accompanied by someone unexpected...\\n<color=#8790abff>※ Encounter Acheron in a strange dreamland.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033002,
+        "name": "Trailblazer in Dreamscape",
+        "desc": "You have arrived at the Incredible Land of the Dreams!\\n<color=#8790abff>※ Arrive at the Golden Hour.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033003,
+        "name": "Gentleness, the Name of Nocturne",
+        "desc": "See how shooting stars fly across the dream sky.\\n<color=#8790abff>※ Learn Firefly's secrets at the Dream's Edge.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033004,
+        "name": "The Pursuit of Sweetness",
+        "desc": "Discover the serendipitous joy in dreamscape\\n<color=#8790abff>※ Escape from the shadow of \"death\"</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033005,
+        "name": "Old Friends, New Friends",
+        "desc": "Embrace the warmth in the ocean of memories...\\n<color=#8790abff>※ Fight Stellaron Hunter Sam.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033006,
+        "name": "If I Can Stop One Heart From Breaking",
+        "desc": "The entire Penacony will go mad...\\n<color=#8790abff>※ Witness the second murder.</color>",
+        "rarity": 2,
+        "version": "2.0"
       }
     ]
   },
@@ -629,7 +671,7 @@
       {
         "id": 4051101,
         "name": "Don't You Dare Waste It",
-        "desc": "Get Jim Roger Bread Soda from a trash can",
+        "desc": "Get Jim Roger Bread Soda from a trashcan",
         "rarity": 1,
         "version": "1.0"
       },
@@ -709,6 +751,153 @@
         "desc": "Capture Lost Trotters 1 time(s) in battle",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4043001,
+        "name": "This Side of Paradise",
+        "desc": "Activate Space Anchors 15 times in Penacony.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043002,
+        "name": "Penacony Dreams",
+        "desc": "Open Treasures 120 times in Penacony.",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4043003,
+        "name": "\"Space Walk\"",
+        "desc": "Complete the mission \"Slaughterhouse\" and uncover the truth within the hotel in the Dreamscape.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043004,
+        "name": "Chirp?",
+        "desc": "Help 1 Origami Bird(s) return to the Great Tree.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043005,
+        "name": "Chirp! Chirp!",
+        "desc": "Help 60 Origami Bird(s) return to the Great Tree.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043006,
+        "name": "Always Sync With Time",
+        "desc": "Fix 15 Dream Tickers.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043007,
+        "name": "Whose Dream Is It?",
+        "desc": "Witness the mysterious wonders in the child's dream for the first time.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043008,
+        "name": "Eternal Golden Braid",
+        "desc": "Use the Dream's Eye to forge the impossible path and traverse it.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043009,
+        "name": "Pictorial World",
+        "desc": "Earn rewards 10 times from the Dream Jigsaw.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043010,
+        "name": "FlyMe2theBaloon",
+        "desc": "Break the special Mr. Stone balloon in the Golden Hour.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043011,
+        "name": "Balloon Gakuen 2",
+        "desc": "Break the special Mr. Stone balloon at the Dream's Edge.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043012,
+        "name": "Balloon Impact 3rd",
+        "desc": "Break the special Mr. Stone balloon in \"A Child's Dream.\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043013,
+        "name": "Penacony: Balloon Rail",
+        "desc": "Break the special Mr. Stone balloon in The Reverie (Dreamscape)",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043014,
+        "name": "I'm a Grown-up!",
+        "desc": "Arrive at the Dreamjolt Hostelry for the first time.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043015,
+        "name": "All the Sad Young Men",
+        "desc": "Enter the special hotel room in The Reverie (Reality) for the first time",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043016,
+        "name": "Jack of All Trades",
+        "desc": "Walk onto the Bubble Bridge using the Dreamwalker ability for the first time.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043017,
+        "name": "Walks with Wolves",
+        "desc": "Collect the complete <i>Hanu's Adventure (Part 1)</i> collection",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043018,
+        "name": "Lie in Wait",
+        "desc": "Push down objects in Hanu's Adventure without hitting any enemies.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043019,
+        "name": "Escape Velocity Reached",
+        "desc": "The rocket teleportation in Hanu's Adventure lasts more than #1 seconds.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043020,
+        "name": "100% Alertness",
+        "desc": "Survive in Hanu's Adventure",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043021,
+        "name": "Learning in Sleep",
+        "desc": "Collect 15 readable items in Penacony",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -1187,7 +1376,7 @@
       {
         "id": 4052730,
         "name": "Ice Grim",
-        "desc": "Obtain Trash from a frozen trash can",
+        "desc": "Obtain Trash from a frozen trashcan",
         "rarity": 1,
         "version": "1.4"
       },
@@ -1866,7 +2055,7 @@
       {
         "id": 4052905,
         "name": "Qualified Caretaker",
-        "desc": "Complete the adventure mission \"Critter Pick\"",
+        "desc": "Complete the Adventure Mission \"Critter Pick\"",
         "rarity": 1,
         "version": "1.6"
       },
@@ -1967,6 +2156,349 @@
         "desc": "Collect all the readables that contain messages from Dr. Ratio in the Seclusion Zone",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4053001,
+        "name": "Don't Shake Your Soda",
+        "desc": "Use the Bubble Pinball for the first time",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053002,
+        "name": "Towards the Brighter Side",
+        "desc": "Hold on to your life, even in the face of adversity",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053003,
+        "name": "He Grew Up Under This Sunshine",
+        "desc": "Perhaps... it is time to let it go",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053004,
+        "name": "East of Eden",
+        "desc": "Witness the story of a fleeting cosmic superstar",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053005,
+        "name": "Crime and Punishment",
+        "desc": "Witness the story of a \"good person\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053006,
+        "name": "The Dance Is On",
+        "desc": "Complete the Companion Mission \"Masquerade Duet\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053007,
+        "name": "The Good Deeds a Man Has Done",
+        "desc": "Witness the struggling life of a scientist",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053008,
+        "name": "Zoologist in Fiction",
+        "desc": "Dispel #1 Hound Statue(s)",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053012,
+        "name": "Savor Emotions",
+        "desc": "What does Clockwork do?\\n<color=#8790abff>※ Guide the emotions of #1 people in the Dreamscape.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053014,
+        "name": "Surge of Warmth",
+        "desc": "Clockwork helps people discover their true selves.\\n<color=#8790abff>※ Resolve #1 emergencies in Clockwork.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053015,
+        "name": "Thumping Heart",
+        "desc": "In dreams, even emotions are tangible.\\n<color=#8790abff>※ Collect #1 Emo Gears.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053016,
+        "name": "I Know Your Thoughts",
+        "desc": "Can you resist the temptation of counseling?\\n<color=#8790abff>※ Guide the emotions of at least #1 people in the Dreamscape.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053017,
+        "name": "My Favorite Car",
+        "desc": "Park your car in the exclusive parking space at The Reverie",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053018,
+        "name": "Breaking Even",
+        "desc": "Make enough money through taxicab assignments.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053019,
+        "name": "The Number You Have Dialed Is Unavailable",
+        "desc": "There are always off-limits places.\\n<color=#8790abff>※ Call an unreachable number.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053020,
+        "name": "Glasses in the City",
+        "desc": "Matchmake crystal chalice with cheap wine",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053021,
+        "name": "Heart of the Rock",
+        "desc": "Matchmake crystal chalice with rum",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053022,
+        "name": "The Great Champagne",
+        "desc": "Matchmake crystal chalice with golden champagne",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053023,
+        "name": "Don't Pick Up Anything Ominous",
+        "desc": "Not all urban myths are just myths.\\n<color=#8790abff>※ Pick up an eerie tape.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053024,
+        "name": "The Wolf of Glaux Avenue",
+        "desc": "Figure out why the cash-spewer is stuck",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053025,
+        "name": "Every Gambler Has Their Excuses",
+        "desc": "Witness the ending of the legendary Ace Gambler's story",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053026,
+        "name": "Fallen Angel",
+        "desc": "Discover the true origins of Xunsang",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053027,
+        "name": "Rashomon",
+        "desc": "So... who hit whom?\\n<color=#8790abff>※ Witness the entire process of the car accident at Glaux Avenue.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053028,
+        "name": "Magique Pepeshi",
+        "desc": "Pepeshi? Or mimic?\\n<color=#8790abff>※ Figure out the true identity of the \"Pepeshi\" at the hotel lobby.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053029,
+        "name": "The Planet Of Festivities and Six Alfalfa Credits",
+        "desc": "Which is more important? Love, or dream?\\n<color=#8790abff>※ Discover the story of a family torn apart by the dreams of its members.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053030,
+        "name": "Mental Health Care",
+        "desc": "The environment must be protected.\\n<color=#8790abff>※ Help Go-Ray recycle trash in the Dreamscape.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053031,
+        "name": "The Interpretation of Dreams",
+        "desc": "Peek into 7 people's dreams through the Dreampeek Call",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053032,
+        "name": "We Are All Friends Here",
+        "desc": "Meet all the types of animated billboards",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053033,
+        "name": "No Man's Symphony",
+        "desc": "What happens when a joyful player becomes even more joyful?\\n<color=#8790abff>※ Enhance Max's music with even more joy</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053034,
+        "name": "On the Path of Voracity...",
+        "desc": "Consume the Cone Dancer in Vitali",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053035,
+        "name": "Into the Rabbit Hole",
+        "desc": "Listen to the mysterious whispers of various objects in the Dreamscape.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053036,
+        "name": "Between the Sky and You",
+        "desc": "Revisit the secret place alone\\n<color=#8790abff>※ Return to Firefly's secret base after everything has concluded</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053037,
+        "name": "See That Ladder? You Can Climb It!",
+        "desc": "Attempt to climb the ladder at the Dream's Edge\\n<color=#8790abff>※ Actually, you can't climb it</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053038,
+        "name": "Gravity Waterfall",
+        "desc": "Enjoy the peculiar waterfall in A Child's Dream",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053039,
+        "name": "Lucky Striper",
+        "desc": "Accumulate more than #1 Aideen Tokens",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053040,
+        "name": "I'm Lovin' This Game",
+        "desc": "Discover the ultimate prize hidden in Dreamy Slots",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053041,
+        "name": "Are There No Pepeshi?",
+        "desc": "Talk to Cielo using a character shorter than her",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053042,
+        "name": "Deja Vu",
+        "desc": "Encounter the familiar \"sights\" in the Dreamscape\\n<color=#8790abff>※ Yep, it's the trashcans!</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053043,
+        "name": "Ramesrash II",
+        "desc": "Challenge all the Lordly Trashcans in The Reverie, Golden Hour, A Child's Dream, and Dream's Edge",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053044,
+        "name": "Rear Window",
+        "desc": "Investigate all the locked rooms in the hotel",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053045,
+        "name": "Enemy of the Pepeshi",
+        "desc": "Offend every Pepeshi you encounter with precision and speed.\\n<color=#8790abff>※ Try to touch the fluff ball of every Pepeshi in the Golden Hour</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053046,
+        "name": "The Worst Nameless Ever",
+        "desc": "Show Pom-Pom a specific dream bubble",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053047,
+        "name": "Gate to Stars",
+        "desc": "Explorer or pirate?\\n<color=#8790abff>※ Listen to Colleen's story about the universe</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053048,
+        "name": "This Is Simply Amazing",
+        "desc": "Witness a \"great vision\"\\n<color=#8790abff>※ Collect Family members' comments on the Dream's Edge project</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053049,
+        "name": "Dream of Trustification",
+        "desc": "Everything you see is MY invention!\\n<color=#8790abff>※ Help Emmrich complete his plan</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053050,
+        "name": "Reality Sinks, Dream Drifts",
+        "desc": "Humans can't empathize with each other after all\\n<color=#8790abff>※ Listen to the conversation between Larose and Forla</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053051,
+        "name": "The Long Goodbye",
+        "desc": "May she bid farewell to her troubled past\\n<color=#8790abff>※ Witness Lew Archer's story</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053052,
+        "name": "Third Cone's the Charm",
+        "desc": "Consume way too many crispy cones at one time in the Golden Hour...",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053053,
+        "name": "Oti's Economics",
+        "desc": "If everyone gets money, then no one gets money\\n<color=#8790abff>※ Repeatedly trigger the cash-spewer on the streets</color>",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -2891,7 +3423,7 @@
       {
         "id": 4072901,
         "name": "In Utter Darkness",
-        "desc": "After the Starcrusher Swarm King uses \"Carapace of Nurtured Disaster\" for the first time, inflict Weakness Break on it",
+        "desc": "After the Starcrusher Swarm King unleashes \"Carapace of Nurtured Disaster,\" inflict Weakness Break on it",
         "rarity": 1,
         "version": "1.6"
       },
@@ -2964,6 +3496,76 @@
         "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito Ergo Sum, for 4 consecutive turns",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4073001,
+        "name": "Good Night Kitchen",
+        "desc": "Defeat at least 2 enemies using \"Kitchen Mishap\" from Dreamjolt Troupe's Beyond Overcooked in a single battle",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073002,
+        "name": "National Sensation",
+        "desc": "Switch 3 Dreamjolt Troupe's Mr. Domescreens to the Surprise Channel consecutively in a single battle",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073003,
+        "name": "Hazardous Waste",
+        "desc": "Have #1 allies get defeated by the Lordly Trashcan",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073004,
+        "name": "All Is Predestined",
+        "desc": "Inflict at least #1 stacks of Arcana on enemies when Black Swan uses her Technique \"From Façade to Vérité\" and enters a battle",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073005,
+        "name": "I... I... I'm So Sorry!",
+        "desc": "When Misha uses Ultimate \"G—Gonna Be Late!\", freeze at least #1 enemies with a single attack",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073006,
+        "name": "Sparkling Sparkle",
+        "desc": "Gain #1 Skill Points using Sparkle's Ultimate \"The Hero with a Thousand Faces\" in a single battle",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073007,
+        "name": "Withdrawal from Sweets",
+        "desc": "Rebound #1 Soda Bottle(s) thrown by Dreamjolt Troupe's Sweet Gorilla with a Shield in a single battle",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073008,
+        "name": "Memento Mori",
+        "desc": "Defeat the Memory Zone meme \"Something Unto Death\" with only one character able to take action",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073009,
+        "name": "Quiet Burning",
+        "desc": "During the battle against Stellaron Hunter Sam, Sam did not use \"DHGDR: Supernova Overload\" when their Secondary Combustion state is dispelled",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073010,
+        "name": "Ignite My Heart, Inflame My Flesh",
+        "desc": "During the battle against Stellaron Hunter Sam, use Skill Points with the Combustion effect to reduce #1 allies' HP to below #2%",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -2994,7 +3596,7 @@
       {
         "id": 4080301,
         "name": "Diogenes' Utopia",
-        "desc": "See what Belobog is famous for!\\n<color=#8790abff>※ You've obtained every useful prop in the trash cans!</color>",
+        "desc": "See what Belobog is famous for!\\n<color=#8790abff>※ You've obtained every useful prop in the trashcans!</color>",
         "rarity": 1,
         "version": "1.0"
       },
@@ -3393,7 +3995,7 @@
       {
         "id": 4082802,
         "name": "Meta-Guardians of the Galaxy",
-        "desc": "Win 1 battles with a team comprising Argenti and {NICKNAME}",
+        "desc": "Win 1 battle with a team comprising Argenti and {NICKNAME}",
         "rarity": 1,
         "version": "1.5"
       },
@@ -3403,6 +4005,76 @@
         "desc": "Triggered 10 unique voice lines when adding characters to a team with {NICKNAME}",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4083001,
+        "name": "Friction, Friction",
+        "desc": "Traverse the same Bubble Bridge multiple times using the Dreamwalker ability",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083002,
+        "name": "Parallax",
+        "desc": "Interact with the Dream's Eye #2 or more times within #1 minutes",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083003,
+        "name": "Why Do Birds Fly?",
+        "desc": "Interact with the bird-shaped device controlling Dream Modules #2 or more times within #1 minutes",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083004,
+        "name": "Penrose Triangle",
+        "desc": "Adjust your perspective and form the Penrose Triangle at the Dream's Edge",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053009,
+        "name": "Tales of a Card Shark",
+        "desc": "Win the special reward in Lucky Wheel by cheating",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053010,
+        "name": "As Fragile as Crisp Cone",
+        "desc": "After using the consumable Dreamy Cone, cast a skill on the wrong target.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053011,
+        "name": "Introduction to Psychoanalysis",
+        "desc": "Synthesize any one of the following consumables: The Moment of Betrayal, Fleeting Happiness, The Moment Before Death, Bustling Ambience, The Cloud of Doubt, or Momentary Freedom.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083006,
+        "name": "Rules Are Made to Be Broken...",
+        "desc": "Violate traffic rules and get hit by a vehicle in Penacony",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083007,
+        "name": "Bill — Board",
+        "desc": "Make a Penacony billboard get hit by a vehicle",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083008,
+        "name": "Truth Must Circulate Like Currency",
+        "desc": "Take part in #1 match(es) in Support Assist using Dr. Ratio",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -3965,7 +4637,7 @@
       {
         "id": 4092911,
         "name": "Pacifica Is Still Pacifica",
-        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheating Code (II) occurrence.",
+        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheating Code (II) Occurrence.",
         "rarity": 1,
         "version": "1.6"
       },
@@ -3979,7 +4651,7 @@
       {
         "id": 4092912,
         "name": "Class-D Personnel",
-        "desc": "In Simulated Universe: Gold and Gears, enhance a Curio 1 time(s) in the Interastral Peace Mechanical Branch Shopping Mall (II) occurrence",
+        "desc": "In Simulated Universe: Gold and Gears, enhance a Curio 1 time(s) in the Interastral Peace Mechanical Branch Shopping Mall (II) Occurrence",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4007,7 +4679,7 @@
       {
         "id": 4092914,
         "name": "Tau Zero",
-        "desc": "When clearing Simulated Universe: Gold and Gears, complete occurrence interaction 20 or more time(s) using Custom Dice: Occurrence Extrapolation",
+        "desc": "When clearing Simulated Universe: Gold and Gears, complete Occurrence interaction 20 or more time(s) using Custom Dice: Occurrence Extrapolation",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4035,7 +4707,7 @@
       {
         "id": 4092916,
         "name": "When Pigs Pry",
-        "desc": "When clearing Simulated Universe: Gold and Gears, defeat 15 or more Trotter(s) using Custom Dice: Trotter Extrapolation",
+        "desc": "When clearing Simulated Universe: Gold and Gears, defeat 15 or more Trotter(s) in combat using Custom Dice: Trotter Extrapolation",
         "rarity": 1,
         "version": "1.6"
       },

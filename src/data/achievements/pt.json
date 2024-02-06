@@ -371,7 +371,7 @@
       },
       {
         "id": 4032802,
-        "name": "Precisamos Falar Sobre Kevin",
+        "name": "Os Perigos do Meu Coração",
         "desc": "Explore os eventos sobrenaturais no Jardim Flamavulpe com Guinaifen\\n<color=#8790abff>※ Subjugue o grande Heliobus Cirrus e resolva a crise Heliobi no Jardim Flamavulpe.</color>",
         "rarity": 2,
         "version": "1.5"
@@ -389,6 +389,48 @@
         "desc": "Resolva a nova crise na Estação Espacial Herta\\n<color=#8790abff>※ Conclua a Continuidade de Desbravamento \"Coroa do Mundano e do Divino\"</color>",
         "rarity": 2,
         "version": "1.6"
+      },
+      {
+        "id": 4033001,
+        "name": "Você se lembra de mim?",
+        "desc": "No início de sua jornada, você se encontra acompanhado por alguém inesperado... \\n<color=#8790abff>※ Encontre Acheron em uma Terra dos Sonhos estranha.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033002,
+        "name": "Desbravador no Mundonírico",
+        "desc": "Você chegou à Terra dos Sonhos Incríveis!\\n<color=#8790abff>※ Chegue na Hora Dourada</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033003,
+        "name": "Gentileza, o Nome do Noturno",
+        "desc": "Veja como as estrelas cadentes voam pelo céu do sonho.\\n<color=#8790abff>※ Descubra os segredos da Vaga-lume na Margem do Sonho.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033004,
+        "name": "A Busca pela Doçura",
+        "desc": "Descubra a alegria inesperada no Mundonírico\\n<color=#8790abff>※ Escape da sombra da \"morte\"</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033005,
+        "name": "Velhos Amigos, Novos Amigos",
+        "desc": "Abrace o calor no oceano das memórias...\\n<color=#8790abff>※ Lute contra Sam, o Caçador de Stellaron</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033006,
+        "name": "Se Eu Pudesse Salvar um Coração de Ser Partido",
+        "desc": "Penacony inteira vai enlouquecer...\\n<color=#8790abff>※ Presencie o segundo assassinato</color>",
+        "rarity": 2,
+        "version": "2.0"
       }
     ]
   },
@@ -709,6 +751,153 @@
         "desc": "Capture 1 Cofrinho(s) Perdido(s) na batalha",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4043001,
+        "name": "Esse Lado do Paraíso",
+        "desc": "Ative as Âncoras Espaciais 15 vezes em Penacony",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043002,
+        "name": "Sonhos de Penacony",
+        "desc": "Abra Tesouros 120 vezes em Penacony",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4043003,
+        "name": "\"Caminhada Espacial\"",
+        "desc": "Conclua a missão \"Matadouro\" e descubra a verdade dentro do hotel do Mundonírico",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043004,
+        "name": "Piu?",
+        "desc": "Ajude 1 Pássaro(s) de Origami a retornar para a Grande Árvore",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043005,
+        "name": "Piu! Piu!",
+        "desc": "Ajude 60 Pássaro(s) de Origami a retornar para a Grande Árvore",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043006,
+        "name": "Sempre em Sincronia Com o Tempo",
+        "desc": "Conserte 15 Relógio(s) Onírico(s)",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043007,
+        "name": "De Quem É Esse Sonho?",
+        "desc": "Testemunhe as maravilhas misteriosas do sonho da criança pela primeira vez",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043008,
+        "name": "Um Entrelaçamento de Gênios Brilhantes",
+        "desc": "Use o Olho dos Sonhos para construir um caminho impossível e atravessá-lo",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043009,
+        "name": "Mundo Pictórico",
+        "desc": "Ganhe recompensas 10 vezes do Quebra-Cabeça Onírico",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043010,
+        "name": "Super Fantástico, Um Balão Mágico",
+        "desc": "Quebre o balão especial do Sr. Pedreira na Hora Dourada",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043011,
+        "name": "Balões Girl Z",
+        "desc": "Quebre o balão especial do Sr. Pedreira na Margem do Sonho.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043012,
+        "name": "Balão Impact 3rd",
+        "desc": "Quebre o balão especial do Sr. Pedreira no Sonho de Uma Criança",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043013,
+        "name": "Penacony: Balão Rail",
+        "desc": "Quebre o balão especial do Sr. Pedreira no Devaneio (Mundonírico)",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043014,
+        "name": "Eu Sou De Maior!",
+        "desc": "Vá ao Albergue dos Pesadelos pela primeira vez",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043015,
+        "name": "Juventude Tristonha",
+        "desc": "Entre no quarto do hotel especial no Devaneio (Realidade) pela primeira vez",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043016,
+        "name": "Pau Pra Toda Obra",
+        "desc": "Ande pela Ponte de Bolha usando a habilidade Caminhante dos Sonhos pela primeira vez",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043017,
+        "name": "Lobos em Pele de Cordeiro",
+        "desc": "Colete e complete a coleção \"Aventuras de Hanu (Parte 1)\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043018,
+        "name": "À Espreita",
+        "desc": "Empurre objetos para baixo sem acertar nenhum inimigo nas Aventuras de Hanu",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043019,
+        "name": "Velocidade de Escape Atingida",
+        "desc": "O teletransporte de foguete nas Aventuras de Hanu durou mais que #1 segundos",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043020,
+        "name": "100% Alerta",
+        "desc": "Sobreviva nas Aventuras de Hanu",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043021,
+        "name": "Aprendendo Dormindo",
+        "desc": "Colete 15 itens de leitura em Penacony",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -1967,6 +2156,349 @@
         "desc": "Colete todos os itens de leitura que contêm mensagens do Dr. Ratio na Zona de Reclusão",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4053001,
+        "name": "Não Chacoalhe Seu Refrigerante",
+        "desc": "Use o Pinball de Bolha pela primeira vez",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053002,
+        "name": "Indo Dessa Para Uma Melhor",
+        "desc": "Sobreviva, mesmo diante das adversidades",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053003,
+        "name": "Ele Cresceu nos Holofotes",
+        "desc": "Talvez... deixar para lá seja a decisão correta",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053004,
+        "name": "Leste do Éden",
+        "desc": "Testemunhe a história de uma superestrela cósmica fugaz",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053005,
+        "name": "Crime e Punição",
+        "desc": "Testemunhe a história de \"uma boa pessoa\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053006,
+        "name": "É Hora de Dançar",
+        "desc": "Conclua a Missão de Companheiro \"Dueto Mascarado\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053007,
+        "name": "As Boas Ações de Um Homem",
+        "desc": "Testemunhe a vida difícil de um cientista",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053008,
+        "name": "Zoologista na Ficção",
+        "desc": "Dissipe #1 Estátua(s) de Cães de Caça",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053012,
+        "name": "Saboreie as Emoções",
+        "desc": "O que o Truquelógio faz?\\n<color=#8790abff>※ Guie as emoções de #1 pessoa(s) no Mundonírico</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053014,
+        "name": "Onda de Calor",
+        "desc": "O Truquelógio ajuda as pessoas a descobrirem seu verdadeiro eu\\n<color=#8790abff>※ Resolva #1 emergência(s) com o Truquelógio</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053015,
+        "name": "Coração Batendo",
+        "desc": "Em sonhos, até mesmo as emoções são tangíveis\\n<color=#8790abff>※ Colete #1 Engrenagen(s) Emo</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053016,
+        "name": "Eu Conheço Seus Pensamentos",
+        "desc": "Você consegue resistir a tentação do aconselhamento?\\n<color=#8790abff>※ Guie as emoções de pelo menos #1 pessoa(s) no Mundonírico</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053017,
+        "name": "Meu Carro Favorito",
+        "desc": "Estacione seu carro na vaga exclusiva no Devaneio",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053018,
+        "name": "Ponto de Equilíbrio",
+        "desc": "Faça dinheiro suficiente com trabalhos de táxi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053019,
+        "name": "O Número Chamado Não Está Disponível No Momento",
+        "desc": "Sempre existirão lugares proibidos\\n<color=#8790abff>※ Ligue para um número inacessível</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053020,
+        "name": "Taças na Cidade",
+        "desc": "Combine a taça de cristal com o vinho barato",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053021,
+        "name": "O Coração da Pedra",
+        "desc": "Combine a taça de cristal com o rum",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053022,
+        "name": "O Grande Champanhe",
+        "desc": "Combine a taça de cristal com o champanhe dourado",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053023,
+        "name": "Não Pegue Nada Sinistro",
+        "desc": "Nem todas as lendas urbanas são apenas lendas.\\n<color=#8790abff>※ Pegue uma fita assustadora</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053024,
+        "name": "O Lobo da Avenida Glaux",
+        "desc": "Descubra o motivo do Caixa Eletrônico estar travado",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053025,
+        "name": "Todo Apostador Tem Suas Desculpas",
+        "desc": "Testemunhe o final da lendária história do Ás das Apostas",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053026,
+        "name": "Anjo Caído",
+        "desc": "Descubra as verdadeiras origens de Xunsang",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053027,
+        "name": "Rashomon",
+        "desc": "Então... quem bateu em quem?\\n<color=#8790abff>※ Testemunhe todo o processo do acidente de carro na Avenida Glaux</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053028,
+        "name": "Pepeshiano Mágico",
+        "desc": "Pepeshiano? Ou mímico?\\n<color=#8790abff>※ Descubra a verdadeira identidade do \"Pepeshiano\" no saguão do hotel</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053029,
+        "name": "O Planeta das Festividades e Seis Créditos de Alfafa",
+        "desc": "O que é mais importante? Amor ou sonhos?\\n<color=#8790abff>※ Descubra a história de uma família despedaçada pelos sonhos de seus membros</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053030,
+        "name": "Cuidado com a Saúde Mental",
+        "desc": "O meio-ambiente deve ser protegido\\n<color=#8790abff>※ Ajude Go-Ray a reciclar lixo no Mundonírico</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053031,
+        "name": "A Interpretação dos Sonhos",
+        "desc": "Espie os sonhos de 7 pessoas através da Chamada Espiassonho",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053032,
+        "name": "Somos Todos Amigos Aqui",
+        "desc": "Conheça todos os tipos de Painéis Publicitários animados",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053033,
+        "name": "Sinfonia de Ninguém",
+        "desc": "O que acontece quando um artista alegre fica ainda mais contente?\\n<color=#8790abff>※ Aprimore a música de Max com ainda mais alegria</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053034,
+        "name": "No Caminho da Voracidade...",
+        "desc": "Consuma a Casquinha Dançarina em Vitali",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053035,
+        "name": "Entrando na Toca do Coelho",
+        "desc": "Ouça os sussurros misteriosos de vários objetos no Mundonírico",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053036,
+        "name": "Entre o Céu e Você",
+        "desc": "Revisite o lugar secreto sozinho\\n<color=#8790abff>※ Retorne à base secreta da Vaga-lume após tudo ter sido concluído</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053037,
+        "name": "Vê Aquela Escada? Você Pode Subir Ela!",
+        "desc": "Tente subir a escada na Margem do Sonho.\\n<color=#8790abff>※ Na verdade, não dá para subir.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053038,
+        "name": "Cachoeira Gravitacional",
+        "desc": "Aproveite a cachoeira peculiar no Sonho de Uma Criança",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053039,
+        "name": "Jogada de Sorte",
+        "desc": "Acumule mais de #1 Fichas Aideen",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053040,
+        "name": "Esse Jogo É Tudo e Mais um Pouco",
+        "desc": "Descubra o maior prêmio escondido no Caça-Níquel Onírico",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053041,
+        "name": "Não Tem Pepeshianos?",
+        "desc": "Fale com Cielo usando um personagem menor que ela",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053042,
+        "name": "Déjà Vu",
+        "desc": "Encontre \"paisagens\" familiares no Mundonírico\\n<color=#8790abff>※ Sim, são as latas de lixo!</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053043,
+        "name": "Ramesrash II",
+        "desc": "Desafie todos os Lordes Latas de Lixo no Devaneio, na Hora Dourada, no Sonho de Uma Criança e na Margem do Sonho",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053044,
+        "name": "Janela Traseira",
+        "desc": "Investigue todos os quartos trancados no hotel",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053045,
+        "name": "Pepeshifóbico",
+        "desc": "Ofenda todo Pepeshiano que encontrar com precisão e rapidez.\\n<color=#8790abff>※ Tente tocar na bola fofa de todos os Pepeshianos na Hora Dourada</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053046,
+        "name": "O Pior Inominado de Todos",
+        "desc": "Mostre uma Bolha de Sonhos específica para o Pom-Pom",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053047,
+        "name": "Portão para as Estrelas",
+        "desc": "Exploradora ou pirata?\\n<color=#8790abff>※ Ouça a história de Colleen sobre o universo</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053048,
+        "name": "Isso é Simplesmente Incrível",
+        "desc": "Testemunhe uma \"grande visão\"\\n<color=#8790abff>※ Colete os comentários dos membros da Família sobre o projeto da Margem do Sonho</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053049,
+        "name": "Sonho ou Confiança",
+        "desc": "Tudo que você vê é MINHA invenção!\\n<color=#8790abff>※ Ajude Emmrich a concluir o plano dele</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053050,
+        "name": "Uma Realidade Cansada, Um Sonho Etéreo",
+        "desc": "Humanos não conseguem ter empatia uns com os outros, no fim das contas\\n<color=#8790abff>※ Ouça a conversa entre Larose e Forla</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053051,
+        "name": "A Longa Despedida",
+        "desc": "Que ela dê adeus ao seu passado conturbado\\n<color=#8790abff>※ Testemunhe a história de Lew Archer</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053052,
+        "name": "A Terceira Casquinha é da Sorte",
+        "desc": "Consuma muitas casquinhas crocantes de uma só vez na Hora Dourada...",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053053,
+        "name": "Economia de Oti",
+        "desc": "Quando todos ganham dinheiro, ninguém ganha dinheiro\\n<color=#8790abff>※ Ative o Caixa Eletrônico nas ruas repetidamente</color>",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -2960,10 +3492,80 @@
       },
       {
         "id": 4072907,
-        "name": "Corrente Quebra-gente",
+        "name": "Corrente Quebra-Gente",
         "desc": "Em uma única batalha, ative o efeito de Ataque Extra do Talento do Dr. Ratio, Cogito Ergo Sum por 4 rodadas consecutivas",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4073001,
+        "name": "Boa Noite, Cozinha",
+        "desc": "Derrote pelo menos 2 inimigos usando \"Acidente na Cozinha\" do Passado do Ponto da Trupe dos Pesadelos Amargos em uma única batalha",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073002,
+        "name": "Sensação Nacional",
+        "desc": "Troque 3 Sr. Tela de Redoma da Trupe dos Pesadelos Amargos para o Canal Surpresa consecutivamente em uma única batalha",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073003,
+        "name": "Lixo Perigoso",
+        "desc": "Tenha #1 aliado(s) derrotados pelo Lorde Lata de Lixo",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073004,
+        "name": "Tudo Está Predestinado",
+        "desc": "Inflija pelo menos #1 acúmulos de Arcana nos inimigos quando Cisne Negro usar sua Técnica \"De Farsa à Verdade\" e entrar em uma batalha",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073005,
+        "name": "Me... Me... Me Desculpa!",
+        "desc": "Aplique Congelamento em pelo menos #1 inimigos em um único ataque da Perícia Suprema de Misha \"V-Vou me Atrasar!\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073006,
+        "name": "Brilha, Brilha, Sparklezinha",
+        "desc": "Obtenha #1 Pontos de Perícia usando a Perícia Suprema de Sparkle \"A Heroína de Mil Faces\" em uma única batalha",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073007,
+        "name": "Abstinência de Doces",
+        "desc": "Rebata #1 Garrafa(s) de Refrigerante jogada(s) pelo Gorila Doce da Trupe dos Pesadelos Amargos com um Escudo em uma única batalha",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073008,
+        "name": "Memento Mori",
+        "desc": "Derrote o mimema da Zona da Memória \"Algo até a Morte\" com apenas um personagem podendo agir",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073009,
+        "name": "Queimadura Silenciosa",
+        "desc": "Durante a batalha contra Sam, o Caçador de Stellaron, \"DHGDR: Sobrecarga de Supernova\" não foi usado por Sam quando seu estado de Combustão Secundária foi dissipado",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073010,
+        "name": "Acenda Meu Coração, Queime Meu Corpo",
+        "desc": "Durante a batalha contra Sam, o Caçador de Stellaron, use Pontos de Perícia com o efeito Combustão para reduzir os PV de #1 aliado(s) abaixo de #2%",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -3393,7 +3995,7 @@
       {
         "id": 4082802,
         "name": "Os Guardiões da Meta-Galáxia",
-        "desc": "Vença 1 batalha(s) com uma equipe com Argenti e {NICKNAME}",
+        "desc": "Vença 1 batalha com uma equipe com Argenti e {NICKNAME}",
         "rarity": 1,
         "version": "1.5"
       },
@@ -3403,6 +4005,76 @@
         "desc": "Ativou 10 falas únicas ao adicionar personagens a uma equipe com {NICKNAME}",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4083001,
+        "name": "Fricção, Fricção",
+        "desc": "Atravesse a mesma Ponte de Bolha múltiplas vezes usando a habilidade Caminhante dos Sonhos",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083002,
+        "name": "Paralaxe",
+        "desc": "Interaja com o Olho dos Sonhos #2 ou mais vezes dentro de #1 minutos",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083003,
+        "name": "Por Que Pássaros Voam?",
+        "desc": "Interaja com o dispositivo em forma de pássaro controlando os Módulos de Sonhos #2 ou mais vezes dentro de #1 minuto(s)",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083004,
+        "name": "Triângulo Penrose",
+        "desc": "Ajuste sua perspectiva e forme o Triângulo Penrose na Margem do Sonho",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053009,
+        "name": "Contos de Um Contador de Cartas",
+        "desc": "Ganhe a recompensa especial na Roda a Roda Penacony trapaceando",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053010,
+        "name": "Tão Frágil Quanto Uma Casquinha",
+        "desc": "Após usar o consumível \"Casquinha Sonhadora\", use uma habilidade no alvo errado",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053011,
+        "name": "Introdução à Psicanálise",
+        "desc": "Sintetize qualquer um dos seguintes consumíveis: O Momento da Traição Foi a Escolha, Felicidade Fugaz, O Momento que Antecede a Morte, Atmosfera Fervilhante, A Nuvem da Dúvida ou Liberdade Momentânea",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083006,
+        "name": "Regras São Feitas Para Serem Quebradas...",
+        "desc": "Viole regras de trânsito e seja atingido por um veículo em Penacony",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083007,
+        "name": "Painel Publicitário",
+        "desc": "Faça um Painel Publicitário de Penacony ser atingido por um veículo",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083008,
+        "name": "A Verdade Deve Circular Como uma Moeda",
+        "desc": "Participe de #1 partida(s) no Suporte de Assistência usando o Dr. Ratio",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -3965,7 +4637,7 @@
       {
         "id": 4092911,
         "name": "A Pacífica Segue Sendo a Pacífica",
-        "desc": "No Universo Simulado: Ouro e Engrenagens perca a batalha ativada pela ocorrência do Código de Trapaça (II)",
+        "desc": "No Universo Simulado: Ouro e Engrenagens perca a batalha ativada pela Ocorrência do Código de Trapaça (II)",
         "rarity": 1,
         "version": "1.6"
       },
@@ -3979,7 +4651,7 @@
       {
         "id": 4092912,
         "name": "Funcionário de Classe D",
-        "desc": "No Universo Simulado: Ouro e Engrenagens, aprimore uma Curio 1 vez(es) na ocorrência do Shopping da Filial Mecânica da Paz Interastral (II)",
+        "desc": "No Universo Simulado: Ouro e Engrenagens, aprimore uma Curio 1 vez(es) na Ocorrência do Shopping da Filial Mecânica da Paz Interastral (II).",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4007,7 +4679,7 @@
       {
         "id": 4092914,
         "name": "Tau Zero",
-        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, conclua interação de ocorrência 20 ou mais vezes enquanto usa o Dado Personalizado: Extrapolação de Ocorrência",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, conclua interação de Ocorrência 20 ou mais vezes enquanto usa o Dado Personalizado: Extrapolação de Ocorrência",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4035,7 +4707,7 @@
       {
         "id": 4092916,
         "name": "Todos os Porcos têm seu Fim",
-        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, derrote ao menos 15 Cofrinhos enquanto usa o Dado Personalizado: Extrapolação de Cofrinho",
+        "desc": "Ao concluir o Universo Simulado: Ouro e Engrenagens, derrote ao menos 15 Cofrinhos em combate enquanto usa o Dado Personalizado: Extrapolação de Cofrinho",
         "rarity": 1,
         "version": "1.6"
       },

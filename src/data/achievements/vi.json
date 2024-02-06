@@ -389,6 +389,48 @@
         "desc": "Dẹp yên sóng gió mới trỗi dậy ở Trạm Không Gian Herta\\n<color=#8790abff>※Hoàn thành Khai Phá Tiếp Diễn Vương Miện Của Phàm Nhân Và Thần Thánh</color>",
         "rarity": 2,
         "version": "1.6"
+      },
+      {
+        "id": 4033001,
+        "name": "Còn Nhớ Tôi Không?",
+        "desc": "Gặp gỡ một người ngoài ý muốn khi bắt đầu hành trình...\\n<color=#8790abff>※Gặp gỡ Acheron trong Cõi Mộng xa lạ</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033002,
+        "name": "Nhà Khai Phá Cõi Mộng",
+        "desc": "Bước vào Vùng Đất Trong Mơ diệu kỳ!\\n<color=#8790abff>※Vào \"Thời Khắc Hoàng Kim\"</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033003,
+        "name": "Dịu Dàng Là Tên Của Màn Đêm",
+        "desc": "Chứng kiến sao băng lướt qua bầu trời trong mơ\\n<color=#8790abff>※Biết được bí mật của Firefly ở Ranh Giới Xây Mộng</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033004,
+        "name": "Sự Ngọt Ngào Tìm Đến",
+        "desc": "Phát hiện niềm vui bất ngờ trong thế giới Cõi Mộng\\n<color=#8790abff>※Thoát khỏi cái bóng của \"Tử Vong\"</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033005,
+        "name": "Bạn Cũ, Bạn Mới",
+        "desc": "Cảm nhận sự ấm áp trong biển sâu ký ức...\\n<color=#8790abff>※Giao chiến với Thợ Săn Stellaron Sam</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033006,
+        "name": "Để Trái Tim Không Còn Đau Thương",
+        "desc": "Cả Penacony sẽ điên đảo vì điều này...\\n<color=#8790abff>※Chứng kiến vụ án mạng thứ hai</color>",
+        "rarity": 2,
+        "version": "2.0"
       }
     ]
   },
@@ -709,6 +751,153 @@
         "desc": "Bắt Heo Đất đi lạc trong chiến đấu đạt 1 lần",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4043001,
+        "name": "Phía Bên Này Thiên Đường",
+        "desc": "Kích hoạt 15 lần Mỏ Neo Không Gian ở Penacony",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043002,
+        "name": "Giấc Mơ Penacony",
+        "desc": "Mở 120 lần Chiến Lợi Phẩm ở Penacony",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4043003,
+        "name": "Dạo Bước Trên Không",
+        "desc": "Hoàn thành nhiệm vụ \"Hiện Trường Che Giấu\", điều tra rõ sự thật phía sau Khách Sạn Cõi Mộng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043004,
+        "name": "Chíp?",
+        "desc": "Giúp 1 Chim Giấy trở về \"Cây Đại Thụ\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043005,
+        "name": "Chíp Chíp Chíp!",
+        "desc": "Giúp 60 Chim Giấy trở về \"Cây Đại Thụ\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043006,
+        "name": "Luôn Đồng Bộ Thời Gian",
+        "desc": "Sửa 15 Đồng Hồ Mộng Mị",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043007,
+        "name": "Giấc Mơ Của Ai Đó?",
+        "desc": "Lần đầu chứng kiến kỳ quan thần bí trong Giấc Mơ Trẻ Thơ",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043008,
+        "name": "Mảnh Ghép Khác Nhau",
+        "desc": "Lần đầu dùng Đôi Mắt Xây Mộng để ghép thành con đường không tưởng và vượt qua nó",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043009,
+        "name": "Thế Giới Trong Tranh",
+        "desc": "Nhận 10 lần thưởng từ Tranh Ghép Xây Mộng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043010,
+        "name": "Fly Me to the Balloon",
+        "desc": "Phá vỡ Bong Bóng Ngài Đá đặc biệt trong Thời Khắc Hoàng Kim",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043011,
+        "name": "Trường Học Bong Bóng 2",
+        "desc": "Phá vỡ Bong Bóng Ngài Đá đặc biệt trong Ranh Giới Xây Mộng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043012,
+        "name": "Bong Bóng 3",
+        "desc": "Phá vỡ Bong Bóng Ngài Đá đặc biệt trong Giấc Mơ Trẻ Thơ",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043013,
+        "name": "Bong Bóng: Penacony",
+        "desc": "Phá vỡ Bong Bóng Ngài Đá đặc biệt trong Khách Sạn Mộng Mơ - Cõi Mộng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043014,
+        "name": "Tôi Là Người Trưởng Thành",
+        "desc": "Lần đầu đến Quán Bar Ác Mộng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043015,
+        "name": "Tất Cả Những Thanh Niên Buồn Bã",
+        "desc": "Lần đầu vào Phòng Đặc Biệt trong Khách Sạn Mộng Mơ - Hiện Thực",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043016,
+        "name": "Thập Toàn Thập Mỹ",
+        "desc": "Lần đầu bước lên Cây Cầu Bong Bóng Giấc Mơ bằng khả năng của Khách Mộng Dạo Bước",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043017,
+        "name": "Đồng Hành Cùng Sói",
+        "desc": "Thu thập trọn bộ \"Cuộc Phiêu Lưu Của Hanu - Phần 1\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043018,
+        "name": "Khiến Kẻ Địch Đánh Giá Cao Nhược Điểm",
+        "desc": "Trong Cuộc Phiêu Lưu Của Hanu, đẩy vật nặng không rơi trúng quái vật",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043019,
+        "name": "Chạy Nhanh Như Chớp",
+        "desc": "Trong Cuộc Phiêu Lưu Của Hanu, thời gian dịch chuyển bằng Hỏa Tiễn vượt quá #1 giây",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043020,
+        "name": "Độ Cảnh Giác 100%",
+        "desc": "Sống sót trong \"Cuộc Phiêu Lưu Của Hanu\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043021,
+        "name": "Cách Học Từ Giấc Ngủ",
+        "desc": "Thu thập 15 Tài Liệu từ Penacony",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -1967,6 +2156,349 @@
         "desc": "Thu thập tài liệu có lời nhắn của Dr. Ratio trong Khoang Cách Ly",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4053001,
+        "name": "Đừng Lắc Soda",
+        "desc": "Lần đầu sử dụng Bi Bong Bóng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053002,
+        "name": "Hướng Về Phía Ánh Sáng",
+        "desc": "Cho dù cuộc sống đầy đau khổ, cũng quyết không bỏ cuộc",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053003,
+        "name": "Anh Ấy Cũng Lớn Lên Dưới Ánh Mặt Trời",
+        "desc": "Có lẽ... buông tay cũng là lựa chọn đúng đắn",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053004,
+        "name": "Phía Đông Vườn Eden",
+        "desc": "Chứng kiến câu chuyện của một ngôi sao ngân hà biến mất trong phút chốc",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053005,
+        "name": "Tội Lỗi Và Trừng Phạt",
+        "desc": "Chứng kiến câu chuyện của một \"người tốt\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053006,
+        "name": "Khi Vũ Hội Bắt Đầu",
+        "desc": "Hoàn thành Nhiệm Vụ Đồng Hành \"Vũ Điệu Mặt Nạ Đôi\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053007,
+        "name": "Bảo Vệ Nhân Loại, Hành Thiện Từ Kiếp Trước",
+        "desc": "Chứng kiến cuộc đời đầy gian nan của một nhà khoa học",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053008,
+        "name": "Nhà Động Vật Học Hư Cấu",
+        "desc": "Xua đuổi #1 tượng Bloodhound",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053012,
+        "name": "Tận Hưởng Cảm Xúc",
+        "desc": "\"Thủ Thuật Đồng Hồ\" có thể đem lại những gì?\\n<color=#8790abff>※Dẫn dắt cảm xúc của #1 người trong Cõi Mộng</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053014,
+        "name": "Cảm Nhận Sự Ấm Áp",
+        "desc": "\"Thủ Thuật Đồng Hồ\" có thể giúp con người tìm lại chính mình\\n<color=#8790abff>※Giải quyết #1 lần Sự Kiện Bất Ngờ của Thủ Thuật Đồng Hồ</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053015,
+        "name": "Trái Tim Đập Thình Thịch",
+        "desc": "Trong mơ, ngay cả cảm xúc cũng có thực thể\\n<color=#8790abff>※Thu thập #1 Bánh Răng Cảm Xúc</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053016,
+        "name": "Tôi Hiểu Tâm Tư Bạn",
+        "desc": "Bạn có thể cưỡng lại cám dỗ của việc tư vấn tâm lý không?\\n<color=#8790abff>※Dẫn dắt cảm xúc của ít nhất #1 người trong Cõi Mộng</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053017,
+        "name": "Xe Cưng Của Tôi",
+        "desc": "Đậu xe tại vị trí dành riêng của \"Khách Sạn Mộng Mơ\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053018,
+        "name": "Con Đường Hoàn Vốn",
+        "desc": "Ủy thác xe taxi kiếm đủ thu nhập",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053019,
+        "name": "Số Máy Vừa Gọi Hiện Không Liên Lạc Được",
+        "desc": "Luôn có những nơi không mở cửa cho người ngoài\\n<color=#8790abff>※Gọi cho một số điện thoại không kết nối được</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053020,
+        "name": "Ly Rượu Trong Thành Phố",
+        "desc": "Kết hợp Ly Pha Lê và rượu vang giá rẻ",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053021,
+        "name": "Trái Tim Kiên Định",
+        "desc": "Kết hợp Ly Pha Lê và rượu rum",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053022,
+        "name": "Chai Sâm Panh Tuyệt Vời",
+        "desc": "Kết hợp Ly Pha Lê và rượu sâm panh vàng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053023,
+        "name": "Đừng Nhặt Những Thứ Không Lành",
+        "desc": "Không phải tất cả truyền thuyết đô thị đều là truyền thuyết\\n<color=#8790abff>※Nhặt được một cuộn băng kỳ dị</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053024,
+        "name": "Sói Đại Lộ Glaux",
+        "desc": "Tìm ra nguyên nhân Máy Phun Tiền bị kẹt",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053025,
+        "name": "Mỗi Con Bạc Đều Có Lý Do Riêng",
+        "desc": "Chứng kiến kết cục của Thần Bài huyền thoại",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053026,
+        "name": "Thiên Sứ Sa Ngã",
+        "desc": "Tìm hiểu lai lịch thật sự của Xunsang",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053027,
+        "name": "Mỗi Người Nói Mỗi Khác",
+        "desc": "Vậy... là ai tông trúng ai?\\n<color=#8790abff>※Chứng kiến đầu đuôi tai nạn giao thông tại Đại Lộ Glaux</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053028,
+        "name": "Pepeshi Biến Hình",
+        "desc": "Pepeshi? Quái biến hình?\\n<color=#8790abff>※Tìm ra thân phận thật của \"Pepeshi\" tại đại sảnh khách sạn</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053029,
+        "name": "Hành Tinh Lễ Hội Và 6 Xu Alfalfa",
+        "desc": "Tình yêu và mơ ước rốt cuộc cái nào quan trọng hơn?\\n<color=#8790abff>※Tìm hiểu câu chuyện về một gia đình bị ước mơ xé nát</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053030,
+        "name": "Vệ Sinh Tinh Thần",
+        "desc": "Bảo vệ môi trường, bắt đầu từ chính bản thân\\n<color=#8790abff>※Giúp đỡ Go-Ray thu hồi rác trong Cõi Mộng</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053031,
+        "name": "Phân Tích Giấc Mơ",
+        "desc": "Dùng Điện Thoại Soi Mộng quan sát Cõi Mộng của 7 người",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053032,
+        "name": "Tất Cả Đều Là Bạn",
+        "desc": "Gặp tất cả các Bảng Quảng Cáo hoạt hình",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053033,
+        "name": "Bản Giao Hưởng Không Người",
+        "desc": "Khi người biểu diễn nhạc vui trở nên vui vẻ hơn sẽ xảy ra chuyện gì?\\n<color=#8790abff>※Âm nhạc của Max trở nên rộn ràng hơn</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053034,
+        "name": "Bước Lên Vận Mệnh \"Tham Ăn\"...",
+        "desc": "Ăn mất \"vũ công Kem Ốc Quế\" của Vitali",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053035,
+        "name": "Nhảy Vào Hang Thỏ",
+        "desc": "Lắng nghe Lời Thì Thầm Thần Bí trong Cõi Mộng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053036,
+        "name": "Giữa Bạn Và Bầu Trời",
+        "desc": "Một mình ghé thăm chốn cũ\\n<color=#8790abff>※Sau khi tất cả kết thúc, trở về căn cứ bí mật của Firefly</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053037,
+        "name": "Có Thấy Cái Thang Đó Không?",
+        "desc": "Thử trèo lên cầu thang Ranh Giới Xây Mộng\\n<color=#8790abff>※Nhưng trèo lên không được</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053038,
+        "name": "Thác Trọng Lực",
+        "desc": "Ngắm nhìn thác nước kỳ lạ trong Giấc Mơ Trẻ Thơ",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053039,
+        "name": "Kẻ May Mắn Kỳ Lạ",
+        "desc": "Tích lũy nhận được hơn #1 Xu Aideen",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053040,
+        "name": "Tôi Thích Trò Chơi Này",
+        "desc": "Phát hiện phần thưởng cuối cùng ẩn trong trò chơi \"Máy Ghép Trái Cây\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053041,
+        "name": "Không Có Người Pepeshi Sao?",
+        "desc": "Dùng nhân vật phe ta thấp hơn Cielo để nói chuyện với cô ấy",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053042,
+        "name": "Déjà Vu",
+        "desc": "Gặp được \"phong cảnh\" quen thuộc trong Cõi Mộng\\n<color=#8790abff>※Đúng vậy, là thùng rác!</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053043,
+        "name": "Ramesrash II",
+        "desc": "Khiêu chiến tất cả Thùng Quý Tộc trong Khách Sạn Mộng Mơ, Thời Khắc Hoàng Kim, Giấc Mơ Trẻ Thơ, Ranh Giới Xây Mộng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053044,
+        "name": "Cửa Sổ Phía Sau",
+        "desc": "Điều tra tất cả phòng bị khóa trong khách sạn",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053045,
+        "name": "Kẻ Địch Quốc Dân",
+        "desc": "Mạo phạm chính xác và nhanh chóng tất cả Pepeshi gặp phải\\n<color=#8790abff>※Thử chạm vào cục bông của tất cả Pepeshi trong Thời Khắc Hoàng Kim</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053046,
+        "name": "Khách Vô Danh \"Tệ Hại\" Nhất",
+        "desc": "Cho Pom-Pom xem một Bong Bóng Giấc Mơ đặc biệt nào đó",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053047,
+        "name": "Cánh Cổng Sao Xa",
+        "desc": "Nhà thám hiểm hay hải tặc?\\n<color=#8790abff>※Nghe ngóng câu chuyện về vũ trụ của Colleen</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053048,
+        "name": "Đúng Là Siêu Đỉnh",
+        "desc": "Chứng kiến một \"Tầm Nhìn Vĩ Đại\"\\n<color=#8790abff>※Thu thập đánh giá của thành viên Gia Tộc về dự án Ranh Giới Xây Mộng</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053049,
+        "name": "Giấc Mơ Bảo Vệ Bản Quyền",
+        "desc": "Những gì bạn nhìn thấy đều thuộc bản quyền của tôi!\\n<color=#8790abff>※Giúp đỡ Emmrich hoàn thành kế hoạch của anh ấy</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053050,
+        "name": "Hiện Thực Quá Nặng, Ước Mơ Quá Nhẹ",
+        "desc": "Cuối cùng con người cũng không thể thấu hiểu nhau\\n<color=#8790abff>※Nghe cuộc nói chuyện giữa Larose và Forla</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053051,
+        "name": "Lời Từ Biệt Lâu Dài",
+        "desc": "Mong rằng cô ấy sớm ngày từ biệt bóng đen quá khứ\\n<color=#8790abff>※Chứng kiến câu chuyện của Lew Archer</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053052,
+        "name": "Ăn Không Quá 3",
+        "desc": "Trong Thời Khắc Hoàng Kim, một lúc ăn quá nhiều Kem Ốc Quế...",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053053,
+        "name": "Kinh Tế Học Oti",
+        "desc": "Khi mọi người đều nhận được tiền, đồng nghĩa với việc không ai thật sự nhận được tiền\\n<color=#8790abff>※Kích hoạt nhiều lần Máy Phun Tiền trên đường</color>",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -2891,7 +3423,7 @@
       {
         "id": 4072901,
         "name": "Trong Vực Sâu Tăm Tối",
-        "desc": "Sau khi Bọ Chúa Hủy Hoại lần đầu thi triển Giáp Bọ Thảm Họa, khiến nó vào trạng thái Phá Vỡ Điểm Yếu",
+        "desc": "Sau khi Bọ Chúa Hủy Hoại thi triển Giáp Bọ Thảm Họa, sẽ khiến nó vào trạng thái Phá Vỡ Điểm Yếu",
         "rarity": 1,
         "version": "1.6"
       },
@@ -2964,6 +3496,76 @@
         "desc": "Trong 1 trận đấu, dùng Dr. Ratio kích hoạt hiệu ứng Đòn Đánh Theo Sau của thiên phú Tôi Tư Duy, Nên Tôi Tồn Tại trong 4 hiệp liên tục",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4073001,
+        "name": "Chúc Ngủ Ngon Nhà Bếp",
+        "desc": "Trong 1 lần chiến đấu, lợi dụng \"Sự Cố Bếp Núc\" do Đoàn Kịch Ác Mộng - Chín Khét thi triển tiêu diệt ít nhất 2 kẻ địch",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073002,
+        "name": "Show Vui Vẻ Toàn Dân",
+        "desc": "Trong 1 lần chiến đấu, khiến 3 Quý Ngài Màn Hình của Đoàn Kịch Ác Mộng liên tục rơi vào trạng thái \"Kênh Vui Vẻ\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073003,
+        "name": "Rác Độc Hại",
+        "desc": "Trong chiến đấu, #1 nhân vật phe ta bị Thùng Quý Tộc đánh bại",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073004,
+        "name": "Vạn Sự Đã Định",
+        "desc": "Khi Black Swan thi triển Bí Kỹ Chân Tướng Ẩn Sau Vỏ Bọc vào chiến đấu, tổng cộng khiến kẻ địch rơi vào #1 tầng Dấu Tích Bí Ẩn trở lên",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073005,
+        "name": "Xin... Xin... Xin... Xin Lỗi!",
+        "desc": "Khi Misha thi triển Tuyệt Kỹ \"Sắp... Sắp Trễ Rồi!\", trong 1 lần tấn công cùng lúc khiến ít nhất #1 kẻ địch khác nhau rơi vào trạng thái Đóng Băng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073006,
+        "name": "Thắp Sáng Pháo Hoa",
+        "desc": "Trong 1 trận đấu, dùng Tuyệt Kỹ \"Cô Gái Nghìn Mặt\" của Sparkle tổng cộng nhận #1 điểm Chiến Kỹ",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073007,
+        "name": "Mất Đường Liên Tục",
+        "desc": "Trong 1 lần chiến đấu, dùng Khiên phản đòn #1 Chai Soda do Vượn Khổng Lồ của Đoàn Kịch Ác Mộng ném ra",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073008,
+        "name": "Tồn Tại Hướng Về Cái Chết",
+        "desc": "Trong điều kiện chỉ có một người có thể hành động, đánh bại Meme Vùng Hồi Ức \"Vật Gì Hướng Về Cái Chết\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073009,
+        "name": "Lặng Lẽ Bùng Cháy",
+        "desc": "Trong chiến đấu với \"Thợ Săn Stellaron\" Sam, kẻ địch Sam sau khi vào Thiêu Đốt Thứ Cấp không sử dụng DHGDR-Siêu Sao Mới Quá Tải sẽ giải trừ trạng thái này",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073010,
+        "name": "Thiêu Đốt Trái Tim Ta, Thiêu Rụi Cơ Thể Ta",
+        "desc": "Trong chiến đấu với \"Thợ Săn Stellaron\" Sam, dùng Điểm Chiến Kỹ Thiêu Đốt khiến HP của #1 nhân vật phe ta dưới #2%",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -3403,6 +4005,76 @@
         "desc": "Kích hoạt 10 câu lồng tiếng Điều Chỉnh Đội-{NICKNAME} khác nhau",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4083001,
+        "name": "Ma Sát, Ma Sát",
+        "desc": "Nhiều lần bước qua cùng một cây Cầu Bong Bóng Giấc Mơ bằng khả năng của Khách Mộng Dạo Bước",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083002,
+        "name": "Chênh Lệch Tầm Nhìn",
+        "desc": "Trong #1 phút tương tác với thiết bị Đôi Mắt Xây Mộng #2 lần trở lên",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083003,
+        "name": "Sao Chim Lại Biết Bay?",
+        "desc": "Trong #1 phút, tương tác với thiết bị hình chim của mô đun điều khiển xây mộng #2 lần trở lên",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083004,
+        "name": "Tam Giác Penrose",
+        "desc": "Điều chỉnh góc nhìn ghép thành Tam Giác Penrose của Ranh Giới Xây Mộng",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053009,
+        "name": "Câu Chuyện Thần Bài",
+        "desc": "Dùng cách gian lận để giành phần thưởng đặc biệt trong \"Vòng Quay May Mắn\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053010,
+        "name": "Giòn Tan Như Kem Ốc Quế",
+        "desc": "Sau khi dùng Vật Tiêu Hao \"Kem Ốc Quế Mộng Mơ\", thi triển kỹ năng sai mục tiêu",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053011,
+        "name": "Nhập Môn Phân Tâm Học",
+        "desc": "Ghép ngẫu nhiên 1 Vật Tiêu Hao trong số: Khoảnh Khắc Phản Bội, Hạnh Phúc Thoáng Qua, Giờ Phút Hấp Hối, Bầu Không Khí Sôi Nổi, Mây Đen Nghi Ngờ, Tự Do Trong Khoảnh Khắc",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083006,
+        "name": "Thường Xuyên Đi Dưới Đường",
+        "desc": "Vi phạm luật giao thông, bị xe của Penacony tông bay ra xa",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083007,
+        "name": "Biển - Quảng - Cáo",
+        "desc": "Nghĩ cách để Bảng Quảng Cáo của Penacony bị xe tông bay ra xa",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083008,
+        "name": "Mọi Chân Lý Đều Phải Lưu Thông Như Tiền Tệ",
+        "desc": "Trong chi viện dùng Dr. Ratio tham gia #1 trận đấu",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -4035,7 +4707,7 @@
       {
         "id": 4092916,
         "name": "Lừa Đảo Lãng Mạn",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Heo Đất\" tiêu diệt 15 Heo Đất trở lên",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Heo Đất\" đánh bại 15 Heo Đất trở lên trong trận đấu.",
         "rarity": 1,
         "version": "1.6"
       },

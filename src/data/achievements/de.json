@@ -389,6 +389,48 @@
         "desc": "Beruhige die neue Unruhe auf der Herta-Raumstation.\\n<color=#8790abff>Schließe die Trailblaze-Fortsetzung „Krone des Mundanen und Äonischen“ ab.</color>",
         "rarity": 2,
         "version": "1.6"
+      },
+      {
+        "id": 4033001,
+        "name": "Erinnerst du dich an mich?",
+        "desc": "Du begegnest zu Beginn deiner Reise einer unerwarteten Person ...\\n<color=#8790abff>※ Triff dich in der fremdartigen Traumlandschaft mit Acheron.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033002,
+        "name": "Trailblazer im Land der Träume",
+        "desc": "Du bist im unglaublichen Land der Träume angekommen! \\n<color=#8790abff>※ Erreiche die „Goldene Stunde“.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033003,
+        "name": "Sanftheit, genannt Nacht",
+        "desc": "Sieh zu, wie die Sternschnuppen über den Traumhimmel fliegen.\\n<color=#8790abff>※ Entdecke Glühwürmchens Geheimnis an der Traumgrenze.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033004,
+        "name": "Das Streben nach Süßem",
+        "desc": "Entdecke unerwartete Freude in der Traumlandschaft.\\n<color=#8790abff>※ Entkomme dem Schatten des Todes.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033005,
+        "name": "Alte Freunde, neue Freunde",
+        "desc": "Erwärme dich an den Tiefen der Erinnerungen ...\\n<color=#8790abff>※ Kämpfe gegen Stellaron-Jäger Sam.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033006,
+        "name": "Wenn ich verhindern kann, dass ein Herz bricht",
+        "desc": "Ganz Penacony spielt verrückt ...\\n<color=#8790abff>※ Werde Zeuge des zweiten Mordes.</color>",
+        "rarity": 2,
+        "version": "2.0"
       }
     ]
   },
@@ -709,6 +751,153 @@
         "desc": "Fange 1-mal verirrtes Sparschwein im Kampf.",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4043001,
+        "name": "Diesseits vom Paradies",
+        "desc": "Aktiviere 15-mal Sternenanker auf Penacony.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043002,
+        "name": "Träume von Penacony",
+        "desc": "Öffne 120-mal einen Schatz auf Penacony.",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4043003,
+        "name": "Weltraumspaziergang",
+        "desc": "Schließe die Mission „Schlachthaus“ ab und enthülle die Wahrheit über das Hotel der Traumlandschaft.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043004,
+        "name": "Piep?",
+        "desc": "Hilf 1 Origamivogel, zum „Mammutbaum“ zurückzukehren.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043005,
+        "name": "Piep! Piep! Piep!",
+        "desc": "Hilf 60 Origamivögeln, zum „Mammutbaum“ zurückzukehren.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043006,
+        "name": "Immer zeitlich synchronisiert",
+        "desc": "Repariere 15 Traumuhren.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043007,
+        "name": "Wessen Traum ist es eigentlich?",
+        "desc": "Werde zum ersten Mal Zeuge der geheimnisvollen Wunder im Traum des Kindes.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043008,
+        "name": "Gödel, Escher, Bach",
+        "desc": "Verbinde zum ersten Mal mit dem Auge des Traums den unvorstellbaren Pfad und durchschreite ihn.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043009,
+        "name": "Gorogoallon",
+        "desc": "Erhalte 10-mal Belohnungen vom Traumpuzzle.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043010,
+        "name": "Fly me 2 the balloon",
+        "desc": "Zerstöre den besonderen Ballon von Stone in der Goldenen Stunde.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043011,
+        "name": "Ballon Gakuen 2",
+        "desc": "Zerstöre den besonderen Ballon von Stone an der Traumgrenze.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043012,
+        "name": "Ballon Impact 3",
+        "desc": "Zerstöre den besonderen Ballon von Stone in Der Traum eines Kindes.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043013,
+        "name": "Penacony: Ballon Rail",
+        "desc": "Zerstöre den besonderen Ballon von Stone im Hotel Reverie (Traumlandschaft).",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043014,
+        "name": "Ich bin volljährig!",
+        "desc": "Betritt zum ersten Mal die Insomnibar.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043015,
+        "name": "Traurige junge Leute",
+        "desc": "Betritt zum ersten Mal das spezielle Hotelzimmer im Hotel Reverie (Realität).",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043016,
+        "name": "Mädchen für alles",
+        "desc": "Besteige zum ersten Mal mit der Fähigkeit „Traumwandler“ die Brücke in der Traumblase.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043017,
+        "name": "Wölfe unter uns",
+        "desc": "Sammle alle Teile von „Hanus Abenteuer – Teil 1“.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043018,
+        "name": "Lass den Feind deine Schwäche überschätzen",
+        "desc": "Schiebe in Hanus Abenteuer Objekte nach unten, ohne Gegner zu treffen.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043019,
+        "name": "Fluchtgeschwindigkeit erreicht",
+        "desc": "Erreiche in Hanus Abenteuer eine Raketen-Teleportationszeit von länger als #1 Sek.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043020,
+        "name": "Alarmierungsstufe 100 %",
+        "desc": "Überstehe Hanus Abenteuer.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043021,
+        "name": "Lernen im Schlaf",
+        "desc": "Sammle 15 Lesbare Elemente auf Penacony.",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -1117,7 +1306,7 @@
       {
         "id": 4052720,
         "name": "Der erste Schritt in die Zukunft",
-        "desc": "Halte dich über den Entwicklungsfortschritt von Belobog auf dem Laufenden.\\n<color=#8790abff>※ Kaufe „Bergarbeiter Wochenausgabe 226“ </color>.",
+        "desc": "Halte dich über den Entwicklungsfortschritt von Belobog auf dem Laufenden.\\n<color=#8790abff>※ Kaufe „Bergarbeiter Wochenausgabe Nr. 226“ </color>.",
         "rarity": 1,
         "version": "1.4"
       },
@@ -1967,6 +2156,349 @@
         "desc": "Sammle alle lesbaren Elemente in der Isolationszone, die Nachrichten von Dr. Wahrheit enthalten.",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4053001,
+        "name": "Limonade – Nicht schütteln!",
+        "desc": "Verwende zum ersten Mal eine Flipperkugel.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053002,
+        "name": "Dem Licht entgegen",
+        "desc": "Halte am Leben fest, auch wenn es voller Schwierigkeiten ist.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053003,
+        "name": "Er wuchs unter dieser Sonne auf",
+        "desc": "Vielleicht war es die richtige Entscheidung, es loszulassen.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053004,
+        "name": "Ost von Eden",
+        "desc": "Erlebe die Geschichte eines vergänglichen galaktischen Superstars.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053005,
+        "name": "Bestrafe und Sühne",
+        "desc": "Erlebe die Geschichte eines „guten Menschen“.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053006,
+        "name": "Es ist Tanzzeit",
+        "desc": "Schließe die Begleitermission „Maskerade im Duett“ ab.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053007,
+        "name": "Die guten Taten hat ein Mann getan",
+        "desc": "Erlebe eine Geschichte aus dem mühevollen Leben eines Wissenschaftlers.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053008,
+        "name": "Zoofiktionologe",
+        "desc": "Treibe #1 Bluthund-Statuen aus.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053012,
+        "name": "Spüre das Feeling",
+        "desc": "Welche Funktion hat das Uhrwerk?\\n<color=#8790abff>※ Leite im Traum die Emotion von #1 Person.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053014,
+        "name": "Welle der Wärme",
+        "desc": "Das Uhrwerk hilft Leuten, ihr wahres Selbst zu entdecken.\\n<color=#8790abff>※ Löse #1-mal einen Notfall im Uhrwerk.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053015,
+        "name": "Schlagendes Herz",
+        "desc": "Im Traum sind sogar Emotionen greifbar.\\n<color=#8790abff>※ Sammle #1 Stimmungs-Zahnrad.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053016,
+        "name": "Ich weiß, was du denkst",
+        "desc": "Kannst du der Gelegenheit zur psychologischen Beratung widerstehen?\\n<color=#8790abff>※ Leite im Traum die Emotionen von mindestens #1 Personen.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053017,
+        "name": "Mein Lieblingsauto",
+        "desc": "Parke deinen Wagen auf dem exklusiven Parkplatz des Hotels Reverie.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053018,
+        "name": "Kostenausgleich",
+        "desc": "Verdiene genügend Einnahmen durch Taxiaufträge.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053019,
+        "name": "Die gewählte Rufnummer ist zurzeit nicht erreichbar",
+        "desc": "Manche Orte bleiben einfach unerreichbar.\\n<color=#8790abff>※ Rufe eine nicht erreichbare Nummer an.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053020,
+        "name": "Gläser der Stadt",
+        "desc": "Verkupple den Kristallbecher mit dem billigen Wein.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053021,
+        "name": "Felsenfeste Herzlichkeit",
+        "desc": "Verkupple den Kristallbecher mit Rum.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053022,
+        "name": "Ausgezeichnete Champagnerflasche",
+        "desc": "Verkupple den Kristallbecher mit Goldenem Champagner.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053023,
+        "name": "Hebe nichts Unheilvolles auf",
+        "desc": "Manche urbane Legenden sind mehr als Legenden.\\n<color=#8790abff>※ Erhalte eine gespenstische Aufzeichnung.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053024,
+        "name": "Der Wolf der Glaux-Allee",
+        "desc": "Finde die Ursache, warum die Geldspuckmaschine blockiert ist.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053025,
+        "name": "Jeder Spieler hat seine Ausreden",
+        "desc": "Werde Zeuge des Endes vom Gott des Glücksspiels.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053026,
+        "name": "Gefallener Engel",
+        "desc": "Entdecke die wahren Ursprünge von Xunsang.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053027,
+        "name": "Rashomon",
+        "desc": "Also ... Wer ist mit wem zusammengestoßen?\\n<color=#8790abff>※ Werde Zeuge des Unfalls auf der Glaux-Allee.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053028,
+        "name": "Magique Pepeshi",
+        "desc": "Ein Pepeshi? Oder ein Nachahmer?\\n<color=#8790abff>※ Finde die wahre Identität des „Pepeshi“ in der Hotellobby heraus.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053029,
+        "name": "Der Planet der Festlichkeiten und sechs Alfalfa-Credits",
+        "desc": "Was ist wichtiger: Liebe oder Zukunftsträume? \\n<color=#8790abff>※ Erlebe die Geschichte einer Familie, die von der Ambition zerrissen wurde.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053030,
+        "name": "Mentale Gesundheitsfürsorge",
+        "desc": "Unsere Umwelt geht uns alle an.\\n<color=#8790abff>※ Hilf Go-Ray dabei, den Müll in der Traumlandschaft zu sammeln.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053031,
+        "name": "Die Deutung von Träumen",
+        "desc": "Spähe mit dem Traumspäher-Telefon in die Traumlandschaften von 7 Leuten.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053032,
+        "name": "Wir sind doch alle Freunde",
+        "desc": "Triff auf alle Arten von billigen Werbetafeln.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053033,
+        "name": "Niemands Sinfonie",
+        "desc": "Was passiert, wenn ein fröhlicher Musikant noch fröhlicher wird?\\n<color=#8790abff>※ Mache Max’ Musik noch fröhlicher.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053034,
+        "name": "Auf dem Pfad der Gier ...",
+        "desc": "Iss den Waffeltänzer von Vitali auf.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053035,
+        "name": "Sprung in den Kaninchenbau",
+        "desc": "Höre in der Traumlandschaft dem geheimnisvollen Flüstern verschiedener Gegenstände zu.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053036,
+        "name": "Zwischen dem Himmel und dir",
+        "desc": "Besuche noch einmal alleine den Geheimort.\\n<color=#8790abff>※ Kehre nach dem Ende aller Dinge zu Glühwürmchens geheimem Stützpunkt zurück.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053037,
+        "name": "Siehst du diese Leiter?",
+        "desc": "Versuche, die Leiter an der Traumgrenze zu erklimmen.\\n<color=#8790abff>※ Du wirst es aber nicht schaffen.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053038,
+        "name": "Schwerkraft-Wasserfall",
+        "desc": "Beobachte den wundersamen Wasserfall in Der Traum eines Kindes.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053039,
+        "name": "Glücksstreifen",
+        "desc": "Sammle insgesamt mehr als #1 Aideen-Marken.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053040,
+        "name": "Ich liebe dieses Spiel",
+        "desc": "Entdecke den höchsten Preis in „Verträumte Slots“.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053041,
+        "name": "Gibt es keine Pepeshi?",
+        "desc": "Verwende eine Figur, die kleiner ist als Cielo, um mit dieser zu sprechen.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053042,
+        "name": "Dé­jà-vu",
+        "desc": "Begegne in der Traumlandschaft einer dir vertrauten „Szene“.\\n<color=#8790abff>※ Ja, es ist eine Mülltonne!</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053043,
+        "name": "Eimersses II.",
+        "desc": "Fordere alle Lords von Tonne im Hotel Reverie, in der Goldenen Stunde, in Der Traum eines Kindes und an der Traumgrenze heraus.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053044,
+        "name": "Das Fenster zum Hof",
+        "desc": "Untersuche alle verschlossenen Zimmer im Hotel.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053045,
+        "name": "Staatsfeind der Pepeshi",
+        "desc": "Beleidige jeden Pepeshi, den du triffst, auf die dreisteste Art.\\n<color=#8790abff>※ Versuche, das Flauschi von allen Pepeshi in der Goldenen Stunde zu berühren.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053046,
+        "name": "Der schlimmste Namenlose",
+        "desc": "Zeige Pom-Pom eine bestimmte Traumblase.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053047,
+        "name": "Tor zu fernen Sternen",
+        "desc": "Abenteurer oder Pirat?\\n<color=#8790abff>※ Höre dir Colleens Geschichte über das Universum an.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053048,
+        "name": "Einfach super",
+        "desc": "Werde Zeuge einer „großen Vision“.\\n<color=#8790abff>※ Sammle die Kommentare der Familienmitglieder zum Projekt Traumgrenze.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053049,
+        "name": "Traum der Monopolisierung",
+        "desc": "Alles, was du siehst, ist MEINE Erfindung!\\n<color=#8790abff>※ Hilf Emmrich dabei, seinen Plan zu erfüllen.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053050,
+        "name": "Leichtfüßige Träume in der schweren Realität",
+        "desc": "Die Menschen verstehen sich letztendlich nicht untereinander.\\n<color=#8790abff>※ Hör dem Gespräch zwischen Larose und Forla zu.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053051,
+        "name": "Langer Abschied",
+        "desc": "Möge sie sich bald von den Schatten ihrer Vergangenheit verabschieden.\\n<color=#8790abff>※ Erlebe Lew Archers Geschichte.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053052,
+        "name": "Aller guten Waffeln sind drei",
+        "desc": "Iss in der Goldenen Stunde zu viele Waffeltüten auf einmal ...",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053053,
+        "name": "Otis Wirtschaftswissenschaft",
+        "desc": "Wenn jeder Geld bekommt, bedeutet das eigentlich, dass niemand Geld bekommt.\\n<color=#8790abff>※ Löse die Geldspuckmaschine auf der Straße wiederholt aus.</color>",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -2891,7 +3423,7 @@
       {
         "id": 4072901,
         "name": "Fluten der Dunkelheit",
-        "desc": "Füge dem Schwarmkönig Sternenbrecher Schwächebruch zu, nachdem er „Carapax des Unheils“ zum ersten Mal eingesetzt hat.",
+        "desc": "Füge dem Schwarmkönig Sternenbrecher Schwächebruch zu, nachdem er „Carapax des Unheils“ eingesetzt hat.",
         "rarity": 1,
         "version": "1.6"
       },
@@ -2964,6 +3496,76 @@
         "desc": "Verwende Dr. Wahrheit und löse mit seinem Talent „Ich denke, also bin ich“ Folgeangriffe für 4 aufeinanderfolgende Rd. in einem Kampf aus.",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4073001,
+        "name": "Gute Nacht, Küche",
+        "desc": "Besiege in einem einzigen Kampf mindestens zwei Gegner mithilfe von „Küchenunfall“ von Truppe der Albträume: Durchgekocht.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073002,
+        "name": "Angenehme Überraschung",
+        "desc": "Versetze in einem einzigen Kampf 3 Herren Flimmerkiste der Truppe der Albträume hintereinander in den Status „Überraschungs-Kanal“.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073003,
+        "name": "Schädlicher Abfall",
+        "desc": "Lord von Tonne besiegt im Kampf #1 Verbündeten.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073004,
+        "name": "Alles ist vorbestimmt",
+        "desc": "Verursache beim Kampfeintritt mindestens #1-fach Arkana bei Gegnern durch Anwendung der Technik „Her mit Wahrheit, weg mit Fassade“ von Schwarzer Schwan.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073005,
+        "name": "Es ... Es ... Es tut mir leid!",
+        "desc": "Friere mit einem Angriff von Mishas Ultimate „Ich bin spät dran!“ mindestens #1 verschiedene Gegner ein.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073006,
+        "name": "Funkelnde Sparkle",
+        "desc": "Erhalte in einem einzigen Kampf #1 Fertigkeitspunkte durch Anwendung von Sparkles Ultimate „Ein Leben in tausend Rollen“.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073007,
+        "name": "Zuckerentzug",
+        "desc": "Lasse in einem einzigen Kampf #1 Limonadenflaschen von demselben Süßen Affen Tarzan der Truppe der Albträume mit einem Schild abprallen.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073008,
+        "name": "Existenz jenseits des Todes",
+        "desc": "Besiege das Speicherbereich-Mem: Dem Tod entgegen mit nur einer handlungsfähigen Figur.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073009,
+        "name": "Stilles Brennen",
+        "desc": "Im Kampf gegen Stellaron-Jäger: Sam wird dieser Status entfernt, wenn er nach dem Eintritt in „Sekundäre Verbrennung“ nicht „DHGDR: Supernova-Überladung“ einsetzt.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073010,
+        "name": "Entfache mein Herz, verbrenne meinen Körper",
+        "desc": "Verwende im Kampf gegen Stellaron-Jäger: Sam angezündete Fertigkeitspunkte, um die LP von #1 Verbündeten unter #2% zu verringern.",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -3403,6 +4005,76 @@
         "desc": "Löse 10 verschiedene Dialoge mit dem Inhalt „Teammitglied: {NICKNAME}“ aus.",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4083001,
+        "name": "Reibung, Reibung",
+        "desc": "Überquere mehrmalig mit der Fähigkeit „Traumwandler“ die Brücke in der Traumblase.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083002,
+        "name": "Parallaxe",
+        "desc": "Interagiere innerhalb von #1 Min. mindestens #2-mal mit dem Auge des Traums.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083003,
+        "name": "Warum fliegen Vögel?",
+        "desc": "Interagiere innerhalb von #1 Min. mindestens #2-mal mit dem vogelförmigen Gerät, das das Traummodul steuert.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083004,
+        "name": "Penrose-Dreieck",
+        "desc": "Passe den Blickwinkel an, um das „Penrose-Dreieck“ an der Traumgrenze zusammenzusetzen.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053009,
+        "name": "Geschichte aus der Zeit des Grafen",
+        "desc": "Erhalte die Spezialbelohnung bei „Glücksrad“ durch Mogelei.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053010,
+        "name": "Zerbrechlich wie eine Waffeltüte",
+        "desc": "Wende nach Verwendung des Verbrauchsgegenstands „Traumwaffeltüte“ eine Fähigkeit auf den falschen Gegner an.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053011,
+        "name": "Psychoanalyse für Anfänger",
+        "desc": "Synthetisiere einen der folgenden Verbrauchsgegenstände: Moment des Verrats, Flüchtiges Glück, Sekunden vor dem Tod, Lebhaftes Ambiente, Nebel des Verdachts oder Moment der Freiheit.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083006,
+        "name": "Regeln sind dazu da, gebrochen zu werden ...",
+        "desc": "Verstoße gegen die Verkehrsregeln in Penacony und stoße mit einem Fahrzeug zusammen.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083007,
+        "name": "Mobile Werbetafel!",
+        "desc": "Bringe eine Werbetafel von Penacony dazu, von einem Verkehrsmittel in die Luft geschleudert zu werden.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083008,
+        "name": "Die Wahrheit muss wie eine Währung fließen",
+        "desc": "Nimm an #1 Kampf mit Dr. Wahrheit als Unterstützungsfigur teil.",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },

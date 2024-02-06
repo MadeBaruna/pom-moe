@@ -389,6 +389,48 @@
         "desc": "Résoudre la nouvelle crise à bord de la Station spatiale Herta\\n<color=#8790abff>※ Terminez la continuité pionnière « Couronne du commun et du divin »</color>.",
         "rarity": 2,
         "version": "1.6"
+      },
+      {
+        "id": 4033001,
+        "name": "Tu te souviens de moi ?",
+        "desc": "À l'aube de votre aventure, une personne inattendue se joint à vous...\\n<color=#8790abff>※ Rencontrer Achéron au cours d'un étrange rêve</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033002,
+        "name": "Un pionnier au Pays des rêves",
+        "desc": "Vous êtes arrivé dans l'incroyable Terre des rêves !\\n<color=#8790abff>※ Découvrir l'Heure dorée</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033003,
+        "name": "Nocturne ou la Gentillesse",
+        "desc": "La traversée d'une étoile filante dans le ciel onirique.\\n<color=#8790abff>※ Découvrir les secrets de Luciole à la Frontière des rêves</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033004,
+        "name": "En quête de douceur",
+        "desc": "Découvrez une joie inattendue au Pays des rêves\\n<color=#8790abff>※ Échappez à l'ombre de la « mort »</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033005,
+        "name": "Anciens et nouveaux amis",
+        "desc": "Ressentez la chaleur enfouie dans les profondeurs des souvenirs...\\n<color=#8790abff>※ Combattre Sam, le Chasseur de Stellaron</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033006,
+        "name": "If I Can Stop One Heart From Breaking",
+        "desc": "Penacony va s'embraser à cause de ça...\\n<color=#8790abff>※ Assister au second meurtre</color>",
+        "rarity": 2,
+        "version": "2.0"
       }
     ]
   },
@@ -709,6 +751,153 @@
         "desc": "Capturer 1 Magoret égaré en combat",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4043001,
+        "name": "Un petit coin de paradis",
+        "desc": "Activer des ancres spatiales 15 fois à Penacony",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043002,
+        "name": "Rêves sauce Penacony",
+        "desc": "Ouvrir 120 coffres au trésor à Penacony",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4043003,
+        "name": "Le cosmos à pied",
+        "desc": "Terminer la mission « Abattoir » et découvrir la vérité à l'Hôtel du Pays des rêves",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043004,
+        "name": "Le poussin piou",
+        "desc": "Aider 1 oiseaux en origami à retourner au Grand arbre.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043005,
+        "name": "Veux-tu, veux-tu, au Grand arbre me trouver",
+        "desc": "Aider 60 oiseau en origami à retourner au Grand arbre",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043006,
+        "name": "Tout finit par se synchroniser avec le temps",
+        "desc": "Réparer 15 horloges des rêves",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043007,
+        "name": "À qui appartient ce rêve ?",
+        "desc": "Être témoin d'étranges merveilles dans le Rêve d'enfant pour la première fois",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043008,
+        "name": "On n'est pas aux pièces",
+        "desc": "Utiliser l'Œil du rêve pour créer un passage impossible et le traverser",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043009,
+        "name": "Énigmologue",
+        "desc": "Récupérer des récompenses de puzzle onirique 10 fois",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043010,
+        "name": "Fly Me 2 the Balloon",
+        "desc": "Éclater le ballon spécial de Boss Stone dans l'Heure dorée",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043011,
+        "name": "Balloon Girl Z",
+        "desc": "Éclater le ballon spécial de Boss Stone à la Frontière des rêves",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043012,
+        "name": "Balloon Impact 3rd",
+        "desc": "Éclater le ballon spécial de Boss Stone dans le Rêve d'enfant",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043013,
+        "name": "Balloon : Star Rail",
+        "desc": "Éclater le ballon spécial de Boss Stone à l'Hôtel Rêverie du Pays des rêves",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043014,
+        "name": "PEGI 18",
+        "desc": "Entrer dans l'Auberge Chocmar pour la première fois",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043015,
+        "name": "C'est la fin",
+        "desc": "Accéder à la chambre d'hôtel secrète de l'Hôtel Rêverie de la réalité pour la première fois",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043016,
+        "name": "Touche-à-tout",
+        "desc": "Utiliser la capacité Marche-rêve et marcher sur un pont de bulle",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043017,
+        "name": "Danse avec les loups",
+        "desc": "Récupérer la collection complète des <i>Aventures de Hanu (Partie 1)</i>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043018,
+        "name": "Ne sous-estime jamais la rapacité de l'adversaire",
+        "desc": "Faire tomber des objets et ne blesser personne lors des Aventures de Hanu",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043019,
+        "name": "Évasion éclair",
+        "desc": "La téléportation de roquette dure plus de #1 secondes dans les Aventures de Hanu",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043020,
+        "name": "Alerte maximum",
+        "desc": "Survivre dans les Aventures de Hanu",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043021,
+        "name": "Apprendre dans son sommeil",
+        "desc": "Collecter 15 éléments de lecture à Penacony",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -872,7 +1061,7 @@
       {
         "id": 4052603,
         "name": "La paix en avant-première",
-        "desc": "Écouter l'intégralité de l'épisode 1 du programme de la Paix Interastrale",
+        "desc": "Écouter l'intégralité de l'épisode 1 du Programme de la Paix Interastrale",
         "rarity": 1,
         "version": "1.3"
       },
@@ -1967,6 +2156,349 @@
         "desc": "Récupérer tous les éléments de lecture contenant des messages de Dr Ratio dans la Zone d'isolement",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4053001,
+        "name": "Ne pas secouer avant ouverture",
+        "desc": "Utiliser le Flipper à bulles pour la première fois",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053002,
+        "name": "Vers un avenir meilleur",
+        "desc": "Tenir bon face à l'adversité",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053003,
+        "name": "Soleil d'été",
+        "desc": "Il est peut-être temps d'abandonner...",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053004,
+        "name": "À l'est d'Éden",
+        "desc": "Découvrir l'histoire éphémère d'une superstar intergalactique",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053005,
+        "name": "Crime et Châtiment",
+        "desc": "Découvrir l'histoire de « quelqu'un de bien »",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053006,
+        "name": "Pendant le bal",
+        "desc": "Terminer la mission de compagnon « Mascarade à deux »",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053007,
+        "name": "Oppenheimer",
+        "desc": "Découvrir la vie difficile d'un scientifique",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053008,
+        "name": "Zoologiste du Pays des rêves",
+        "desc": "Dissiper #1 statues de chien",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053012,
+        "name": "Le vrai goût des émotions",
+        "desc": "À quoi sert le pouvoir de la Pendule ?\\n<color=#8790abff>※ Guider les émotions de #1 personnes du Pays des rêves</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053014,
+        "name": "Vague de chaleur",
+        "desc": "Le pouvoir de la Pendule peut aider les gens à se redécouvrir.\\n<color=#8790abff>※ Résoudre #1 événements imprévus grâce au pouvoir de la Pendule</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053015,
+        "name": "Tambour battant",
+        "desc": "Dans les rêves, les émotions sont réelles.\\n<color=#8790abff>※ Récupérer #1 engrenages émotionnels</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053016,
+        "name": "Je sais ce à quoi tu penses",
+        "desc": "Comment résister à la tentation de la thérapie ?\\n<color=#8790abff>※ Guider les émotions d'au moins #1 personnes du Pays des rêves</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053017,
+        "name": "Ma voiture à moi",
+        "desc": "Garer votre voiture au parking exclusif de l'Hôtel Rêverie",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053018,
+        "name": "Retour sur investissement",
+        "desc": "Gagner suffisamment d'argent en travaillant comme taxi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053019,
+        "name": "Le numéro que vous avez composé n'est pas attribué",
+        "desc": "Certaines portes resteront toujours fermées.\\n<color=#8790abff>※ Appeler un numéro injoignable</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053020,
+        "name": "Santé, mais pas des pieds",
+        "desc": "Faire l'entremetteur entre un vin bon marché et une coupe en cristal",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053021,
+        "name": "Crystal on the rocks",
+        "desc": "Faire l'entremetteur entre du rhum et une coupe en cristal",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053022,
+        "name": "Le champagne, ça vous gagne",
+        "desc": "Faire l'entremetteur entre du champagne et une coupe en cristal",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053023,
+        "name": "Évitez de ramasser n'importe quoi",
+        "desc": "Toutes les légendes urbaines ne sont pas que des légendes.\\n<color=#8790abff> ※ Ramasser une étrange cassette</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053024,
+        "name": "Le loup de l'avenue Glaux",
+        "desc": "Découvrir pourquoi la Fontaine à sous est bloquée",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053025,
+        "name": "La folie du jeu",
+        "desc": "Assister à la fin de l'histoire du légendaire Dieu des paris",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053026,
+        "name": "Ange déchu",
+        "desc": "Découvrir la véritable origine de Xunsang",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053027,
+        "name": "Angles d'attaque",
+        "desc": "Alors... qui a percuté qui ?\\n<color=#8790abff>※ Être témoin des circonstances de l'accident de voiture de l'avenue Glaux</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053028,
+        "name": "Pepeshi, merveilleux Pepeshi",
+        "desc": "Pepeshi ? Ou créature mémétique ?\\n<color=#8790abff>※ Découvrir la véritable identité du « Pepeshi » du Hall de l'hôtel</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053029,
+        "name": "La planète des festivités et six crédits Grand-Trèfle",
+        "desc": "Lequel est le plus important, l'amour ou les rêves ?\\n<color=#8790abff>※ Découvrir l'histoire d'une famille déchirée par ses rêves</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053030,
+        "name": "Prise en charge psychologique",
+        "desc": "Il faut préserver son environnement.\\n<color=#8790abff>※ Aider Go-Ray à recycler les ordures du Pays des rêves</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053031,
+        "name": "L'Interprétation des rêves",
+        "desc": "Utiliser l'Appel onirique et visiter les rêves de 7 personnes",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053032,
+        "name": "Amis de tous horizons",
+        "desc": "Rencontrer tous les types de panneaux publicitaires",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053033,
+        "name": "Besoin de rien, envie de joie",
+        "desc": "Que se passe-t-il lorsqu'un musicien joyeux est encore plus joyeux ?\\n<color=#8790abff>※ Apporter encore plus de joie à la musique de Max</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053034,
+        "name": "Sur la Voie de la Voracité...",
+        "desc": "Manger le cône danseur de Vitali",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053035,
+        "name": "Pays des merveilles",
+        "desc": "Écouter les mystérieux chuchotements des différents objets du Pays des rêves",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053036,
+        "name": "Entre ciel et toi",
+        "desc": "Visiter à nouveau la planque secrète seul\\n<color=#8790abff>※ Retourner dans la planque secrète de Luciole après que tout soit terminé</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053037,
+        "name": "Tu vois cette montagne ?",
+        "desc": "Essayer de gravir l'échelle à la Frontière des rêves\\n<color=#8790abff>※ En fait, c'est impossible.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053038,
+        "name": "Chute d'eau gravitationnelle",
+        "desc": "Admirer une chute d'eau spéciale dans le Rêve d'enfant",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053039,
+        "name": "Chanceux",
+        "desc": "Accumuler plus de #1 jetons Aideen",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053040,
+        "name": "J'adore ce jeu",
+        "desc": "Découvrir le prix ultime caché dans le Jackpot onirique",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053041,
+        "name": "Où sont les Pepeshi ?",
+        "desc": "Parler à Cielo avec un personnage plus petit qu'elle",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053042,
+        "name": "Déjà-vu",
+        "desc": "Découvrir les « paysages » familiers du Pays des rêves\\n<color=#8790abff>※ Yep, c'est une poubelle !</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053043,
+        "name": "Poubelle la vie",
+        "desc": "Défier toutes les Poubelles vénérables de l'Hôtel Rêverie, de l'Heure dorée, du Rêve d'enfant et de la Frontière des rêves",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053044,
+        "name": "Fenêtre sur cour",
+        "desc": "Inspecter toutes les chambres verrouillées de l'hôtel",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053045,
+        "name": "Ennemi des Pepeshi",
+        "desc": "Offenser tous les Pepeshi que vous rencontrez de manière outrageuse\\n<color=#8790abff>※ Essayer de toucher la boule de poils de tous les Pepeshi de l'Heure dorée</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053046,
+        "name": "Sans Nom sans scrupule",
+        "desc": "Montrer à Pom-Pom une bulle onirique spécifique",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053047,
+        "name": "La Porte des étoiles",
+        "desc": "Pirate ou aventurière ?\\n<color=#8790abff>※ Écouter les histoires de Colleen à propos de l'univers</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053048,
+        "name": "Incroyable",
+        "desc": "Être témoin d'une « incroyable vision »\\n<color=#8790abff>※ Recueillir les avis des membres de la Famille au sujet du projet de la Frontière des rêves</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053049,
+        "name": "I have a dream",
+        "desc": "Tout ici est le fruit de MA créativité !\\n<color=#8790abff>※ Aider Emmrich à réaliser son plan</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053050,
+        "name": "Entre rêve et réalité",
+        "desc": "Après tout, les humains ne peuvent pas se comprendre\\n<color=#8790abff>※ Écouter la conversation entre Larose et Forla</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053051,
+        "name": "Un long au revoir",
+        "desc": "Puisse-t-elle dire adieu à son lourd passé\\n<color=#8790abff>※ Découvrir l'histoire de Lou Archer</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053052,
+        "name": "Jamais deux sans trois",
+        "desc": "Manger trop de cônes croustillants d'un coup dans l'Heure dorée...",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053053,
+        "name": "Les sciences économiques d'Oti",
+        "desc": "Si tout le monde reçoit de l'argent, alors personne n'est vraiment gagnant\\n<color=#8790abff>※ Déclencher à plusieurs reprises la fontaine à sous dans la rue</color>",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -2891,7 +3423,7 @@
       {
         "id": 4072901,
         "name": "Dans l'obscurité absolue",
-        "desc": "Infliger une Rupture de faiblesse au Roi de l'Essaim briseur d'étoiles après sa première utilisation de « Carapace du désastre nourri »",
+        "desc": "Infliger une Rupture de faiblesse au Roi de l'Essaim briseur d'étoiles après qu'il a utilisé « Carapace du désastre nourri »",
         "rarity": 1,
         "version": "1.6"
       },
@@ -2964,6 +3496,76 @@
         "desc": "Déclencher l'attaque de suivi du talent de Dr Ratio, Cogito, Ergo Sum, pendant 4 tours consécutifs au cours d'un même combat",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4073001,
+        "name": "Cauchemar en cuisine",
+        "desc": "Vaincre 2 ennemis en utilisant l'« Accident de cuisine » déclenché par le Brasérosaure de la Troupe Chocmar au cours d'un même combat",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073002,
+        "name": "Surprise pour tout le monde",
+        "desc": "Faire en sorte que 3 Écrantateurs de la Troupe Chocmar passent dans l'état Chaîne de variété consécutivement au cours d'un même combat",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073003,
+        "name": "Gare à la poubelle",
+        "desc": "Avoir #1 alliés vaincus par la Poubelle vénérable",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073004,
+        "name": "Tout est prédestiné",
+        "desc": "Appliquer au moins #1 cumuls d'Arcanes aux ennemis grâce à la technique « Du mythe à la réalité » de Cygne noir pour entrer en combat",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073005,
+        "name": "T—T—Toutes mes excuses !",
+        "desc": "Utiliser l'ultime de Micha « J—Je vais être en retard ! » et geler #1 ennemis en une seule attaque",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073006,
+        "name": "Plaisir d'offrir",
+        "desc": "Utiliser l'ultime de Sparkle « Personnage aux mille visages » et gagner #1 points de compétence au cours d'un même combat",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073007,
+        "name": "Boisson sans sucre",
+        "desc": "Faire rebondir #1 bouteilles de soda du Limogorille de la Troupe Chocmar avec un bouclier en un seul combat",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073008,
+        "name": "Memento Mori",
+        "desc": "Vaincre la Créature mémorielle « Projection de la mort » avec un seul personnage capable d'agir",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073009,
+        "name": "Combustion silencieuse",
+        "desc": "Au cours du combat contre Sam, le Chasseur de Stellaron, dissiper l'état Combustion secondaire avant qu'il n'utilise « DHGDR : Surcharge supernova » dans cet état",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073010,
+        "name": "Enflamme mon cœur, que mon corps brûle",
+        "desc": "Utiliser des points de compétence avec l'effet Combustion pour réduire les PV de #1 alliés en dessous de #2% au cours du combat contre Sam, le Chasseur de Stellaron",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -3403,6 +4005,76 @@
         "desc": "Déclencher 10 répliques différentes lors de l'ajout de personnages dans une équipe avec {NICKNAME}",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4083001,
+        "name": "À pas feutrés",
+        "desc": "Traverser le même pont de bulle plusieurs fois en utilisant la capacité Marche-rêve",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083002,
+        "name": "Parallaxe",
+        "desc": "Interagir avec l'Œil du rêve #2 fois ou plus en #1 minutes",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083003,
+        "name": "Pourquoi les oiseaux volent-ils ?",
+        "desc": "Interagir #2 fois ou plus avec les modules oniriques de contrôle en forme d'oiseau en #1 minutes",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083004,
+        "name": "Triangle impossible",
+        "desc": "Ajuster votre perspective et former le Triangle de Penrose à la Frontière des rêves",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053009,
+        "name": "L'amour de la triche",
+        "desc": "Remporter le prix spécial de la Roue de la chance en trichant",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053010,
+        "name": "J'ai dé-cône-é",
+        "desc": "Utiliser le consommable Cône des rêves et lancer une compétence sur la mauvaise cible",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053011,
+        "name": "Introduction à la psychanalyse",
+        "desc": "Synthétiser l'un de ces consommables : Moment de la trahison, Bonheur passager, Le moment avant la mort, Ambiance animée, Nuages du doute ou Moment de liberté",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083006,
+        "name": "Les règles sont faites pour être transgressées...",
+        "desc": "Enfreindre le code de la route et se faire percuter par une voiture à Penacony",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083007,
+        "name": "Panneau publicitaire en approche !",
+        "desc": "Faire en sorte qu'un véhicule percute un panneau publicitaire",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083008,
+        "name": "Toute vérité doit circuler comme l'argent",
+        "desc": "Participer à #1# combats en utilisant Dr Ratio comme soutien",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -3979,7 +4651,7 @@
       {
         "id": 4092912,
         "name": "Employé de rang D",
-        "desc": "Améliorer une bizarrerie 1 fois au cours de l'événement Centre commerciale mécanique de la Paix Interastrale (II) dans Or et machines",
+        "desc": "Améliorer une bizarrerie 1 fois au cours de l'événement Centre commercial mécanique de la Paix Interastrale (II) dans Or et machines",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4035,7 +4707,7 @@
       {
         "id": 4092916,
         "name": "Cochons décochés",
-        "desc": "Avoir éliminé au moins 15 Magorets en utilisant le dé personnalisé : Extrapolation de Magoret lorsque vous terminez Or et machines",
+        "desc": "Avoir éliminé au moins 15 Magorets en combat en utilisant le dé personnalisé : Extrapolation de Magoret lorsque vous terminez Or et machines",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4342,7 +5014,7 @@
       },
       {
         "id": 4092938,
-        "name": "Tous surveillés par des machines d’amour et de grâce",
+        "name": "Tous surveillés par des machines d'amour et de grâce",
         "desc": "Survivre à 10 Extrapolation(s) de résonance ou plus au cours d'un même combat dans Or et machines",
         "rarity": 1,
         "version": "1.6"

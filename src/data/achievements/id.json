@@ -389,6 +389,48 @@
         "desc": "Menyelesaikan krisis baru di Stasiun Luar Angkasa Herta\\n<color=#8790abff>※ Menyelesaikan Misi Trailblaze Lanjutan \"Mahkota Kefanaan dan Keilahian\"</color>",
         "rarity": 2,
         "version": "1.6"
+      },
+      {
+        "id": 4033001,
+        "name": "Kamu Masih Ingat Aku?",
+        "desc": "Bertemu dengan orang yang tak terduga di awal perjalanan ....\\n<color=#8790abff>※ Bertemu dengan Acheron di dunia mimpi yang asing</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033002,
+        "name": "Trailblazer di Negara Mimpi",
+        "desc": "Tiba di Negeri Mimpi yang luar biasa!\\n<color=#8790abff>※ Tiba di \"Golden Hour\"</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033003,
+        "name": "Kelembutan dalam Kegelapan",
+        "desc": "Menyaksikan bintang jatuh melintasi langit dalam mimpi\\n<color=#8790abff>※ Mengetahui rahasia Firefly di Dream's Edge</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033004,
+        "name": "Ketika Kemanisan Mengetuk Pintu",
+        "desc": "Menemukan kejutan bahagia di dunia mimpi\\n<color=#8790abff>※ Kabur dari bayangan \"kematian\"</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033005,
+        "name": "Teman Lama, Teman Baru",
+        "desc": "Merasakan kehangatan di kedalaman lautan kenangan ....\\n<color=#8790abff>※ Bertarung dengan Stellaron Hunter Sam</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033006,
+        "name": "Menyelamatkan Hati dari Kesedihan",
+        "desc": "Seluruh Penacony akan menggila karenanya ....\\n<color=#8790abff>※ Saksikan kasus pembunuhan kedua</color>",
+        "rarity": 2,
+        "version": "2.0"
       }
     ]
   },
@@ -709,6 +751,153 @@
         "desc": "Menangkap Trotter yang tersesat 1 kali dalam pertempuran",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4043001,
+        "name": "Sisi Lain Surga",
+        "desc": "Mengaktifkan Space Anchor 15 kali di Penacony",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043002,
+        "name": "Mimpi Penacony",
+        "desc": "Membuka Peti Harta 120 kali di Penacony",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4043003,
+        "name": "Berjalan di Luar Angkasa",
+        "desc": "Menyelesaikan misi \"Tempat Pemotongan Daging\", dan menemukan kebenaran di balik hotel dunia mimpi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043004,
+        "name": "*Cuit*?",
+        "desc": "Bantu 1 Burung Origami kembali ke \"Pohon Besar\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043005,
+        "name": "*Cuit-cuit-cuit*!",
+        "desc": "Bantu 60 Burung Origami kembali ke \"Pohon Besar\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043006,
+        "name": "Selalu Sejalan dengan Waktu",
+        "desc": "Perbaiki 15 Jam Dunia Mimpi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043007,
+        "name": "Mimpi Siapa?",
+        "desc": "Menyaksikan keajaiban misterius dalam Child's Dream untuk pertama kalinya",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043008,
+        "name": "Beda Dinding",
+        "desc": "Menggunakan Mata Pemimpi untuk menghubungkan jalan yang tidak mungkin dan lewati jalan itu",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043009,
+        "name": "Dunia dalam Lukisan",
+        "desc": "Memperoleh 10 hadiah dari Puzzle Mimpi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043010,
+        "name": "Fly Me 2 the Baloon",
+        "desc": "Pecahkan balon Tuan Stone khusus di Golden Hour",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043011,
+        "name": "Balloon Gakuen 2",
+        "desc": "Pecahkan balon Tuan Stone khusus di Dream's Edge",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043012,
+        "name": "Balloon Impact 3rd",
+        "desc": "Pecahkan balon Tuan Stone khusus di A Child's Dream",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043013,
+        "name": "Penacony: Balloon Rail",
+        "desc": "Pecahkan balon Tuan Stone khusus di \"Reverie\" Hotel — Dunia Mimpi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043014,
+        "name": "Aku sudah Dewasa",
+        "desc": "Tiba di Dreamjolt Hostelry untuk pertama kalinya",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043015,
+        "name": "Semua Anak Muda yang Meratap",
+        "desc": "Pertama kali memasuki \"kamar tamu khusus\" di \"Reverie\" — Dunia Nyata",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043016,
+        "name": "Lengkap Sepenuhnya",
+        "desc": "Pertama kali ke Jembatan Gelembung Mimpi dengan menggunakan kemampuan Pejalan Mimpi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043017,
+        "name": "Bersama Serigala",
+        "desc": "Mengumpulkan seluruh koleksi \"Petualangan Hanu - Bagian Pertama\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043018,
+        "name": "Kirain Kamu Hebat, Ternyata ...",
+        "desc": "Benda berat yang di dorong selama \"Petualangan Hanu\" tidak mengenai monster",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043019,
+        "name": "Kabur Bagaikan Kilat",
+        "desc": "Teleportasi roket di \"Petualangan Hanu\" melebihi #1 detik",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043020,
+        "name": "Waspada 100%",
+        "desc": "Lolos dari kematian di \"Petualangan Hanu\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043021,
+        "name": "Belajar dalam Tidur",
+        "desc": "Mengumpulkan 15 item bacaan di Penacony",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -1967,6 +2156,349 @@
         "desc": "Mengumpulkan semua item bacaan yang berisikan komentar Dr. Ratio di Seclusion Zone",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4053001,
+        "name": "Jangan Kocok Soda",
+        "desc": "Menggunakan Pinball Gelembung untuk pertama kali",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053002,
+        "name": "Menuju Sisi yang Lebih Terang",
+        "desc": "Meski hidup penuh penderitaan, tetaplah bertahan dan pantang menyerah",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053003,
+        "name": "Dia Juga Tumbuh Besar dengan Sinar Matahari Ini",
+        "desc": "Mungkin ... sudah waktunya untuk melepaskan",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053004,
+        "name": "Bagian Timur Eden",
+        "desc": "Menyaksikan kisah superstar galaksi yang menghilang dalam sekejap",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053005,
+        "name": "Kejahatan dan Hukuman",
+        "desc": "Menyaksikan kisah \"orang baik\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053006,
+        "name": "Saat Pesta Berlangsung",
+        "desc": "Menyelesaikan Misi Bersama \"Tarian Topeng Duet\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053007,
+        "name": "Perbuatan Baik dari Kehidupan Sebelumnya",
+        "desc": "Menyaksikan kehidupan seorang ilmuwan yang penuh kesulitan",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053008,
+        "name": "Ahli Zoologi Dunia Mimpi",
+        "desc": "Mengusir #1 Patung Bloodhound",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053012,
+        "name": "Rasakan Perasaan",
+        "desc": "Apa yang bisa dilakukan \"Clockwork\"?\\n<color=#8790abff>※ Memandu emosi #1 orang di dunia mimpi</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053014,
+        "name": "Segolak Rasa Hangat",
+        "desc": "\"Clockwork\" dapat membantu orang-orang menemukan kembali jati diri yang sebenarnya\\n<color=#8790abff>※ Selesaikan #1 kali Event Tak Terduga Clockwork</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053015,
+        "name": "Jantung Berdegup Kencang",
+        "desc": "Di dalam mimpi, bahkan emosi pun memiliki wujud fisik\\n<color=#8790abff>※ Mengumpulkan #1 Gir Emosi</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053016,
+        "name": "Aku Paham Perasaanmu",
+        "desc": "Bisakah kamu menahan godaan konsultasi psikologis?\\n<color=#8790abff>※ Memandu emosi minimal #1 orang di dalam dunia mimpi</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053017,
+        "name": "Mobil Favorit",
+        "desc": "Memarkirkan kendaraan di tempat parkir khusus di \"Reverie Hotel\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053018,
+        "name": "Jalan untuk Balik Modal",
+        "desc": "Menghasilkan pendapatan yang memuaskan dari tugas taksi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053019,
+        "name": "Nomor yang Anda Tuju Tidak Dapat Dihubungi",
+        "desc": "Selalu ada beberapa tempat yang tidak terbuka untuk umum\\n<color=#8790abff>※ Panggil nomor yang tidak bisa dihubungi</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053020,
+        "name": "Gelas-Gelas dalam Kota",
+        "desc": "Jodohkan gelas kristal dengan anggur murah",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053021,
+        "name": "Hati Sekeras Batu",
+        "desc": "Jodohkan gelas kristal dengan rum",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053022,
+        "name": "Botol Sampanye Hebat",
+        "desc": "Jodohkan gelas kristal dengan botol sampanye emas",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053023,
+        "name": "Jangan Pungut Benda Pembawa Sial",
+        "desc": "Tidak semua legenda urban itu legenda\\n<color=#8790abff>※ Menemukan satu kaset yang aneh</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053024,
+        "name": "Serigala Glaux Avenue",
+        "desc": "Cari tahu penyebab tersendatnya Cash-Spewer",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053025,
+        "name": "Setiap Pejudi Punya Alasan",
+        "desc": "Menyaksikan akhir dari kisah Dewa Judi yang legendaris",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053026,
+        "name": "Malaikat yang Terjatuh",
+        "desc": "Cari tahu asal-usul asli Xunsang",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053027,
+        "name": "Rashomon",
+        "desc": "Jadi ... siapa tabrak siapa?\\n<color=#8790abff>※ Saksikan keseluruhan proses kecelakaan di Glaux Avenue</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053028,
+        "name": "Magique Pepeshi",
+        "desc": "Pepeshi? Atau monster metamorfosis?\\n<color=#8790abff>※ Ungkap identitas asli \"Pepeshi\" di lobi hotel</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053029,
+        "name": "Planet Perayaan dan Enam Alfalfa Credit",
+        "desc": "Mana yang lebih penting, cinta atau impian?\\n<color=#8790abff>※ Pelajari kisah keluarga yang hancur karena mimpi</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053030,
+        "name": "Kesehatan Mental",
+        "desc": "Lindungi lingkungan sekitar, dimulai dari diri sendiri\\n<color=#8790abff>※ Bantu Go-Ray mendaur ulang sampah di dunia mimpi</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053031,
+        "name": "Penafsiran Mimpi",
+        "desc": "Mengintip dunia mimpi 7 orang melalui Telepon Terawang Mimpi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053032,
+        "name": "Kita Semua Teman Main",
+        "desc": "Mengenali semua jenis papan iklan yang tidak berguna",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053033,
+        "name": "Simfoni Tanpa Manusia",
+        "desc": "Apa yang terjadi saat musisi yang ceria menjadi lebih ceria?\\n<color=#8790abff>※ Musik Max menjadi lebih ceria</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053034,
+        "name": "Di atas Path \"Voracity\" ....",
+        "desc": "Makan \"Cone Dancer\" Vitali",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053035,
+        "name": "Masuk ke Lubang Kelinci",
+        "desc": "Dengarkan bisikan misterius dari berbagai benda di Dunia Mimpi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053036,
+        "name": "Antara Langit dan Kamu",
+        "desc": "Jelajahi kembali tempat rahasia sendirian\\n<color=#8790abff>※ Setelah semuanya berakhir, kembali ke markas rahasia Firefly</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053037,
+        "name": "Lihat Tangga Itu? Kamu Bisa Memanjatnya!",
+        "desc": "Coba memanjat tangga di Dream's Edge\\n<color=#8790abff>※ Tapi gagal memanjat</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053038,
+        "name": "Sumber Gravitasi",
+        "desc": "Menikmati air terjun aneh di A Child's Dream",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053039,
+        "name": "Penggaris Keberuntungan",
+        "desc": "Mengumpulkan lebih dari #1 Aideen Token",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053040,
+        "name": "Aku Cinta Game Ini",
+        "desc": "Menemukan hadiah utama yang tersembunyi di game \"Mesin Slot\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053041,
+        "name": "Tidak Ada Pepeshi Lain?",
+        "desc": "Bicara dengan Cielo menggunakan karakter yang lebih pendek dari dia",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053042,
+        "name": "Déjà vu",
+        "desc": "Menemukan pemandangan yang familier di dunia mimpi\\n<color=#8790abff>※ Benar sekali, tong sampah!</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053043,
+        "name": "Ramesrash II",
+        "desc": "Menantang semua Lordly Trashcan di \"Reverie\" Hotel, Golden Hour, A Child's Dream, dan Dream's Edge",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053044,
+        "name": "Jendela Belakang",
+        "desc": "Menyelidiki semua ruang hotel yang terkunci",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053045,
+        "name": "Musuh Bebuyutan Pepeshi",
+        "desc": "Menyinggung setiap Pepeshi yang kamu temui dengan akurat dan cepat\\n<color=#8790abff>※ Coba sentuh bola bulu semua Pepeshi di \"Golden Hour\"</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053046,
+        "name": "The Nameless yang Paling \"Kacau\"",
+        "desc": "Tunjukkan gelembung mimpi khusus pada Pom-Pom",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053047,
+        "name": "Gerbang Bintang Jauh",
+        "desc": "Petualang atau bajak laut?\\n<color=#8790abff>※ Dengarkan kisah Colleen tentang alam semesta</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053048,
+        "name": "Sehebat Ini",
+        "desc": "Menyaksikan sebuah \"mimpi yang mulia\"\\n<color=#8790abff>※ Mengumpulkan penilaian anggota Family terhadap proyek Dream's Edge</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053049,
+        "name": "Mimpi Kepatenan",
+        "desc": "Semua yang kamu lihat itu ada hak paten milikku!\\n<color=#8790abff>※ Bantu Emmrich menyelesaikan rencananya</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053050,
+        "name": "Seberat Realitas, Seringan Mimpi",
+        "desc": "Pada akhirnya manusia tidak dapat saling memahami\\n<color=#8790abff>※ Mendengarkan percakapan Larose dan Forla</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053051,
+        "name": "Perpisahan Panjang",
+        "desc": "Semoga dia segera meninggalkan masa lalu yang suram\\n<color=#8790abff>※ Menyaksikan kisah Lew Archer</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053052,
+        "name": "Tiga Tidak Cukup",
+        "desc": "Makan terlalu banyak cone sekaligus di \"Golden Hour\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053053,
+        "name": "Teori Ekonomi Oti",
+        "desc": "Kalau semua orang memberi uang, sama saja dengan tidak memberi uang\\n<color=#8790abff>※ Memicu Cash-Spewer di jalanan terus-terusan</color>",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -2667,7 +3199,7 @@
       {
         "id": 4072024,
         "name": "Pertobatan Canossa",
-        "desc": "Menginterupsi pelancaran Skill \"Wrath of Winterland Saints\" saat Cocolia dalam status Charge.",
+        "desc": "Menginterupsi pelancaran Kemampuan \"Wrath of Winterland Saints\" saat Cocolia dalam status Charge.",
         "rarity": 2,
         "version": "1.0"
       },
@@ -2891,7 +3423,7 @@
       {
         "id": 4072901,
         "name": "Dalam Pekatnya Kegelapan",
-        "desc": "Setelah Starcrusher Swarm King melancarkan \"Carapace of Nurtured Disaster\" untuk pertama kalinya, buat dia memasuki status Weakness Break",
+        "desc": "Setelah Starcrusher Swarm King melancarkan \"Carapace of Nurtured Disaster\", membuatnya memasuki status Weakness Break",
         "rarity": 1,
         "version": "1.6"
       },
@@ -2964,6 +3496,76 @@
         "desc": "Dalam satu pertempuran, memicu efek Serangan Lanjutan dari Talent Dr. Ratio \"Cogito, Ergo Sum\" selama 4 giliran berturut-turut",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4073001,
+        "name": "Selamat Malam, Dapur",
+        "desc": "Mengalahkan setidaknya 2 musuh menggunakan \"Kitchen Mishap\" milik Dreamjolt Troupe's Beyond Overcooked dalam satu pertempuran",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073002,
+        "name": "Kejutan untuk Semua",
+        "desc": "Membuat 3 Dreamjolt Troupe's Mr. Domescreen terus-menerus memasuki status \"Surprise Channel\" dalam satu pertempuran",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073003,
+        "name": "Sampah Berbahaya",
+        "desc": "Ada #1 rekan tim yang dikalahkan Lordly Trashcan dalam pertempuran",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073004,
+        "name": "Semua Sudah Ditentukan",
+        "desc": "Saat Black Swan melancarkan Technique \"From Façade to Vérité\" dan memasuki pertempuran, mengakibatkan target musuh memasuki #1 lapis \"Arcana\" atau lebih.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073005,
+        "name": "Ma-ma-ma-maaf!",
+        "desc": "Saat Misha melancarkan Ultimate \"G—Gonna Be Late!\", serangan tunggal di saat bersamaan mengakibatkan minimal #1 musuh yang berbeda memasuki status Frozen",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073006,
+        "name": "Menyalakan Kembang Api",
+        "desc": "Memperoleh #1 Poin Skill saat menggunakan Ultimate Sparkle \"The Hero with a Thousand Faces\" dalam satu pertempuran",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073007,
+        "name": "Puasa Gula Berkelanjutan",
+        "desc": "Dalam satu pertempuran, menggunakan Shield untuk memantulkan #1 Soda Bottle yang dilempar Dreamjolt Troupe's Sweet Gorilla yang sama",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073008,
+        "name": "Keberadaan Menuju Kematian",
+        "desc": "Mengalahkan Memory Zone Meme \"Something Unto Death\" saat satu orang saja yang bisa beraksi",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073009,
+        "name": "Terbakar dengan Tenang",
+        "desc": "Dalam pertempuran melawan Stellaron Hunter: Sam, setelah Sam memasuki status \"Secondary Combustion\", Sam tidak menggunakan \"DHGDR: Supernova Overload\" hingga status tersebut terhapus",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073010,
+        "name": "Bakar Hatiku, Bakar Tubuhku",
+        "desc": "Dalam pertempuran melawan Stellaron Hunter: Sam, menggunakan Poin Skill yang terbakar dan membuat HP #1 rekan tim kurang dari #2%",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -3403,6 +4005,76 @@
         "desc": "Memicu 10 kalimat bersuara dari rekan tim yang berbeda saat satu tim dengan {NICKNAME}",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4083001,
+        "name": "Lagi, Lagi",
+        "desc": "Menggunakan kemampuan Pejalan Mimpi untuk melewati Jembatan Gelembung Mimpi yang sama berkali-kali",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083002,
+        "name": "Monster Paralaks",
+        "desc": "Berinteraksi dengan Mata Pemimpi #2 kali atau lebih dalam #1 menit",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083003,
+        "name": "Kenapa Burung Bisa Terbang?",
+        "desc": "Berinteraksi dengan perangkat bentuk burung yang mengontrol #2 Modul Mimpi atau lebih dalam #1 menit",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083004,
+        "name": "Segitiga Penrose",
+        "desc": "Sesuaikan sudut pandang untuk menyatukan \"Segitiga Penrose\" di Dream's Edge",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053009,
+        "name": "Kisah di Era Seribu Kejayaan",
+        "desc": "Memenangkan hadiah khusus \"Roda Keberuntungan\" dengan cara curang",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053010,
+        "name": "Serapuh Cone Es Krim",
+        "desc": "Setelah menggunakan Bahan Konsumsi \"Dreamy Cone\", melancarkan Kemampuan pada target musuh yang salah",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053011,
+        "name": "Studi Psikoanalisis",
+        "desc": "Synthesis salah satu Bahan Konsumsi dari \"The Moment of Betrayal\", \"Fleeting Happiness\", \"The Moment Before Death\", \"Bustling Ambience\", \"The Cloud of Doubt\", \"Momentary Freedom\"",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083006,
+        "name": "Jalan Tak Pakai Mata",
+        "desc": "Melanggar aturan lalu lintas dan tertabrak sampai terhempas oleh kendaraan Penacony",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083007,
+        "name": "Tidaaak! Papan Iklan Tercinta!",
+        "desc": "Membuat papan iklan Penacony ditabrak kendaraan hingga terhempas",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083008,
+        "name": "Rasio Kebenaran Harus Mengalir Seperti Mata Uang",
+        "desc": "Ikut #1 pertempuran dalam Support menggunakan Dr. Ratio",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -4035,7 +4707,7 @@
       {
         "id": 4092916,
         "name": "Tukang PHP",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", menggunakan Dadu Kustom \"Trotter Extrapolation\" untuk mengalahkan Trotter sebanyak 15 atau lebih",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", menggunakan Dadu Kustom \"Trotter Extrapolation\" untuk mengalahkan Trotter sebanyak 15 atau lebih dalam pertempuran",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4245,7 +4917,7 @@
       {
         "id": 4092931,
         "name": "Colossus: The Forbin Project",
-        "desc": "Di Tingkat Kesulitan Menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Tipe Level Conundrum lebih dari atau sama dengan 6",
+        "desc": "Di Tingkat Kesulitan Menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Level Conundrum Stats lebih dari atau sama dengan 6",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4259,7 +4931,7 @@
       {
         "id": 4092932,
         "name": "Krisis Bubblegum",
-        "desc": "Di Tingkat Kesulitan menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Level Conundrum Lanjutan lebih dari atau sama dengan 6",
+        "desc": "Di Tingkat Kesulitan menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Level Conundrum Tambahan lebih dari atau sama dengan 6",
         "rarity": 1,
         "version": "1.6"
       },

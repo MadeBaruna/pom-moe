@@ -213,7 +213,7 @@
       {
         "id": 4020503,
         "name": "Falsificación extraña",
-        "desc": "Obtén 5 artefacto(s) de 5 estrellas en la máquina sintetizadora multiusos.",
+        "desc": "Obtén 5 artefactos de 5 estrellas en la máquina sintetizadora multiusos.",
         "rarity": 1,
         "version": "1.0"
       },
@@ -389,6 +389,48 @@
         "desc": "Pon calma en las nuevas perturbaciones de la Estación Espacial Herta.\\n<color=#8790abff>※ Completa la continuación trazacaminos «La corona de lo mediocre y lo divino».</color>",
         "rarity": 2,
         "version": "1.6"
+      },
+      {
+        "id": 4033001,
+        "name": "¿Me recuerdas?",
+        "desc": "Al principio de tu viaje, te encuentras acompañado de una persona inesperada...\\n<color=#8790abff>※Encuentra a Acheron en el paisaje onírico.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033002,
+        "name": "Trazacaminos en el reino de los sueños",
+        "desc": "¡Has llegado a la tierra de los sueños!\\n<color=#8790abff>※Dirígete al Momento Dorado.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033003,
+        "name": "Ternura, el nombre de la noche",
+        "desc": "Observa cómo las estrellas fugaces vuelan en el cielo onírico.<color=#8790abff>※Descubre los secretos de Luciérnaga en la Frontera de los Sueños.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033004,
+        "name": "La búsqueda de la dulzura",
+        "desc": "Descubre la alegría inesperada del paisaje onírico.\\n<color=#8790abff>※Escapa de la sombra de la \"muerte\".</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033005,
+        "name": "Viejas y nuevas amistades",
+        "desc": "Siente la calidez que irradia el océano de los recuerdos...\\n<color=#8790abff>※Lucha contra Sam, de los Cazadores de Estelaron.</color>",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4033006,
+        "name": "Para que un corazón no sufra",
+        "desc": "Todo Colonipenal va a enloquecer...\\n<color=#8790abff>※Presencia el segundo asesinato.</color>",
+        "rarity": 2,
+        "version": "2.0"
       }
     ]
   },
@@ -709,6 +751,153 @@
         "desc": "Captura un Chanchito perdido 1 vez durante la batalla.",
         "rarity": 1,
         "version": "1.1"
+      },
+      {
+        "id": 4043001,
+        "name": "A este lado del paraíso",
+        "desc": "Activa 15 anclas del espacio en Colonipenal.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043002,
+        "name": "Sueños de Colonipenal",
+        "desc": "Abre 120 tesoros en Colonipenal.",
+        "rarity": 2,
+        "version": "2.0"
+      },
+      {
+        "id": 4043003,
+        "name": "Paseo espacial",
+        "desc": "Completa la misión «Matadero» y averigua la verdad que se esconde en el hotel del paisaje onírico.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043004,
+        "name": "¿Pío?",
+        "desc": "Ayuda a 1 pajarito de papel a volver al \"gran árbol\".",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043005,
+        "name": "¡Pío, pío, pío!",
+        "desc": "Ayuda a 60 pajaritos de papel a volver al \"gran árbol\".",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043006,
+        "name": "Siempre en sincronía",
+        "desc": "Repara 15 Minuteros oníricos.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043007,
+        "name": "¿De quién es este sueño?",
+        "desc": "Contempla las maravillas misteriosas en Sueño infantil por primera vez.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043008,
+        "name": "Eterno y grácil bucle",
+        "desc": "Utiliza el Ojo del sueño para crear un camino imposible y atravesarlo.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043009,
+        "name": "Mundo de ensueño",
+        "desc": "Obtén recompensas 10 veces en el Rompecabezas de ensueño.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043010,
+        "name": "FlyMe2theBalloon",
+        "desc": "Destruye el globo especial del Sr. Pedrusco en el Momento Dorado.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043011,
+        "name": "Balloon Gakuen 2",
+        "desc": "Destruye el globo especial del Sr. Pedrusco en la Frontera de los Sueños.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043012,
+        "name": "Honkai Balloon 3rd",
+        "desc": "Destruye el globo especial del Sr. Pedrusco en Sueño infantil.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043013,
+        "name": "Honkai: Colonipenal Rail",
+        "desc": "Destruye el globo especial del Sr. Pedrusco en el Hotel Fantasía (paisaje onírico).",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043014,
+        "name": "Mayoría de edad",
+        "desc": "Entra por primera vez en el Bar de Terrores.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043015,
+        "name": "Todos los jóvenes tristes",
+        "desc": "Entra por primera vez en la habitación especial del Hotel Fantasía (realidad).",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043016,
+        "name": "Chico para todo",
+        "desc": "Camina sobre el puente de burbujas de ensueño usando la habilidad Sonambulismo por primera vez.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043017,
+        "name": "Entre lobos",
+        "desc": "Reúne la colección completa de «Aventura de Hanu: Parte 1».",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043018,
+        "name": "Y creerán que lo hice a propósito",
+        "desc": "Empuja objetos en la «Aventura de Hanu» sin dañar a ningún enemigo.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043019,
+        "name": "Velocidad de escape alcanzada",
+        "desc": "El tiempo de teletransporte en cohete en la «Aventura de Hanu» dura más de #1 s.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043020,
+        "name": "Alerta máxima",
+        "desc": "Sobrevive en la «Aventura de Hanu».",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4043021,
+        "name": "Aprendiendo en los sueños",
+        "desc": "Obtén 15 materiales de lectura en Colonipenal.",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -1967,6 +2156,349 @@
         "desc": "Recoge todas las lecturas con mensajes del Dr. Ratio en la zona de confinamiento.",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4053001,
+        "name": "No agites la bebida",
+        "desc": "Usa por primera vez Burbupinball.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053002,
+        "name": "Hacia el lado positivo",
+        "desc": "Sobrevive pese a las adversidades.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053003,
+        "name": "Creció bajo este sol",
+        "desc": "Quizá... es el momento de dejarlo.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053004,
+        "name": "Al este del Edén",
+        "desc": "Sé testigo de la historia de la superestrella galáctica.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053005,
+        "name": "Crimen y castigo",
+        "desc": "Sé testigo de la historia de una buena persona.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053006,
+        "name": "Es la hora del baile",
+        "desc": "Completa la misión de acompañante «Dueto enmascarado».",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053007,
+        "name": "Los buenos actos que un hombre ha realizado",
+        "desc": "Sé testigo de la dura vida de un científico.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053008,
+        "name": "Zoólogo Espurio",
+        "desc": "Elimina #1 estatuas de Sabueso.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053012,
+        "name": "Siente el sabor",
+        "desc": "¿Qué hace el Trucorreloj?\\n<color=#8790abff>※Guía las emociones de #1 persona en el paisaje onírico.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053014,
+        "name": "Calor repentino",
+        "desc": "Ayuda a las personas a encontrar su verdadero yo con el Trucorreloj.\\n<color=#8790abff>※Resuelve #1 evento repentino en Trucorreloj.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053015,
+        "name": "Corazón palpitante",
+        "desc": "En los sueños, hasta las emociones son tangibles.\\n<color=#8790abff>※Reúne #1 engranaje de emociones.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053016,
+        "name": "Sé lo que piensas",
+        "desc": "¿Puedes resistir la tentación de una sesión de terapia?\\n<color=#8790abff>※Guía las emociones de al menos #1 personas en el paisaje onírico.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053017,
+        "name": "Mi coche favorito",
+        "desc": "Aparca tu vehículo en la plaza de aparcamiento exclusiva del Hotel Fantasía.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053018,
+        "name": "El camino para recuperar la inversión",
+        "desc": "Obtén ingresos suficientes con los encargos del taxi.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053019,
+        "name": "El número al que llama no se encuentra disponible",
+        "desc": "Siempre hay límites que no se pueden cruzar.\\n<color=#8790abff>※Llama a un número con el que no se puede conectar.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053020,
+        "name": "De copas en la ciudad",
+        "desc": "Haz de celestina de un vino barato y una copa de cristal.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053021,
+        "name": "Corazón inquebrantable",
+        "desc": "Haz de celestina de un ron y una copa de cristal.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053022,
+        "name": "El gran champán",
+        "desc": "Haz de celestina de un champán y una copa de cristal.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053023,
+        "name": "No recojas nada con malas vibraciones",
+        "desc": "No todas las leyendas urbanas son solo leyendas.\\n<color=#8790abff>※Recoge una cinta extraña.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053024,
+        "name": "El lobo de la Avenida Glaux",
+        "desc": "Averigua por qué el Escupeplata está atascado.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053025,
+        "name": "Cada jugador tiene su excusa",
+        "desc": "Presencia el final de la historia del legendario Dios del Juego.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053026,
+        "name": "Ángeles caídos",
+        "desc": "Descubre el verdadero origen de Xunsang.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053027,
+        "name": "Rashomon",
+        "desc": "Entonces... ¿quién golpeó a quién?\\n<color=#8790abff>※Sé testigo del accidente completo en la avenida Glaux.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053028,
+        "name": "Pepeshiano mágico",
+        "desc": "¿Pepeshiano o cambiaformas?\\n<color=#8790abff>※Descubre la verdadera identidad del pepeshiano en el vestíbulo del hotel.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053029,
+        "name": "El planeta de las celebraciones y seis alfalflorines",
+        "desc": "¿Qué es más importante, amar o soñar?\\n<color=#8790abff>※Descubre la historia de una familia rota por las aspiraciones de sus miembros.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053030,
+        "name": "Limpieza mental",
+        "desc": "Todos tenemos que proteger el medio ambiente.\\n<color=#8790abff>※Ayuda a Go-Ray a reciclar basura en el paisaje onírico.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053031,
+        "name": "La interpretación de los sueños",
+        "desc": "Utiliza el espiasueñófono para ver el paisaje onírico de 7 personas.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053032,
+        "name": "Aquí todos somos amigos",
+        "desc": "Encuentra todos los tipos de anuncios.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053033,
+        "name": "La sinfonía de nadie",
+        "desc": "¿Qué ocurre cuando un músico alegre se vuelve aún más alegre?\\n<color=#8790abff>※Mejora la música de Max con aún más alegría.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053034,
+        "name": "En la Vía de la Voracidad...",
+        "desc": "Cómete al cono bailarín de Vitali.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053035,
+        "name": "Por la madriguera del conejo",
+        "desc": "Escucha los susurros misteriosos de varios objetos en el paisaje onírico.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053036,
+        "name": "Entre el cielo y tú",
+        "desc": "Vuelve al lugar secreto a solas.\\n<color=#8790abff>※Cuando termine todo, vuelve a la base secreta de Luciérnaga.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053037,
+        "name": "¿Ves esa escalera? ¡Súbela!",
+        "desc": "Intenta subir la escalera en la Frontera de los Sueños.\\n<color=#8790abff>※Sin embargo, no puedes subir.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053038,
+        "name": "Cascada gravitatoria",
+        "desc": "Disfruta de la peculiar cascada en el Sueño infantil.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053039,
+        "name": "Marca de la suerte",
+        "desc": "Acumula más de #1 fichas Aideen.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053040,
+        "name": "Me encanta este juego",
+        "desc": "Descubre la recompensa final escondida en la Tragamonedas de ensueño.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053041,
+        "name": "¿No hay ningún pepeshiano?",
+        "desc": "Habla con Cielo usando un personaje más bajo que ella.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053042,
+        "name": "Tu cara me suena",
+        "desc": "Encuentra \"paisajes\" familiares en el paisaje onírico.\\n<color=#8790abff>※¡Sí, un cubo de basura!</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053043,
+        "name": "Basurramsés II",
+        "desc": "Desafía a todos los Cubos de basura señoriales en el Hotel Fantasía, Momento Dorado, Sueño infantil y la Frontera de los Sueños.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053044,
+        "name": "Ventana indiscreta",
+        "desc": "Investiga todas las habitaciones cerradas del hotel.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053045,
+        "name": "Enemigo público",
+        "desc": "Ofende de manera escandalosa a todos los pepeshianos que te encuentres.\\n<color=#8790abff>※Intenta tocar el pompón de todos los pepeshianos del Momento Dorado.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053046,
+        "name": "El peor Anónimo",
+        "desc": "Enseña a Pom-Pom una burbuja de ensueño específica.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053047,
+        "name": "Puerta a las estrellas",
+        "desc": "¿Aventurera o pirata?\\n<color=#8790abff>※Escucha la historia sobre el universo de Colleen.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053048,
+        "name": "Es simplemente asombroso",
+        "desc": "Sé testigo de una \"gran visión\".\\n<color=#8790abff>※Reúne los comentarios sobre el proyecto de la Frontera de los Sueños de los miembros de La Familia.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053049,
+        "name": "Sueño de confianza",
+        "desc": "¡Todo lo que ves lo he inventado YO!\\n<color=#8790abff>※Ayuda a Emmrich a completar su plan.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053050,
+        "name": "Entre el sueño y la realidad",
+        "desc": "Al fin y al cabo, los humanos no pueden comprenderse entre ellos.\\n<color=#8790abff>※Escucha la conversación entre Larose y Forla.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053051,
+        "name": "La larga despedida",
+        "desc": "Ojalá se despida de su pasado tormentoso.\\n<color=#8790abff>※Sé testigo de la historia de Lew Archer.</color>",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053052,
+        "name": "Tres no, que ya es gula",
+        "desc": "Come demasiados conos de una vez en el Momento Dorado.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053053,
+        "name": "Economía de Oti",
+        "desc": "Si todos reciben dinero, nadie gana en realidad.\\n<color=#8790abff>※Activa repetidamente el Escupeplata en la calle.</color>",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -2520,7 +3052,7 @@
       {
         "id": 4071506,
         "name": "Sobreprotección",
-        "desc": "Gana 1 batallas sin que los escudos que otorga Gepard reciban daño.",
+        "desc": "Gana 1 combate sin que los escudos que otorga Gepard reciban daño.",
         "rarity": 2,
         "version": "1.0"
       },
@@ -2891,7 +3423,7 @@
       {
         "id": 4072901,
         "name": "En el abismo de la oscuridad",
-        "desc": "Aplica Ruptura de Debilidad cuando el Rey del Enjambre Trituraestrellas usa Caparazón nutredesastres por primera vez.",
+        "desc": "Aplica Ruptura de Debilidad cuando el Rey del Enjambre Trituraestrellas usa Caparazón nutredesastres.",
         "rarity": 1,
         "version": "1.6"
       },
@@ -2964,6 +3496,76 @@
         "desc": "En una batalla, activa el talento del Dr. Ratio: Pienso, luego existo y lanza su ataque adicional durante 4 turnos consecutivos.",
         "rarity": 1,
         "version": "1.6"
+      },
+      {
+        "id": 4073001,
+        "name": "Buenas noches, cocina",
+        "desc": "En una batalla, derrota al menos a dos enemigos usando Accidente en la cocina del Achicharrado de la Compañía Teatral de Terrores.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073002,
+        "name": "Sorpresa generalizada",
+        "desc": "En una batalla, haz que 3 Srs. Pantallarredonda de la Compañía Teatral de Terrores entren en el estado Canal sorpresa consecutivamente.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073003,
+        "name": "Basura peligrosa",
+        "desc": "En una batalla, el Cubo de basura señorial derrota a #1 aliado.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073004,
+        "name": "Todo está predestinado",
+        "desc": "Inflige a los enemigos #1 o más acumulaciones de Arcano cuando Cisne Negro usa su técnica \"De la apariencia a la verdad\" para entrar en combate.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073005,
+        "name": "¡Lo... lo siento!",
+        "desc": "Congela a #1 o más enemigos con un solo ataque de la habilidad definitiva de Misha \"¡Voy a llegar tarde!\".",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073006,
+        "name": "Sparkle a toda mecha",
+        "desc": "En un combate, usa la habilidad definitiva de Sparkle \"Heroína de mil caras\" y genera #1 pts. de habilidad básica.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073007,
+        "name": "Nada de azúcar",
+        "desc": "En una batalla, usa un escudo para devolver #1 botellas de refresco al Gorila Dulce de la Compañía Teatral de Terrores.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073008,
+        "name": "Memento mori",
+        "desc": "Derrota al Meme de la Zona de los Recuerdos: Algo Hacia la Muerte con solo un personaje capaz de actuar.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073009,
+        "name": "Combustión sin prisas",
+        "desc": "En la batalla contra Sam, de los Cazadores de Estelaron, disipa el estado de Combustión secundaria sin que Sam haya utilizado DHGDR: Supernova mientras duraba el estado.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4073010,
+        "name": "Enciende mi corazón, quema mi cuerpo",
+        "desc": "En la batalla contra Sam, de los Cazadores de Estelaron, utiliza pts. de habilidad básica combustionados para reducir los PV de #1 aliado por debajo del #2%.",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -3403,6 +4005,76 @@
         "desc": "Activa 10 líneas de voz distintas de Miembro del equipo: {NICKNAME}.",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4083001,
+        "name": "Fricción, fricción",
+        "desc": "Atraviesa el puente de burbujas de ensueño varias veces usando la habilidad Sonambulismo.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083002,
+        "name": "Paralaje",
+        "desc": "Interactúa con el Ojo del sueño #2 o más veces en #1 minutos.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083003,
+        "name": "¿Por qué pueden volar los pájaros?",
+        "desc": "Interactúa con el dispositivo con forma de pájaro que controla el módulo de sueño #2 o más veces en #1 minuto.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083004,
+        "name": "Triángulo infinito",
+        "desc": "Ajusta tu perspectiva y crea un triángulo infinito en la Frontera de los Sueños.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053009,
+        "name": "Historias de un tahúr",
+        "desc": "Gana la recompensa especial de la Ruleta de la suerte haciendo trampas.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053010,
+        "name": "Frágil como un cono crujiente",
+        "desc": "Usa una habilidad contra un objetivo equivocado después de usar el consumible cono Dulces Sueños.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4053011,
+        "name": "Introducción al psicoanálisis",
+        "desc": "Sintetiza uno de los siguientes consumibles: El momento de la traición, Felicidad efímera, Al final de la vida, Ambiente animado, Niebla de la duda o Libertad momentánea.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083006,
+        "name": "Las reglas están para romperlas",
+        "desc": "Infringe las normas de tráfico y choca contra un vehículo en Colonipenal.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083007,
+        "name": "¡Maldición! ¡Anuncios!",
+        "desc": "Haz que un vehículo se choque contra un anuncio de Colonipenal.",
+        "rarity": 1,
+        "version": "2.0"
+      },
+      {
+        "id": 4083008,
+        "name": "La verdad debe circular como el dinero",
+        "desc": "Participa en #1 batalla usando al Dr. Ratio como apoyo.",
+        "rarity": 1,
+        "version": "2.0"
       }
     ]
   },
@@ -4035,7 +4707,7 @@
       {
         "id": 4092916,
         "name": "A todo Chanchito le llega su San Martín",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, derrota a 15 o más Chanchitos mientras usas el dado personalizado: Extrapolación de Chanchito.",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, derrota a 15 o más Chanchitos en combate mientras usas el dado personalizado: Extrapolación de Chanchito.",
         "rarity": 1,
         "version": "1.6"
       },
