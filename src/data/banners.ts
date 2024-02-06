@@ -301,6 +301,36 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['kafka'],
 			featured4: ['sushang', 'natasha', 'hook']
+		},
+		{
+			code: 2021,
+			type: 'character',
+			name: 'Ripples in Reflection',
+			start: '2024-02-06 06:00:00',
+			end: '2024-02-29 14:59:00',
+			color: '#d1b9ff',
+			version: '2.0',
+			image: 'Ripples in Reflection 2021.jpg',
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['black-swan'],
+			featured4: ['misha', 'tingyun', 'guinaifen'],
+			timezoneDependent: true
+		},
+		{
+			code: 2022,
+			type: 'character',
+			name: 'Epochal Spectrum',
+			start: '2024-02-06 06:00:00',
+			end: '2024-02-29 14:59:00',
+			color: '#b0e4e5',
+			version: '2.0',
+			image: 'Epochal Spectrum 2022.jpg',
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['dan-heng-imbibitor-lunae'],
+			featured4: ['misha', 'tingyun', 'guinaifen'],
+			timezoneDependent: true
 		}
 	],
 	lightcone: [
@@ -575,6 +605,36 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['patience-is-all-you-need'],
 			featured4: ['perfect-timing', 'only-silence-remains', 'landaus-choice']
+		},
+		{
+			code: 3021,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2024-02-06 06:00:00',
+			end: '2024-02-29 14:59:00',
+			color: '#7d90c3',
+			version: '2.0',
+			image: 'Brilliant Fixation 3021.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['reforged-remembrance'],
+			featured4: ['indelible-promise', 'resolution-shines-as-pearls-of-sweat', 'dance-dance-dance'],
+			timezoneDependent: true
+		},
+		{
+			code: 3022,
+			type: 'lightcone',
+			name: 'Bygone Reminiscence',
+			start: '2024-02-06 06:00:00',
+			end: '2024-02-29 14:59:00',
+			color: '#9fc6bb',
+			version: '2.0',
+			image: 'Bygone Reminiscence 3022.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['brighter-than-the-sun'],
+			featured4: ['indelible-promise', 'resolution-shines-as-pearls-of-sweat', 'dance-dance-dance'],
+			timezoneDependent: true
 		}
 	],
 	standard: [
