@@ -3,16 +3,45 @@ import type { Timeline } from '$types';
 const timeline: Array<Timeline[]> = [
 	[
 		{
-			name: 'Boulder Town Martial Exhibition',
-			start: '2023-12-06 12:00:00',
-			end: '2023-12-25 03:59:00',
-			image: 'Boulder Town Martial Exhibition.png',
-			color: '#e19e7e',
-			pos: '30%, -30%',
-			zoom: 1.2,
-			url: 'https://www.hoyolab.com/article/23404782',
+			name: 'Garden of Plenty',
+			start: '2024-03-16 04:00:00',
+			end: '2024-03-23 03:59:00',
+			image: 'Garden of Plenty.png',
+			color: '#fec245',
+			pos: '30%, -10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24773304',
+			timezoneDependent: true,
+			show: true
+		}
+	],
+	[
+		{
+			name: 'Planar Fissure',
+			start: '2024-02-22 04:00:00',
+			end: '2024-02-29 03:59:00',
+			image: 'Planar Fissure.png',
+			color: '#6262ff',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24773304',
+			timezoneDependent: true,
 			show: true
 		},
+		{
+			name: 'Penacony Food Fest',
+			start: '2024-03-06 12:00:00',
+			end: '2024-03-18 03:59:00',
+			image: 'Penacony Food Fest.png',
+			color: '#ffcd73',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24773304',
+			timezoneDependent: true,
+			show: true
+		}
+	],
+	[
 		{
 			name: 'Realm of the Strange',
 			start: '2024-01-26 04:00:00',
@@ -23,42 +52,21 @@ const timeline: Array<Timeline[]> = [
 			zoom: 1.2,
 			url: 'https://www.hoyolab.com/article/24300855',
 			show: true
+		},
+		{
+			name: 'Dreamjolt TV',
+			start: '2024-02-29 12:00:00',
+			end: '2024-03-25 03:59:00',
+			image: 'Dreamjolt TV.png',
+			color: '#e6ddad',
+			pos: '0%, -25%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24773304',
+			timezoneDependent: true,
+			show: true
 		}
 	],
 	[
-		{
-			name: 'Planar Fissure',
-			start: '2023-11-24 04:00:00',
-			end: '2023-12-01 03:59:00',
-			image: 'Planar Fissure.png',
-			color: '#6a77f4',
-			pos: '30%, -40%',
-			zoom: 1.2,
-			url: 'https://www.hoyolab.com/article/22906842',
-			show: true
-		},
-		{
-			name: 'Stellar Shadowseeker',
-			start: '2023-12-01 12:00:00',
-			end: '2023-12-11 03:59:00',
-			image: 'Stellar Shadowseeker.png',
-			color: '#ffe9cd',
-			pos: '30%, -40%',
-			zoom: 1.2,
-			url: 'https://www.hoyolab.com/article/22906842',
-			show: true
-		},
-		{
-			name: 'Garden of Plenty',
-			start: '2023-12-15 04:00:00',
-			end: '2023-12-22 03:59:00',
-			image: 'Garden of Plenty.png',
-			color: '#f3cc4b',
-			pos: '30%, -40%',
-			zoom: 1.2,
-			url: 'https://www.hoyolab.com/article/23288207',
-			show: true
-		},
 		{
 			name: 'Planar Fissure',
 			start: '2024-01-10 04:00:00',
@@ -80,21 +88,21 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/24358259',
 			show: true
+		},
+		{
+			name: "Hanu's Prison Break",
+			start: '2024-02-08 06:00:00',
+			end: '2024-03-25 03:59:00',
+			image: 'Hanus Prison Break.png',
+			color: '#b1bfc4',
+			pos: '0%, -25%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24773304',
+			timezoneDependent: true,
+			show: true
 		}
 	],
 	[
-		{
-			name: 'A Foxian Tale of the Haunted',
-			start: '2023-11-15 06:00:00',
-			end: '2023-12-25 03:59:00',
-			image: 'A Foxian Tale of the Haunted.png',
-			color: '#4ca0d2',
-			pos: '30%, -30%',
-			zoom: 1.2,
-			url: 'https://www.hoyolab.com/article/22976887',
-			timezoneDependent: true,
-			show: true
-		},
 		{
 			name: 'Critter Pick',
 			start: '2023-12-27 06:00:00',
@@ -106,20 +114,21 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/23804498',
 			timezoneDependent: true,
 			show: true
+		},
+		{
+			name: 'Dreamchaser Bulletin',
+			start: '2024-02-06 06:00:00',
+			end: '2024-03-25 03:59:00',
+			image: 'Dreamchaser Bulletin.png',
+			color: '#e3d7c1',
+			pos: '0%, -25%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24940901',
+			timezoneDependent: true,
+			show: true
 		}
 	],
 	[
-		{
-			name: 'Contract Zero - Silver Wolf Warp Event',
-			start: '2023-12-06 12:00:00',
-			end: '2023-12-26 14:59:00',
-			image: 'Contract Zero 2016.png',
-			color: '#79b0f9',
-			pos: '-5%, -8%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/23404231',
-			show: true
-		},
 		{
 			name: 'A Lost Soul - Blade Warp Event',
 			start: '2023-12-27 06:00:00',
@@ -142,32 +151,21 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/24375691',
 			show: true
+		},
+		{
+			name: 'Epochal Spectrum - Dan Heng Warp Event',
+			start: '2024-02-06 06:00:00',
+			end: '2024-02-29 14:59:00',
+			image: 'Epochal Spectrum 2022.jpg',
+			color: '#b0e4e5',
+			pos: '0%, 3%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24943079',
+			show: true,
+			timezoneDependent: true
 		}
 	],
 	[
-		{
-			name: 'Bloom in Gloom - Huohuo Warp Event',
-			start: '2023-11-15 06:00:00',
-			end: '2023-12-06 11:59:00',
-			image: 'Bloom in Gloom 2014.png',
-			color: '#dcedc9',
-			pos: '5%, -8%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/22906842',
-			timezoneDependent: true,
-			show: true
-		},
-		{
-			name: 'Thorns of Scented Crown - Argenti Warp Event',
-			start: '2023-12-06 12:00:00',
-			end: '2023-12-26 14:59:00',
-			image: 'Thorns of Scented Crown 2015.png',
-			color: '#e97762',
-			pos: '5%, 8%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/23404231',
-			show: true
-		},
 		{
 			name: 'Floral Triptych - Ruan Mei Warp Event',
 			start: '2023-12-27 06:00:00',
@@ -190,32 +188,21 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/24375691',
 			show: true
+		},
+		{
+			name: 'Ripples in Reflection - Black Swan Warp Event',
+			start: '2024-02-06 06:00:00',
+			end: '2024-02-29 14:59:00',
+			image: 'Ripples in Reflection 2021.jpg',
+			color: '#d1b9ff',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24943079',
+			show: true,
+			timezoneDependent: true
 		}
 	],
 	[
-		{
-			name: 'Brilliant Fixation - Light Cone Warp Event',
-			start: '2023-11-15 06:00:00',
-			end: '2023-12-06 11:59:00',
-			image: 'Brilliant Fixation 3014.png',
-			color: '#cee6da',
-			pos: '0%, 0%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/22906842',
-			timezoneDependent: true,
-			show: true
-		},
-		{
-			name: 'Brilliant Fixation - Light Cone Warp Event',
-			start: '2023-12-06 12:00:00',
-			end: '2023-12-26 14:59:00',
-			image: 'Brilliant Fixation 3015.png',
-			color: '#e9817d',
-			pos: '0%, 5%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/23404282',
-			show: true
-		},
 		{
 			name: 'Brilliant Fixation - Light Cone Warp Event',
 			start: '2023-12-27 06:00:00',
@@ -238,20 +225,21 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/24375691',
 			show: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2024-02-06 06:00:00',
+			end: '2024-02-29 14:59:00',
+			image: 'Brilliant Fixation 3021.jpg',
+			color: '#9d8fde',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24943321',
+			show: true,
+			timezoneDependent: true
 		}
 	],
 	[
-		{
-			name: 'Bygone Reminiscence - Light Cone Warp Event',
-			start: '2023-12-06 12:00:00',
-			end: '2023-12-26 14:59:00',
-			image: 'Bygone Reminiscence 3016.png',
-			color: '#aa9ed8',
-			pos: '0%, 0%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/23404282',
-			show: true
-		},
 		{
 			name: 'Bygone Reminiscence - Light Cone Warp Event',
 			start: '2023-12-27 06:00:00',
@@ -274,25 +262,37 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/24375691',
 			show: true
+		},
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2024-02-06 06:00:00',
+			end: '2024-02-29 14:59:00',
+			image: 'Bygone Reminiscence 3022.jpg',
+			color: '#9fc6bb',
+			pos: '0%, -5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/24943321',
+			show: true,
+			timezoneDependent: true
 		}
 	],
 	[
 		{
 			name: 'Nameless Honor - Battle Pass',
-			start: '2023-11-15 06:00:00',
-			end: '2023-12-25 03:59:00',
+			start: '2023-12-27 06:00:00',
+			end: '2024-02-05 03:59:00',
 			image: 'Nameless Honor.png',
 			color: '#ff9d92',
 			pos: '30%, -5%',
 			zoom: 2,
-			url: 'https://www.hoyolab.com/article/22956958',
+			url: 'https://www.hoyolab.com/article/23807924',
 			timezoneDependent: true,
 			show: true
 		},
 		{
 			name: 'Nameless Honor - Battle Pass',
-			start: '2023-12-27 06:00:00',
-			end: '2024-02-05 03:59:00',
+			start: '2024-02-06 06:00:00',
+			end: '2024-03-25 03:59:00',
 			image: 'Nameless Honor.png',
 			color: '#ff9d92',
 			pos: '30%, -5%',
