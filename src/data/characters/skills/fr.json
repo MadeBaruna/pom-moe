@@ -218,7 +218,7 @@
           182,
           195,
           211,
-          227,
+          228,
           244,
           260,
           273,
@@ -300,7 +300,7 @@
           25,
           27,
           29,
-          31,
+          32,
           34,
           36,
           38,
@@ -419,7 +419,7 @@
           184,
           196,
           207,
-          218,
+          219,
           230,
           239,
           248,
@@ -448,7 +448,7 @@
           98,
           105,
           114,
-          122,
+          123,
           131,
           140,
           147,
@@ -848,7 +848,7 @@
           81,
           91,
           103,
-          115,
+          116,
           128,
           140,
           150,
@@ -967,18 +967,18 @@
         ],
         [
           7.5,
-          7.7,
+          7.8,
           8,
           8.3,
           8.5,
-          8.7,
+          8.8,
           9.1,
           9.4,
           9.7,
           10,
           10.3,
           10.5,
-          10.7,
+          10.8,
           11,
           11.3
         ],
@@ -1030,9 +1030,9 @@
           100,
           101,
           103,
-          104,
+          105,
           106,
-          107
+          108
         ],
         [
           36,
@@ -1074,7 +1074,7 @@
           7,
           7.5,
           8.1,
-          8.7,
+          8.8,
           9.4,
           10,
           10.5,
@@ -1332,9 +1332,9 @@
       "values": [
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -1343,7 +1343,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ]
@@ -1525,11 +1525,11 @@
         ],
         [
           25,
-          26,
+          27,
           28,
-          29,
+          30,
           31,
-          32,
+          33,
           34,
           36,
           38,
@@ -1700,18 +1700,18 @@
       "values": [
         [
           15,
-          16,
+          17,
           18,
-          19,
+          20,
           21,
-          22,
+          23,
           24,
           26,
           28,
           30,
-          31,
+          32,
           33,
-          34,
+          35,
           36,
           38
         ]
@@ -1906,7 +1906,7 @@
           98,
           105,
           114,
-          122,
+          123,
           131,
           140,
           147,
@@ -2178,9 +2178,9 @@
       "values": [
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -2189,7 +2189,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ]
@@ -2255,13 +2255,13 @@
           7.4,
           7.9,
           8.3,
-          8.7,
+          8.8,
           9.1,
           9.5,
           9.8,
           10.2,
           10.5,
-          10.8,
+          10.9,
           11.2,
           11.6,
           11.9,
@@ -2383,9 +2383,9 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -2394,7 +2394,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ]
@@ -2462,16 +2462,16 @@
       "values": [
         [
           105,
-          115,
+          116,
           126,
-          136,
+          137,
           147,
           158,
           171,
           184,
           197,
           210,
-          220,
+          221,
           231,
           242,
           252,
@@ -2629,7 +2629,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -2646,7 +2646,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -2695,7 +2695,7 @@
           19,
           20,
           21,
-          22,
+          23,
           24,
           25,
           26,
@@ -2853,7 +2853,7 @@
           24,
           25,
           26,
-          27,
+          28,
           29,
           30,
           31,
@@ -2991,14 +2991,14 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           39,
           44,
           50,
-          58,
+          57,
           65,
           68,
           72,
@@ -3111,7 +3111,7 @@
           182,
           196,
           210,
-          227,
+          228,
           245,
           263,
           280,
@@ -3129,14 +3129,14 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           39,
           44,
           50,
-          58,
+          57,
           65,
           68,
           72,
@@ -3200,18 +3200,18 @@
           5,
           5.3,
           5.5,
-          5.7,
+          5.8,
           6,
           6.3,
           6.6,
           6.9,
           7.2,
           7.5,
-          7.7,
+          7.8,
           8,
           8.3,
           8.5,
-          8.7
+          8.8
         ],
         [
           50,
@@ -3298,11 +3298,11 @@
           12.6,
           13.1,
           13.5,
-          13.9,
+          14,
           14.4,
-          14.8,
+          14.9,
           15.3,
-          15.7
+          15.8
         ],
         [
           90,
@@ -3337,9 +3337,9 @@
         ],
         [
           2.4,
-          2.5,
+          2.6,
           2.7,
-          2.8,
+          2.9,
           3,
           3.1,
           3.2,
@@ -3374,15 +3374,15 @@
           3.2,
           3.4,
           3.6,
-          3.7,
+          3.8,
           3.9,
           4.1,
           4.2,
           4.4,
           4.5,
-          4.6,
+          4.7,
           4.8,
-          4.9,
+          5,
           5.1,
           5.3
         ],
@@ -3465,7 +3465,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -3485,8 +3485,8 @@
           156,
           169,
           182,
-          201,
-          227,
+          202,
+          228,
           260,
           299,
           338,
@@ -3521,7 +3521,7 @@
           264,
           281,
           297,
-          313,
+          314,
           330,
           343,
           356,
@@ -3680,7 +3680,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -3693,9 +3693,9 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -3704,7 +3704,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ]
@@ -3724,7 +3724,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -3736,18 +3736,18 @@
           188
         ],
         [
-          12,
+          13,
           14,
           15,
           16,
-          17,
+          18,
           19,
           20,
           22,
           23,
           25,
           26,
-          27,
+          28,
           29,
           30,
           31
@@ -3779,7 +3779,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -3859,7 +3859,7 @@
           20,
           21,
           23,
-          24,
+          25,
           26,
           28,
           29,
@@ -4013,7 +4013,7 @@
           26,
           28,
           30,
-          32,
+          33,
           35,
           38,
           40,
@@ -4025,9 +4025,9 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -4036,7 +4036,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ],
@@ -4051,7 +4051,7 @@
           19,
           20,
           21,
-          22,
+          23,
           24,
           25,
           26,
@@ -4259,7 +4259,7 @@
         ],
         [
           12,
-          12.7,
+          12.8,
           13.5,
           14.3,
           15,
@@ -4450,7 +4450,7 @@
     },
     "technique": {
       "name": "Invocation d'esprit",
-      "desc": "Après utilisation de la technique, le nombre de frappes par action du Seigneur de la foudre augmente de {1} au début du combat suivant.",
+      "desc": "Le nombre de frappes par action du Seigneur de la foudre augmente de {1} au début du combat suivant après utilisation de la technique.",
       "values": [
         [
           3
@@ -4502,9 +4502,9 @@
           20,
           23,
           26,
-          29,
+          30,
           33,
-          36,
+          37,
           40,
           43,
           46,
@@ -4678,7 +4678,7 @@
           96,
           103,
           110,
-          115,
+          116,
           121,
           126,
           132,
@@ -4802,16 +4802,16 @@
       "values": [
         [
           105,
-          115,
+          116,
           126,
-          136,
+          137,
           147,
           158,
           171,
           184,
           197,
           210,
-          220,
+          221,
           231,
           242,
           252,
@@ -4878,7 +4878,7 @@
           22,
           23,
           24,
-          25,
+          26,
           27,
           28,
           30,
@@ -5177,7 +5177,7 @@
           7.8,
           8.4,
           9,
-          9.7,
+          9.8,
           10.5,
           11.3,
           12,
@@ -5373,7 +5373,7 @@
           280,
           298,
           315,
-          332,
+          333,
           350,
           364,
           378,
@@ -5411,18 +5411,18 @@
         ],
         [
           15,
-          16,
+          17,
           18,
-          19,
+          20,
           21,
-          22,
+          23,
           24,
           26,
           28,
           30,
-          31,
+          32,
           33,
-          34,
+          35,
           36,
           38
         ],
@@ -5434,7 +5434,7 @@
           54,
           55,
           56,
-          58,
+          57,
           59,
           60,
           61,
@@ -5445,9 +5445,9 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -5456,15 +5456,15 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -5473,7 +5473,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ],
@@ -5551,7 +5551,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -5566,7 +5566,7 @@
           26,
           28,
           30,
-          32,
+          33,
           35,
           38,
           40,
@@ -5755,7 +5755,7 @@
           8.3,
           8.8,
           9.3,
-          9.7,
+          9.8,
           10.1,
           10.5,
           10.9,
@@ -5813,11 +5813,11 @@
           12.6,
           13.1,
           13.5,
-          13.9,
+          14,
           14.4,
-          14.8,
+          14.9,
           15.3,
-          15.7
+          15.8
         ],
         [
           90,
@@ -5886,7 +5886,7 @@
         ],
         [
           12,
-          12.7,
+          12.8,
           13.5,
           14.3,
           15,
@@ -5952,7 +5952,7 @@
   "jingliu": {
     "attack": {
       "name": "Lueur sélénite",
-      "desc": "Inflige des DGT de glace équivalent à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Jingliu à un ennemi unique.",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Jingliu à un ennemi unique.",
       "values": [
         [
           50,
@@ -6057,7 +6057,7 @@
       "desc": "Lorsque Jingliu possède {5} cumuls de Syzygie, elle entre en état de Migration spectrale, ce qui avance son action de {6} et augmente ses chances de coup critique de <span style=\"color: #f29e38ff\">{7}</span>. La compétence de Jingliu Éclair transcendant est alors renforcée pour se transformer en Reflet de lune sur rivière glacée, et devient la seule capacité disponible en combat. Lorsque Jingliu utilise une attaque dans l'état Migration spectrale, elle consomme {2} des PV max respectifs des alliés (les PV des alliés ne peuvent pas être réduits en dessous de 1). L'ATQ de Jingliu augmente à hauteur de {3} du total de PV consommés chez tous les alliés lors de cette attaque, sans excéder <span style=\"color: #f29e38ff\">{4}</span> de son ATQ de base, jusqu'à la fin de l'attaque en cours. Jingliu ne peut pas entrer à nouveau dans l'état Migration spectrale jusqu'à ce que l'état Migration spectrale actuel se termine. Syzygie peut se cumuler jusqu'à 3 fois. Jingliu sort de l'état Migration spectrale lorsque les cumuls de Syzygie tombent à 0.",
       "values": [
         [
-          0.3000000002793968
+          0.3
         ],
         [
           4
@@ -6173,7 +6173,7 @@
           275,
           288,
           300,
-          312
+          313
         ],
         [
           1
@@ -6235,7 +6235,7 @@
           7.8,
           8.4,
           9,
-          9.7,
+          9.8,
           10.5,
           11.3,
           12,
@@ -6318,7 +6318,7 @@
           7,
           7.5,
           8.1,
-          8.7,
+          8.8,
           9.4,
           10,
           10.5,
@@ -6428,7 +6428,7 @@
           98,
           105,
           114,
-          122,
+          123,
           131,
           140,
           147,
@@ -6471,7 +6471,7 @@
           180,
           190,
           200,
-          212,
+          213,
           225,
           238,
           250,
@@ -6482,21 +6482,21 @@
           300
         ],
         [
-          0.09000000008381903,
-          0.09599999967031181,
-          0.10199999995529652,
-          0.1079999995417893,
-          0.113999999826774,
-          0.12000000011175871,
-          0.12749999994412065,
-          0.13499999977648258,
-          0.14250000030733645,
-          0.1500000001396984,
-          0.15599999972619116,
-          0.16200000001117587,
-          0.16799999959766865,
-          0.17399999988265336,
-          0.18000000016763806
+          0.09,
+          0.096,
+          0.102,
+          0.108,
+          0.114,
+          0.12,
+          0.1275,
+          0.135,
+          0.1425,
+          0.15,
+          0.156,
+          0.162,
+          0.168,
+          0.174,
+          0.18
         ],
         [
           36,
@@ -6544,7 +6544,7 @@
           99,
           103,
           108,
-          112
+          113
         ],
         [
           1
@@ -6680,18 +6680,18 @@
       "values": [
         [
           15,
-          16,
+          17,
           18,
-          19,
+          20,
           21,
-          22,
+          23,
           24,
           26,
           28,
           30,
-          31,
+          32,
           33,
-          34,
+          35,
           36,
           38
         ],
@@ -6745,7 +6745,7 @@
         [
           14,
           14.9,
-          15.7,
+          15.8,
           16.6,
           17.5,
           18.2,
@@ -6885,15 +6885,15 @@
           3.2,
           3.4,
           3.6,
-          3.7,
+          3.8,
           3.9,
           4.1,
           4.2,
           4.4,
           4.5,
-          4.6,
+          4.7,
           4.8,
-          4.9,
+          5,
           5.1,
           5.3
         ],
@@ -6999,7 +6999,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -7055,14 +7055,14 @@
           1.3,
           1.5,
           1.6,
-          1.7,
+          1.8,
           1.9,
           2.1,
           2.3,
           2.5,
-          2.6,
+          2.7,
           2.8,
-          2.9,
+          3,
           3.1,
           3.3
         ],
@@ -7279,7 +7279,7 @@
           9,
           9.3,
           9.5,
-          9.7,
+          9.8,
           10,
           10.2,
           10.4,
@@ -7318,7 +7318,7 @@
     },
     "technique": {
       "name": "Sérénade de soie",
-      "desc": "Obtient Sérénade de soie après avoir utilisé la technique. Déclenche automatiquement la compétence sans utiliser de point de compétence {1} fois au début du combat suivant.\\nDans l'Univers simulé, lorsque Ruan Mei bénéficie de Sérénade de soie et que l'équipe attaque activement une cible ennemie, la Faiblesse de l'ennemi est toujours considérée comme ayant été attaquée pour entrer en combat, et cette attaque peut réduire la robustesse de tous les ennemis quel que soit leur type de faiblesse. Lorsque vous infligez une Rupture de faiblesse, vous déclenchez l'effet de Rupture correspondant au type de faiblesse de l'assaillant. Augmente les DGT à la robustesse de cette attaque de {2} pour chaque bénédiction possédée, jusqu'à {4} bénédictions. D'autre part, inflige à l'ennemi des DGT de rupture équivalents à {3} des DGT de rupture de glace de Ruan Mei si cette attaque provoque une Rupture de faiblesse à un ennemi.",
+      "desc": "Obtient Sérénade de soie après avoir utilisé la technique. Déclenche automatiquement la compétence sans utiliser de point de compétence {1} fois au début du combat suivant.\\nDans l'Univers simulé, lorsque Ruan Mei bénéficie de Sérénade de soie et que l'équipe attaque activement une cible ennemie, la Faiblesse de l'ennemi est toujours considérée comme ayant été attaquée pour entrer en combat, et cette attaque peut réduire la robustesse de tous les ennemis quel que soit leur type de faiblesse. Lorsque vous infligez une Rupture de faiblesse, vous déclenchez l'effet de Rupture correspondant au type de faiblesse de l'assaillant. Augmente les DGT à la robustesse de cette attaque de {2} pour chaque bénédiction possédée (jusqu'à {4} bénédictions). D'autre part, inflige à l'ennemi des DGT de rupture équivalents à {3} des DGT de rupture de glace de Ruan Mei si cette attaque provoque une Rupture de faiblesse à un ennemi.",
       "values": [
         [
           1
@@ -7364,7 +7364,7 @@
     },
     "skill": {
       "name": "Déclic intellectuel",
-      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dr Ratio à une cible unique.",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dr Ratio à une cible unique.",
       "values": [
         [
           75,
@@ -7372,7 +7372,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -7390,7 +7390,7 @@
     },
     "ultimate": {
       "name": "Paradoxe du syllogisme",
-      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dr Ratio à une cible ennemie unique et applique Folie du sage. Lorsque les alliés de Dr Ratio attaquent une cible affectée par Folie du sage, Dr Ratio lui inflige l'<u>attaque de suivi</u> de son talent une fois.\\nFolie du sage peut être déclenchée jusqu'à {2} fois et n'affecte que la cible la plus récente de l'ultime de Dr Ratio. Le nombre de déclenchements est réinitialisé après que Dr Ratio utilise son ultime.",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Dr Ratio à une cible ennemie unique et applique Folie du sage. Lorsque les alliés de Dr Ratio attaquent une cible affectée par Folie du sage, Dr Ratio lui inflige l'<u>attaque de suivi</u> de son talent une fois.\\nFolie du sage peut être déclenchée jusqu'à {2} fois et n'affecte que la cible la plus récente de l'ultime de Dr Ratio. Le nombre de déclenchements est réinitialisé après que Dr Ratio utilise son ultime.",
       "values": [
         [
           144,
@@ -7428,14 +7428,14 @@
           162,
           176,
           189,
-          202,
+          203,
           219,
           236,
           253,
           270,
           284,
           297,
-          310,
+          311,
           324,
           338
         ],
@@ -7460,7 +7460,7 @@
     },
     "technique": {
       "name": "Fascination façonnée",
-      "desc": "Crée une dimension spéciale qui provoque les ennemis proches pendant {1} secondes après avoir utilisé la technique. Il y a {2} de <u>chances de base</u> de réduire la VIT des ennemis de {3} pendant {4} tours en engageant le combat avec des ennemis dans la dimension. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "desc": "Crée une dimension qui provoque les ennemis à proximité pendant {1} secondes après avoir utilisé la technique. Il y a {2} de <u>chances de base</u> de réduire de {3} la VIT de chaque cible ennemie pendant {4} tours en engageant le combat avec des ennemis dans la dimension. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
       "values": [
         [
           10
@@ -7479,6 +7479,470 @@
         "[i]",
         "[i]%",
         "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "black-swan": {
+    "attack": {
+      "name": "Perspicacité de l'aube silencieuse",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Cygne noir à une cible ennemie unique, avec <span style=\"color: #f29e38ff\">{2}</span> de <u>chances de base</u> d'infliger 1 cumul d'<u>Arcanes</u>. D'autre part, si la cible est affectée par Faille du vent, Saignement, Brûlure ou Stupéfaction, chaque effet a respectivement <span style=\"color: #f29e38ff\">{3}</span> de <u>chances de base</u> d'infliger 1 cumul d'<u>Arcanes</u> supplémentaire à l'ennemi.",
+      "values": [
+        [
+          30,
+          36,
+          42,
+          48,
+          54,
+          60,
+          66,
+          72,
+          78
+        ],
+        [
+          50,
+          53,
+          56,
+          59,
+          62,
+          65,
+          68,
+          71,
+          74
+        ],
+        [
+          50,
+          53,
+          56,
+          59,
+          62,
+          65,
+          68,
+          71,
+          74
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Décadence du faux crépuscule",
+      "desc": "Inflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Cygne noir à une cible ennemie unique et aux cibles adjacentes. D'autre part, il y a {2} de <u>chances de base</u> d'infliger 1 cumul d'<u>Arcanes</u> à la cible ennemie et aux cibles adjacentes et {3} de <u>chances de base</u> de réduire de <span style=\"color: #f29e38ff\">{4}</span> la DÉF de la cible ennemie et des cibles adjacentes pour une durée de {5} tours.",
+      "values": [
+        [
+          45,
+          50,
+          54,
+          59,
+          63,
+          68,
+          73,
+          79,
+          84,
+          90,
+          95,
+          99,
+          103,
+          108,
+          113
+        ],
+        [
+          100
+        ],
+        [
+          100
+        ],
+        [
+          14.8,
+          15.4,
+          16,
+          16.6,
+          17.2,
+          17.8,
+          18.6,
+          19.3,
+          20.1,
+          20.8,
+          21.4,
+          22,
+          22.6,
+          23.2,
+          23.8
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Bénédiction de l'étreinte de l'au-delà",
+      "desc": "Inflige Épiphanie à tous les ennemis pendant {2} tours.\\nLes ennemis affectés par Épiphanie subissent <span style=\"color: #f29e38ff\">{3}</span> de DGT supplémentaires pendant leur tour, et leur effet <u>Arcanes</u> est considéré comme Faille du vent, Saignement, Brûlure et Stupéfaction. D'autre part, lorsque leur effet <u>Arcanes</u> est déclenché au début du tour suivant, les cumuls d'<u>Arcanes</u> ne sont pas réinitialisés. L'effet de non-réinitialisation des cumuls peut être déclenché jusqu'à {4} fois pendant la durée d'Épiphanie, et son nombre de déclenchements est réinitialisé lorsque l'effet Épiphanie est appliqué à nouveau.\\nInflige des DGT de vent équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Cygne noir à tous les ennemis.",
+      "values": [
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ],
+        [
+          2
+        ],
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Toile du caprice du destin",
+      "desc": "Chaque fois qu'une cible ennemie subit des dégâts sur la durée au début de chaque tour, il y a <span style=\"color: #f29e38ff\">{2}</span> de <u>chances de base</u> de lui infliger <u>Arcanes</u>. \\nLes cibles ennemies affectées par <u>Arcanes</u> subissent des dégâts de vent sur la durée équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Cygne noir au début de chaque tour. Chaque cumul d'<u>Arcanes</u> augmente de <span style=\"color: #f29e38ff\">{3}</span> ce multiplicateur de dégâts sur la durée. Puis <u>Arcanes</u> est réinitialisé à 1 cumul. <u>Arcanes</u> peut se cumuler jusqu'à {8} fois. \\nLorsqu'<u>Arcanes</u> inflige des DGT au début du tour d'une cible ennemie, Cygne noir déclenche des effets supplémentaires en fonction du nombre de cumuls d'<u>Arcanes</u> appliqués à la cible :\\nÀ partir de {4} cumuls d'<u>Arcanes</u>, inflige des dégâts de vent sur la durée équivalents à <span style=\"color: #f29e38ff\">{5}</span> de l'ATQ de Cygne noir aux cibles adjacentes, avec <span style=\"color: #f29e38ff\">{2}</span> de <u>chances de base</u> de leur infliger 1 cumul d'<u>Arcanes</u>.\\nÀ partir de {6} cumuls d'<u>Arcanes</u>, permet aux dégâts sur la durée infligés cette fois d'ignorer {7} de la DÉF de la cible et des cibles adjacentes.",
+      "values": [
+        [
+          96,
+          112,
+          128,
+          144,
+          159,
+          175,
+          190,
+          204,
+          222,
+          240,
+          252,
+          264,
+          276,
+          288,
+          300
+        ],
+        [
+          50,
+          52,
+          53,
+          55,
+          56,
+          57,
+          59,
+          61,
+          63,
+          65,
+          67,
+          68,
+          70,
+          71,
+          73
+        ],
+        [
+          4.8,
+          5.6,
+          6.4,
+          7.2,
+          8,
+          8.8,
+          9.5,
+          10.2,
+          11.1,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          3
+        ],
+        [
+          72,
+          84,
+          96,
+          108,
+          120,
+          131,
+          142,
+          153,
+          167,
+          180,
+          189,
+          198,
+          207,
+          216,
+          225
+        ],
+        [
+          7
+        ],
+        [
+          20
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Du mythe à la réalité",
+      "desc": "Il y a {1} de <u>chances de base</u> pour chaque ennemi de se voir infligé 1 cumul d'<u>Arcanes</u> au début du prochain combat après avoir utilisé cette technique. Pour chaque application réussie d'<u>Arcanes</u> sur une cible, vous infligez un nouveau cumul d'<u>Arcanes</u> à la même cible. Ce processus se répète jusqu'à ce que l'application d'<u>Arcanes</u> sur cette cible échoue. Pour chaque application successive d'<u>Arcanes</u> sur une cible, ses <u>chances de base</u> de réussite sont équivalentes à {2} des <u>chances de base</u> de la précédente application réussie d'<u>Arcanes</u> sur cette cible.",
+      "values": [
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "misha": {
+    "attack": {
+      "name": "P—Pardon de vous déranger !",
+      "desc": "Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Micha à une cible ennemie unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "À votre service !",
+      "desc": "Augmente de {3} le nombre de frappes par action du prochain ultime de Micha. Inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Micha à une cible ennemie unique, et des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Micha aux cibles adjacentes.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "J—Je vais être en retard !",
+      "desc": "L'ultime de Micha inflige {1} frappes par action par défaut. La première frappe inflige des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Micha à une cible ennemie unique. Puis, le reste des frappes inflige chacune des DGT de glace équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ de Micha à un ennemi unique aléatoire. Il y a <span style=\"color: #f29e38ff\">{3}</span> de <u>chances de base</u> de geler la cible pendant 1 tour avant chaque frappe.\\nLes cibles ennemies gelées ne peuvent pas agir et subissent des <u>DGT de glace additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{4}</span> de l'ATQ de Micha au début de leur tour.\\nL'ultime de Micha peut infliger jusqu'à {5} frappes par action. Le nombre de frappes par action retourne à sa valeur par défaut après utilisation de l'ultime.",
+      "values": [
+        [
+          3
+        ],
+        [
+          36,
+          38,
+          41,
+          43,
+          46,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62,
+          65,
+          67,
+          70,
+          72
+        ],
+        [
+          12,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24
+        ],
+        [
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          26,
+          27,
+          28,
+          30,
+          31,
+          32,
+          34,
+          35,
+          36
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Échappée minutée",
+      "desc": "Chaque fois qu'un allié utilise 1 point de compétence, le prochain ultime de Micha inflige {2} frappe supplémentaire par action et Micha régénère <span style=\"color: #f29e38ff\">{1}</span> point d'énergie.",
+      "values": [
+        [
+          1,
+          1.1,
+          1.2,
+          1.3,
+          1.4,
+          1.5,
+          1.6,
+          1.8,
+          1.9,
+          2,
+          2.1,
+          2.2,
+          2.3,
+          2.4,
+          2.5
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[f1]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Après l'avoir attaqué, réduit la robustesse de l'ennemi au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Pas si vite !",
+      "desc": "Crée une dimension qui dure {1} secondes après avoir utilisé la technique. Les ennemis pris dans la dimension sont affectés par Prison onirique et arrêtent toutes leurs actions. Le nombre de frappes par action du prochain ultime de Micha augmente de {2} lorsqu'il entre en combat contre des ennemis affectés par Prison onirique. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "values": [
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
         "[i]"
       ]
     }
@@ -7565,7 +8029,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -7590,7 +8054,7 @@
           4,
           4.3,
           4.5,
-          4.7,
+          4.8,
           5,
           5.2,
           5.4,

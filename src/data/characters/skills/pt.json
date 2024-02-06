@@ -218,7 +218,7 @@
           182,
           195,
           211,
-          227,
+          228,
           244,
           260,
           273,
@@ -300,7 +300,7 @@
           25,
           27,
           29,
-          31,
+          32,
           34,
           36,
           38,
@@ -419,7 +419,7 @@
           184,
           196,
           207,
-          218,
+          219,
           230,
           239,
           248,
@@ -448,7 +448,7 @@
           98,
           105,
           114,
-          122,
+          123,
           131,
           140,
           147,
@@ -848,7 +848,7 @@
           81,
           91,
           103,
-          115,
+          116,
           128,
           140,
           150,
@@ -967,18 +967,18 @@
         ],
         [
           7.5,
-          7.7,
+          7.8,
           8,
           8.3,
           8.5,
-          8.7,
+          8.8,
           9.1,
           9.4,
           9.7,
           10,
           10.3,
           10.5,
-          10.7,
+          10.8,
           11,
           11.3
         ],
@@ -1030,9 +1030,9 @@
           100,
           101,
           103,
-          104,
+          105,
           106,
-          107
+          108
         ],
         [
           36,
@@ -1074,7 +1074,7 @@
           7,
           7.5,
           8.1,
-          8.7,
+          8.8,
           9.4,
           10,
           10.5,
@@ -1332,9 +1332,9 @@
       "values": [
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -1343,7 +1343,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ]
@@ -1525,11 +1525,11 @@
         ],
         [
           25,
-          26,
+          27,
           28,
-          29,
+          30,
           31,
-          32,
+          33,
           34,
           36,
           38,
@@ -1700,18 +1700,18 @@
       "values": [
         [
           15,
-          16,
+          17,
           18,
-          19,
+          20,
           21,
-          22,
+          23,
           24,
           26,
           28,
           30,
-          31,
+          32,
           33,
-          34,
+          35,
           36,
           38
         ]
@@ -1906,7 +1906,7 @@
           98,
           105,
           114,
-          122,
+          123,
           131,
           140,
           147,
@@ -2178,9 +2178,9 @@
       "values": [
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -2189,7 +2189,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ]
@@ -2255,13 +2255,13 @@
           7.4,
           7.9,
           8.3,
-          8.7,
+          8.8,
           9.1,
           9.5,
           9.8,
           10.2,
           10.5,
-          10.8,
+          10.9,
           11.2,
           11.6,
           11.9,
@@ -2383,9 +2383,9 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -2394,7 +2394,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ]
@@ -2462,16 +2462,16 @@
       "values": [
         [
           105,
-          115,
+          116,
           126,
-          136,
+          137,
           147,
           158,
           171,
           184,
           197,
           210,
-          220,
+          221,
           231,
           242,
           252,
@@ -2629,7 +2629,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -2646,7 +2646,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -2695,7 +2695,7 @@
           19,
           20,
           21,
-          22,
+          23,
           24,
           25,
           26,
@@ -2853,7 +2853,7 @@
           24,
           25,
           26,
-          27,
+          28,
           29,
           30,
           31,
@@ -2991,14 +2991,14 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           39,
           44,
           50,
-          58,
+          57,
           65,
           68,
           72,
@@ -3111,7 +3111,7 @@
           182,
           196,
           210,
-          227,
+          228,
           245,
           263,
           280,
@@ -3129,14 +3129,14 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           39,
           44,
           50,
-          58,
+          57,
           65,
           68,
           72,
@@ -3200,18 +3200,18 @@
           5,
           5.3,
           5.5,
-          5.7,
+          5.8,
           6,
           6.3,
           6.6,
           6.9,
           7.2,
           7.5,
-          7.7,
+          7.8,
           8,
           8.3,
           8.5,
-          8.7
+          8.8
         ],
         [
           50,
@@ -3298,11 +3298,11 @@
           12.6,
           13.1,
           13.5,
-          13.9,
+          14,
           14.4,
-          14.8,
+          14.9,
           15.3,
-          15.7
+          15.8
         ],
         [
           90,
@@ -3337,9 +3337,9 @@
         ],
         [
           2.4,
-          2.5,
+          2.6,
           2.7,
-          2.8,
+          2.9,
           3,
           3.1,
           3.2,
@@ -3374,15 +3374,15 @@
           3.2,
           3.4,
           3.6,
-          3.7,
+          3.8,
           3.9,
           4.1,
           4.2,
           4.4,
           4.5,
-          4.6,
+          4.7,
           4.8,
-          4.9,
+          5,
           5.1,
           5.3
         ],
@@ -3465,7 +3465,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -3485,8 +3485,8 @@
           156,
           169,
           182,
-          201,
-          227,
+          202,
+          228,
           260,
           299,
           338,
@@ -3521,7 +3521,7 @@
           264,
           281,
           297,
-          313,
+          314,
           330,
           343,
           356,
@@ -3680,7 +3680,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -3693,9 +3693,9 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -3704,7 +3704,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ]
@@ -3724,7 +3724,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -3736,18 +3736,18 @@
           188
         ],
         [
-          12,
+          13,
           14,
           15,
           16,
-          17,
+          18,
           19,
           20,
           22,
           23,
           25,
           26,
-          27,
+          28,
           29,
           30,
           31
@@ -3779,7 +3779,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -3859,7 +3859,7 @@
           20,
           21,
           23,
-          24,
+          25,
           26,
           28,
           29,
@@ -4013,7 +4013,7 @@
           26,
           28,
           30,
-          32,
+          33,
           35,
           38,
           40,
@@ -4025,9 +4025,9 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -4036,7 +4036,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ],
@@ -4051,7 +4051,7 @@
           19,
           20,
           21,
-          22,
+          23,
           24,
           25,
           26,
@@ -4259,7 +4259,7 @@
         ],
         [
           12,
-          12.7,
+          12.8,
           13.5,
           14.3,
           15,
@@ -4398,7 +4398,7 @@
     },
     "talent": {
       "name": "Prana Extirpado",
-      "desc": "Invoca o Senhor dos Raios no início da batalha. O Senhor dos Raios tem {1} de VEL base e {4} Golpes por Ação base. Quando o Senhor dos Raios age, seus golpes são considerados <u>Ataques Extras</u>, com cada golpe do Senhor dos Raios causando Dano de Raio igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Jing Yuan em um único inimigo aleatório, e inimigos adjacentes a ele também recebem Dano de Raio igual a {5} do Dano causado no inimigo-alvo.\\nOs Golpes por Ação do Senhor dos Raios podem atingir o máximo de {6}. Toda vez que os Golpes por Ação do Senhor dos Raios aumentam em 1, sua VEL aumenta em {3}. Ao fim da ação do Senhor dos Raios, a sua VEL e Golpes por Ação voltam aos valores base. \\nQuando Jing Yuan é <u>derrubado</u>, o Senhor dos Raios desaparecerá.\\nQuando Jing Yuan é afetado por penalidades de <u>Controle Negativo</u>, o Senhor dos Raios será incapaz de agir.",
+      "desc": "Invoca o Senhor dos Raios no início da batalha. O Senhor dos Raios tem {1} de VEL base e {4} Golpes por Ação base. Quando o Senhor dos Raios age, seus golpes são considerados <u>Ataques Extras</u>, com cada golpe do Senhor dos Raios causando Dano de Raio igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Jing Yuan em um único inimigo aleatório, e inimigos adjacentes a ele também recebem Dano de Raio igual a {5} do Dano causado no inimigo-alvo.\\nOs Golpes por Ação do Senhor dos Raios podem atingir o máximo de {6}. Toda vez que os Golpes por Ação do Senhor dos Raios aumentam em 1, sua VEL aumenta em {3}. Ao fim da ação do Senhor dos Raios, a sua VEL e Golpes por Ação voltam aos valores-base. \\nQuando Jing Yuan é <u>derrubado</u>, o Senhor dos Raios desaparecerá.\\nQuando Jing Yuan é afetado por penalidades de <u>Controle Negativo</u>, o Senhor dos Raios será incapaz de agir.",
       "values": [
         [
           60
@@ -4450,7 +4450,7 @@
     },
     "technique": {
       "name": "Invocação de Espírito",
-      "desc": "Depois a Técnica ser utilizada, os Golpes por Ataque do Senhor dos Raios na primeira rodada aumenta em {1} no início da próxima batalha.",
+      "desc": "Depois da Técnica ser utilizada, os Golpes por Ação do Senhor dos Raios na primeira rodada aumentam em {1} no início da próxima batalha.",
       "values": [
         [
           3
@@ -4502,9 +4502,9 @@
           20,
           23,
           26,
-          29,
+          30,
           33,
-          36,
+          37,
           40,
           43,
           46,
@@ -4678,7 +4678,7 @@
           96,
           103,
           110,
-          115,
+          116,
           121,
           126,
           132,
@@ -4802,16 +4802,16 @@
       "values": [
         [
           105,
-          115,
+          116,
           126,
-          136,
+          137,
           147,
           158,
           171,
           184,
           197,
           210,
-          220,
+          221,
           231,
           242,
           252,
@@ -4878,7 +4878,7 @@
           22,
           23,
           24,
-          25,
+          26,
           27,
           28,
           30,
@@ -5177,7 +5177,7 @@
           7.8,
           8.4,
           9,
-          9.7,
+          9.8,
           10.5,
           11.3,
           12,
@@ -5373,7 +5373,7 @@
           280,
           298,
           315,
-          332,
+          333,
           350,
           364,
           378,
@@ -5411,18 +5411,18 @@
         ],
         [
           15,
-          16,
+          17,
           18,
-          19,
+          20,
           21,
-          22,
+          23,
           24,
           26,
           28,
           30,
-          31,
+          32,
           33,
-          34,
+          35,
           36,
           38
         ],
@@ -5434,7 +5434,7 @@
           54,
           55,
           56,
-          58,
+          57,
           59,
           60,
           61,
@@ -5445,9 +5445,9 @@
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -5456,15 +5456,15 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ],
         [
           25,
-          27,
+          28,
           30,
-          32,
+          33,
           35,
           38,
           41,
@@ -5473,7 +5473,7 @@
           50,
           53,
           55,
-          58,
+          57,
           60,
           63
         ],
@@ -5551,7 +5551,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -5566,7 +5566,7 @@
           26,
           28,
           30,
-          32,
+          33,
           35,
           38,
           40,
@@ -5755,7 +5755,7 @@
           8.3,
           8.8,
           9.3,
-          9.7,
+          9.8,
           10.1,
           10.5,
           10.9,
@@ -5813,11 +5813,11 @@
           12.6,
           13.1,
           13.5,
-          13.9,
+          14,
           14.4,
-          14.8,
+          14.9,
           15.3,
-          15.7
+          15.8
         ],
         [
           90,
@@ -5886,7 +5886,7 @@
         ],
         [
           12,
-          12.7,
+          12.8,
           13.5,
           14.3,
           15,
@@ -6057,7 +6057,7 @@
       "desc": "Quando Jingliu alcança {5} acúmulo(s) de Sizígia, ela entra no estado de Transmigração Espectral, Avançando sua Ação em {6} e aumentando sua Chance de CRIT em <span style=\"color: #f29e38ff\">{7}</span>. Depois, a Perícia de Jingliu, \"Clarão Transcendente\", é aprimorada em \"Lua Sobre o Rio Glacial\", apenas esta Perícia aprimorada fica disponível na batalha. Quando Jingliu usa um ataque no estado de Transmigração Espectral, ela consome PV de todos os outros aliados igual a {2} dos respectivos PV máximos dos aliados (isso não pode reduzir os PV dos aliados para abaixo de 1). O ATQ de Jingliu aumenta em {3} da quantidade total dos PV consumidos de todos os aliados neste ataque, com um máximo de <span style=\"color: #f29e38ff\">{4}</span> de seu ATQ base e dura até o fim do ataque atual. Jingliu não pode entrar no estado de Transmigração Espectral novamente até que o estado atual de Transmigração Espectral tenha acabado. Sizígia pode acumular até 3 vezes. Quando o acúmulo de Sizígia chega a 0, Jingliu sai do estado de Transmigração Espectral.",
       "values": [
         [
-          0.3000000002793968
+          0.3
         ],
         [
           4
@@ -6173,7 +6173,7 @@
           275,
           288,
           300,
-          312
+          313
         ],
         [
           1
@@ -6235,7 +6235,7 @@
           7.8,
           8.4,
           9,
-          9.7,
+          9.8,
           10.5,
           11.3,
           12,
@@ -6318,7 +6318,7 @@
           7,
           7.5,
           8.1,
-          8.7,
+          8.8,
           9.4,
           10,
           10.5,
@@ -6428,7 +6428,7 @@
           98,
           105,
           114,
-          122,
+          123,
           131,
           140,
           147,
@@ -6471,7 +6471,7 @@
           180,
           190,
           200,
-          212,
+          213,
           225,
           238,
           250,
@@ -6482,21 +6482,21 @@
           300
         ],
         [
-          0.09000000008381903,
-          0.09599999967031181,
-          0.10199999995529652,
-          0.1079999995417893,
-          0.113999999826774,
-          0.12000000011175871,
-          0.12749999994412065,
-          0.13499999977648258,
-          0.14250000030733645,
-          0.1500000001396984,
-          0.15599999972619116,
-          0.16200000001117587,
-          0.16799999959766865,
-          0.17399999988265336,
-          0.18000000016763806
+          0.09,
+          0.096,
+          0.102,
+          0.108,
+          0.114,
+          0.12,
+          0.1275,
+          0.135,
+          0.1425,
+          0.15,
+          0.156,
+          0.162,
+          0.168,
+          0.174,
+          0.18
         ],
         [
           36,
@@ -6524,7 +6524,7 @@
     },
     "talent": {
       "name": "Perpetuação Cármica",
-      "desc": "Quando Xueyi reduz a Tenacidade do inimigo com seus ataques, ela acumula Karma. Quando mais a Tenacidade é reduzida, mais acúmulos de Karma são adicionados, até {1} acúmulos.\\nQuando os aliados de Xueyi reduzem a Tenacidade do inimigo com seus ataques, Xueyi ganha {3} acúmulos de Karma.\\nQuando o Karma atingir o número máximo de acúmulos e consumir todos os acúmulos de Karma atuais, imediatamente lança um <u>Ataque Extra</u> contra um inimigo-alvo, causando Dano por 3 vezes, com cada vez causando Dano Quântico igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Xueyi a um único inimigo aleatório. Este Ataque Extra não pode adicionar acúmulos de Karma.",
+      "desc": "Quando Xueyi reduz a Tenacidade do inimigo com seus ataques, ela acumula Carma. Quando mais a Tenacidade é reduzida, mais acúmulos de Carma são adicionados, até {1} acúmulos.\\nQuando os aliados de Xueyi reduzem a Tenacidade do inimigo com seus ataques, Xueyi ganha {3} acúmulo(s) de Carma.\\nQuando o Carma atingir o número máximo de acúmulos e consumir todos os acúmulos de Carma atuais, imediatamente lança um <u>Ataque Extra</u> contra um inimigo-alvo, causando Dano por 3 vezes, com cada vez causando Dano Quântico igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Xueyi a um único inimigo aleatório. Este Ataque Extra não pode adicionar acúmulos de Carma.",
       "values": [
         [
           8
@@ -6544,7 +6544,7 @@
           99,
           103,
           108,
-          112
+          113
         ],
         [
           1
@@ -6680,18 +6680,18 @@
       "values": [
         [
           15,
-          16,
+          17,
           18,
-          19,
+          20,
           21,
-          22,
+          23,
           24,
           26,
           28,
           30,
-          31,
+          32,
           33,
-          34,
+          35,
           36,
           38
         ],
@@ -6745,7 +6745,7 @@
         [
           14,
           14.9,
-          15.7,
+          15.8,
           16.6,
           17.5,
           18.2,
@@ -6885,15 +6885,15 @@
           3.2,
           3.4,
           3.6,
-          3.7,
+          3.8,
           3.9,
           4.1,
           4.2,
           4.4,
           4.5,
-          4.6,
+          4.7,
           4.8,
-          4.9,
+          5,
           5.1,
           5.3
         ],
@@ -6999,7 +6999,7 @@
           90,
           98,
           105,
-          112,
+          113,
           120,
           126,
           132,
@@ -7055,14 +7055,14 @@
           1.3,
           1.5,
           1.6,
-          1.7,
+          1.8,
           1.9,
           2.1,
           2.3,
           2.5,
-          2.6,
+          2.7,
           2.8,
-          2.9,
+          3,
           3.1,
           3.3
         ],
@@ -7279,7 +7279,7 @@
           9,
           9.3,
           9.5,
-          9.7,
+          9.8,
           10,
           10.2,
           10.4,
@@ -7372,7 +7372,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -7428,14 +7428,14 @@
           162,
           176,
           189,
-          202,
+          203,
           219,
           236,
           253,
           270,
           284,
           297,
-          310,
+          311,
           324,
           338
         ],
@@ -7460,7 +7460,7 @@
     },
     "technique": {
       "name": "Molde da Idolatria",
-      "desc": "Após usar a Técnica, cria uma dimensão especial que causa Provocação nos inimigos próximos, durando por {1} segundo(s). Após entrar em combate com inimigos nesta dimensão especial, há uma <u>chance-base</u> de {2} de reduzir a VEL de cada inimigo-alvo em {3} por {4} rodada(s). Apenas 1 dimensão criada pelos aliados pode existir ao mesmo tempo.",
+      "desc": "Após usar a Técnica, cria uma dimensão que causa Provocação nos inimigos próximos, durando por {1} segundo(s). Após entrar em combate com inimigos nesta dimensão, há uma <u>chance-base</u> de {2} de reduzir a VEL de cada inimigo-alvo em {3} por {4} rodada(s). Apenas 1 dimensão criada pelos aliados pode existir ao mesmo tempo.",
       "values": [
         [
           10
@@ -7479,6 +7479,470 @@
         "[i]",
         "[i]%",
         "[i]%",
+        "[i]"
+      ]
+    }
+  },
+  "black-swan": {
+    "attack": {
+      "name": "Percepção, Amanhecer Silencioso",
+      "desc": "Causa Dano de Vento igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Cisne Negro a um único inimigo-alvo, com uma <u>chance-base</u> de <span style=\"color: #f29e38ff\">{2}</span> de infligir 1 acúmulo de <u>Arcana</u>. Caso o inimigo-alvo esteja atualmente afligido com Cisalhamento de Vento, Sangramento, Queimadura ou Choque, cada efeito possui uma <u>chance-base</u> de <span style=\"color: #f29e38ff\">{3}</span> de aplicar adicionalmente 1 acúmulo de <u>Arcana</u> no inimigo.",
+      "values": [
+        [
+          30,
+          36,
+          42,
+          48,
+          54,
+          60,
+          66,
+          72,
+          78
+        ],
+        [
+          50,
+          53,
+          56,
+          59,
+          62,
+          65,
+          68,
+          71,
+          74
+        ],
+        [
+          50,
+          53,
+          56,
+          59,
+          62,
+          65,
+          68,
+          71,
+          74
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Decadência, Falso Crepúsculo",
+      "desc": "Causa Dano de Vento igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Cisne Negro a um único inimigo-alvo e a quaisquer alvos adjacentes. Ao mesmo tempo, há uma <u>chance-base</u> de {2} de infligir 1 acúmulo de <u>Arcana</u> no inimigo-alvo e nos alvos adjacentes. E ainda há uma <u>chance-base</u> de {3} de reduzir a DEF do inimigo-alvo e alvos adjacentes em <span style=\"color: #f29e38ff\">{4}</span>, durando por {5} rodada(s).",
+      "values": [
+        [
+          45,
+          50,
+          54,
+          59,
+          63,
+          68,
+          73,
+          79,
+          84,
+          90,
+          95,
+          99,
+          103,
+          108,
+          113
+        ],
+        [
+          100
+        ],
+        [
+          100
+        ],
+        [
+          14.8,
+          15.4,
+          16,
+          16.6,
+          17.2,
+          17.8,
+          18.6,
+          19.3,
+          20.1,
+          20.8,
+          21.4,
+          22,
+          22.6,
+          23.2,
+          23.8
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Bênção do Abraço de Outro Mundo",
+      "desc": "Inflige Epifania em todos os inimigos por {2} rodada(s).\\nOs inimigos afetados por Epifania recebem <span style=\"color: #f29e38ff\">{3}</span> a mais de Dano em suas rodadas, e seu efeito de <u>Arcana</u> é levado em conta como efeito de Cisalhamento de Vento, Sangramento, Queimadura e Choque. Além disso, quando seu efeito de <u>Arcana</u> é acionado no início da próxima rodada, os acúmulos de <u>Arcana</u> não são redefinidos. O efeito de não-redefinição de acúmulos pode ser acionado até {4} vez(es) durante o período da Epifania, e suas cargas são preenchidas quando a Epifania é aplicada novamente.\\nCausa Dano de Vento igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ da Cisne Negro em todos os inimigos.",
+      "values": [
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ],
+        [
+          2
+        ],
+        [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Capricho do Tear do Destino",
+      "desc": "Cada vez que um inimigo recebe Dano Contínuo no início de cada rodada, há uma <u>chance-base</u> de <span style=\"color: #f29e38ff\">{2}</span> dele ser afligido com <u>Arcana</u>.\\nEnquanto estiver sob efeito de <u>Arcana</u>, inimigos-alvo recebem Dano de Vento Contínuo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Cisne Negro no início de cada rodada. Cada acúmulo de <u>Arcana</u> aumenta este multiplicador de Dano Contínuo em <span style=\"color: #f29e38ff\">{3}</span>. Então, <u>Arcana</u> é redefinido para 1 acúmulo. <u>Arcana</u> pode acumular até {8} vezes.\\nApenas quando <u>Arcana</u> causa Dano no início da rodada do inimigo-alvo, Cisne Negro ativa efeitos adicionais com base no número de acúmulos de <u>Arcana</u> infligidos no alvo:\\nAo ter {4} ou mais acúmulos de <u>Arcana</u>, causa Dano de Vento Contínuo igual a <span style=\"color: #f29e38ff\">{5}</span> do ATQ de Cisne Negro aos alvos adjacentes, com uma <u>chance-base</u> de <span style=\"color: #f29e38ff\">{2}</span> de infligir 1 acúmulo de <u>Arcana</u> em alvos adjacentes.\\nQuando tiver {6} ou mais acúmulos de <u>Arcana</u>, permite que o Dano Contínuo atual causado dessa vez ignore {7} da DEF do alvo e alvos adjacentes.",
+      "values": [
+        [
+          96,
+          112,
+          128,
+          144,
+          159,
+          175,
+          190,
+          204,
+          222,
+          240,
+          252,
+          264,
+          276,
+          288,
+          300
+        ],
+        [
+          50,
+          52,
+          53,
+          55,
+          56,
+          57,
+          59,
+          61,
+          63,
+          65,
+          67,
+          68,
+          70,
+          71,
+          73
+        ],
+        [
+          4.8,
+          5.6,
+          6.4,
+          7.2,
+          8,
+          8.8,
+          9.5,
+          10.2,
+          11.1,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          3
+        ],
+        [
+          72,
+          84,
+          96,
+          108,
+          120,
+          131,
+          142,
+          153,
+          167,
+          180,
+          189,
+          198,
+          207,
+          216,
+          225
+        ],
+        [
+          7
+        ],
+        [
+          20
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[f1]%",
+        "[i]",
+        "[i]%",
+        "[i]",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "De Farsa à Verdade",
+      "desc": "Depois que esta Técnica é utilizada, existe uma <u>chance-base</u> de {1} de infligir 1 acúmulo de <u>Arcana</u> em cada inimigo no início da próxima batalha. Para cada aplicação bem-sucedida de <u>Arcana</u> em um alvo, inflige outro acúmulo de <u>Arcana</u> no mesmo alvo. Esse processo se repete até que a aplicação de <u>Arcana</u> falhe neste alvo. Para cada aplicação sucessiva de <u>Arcana</u> em um alvo, sua <u>chance-base</u> de sucesso é igual a {2} da <u>chance-base</u> da aplicação bem-sucedida anterior de <u>Arcana</u> nesse alvo.",
+      "values": [
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%"
+      ]
+    }
+  },
+  "misha": {
+    "attack": {
+      "name": "C-Com Licença, Por Favor!",
+      "desc": "Causa Dano de Gelo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Misha a um único inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "S-Serviço de Quarto",
+      "desc": "Aumenta os Golpes por Ação da próxima Perícia Suprema de Misha em {3} golpe(s). Causa Dano de Gelo igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Misha a um inimigo, e Dano de Gelo igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Misha a inimigos adjacentes a ele.",
+      "values": [
+        [
+          100,
+          110,
+          120,
+          130,
+          140,
+          150,
+          163,
+          175,
+          188,
+          200,
+          210,
+          220,
+          230,
+          240,
+          250
+        ],
+        [
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          65,
+          70,
+          75,
+          80,
+          84,
+          88,
+          92,
+          96,
+          100
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "V-Vou me Atrasar!",
+      "desc": "Possui {1} Golpes por Ação por padrão. Primeiro, usa 1 golpe para causar Dano de Gelo igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Misha a um único inimigo-alvo. Então, cada um dos golpes restantes causa Dano de Gelo igual a <span style=\"color: #f29e38ff\">{2}</span> do ATQ de Misha a um único inimigo aleatório. Logo antes do acerto de cada golpe, existe uma <u>chance-base</u> de <span style=\"color: #f29e38ff\">{3}</span> de causar Congelamento ao alvo, durando por 1 rodada.\\nEnquanto no estado de Congelamento, inimigos-alvo não podem agir, e no início de suas rodadas, eles recebem <u>Dano de Gelo Adicional</u> igual a <span style=\"color: #f29e38ff\">{4}</span> do ATQ de Misha.\\nEssa Perícia Suprema pode possuir até {5} Golpes por Ação. Depois que a Perícia Suprema é utilizada, seus Golpes por Ação serão redefinidos ao nível padrão.",
+      "values": [
+        [
+          3
+        ],
+        [
+          36,
+          38,
+          41,
+          43,
+          46,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62,
+          65,
+          67,
+          70,
+          72
+        ],
+        [
+          12,
+          12.8,
+          13.6,
+          14.4,
+          15.2,
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24
+        ],
+        [
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          26,
+          27,
+          28,
+          30,
+          31,
+          32,
+          34,
+          35,
+          36
+        ],
+        [
+          10
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Escapada Horológica",
+      "desc": "Sempre que um aliado consumir um Ponto de Perícia, a próxima Perícia Suprema de Misha desfere {2} Golpe(s) por Ação a mais e Misha regenera <span style=\"color: #f29e38ff\">{1}</span> de Energia.",
+      "values": [
+        [
+          1,
+          1.1,
+          1.2,
+          1.3,
+          1.4,
+          1.5,
+          1.6,
+          1.8,
+          1.9,
+          2,
+          2.1,
+          2.2,
+          2.3,
+          2.4,
+          2.5
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[f1]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Espere, Você É Tão Linda!",
+      "desc": "Usar a Técnica cria uma dimensão que dura por {1} segundos. Inimigos pegos na dimensão são afetados pela Prisão Onírica e todas as suas ações são interrompidas. Ao entrar em batalha contra inimigos afetados pela Prisão Onírica, a próxima Perícia Suprema de Misha causa {2} Golpe(s) por Ação a mais. Apenas uma dimensão criada por aliados pode existir ao mesmo tempo.",
+      "values": [
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
         "[i]"
       ]
     }
@@ -7565,7 +8029,7 @@
           90,
           98,
           105,
-          112,
+          113,
           122,
           131,
           141,
@@ -7590,7 +8054,7 @@
           4,
           4.3,
           4.5,
-          4.7,
+          4.8,
           5,
           5.2,
           5.4,

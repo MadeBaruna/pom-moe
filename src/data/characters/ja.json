@@ -1,7 +1,7 @@
 {
   "march-7th": {
     "id": "march-7th",
-    "name": "三月なのか",
+    "name": "{RUBY_B#みつき}三月{RUBY_E#}なのか",
     "path": "preservation",
     "element": "ice",
     "rarity": 4,
@@ -9,7 +9,7 @@
   },
   "dan-heng": {
     "id": "dan-heng",
-    "name": "丹恒",
+    "name": "{RUBY_B#タンコウ}丹恒{RUBY_E#}",
     "path": "the-hunt",
     "element": "wind",
     "rarity": 4,
@@ -17,7 +17,7 @@
   },
   "himeko": {
     "id": "himeko",
-    "name": "姫子",
+    "name": "{RUBY_B#ひめこ}姫子{RUBY_E#}",
     "path": "erudition",
     "element": "fire",
     "rarity": 5,
@@ -41,7 +41,7 @@
   },
   "silver-wolf": {
     "id": "silver-wolf",
-    "name": "銀狼",
+    "name": "{RUBY_B#ぎんろう}銀狼{RUBY_E#}",
     "path": "nihility",
     "element": "quantum",
     "rarity": 5,
@@ -169,7 +169,7 @@
   },
   "qingque": {
     "id": "qingque",
-    "name": "青雀",
+    "name": "{RUBY_B#セイジャク}青雀{RUBY_E#}",
     "path": "erudition",
     "element": "quantum",
     "rarity": 4,
@@ -177,7 +177,7 @@
   },
   "tingyun": {
     "id": "tingyun",
-    "name": "停雲",
+    "name": "{RUBY_B#テイウン}停雲{RUBY_E#}",
     "path": "harmony",
     "element": "lightning",
     "rarity": 4,
@@ -185,7 +185,7 @@
   },
   "luocha": {
     "id": "luocha",
-    "name": "羅刹",
+    "name": "{RUBY_B#ラセツ}羅刹{RUBY_E#}",
     "path": "abundance",
     "element": "imaginary",
     "rarity": 5,
@@ -193,7 +193,7 @@
   },
   "jing-yuan": {
     "id": "jing-yuan",
-    "name": "景元",
+    "name": "{RUBY_B#ケイゲン}景元{RUBY_E#}",
     "path": "erudition",
     "element": "lightning",
     "rarity": 5,
@@ -201,7 +201,7 @@
   },
   "blade": {
     "id": "blade",
-    "name": "刃",
+    "name": "{RUBY_B#ジン}刃{RUBY_E#}",
     "path": "destruction",
     "element": "wind",
     "rarity": 5,
@@ -209,7 +209,7 @@
   },
   "sushang": {
     "id": "sushang",
-    "name": "素裳",
+    "name": "{RUBY_B#スショウ}素裳{RUBY_E#}",
     "path": "the-hunt",
     "element": "physical",
     "rarity": 4,
@@ -217,7 +217,7 @@
   },
   "yukong": {
     "id": "yukong",
-    "name": "御空",
+    "name": "{RUBY_B#ギョクウ}御空{RUBY_E#}",
     "path": "harmony",
     "element": "imaginary",
     "rarity": 4,
@@ -225,7 +225,7 @@
   },
   "fu-xuan": {
     "id": "fu-xuan",
-    "name": "符玄",
+    "name": "{RUBY_B#フゲン}符玄{RUBY_E#}",
     "path": "preservation",
     "element": "quantum",
     "rarity": 5,
@@ -233,7 +233,7 @@
   },
   "yanqing": {
     "id": "yanqing",
-    "name": "彦卿",
+    "name": "{RUBY_B#ゲンキョウ}彦卿{RUBY_E#}",
     "path": "the-hunt",
     "element": "ice",
     "rarity": 5,
@@ -241,7 +241,7 @@
   },
   "guinaifen": {
     "id": "guinaifen",
-    "name": "桂乃芬",
+    "name": "{RUBY_B#ケイナイフン}桂乃芬{RUBY_E#}",
     "path": "nihility",
     "element": "fire",
     "rarity": 4,
@@ -249,7 +249,7 @@
   },
   "bailu": {
     "id": "bailu",
-    "name": "白露",
+    "name": "{RUBY_B#ビャクロ}白露{RUBY_E#}",
     "path": "abundance",
     "element": "lightning",
     "rarity": 5,
@@ -257,7 +257,7 @@
   },
   "jingliu": {
     "id": "jingliu",
-    "name": "鏡流",
+    "name": "{RUBY_B#ケイリュウ}鏡流{RUBY_E#}",
     "path": "destruction",
     "element": "ice",
     "rarity": 5,
@@ -265,7 +265,7 @@
   },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
-    "name": "丹恒・飲月",
+    "name": "{RUBY_B#タンコウ}丹恒{RUBY_E#}・{RUBY_B#インゲツ}飲月{RUBY_E#}",
     "path": "destruction",
     "element": "imaginary",
     "rarity": 5,
@@ -273,7 +273,7 @@
   },
   "xueyi": {
     "id": "xueyi",
-    "name": "雪衣",
+    "name": "{RUBY_B#セツイ}雪衣{RUBY_E#}",
     "path": "destruction",
     "element": "quantum",
     "rarity": 4,
@@ -281,7 +281,7 @@
   },
   "hanya": {
     "id": "hanya",
-    "name": "寒鴉",
+    "name": "{RUBY_B#カンア}寒鴉{RUBY_E#}",
     "path": "harmony",
     "element": "physical",
     "rarity": 4,
@@ -318,6 +318,22 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "博識学会の学者。\\n\\n変わった性格をしていて、毒舌だが立ち振る舞いはエレガントである。\\n奇異な石膏頭の下の容貌は意外にも美しい。"
+  },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "ブラックスワン",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "「ガーデン・オブ・リコレクション」のメモキーパーで、気だるげで謎めいた雰囲気の占い師。\\n他人の「記憶」に辛抱強く耳を傾け、その運命をすべて掌握している。"
+  },
+  "misha": {
+    "id": "misha",
+    "name": "ミーシャ",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "ピノコニーのホテルのドアボーイ。行儀の良い男の子。\\nナナシビトに憧れており、いつの日か旅に出ることを夢見ている。"
   },
   "trailblazer": {
     "id": "trailblazer",

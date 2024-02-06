@@ -317,7 +317,23 @@
     "path": "the-hunt",
     "element": "imaginary",
     "rarity": 5,
-    "background": "Member of the Intelligentsia Guild.\\nEccentric temperament, sharp-tongued but with an elegant demeanor.\\nThe face under the strange plaster head sculpture is apparently unexpectedly handsome."
+    "background": "Member of the Intelligentsia Guild.\\nEccentric temperament, sharp-tongued but with an elegant demeanor.\\nThe face under the strange alabaster head sculpture is apparently unexpectedly handsome."
+  },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "Black Swan",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer.\\n\"Remembrance\" of men are hers to heed, threads of fate are hers to tug."
+  },
+  "misha": {
+    "id": "misha",
+    "name": "Misha",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "A well-behaved young man serving as a hotel bellboy in Penacony.\\nMisha has a great longing for the Nameless and dreams of one day embarking on a journey of his own."
   },
   "trailblazer": {
     "id": "trailblazer",

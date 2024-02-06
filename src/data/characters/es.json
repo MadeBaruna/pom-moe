@@ -165,7 +165,7 @@
     "path": "the-hunt",
     "element": "fire",
     "rarity": 5,
-    "background": "Topaz, la experta del Departamento de Inversiones Estratégicas de la Corporación para la Paz Interastral y líder del equipo especial de fiscalización de deudas.\\nEs miembro de los Diez Corazones de Piedra desde muy joven y su especialidad es la recaudación de deudas.\\nSu compañero, un Chanchito Dimensional llamado Conti, es capaz de percibir con agudeza dónde hay riquezas, con lo que los trabajos relacionados con seguridad, cobro de deudas y procesos actuariales no suponen ningún problema.\\nActualmente, viajan juntos por el cosmos investigando diversas deudas y obligaciones que pueden afectar negativamente al desarrollo de los negocios de la Corporación."
+    "background": "Topaz, la experta del Departamento de Inversiones Estratégicas de la Corporación para la Paz Interastral y líder del equipo especial de fiscalización de deudas.\\nEs miembro de los Diez Corazones de Piedra desde muy joven y su piedra angular es el \"topacio de la recaudación de deudas\".\\nSu compañero, un Chanchito Dimensional llamado Conti, es capaz de percibir con agudeza dónde hay riquezas, con lo que los trabajos relacionados con seguridad, cobro de deudas y procesos actuariales no suponen ningún problema.\\nActualmente, viajan juntos por el cosmos investigando diversas deudas y obligaciones que pueden afectar negativamente al desarrollo de los negocios de la Corporación."
   },
   "qingque": {
     "id": "qingque",
@@ -318,6 +318,22 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "Un erudito de la Sociedad del Conocimiento.\\nTiene un temperamento peculiar y utiliza un lenguaje mordaz, pero con un estilo elegante.\\nA veces oculta su rostro bajo una extraña cabeza de yeso, aunque es muy atractivo."
+  },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "Cisne Negro",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Guardamemorias del Jardín de los Recuerdos. Es una vidente lánguida y misteriosa.\\nEscucha con paciencia los recuerdos de otras personas y tira de los hilos del destino."
+  },
+  "misha": {
+    "id": "misha",
+    "name": "Misha",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "Botones del hotel de Colonipenal. Un chico muy amable y educado.\\nSiente gran admiración por los Anónimos y sueña con embarcarse en un viaje algún día."
   },
   "trailblazer": {
     "id": "trailblazer",

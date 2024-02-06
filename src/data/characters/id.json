@@ -319,6 +319,22 @@
     "rarity": 5,
     "background": "Anggota Intelligentsia Guild.\\nMemiliki kepribadian yang eksentrik, mulut yang tajam saat berbicara namun elegan.\\nWajah yang terdapat dalam kepala gipsum itu ternyata tampan."
   },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "Black Swan",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Memokeeper dari Garden of Recollection, peramal yang pemalas dan misterius.\\nMendengarkan \"ingatan\" orang lain dengan sabar, dan segala jenis nasib ada dalam genggamannya."
+  },
+  "misha": {
+    "id": "misha",
+    "name": "Misha",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "Penjaga pintu hotel Penacony. Anak laki-laki yang baik hati dan bijaksana.\\nSangat mengagumi The Nameless, dan memiliki impian bahwa suatu hari juga bisa memulai perjalanan petualangan."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",

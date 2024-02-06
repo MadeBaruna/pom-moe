@@ -319,6 +319,22 @@
     "rarity": 5,
     "background": "Học Giả Hội Trí Thức.\\nTính tình kỳ quặc, lời lẽ khắc khe nhưng không kém phần phong độ.\\nẨn chứa bên dưới cái đầu thạch cao kỳ quái đó là một dung mạo đẹp lạ thường."
   },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "Black Swan",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Người Lưu Giữ Ký Ức của Sảnh Đường Hồi Ức, nhà chiêm tinh bí ẩn thong dong.\\nHãy kiên nhẫn lắng nghe \"ký ức\" của người khác, sẽ có thể nắm giữ vận mệnh trong tay."
+  },
+  "misha": {
+    "id": "misha",
+    "name": "Misha",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "Đứa trẻ gác cửa ở Khách Sạn Penacony, một cậu bé ngoan ngoãn hiểu chuyện.\\nÔm khát vọng dõi theo dấu chân Khách Vô Danh, mơ ước một ngày bản thân cũng có thể bước lên cuộc hành trình."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Nhà Khai Phá",

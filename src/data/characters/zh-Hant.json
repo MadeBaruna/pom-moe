@@ -319,6 +319,22 @@
     "rarity": 5,
     "background": "博識學會學者。\\n性情古怪、言辭刻薄卻又風度翩翩。\\n奇異石膏頭雕下的面容似乎出人意料地俊美。"
   },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "黑天鵝",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "流光憶庭的憶者，慵懶神秘的占卜師。\\n耐心聆聽他人「記憶」，諸般命運盡在掌握。"
+  },
+  "misha": {
+    "id": "misha",
+    "name": "米沙",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "匹諾康尼飯店的接待，乖巧懂事的小男孩。\\n對無名客抱有極大憧憬，夢想有朝一日自己也能踏上旅途。"
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "開拓者",

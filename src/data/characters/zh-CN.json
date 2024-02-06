@@ -317,7 +317,23 @@
     "path": "the-hunt",
     "element": "imaginary",
     "rarity": 5,
-    "background": "博识学会学者。\\n性情古怪、言辞刻薄却又风度偏偏。\\n奇异石膏头雕下的面容似乎出人意料的俊美。"
+    "background": "博识学会学者。\\n性情古怪、言辞刻薄却又风度翩翩。\\n奇异石膏头雕下的面容似乎出人意料的俊美。"
+  },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "黑天鹅",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "流光忆庭的忆者，慵懒神秘的占卜师。\\n耐心聆听他人「记忆」，诸般命运尽在掌握。"
+  },
+  "misha": {
+    "id": "misha",
+    "name": "米沙",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "匹诺康尼酒店的门童侍应，乖巧懂事的小男孩。\\n对无名客抱有极大憧憬，梦想有朝一日自己也能踏上旅途。"
   },
   "trailblazer": {
     "id": "trailblazer",

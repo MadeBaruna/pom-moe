@@ -37,7 +37,7 @@
     "path": "nihility",
     "element": "lightning",
     "rarity": 5,
-    "background": "「스텔라론 헌터」의 멤버, 시크하고 차분한 분위기의 오피스룩 미녀.\\n언령술을 사용해 {NICKNAME이/가 스텔라론을 흡수할 수 있도록 계책을 꾸몄다.\\n취미는 코트 구매 및 정리하기"
+    "background": "「스텔라론 헌터」의 멤버, 시크하고 차분한 분위기의 오피스룩 미녀.\\n언령술을 사용해 {NICKNAME이(가) 스텔라론을 흡수할 수 있도록 계책을 꾸몄다.\\n취미는 코트 구매 및 정리하기"
   },
   "silver-wolf": {
     "id": "silver-wolf",
@@ -318,6 +318,22 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "지식학회 학자.\\n성정이 괴팍하고 언사가 야박하지만 품위가 있다.\\n기이한 석고 마스크 아래의 용모는 의외로 준수하다"
+  },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "블랙 스완",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "기억의 정원의 기억하는 자. 나른하고 신비로운 점술가.\\n인내심을 가지고 타인의 「기억」을 경청하여 운명을 읽는다"
+  },
+  "misha": {
+    "id": "misha",
+    "name": "미샤",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "예의바른 페나코니 호텔의 벨보이.\\n무명객을 동경하며, 언젠가 자신만의 여행을 떠나는 걸 꿈꾼다"
   },
   "trailblazer": {
     "id": "trailblazer",

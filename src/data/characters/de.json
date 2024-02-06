@@ -319,6 +319,22 @@
     "rarity": 5,
     "background": "Mitglied der Intelligenzia-Gilde.\\nExzentrisches Temperament, scharfzüngig aber mit vornehmem Verhalten.\\nDas Gesicht unter der seltsamen Gipsskultur soll unerwartet hübsch sein."
   },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "Schwarzer Schwan",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Eine Wahrerin der Erinnerungen vom Garten des Gedächtnisses. Eine geheimnisvolle und elegante Wahrsagerin.\\nSie hört den Erinnerungen anderer geduldig zu, so erlangt sie die Macht über die Stränge des Schicksals."
+  },
+  "misha": {
+    "id": "misha",
+    "name": "Misha",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "Ein vernünftiger junger Mann, der als Hotelportier in Penacony arbeitet.\\nHegt große Sehnsucht für die Namenlosen und träumt davon, eines Tages selbst eine Reise anzutreten."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",

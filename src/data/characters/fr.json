@@ -319,6 +319,22 @@
     "rarity": 5,
     "background": "Membre de la Guilde de l'intelligentsia.\\nD'un tempérament excentrique, incisif, mais toujours élégant.\\nLe visage derrière l'étrange masque de plâtre ne manque pourtant pas de charmes."
   },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "Cygne noir",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "Une protectrice de la mémoire du Jardin de la mémoire. Une divinatrice insouciante et mystérieuse.\\nIl lui revient le devoir d'écouter les « Réminiscences » des hommes, il lui revient le devoir de tirer les fils du destin."
+  },
+  "misha": {
+    "id": "misha",
+    "name": "Micha",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "Un jeune homme bien élevé qui travaille comme groom à l'hôtel de Penacony.\\nMicha éprouve une grande admiration pour les Sans Noms et rêve d'entreprendre un jour son propre voyage."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Pionnier",
