@@ -7483,6 +7483,178 @@
       ]
     }
   },
+  "sparkle": {
+    "attack": {
+      "name": "Monodrama",
+      "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Sparkles ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Schlafschwimmer",
+      "desc": "Erhöht für {3} Rd. den KRIT-SCH eines anvisierten Verbündeten um <span style=\"color: #f29e38ff\">{1}</span> von Sparkles KRIT-SCH plus <span style=\"color: #f29e38ff\">{2}</span>. Zieht außerdem die Aktion des Ziels um {4} vor.\\nWenn Sparkle diese Fähigkeit an sich selbst einsetzt, wird der Aktionsvorzug nicht ausgelöst.",
+      "values": [
+        [
+          12,
+          13.2,
+          14.4,
+          15.6,
+          16.8,
+          18,
+          19.5,
+          21,
+          22.5,
+          24,
+          25.2,
+          26.4,
+          27.6,
+          28.8,
+          30
+        ],
+        [
+          27,
+          28.8,
+          30.6,
+          32.4,
+          34.2,
+          36,
+          38.3,
+          40.5,
+          42.8,
+          45,
+          46.8,
+          48.6,
+          50.4,
+          52.2,
+          54
+        ],
+        [
+          1
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Ein Leben in tausend Rollen",
+      "desc": "Stellt für alle Verbündete {2} Fertigkeitspunkt(e) wieder her und verleiht ihnen „Rätselhaft“. Jeder Verbündete mit Rätselhaft erhöht den verursachten SCH von Sparkles Talent für {4} Rd. zusätzlich um <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          2
+        ],
+        [
+          4
+        ],
+        [
+          6,
+          6.4,
+          6.8,
+          7.2,
+          7.6,
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Narrative Intrige",
+      "desc": "Wenn Sparkle auf dem Kampffeld ist, wird die max. Anzahl an Fertigkeitspunkten zusätzlich um {3} erhöht. Wenn Verbündete 1 Fertigkeitspunkt verbrauchen, wird der verursachte SCH aller Verbündeten für {1} Rd. um <span style=\"color: #f29e38ff\">{2}</span> erhöht. Dieser Effekt ist bis zu {4}-fach stapelbar.",
+      "values": [
+        [
+          2
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Unzuverlässiger Erzähler",
+      "desc": "Nach dem Einsatz der Technik erhalten alle Verbündeten für {2} Sek. den Status „Irreführung“, der sie für Gegner unsichtbar macht. Stellt beim Kampfeintritt mit Irreführung {1} Fertigkeitspunkt(e) wieder her.",
+      "values": [
+        [
+          3
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "black-swan": {
     "attack": {
       "name": "Einblick, stilles Morgengrauen",

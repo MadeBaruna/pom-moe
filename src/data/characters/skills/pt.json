@@ -7483,6 +7483,178 @@
       ]
     }
   },
+  "sparkle": {
+    "attack": {
+      "name": "Monodrama",
+      "desc": "Causa Dano Quântico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Sparkle a um único inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Mergulhadora de Sonhos",
+      "desc": "Aumenta o Dano CRIT de um único aliado em <span style=\"color: #f29e38ff\">{1}</span> do Dano CRIT de Sparkle + <span style=\"color: #f29e38ff\">{2}</span>, durando por {3} rodada(s). E ao mesmo tempo Avança Adiante a ação deste aliado em {4}.\\nQuando Sparkle usa essa habilidade em si, sua ação não será Avançada Adiante.",
+      "values": [
+        [
+          12,
+          13.2,
+          14.4,
+          15.6,
+          16.8,
+          18,
+          19.5,
+          21,
+          22.5,
+          24,
+          25.2,
+          26.4,
+          27.6,
+          28.8,
+          30
+        ],
+        [
+          27,
+          28.8,
+          30.6,
+          32.4,
+          34.2,
+          36,
+          38.3,
+          40.5,
+          42.8,
+          45,
+          46.8,
+          48.6,
+          50.4,
+          52.2,
+          54
+        ],
+        [
+          1
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "A Heroína de Mil Faces",
+      "desc": "Recupera {2} Pontos de Perícia para a equipe e concede Criptografia a todos os aliados. Quando aliados com Criptografia ativam o efeito de Bônus de Dano concedido pelo Talento de Sparkle, cada acúmulo aumenta adicionalmente seu efeito em <span style=\"color: #f29e38ff\">{3}</span>, durando por {4} rodadas.",
+      "values": [
+        [
+          2
+        ],
+        [
+          4
+        ],
+        [
+          6,
+          6.4,
+          6.8,
+          7.2,
+          7.6,
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Pista Falsa",
+      "desc": "Enquanto Sparkle estiver no campo de batalha, aumenta adicionalmente o número máximo de Pontos de Perícia em {3}. Sempre que um aliado consome 1 Ponto de Perícia, o Dano de todos os aliados será aumentado em <span style=\"color: #f29e38ff\">{2}</span>. Este efeito dura por {1} rodada(s) e pode ser acumulado até {4} veze(s).",
+      "values": [
+        [
+          2
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Narradora Nada Confiável",
+      "desc": "Usar a Técnica oferece a todos os aliados Desorientação por {2} segundos. Personagens em Desorientação não serão detectados por inimigos, e entrar em batalha enquanto estão no estado de Desorientação recupera {1} Ponto(s) de Perícia para a equipe.",
+      "values": [
+        [
+          3
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "black-swan": {
     "attack": {
       "name": "Percepção, Amanhecer Silencioso",

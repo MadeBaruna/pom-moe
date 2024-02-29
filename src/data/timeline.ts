@@ -58,9 +58,9 @@ const timeline: Array<Timeline[]> = [
 			start: '2024-02-29 12:00:00',
 			end: '2024-03-25 03:59:00',
 			image: 'Dreamjolt TV.png',
-			color: '#e6ddad',
-			pos: '0%, -25%',
-			zoom: 2,
+			color: '#d4cea5',
+			pos: '30%, -30%',
+			zoom: 1.7,
 			url: 'https://www.hoyolab.com/article/24773304',
 			timezoneDependent: true,
 			show: true
@@ -95,7 +95,7 @@ const timeline: Array<Timeline[]> = [
 			end: '2024-03-25 03:59:00',
 			image: 'Hanus Prison Break.png',
 			color: '#b1bfc4',
-			pos: '0%, -25%',
+			pos: '30%, -25%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/24773304',
 			timezoneDependent: true,
@@ -155,7 +155,7 @@ const timeline: Array<Timeline[]> = [
 		{
 			name: 'Epochal Spectrum - Dan Heng Warp Event',
 			start: '2024-02-06 06:00:00',
-			end: '2024-02-29 14:59:00',
+			end: '2024-02-29 11:59:00',
 			image: 'Epochal Spectrum 2022.jpg',
 			color: '#b0e4e5',
 			pos: '0%, 3%',
@@ -163,6 +163,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/24943079',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Swirl of Heavenly Spear - Jing Yuan Warp Event',
+			start: '2024-02-29 12:00:00',
+			end: '2024-03-26 14:59:00',
+			image: 'Swirl of Heavenly Spear 2024.jpg',
+			color: '#e4c6a2',
+			pos: '0%, 3%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/25550561',
+			show: true,
 		}
 	],
 	[
@@ -192,7 +203,7 @@ const timeline: Array<Timeline[]> = [
 		{
 			name: 'Ripples in Reflection - Black Swan Warp Event',
 			start: '2024-02-06 06:00:00',
-			end: '2024-02-29 14:59:00',
+			end: '2024-02-29 11:59:00',
 			image: 'Ripples in Reflection 2021.jpg',
 			color: '#d1b9ff',
 			pos: '0%, 0%',
@@ -200,6 +211,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/24943079',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Sparkling Splendor - Sparkle Warp Event',
+			start: '2024-02-29 12:00:00',
+			end: '2024-03-26 14:59:00',
+			image: 'Sparkling Splendor 2023.jpg',
+			color: '#5bb1e3',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/25550561',
+			show: true,
 		}
 	],
 	[
@@ -229,7 +251,7 @@ const timeline: Array<Timeline[]> = [
 		{
 			name: 'Brilliant Fixation - Light Cone Warp Event',
 			start: '2024-02-06 06:00:00',
-			end: '2024-02-29 14:59:00',
+			end: '2024-02-29 11:59:00',
 			image: 'Brilliant Fixation 3021.jpg',
 			color: '#9d8fde',
 			pos: '0%, 0%',
@@ -237,6 +259,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/24943321',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2024-02-29 12:00:00',
+			end: '2024-03-26 14:59:00',
+			image: 'Brilliant Fixation 3023.jpg',
+			color: '#80b4ff',
+			pos: '0%, 10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/25550561',
+			show: true,
 		}
 	],
 	[
@@ -266,7 +299,7 @@ const timeline: Array<Timeline[]> = [
 		{
 			name: 'Bygone Reminiscence - Light Cone Warp Event',
 			start: '2024-02-06 06:00:00',
-			end: '2024-02-29 14:59:00',
+			end: '2024-02-29 11:59:00',
 			image: 'Bygone Reminiscence 3022.jpg',
 			color: '#9fc6bb',
 			pos: '0%, -5%',
@@ -274,6 +307,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/24943321',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2024-02-29 12:00:00',
+			end: '2024-03-26 14:59:00',
+			image: 'Bygone Reminiscence 3024.jpg',
+			color: '#d7ba8a',
+			pos: '0%, 5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/25550561',
+			show: true,
 		}
 	],
 	[

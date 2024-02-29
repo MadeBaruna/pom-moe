@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Member of the Intelligentsia Guild.\\nEccentric temperament, sharp-tongued but with an elegant demeanor.\\nThe face under the strange alabaster head sculpture is apparently unexpectedly handsome."
   },
+  "sparkle": {
+    "id": "sparkle",
+    "name": "Sparkle",
+    "path": "harmony",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "A member of the Masked Fools. Inscrutable and unscrupulous.\\nA dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.\\nWealth, status, power... None of this matters to Sparkle. The only thing that can get her attention is \"amusement.\""
+  },
   "black-swan": {
     "id": "black-swan",
     "name": "Black Swan",

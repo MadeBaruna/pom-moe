@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Un erudito de la Sociedad del Conocimiento.\\nTiene un temperamento peculiar y utiliza un lenguaje mordaz, pero con un estilo elegante.\\nA veces oculta su rostro bajo una extraña cabeza de yeso, aunque es muy atractivo."
   },
+  "sparkle": {
+    "id": "sparkle",
+    "name": "Sparkle",
+    "path": "harmony",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "Una miembro de los Bufones Enmascarados inescrutable y sin escrúpulos.\\nUna peligrosa maestra de las artes dramáticas obsesionada con la actuación. Una mujer de innumerables máscaras y capaz de usar un sinfín de rostros.\\nRiqueza, estatus, poder... Nada de esto importa a Sparkle. Lo único que puede despertar su interés es la \"diversión\"."
+  },
   "black-swan": {
     "id": "black-swan",
     "name": "Cisne Negro",

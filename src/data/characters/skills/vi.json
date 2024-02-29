@@ -7483,6 +7483,178 @@
       ]
     }
   },
+  "sparkle": {
+    "attack": {
+      "name": "Hài Độc Thoại",
+      "desc": "Gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Sparkle.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Cá Nhỏ Cõi Mơ",
+      "desc": "Tăng Sát Thương Bạo Kích của 1 đồng đội chỉ định, mức tăng bằng <span style=\"color: #f29e38ff\">{1}</span> Sát Thương Bạo Kích của Sparkle +<span style=\"color: #f29e38ff\">{2}</span>, duy trì {3} hiệp, đồng thời khiến mục tiêu này ưu tiên hành động {4}.\\nKhi Sparkle thi triển kỹ năng này lên bản thân, sẽ không thể kích hoạt hiệu ứng Ưu Tiên Hành Động.",
+      "values": [
+        [
+          12,
+          13.2,
+          14.4,
+          15.6,
+          16.8,
+          18,
+          19.5,
+          21,
+          22.5,
+          24,
+          25.2,
+          26.4,
+          27.6,
+          28.8,
+          30
+        ],
+        [
+          27,
+          28.8,
+          30.6,
+          32.4,
+          34.2,
+          36,
+          38.3,
+          40.5,
+          42.8,
+          45,
+          46.8,
+          48.6,
+          50.4,
+          52.2,
+          54
+        ],
+        [
+          1
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Cô Gái Nghìn Mặt",
+      "desc": "Hồi phục {2} Điểm Chiến Kỹ cho phe ta, đồng thời khiến toàn thể phe ta nhận được Câu Đố Kỳ Dị. Khi mục tiêu phe ta có Câu Đố Kỳ Dị kích hoạt hiệu ứng Tăng Sát Thương từ Thiên Phú của Sparkle, mỗi tầng sẽ tăng thêm <span style=\"color: #f29e38ff\">{3}</span>, duy trì {4} hiệp.",
+      "values": [
+        [
+          2
+        ],
+        [
+          4
+        ],
+        [
+          6,
+          6.4,
+          6.8,
+          7.2,
+          7.6,
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Ngụy Biện Cá Trích Đỏ",
+      "desc": "Khi Sparkle trong trận, giới hạn Điểm Chiến Kỹ sẽ tăng thêm {3} điểm. Mục tiêu phe ta mỗi khi tiêu hao 1 Điểm Chiến Kỹ, sẽ tăng <span style=\"color: #f29e38ff\">{2}</span> sát thương do toàn bộ phe ta gây ra, hiệu ứng này duy trì {1} hiệp, tối đa có thể cộng dồn {4} tầng.",
+      "values": [
+        [
+          2
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Kẻ Kể Chuyện Không Đáng Tin",
+      "desc": "Sau khi dùng Bí Kỹ, toàn thể phe ta sẽ vào trạng thái Lạc Lối trong {2} giây liên tục. Ở trạng thái Lạc Lối sẽ không bị kẻ địch phát hiện. Khi vào chiến đấu trong thời gian Lạc Lối sẽ hồi {1} Điểm Chiến Kỹ cho phe ta.",
+      "values": [
+        [
+          3
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "black-swan": {
     "attack": {
       "name": "Nhìn Thấu, Bình Minh Tĩnh Lặng",

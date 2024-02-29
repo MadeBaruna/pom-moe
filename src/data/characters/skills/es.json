@@ -7483,6 +7483,178 @@
       ]
     }
   },
+  "sparkle": {
+    "attack": {
+      "name": "Espectáculo en solitario",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Sparkle como Daño Cuántico a un enemigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Pez de los sueños",
+      "desc": "Aumenta el Daño CRIT de un aliado en un valor equivalente al <span style=\"color: #f29e38ff\">{1}</span> del Daño CRIT de Sparkle + <span style=\"color: #f29e38ff\">{2}</span> durante {3} turno y adelanta la acción de ese aliado en un {4}.\\nSi Sparkle usa esta habilidad consigo misma, no adelanta su acción.",
+      "values": [
+        [
+          12,
+          13.2,
+          14.4,
+          15.6,
+          16.8,
+          18,
+          19.5,
+          21,
+          22.5,
+          24,
+          25.2,
+          26.4,
+          27.6,
+          28.8,
+          30
+        ],
+        [
+          27,
+          28.8,
+          30.6,
+          32.4,
+          34.2,
+          36,
+          38.3,
+          40.5,
+          42.8,
+          45,
+          46.8,
+          48.6,
+          50.4,
+          52.2,
+          54
+        ],
+        [
+          1
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Heroína de mil caras",
+      "desc": "Recupera {2} pts. de habilidad básica para el equipo y otorga Adivinanza a todos los aliados. Cuando un aliado con Adivinanza activa el efecto de aumento de daño del talento de Sparkle, este aumento se incrementa de forma adicional en un <span style=\"color: #f29e38ff\">{3}</span> por cada acumulación durante {4} turnos.",
+      "values": [
+        [
+          2
+        ],
+        [
+          4
+        ],
+        [
+          6,
+          6.4,
+          6.8,
+          7.2,
+          7.6,
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Truco narrativo",
+      "desc": "Cuando Sparkle está en el campo de batalla, el límite de pts. de habilidad básica aumenta en {3}. Cuando un aliado consume 1 pt. de habilidad básica, el daño de todos los aliados aumenta en un <span style=\"color: #f29e38ff\">{2}</span> durante {1} turnos. Se puede acumular hasta {4} veces.",
+      "values": [
+        [
+          2
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Narradora poco fiable",
+      "desc": "Tras usar la técnica, todos los aliados obtienen Despiste durante {2} s. Los aliados con Despiste no pueden ser detectados por los enemigos. Al entrar en combate mientras dura Despiste, el equipo recupera {1} pts. de habilidad básica.",
+      "values": [
+        [
+          3
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "black-swan": {
     "attack": {
       "name": "Discernimiento, alba silenciosa",

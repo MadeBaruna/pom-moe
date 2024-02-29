@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Membre de la Guilde de l'intelligentsia.\\nD'un tempérament excentrique, incisif, mais toujours élégant.\\nLe visage derrière l'étrange masque de plâtre ne manque pourtant pas de charmes."
   },
+  "sparkle": {
+    "id": "sparkle",
+    "name": "Sparkle",
+    "path": "harmony",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "Membre des Fous masqués insaisissable et sans scrupules.\\nUne dangereuse spécialiste dans l'art du théâtre, accro au jeu d'acteur. Portant d'innombrables masques, elle est le personnage aux mille visages.\\nLa richesse, le statut, le pouvoir... rien de tout cela n'a d'importance pour Sparkle. La seule chose qui la pousse à agir, c'est le « jeu »."
+  },
   "black-swan": {
     "id": "black-swan",
     "name": "Cygne noir",

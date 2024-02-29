@@ -7483,6 +7483,178 @@
       ]
     }
   },
+  "sparkle": {
+    "attack": {
+      "name": "Monodrama",
+      "desc": "Deals Quantum DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Sparkle's ATK to a single target enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Dreamdiver",
+      "desc": "Increases the CRIT DMG of a single ally by <span style=\"color: #f29e38ff\">{1}</span> of Sparkle's CRIT DMG plus <span style=\"color: #f29e38ff\">{2}</span>, lasting for {3} turn(s). And at the same time, Advances Forward this ally's action by {4}.\\nWhen Sparkle uses this ability on herself, the Action Advance effect will not trigger.",
+      "values": [
+        [
+          12,
+          13.2,
+          14.4,
+          15.6,
+          16.8,
+          18,
+          19.5,
+          21,
+          22.5,
+          24,
+          25.2,
+          26.4,
+          27.6,
+          28.8,
+          30
+        ],
+        [
+          27,
+          28.8,
+          30.6,
+          32.4,
+          34.2,
+          36,
+          38.3,
+          40.5,
+          42.8,
+          45,
+          46.8,
+          48.6,
+          50.4,
+          52.2,
+          54
+        ],
+        [
+          1
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "The Hero with a Thousand Faces",
+      "desc": "Recovers {2} Skill Points for the team and grants all allies Cipher. When allies with Cipher trigger the DMG Boost effect provided by Sparkle's Talent, each stack additionally increases its effect by <span style=\"color: #f29e38ff\">{3}</span>, lasting for {4} turns.",
+      "values": [
+        [
+          2
+        ],
+        [
+          4
+        ],
+        [
+          6,
+          6.4,
+          6.8,
+          7.2,
+          7.6,
+          8,
+          8.5,
+          9,
+          9.5,
+          10,
+          10.4,
+          10.8,
+          11.2,
+          11.6,
+          12
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "",
+        "[i]",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Red Herring",
+      "desc": "While Sparkle is on the battlefield, additionally increases the max number of Skill Points by {3}. Whenever an ally consumes 1 Skill Point, all allies' DMG increases by <span style=\"color: #f29e38ff\">{2}</span>. This effect lasts for {1} turn(s) and can stack up to {4} time(s).",
+      "values": [
+        [
+          2
+        ],
+        [
+          3,
+          3.3,
+          3.6,
+          3.9,
+          4.2,
+          4.5,
+          4.9,
+          5.3,
+          5.6,
+          6,
+          6.3,
+          6.6,
+          6.9,
+          7.2,
+          7.5
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[f1]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Unreliable Narrator",
+      "desc": "Using the Technique grants all allies Misdirect for {2} seconds. Characters with Misdirect will not be detected by enemies, and entering battle in the Misdirect state recovers {1} Skill Point(s) for the team.",
+      "values": [
+        [
+          3
+        ],
+        [
+          20
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "black-swan": {
     "attack": {
       "name": "Percipience, Silent Dawn",

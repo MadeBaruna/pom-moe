@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Anggota Intelligentsia Guild.\\nMemiliki kepribadian yang eksentrik, mulut yang tajam saat berbicara namun elegan.\\nWajah yang terdapat dalam kepala gipsum itu ternyata tampan."
   },
+  "sparkle": {
+    "id": "sparkle",
+    "name": "Sparkle",
+    "path": "harmony",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "Salah satu anggota \"Masked Fool\" yang sulit diprediksi dan selalu menghalalkan segala cara untuk mencapai tujuannya.\\nMaestro drama yang berbahaya, terobsesi dengan akting, memakai ribuan topeng dan dapat berubah menjadi ribuan wajah.\\nHarta, takhta, kuasa ... Bagi Sparkle, semua itu tidak penting. Yang bisa membuatnya bertindak hanyalah \"keseruan\"."
+  },
   "black-swan": {
     "id": "black-swan",
     "name": "Black Swan",

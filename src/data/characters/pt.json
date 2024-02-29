@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Membro da Guilda de Intelectuais.\\nTem um temperamento excêntrico, uma língua afiada e uma aparência elegante.\\nO rosto por baixo da estranha escultura de alabastro é inesperadamente belo."
   },
+  "sparkle": {
+    "id": "sparkle",
+    "name": "Sparkle",
+    "path": "harmony",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "Uma membro dos Tolos Mascarados. Indecifrável e inescrupulosa.\\nUma perigosa mestra das teatralidades, totalmente absorta na arte da apresentação. Adornada com inúmeras máscaras, ela é a heroína de mil faces.\\nRiqueza, status, poder... Nada disso importa para Sparkle. A única coisa que chama a atenção dela é a \"diversão\"."
+  },
   "black-swan": {
     "id": "black-swan",
     "name": "Cisne Negro",

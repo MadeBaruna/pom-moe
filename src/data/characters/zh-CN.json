@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "博识学会学者。\\n性情古怪、言辞刻薄却又风度翩翩。\\n奇异石膏头雕下的面容似乎出人意料的俊美。"
   },
+  "sparkle": {
+    "id": "sparkle",
+    "name": "花火",
+    "path": "harmony",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "「假面愚者」的成员之一，难以捉摸，不择手段。\\n危险的戏剧大师，沉迷于扮演，身怀千张假面，能化万种面相。\\n财富、地位、权利…于花火而言都不重要，能让她出手的，唯有「乐趣」。"
+  },
   "black-swan": {
     "id": "black-swan",
     "name": "黑天鹅",

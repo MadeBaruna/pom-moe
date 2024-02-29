@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Mitglied der Intelligenzia-Gilde.\\nExzentrisches Temperament, scharfzüngig aber mit vornehmem Verhalten.\\nDas Gesicht unter der seltsamen Gipsskultur soll unerwartet hübsch sein."
   },
+  "sparkle": {
+    "id": "sparkle",
+    "name": "Sparkle",
+    "path": "harmony",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "Ein Mitglied der Maskierten Narren. Skrupellos und unberechenbar.\\nEine gefährliche Theaterkünstlerin, die es liebt, in verschiedene Rollen zu schlüpfen. Eine Frau mit unzähligen Masken und der Fähigkeit, unendlich viele Charaktere zu verkörpern.\\nReichtum, Status, Macht ... Nichts davon ist für Sparkle wichtig. Das Einzige, was ihr Interesse wecken kann, ist die „Unterhaltung“."
+  },
   "black-swan": {
     "id": "black-swan",
     "name": "Schwarzer Schwan",

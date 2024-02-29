@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Học Giả Hội Trí Thức.\\nTính tình kỳ quặc, lời lẽ khắc khe nhưng không kém phần phong độ.\\nẨn chứa bên dưới cái đầu thạch cao kỳ quái đó là một dung mạo đẹp lạ thường."
   },
+  "sparkle": {
+    "id": "sparkle",
+    "name": "Sparkle",
+    "path": "harmony",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "Một trong các thành viên của \"Kẻ Ngốc Đeo Mặt Nạ\", khó đoán, bất chấp thủ đoạn.\\nMột bậc thầy sân khấu nguy hiểm, nghiện diễn xuất, lúc nào cũng đeo cả ngàn chiếc mặt nạ, có thể hóa thân thành hàng vạn diện mạo khác nhau.\\nCủa cải, địa vị, quyền lợi... đối với Sparkle đều không quan trọng. Điều duy nhất khiến cô hành động, chỉ có mỗi \"niềm vui\"."
+  },
   "black-swan": {
     "id": "black-swan",
     "name": "Black Swan",
