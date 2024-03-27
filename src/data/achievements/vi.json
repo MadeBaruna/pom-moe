@@ -431,6 +431,34 @@
         "desc": "Cả Penacony sẽ điên đảo vì điều này...\\n<color=#8790abff>※Chứng kiến vụ án mạng thứ hai</color>",
         "rarity": 2,
         "version": "2.0"
+      },
+      {
+        "id": 4033007,
+        "name": "\"Sibyl, Cô Muốn Gì?\"",
+        "desc": "Vận may sẽ dẫn dắt con bạc đi về đâu?\\n<color=#8790abff>※Chứng kiến cuộc đời của \"Kakavasha\"</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033009,
+        "name": "Một Giọt Rượu Mạnh",
+        "desc": "Gửi lời chào đến giấc mộng đẹp và người đang nằm mộng!\\n<color=#8790abff>※Nhận được Thức Uống Đặc Biệt của Gallagher</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033010,
+        "name": "Cô Ấy Trả Lời, Tôi Muốn Chết",
+        "desc": "Thưởng thức tiết mục hạ màn long trọng tại vị trí tốt nhất\\n<color=#8790abff>※Đánh bại Aventurine - một trong \"10 Người Có Trái Tim Đá\"</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033011,
+        "name": "Gửi Đến Icarus",
+        "desc": "Nghe lại chuyện xưa ở nơi đất khách\\n<color=#8790abff>※Lắng nghe cuộc nói chuyện giữa Acheron và Welt</color>",
+        "rarity": 2,
+        "version": "2.1"
       }
     ]
   },
@@ -818,28 +846,28 @@
       {
         "id": 4043010,
         "name": "Fly Me to the Balloon",
-        "desc": "Phá vỡ Bong Bóng Ngài Đá đặc biệt trong Thời Khắc Hoàng Kim",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Thời Khắc Hoàng Kim",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043011,
         "name": "Trường Học Bong Bóng 2",
-        "desc": "Phá vỡ Bong Bóng Ngài Đá đặc biệt trong Ranh Giới Xây Mộng",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Ranh Giới Xây Mộng",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043012,
         "name": "Bong Bóng 3",
-        "desc": "Phá vỡ Bong Bóng Ngài Đá đặc biệt trong Giấc Mơ Trẻ Thơ",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Giấc Mơ Trẻ Thơ",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043013,
         "name": "Bong Bóng: Penacony",
-        "desc": "Phá vỡ Bong Bóng Ngài Đá đặc biệt trong Khách Sạn Mộng Mơ - Cõi Mộng",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Khách Sạn Mộng Mơ - Cõi Mộng",
         "rarity": 1,
         "version": "2.0"
       },
@@ -898,6 +926,111 @@
         "desc": "Thu thập 15 Tài Liệu từ Penacony",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4043022,
+        "name": "Ở Nhà Một Mình",
+        "desc": "Tham gia 1 Cuộc Phiêu Lưu Của Hanu, đánh bại 3 Tay Sai Ông Chủ Đá trong 1 lần",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043023,
+        "name": "Phản Bong Bóng",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Khu Vui Chơi Clock Studios",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043024,
+        "name": "Câu Chuyện Thành Phố Trong Mơ",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Dinh Thự Sương Mai",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043025,
+        "name": "Xe An Toàn",
+        "desc": "Trong chế độ bất kỳ của Ngoại Truyện Cậu Bé Đồng Hồ, hoàn thành việc chụp ảnh mà không bị thương",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043026,
+        "name": "Đường Đua Không Đạt Chuẩn",
+        "desc": "Trong chế độ bất kỳ của Ngoại Truyện Cậu Bé Đồng Hồ, liên tục dừng lại giữa đường ray #1 giây",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043027,
+        "name": "Pole To Win",
+        "desc": "Trong chế độ bất kỳ của Ngoại Truyện Cậu Bé Đồng Hồ, một lần nữa tích lũy đầy năng lượng trong thời gian duy trì \"Xung Kích Quả Hạch\" hoặc \"Thời Gian Hanu\"",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043028,
+        "name": "Người Hưởng Lợi Lớn Nhất DRS",
+        "desc": "Trong \"Tốc Độ Và Quả Hạch\" của Ngoại Truyện Cậu Bé Đồng Hồ, liên tục hoàn thành 10 lần \"Siêu Xe Cực Hạn\" mà không bị gián đoạn",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043029,
+        "name": "Đường Giảm Tốc Địa Ngục",
+        "desc": "Trong \"Con Đường Của Sói\" của Ngoại Truyện Cậu Bé Đồng Hồ, tiêu diệt tất cả kẻ địch xuất hiện",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043030,
+        "name": "Thị Trấn Mộng Ảo, Thiên Đường Oak!",
+        "desc": "Lần đầu vào Sa Bàn thu nhỏ của Dinh Thự Sương Mai",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043031,
+        "name": "Công Nghiệp Hóa Xây Mộng",
+        "desc": "Hoàn thành khiêu chiến Khách Mộng Dạo Bước ở Dinh Thự Sương Mai để kiếm thêm thu nhập",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043032,
+        "name": "Lửa Thử Vàng",
+        "desc": "Sau khi biến thành Người Anh Em Hanu, lần đầu dùng \"Đạn Hanu\" đánh bại Tay Sai Ông Chủ Đá",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043033,
+        "name": "Đường Về Cùng Sói",
+        "desc": "Thu thập trọn bộ \"Cuộc Phiêu Lưu Của Hanu - Phần 2\"",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043034,
+        "name": "Hỏa Lực Toàn Diện",
+        "desc": "Trong Cuộc Phiêu Lưu Của Hanu, đạn dược của \"Đạn Hanu\" đạt giới hạn",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043035,
+        "name": "Bữa Tiệc Bí Mật",
+        "desc": "Phát hiện khu vực ẩn trong Khu Vui Chơi Clock Studios thông qua Bi Bong Bóng",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043036,
+        "name": "\"Pac-Man\"",
+        "desc": "Phá vỡ tất cả Vật Có Thể Phá Hủy trong Vườn Hoa Mê Cung của Khu Vui Chơi Clock Studios",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -2499,6 +2632,125 @@
         "desc": "Khi mọi người đều nhận được tiền, đồng nghĩa với việc không ai thật sự nhận được tiền\\n<color=#8790abff>※Kích hoạt nhiều lần Máy Phun Tiền trên đường</color>",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4053054,
+        "name": "Tỷ Lệ Lên Xe: 0",
+        "desc": "Khiến Xe Bay Ánh Sáng mất đi người hâm mộ",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053055,
+        "name": "Chim, Nghệ Thuật, Cuộc Đời",
+        "desc": "Trở thành bậc thầy ngắm chim trong Dinh Thự Sương Mai",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053056,
+        "name": "Vì Những Thứ Tốt Đẹp Hơn",
+        "desc": "Nhận được toàn bộ #1 quà lưu niệm Cậu Bé Đồng Hồ",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053057,
+        "name": "Nhà Nhỏ Trong Rừng",
+        "desc": "Chứng kiến trải nghiệm ly kỳ của nhóm 5 người ở một nơi nào đó trong Khu Vui Chơi Clock Studios",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053058,
+        "name": "Chứng Minh Và Bác Bỏ",
+        "desc": "Trong lúc trò chuyện, mua hàng từ chủ xe bán đồ ăn với giá cao",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053059,
+        "name": "Một Khúc Biến Tấu Mang Tên \"Tôi\"",
+        "desc": "Làm quen với một \"thám tử\" có thân hình kỳ lạ trong Khu Vui Chơi Clock Studios",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053060,
+        "name": "Cô Gái Áo Vàng",
+        "desc": "Điều tra bức chân dung của một nghệ sĩ nổi tiếng nào đó trong Dinh Thự Sương Mai",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053061,
+        "name": "Vua Chiến Tranh",
+        "desc": "Đưa Oksana ra trước pháp luật",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053062,
+        "name": "Phát Hiện Lương Tâm, 10 Năm Không Muộn",
+        "desc": "Tố cáo Oksana với Bloodhound",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053063,
+        "name": "Bằng Chứng Sỉ Nhục",
+        "desc": "Thả Oksana đi",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053064,
+        "name": "Nhân Vật Lớn!",
+        "desc": "Để lại thức uống pha chế đặc biệt của riêng bạn tại \"Quán Bar Ác Mộng\"",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4053065,
+        "name": "Mộng Đẹp Hạnh Phúc Sẽ Đến Ngay",
+        "desc": "Giúp đỡ tất cả quái vật trong Quán Bar Ác Mộng giải quyết phiền muộn về cảm xúc",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053066,
+        "name": "Ai Cũng Có Đồ Uống Riêng",
+        "desc": "Đưa thức uống chính xác cho khách #1 lần",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053067,
+        "name": "Omakase",
+        "desc": "Đưa thức uống không đúng cho khách #1 lần",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053068,
+        "name": "Hành Động Bartender Giấc Mơ Công Nghệ Cao",
+        "desc": "Hoàn thành tất cả Suy Luận Công Thức trong Quán Bar Ác Mộng",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053070,
+        "name": "Ảnh Gia Đình",
+        "desc": "Chụp 1 bức ảnh gia đình của Đội Tàu Astral ở bảng chụp ảnh trong Khu Vui Chơi Clock Studios",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053071,
+        "name": "Check-in Khu Vui Chơi",
+        "desc": "Chụp 1 tấm ảnh chụp chung ở bảng chụp ảnh trong Khu Vui Chơi Clock Studios",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -3566,6 +3818,62 @@
         "desc": "Trong chiến đấu với \"Thợ Săn Stellaron\" Sam, dùng Điểm Chiến Kỹ Thiêu Đốt khiến HP của #1 nhân vật phe ta dưới #2%",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4073011,
+        "name": "Sugoroku",
+        "desc": "Khi chiến đấu với Aventurine Gian Trá - một trong \"10 Người Có Trái Tim Đá\", trong 1 lần tấn công khiến ít nhất #1 \"Được Ăn Cả, Ngã Về Không\" đồng thời ném ra #2 điểm",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073012,
+        "name": "Tất Cả Người Của Tôi",
+        "desc": "Khi chiến đấu với Aventurine Gian Trá - một trong \"10 Người Có Trái Tim Đá\", #1 nhân vật trong đội thắng tất cả trong cùng 1 ván cược",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073013,
+        "name": "Nữ Thần Tuyết Tu La",
+        "desc": "Trong 1 trận đấu, dùng Tuyệt Kỹ \"Giấc Mộng Tàn Khuyết, Một Chém Đoạn Tuyệt\" của Acheron tiêu diệt tất cả kẻ địch và giành chiến thắng",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073014,
+        "name": "Cướp Mù",
+        "desc": "Trong 1 trận đấu, khi \"Cược Mù\" bằng #1, dùng Tuyệt Kỹ \"Chúa Tể Vòng Quay\" của Aventurine nhận được #2 điểm \"Cược Mù\"",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073015,
+        "name": "Hạ Hỏa",
+        "desc": "Xóa sạch \"Lửa Vô Minh\" đầy tầng của Meme Vùng Hồi Ức - \"Lớp Vỏ Của Cơn Giận Kìm Nén\" trong 1 lần phá vỡ điểm yếu",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073016,
+        "name": "Lấy Độc Trị Độc",
+        "desc": "Trong 1 trận đấu, đánh bại Meme Vùng Hồi Ức - \"Lớp Vỏ Của Cơn Giận Kìm Nén\" mà không gây Phá Vỡ Điểm Yếu",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073017,
+        "name": "Đánh Giá Hiệu Suất",
+        "desc": "Dùng Aventurine phe ta để ra đòn chiến thắng cuối cùng khi đấu với Nhân Viên Thâm Niên - Tổ Trưởng",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4083009,
+        "name": "Thiên Trảm Vô Trảm",
+        "desc": "Trong khi thám hiểm, dùng Bí Kỹ \"Tứ Tướng Đoạn Ngã\" của Acheron liên tục tiêu diệt #1 kẻ địch",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4075,6 +4383,13 @@
         "desc": "Trong chi viện dùng Dr. Ratio tham gia #1 trận đấu",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4083010,
+        "name": "Sao Chim Giấy Lại To Vậy?",
+        "desc": "Kéo chú Chim Giấy Siêu To ở Dinh Thự Sương Mai",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4523,25 +4838,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092902,
-        "name": "Cơ Hội Gặp Aeon",
-        "desc": "Trong Vũ Trụ Mô Phỏng, tích lũy mở khóa 1 Chúc Phúc vận mệnh Tri Thức",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092602,
         "name": "Chuyến Săn Bắn Thu Đông",
         "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, dùng vận mệnh \"Săn Bắn\" chiến đấu bắt được 8 Heo Đất trở lên trong 1 Vị Diện",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092903,
-        "name": "Ohmmessiah",
-        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Chúc Phúc Vận Mệnh \"Tri Thức\" mang theo lớn hơn hoặc bằng 10",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092603,
@@ -4551,25 +4852,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092904,
-        "name": "Định Lý Bốn Màu",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, tích lũy kèm theo hiệu ứng Tri Thức cho 200 khu vực",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092604,
         "name": "Chiến Sĩ Thiện Chiến",
         "desc": "Khi dùng vận mệnh \"Hủy Diệt\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, chiến thắng 40 trận",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092905,
-        "name": "Khoảnh Khắc Giữa Ngày Và Đêm",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, tích lũy xem 10 lần cốt truyện đề cử",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092605,
@@ -4579,25 +4866,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092906,
-        "name": "Bùng Nổ Trí Tuệ",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, Tự Nhận Thức đạt đến 40",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092606,
         "name": "Vũ Trụ Mô Phỏng Không Chỉ Xây Trong 1 Ngày",
         "desc": "Khi dùng vận mệnh \"Bảo Hộ\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, đính kèm \"Đá Tảng\" lên 8 Khu Vực khác loại",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092907,
-        "name": "U Ám Tinh Thần",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, Tự Nhận Thức đạt -40",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092607,
@@ -4607,25 +4880,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092909,
-        "name": "Tâm Lý Đám Đông",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, tích lũy hoàn thành 50 lần thay đổi Tự Nhận Thức",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092608,
         "name": "Trở Về Klendathu",
         "desc": "Khi dùng vận mệnh \"Sinh Sôi\" vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, vào khu vực Chiến Đấu - Đàn Côn Trùng, Sự Kiện - Đàn Côn Trùng hoặc Thủ Lĩnh - Đàn Côn Trùng 15 lần",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092910,
-        "name": "Sói Nơi Phố Tường",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, đầu tư thành công trong sự kiện Cỗ Máy Đầu Tư Hành Tinh Hòa Bình",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -4635,25 +4894,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092911,
-        "name": "Châu Thái Bình Vẫn Là Châu Thái Bình",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, thất bại trong trận đấu kích hoạt bởi sự kiện Mã Cheat 2",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092610,
         "name": "Đá Bay Trong Mưa, Cái Chết Ắt Đến",
         "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Săn Bắn 100 lần",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092912,
-        "name": "Nhân Viên Cấp D",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, tăng cấp Vật Thể Lạ 1 lần trong sự kiện Cửa Hàng Chi Nhánh Máy Móc Hành Tinh Hòa Bình 2",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -4663,25 +4908,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092913,
-        "name": "Chuông Báo Tử Của Leibowitz",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Chiến Đấu\" đánh thắng 25 lần trở lên",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092612,
         "name": "Thế Giới Biểu Tượng",
         "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Hư Vô 100 lần",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092914,
-        "name": "Tau Zero",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Sự Kiện\", hoàn thành tương tác sự kiện 20 lần trở lên",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -4691,25 +4922,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092915,
-        "name": "Vị Diện Biến Hóa",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Đuổi Bắt\", liên tục vào không dưới 5 khu vực không liền kề",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092614,
         "name": "Cơ Duyên Gặp Gỡ",
         "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Trù Phú 100 lần",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092916,
-        "name": "Lừa Đảo Lãng Mạn",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Heo Đất\" đánh bại 15 Heo Đất trở lên trong trận đấu.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -4719,25 +4936,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092917,
-        "name": "Người Quản Lý Cảng Sao",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Hành Giả Cộng Sinh\", vào không dưới 15 khu vực có Máy Phát Liên Kết",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092616,
         "name": "Đứa Con Nhà Methuselah",
         "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tích lũy ném Xúc Xắc Gặp Gỡ - Sinh Sôi 100 lần",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092918,
-        "name": "Đến Ga Cuối Cùng",
-        "desc": "Sử dụng Xúc Xắc Tùy Chỉnh \"Máy Phát Siêu Cự Ly\" khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, những khu vực đã bước vào bao gồm tất cả các Máy Phát Liên Kết khác loại",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -4747,25 +4950,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092919,
-        "name": "Kẻ Bán Mặt Trăng",
-        "desc": "Sử dụng Xúc Xắc Tùy Chỉnh \"Đầu Tư Bán Ra\" khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, và có từ 2048 Mảnh Vũ Trụ trở lên",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092618,
         "name": "Với Tay Hái Sao Trời",
         "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, sự kiện Công Ty Hành Tinh Hòa Bình \"Nhật Ký Thăng Chức\", <u>nắm giữ quyền lực vô tận</u>",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092920,
-        "name": "Thành Viên Hội Đồng Quản Trị Halcyon",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Bình Phong Hổ Phách\", kèm theo hiệu ứng Tri Thức cho 30 khu vực trở lên",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092619,
@@ -4775,25 +4964,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092921,
-        "name": "Đủ Thời Gian Cho Bạn Chơi",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Đếm Ngược\" với số điểm đếm ngược lớn hơn hoặc bằng 30",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092620,
         "name": "Chào Mừng Đến Với Valhalla",
         "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, chiến đấu thất bại trong sự kiện do Câu Lạc Bộ Thiên Tài #55 Yu Qingtu kích hoạt",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092922,
-        "name": "Cửa Hàng Kỳ Tích Mặt Trăng",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Thời Khắc Công Ty\", mua 20 vật phẩm trở lên trong Cửa Hàng Chúc Phúc, Cửa Hàng Vật Thể Lạ, Cửa Hàng Cường Hóa",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092621,
@@ -4803,25 +4978,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092923,
-        "name": "Thương Nhân Và Cánh Cổng Của Thuật Sĩ Giả Kim",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng tối thiểu 25 lần ném lại hoặc cheat trong khi sử dụng Xúc Xắc Tùy Chỉnh \"Dữ Liệu Lan Tràn\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092622,
         "name": "Nông Trại Vui Vẻ",
         "desc": "Trong 1 khu vực \"Thám Hiểm\" của Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, số Heo Đất bắt được lớn hơn hoặc bằng 16",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092924,
-        "name": "Kho Báu Của Herta",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Vật Thể Lạ\", sở hữu 30 Vật Thể Lạ trở lên",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -4831,25 +4992,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092925,
-        "name": "Ta Là Alpha",
-        "desc": "Thu thập \"Khởi Đầu\" Bí Mật Aeon Của Vàng Và Máy Móc",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092624,
         "name": "Nhóm Đơn Ca",
         "desc": "Trong 1 lần Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, phát sinh 2 lần Tiếng Vọng Giao Thoa",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092926,
-        "name": "Ta Là Omega",
-        "desc": "Thu thập \"Kết Cục\" Bí Mật Aeon Của Vàng Và Máy Móc",
-        "rarity": 2,
-        "version": "1.6"
       },
       {
         "id": 4092625,
@@ -4859,25 +5006,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092927,
-        "name": "Xúc Xắc 60 Mặt",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc mở khóa 60 Mặt Xúc Xắc",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092626,
         "name": "Vòng Quay Vận Mệnh",
         "desc": "Trong khu vực \"Sự Kiện\" của Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, hoàn thành tất cả chọn lựa Vận Mệnh",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092928,
-        "name": "Vận Mệnh Xoay Chuyển",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc mở khóa tất cả 12 Xúc Xắc Tùy Chỉnh",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -4887,25 +5020,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092929,
-        "name": "Ngày Tận Thế Cấp XK",
-        "desc": "Hoàn thành Vũ Trụ Mô Phỏng: Vàng Và Máy Móc độ khó V",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092628,
         "name": "Về Đến Tương Lai",
         "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng tích lũy sử dụng 50 lần ném lại",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092930,
-        "name": "Thăng Thiên Cơ Học",
-        "desc": "Kích hoạt Thần Kinh thứ 1 trong Mạng Lưới Thần Kinh của Vũ Trụ Mô Phỏng: Vàng Và Máy Móc",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092629,
@@ -4915,25 +5034,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092931,
-        "name": "Người Khổng Lồ: Kế Hoạch Khủng Bố",
-        "desc": "Trong độ khó Giày Vò, vượt ải \"Vũ Trụ Mô Phỏng: Vàng Và Máy Móc\" khi cấp Nan Đề Thuộc Tính lớn hơn hoặc bằng 6",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092630,
         "name": "Cưỡi Trên Sao Chổi",
         "desc": "Trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, tại khu vực \"Thám Hiểm\" ngẫu nhiên đạt được tất cả mục tiêu",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092932,
-        "name": "Khủng Hoảng Kẹo Cao Su",
-        "desc": "Trong độ khó Giày Vò, vượt ải \"Vũ Trụ Mô Phỏng: Vàng Và Máy Móc\" khi cấp Nan Đề Tăng Thêm lớn hơn hoặc bằng 6",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092631,
@@ -4943,25 +5048,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092933,
-        "name": "Biển Gỉ Sắt",
-        "desc": "Trong độ khó Giày Vò, vượt ải \"Vũ Trụ Mô Phỏng: Vàng Và Máy Móc\" khi cấp Nan Đề lớn hơn hoặc bằng 12",
-        "rarity": 2,
-        "version": "1.6"
-      },
-      {
         "id": 4092632,
         "name": "Máy Trung Chuyển Chất Lượng",
         "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng, \"Cấp Rối Loạn\" của \"Vị Diện Rối Loạn!\" lớn hơn hoặc bằng cấp 20",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092934,
-        "name": "Chìa Khóa Không Gian Xưa Cũ",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, \"Cấp Rối Loạn\" của \"Vị Diện Rối Loạn!\" lớn hơn hoặc bằng cấp 20",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092636,
@@ -4971,25 +5062,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092935,
-        "name": "Vị Vua Nguyền Rủa",
-        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, sở hữu 10 Vật Thể Lạ hiệu ứng xấu trở lên",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092637,
         "name": "Khách Tha Hương",
         "desc": "Thu thập toàn bộ cốt truyện Bí Mật Khai Phá trong Vũ Trụ Mô Phỏng: Thảm Họa Đàn Côn Trùng",
         "rarity": 2,
         "version": "1.3"
-      },
-      {
-        "id": 4092936,
-        "name": "Phân Phối Chuẩn",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, liên tục đổ ra 6 mặt xúc xắc khác nhau trên cùng 1 Thiết Bị Gặp Gỡ",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -4999,25 +5076,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092937,
-        "name": "Nhạc Blues Sầu Muộn",
-        "desc": "Trang bị 6 mặt xúc xắc phẩm chất Lam (độ khó III trở lên) khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092639,
         "name": "Diệt Trừ Nạn Côn Trùng",
         "desc": "Thu thập chương \"Săn Bắn I\" của Thảm Họa Đàn Côn Trùng",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092938,
-        "name": "Tất Cả Được Trông Nom Bởi Cỗ Máy Yêu Thương",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, gặp phải Suy Diễn Tiếng Vọng 10 lần trở lên trong 1 trận đấu",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -5027,18 +5090,270 @@
         "version": "1.3"
       },
       {
-        "id": 4092939,
-        "name": "Vòng Quay Vận Mệnh",
-        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, đạt giải nhất 1 lần trong \"Khiêu Chiến La Bàn May Mắn\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092641,
         "name": "Hãy Nhìn Người Này",
         "desc": "Thu thập chương \"Hư Vô I\" của Thảm Họa Đàn Côn Trùng",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092902,
+        "name": "Cơ Hội Gặp Aeon",
+        "desc": "Trong Vũ Trụ Mô Phỏng, tích lũy mở khóa 1 Chúc Phúc vận mệnh Tri Thức",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092903,
+        "name": "Ohmmessiah",
+        "desc": "Khi vượt ải \"Vũ Trụ Mô Phỏng\", số Chúc Phúc Vận Mệnh \"Tri Thức\" mang theo lớn hơn hoặc bằng 10",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092904,
+        "name": "Định Lý Bốn Màu",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, tích lũy kèm theo hiệu ứng Tri Thức cho 200 khu vực",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092905,
+        "name": "Khoảnh Khắc Giữa Ngày Và Đêm",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, tích lũy xem 10 lần cốt truyện đề cử",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092906,
+        "name": "Bùng Nổ Trí Tuệ",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, Tự Nhận Thức đạt đến 40",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092907,
+        "name": "U Ám Tinh Thần",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, Tự Nhận Thức đạt -40",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092909,
+        "name": "Tâm Lý Đám Đông",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, tích lũy hoàn thành 50 lần thay đổi Tự Nhận Thức",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092910,
+        "name": "Sói Nơi Phố Tường",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, đầu tư thành công trong sự kiện Cỗ Máy Đầu Tư Hành Tinh Hòa Bình",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092911,
+        "name": "Châu Thái Bình Vẫn Là Châu Thái Bình",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, thất bại trong trận đấu kích hoạt bởi sự kiện Mã Cheat 2",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092912,
+        "name": "Nhân Viên Cấp D",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, tăng cấp Vật Thể Lạ 1 lần trong sự kiện Cửa Hàng Chi Nhánh Máy Móc Hành Tinh Hòa Bình 2",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092913,
+        "name": "Chuông Báo Tử Của Leibowitz",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Chiến Đấu\" đánh thắng 25 lần trở lên",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092914,
+        "name": "Tau Zero",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Sự Kiện\", hoàn thành tương tác sự kiện 20 lần trở lên",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092915,
+        "name": "Vị Diện Biến Hóa",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Đuổi Bắt\", liên tục vào không dưới 5 khu vực không liền kề",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092916,
+        "name": "Lừa Đảo Lãng Mạn",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Heo Đất\" đánh bại 15 Heo Đất trở lên trong trận đấu.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092917,
+        "name": "Người Quản Lý Cảng Sao",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Hành Giả Cộng Sinh\", vào không dưới 15 khu vực có Máy Phát Liên Kết",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092918,
+        "name": "Đến Ga Cuối Cùng",
+        "desc": "Sử dụng Xúc Xắc Tùy Chỉnh \"Máy Phát Siêu Cự Ly\" khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, những khu vực đã bước vào bao gồm tất cả các Máy Phát Liên Kết khác loại",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092919,
+        "name": "Kẻ Bán Mặt Trăng",
+        "desc": "Sử dụng Xúc Xắc Tùy Chỉnh \"Đầu Tư Bán Ra\" khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, và có từ 2048 Mảnh Vũ Trụ trở lên",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092920,
+        "name": "Thành Viên Hội Đồng Quản Trị Halcyon",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Bình Phong Hổ Phách\", kèm theo hiệu ứng Tri Thức cho 30 khu vực trở lên",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092921,
+        "name": "Đủ Thời Gian Cho Bạn Chơi",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Đếm Ngược\" với số điểm đếm ngược lớn hơn hoặc bằng 30",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092922,
+        "name": "Cửa Hàng Kỳ Tích Mặt Trăng",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Thời Khắc Công Ty\", mua 20 vật phẩm trở lên trong Cửa Hàng Chúc Phúc, Cửa Hàng Vật Thể Lạ, Cửa Hàng Cường Hóa",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092923,
+        "name": "Thương Nhân Và Cánh Cổng Của Thuật Sĩ Giả Kim",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng tối thiểu 25 lần ném lại hoặc cheat trong khi sử dụng Xúc Xắc Tùy Chỉnh \"Dữ Liệu Lan Tràn\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092924,
+        "name": "Kho Báu Của Herta",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, dùng Xúc Xắc Tùy Chỉnh \"Suy Diễn Vật Thể Lạ\", sở hữu 30 Vật Thể Lạ trở lên",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092925,
+        "name": "Ta Là Alpha",
+        "desc": "Thu thập \"Khởi Đầu\" Bí Mật Aeon Của Vàng Và Máy Móc",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092926,
+        "name": "Ta Là Omega",
+        "desc": "Thu thập \"Kết Cục\" Bí Mật Aeon Của Vàng Và Máy Móc",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092927,
+        "name": "Xúc Xắc 60 Mặt",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc mở khóa 60 Mặt Xúc Xắc",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092928,
+        "name": "Vận Mệnh Xoay Chuyển",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc mở khóa tất cả 12 Xúc Xắc Tùy Chỉnh",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092929,
+        "name": "Ngày Tận Thế Cấp XK",
+        "desc": "Hoàn thành Vũ Trụ Mô Phỏng: Vàng Và Máy Móc độ khó V",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092930,
+        "name": "Thăng Thiên Cơ Học",
+        "desc": "Kích hoạt Thần Kinh thứ 1 trong Mạng Lưới Thần Kinh của Vũ Trụ Mô Phỏng: Vàng Và Máy Móc",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092931,
+        "name": "Người Khổng Lồ: Kế Hoạch Khủng Bố",
+        "desc": "Trong độ khó Giày Vò, vượt ải \"Vũ Trụ Mô Phỏng: Vàng Và Máy Móc\" khi cấp Nan Đề Thuộc Tính lớn hơn hoặc bằng 6",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092932,
+        "name": "Khủng Hoảng Kẹo Cao Su",
+        "desc": "Trong độ khó Giày Vò, vượt ải \"Vũ Trụ Mô Phỏng: Vàng Và Máy Móc\" khi cấp Nan Đề Tăng Thêm lớn hơn hoặc bằng 6",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092933,
+        "name": "Biển Gỉ Sắt",
+        "desc": "Trong độ khó Giày Vò, vượt ải \"Vũ Trụ Mô Phỏng: Vàng Và Máy Móc\" khi cấp Nan Đề lớn hơn hoặc bằng 12",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092934,
+        "name": "Chìa Khóa Không Gian Xưa Cũ",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, \"Cấp Rối Loạn\" của \"Vị Diện Rối Loạn!\" lớn hơn hoặc bằng cấp 20",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092935,
+        "name": "Vị Vua Nguyền Rủa",
+        "desc": "Khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, sở hữu 10 Vật Thể Lạ hiệu ứng xấu trở lên",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092936,
+        "name": "Phân Phối Chuẩn",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, liên tục đổ ra 6 mặt xúc xắc khác nhau trên cùng 1 Thiết Bị Gặp Gỡ",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092937,
+        "name": "Nhạc Blues Sầu Muộn",
+        "desc": "Trang bị 6 mặt xúc xắc phẩm chất Lam (độ khó III trở lên) khi vượt ải Vũ Trụ Mô Phỏng: Vàng Và Máy Móc",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092938,
+        "name": "Tất Cả Được Trông Nom Bởi Cỗ Máy Yêu Thương",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, gặp phải Suy Diễn Tiếng Vọng 10 lần trở lên trong 1 trận đấu",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092939,
+        "name": "Vòng Quay Vận Mệnh",
+        "desc": "Trong Vũ Trụ Mô Phỏng: Vàng Và Máy Móc, đạt giải nhất 1 lần trong \"Khiêu Chiến La Bàn May Mắn\"",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092940,

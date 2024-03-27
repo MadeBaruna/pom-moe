@@ -431,6 +431,34 @@
         "desc": "Todo Colonipenal va a enloquecer...\\n<color=#8790abff>※Presencia el segundo asesinato.</color>",
         "rarity": 2,
         "version": "2.0"
+      },
+      {
+        "id": 4033007,
+        "name": "Sibila, ¿qué quieres?",
+        "desc": "¿A dónde conduce la suerte a los apostadores?\\n<color=#8790abff>※Sé testigo de la vida de Kakavasha.</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033009,
+        "name": "Una gota de alcohol",
+        "desc": "¡Brindemos por los sueños y los soñadores!\\n<color=#8790abff>※Obtén la bebida especial de Gallagher.</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033010,
+        "name": "Ella respondió que quería morir",
+        "desc": "Disfruta del gran final del espectáculo desde el mejor lugar.\\n<color=#8790abff>※Derrota a Aventurino, de los Diez Corazones de Piedra.</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033011,
+        "name": "Para Ícaro",
+        "desc": "Revive el pasado en una tierra lejana.\\n<color=#8790abff>※Escucha la conversación entre Acheron y Welt.</color>",
+        "rarity": 2,
+        "version": "2.1"
       }
     ]
   },
@@ -818,28 +846,28 @@
       {
         "id": 4043010,
         "name": "FlyMe2theBalloon",
-        "desc": "Destruye el globo especial del Sr. Pedrusco en el Momento Dorado.",
+        "desc": "Destruye el globo especial de Pedrusco en el Momento Dorado.",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043011,
         "name": "Balloon Gakuen 2",
-        "desc": "Destruye el globo especial del Sr. Pedrusco en la Frontera de los Sueños.",
+        "desc": "Destruye el globo especial de Pedrusco en la Frontera de los Sueños.",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043012,
         "name": "Honkai Balloon 3rd",
-        "desc": "Destruye el globo especial del Sr. Pedrusco en Sueño infantil.",
+        "desc": "Destruye el globo especial de Pedrusco en Sueño infantil.",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043013,
         "name": "Honkai: Colonipenal Rail",
-        "desc": "Destruye el globo especial del Sr. Pedrusco en el Hotel Fantasía (paisaje onírico).",
+        "desc": "Destruye el globo especial de Pedrusco en el Hotel Fantasía (paisaje onírico).",
         "rarity": 1,
         "version": "2.0"
       },
@@ -898,6 +926,111 @@
         "desc": "Obtén 15 materiales de lectura en Colonipenal.",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4043022,
+        "name": "Solo en casa",
+        "desc": "Derrota a 3 secuaces de Pedrusco al mismo tiempo en una Aventura de Hanu.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043023,
+        "name": "Antiglobos",
+        "desc": "Destruye el globo especial de Pedrusco en el parque temático de los Estudios Reloj.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043024,
+        "name": "Saga de la ciudad de ensueño",
+        "desc": "Destruye el globo especial de Pedrusco en el Pabellón del Rocío Matutino.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043025,
+        "name": "Auto de seguridad",
+        "desc": "Filma una escena sin ningún rasguño en cualquier modo de las historias derivadas de Relojito.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043026,
+        "name": "Línea de carrera poco convencional",
+        "desc": "Permanece en medio de la pista de manera continua durante #1{SPACE}s en cualquier modo de las historias derivadas de Relojito.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043027,
+        "name": "De la pole a la victoria",
+        "desc": "Vuelve a acumular energía mientras Turboaceleración o Momento de Hanu estén activos en cualquier modo de las historias derivadas de Relojito.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043028,
+        "name": "Gracias al alerón trasero móvil",
+        "desc": "Completa 10 Adelantos extremos seguidos sin errores en la historia derivada de Relojito: «Rápido y nuezoso».",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043029,
+        "name": "Lento descenso al infierno",
+        "desc": "Derrota a todos los enemigos en la historia derivada de Relojito: «Hanu: El camino del lobo».",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043030,
+        "name": "Ciudad de ensueño, ¡paraíso del Roble!",
+        "desc": "Entra por primera vez en la maqueta en miniatura del Pabellón del Rocío Matutino.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043031,
+        "name": "La industria de los sueños",
+        "desc": "Completa el desafío Sonambulismo del Pabellón del Rocío Matutino y gana ingresos adicionales.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043032,
+        "name": "Sacar agua de las piedras",
+        "desc": "Tras convertirte en Hanu, utiliza el misil Hanu para derrotar a los secuaces de Pedrusco.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043033,
+        "name": "Alfa",
+        "desc": "Reúne la colección completa de «Aventura de Hanu: Parte 2».",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043034,
+        "name": "Artillería pesada",
+        "desc": "Alcanza el máximo de municiones del misil Hanu en «Aventura de Hanu».",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043035,
+        "name": "Celebración secreta",
+        "desc": "Descubre la zona secreta del parque temático de los Estudios Reloj con ayuda del Burbupinball.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043036,
+        "name": "Pac-Man",
+        "desc": "Destruye todos los objetos destruibles del laberinto del parque temático de los Estudios Reloj.",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -2299,7 +2432,7 @@
       },
       {
         "id": 4053025,
-        "name": "Cada jugador tiene su excusa",
+        "name": "Cada ludópata tiene su excusa",
         "desc": "Presencia el final de la historia del legendario Dios del Juego.",
         "rarity": 1,
         "version": "2.0"
@@ -2481,7 +2614,7 @@
       },
       {
         "id": 4053051,
-        "name": "La larga despedida",
+        "name": "El largo adiós",
         "desc": "Ojalá se despida de su pasado tormentoso.\\n<color=#8790abff>※Sé testigo de la historia de Lew Archer.</color>",
         "rarity": 1,
         "version": "2.0"
@@ -2499,6 +2632,125 @@
         "desc": "Si todos reciben dinero, nadie gana en realidad.\\n<color=#8790abff>※Activa repetidamente el Escupeplata en la calle.</color>",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4053054,
+        "name": "Asistencia: 0",
+        "desc": "Haz que el volauto deslumbrante pierda seguidores.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053055,
+        "name": "Los pájaros, el arte y la vida",
+        "desc": "Conviértete en un experto observando aves en el Pabellón del Rocío Matutino.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053056,
+        "name": "El bien mayor",
+        "desc": "Obtén los #1 productos de merchandising de Relojito.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053057,
+        "name": "La cabaña del terror",
+        "desc": "Sé testigo de la extraña experiencia de cinco personas en cierto lugar del parque temático de los Estudios Reloj.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053058,
+        "name": "Pruebas y refutaciones",
+        "desc": "Compra mercancía del dueño de un camión de comida a un precio elevado.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053059,
+        "name": "Una variación llamada \"yo\"",
+        "desc": "Conoce a un detective con un físico peculiar en el parque temático de los Estudios Reloj.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053060,
+        "name": "La dama de oro",
+        "desc": "Investiga el retrato de una artista famosa en el Pabellón del Rocío Matutino.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053061,
+        "name": "Señor de la guerra",
+        "desc": "Lleva a Oksana ante la justicia.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053062,
+        "name": "Más vale tarde que nunca",
+        "desc": "Delata a Oksana a los Sabueso.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053063,
+        "name": "Legado de deshonor",
+        "desc": "Deja que Oksana se marche.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053064,
+        "name": "¡Pez gordo!",
+        "desc": "Deja tu propia bebida especial en el Bar de Terrores.",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4053065,
+        "name": "Sueños cumplidos",
+        "desc": "Ayuda a todos los monstruos del Bar de Terrores a resolver sus enredos emocionales.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053066,
+        "name": "Una bebida para cada quien",
+        "desc": "Ofrece a los clientes la bebida correcta #1 veces.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053067,
+        "name": "Omakase",
+        "desc": "Ofrece a los clientes la bebida incorrecta #1 veces.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053068,
+        "name": "Dreampunk Barman Action",
+        "desc": "Completa la deducción de todas las recetas en el Bar de Terrores.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053070,
+        "name": "Retrato familiar",
+        "desc": "Toma una foto de grupo de la tripulación del Expreso Astral en el marco fotográfico del parque temático de los Estudios Reloj.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053071,
+        "name": "Visita al parque",
+        "desc": "Toma una foto de grupo en el parque temático de los Estudios Reloj.",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -3566,6 +3818,62 @@
         "desc": "En la batalla contra Sam, de los Cazadores de Estelaron, utiliza pts. de habilidad básica combustionados para reducir los PV de #1 aliado por debajo del #2%.",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4073011,
+        "name": "Doble seis",
+        "desc": "En la batalla contra Diez Corazones de Piedra | Aventurino de las Estratagemas, haz que al menos #1 Todo o Nada saquen #2 pts. a la vez.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073012,
+        "name": "Toda mi gente...",
+        "desc": "En la batalla contra Diez Corazones de Piedra | Aventurino de las Estratagemas, #1 personajes del equipo ganan la misma ronda de apuesta.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073013,
+        "name": "Lady Snowblood",
+        "desc": "En un combate, usa la habilidad definitiva de Acheron \"Sueño destrozado, lágrimas escarlata\" para derrotar a todos los enemigos y ganar la batalla.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073014,
+        "name": "Robo de ciegas",
+        "desc": "En un combate, cuando Apuesta ciega sea #1, usa la habilidad definitiva de Aventurino \"Prodigio de la ruleta\" para obtener #2 pts. de Apuesta ciega.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073015,
+        "name": "Purga del fuego",
+        "desc": "En una Ruptura de Debilidad, elimina todas las acumulaciones de Llamarada de las sombras del Meme de la Zona de los Recuerdos: Coraza de Furia Desvaída.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073016,
+        "name": "Combatir el fuego con fuego",
+        "desc": "En una sola batalla, derrota al Meme de la Zona de los Recuerdos: Coraza de Furia Desvaída sin infligir Ruptura de Debilidad.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073017,
+        "name": "Evaluación de rendimiento",
+        "desc": "Aventurino inflige el golpe final en una batalla victoriosa contra Personal veterano: Jefe de equipo.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4083009,
+        "name": "El castigo divino es igual para todos",
+        "desc": "Durante la exploración, utiliza la técnica Influjo tetravalente de Acheron para derrotar a #1 enemigos de forma consecutiva.",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4075,6 +4383,13 @@
         "desc": "Participa en #1 batalla usando al Dr. Ratio como apoyo.",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4083010,
+        "name": "¿Por qué este pajarito de papel es tan grande?",
+        "desc": "Saca al pajarito de papel del Pabellón del Rocío Matutino.",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4523,25 +4838,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092902,
-        "name": "Homenaje al ingenio divino",
-        "desc": "Desbloquea 1 bendición de la Vía de la Erudición en el Universo Simulado.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092602,
         "name": "Cacería de temporada",
-        "desc": "En el Universo Simulado: La Plaga, captura 8 Chanchitos peleando en el mismo plano mientras sigues la Vía de la Cacería.",
+        "desc": "En el Universo Simulado: La Plaga, captura 8 o más Chanchitos peleando en el mismo plano mientras sigues la Vía de la Cacería.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092903,
-        "name": "Lo sé todo",
-        "desc": "Ten 10 o más bendiciones de la Vía de la Erudición al despejar el Universo Simulado.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092603,
@@ -4551,25 +4852,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092904,
-        "name": "El dilema de los cuatro colores",
-        "desc": "Aplica el efecto de Conocimiento en 200 zonas en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092604,
         "name": "Depredador",
         "desc": "Gana 40 batallas mientras completas el Universo Simulado: La Plaga con la Vía de la Destrucción.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092905,
-        "name": "El mundo conectado",
-        "desc": "Ve en total 10 historias recomendadas de Secretos en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092605,
@@ -4579,25 +4866,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092906,
-        "name": "Vine a entender todo esto",
-        "desc": "Alcanza 40 de autopercepción en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092606,
         "name": "El Universo Simulado no se construyó en un día",
         "desc": "Aplica Piedra angular a 8 zonas de diferentes tipos mientras completas el Universo Simulado: La Plaga con la Vía de la Conservación.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092907,
-        "name": "Palidez mental",
-        "desc": "Alcanza -40 de autopercepción en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092607,
@@ -4607,25 +4880,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092909,
-        "name": "Consciencia colectiva",
-        "desc": "Completa 50 cambios de autopercepción en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092608,
         "name": "De regreso en Klendathu",
         "desc": "Entra 15 veces en zonas de batalla: El Enjambre, evento: El Enjambre o jefe: El Enjambre mientras completas el Universo Simulado: La Plaga con la Vía de la Propagación.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092910,
-        "name": "El lobo de Astral Street",
-        "desc": "Consigue una gran inversión exitosa en el evento Dispositivo de inversión de la Paz Interastral del Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -4635,25 +4894,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092911,
-        "name": "Pacífica sigue siendo Pacífica",
-        "desc": "Pierde en la batalla del evento Código de trampa (II) del Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092610,
         "name": "Torrente aniquilademonios",
         "desc": "En el Universo Simulado: La Plaga, lanza el Dado de la audiencia (Cacería) un total de 100 veces.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092912,
-        "name": "Empleado de nivel D",
-        "desc": "Mejora 1 vez objetos raros en el evento Centro comercial mecánico de la Paz Interastral (II) del Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -4663,25 +4908,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092913,
-        "name": "Toque de difuntos por Leibowitz",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, gana al menos 25 batallas mientras usas el dado personalizado: Extrapolación de batalla.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092612,
         "name": "El mundo como representación",
         "desc": "En el Universo Simulado: La Plaga, lanza el Dado de la audiencia (Nihilidad) un total de 100 veces.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092914,
-        "name": "Tau Cero",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, completa 20 o más veces interacciones de eventos mientras usas el dado personalizado: Extrapolación de evento.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -4691,25 +4922,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092915,
-        "name": "Planos paralelos",
-        "desc": "En el Universo Simulado: Oro y maquinaria, entra 5 o más veces seguidas en zonas no adyacentes mientras usas el dado personalizado: Acecho.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092614,
         "name": "Escuchar, despertar, revivir",
         "desc": "En el Universo Simulado: La Plaga, lanza el Dado de la audiencia (Abundancia) un total de 100 veces.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092916,
-        "name": "A todo Chanchito le llega su San Martín",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, derrota a 15 o más Chanchitos en combate mientras usas el dado personalizado: Extrapolación de Chanchito.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -4719,25 +4936,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092917,
-        "name": "Controlador del puerto estelar",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, entra 15 o más veces en zonas con balizas mientras usas el dado personalizado: Simbiosis del caminante.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092616,
         "name": "Los hijos de Matusalén",
         "desc": "En el Universo Simulado: La Plaga, lanza el Dado de la audiencia (Propagación) un total de 100 veces.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092918,
-        "name": "Hacia Términus",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, entra en zonas con todos los tipos de diferentes balizas mientras usas el dado personalizado: Baliza ultrarremota.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -4747,25 +4950,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092919,
-        "name": "El hombre que vendió la luna",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, ten 2048 o más fragmentos cósmicos mientras usas el dado personalizado: Venta de inversiones.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092618,
         "name": "Las estrellas al alcance de la mano",
         "desc": "<u>Logra un poder ilimitado</u> en el evento «La saga del ascenso de la Corporación» del Universo Simulado: La Plaga.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092920,
-        "name": "Junta de accionistas de Alción",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, aplica el efecto de Conocimiento en 30 o más zonas mientras usas el dado personalizado: Barrera de ámbar.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092619,
@@ -4775,25 +4964,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092921,
-        "name": "Tiempo para divertirse",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, ten 30 pts. o más de la cuenta regresiva mientras usas el dado personalizado: Cuenta regresiva.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092620,
         "name": "Bienvenido al Valhalla",
         "desc": "En el Universo Simulado: La Plaga, pierde la batalla del evento «Yu Qingtu, miembro n.º 55 del Círculo de Genios».",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092922,
-        "name": "Tienda de gangas espaciales",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, haz 20 o más compras en la tienda de bendiciones, de objetos raros o de potenciación mientras usas el dado personalizado: Tiempo corporativo.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092621,
@@ -4803,25 +4978,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092923,
-        "name": "El comerciante y la puerta del alquimista",
-        "desc": "Al superar el Universo Simulado: Oro y maquinaria, usa 25 o más intentos para volver a tirar el dado u oportunidades de hacer trampa mientras usas el dado personalizado: Inflación de datos.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092622,
         "name": "Luna de cosecha",
         "desc": "Captura 16 o más Chanchitos en una zona de aventura en el Universo Simulado: La Plaga.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092924,
-        "name": "El tesoro de Herta",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, ten 30 o más objetos raros mientras usas el dado personalizado: Extrapolación de objetos raros.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -4831,25 +4992,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092925,
-        "name": "Yo soy Alfa",
-        "desc": "Reúne el Secreto de los Eones «Comienzo» en Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092624,
         "name": "Coro unipersonal",
         "desc": "En un solo desafío del Universo Simulado: La Plaga, genera 2 Interacciones de Resonancia.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092926,
-        "name": "Yo soy Omega",
-        "desc": "Reúne el Secreto de los Eones «Final» en Oro y maquinaria.",
-        "rarity": 2,
-        "version": "1.6"
       },
       {
         "id": 4092625,
@@ -4859,25 +5006,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092927,
-        "name": "Dado de sesenta caras",
-        "desc": "Desbloquea 60 caras del dado en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092626,
         "name": "Esfera del destino",
         "desc": "Completa todas las elecciones de Vías en las zonas de evento del Universo Simulado: La Plaga.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092928,
-        "name": "La ruleta del destino",
-        "desc": "Desbloquea los 12 dados personalizados en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -4887,25 +5020,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092929,
-        "name": "Fin del mundo: clase XK",
-        "desc": "Completa la dificultad V del Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092628,
         "name": "Retorno al futuro",
         "desc": "Vuelve a lanzar el dado un total de 50 veces en el Universo Simulado: La Plaga.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092930,
-        "name": "Ascensión mecánica",
-        "desc": "Activa el nodo de conexión neuronal n.º 1 en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092629,
@@ -4915,25 +5034,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092931,
-        "name": "Colossus: el proyecto prohibido",
-        "desc": "Supera el Universo Simulado: Oro y maquinaria en dificultad infernal cuando el nivel de la prueba difícil de tipos es 6 o más.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092630,
         "name": "En el cometa",
         "desc": "Completa todos los objetivos en cualquier zona de aventura del Universo Simulado: La Plaga.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092932,
-        "name": "Bubblegum Crisis",
-        "desc": "Despeja el Universo Simulado: Oro y maquinaria en dificultad infernal cuando el nivel de la prueba difícil adicional es 6 o más.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092631,
@@ -4943,25 +5048,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092933,
-        "name": "Mar de óxido",
-        "desc": "Despeja el Universo Simulado: Oro y maquinaria en dificultad infernal cuando el nivel de la prueba difícil es 12 o más.",
-        "rarity": 2,
-        "version": "1.6"
-      },
-      {
         "id": 4092632,
         "name": "Repetidor de masas",
         "desc": "Ten un nivel de disrupción de Confusión del plano de 20 o superior al superar el Universo Simulado: La Plaga.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092934,
-        "name": "Llave de antiguos espacios electrónicos",
-        "desc": "Ten un nivel de disrupción de Confusión del plano de 20 o superior al superar el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092636,
@@ -4971,25 +5062,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092935,
-        "name": "Rey de los maleficios",
-        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, ten 10 o más objetos raros negativos.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092637,
         "name": "Forastero en tierra extraña",
         "desc": "Reúne todas las historias de Secretos del Trazacaminos del Universo Simulado: La Plaga.",
         "rarity": 2,
         "version": "1.3"
-      },
-      {
-        "id": 4092936,
-        "name": "Distribución normal",
-        "desc": "Saca 6 caras del dado distintas consecutivas en el mismo Dispositivo de audiencia en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -4999,25 +5076,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092937,
-        "name": "Blues melancólico",
-        "desc": "Ten 6 caras azules del dado equipadas al despejar el Universo Simulado: Oro y maquinaria (dificultad III o superior).",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092639,
         "name": "Plaga entre los Eones",
         "desc": "Reúne el capítulo «Cacería I» de La Plaga.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092938,
-        "name": "Vigilados todos por máquinas de amorosa gracia",
-        "desc": "Resiste 10 o más veces Extrapolación de Resonancia en una misma batalla en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -5027,18 +5090,270 @@
         "version": "1.3"
       },
       {
-        "id": 4092939,
-        "name": "La rueda del destino",
-        "desc": "Obtén 1 vez el premio mayor del Desafío de la brújula de la suerte en el Universo Simulado: Oro y maquinaria.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092641,
         "name": "Cómo se llega a ser lo que se es",
         "desc": "Reúne el capítulo «Nihilidad I» de La Plaga.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092902,
+        "name": "Homenaje al ingenio divino",
+        "desc": "Desbloquea 1 bendición de la Vía de la Erudición en el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092903,
+        "name": "Lo sé todo",
+        "desc": "Ten 10 o más bendiciones de la Vía de la Erudición al despejar el Universo Simulado.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092904,
+        "name": "El dilema de los cuatro colores",
+        "desc": "Aplica el efecto de Conocimiento en 200 zonas en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092905,
+        "name": "El mundo conectado",
+        "desc": "Ve en total 10 historias recomendadas de Secretos en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092906,
+        "name": "Vine a entender todo esto",
+        "desc": "Alcanza 40 de autopercepción en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092907,
+        "name": "Palidez mental",
+        "desc": "Alcanza -40 de autopercepción en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092909,
+        "name": "Consciencia colectiva",
+        "desc": "Completa 50 cambios de autopercepción en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092910,
+        "name": "El lobo de Astral Street",
+        "desc": "Consigue una gran inversión exitosa en el evento Dispositivo de inversión de la Paz Interastral del Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092911,
+        "name": "Pacífica sigue siendo Pacífica",
+        "desc": "Pierde en la batalla del evento Código de trampa (II) del Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092912,
+        "name": "Empleado de nivel D",
+        "desc": "Mejora 1 vez objetos raros en el evento Centro comercial mecánico de la Paz Interastral (II) del Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092913,
+        "name": "Toque de difuntos por Leibowitz",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, gana al menos 25 batallas mientras usas el dado personalizado: Extrapolación de batalla.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092914,
+        "name": "Tau Cero",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, completa 20 o más veces interacciones de eventos mientras usas el dado personalizado: Extrapolación de evento.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092915,
+        "name": "Planos paralelos",
+        "desc": "En el Universo Simulado: Oro y maquinaria, entra 5 o más veces seguidas en zonas no adyacentes mientras usas el dado personalizado: Acecho.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092916,
+        "name": "A todo Chanchito le llega su San Martín",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, derrota a 15 o más Chanchitos en combate mientras usas el dado personalizado: Extrapolación de Chanchito.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092917,
+        "name": "Controlador del puerto estelar",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, entra 15 o más veces en zonas con balizas mientras usas el dado personalizado: Simbiosis del caminante.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092918,
+        "name": "Hacia Términus",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, entra en zonas con todos los tipos de diferentes balizas mientras usas el dado personalizado: Baliza ultrarremota.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092919,
+        "name": "El hombre que vendió la luna",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, ten 2048 o más fragmentos cósmicos mientras usas el dado personalizado: Venta de inversiones.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092920,
+        "name": "Junta de accionistas de Alción",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, aplica el efecto de Conocimiento en 30 o más zonas mientras usas el dado personalizado: Barrera de ámbar.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092921,
+        "name": "Tiempo para divertirse",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, ten 30 pts. o más de la cuenta regresiva mientras usas el dado personalizado: Cuenta regresiva.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092922,
+        "name": "Tienda de gangas espaciales",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, haz 20 o más compras en la tienda de bendiciones, de objetos raros o de potenciación mientras usas el dado personalizado: Tiempo corporativo.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092923,
+        "name": "El comerciante y la puerta del alquimista",
+        "desc": "Al superar el Universo Simulado: Oro y maquinaria, usa 25 o más intentos para volver a tirar el dado u oportunidades de hacer trampa mientras usas el dado personalizado: Inflación de datos.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092924,
+        "name": "El tesoro de Herta",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, ten 30 o más objetos raros mientras usas el dado personalizado: Extrapolación de objetos raros.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092925,
+        "name": "Yo soy Alfa",
+        "desc": "Reúne el Secreto de los Eones «Comienzo» en Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092926,
+        "name": "Yo soy Omega",
+        "desc": "Reúne el Secreto de los Eones «Final» en Oro y maquinaria.",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092927,
+        "name": "Dado de sesenta caras",
+        "desc": "Desbloquea 60 caras del dado en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092928,
+        "name": "La ruleta del destino",
+        "desc": "Desbloquea los 12 dados personalizados en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092929,
+        "name": "Fin del mundo: clase XK",
+        "desc": "Completa la dificultad V del Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092930,
+        "name": "Ascensión mecánica",
+        "desc": "Activa el nodo de conexión neuronal n.º 1 en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092931,
+        "name": "Colossus: el proyecto prohibido",
+        "desc": "Supera el Universo Simulado: Oro y maquinaria en dificultad infernal cuando el nivel de la prueba difícil de tipos es 6 o más.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092932,
+        "name": "Bubblegum Crisis",
+        "desc": "Despeja el Universo Simulado: Oro y maquinaria en dificultad infernal cuando el nivel de la prueba difícil adicional es 6 o más.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092933,
+        "name": "Mar de óxido",
+        "desc": "Despeja el Universo Simulado: Oro y maquinaria en dificultad infernal cuando el nivel de la prueba difícil es 12 o más.",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092934,
+        "name": "Llave de antiguos espacios electrónicos",
+        "desc": "Ten un nivel de disrupción de Confusión del plano de 20 o superior al superar el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092935,
+        "name": "Rey de los maleficios",
+        "desc": "Al despejar el Universo Simulado: Oro y maquinaria, ten 10 o más objetos raros negativos.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092936,
+        "name": "Distribución normal",
+        "desc": "Saca 6 caras del dado distintas consecutivas en el mismo Dispositivo de audiencia en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092937,
+        "name": "Blues melancólico",
+        "desc": "Ten 6 caras azules del dado equipadas al despejar el Universo Simulado: Oro y maquinaria (dificultad III o superior).",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092938,
+        "name": "Vigilados todos por máquinas de amorosa gracia",
+        "desc": "Resiste 10 o más veces Extrapolación de Resonancia en una misma batalla en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092939,
+        "name": "La rueda del destino",
+        "desc": "Obtén 1 vez el premio mayor del Desafío de la brújula de la suerte en el Universo Simulado: Oro y maquinaria.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092940,

@@ -392,7 +392,7 @@
       },
       {
         "id": 4033001,
-        "name": "Do you remember me?",
+        "name": "Do You Remember Me?",
         "desc": "At the outset of your journey, you find yourself accompanied by someone unexpected...\\n<color=#8790abff>※ Encounter Acheron in a strange dreamland.</color>",
         "rarity": 2,
         "version": "2.0"
@@ -431,6 +431,34 @@
         "desc": "The entire Penacony will go mad...\\n<color=#8790abff>※ Witness the second murder.</color>",
         "rarity": 2,
         "version": "2.0"
+      },
+      {
+        "id": 4033007,
+        "name": "Sibyl, What Do You Want?",
+        "desc": "Where will good fortune lead gamblers?\\n<color=#8790abff>※ Witness the life of Kakavasha</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033009,
+        "name": "A Drop of the Hard Stuff",
+        "desc": "Cheers to sweet dreams and the dreamer!\\n<color=#8790abff>※ Obtain Gallagher's special mix</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033010,
+        "name": "She Replied, I Want to Die.",
+        "desc": "Sit in the best seat and watch the grand finale\\n<color=#8790abff>※ Defeat \"Ten Stonehearts\" Aventurine</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033011,
+        "name": "To Icarus",
+        "desc": "Relive the past in a faraway land\\n<color=#8790abff>※ Listen to Acheron and Welt's conversation</color>",
+        "rarity": 2,
+        "version": "2.1"
       }
     ]
   },
@@ -551,7 +579,7 @@
       },
       {
         "id": 4080403,
-        "name": "Non-pulp Fiction",
+        "name": "Non-Pulp Fiction",
         "desc": "Collect 20 readable item(s) in Belobog",
         "rarity": 1,
         "version": "1.0"
@@ -733,7 +761,7 @@
       },
       {
         "id": 4042802,
-        "name": "The Golem: How He Came into the World",
+        "name": "The Golem: How He Came Into the World",
         "desc": "In Fyxestroll Garden, obtain a total of 9 \"Pathfinder\" rewards",
         "rarity": 1,
         "version": "1.5"
@@ -817,29 +845,29 @@
       },
       {
         "id": 4043010,
-        "name": "FlyMe2theBaloon",
-        "desc": "Break the special Mr. Stone balloon in the Golden Hour.",
+        "name": "FlyMe2theBalloon",
+        "desc": "Break the special Boss Stone balloon in Golden Hour",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043011,
         "name": "Balloon Gakuen 2",
-        "desc": "Break the special Mr. Stone balloon at the Dream's Edge.",
+        "desc": "Break the special Boss Stone balloon at Dream's Edge",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043012,
         "name": "Balloon Impact 3rd",
-        "desc": "Break the special Mr. Stone balloon in \"A Child's Dream.\"",
+        "desc": "Break the special Boss Stone balloon in A Child's Dream",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043013,
         "name": "Penacony: Balloon Rail",
-        "desc": "Break the special Mr. Stone balloon in The Reverie (Dreamscape)",
+        "desc": "Break the special Boss Stone balloon in The Reverie (Dreamscape)",
         "rarity": 1,
         "version": "2.0"
       },
@@ -898,6 +926,111 @@
         "desc": "Collect 15 readable items in Penacony",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4043022,
+        "name": "Home Alone",
+        "desc": "Defeat 3 of Boss Stone's minions at once in a Hanu's Adventure stage",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043023,
+        "name": "Anti-Balloon",
+        "desc": "Break the special Boss Stone balloon in Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043024,
+        "name": "Saga of the Dreamhaven Tumult",
+        "desc": "Break the special Boss Stone balloon in Dewlight Pavilion",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043025,
+        "name": "Safety Car",
+        "desc": "Complete the shoot without any damage in any mode in Clockie's Extras",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043026,
+        "name": "Non-Racing Line",
+        "desc": "Stay in the middle lane continuously for #1 second(s) in any mode in Clockie's Extras",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043027,
+        "name": "Pole to Win",
+        "desc": "Reach maximum energy again within the duration of Nutty Blitz or Hanu Time in any mode of Clockie's Extras",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043028,
+        "name": "Biggest DRS Beneficiary",
+        "desc": "Perform Turbo Dash 10 times in a row without mistakes or interruption in Clockie's Extras: Fast & Furynuts",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043029,
+        "name": "Slow Road to Hell",
+        "desc": "Defeat all enemies that appeared in Clockie's Extras: Way of the Wolf",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043030,
+        "name": "A Dreamy Town, Oak Paradise!",
+        "desc": "Enter the miniature sandpit in Dewlight Pavilion for the first time",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043031,
+        "name": "Dreamweaving Industrialization",
+        "desc": "Complete the Dreamwalker Challenge at the Dewlight Pavilion for some extra income",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043032,
+        "name": "To Get Blood Out of a Stone",
+        "desc": "Transform into Hanu and use Hanu Rocket to defeat Boss Stone's minions for the first time",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043033,
+        "name": "Living With a Wolf",
+        "desc": "Collect the complete <i>Hanu's Adventure (Part 2)</i> collection",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043034,
+        "name": "Maximum Firepower",
+        "desc": "Obtain the maximum ammo limit of Hanu Rocket in Hanu's Adventure",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043035,
+        "name": "Secret Party",
+        "desc": "Discover Clock Studios Theme Park's hidden area via Bubble Pinball",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043036,
+        "name": "Pac-Man",
+        "desc": "Smash all destructible objects in Clock Studios Theme Park's maze garden",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -2327,7 +2460,7 @@
       },
       {
         "id": 4053029,
-        "name": "The Planet Of Festivities and Six Alfalfa Credits",
+        "name": "The Planet of Festivities and Six Alfalfa Credits",
         "desc": "Which is more important? Love, or dream?\\n<color=#8790abff>※ Discover the story of a family torn apart by the dreams of its members.</color>",
         "rarity": 1,
         "version": "2.0"
@@ -2363,7 +2496,7 @@
       {
         "id": 4053034,
         "name": "On the Path of Voracity...",
-        "desc": "Consume the Cone Dancer in Vitali",
+        "desc": "Consume Vitali's Cone Dancer",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2499,6 +2632,125 @@
         "desc": "If everyone gets money, then no one gets money\\n<color=#8790abff>※ Repeatedly trigger the cash-spewer on the streets</color>",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4053054,
+        "name": "Attendance Rate, Zero",
+        "desc": "Make Radiant Speedster lose its fans",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053055,
+        "name": "Birds Art Life: A Year of Observation",
+        "desc": "Become a master bird observer at Dewlight Pavilion",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053056,
+        "name": "For Great Goods",
+        "desc": "Obtain all #1 Clockie merchandise",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053057,
+        "name": "The Cabin in the Woods",
+        "desc": "Witness the bizarre experience of the five at a certain place in Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053058,
+        "name": "Proofs And Refutations",
+        "desc": "Purchase a certain good from a food truck owner at a high price during a conversation",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053059,
+        "name": "A Variation Named \"I\"",
+        "desc": "Meet a \"detective\" with peculiar physical attributes in Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053060,
+        "name": "The Lady in Gold",
+        "desc": "Investigate the portrait of a certain famous performer at Dewlight Pavilion",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053061,
+        "name": "Lord of War",
+        "desc": "Bring Oksana to justice",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053062,
+        "name": "Better Late Than Never",
+        "desc": "Expose Oksana to the Bloodhounds",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053063,
+        "name": "Dishonored Legacy",
+        "desc": "Let Oksana go",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053064,
+        "name": "Big Shot!",
+        "desc": "Leave your special mix at the Dreamjolt Hostelry",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4053065,
+        "name": "Make Your Dream a Blast",
+        "desc": "Help all the monsters in the Dreamjolt Hostelry deal with their emotional troubles",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053066,
+        "name": "To Each Their Own Drink",
+        "desc": "Serve the correct drinks to the customers #1 times",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053067,
+        "name": "Omakase",
+        "desc": "Serve the wrong drinks to the customers #1 times",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053068,
+        "name": "Operation Dreampunk Drinksmith",
+        "desc": "Complete all Dreamjolt Hostelry recipe deductions",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053070,
+        "name": "Family Portrait",
+        "desc": "Take a family photo of the Express Crew at the photo board in Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053071,
+        "name": "\"Clock\" In",
+        "desc": "Take a group photo at the photo board in Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -3566,6 +3818,62 @@
         "desc": "During the battle against Stellaron Hunter Sam, use Skill Points with the Combustion effect to reduce #1 allies' HP to below #2%",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4073011,
+        "name": "Boxcars",
+        "desc": "In the battle against Ten Stonehearts: Aventurine of Stratagems, cause at least #1 \"All or Nothings\" to simultaneously roll a #2 with a single attack",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073012,
+        "name": "All My People, All My People...",
+        "desc": "In the battle against Ten Stonehearts: Aventurine of Stratagems, have #1 characters in the team win in the same round of Gamble",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073013,
+        "name": "Lady Snowblood",
+        "desc": "In a single battle, using Acheron's Ultimate \"Slashed Dream Cries in Red\" to defeat all enemies and achieve victory in the battle",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073014,
+        "name": "Blind Stealing",
+        "desc": "In a single battle, when Blind Bet is at #1 point(s), use Aventurine's Ultimate \"Roulette Shark\" to obtain #2 Blind Bet point(s)",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073015,
+        "name": "Purging Heatiness",
+        "desc": "Clear the full stacks of Obscure Blaze on the Memory Zone Meme \"Shell of Faded Rage\" during a Weakness Break",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073016,
+        "name": "Fight Fire With Fire",
+        "desc": "In a single battle, defeat Memory Zone Meme \"Shell of Faded Rage\" without causing Weakness Break",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073017,
+        "name": "Performance Evaluation",
+        "desc": "Use ally Aventurine to fight Senior Staff: Team Leader and deal the finishing blow",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4083009,
+        "name": "Divine Judgment Does Not Discriminate",
+        "desc": "During exploration, use Acheron's Technique \"Quadrivalent Ascendance\" to defeat #1 enemies consecutively",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4075,6 +4383,13 @@
         "desc": "Take part in #1 match(es) in Support Assist using Dr. Ratio",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4083010,
+        "name": "Why Is the Origami Bird So Huge?",
+        "desc": "Yank out the Origami Big Bird at Dewlight Pavilion",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4454,7 +4769,7 @@
       },
       {
         "id": 4092350,
-        "name": "If I Can Stop One Heart From Breaking",
+        "name": "If I Can Save One Heart From Cracking",
         "desc": "Clear Simulated Universe at difficulty 2 or higher without breaking any destructible objects",
         "rarity": 1,
         "version": "1.0"
@@ -4523,25 +4838,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092902,
-        "name": "All Hail Deus Eruditionis",
-        "desc": "In Simulated Universe, unlock 1 Blessings of Erudition",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092602,
         "name": "The Hunter Games",
-        "desc": "In Simulated Universe: Swarm Disaster, capture 8 Trotters through battling in the same plane while following the Path of The Hunt",
+        "desc": "In Simulated Universe: Swarm Disaster, capture more than 8 Trotters through combat in the same plane while following the Path of The Hunt",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092903,
-        "name": "Omnissiah",
-        "desc": "When clearing Simulated Universe, have 10 or more Blessing(s) of Erudition",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092603,
@@ -4551,25 +4852,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092904,
-        "name": "The Four Color Theorem",
-        "desc": "In Simulated Universe: Gold and Gears, apply the Knowledge effect to a total of 200 domains",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092604,
         "name": "The Predator",
         "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Destruction, achieve 40 victories in battle",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092905,
-        "name": "World on a Wire",
-        "desc": "In Simulated Universe: Gold and Gears, watch a total of 10 recommended Secret stories",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092605,
@@ -4579,25 +4866,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092906,
-        "name": "Galaxy Brain",
-        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches 40",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092606,
         "name": "Simulated Universe Wasn't Built in a Day",
         "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Preservation, apply Cornerstone to 8 domains of different types",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092907,
-        "name": "The Mental Pale",
-        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches -40",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092607,
@@ -4607,25 +4880,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092909,
-        "name": "Hive Mind",
-        "desc": "In Simulated Universe: Gold and Gears, complete 50 changes to Intra-Cognition",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092608,
         "name": "Back to Klendathu",
         "desc": "When clearing Simulated Universe: Swarm Disaster with the Path of Propagation, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain for 15 times",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092910,
-        "name": "The Wolf of Astral Street",
-        "desc": "In Simulated Universe: Gold and Gears, achieve great investment success in the Occurrence \"Interastral Peace Investment Device\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -4635,25 +4894,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092911,
-        "name": "Pacifica Is Still Pacifica",
-        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheating Code (II) Occurrence.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092610,
         "name": "Scattered Hailstones, Shattered Ghostbones",
         "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: The Hunt for a total of 100 times",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092912,
-        "name": "Class-D Personnel",
-        "desc": "In Simulated Universe: Gold and Gears, enhance a Curio 1 time(s) in the Interastral Peace Mechanical Branch Shopping Mall (II) Occurrence",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -4663,25 +4908,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092913,
-        "name": "A Death Knell for Leibowitz",
-        "desc": "When clearing Simulated Universe: Gold and Gears, achieve victory in 25 or more battle(s) using Custom Dice: Combat Extrapolation",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092612,
         "name": "The World as Representation",
         "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Nihility for a total of 100 times",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092914,
-        "name": "Tau Zero",
-        "desc": "When clearing Simulated Universe: Gold and Gears, complete Occurrence interaction 20 or more time(s) using Custom Dice: Occurrence Extrapolation",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -4691,25 +4922,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092915,
-        "name": "Changing Planes",
-        "desc": "In Simulated Universe: Gold and Gears, use Custom Dice: Pursuit to enter 5 or more non-adjacent domain(s) in succession",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092614,
         "name": "Hearken, Waken, Enliven",
         "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Abundance for a total of 100 times",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092916,
-        "name": "When Pigs Pry",
-        "desc": "When clearing Simulated Universe: Gold and Gears, defeat 15 or more Trotter(s) in combat using Custom Dice: Trotter Extrapolation",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -4719,25 +4936,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092917,
-        "name": "Star Port Controller",
-        "desc": "When clearing Simulated Universe: Gold and Gears, enter 15 or more domain(s) with a beacon using Custom Dice: Walker Symbiosis",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092616,
         "name": "Methuselah's Children",
         "desc": "In Simulated Universe: Swarm Disaster, roll the Audience Die: Propagation for a total of 100 times",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092918,
-        "name": "To Terminus",
-        "desc": "When clearing Simulated Universe: Gold and Gears, the domains entered with Custom Dice: Ultra-Remote Beacon contain beacons of all different types",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -4747,25 +4950,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092919,
-        "name": "The Man Who Sold the Moon",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have 2048 or more Cosmic Fragment(s) using Custom Dice: Investment Sale",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092618,
         "name": "Stars Within Reach",
         "desc": "<u>Wield unlimited power</u> in The IPC Promotion Saga of the Simulated Universe: Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092920,
-        "name": "Halcyon Holdings Corporate Board Specialist",
-        "desc": "When clearing Simulated Universe: Gold and Gears, apply the Knowledge effect to 30 or more domain(s) using the Custom Dice: Amber Barrier",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092619,
@@ -4775,25 +4964,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092921,
-        "name": "Time Enough for Play",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have 30 or more points in the countdown using Custom Dice: Countdown",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092620,
         "name": "Welcome to Valhalla",
         "desc": "In Simulated Universe: Swarm Disaster, be defeated in the battle triggered in the event Genius Society #55 Yu Qingtu",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092922,
-        "name": "Spacer's Choice Vendor",
-        "desc": "When clearing Simulated Universe: Gold and Gears, make 20 or more purchase(s) across the Blessing, Curio, or Enhance stores using Custom Dice: Company Time",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092621,
@@ -4803,25 +4978,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092923,
-        "name": "The Merchant and the Alchemist's Gate",
-        "desc": "When clearing Simulated Universe: Gold and Gears, use 25 or more reroll or cheat attempt(s) using Custom Dice: Data Inflation",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092622,
         "name": "Harvest Moon",
         "desc": "In Simulated Universe: Swarm Disaster, capture Trotters equal to or greater than 16 within one Adventure domain",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092924,
-        "name": "Herta's Treasure",
-        "desc": "When clearing Simulated Universe: Gold and Gears, acquire 30 or more Curio(s) using Custom Dice: Curio Extrapolation",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -4831,25 +4992,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092925,
-        "name": "I Am Alpha",
-        "desc": "Collect the Gold and Gears' Aeon Secret \"Beginning\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092624,
         "name": "Choir of One",
         "desc": "Generate 2 Resonance Interplays in one run of Simulated Universe: Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092926,
-        "name": "I Am Omega",
-        "desc": "Collect the Gold and Gears' Aeon Secret \"Finale\"",
-        "rarity": 2,
-        "version": "1.6"
       },
       {
         "id": 4092625,
@@ -4859,25 +5006,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092927,
-        "name": "Sixty-Sided Die",
-        "desc": "In Simulated Universe: Gold and Gears, unlock 60 Dice Face(s)",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092626,
         "name": "Dial of Destiny",
         "desc": "In Simulated Universe: Swarm Disaster, complete all Choices of the Paths in Occurrence domains",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092928,
-        "name": "Roulette of Destiny",
-        "desc": "In Simulated Universe: Gold and Gears, unlock all 12 Custom Dice",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -4887,25 +5020,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092929,
-        "name": "XK-Class Scenario",
-        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty V",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092628,
         "name": "Back to the Future",
         "desc": "Reroll a total of 50 times in Simulated Universe: Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092930,
-        "name": "Mechanical Ascension",
-        "desc": "In Simulated Universe: Gold and Gears, activate the No. 1 Neural Network node",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092629,
@@ -4915,25 +5034,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092931,
-        "name": "Colossus: The Forbin Project",
-        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Stats Conundrum level is 6 or higher",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092630,
         "name": "On the Comet",
         "desc": "In Simulated Universe: Swarm Disaster, achieve all goals in any Adventure domain",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092932,
-        "name": "Bubblegum Crisis",
-        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Auxiliary Conundrum level is 6 or higher",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092631,
@@ -4943,25 +5048,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092933,
-        "name": "Sea of Rust",
-        "desc": "Clear Simulated Universe: Gold and Gears at Conundrum Level 12 or higher in Torturous Difficulty",
-        "rarity": 2,
-        "version": "1.6"
-      },
-      {
         "id": 4092632,
         "name": "Mass Relay",
         "desc": "Have the Planar Disarray's Disruption Level at level 20 or higher when completing Simulated Universe: Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092934,
-        "name": "Key to a Bygone Space",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have the Planar Disarray's Disruption Level at level 20 or higher",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092636,
@@ -4971,25 +5062,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092935,
-        "name": "King of Curses",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have 10 or more Negative Curio(s)",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092637,
         "name": "Stranger in a Strange Land",
         "desc": "Collect all Trailblaze Secrets stories in Simulated Universe: Swarm Disaster",
         "rarity": 2,
         "version": "1.3"
-      },
-      {
-        "id": 4092936,
-        "name": "Normal Distribution",
-        "desc": "In Simulated Universe: Gold and Gears, roll 6 different Dice Faces in succession on the same Communing Device",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -4999,25 +5076,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092937,
-        "name": "Gloomy Blues",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have 6 blue Dice Face(s) equipped (Difficulty III or higher)",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092639,
         "name": "Plague Across Eons",
         "desc": "Collect chapter The Hunt I in Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092938,
-        "name": "All Watched Over By Machines of Loving Grace",
-        "desc": "In Simulated Universe: Gold and Gears, endure 10 or more Resonance Extrapolation(s) in a single battle",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -5027,18 +5090,270 @@
         "version": "1.3"
       },
       {
-        "id": 4092939,
-        "name": "Wheel of Destiny",
-        "desc": "In Simulated Universe: Gold and Gears, obtain the grand prize 1 time(s) in Lucky Compass Challenge",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092641,
         "name": "How One Becomes What One Is",
         "desc": "Collect chapter Nihility I in Swarm Disaster",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092902,
+        "name": "All Hail Deus Eruditionis",
+        "desc": "In Simulated Universe, unlock 1 Blessings of Erudition",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092903,
+        "name": "Omnissiah",
+        "desc": "When clearing Simulated Universe, have 10 or more Blessing(s) of Erudition",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092904,
+        "name": "The Four Color Theorem",
+        "desc": "In Simulated Universe: Gold and Gears, apply the Knowledge effect to a total of 200 domains",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092905,
+        "name": "World on a Wire",
+        "desc": "In Simulated Universe: Gold and Gears, watch a total of 10 recommended Secret stories",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092906,
+        "name": "Galaxy Brain",
+        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches 40",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092907,
+        "name": "The Mental Pale",
+        "desc": "In Simulated Universe: Gold and Gears, Intra-Cognition reaches -40",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092909,
+        "name": "Hive Mind",
+        "desc": "In Simulated Universe: Gold and Gears, complete 50 changes to Intra-Cognition",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092910,
+        "name": "The Wolf of Astral Street",
+        "desc": "In Simulated Universe: Gold and Gears, achieve great investment success in the Occurrence \"Interastral Peace Investment Device\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092911,
+        "name": "Pacifica Is Still Pacifica",
+        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheating Code (II) Occurrence.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092912,
+        "name": "Class-D Personnel",
+        "desc": "In Simulated Universe: Gold and Gears, enhance a Curio 1 time(s) in the Interastral Peace Mechanical Branch Shopping Mall (II) Occurrence",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092913,
+        "name": "A Death Knell for Leibowitz",
+        "desc": "When clearing Simulated Universe: Gold and Gears, achieve victory in 25 or more battle(s) using Custom Dice: Combat Extrapolation",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092914,
+        "name": "Tau Zero",
+        "desc": "When clearing Simulated Universe: Gold and Gears, complete Occurrence interaction 20 or more time(s) using Custom Dice: Occurrence Extrapolation",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092915,
+        "name": "Changing Planes",
+        "desc": "In Simulated Universe: Gold and Gears, use Custom Dice: Pursuit to enter 5 or more non-adjacent domain(s) in succession",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092916,
+        "name": "When Pigs Pry",
+        "desc": "When clearing Simulated Universe: Gold and Gears, defeat 15 or more Trotter(s) in combat using Custom Dice: Trotter Extrapolation",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092917,
+        "name": "Star Port Controller",
+        "desc": "When clearing Simulated Universe: Gold and Gears, enter 15 or more domain(s) with a beacon using Custom Dice: Walker Symbiosis",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092918,
+        "name": "To Terminus",
+        "desc": "When clearing Simulated Universe: Gold and Gears, the domains entered with Custom Dice: Ultra-Remote Beacon contain beacons of all different types",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092919,
+        "name": "The Man Who Sold the Moon",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 2048 or more Cosmic Fragment(s) using Custom Dice: Investment Sale",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092920,
+        "name": "Halcyon Holdings Corporate Board Specialist",
+        "desc": "When clearing Simulated Universe: Gold and Gears, apply the Knowledge effect to 30 or more domain(s) using the Custom Dice: Amber Barrier",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092921,
+        "name": "Time Enough for Play",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 30 or more points in the countdown using Custom Dice: Countdown",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092922,
+        "name": "Spacer's Choice Vendor",
+        "desc": "When clearing Simulated Universe: Gold and Gears, make 20 or more purchase(s) across the Blessing, Curio, or Enhance stores using Custom Dice: Company Time",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092923,
+        "name": "The Merchant and the Alchemist's Gate",
+        "desc": "When clearing Simulated Universe: Gold and Gears, use 25 or more reroll or cheat attempt(s) using Custom Dice: Data Inflation",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092924,
+        "name": "Herta's Treasure",
+        "desc": "When clearing Simulated Universe: Gold and Gears, acquire 30 or more Curio(s) using Custom Dice: Curio Extrapolation",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092925,
+        "name": "I Am Alpha",
+        "desc": "Collect the Gold and Gears' Aeon Secret \"Beginning\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092926,
+        "name": "I Am Omega",
+        "desc": "Collect the Gold and Gears' Aeon Secret \"Finale\"",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092927,
+        "name": "Sixty-Sided Die",
+        "desc": "In Simulated Universe: Gold and Gears, unlock 60 Dice Face(s)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092928,
+        "name": "Roulette of Destiny",
+        "desc": "In Simulated Universe: Gold and Gears, unlock all 12 Custom Dice",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092929,
+        "name": "XK-Class Scenario",
+        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty V",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092930,
+        "name": "Mechanical Ascension",
+        "desc": "In Simulated Universe: Gold and Gears, activate the No. 1 Neural Network node",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092931,
+        "name": "Colossus: The Forbin Project",
+        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Stats Conundrum level is 6 or higher",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092932,
+        "name": "Bubblegum Crisis",
+        "desc": "Clear Simulated Universe: Gold and Gears in Torturous Difficulty when the Auxiliary Conundrum level is 6 or higher",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092933,
+        "name": "Sea of Rust",
+        "desc": "Clear Simulated Universe: Gold and Gears at Conundrum Level 12 or higher in Torturous Difficulty",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092934,
+        "name": "Key to a Bygone Space",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have the Planar Disarray's Disruption Level at level 20 or higher",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092935,
+        "name": "King of Curses",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 10 or more Negative Curio(s)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092936,
+        "name": "Normal Distribution",
+        "desc": "In Simulated Universe: Gold and Gears, roll 6 different Dice Faces in succession on the same Communing Device",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092937,
+        "name": "Gloomy Blues",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 6 blue Dice Face(s) equipped (Difficulty III or higher)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092938,
+        "name": "All Watched Over By Machines of Loving Grace",
+        "desc": "In Simulated Universe: Gold and Gears, endure 10 or more Resonance Extrapolation(s) in a single battle",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092939,
+        "name": "Wheel of Destiny",
+        "desc": "In Simulated Universe: Gold and Gears, obtain the grand prize 1 time(s) in Lucky Compass Challenge",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092940,

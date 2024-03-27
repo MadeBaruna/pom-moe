@@ -372,21 +372,21 @@
       {
         "id": 4032802,
         "name": "L'amour du risque",
-        "desc": "Vivre différentes aventures surnaturelles au Jardin de vulpeflâne en compagnie de Guinaifen\\n<color=#8790abff>※ Emprisonnez la grande Cirrus, et résolvez la crise des Héliobes au Jardin de vulpeflâne.</color>",
+        "desc": "Vivre différentes aventures surnaturelles au Jardin de vulpeflâne en compagnie de Guinaifen\\n<color=#8790abff>※ Emprisonner la grande Cirrus, et résoudre la crise des Héliobes au Jardin de vulpeflâne.</color>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032801,
         "name": "Pas de ménage sans Plumeau",
-        "desc": "Partir à l'aventure avec la brigade de chasse aux fantômes\\n<color=#8790abff>※ Retrouvez Plumeau et emprisonnez les Héliobes en cavale qui sévissent à bord du Luofu...</color>",
+        "desc": "Partir à l'aventure avec la brigade de chasse aux fantômes\\n<color=#8790abff>※ Retrouver Plumeau et emprisonner les Héliobes en cavale qui sévissent à bord du Luofu...</color>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032901,
         "name": "Génies et Indigents",
-        "desc": "Résoudre la nouvelle crise à bord de la Station spatiale Herta\\n<color=#8790abff>※ Terminez la continuité pionnière « Couronne du commun et du divin »</color>.",
+        "desc": "Résoudre la nouvelle crise à bord de la Station spatiale Herta\\n<color=#8790abff>※ Terminer la continuité pionnière « Couronne du commun et du divin »</color>.",
         "rarity": 2,
         "version": "1.6"
       },
@@ -400,28 +400,28 @@
       {
         "id": 4033002,
         "name": "Un pionnier au Pays des rêves",
-        "desc": "Vous êtes arrivé dans l'incroyable Terre des rêves !\\n<color=#8790abff>※ Découvrir l'Heure dorée</color>",
+        "desc": "Vous êtes arrivé dans l'incroyable terre des rêves !\\n<color=#8790abff>※ Découvrir l'Heure dorée</color>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033003,
         "name": "Nocturne ou la Gentillesse",
-        "desc": "La traversée d'une étoile filante dans le ciel onirique.\\n<color=#8790abff>※ Découvrir les secrets de Luciole à la Frontière des rêves</color>",
+        "desc": "Assister à une pluie d'étoiles filantes dans le ciel onirique\\n<color=#8790abff>※ Découvrir les secrets de Luciole à la Frontière des rêves</color>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033004,
         "name": "En quête de douceur",
-        "desc": "Découvrez une joie inattendue au Pays des rêves\\n<color=#8790abff>※ Échappez à l'ombre de la « mort »</color>",
+        "desc": "Découvrir une joie inattendue au Pays des rêves\\n<color=#8790abff>※ Échapper à l'ombre de la « Mort »</color>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033005,
         "name": "Anciens et nouveaux amis",
-        "desc": "Ressentez la chaleur enfouie dans les profondeurs des souvenirs...\\n<color=#8790abff>※ Combattre Sam, le Chasseur de Stellaron</color>",
+        "desc": "Ressentir la chaleur enfouie dans les profondeurs des souvenirs...\\n<color=#8790abff>※ Combattre Sam, le Chasseur de Stellaron</color>",
         "rarity": 2,
         "version": "2.0"
       },
@@ -431,6 +431,34 @@
         "desc": "Penacony va s'embraser à cause de ça...\\n<color=#8790abff>※ Assister au second meurtre</color>",
         "rarity": 2,
         "version": "2.0"
+      },
+      {
+        "id": 4033007,
+        "name": "Sibylle, que désires-tu donc ?",
+        "desc": "Où la chance mènera-t-elle les joueurs ?\\n<color=#8790abff>※ Découvrir la vie d'Akavasha</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033009,
+        "name": "Une goutte d'alcool",
+        "desc": "Santé aux beaux rêves et aux rêveurs !\\n<color=#8790abff>※ Obtenir le cocktail spécial de Gallagher</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033010,
+        "name": "Elle me répondit qu'elle voulait mourir",
+        "desc": "Être en première place pour assister au grand final\\n<color=#8790abff>※ Vaincre Aventurine des Dix cœurs de pierre</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033011,
+        "name": "Pour Icare",
+        "desc": "Revivre le passé sur une terre lointaine\\n<color=#8790abff>※ Écouter la conversation entre Achéron et Welt</color>",
+        "rarity": 2,
+        "version": "2.1"
       }
     ]
   },
@@ -776,14 +804,14 @@
       {
         "id": 4043004,
         "name": "Le poussin piou",
-        "desc": "Aider 1 oiseaux en origami à retourner au Grand arbre.",
+        "desc": "Aider 1 oiseau en origami à retourner au Grand arbre",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043005,
         "name": "Veux-tu, veux-tu, au Grand arbre me trouver",
-        "desc": "Aider 60 oiseau en origami à retourner au Grand arbre",
+        "desc": "Aider 60 oiseaux en origami à retourner au Grand arbre",
         "rarity": 1,
         "version": "2.0"
       },
@@ -817,7 +845,7 @@
       },
       {
         "id": 4043010,
-        "name": "Fly Me 2 the Balloon",
+        "name": "FlyMe2theBalloon",
         "desc": "Éclater le ballon spécial de Boss Stone dans l'Heure dorée",
         "rarity": 1,
         "version": "2.0"
@@ -832,7 +860,7 @@
       {
         "id": 4043012,
         "name": "Balloon Impact 3rd",
-        "desc": "Éclater le ballon spécial de Boss Stone dans le Rêve d'enfant",
+        "desc": "Éclater le ballon spécial de Boss Stone dans Rêve d'enfant",
         "rarity": 1,
         "version": "2.0"
       },
@@ -846,7 +874,7 @@
       {
         "id": 4043014,
         "name": "PEGI 18",
-        "desc": "Entrer dans l'Auberge Chocmar pour la première fois",
+        "desc": "Entrer dans la Taverne Chocmar pour la première fois",
         "rarity": 1,
         "version": "2.0"
       },
@@ -860,7 +888,7 @@
       {
         "id": 4043016,
         "name": "Touche-à-tout",
-        "desc": "Utiliser la capacité Marche-rêve et marcher sur un pont de bulle",
+        "desc": "Utiliser la capacité Marche-rêve et marcher sur un pont de bulle pour la première fois",
         "rarity": 1,
         "version": "2.0"
       },
@@ -898,6 +926,111 @@
         "desc": "Collecter 15 éléments de lecture à Penacony",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4043022,
+        "name": "Maman, j'ai raté l'avion",
+        "desc": "Vaincre 3 sbires de Boss Stone simultanément dans un niveau des Aventures de Hanu",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043023,
+        "name": "Anti-ballon",
+        "desc": "Éclater le ballon spécial de Boss Stone au Parc d'attractions des Studios Chrono",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043024,
+        "name": "Contes de la cité des rêves",
+        "desc": "Éclater le ballon spécial de Boss Stone au Manoir de la rosée",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043025,
+        "name": "Voiture de sécurité",
+        "desc": "Terminer un tournage sans une égratignure dans n'importe quel mode des Amis de Chronou",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043026,
+        "name": "Ligne de course peu conventionnelle",
+        "desc": "Rester sur la voie du milieu pendant #1 s dans n'importe quel mode des Amis de Chronou",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043027,
+        "name": "Pole position",
+        "desc": "Récupérer un maximum d'énergie pendant le Dragster hamster ou le Moment de Hanu dans n'importe quel mode des Amis de Chronou",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043028,
+        "name": "Le DRS fait toute la différence",
+        "desc": "Faire 10 Turbo accélérations d'affilée dans « Amis de Chronou : Fast & Fruits secs »",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043029,
+        "name": "Lente descente en enfer",
+        "desc": "Vaincre tous les ennemis qui apparaissent dans « Amis de Chronou : La voie du loup »",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043030,
+        "name": "Une ville de rêve, le paradis Vieux-Chêne !",
+        "desc": "Entrer pour la première fois dans la maquette du Manoir de la rosée",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043031,
+        "name": "L'industrialisation Tisserêve",
+        "desc": "Terminer le défi Marche-rêve au Manoir de la rosée pour gagner des revenus complémentaires",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043032,
+        "name": "Tirer les vers du nez",
+        "desc": "Se transformer en Hanu et utiliser le Bazook-Hanu pour vaincre les sbires de Boss Stone une première fois",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043033,
+        "name": "Vivre avec un loup",
+        "desc": "Récupérer la collection complète des <i>Aventures de Hanu (Partie 2)</i>",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043034,
+        "name": "Artillerie lourde",
+        "desc": "Obtenir le maximum de munitions pour le Bazook-Hanu dans les Aventures de Hanu",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043035,
+        "name": "Fête en cachette",
+        "desc": "Découvrir la zone secrète du Parc d'attractions des Studios Chrono à l'aide du Flipper à bulles",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043036,
+        "name": "Pac-Man",
+        "desc": "Détruire tous les objets destructibles dans le labyrinthe du Parc d'attractions des Studios Chrono",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -2216,21 +2349,21 @@
       {
         "id": 4053012,
         "name": "Le vrai goût des émotions",
-        "desc": "À quoi sert le pouvoir de la Pendule ?\\n<color=#8790abff>※ Guider les émotions de #1 personnes du Pays des rêves</color>",
+        "desc": "À quoi sert le pouvoir de la Pendule ?\\n<color=#8790abff>※ Guider les émotions d'#1 personne du Pays des rêves</color>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053014,
         "name": "Vague de chaleur",
-        "desc": "Le pouvoir de la Pendule peut aider les gens à se redécouvrir.\\n<color=#8790abff>※ Résoudre #1 événements imprévus grâce au pouvoir de la Pendule</color>",
+        "desc": "Le pouvoir de la Pendule peut aider les gens à se redécouvrir.\\n<color=#8790abff>※ Résoudre #1 événement imprévu grâce au pouvoir de la Pendule</color>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053015,
         "name": "Tambour battant",
-        "desc": "Dans les rêves, les émotions sont réelles.\\n<color=#8790abff>※ Récupérer #1 engrenages émotionnels</color>",
+        "desc": "Dans les rêves, les émotions sont réelles.\\n<color=#8790abff>※ Récupérer #1 engrenage émotionnel</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2419,7 +2552,7 @@
       {
         "id": 4053042,
         "name": "Déjà-vu",
-        "desc": "Découvrir les « paysages » familiers du Pays des rêves\\n<color=#8790abff>※ Yep, c'est une poubelle !</color>",
+        "desc": "Découvrir les « paysages » familiers du Pays des rêves\\n<color=#8790abff>※ Eh oui, c'est une poubelle !</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2499,6 +2632,125 @@
         "desc": "Si tout le monde reçoit de l'argent, alors personne n'est vraiment gagnant\\n<color=#8790abff>※ Déclencher à plusieurs reprises la fontaine à sous dans la rue</color>",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4053054,
+        "name": "Fréquentation : 0",
+        "desc": "Faire en sorte que le bolide Mercéleste classe X perde ses fans",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053055,
+        "name": "Membre de la LPO",
+        "desc": "Devenir un expert en ornithologie au Manoir de la rosée",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053056,
+        "name": "Le plus grand bien",
+        "desc": "Obtenir les #1 produits dérivés de Chronou",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053057,
+        "name": "La cabane dans les bois",
+        "desc": "Être témoin de l'étrange expérience de cinq personnes au Parc d'attractions des Studios Chrono",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053058,
+        "name": "Preuves et Réfutations",
+        "desc": "Dépenser une fortune pour acheter un produit auprès du propriétaire de restaurant lors d'une conversation",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053059,
+        "name": "Une variation nommée « moi »",
+        "desc": "Rencontrer un détective aux traits particuliers du Parc d'attractions des Studios Chrono",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053060,
+        "name": "La Dame en or",
+        "desc": "Examiner le portrait d'un artiste célèbre au Manoir de la rosée",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053061,
+        "name": "Seigneur de la guerre",
+        "desc": "Traduire Oksana en justice",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053062,
+        "name": "Mieux vaut tard que jamais",
+        "desc": "Remettre Oksana aux Fin-Limier",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053063,
+        "name": "Déshonneur de l'héritage",
+        "desc": "Laisser Oksana partir",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053064,
+        "name": "As du cocktail",
+        "desc": "Créer votre cocktail signature à la Taverne Chocmar",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4053065,
+        "name": "Des rêves en bulles",
+        "desc": "Aider tous les monstres de la Taverne Chocmar à apaiser leurs tourments",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053066,
+        "name": "À chacun sa boisson",
+        "desc": "Servir #1 bonnes commandes à la clientèle",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053067,
+        "name": "Omakase",
+        "desc": "Servir #1 mauvaises commandes à la clientèle",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053068,
+        "name": "Marmiton n'a qu'à bien se tenir",
+        "desc": "Trouver toutes les recettes de cocktails de la Taverne Chocmar",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053070,
+        "name": "Portrait de famille",
+        "desc": "Prendre une photo de famille de l'équipage de l'Astral Express au stand photo du Parc d'attractions des Studios Chrono",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053071,
+        "name": "Et on sourit !",
+        "desc": "Prendre une photo de groupe au stand photo du Parc d'attractions des Studios Chrono",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -3514,21 +3766,21 @@
       {
         "id": 4073003,
         "name": "Gare à la poubelle",
-        "desc": "Avoir #1 alliés vaincus par la Poubelle vénérable",
+        "desc": "Avoir #1 allié vaincu par la Poubelle vénérable",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4073004,
         "name": "Tout est prédestiné",
-        "desc": "Appliquer au moins #1 cumuls d'Arcanes aux ennemis grâce à la technique « Du mythe à la réalité » de Cygne noir pour entrer en combat",
+        "desc": "Appliquer au moins #1 cumuls d'Arcanes aux ennemis grâce à la technique « Du mythe à la réalité » de Cygne noir et entrer en combat",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4073005,
         "name": "T—T—Toutes mes excuses !",
-        "desc": "Utiliser l'ultime de Micha « J—Je vais être en retard ! » et geler #1 ennemis en une seule attaque",
+        "desc": "Utiliser l'ultime de Micha « J—Je vais être en retard ! » et geler au moins #1 ennemis en une seule attaque",
         "rarity": 1,
         "version": "2.0"
       },
@@ -3556,16 +3808,72 @@
       {
         "id": 4073009,
         "name": "Combustion silencieuse",
-        "desc": "Au cours du combat contre Sam, le Chasseur de Stellaron, dissiper l'état Combustion secondaire avant qu'il n'utilise « DHGDR : Surcharge supernova » dans cet état",
+        "desc": "Au cours du combat contre Sam, le Chasseur de Stellaron, Sam n'utilise pas « DHGDR : Surcharge supernova » quand l'effet Combustion secondaire est supprimé.",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4073010,
         "name": "Enflamme mon cœur, que mon corps brûle",
-        "desc": "Utiliser des points de compétence avec l'effet Combustion pour réduire les PV de #1 alliés en dessous de #2% au cours du combat contre Sam, le Chasseur de Stellaron",
+        "desc": "Utiliser des points de compétence calcinés pour réduire les PV d'#1 allié en dessous de #2% au cours du combat contre Sam, le Chasseur de Stellaron",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4073011,
+        "name": "Double six",
+        "desc": "Provoquer au moins #1 Tout ou rien en une seule attaque pour obtenir #2 points à la fois au cours du combat contre Aventurine du Stratagème (Dix cœurs de pierre)",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073012,
+        "name": "All My People, All My People...",
+        "desc": "Avoir #1 personnages dans l'équipe qui gagnent la Partie au cours du même tour dans le combat contre Aventurine du Stratagème (Dix cœurs de pierre)",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073013,
+        "name": "Lady Snowblood",
+        "desc": "Utiliser l'ultime d'Achéron « Rêve flétri écarlate » pour vaincre tous les ennemis et remporter la victoire au cours d'un même combat",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073014,
+        "name": "Vol de blindes",
+        "desc": "Utiliser l'ultime d'Aventurine « Roi de la roulette » pour récupérer #2 Paris aveugles lorsque Pari aveugle est à #1 au cours d'un même combat",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073015,
+        "name": "Éradiquer la chaleur",
+        "desc": "Supprimer tous les cumuls de Brasier obscur de la Créature mémorielle « Carapace de colère réprimée » lors d'une Rupture de faiblesse",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073016,
+        "name": "Combattre le feu par le feu",
+        "desc": "Vaincre la Créature mémorielle « Carapace de colère réprimée » sans lui infliger de Rupture de faiblesse au cours du même combat",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073017,
+        "name": "Évaluation des performances",
+        "desc": "Utiliser Aventurine pour vaincre le Chef d'équipe et porter le coup de grâce",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4083009,
+        "name": "Le jugement divin est impartial",
+        "desc": "Utiliser la technique d'Achéron « Chemin de la réalisation » pour vaincre #1 ennemis à la fois en mode exploration",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -3876,7 +4184,7 @@
       {
         "id": 4082607,
         "name": "Astral Express-ion",
-        "desc": "Envoyer des autocollants de l'équipage de l'Astral Express à 20 amis",
+        "desc": "Envoyer 20 autocollants de l'équipage de l'Astral Express",
         "rarity": 1,
         "version": "1.3"
       },
@@ -4023,7 +4331,7 @@
       {
         "id": 4083003,
         "name": "Pourquoi les oiseaux volent-ils ?",
-        "desc": "Interagir #2 fois ou plus avec les modules oniriques de contrôle en forme d'oiseau en #1 minutes",
+        "desc": "Interagir #2 fois ou plus avec les modules oniriques de contrôle en forme d'oiseau en #1 minute",
         "rarity": 1,
         "version": "2.0"
       },
@@ -4072,9 +4380,16 @@
       {
         "id": 4083008,
         "name": "Toute vérité doit circuler comme l'argent",
-        "desc": "Participer à #1# combats en utilisant Dr Ratio comme soutien",
+        "desc": "Participer à #1 combat en utilisant Dr Ratio comme soutien",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4083010,
+        "name": "Pourquoi cet oiseau en origami est-il si grand ?",
+        "desc": "Sortir le Grand oiseau en origami du Manoir de la rosée",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4454,7 +4769,7 @@
       },
       {
         "id": 4092350,
-        "name": "Si je peux empêcher un cœur de se briser",
+        "name": "If I Can Stop One Heart From Breaking",
         "desc": "Terminer l'Univers simulé au niveau de difficulté 2 ou plus sans détruire d'objets destructibles",
         "rarity": 1,
         "version": "1.0"
@@ -4523,25 +4838,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092902,
-        "name": "Gloire à l'Érudition",
-        "desc": "Débloquer 1 bénédiction de l'Érudition dans l'Univers simulé",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092602,
         "name": "The Hunter Games",
-        "desc": "Capturer 8 Magorets en combattant dans le même plan tout en suivant la Voie de la Chasse dans le Désastre de l'Essaim",
+        "desc": "Capturer plus de 8 Magorets en combattant dans le même plan tout en suivant la Voie de la Chasse dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092903,
-        "name": "Omniscience",
-        "desc": "Terminer l'Univers simulé avec au moins 10 bénédictions de l'Érudition",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092603,
@@ -4551,25 +4852,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092904,
-        "name": "Théorème des quatre couleurs",
-        "desc": "Appliquer l'effet Connaissance à 200 zones dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092604,
         "name": "The Predator",
         "desc": "Terminer le Désastre de l'Essaim avec 40 victoires en combat en suivant la Voie de la Destruction",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092905,
-        "name": "Le monde connecté",
-        "desc": "Regarder 10 histoires recommandées dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092605,
@@ -4579,25 +4866,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092906,
-        "name": "Connaissances infinies",
-        "desc": "Atteindre une introspection de 40 dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092606,
         "name": "L'Univers simulé ne s'est pas fait en un jour",
         "desc": "Terminer le Désastre de l'Essaim en ayant appliqué Pierre angulaire à 8 zones de types différents en suivant la Voie de la Préservation",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092907,
-        "name": "Limitation mentale",
-        "desc": "Atteindre une introspection de - 40 dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092607,
@@ -4607,25 +4880,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092909,
-        "name": "Esprit changeant",
-        "desc": "Changer d'introspection 50 fois dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092608,
         "name": "Retour à Klendathu",
         "desc": "Terminer le Désastre de l'Essaim en étant entré dans des Zones de combat de l'Essaim, d'événement de l'Essaim ou de boss de l'Essaim 15 fois en suivant la Voie de la Propagation",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092910,
-        "name": "Le loup d'Astral Street",
-        "desc": "Investir avec succès dans l'événement Appareil d'investissement de la Paix Interastrale d'Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -4635,25 +4894,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092911,
-        "name": "Pacifica reste Pacifica",
-        "desc": "Perdre le combat de l'événement Code de triche (II) dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092610,
         "name": "Faire parler la poudre",
         "desc": "Lancer le dé d'audience de la Chasse un total de 100 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092912,
-        "name": "Employé de rang D",
-        "desc": "Améliorer une bizarrerie 1 fois au cours de l'événement Centre commercial mécanique de la Paix Interastrale (II) dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -4663,25 +4908,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092913,
-        "name": "Un cantique pour Leibowitz",
-        "desc": "Avoir remporté la victoire au cours de 25 combat(s) ou plus en utilisant le dé personnalisé : Extrapolation de combat lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092612,
         "name": "Le Monde comme représentation",
         "desc": "Lancer le dé d'audience de la Nihilité un total de 100 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092914,
-        "name": "Tau zéro",
-        "desc": "Avoir terminé une interaction d'événement 20 fois ou plus en utilisant le dé personnalisé : Extrapolation d'événement lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -4691,25 +4922,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092915,
-        "name": "Plans parallèles",
-        "desc": "Utiliser le dé personnalisé : Poursuite pour entrer dans 5 zone(s) non-adjacente(s) ou plus à la suite dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092614,
         "name": "Samantabhadra",
         "desc": "Lancer le dé d'audience de l'Abondance un total de 100 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092916,
-        "name": "Cochons décochés",
-        "desc": "Avoir éliminé au moins 15 Magorets en combat en utilisant le dé personnalisé : Extrapolation de Magoret lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -4719,25 +4936,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092917,
-        "name": "Contrôleur de la porte des étoiles",
-        "desc": "Être entré dans 15 zone(s) dotée(s) d'une balise ou plus en utilisant le dé personnalisé : Symbiose du marcheur lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092616,
         "name": "Les Enfants de Mathusalem",
         "desc": "Lancer le dé d'audience de la Propagation un total de 100 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092918,
-        "name": "Direction Terminus",
-        "desc": "Être entré dans des zones avec tous les types différents de balises en utilisant le dé personnalisé : Balise à ultra-distance lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -4747,25 +4950,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092919,
-        "name": "L'homme qui vendit la Lune",
-        "desc": "Avoir obtenu au moins 2048 fragments cosmiques grâce à l'utilisation du dé personnalisé : Cession de parts lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092618,
         "name": "Love & the Emperor",
         "desc": "<u>Obtenir des pouvoirs illimités</u> dans la Saga de la CPI du Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092920,
-        "name": "Méga-corporation de Halcyon",
-        "desc": "Avoir appliqué l'effet Connaissance à 30 zones ou plus en utilisant le dé personnalisé : Bouclier d'ambre lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092619,
@@ -4775,25 +4964,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092921,
-        "name": "Une petite dernière ?",
-        "desc": "Avoir eu au moins 30 points dans le compte à rebours en utilisant le dé personnalisé : Compte à rebours lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092620,
         "name": "Bienvenue au Valhalla",
         "desc": "Échouer lors de la bataille déclenchée par l'événement Yu Qingtu, membre n°55 de la Société des génies dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092922,
-        "name": "J'ai dépensé sans compter",
-        "desc": "Avoir fait 20 achats ou plus dans les boutiques de bénédictions, de bizarreries ou de renforcements en utilisant le dé personnalisé : Temps de l'entreprise lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092621,
@@ -4803,25 +4978,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092923,
-        "name": "Le Marchand et la porte de l'alchimiste",
-        "desc": "Avoir utilisé 25 chances ou plus de relancer les dés ou de tricher en utilisant le dé personnalisé : Inflation de données lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092622,
         "name": "Attrapez-les tous !",
         "desc": "Capturer au moins 16 Magorets dans une Zone d'aventure du Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092924,
-        "name": "Le trésor de Herta",
-        "desc": "Avoir obtenu au moins 30 bizarreries en utilisant le dé personnalisé : Extrapolation de bizarrerie lorsque vous terminez Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -4831,25 +4992,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092925,
-        "name": "Je suis l'Alpha",
-        "desc": "Récupérer le Secret d'Aiôn « Débuts » dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092624,
         "name": "Concerto pour une voix",
         "desc": "Générer 2 Combinaisons de résonance en une seule session du Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092926,
-        "name": "Je suis l'Oméga",
-        "desc": "Récupérer le Secret d'Aiôn « Chapitre final » dans Or et machines",
-        "rarity": 2,
-        "version": "1.6"
       },
       {
         "id": 4092625,
@@ -4859,25 +5006,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092927,
-        "name": "Dé à soixante faces",
-        "desc": "Débloquer 60 face(s) de dé dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092626,
         "name": "Cadran de la destinée",
         "desc": "Terminer tous les choix des Voies des Zones d'événement du Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092928,
-        "name": "Caprice du destin",
-        "desc": "Débloquer l'ensemble des 12 dés personnalisés d'Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -4887,25 +5020,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092929,
-        "name": "Scénario de classe XK",
-        "desc": "Terminer Or et machines en difficulté V",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092628,
         "name": "Retour vers le futur",
         "desc": "Relancer le dé 50 fois dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092930,
-        "name": "Ascension mécanique",
-        "desc": "Activer le nœud de connexion neuronale n° 1 dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092629,
@@ -4915,25 +5034,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092931,
-        "name": "Le Cerveau d'acier",
-        "desc": "Terminer Or et machines en difficulté supplice avec un Niv. de casse-tête de stats supérieur ou égal à 6",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092630,
         "name": "Sur la comète",
         "desc": "Terminer tous les objectifs de n'importe quelle Zone d'aventure du Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092932,
-        "name": "Bubblegum Crisis",
-        "desc": "Terminer Or et machines en difficulté supplice avec un Niv. de casse-tête auxiliaire supérieur ou égal à 6",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092631,
@@ -4943,25 +5048,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092933,
-        "name": "Océan de rouille",
-        "desc": "Terminer Or et machines en difficulté supplice avec un Niv. de casse-tête supérieur ou égal à 12",
-        "rarity": 2,
-        "version": "1.6"
-      },
-      {
         "id": 4092632,
         "name": "Relais cosmodésique",
         "desc": "Terminer le Désastre de l'Essaim avec la Rupture planaire au Niv. 20 ou plus",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092934,
-        "name": "Clé d'un espace résolu",
-        "desc": "Terminer Or et machines avec la Rupture planaire au Niv. 20 ou plus",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092636,
@@ -4971,25 +5062,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092935,
-        "name": "Roi des Fléaux",
-        "desc": "Terminer Or et machines avec au moins 10 bizarreries négatives en votre possession",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092637,
         "name": "En terre étrangère",
         "desc": "Récupérer tous les Secrets de pionnier dans le Désastre de l'Essaim",
         "rarity": 2,
         "version": "1.3"
-      },
-      {
-        "id": 4092936,
-        "name": "Loi normale",
-        "desc": "Faire 6 jets de face de dé différents à la suite sur le même dispositif de communion dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -4999,25 +5076,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092937,
-        "name": "Blu Da Ba Dee",
-        "desc": "Terminer Or et machines avec 6 faces de dé bleues équipées (difficulté III ou plus)",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092639,
         "name": "La peste à travers les éons",
         "desc": "Récupérer le chapitre « La Chasse I » dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092938,
-        "name": "Tous surveillés par des machines d'amour et de grâce",
-        "desc": "Survivre à 10 Extrapolation(s) de résonance ou plus au cours d'un même combat dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -5027,18 +5090,270 @@
         "version": "1.3"
       },
       {
-        "id": 4092939,
-        "name": "Roue du destin",
-        "desc": "Obtenir le grand prix du défi de la boussole porte-bonheur 1 fois dans Or et machines",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092641,
         "name": "Comment on devient ce que l'on est",
         "desc": "Récupérer le chapitre « La Nihilité I » dans le Désastre de l'Essaim",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092902,
+        "name": "Gloire à l'Érudition",
+        "desc": "Débloquer 1 bénédiction de l'Érudition dans l'Univers simulé",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092903,
+        "name": "Omniscience",
+        "desc": "Terminer l'Univers simulé avec au moins 10 bénédictions de l'Érudition",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092904,
+        "name": "Théorème des quatre couleurs",
+        "desc": "Appliquer l'effet Connaissance à 200 zones dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092905,
+        "name": "Le monde connecté",
+        "desc": "Regarder 10 histoires recommandées dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092906,
+        "name": "Connaissances infinies",
+        "desc": "Atteindre une introspection de 40 dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092907,
+        "name": "Limitation mentale",
+        "desc": "Atteindre une introspection de - 40 dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092909,
+        "name": "Esprit changeant",
+        "desc": "Changer d'introspection 50 fois dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092910,
+        "name": "Le loup d'Astral Street",
+        "desc": "Investir avec succès dans l'événement Appareil d'investissement de la Paix Interastrale d'Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092911,
+        "name": "Pacifica reste Pacifica",
+        "desc": "Perdre le combat de l'événement Code de triche (II) dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092912,
+        "name": "Employé de rang D",
+        "desc": "Améliorer une bizarrerie 1 fois au cours de l'événement Centre commercial mécanique de la Paix Interastrale (II) dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092913,
+        "name": "Un cantique pour Leibowitz",
+        "desc": "Avoir remporté la victoire au cours de 25 combat(s) ou plus en utilisant le dé personnalisé : Extrapolation de combat lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092914,
+        "name": "Tau zéro",
+        "desc": "Avoir terminé une interaction d'événement 20 fois ou plus en utilisant le dé personnalisé : Extrapolation d'événement lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092915,
+        "name": "Plans parallèles",
+        "desc": "Utiliser le dé personnalisé : Poursuite pour entrer dans 5 zone(s) non-adjacente(s) ou plus à la suite dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092916,
+        "name": "Cochons décochés",
+        "desc": "Avoir éliminé au moins 15 Magorets en combat en utilisant le dé personnalisé : Extrapolation de Magoret lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092917,
+        "name": "Contrôleur de la porte des étoiles",
+        "desc": "Être entré dans 15 zone(s) dotée(s) d'une balise ou plus en utilisant le dé personnalisé : Symbiose du marcheur lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092918,
+        "name": "Direction Terminus",
+        "desc": "Être entré dans des zones avec tous les types différents de balises en utilisant le dé personnalisé : Balise à ultra-distance lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092919,
+        "name": "L'homme qui vendit la Lune",
+        "desc": "Avoir obtenu au moins 2048 fragments cosmiques grâce à l'utilisation du dé personnalisé : Cession de parts lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092920,
+        "name": "Méga-corporation de Halcyon",
+        "desc": "Avoir appliqué l'effet Connaissance à 30 zones ou plus en utilisant le dé personnalisé : Bouclier d'ambre lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092921,
+        "name": "Une petite dernière ?",
+        "desc": "Avoir eu au moins 30 points dans le compte à rebours en utilisant le dé personnalisé : Compte à rebours lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092922,
+        "name": "J'ai dépensé sans compter",
+        "desc": "Avoir fait 20 achats ou plus dans les boutiques de bénédictions, de bizarreries ou de renforcements en utilisant le dé personnalisé : Temps de l'entreprise lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092923,
+        "name": "Le Marchand et la porte de l'alchimiste",
+        "desc": "Avoir utilisé 25 chances ou plus de relancer les dés ou de tricher en utilisant le dé personnalisé : Inflation de données lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092924,
+        "name": "Le trésor de Herta",
+        "desc": "Avoir obtenu au moins 30 bizarreries en utilisant le dé personnalisé : Extrapolation de bizarrerie lorsque vous terminez Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092925,
+        "name": "Je suis l'Alpha",
+        "desc": "Récupérer le Secret d'Aiôn « Débuts » dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092926,
+        "name": "Je suis l'Oméga",
+        "desc": "Récupérer le Secret d'Aiôn « Chapitre final » dans Or et machines",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092927,
+        "name": "Dé à soixante faces",
+        "desc": "Débloquer 60 face(s) de dé dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092928,
+        "name": "Caprice du destin",
+        "desc": "Débloquer l'ensemble des 12 dés personnalisés d'Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092929,
+        "name": "Scénario de classe XK",
+        "desc": "Terminer Or et machines en difficulté V",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092930,
+        "name": "Ascension mécanique",
+        "desc": "Activer le nœud de connexion neuronale n° 1 dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092931,
+        "name": "Le Cerveau d'acier",
+        "desc": "Terminer Or et machines en difficulté supplice avec un Niv. de casse-tête de stats supérieur ou égal à 6",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092932,
+        "name": "Bubblegum Crisis",
+        "desc": "Terminer Or et machines en difficulté supplice avec un Niv. de casse-tête auxiliaire supérieur ou égal à 6",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092933,
+        "name": "Océan de rouille",
+        "desc": "Terminer Or et machines en difficulté supplice avec un Niv. de casse-tête supérieur ou égal à 12",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092934,
+        "name": "Clé d'un espace résolu",
+        "desc": "Terminer Or et machines avec la Rupture planaire au Niv. 20 ou plus",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092935,
+        "name": "Roi des Fléaux",
+        "desc": "Terminer Or et machines avec au moins 10 bizarreries négatives en votre possession",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092936,
+        "name": "Loi normale",
+        "desc": "Faire 6 jets de face de dé différents à la suite sur le même dispositif de communion dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092937,
+        "name": "Blu Da Ba Dee",
+        "desc": "Terminer Or et machines avec 6 faces de dé bleues équipées (difficulté III ou plus)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092938,
+        "name": "Tous surveillés par des machines d'amour et de grâce",
+        "desc": "Survivre à 10 Extrapolation(s) de résonance ou plus au cours d'un même combat dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092939,
+        "name": "Roue du destin",
+        "desc": "Obtenir le grand prix du défi de la boussole porte-bonheur 1 fois dans Or et machines",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092940,

@@ -431,6 +431,34 @@
         "desc": "Ganz Penacony spielt verrückt ...\\n<color=#8790abff>※ Werde Zeuge des zweiten Mordes.</color>",
         "rarity": 2,
         "version": "2.0"
+      },
+      {
+        "id": 4033007,
+        "name": "Sibylle, was willst du?",
+        "desc": "Wohin führt das Glück die Glücksspieler?\\n<color=#8790abff>※ Werde Zeuge des Lebens von „Kakavasha“.</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033009,
+        "name": "Ein Tropfen von dem harten Zeug",
+        "desc": "Grüße an Träume und Träumende!\\n<color=#8790abff>※ Erhalte Gallaghers exklusives Spezialgetränk.</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033010,
+        "name": "Sie sagte, sie wolle sterben",
+        "desc": "Sieh dir vom besten Platz aus das große Finale der Aufführung an.\\n<color=#8790abff>※ Besiege Aventurin der Zehn Steinherzen.</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033011,
+        "name": "An Icarus",
+        "desc": "Höre alte Geschichten erneut in fremdem Land.\\n<color=#8790abff>※ Höre dem Gespräch zwischen Acheron und Welt zu.</color>",
+        "rarity": 2,
+        "version": "2.1"
       }
     ]
   },
@@ -769,21 +797,21 @@
       {
         "id": 4043003,
         "name": "Weltraumspaziergang",
-        "desc": "Schließe die Mission „Schlachthaus“ ab und enthülle die Wahrheit über das Hotel der Traumlandschaft.",
+        "desc": "Schließe die Mission „Schlachthaus“ ab und enthülle die Wahrheit über das Hotel der Traumwelt.",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043004,
         "name": "Piep?",
-        "desc": "Hilf 1 Origamivogel, zum „Mammutbaum“ zurückzukehren.",
+        "desc": "Hilf 1 Origamivogel, zum „Großen Baum“ zurückzukehren.",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043005,
         "name": "Piep! Piep! Piep!",
-        "desc": "Hilf 60 Origamivögeln, zum „Mammutbaum“ zurückzukehren.",
+        "desc": "Hilf 60 Origamivogel, zum „Großen Baum“ zurückzukehren.",
         "rarity": 1,
         "version": "2.0"
       },
@@ -860,7 +888,7 @@
       {
         "id": 4043016,
         "name": "Mädchen für alles",
-        "desc": "Besteige zum ersten Mal mit der Fähigkeit „Traumwandler“ die Brücke in der Traumblase.",
+        "desc": "Besteige zum ersten Mal mit der Fähigkeit „Traumwandler“ die Traumblasen-Brücke.",
         "rarity": 1,
         "version": "2.0"
       },
@@ -898,6 +926,111 @@
         "desc": "Sammle 15 Lesbare Elemente auf Penacony.",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4043022,
+        "name": "Allein zu Haus",
+        "desc": "Besiege in einer einzelnen Aktion in Hanus Abenteuer 3 von Stones Handlangern.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043023,
+        "name": "Anti-Ballon",
+        "desc": "Zerstöre den besonderen Ballon von Stone im Themenpark der Clock-Studios.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043024,
+        "name": "Aufzeichnungen von Traumstadt",
+        "desc": "Zerstöre den besonderen Ballon von Stone im Pavillon des Morgentaus.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043025,
+        "name": "Safety-Car",
+        "desc": "Mache unverletzt eine Aufnahme in einem beliebigen Modus der Clockie-Ableger.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043026,
+        "name": "Keine Ideallinie",
+        "desc": "Bleibe in einem beliebigen Modus der Clockie-Ableger #1 Sek. lang inmitten der Fahrbahn stehen.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043027,
+        "name": "Pole To Win",
+        "desc": "Lade in einem beliebigen Modus der Clockie-Ableger während der Wirkungsdauer von „Nuss-Sprint“ oder „Hanu-Time“ erneut volle Energie auf.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043028,
+        "name": "Größter DRS-Begünstigter",
+        "desc": "Führe im Clockie-Ableger „Fast & Furinuss“ 10-mal hintereinander ohne Unterbrechung Extremüberholung durch.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043029,
+        "name": "Langsamer Weg zur Hölle",
+        "desc": "Besiege im Clockie-Ableger „Der Weg des Wolfs“ alle erscheinenden Gegner.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043030,
+        "name": "Stadt der Träume, Paradies der Eichen!",
+        "desc": "Betritt zum ersten Mal das Miniatur-Sandmodell im Pavillon des Morgentaus.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043031,
+        "name": "Traumindustrialisierung",
+        "desc": "Schließe die Traumwandler-Herausforderung im Pavillon des Morgentaus ab, um zusätzlich Geld zu verdienen.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043032,
+        "name": "Blut aus den Steinen heraus",
+        "desc": "Besiege nach der Verwandlung in Hanu zum ersten Mal einen Handlanger von Stone mit Hanu-Raketen.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043033,
+        "name": "Alpha",
+        "desc": "Sammle alle Teile von „Hanus Abenteuer – Teil 2“.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043034,
+        "name": "Volle Feuerkraft",
+        "desc": "Erhalte die maximale Munition von Hanu-Raketen in Hanus Abenteuer.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043035,
+        "name": "Geheimparty",
+        "desc": "Entdecke mithilfe der Flipperkugel den geheimen Bereich im Themenpark der Clock-Studios.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043036,
+        "name": "„Pac-Man“",
+        "desc": "Zerstöre alle zerstörbaren Objekte im Labyrinthgarten des Themenparks der Clock-Studios.",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -2342,7 +2475,7 @@
       {
         "id": 4053031,
         "name": "Die Deutung von Träumen",
-        "desc": "Spähe mit dem Traumspäher-Telefon in die Traumlandschaften von 7 Leuten.",
+        "desc": "Spähe mit dem Traumspäher-Anruf in die Traumlandschaften von 7 Leuten.",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2377,7 +2510,7 @@
       {
         "id": 4053036,
         "name": "Zwischen dem Himmel und dir",
-        "desc": "Besuche noch einmal alleine den Geheimort.\\n<color=#8790abff>※ Kehre nach dem Ende aller Dinge zu Glühwürmchens geheimem Stützpunkt zurück.</color>",
+        "desc": "Besuche noch einmal alleine den Geheimort.\\n<color=#8790abff>※ Kehre nach dem Ende aller Dinge zu Glühwürmchens geheimer Zuflucht zurück.</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2411,7 +2544,7 @@
       },
       {
         "id": 4053041,
-        "name": "Gibt es keine Pepeshi?",
+        "name": "Gibt es keine Pepeshianer?",
         "desc": "Verwende eine Figur, die kleiner ist als Cielo, um mit dieser zu sprechen.",
         "rarity": 1,
         "version": "2.0"
@@ -2440,7 +2573,7 @@
       {
         "id": 4053045,
         "name": "Staatsfeind der Pepeshi",
-        "desc": "Beleidige jeden Pepeshi, den du triffst, auf die dreisteste Art.\\n<color=#8790abff>※ Versuche, das Flauschi von allen Pepeshi in der Goldenen Stunde zu berühren.</color>",
+        "desc": "Beleidige jeden Pepeshianer, den du triffst, auf die dreisteste Art.\\n<color=#8790abff>※ Versuche, das Flauschi von allen Pepeshianern in der Goldenen Stunde zu berühren.</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2499,6 +2632,125 @@
         "desc": "Wenn jeder Geld bekommt, bedeutet das eigentlich, dass niemand Geld bekommt.\\n<color=#8790abff>※ Löse die Geldspuckmaschine auf der Straße wiederholt aus.</color>",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4053054,
+        "name": "Auslastung: Null",
+        "desc": "Lasse den Blitzenden Flitzer seine Fans verlieren.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053055,
+        "name": "Vögel, Kunst, Leben",
+        "desc": "Werde Meister der Vogelbeobachtung im Pavillon des Morgentaus.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053056,
+        "name": "Je mehr, desto besser",
+        "desc": "Erhalte alle #1 Fan-Artikel von Clockie.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053057,
+        "name": "Die Hütte im Wald",
+        "desc": "Werde Zeuge des bizarren Erlebnisses der fünf Menschen irgendwo im Themenpark der Clock-Studios.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053058,
+        "name": "Beweise und Widerlegungen",
+        "desc": "Kaufe beim Gespräch Waren von einem Imbisswagen-Besitzer zu einem hohen Preis.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053059,
+        "name": "Variation namens „Ich“",
+        "desc": "Triff einen ungewöhnlich aussehenden Detektiv im Themenpark der Clock-Studios.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053060,
+        "name": "Die Frau in Gold",
+        "desc": "Untersuche das Porträt einer berühmten Künstlerin im Pavillon des Morgentaus.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053061,
+        "name": "Händler des Todes",
+        "desc": "Ziehe Oksana zur Rechenschaft.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053062,
+        "name": "Besser spät als nie",
+        "desc": "Entlarve Oksana gegenüber den Bluthunden.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053063,
+        "name": "Entehrt",
+        "desc": "Lass Oksana gehen.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053064,
+        "name": "Die ganz Großen!",
+        "desc": "Hinterlasse dein Spezialgetränk in der Insomnibar.",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4053065,
+        "name": "SeelFroh macht die Träume froh",
+        "desc": "Hilf allen Monstern in der Insomnibar, ihre emotionalen Probleme zu lösen.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053066,
+        "name": "Jedem Mensch sein Drink",
+        "desc": "Gib den Kunden #1-mal das richtige Getränk.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053067,
+        "name": "Omakase",
+        "desc": "Gib den Kunden #1-mal das falsche Getränk.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053068,
+        "name": "Punk-Bartender-Aktion",
+        "desc": "Schließe alle Rezeptableitungen in der Insomnibar ab.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053070,
+        "name": "Familienporträt",
+        "desc": "Mache ein Familienfoto der Express-Besatzung bei der Fototafel im Themenpark der Clock-Studios.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053071,
+        "name": "Check-in im Themenpark",
+        "desc": "Mache ein Gruppenfoto bei der Fototafel im Themenpark der Clock-Studios.",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -3052,7 +3304,7 @@
       {
         "id": 4071506,
         "name": "Überfürsorglich",
-        "desc": "Gewinne 1 Kampf/Kämpfe, ohne dass Gepards Schild SCH erleiden.",
+        "desc": "Gewinne 1 Kampf/Kämpfe, ohne dass Gepards Schilde SCH erleiden.",
         "rarity": 2,
         "version": "1.0"
       },
@@ -3500,7 +3752,7 @@
       {
         "id": 4073001,
         "name": "Gute Nacht, Küche",
-        "desc": "Besiege in einem einzigen Kampf mindestens zwei Gegner mithilfe von „Küchenunfall“ von Truppe der Albträume: Durchgekocht.",
+        "desc": "Besiege in einem einzigen Kampf mindestens zwei Gegner mithilfe von „Küchenunfall“ von Truppe der Albträume: Flambosaurus.",
         "rarity": 1,
         "version": "2.0"
       },
@@ -3566,6 +3818,62 @@
         "desc": "Verwende im Kampf gegen Stellaron-Jäger: Sam angezündete Fertigkeitspunkte, um die LP von #1 Verbündeten unter #2% zu verringern.",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4073011,
+        "name": "Doppel-Sechs",
+        "desc": "Lass im Kampf mit Zehn Steinherzen: Aventurin der Kriegslist bei einem Angriff mindestens #1 „Alles oder nichts“ gleichzeitig #2 Pkt. würfeln.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073012,
+        "name": "All my people, all my people ...",
+        "desc": "Im Kampf mit Zehn Steinherzen: Aventurin der Kriegslist gewinnen #1 Figuren im Team im selben Spiel.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073013,
+        "name": "Lady Schneeblut",
+        "desc": "Verwende in einem Kampf Acherons Ultimate „Verblassende Träume, ein Klingenstreich“, um alle Gegner zu besiegen und den Kampf zu gewinnen.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073014,
+        "name": "Blindsteal",
+        "desc": "Wenn in einem Kampf „Blinde Wette“ bei #1 ist, verwende Aventurins Ultimate, „Lord Roulette“, um #2 Pkt. Blinde Wette zu erhalten.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073015,
+        "name": "Feuersenkung",
+        "desc": "Entferne in einem Schwächebruch die volle Stapelzahl „Obskure Flamme“ von Speicherbereich-Mem: Verblichene Hülle des Zorns.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073016,
+        "name": "Gleiches mit Gleichem",
+        "desc": "Besiege in einem Kampf Speicherbereich-Mem: Verblichene Hülle des Zorns, ohne Schwächebruch zu verursachen.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073017,
+        "name": "Leistungsgespräch",
+        "desc": "Setze die Figur Aventurin ein, um den letzten Schlag für einen Sieg gegen Leitender Angestellter: Teamleiter zu versetzen.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4083009,
+        "name": "Der Himmel kennt keine Gnade",
+        "desc": "Besiege während der Erkundung #1 Gegner hintereinander mit Acherons Technik „Vier Phasen des Ich“.",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4009,7 +4317,7 @@
       {
         "id": 4083001,
         "name": "Reibung, Reibung",
-        "desc": "Überquere mehrmalig mit der Fähigkeit „Traumwandler“ die Brücke in der Traumblase.",
+        "desc": "Überquere mehrmalig mit der Fähigkeit „Traumwandler“ die Traumblasen-Brücke.",
         "rarity": 1,
         "version": "2.0"
       },
@@ -4075,6 +4383,13 @@
         "desc": "Nimm an #1 Kampf mit Dr. Wahrheit als Unterstützungsfigur teil.",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4083010,
+        "name": "Warum ist dieser Origamivogel so groß?",
+        "desc": "Ziehe im Pavillon des Morgentaus den großen Origamivogel heraus.",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4454,7 +4769,7 @@
       },
       {
         "id": 4092350,
-        "name": "Wenn ich verhindern kann, dass ein Herz bricht",
+        "name": "Wenn ich retten kann, dass ein Herz zerbricht",
         "desc": "Schließe die Universum-Simulation auf Schwierigkeitsgrad 2 oder höher ab, ohne zerstörbare Objekte zu zerstören.",
         "rarity": 1,
         "version": "1.0"
@@ -4523,25 +4838,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092902,
-        "name": "Es lebe der Geniestreich",
-        "desc": "Schalte in der Universum-Simulation 1 Segen der Gelehrsamkeit frei.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092602,
         "name": "Saisonales Jagen",
         "desc": "Fange in der Universum-Simulation: Schwarmkatastrophe durch Kämpfe in der gleichen Ebene mit dem Pfad der Jagd 8 oder mehr Sparschweine.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092903,
-        "name": "Omnissiah",
-        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen der Gelehrsamkeit.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092603,
@@ -4551,25 +4852,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092904,
-        "name": "Vier-Farben-Problem",
-        "desc": "Belege insgesamt 200 Regionen mit „Wissen“ in der Universum-Simulation: Gold und Getriebe.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092604,
         "name": "Predator",
         "desc": "Gewinne 40 Kämpfe, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Zerstörung abschließt.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092905,
-        "name": "Welt am Draht",
-        "desc": "Sieh dir insgesamt 10 empfohlene Handlungen in der Universum-Simulation: Gold und Getriebe an.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092605,
@@ -4579,25 +4866,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092906,
-        "name": "Nach und nach verstehe ich alles",
-        "desc": "Selbstwahrnehmung in der Universum-Simulation: Gold und Getriebe erreicht 40.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092606,
         "name": "Die Universum-Simulation wurde nicht an einem Tag erbaut",
         "desc": "Wende Eckpfeiler auf 8 verschiedene Regionenarten an, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Bewahrung abschließt.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092907,
-        "name": "Mentales Grau",
-        "desc": "Selbstwahrnehmung in der Universum-Simulation: Gold und Getriebe erreicht -40.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092607,
@@ -4607,25 +4880,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092909,
-        "name": "Gruppenbewusstsein",
-        "desc": "Erreiche insgesamt 50 Veränderungen der Selbstwahrnehmung in der Universum-Simulation: Gold und Getriebe.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092608,
         "name": "Zurück zu Klendathu",
         "desc": "Betritt 15-mal die Region „Kampf: Der Schwarm“, „Ereignis: Der Schwarm“ oder „Boss: Der Schwarm“, während du die Universum-Simulation: Schwarmkatastrophe mit dem Pfad der Ausbreitung abschließt.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092910,
-        "name": "Der Wolf der Wall Street",
-        "desc": "Erreiche beim Ereignis „Interastrales Investitionsgerät“ der Universum-Simulation: Gold und Getriebe großen Investitionserfolg.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -4635,25 +4894,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092911,
-        "name": "Pacifica ist immer noch Pacifica",
-        "desc": "Verliere in der Universum-Simulation: Gold und Getriebe den Kampf, der vom Ereignis „Cheat-Code (Teil 2)“ ausgelöst wurde.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092610,
         "name": "Verstreute Hagelkörner, zerschmetterte Geisterknochen",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Die Jagd“.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092912,
-        "name": "D-klassiges Personal",
-        "desc": "Verstärke beim Ereignis „Interastrales Friedens-Einkaufszentrum – Mechanische Filiale (Teil 2)“ der Universum-Simulation: Gold und Getriebe 1-mal eine Kuriosität.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -4663,25 +4908,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092913,
-        "name": "Totengeläut auf Leibowitz",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und erringe dabei mindestens 25 Kampfsiege, während du den personalisierten Würfel Kampf-Ableitung benutzt.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092612,
         "name": "Die Welt als Vorstellung",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Die Nichtigkeit“.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092914,
-        "name": "Tau Zero",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und führe dabei mindestens 20 Ereignisinteraktionen durch, während du den personalisierten Würfel Ereignis-Ableitung benutzt.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -4691,25 +4922,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092915,
-        "name": "Ebenen im Wandel",
-        "desc": "Betritt in der Universum-Simulation: Gold und Getriebe mindestens 5 nicht angrenzende Regionen in Folge, während du den personalisierten Würfel Verfolgungsjagd benutzt.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092614,
         "name": "Zuören, erwachen, erleuchten",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Der Überfluss“.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092916,
-        "name": "Liebesschwindel",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und besiege dabei mindestens 15 Sparschweine, während du den personalisierten Würfel Sparschwein-Ableitung benutzt.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -4719,25 +4936,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092917,
-        "name": "Sternhafen-Fluglotse",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und betritt dabei mindestens 15 Regionen mit Leuchtfeuer, während du den personalisierten Würfel Fußgänger-Symbiose benutzt.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092616,
         "name": "Methusalems Kinder",
         "desc": "Würfle in der Universum-Simulation: Schwarmkatastrophe insgesamt 100-mal „Würfel der Audienz: Die Ausbreitung“.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092918,
-        "name": "Nach Terminus",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und betritt dabei Regionen mit allen Arten von Leuchtfeuer, während du den personalisierten Würfel Fernstrecken-Leuchtfeuer benutzt.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -4747,25 +4950,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092919,
-        "name": "Der Mann, der den Mond verkaufte",
-        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens Kosmisches Fragment ×2048, während du den personalisierten Würfel Investitions-Verkauf benutzt.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092618,
         "name": "Nach den Sternen greifen",
         "desc": "<u>Besitze grenzenlose Macht</u> im Ereignis der Universum-Simulation: Schwarmkatastrophe, Die IFK-Beförderungsgeschichte.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092920,
-        "name": "Spezialist des Halcyon-Vorstands",
-        "desc": "Verwende in der Universum-Simulation: Gold und Getriebe den personalisierten Würfel: Bernstein-Barriere, um mindestens 30 Regionen mit „Wissen“ zu belegen.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092619,
@@ -4775,25 +4964,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092921,
-        "name": "Es ist immer Zeit für Vergnügen",
-        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 30 Pkt. des Countdowns, während du den personalisierten Würfel Countdown benutzt.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092620,
         "name": "Willkommen in Valhalla",
         "desc": "Verliere in der Universum-Simulation: Schwarmkatastrophe den Kampf, der von Yu Qingtu, Nr. 55 der Geniusgesellschaft, ausgelöst wurde.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092922,
-        "name": "Spacer’s Choice Laden",
-        "desc": "Tätige beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 20-mal einen Einkauf in einem Segens-, Kuriositäten- oder Verstärkungsladen, während du den personalisierten Würfel Unternehmermoment benutzt.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092621,
@@ -4803,25 +4978,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092923,
-        "name": "Der Kaufmann und das Portal des Alchemisten",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und verwende dabei mindestens 25 Bonus-Würfelversuche oder Mogelversuche, während du den personalisierten Würfel Datenerweiterung benutzt.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092622,
         "name": "Harvest Moon",
         "desc": "Fange mindestens Sparschwein ×16 in einer „Region – Abenteuer“ der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092924,
-        "name": "Hertas Schatz",
-        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 30 Kuriositäten, während du den personalisierten Würfel Kuriosität-Ableitung benutzt.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -4831,25 +4992,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092925,
-        "name": "Ich bin das Alpha",
-        "desc": "Sammle das Äonische Geheimnis „Der Anfang“ von Gold und Getriebe.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092624,
         "name": "Ein-Mann-Chor",
         "desc": "Löse in einem Durchlauf von Universum-Simulation: Schwarmkatastrophe 2-mal eine Resonanzkreuzung aus.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092926,
-        "name": "Ich bin das Omega",
-        "desc": "Sammle das Äonische Geheimnis „Das Ende“ von Gold und Getriebe.",
-        "rarity": 2,
-        "version": "1.6"
       },
       {
         "id": 4092625,
@@ -4859,25 +5006,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092927,
-        "name": "Sechzig-seitiger Würfel",
-        "desc": "Schalte 60 Würfelseiten in der Universum-Simulation: Gold und Getriebe frei.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092626,
         "name": "Rad des Schicksals",
         "desc": "Schließe alle Pfadentscheidungen in Region – Ereignis der Universum-Simulation: Schwarmkatastrophe ab.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092928,
-        "name": "Roulette des Schicksals",
-        "desc": "Schalte alle 12 personalisierten Würfel in der Universum-Simulation: Gold und Getriebe frei.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -4887,25 +5020,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092929,
-        "name": "XK-klassiges Ende der Welt",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad V ab.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092628,
         "name": "Zurück in die Zukunft",
         "desc": "Verbrauche insgesamt 50-mal Wiederholungsversuche in der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092930,
-        "name": "Mechanischer Aufstieg",
-        "desc": "Aktiviere im Neuronalen Netz in der Universum-Simulation: Gold und Getriebe Neuron 1.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092629,
@@ -4915,25 +5034,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092931,
-        "name": "Colossus: Das Forbin-Projekt",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad Extrem schwer ab, wenn die Attribut-Rätselstufe auf 6 oder höher ist.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092630,
         "name": "Auf dem Kometen",
         "desc": "Erreiche in einer beliebigen „Region – Abenteuer“ der Universum-Simulation: Schwarmkatastrophe alle Ziele.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092932,
-        "name": "Bubblegum-Krise",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad Extrem schwer ab, wenn die Zusätzliche Rätselstufe auf 6 oder höher ist.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092631,
@@ -4943,25 +5048,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092933,
-        "name": "Rostmeer",
-        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad Extrem schwer ab, wenn die Rätselstufe auf 12 oder höher ist.",
-        "rarity": 2,
-        "version": "1.6"
-      },
-      {
         "id": 4092632,
         "name": "Massenrelais",
         "desc": "Die Störungsstufe von „Planaren Durcheinander!“ erreicht mindestens 20 beim Abschluss der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092934,
-        "name": "Schlüssel zu alten elektronischen Räumen",
-        "desc": "Die Störungsstufe von „Planaren Durcheinander!“ erreicht mindestens 20 beim Abschluss der Universum-Simulation: Gold und Getriebe.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092636,
@@ -4971,25 +5062,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092935,
-        "name": "König der Flüche",
-        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 10 negative Kuriositäten.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092637,
         "name": "Fremder in einer fremden Welt",
         "desc": "Sammle alle Trailblaze-Geheimnisse in der Universum-Simulation: Schwarmkatastrophe.",
         "rarity": 2,
         "version": "1.3"
-      },
-      {
-        "id": 4092936,
-        "name": "Normalverteilung",
-        "desc": "Würfle in der Universum-Simulation: Gold und Getriebe auf demselben Audienzgerät 6 unterschiedliche Würfelseiten in Folge.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -4999,25 +5076,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092937,
-        "name": "Graue Blues",
-        "desc": "Habe beim Abschluss der Universum-Simulation: Gold und Getriebe (Schwierigkeitsgrad III oder höher) 6 blaue Würfelseiten ausgerüstet.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092639,
         "name": "Pest unter den Äonen",
         "desc": "Sammle das Kapitel der Schwarmkatastrophe „Die Jagd I“.",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092938,
-        "name": "Über alle wachen Maschinen von liebender Gnade",
-        "desc": "Erleide in einem Kampf in der Universum-Simulation: Gold und Getriebe mindestens 10-mal Resonanz-Ableitung.",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -5027,18 +5090,270 @@
         "version": "1.3"
       },
       {
-        "id": 4092939,
-        "name": "Rad des Schicksals",
-        "desc": "Erhalte in „Herausforderung: Roulette“ der Universum-Simulation: Gold und Getriebe 1-mal den Hauptpreis.",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092641,
         "name": "Wie man wird, was man ist",
         "desc": "Sammle das Kapitel der Schwarmkatastrophe „Die Nichtigkeit I“.",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092902,
+        "name": "Es lebe der Geniestreich",
+        "desc": "Schalte in der Universum-Simulation 1 Segen der Gelehrsamkeit frei.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092903,
+        "name": "Omnissiah",
+        "desc": "Besitze beim Abschluss der Universum-Simulation 10 oder mehr Segen der Gelehrsamkeit.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092904,
+        "name": "Vier-Farben-Problem",
+        "desc": "Belege insgesamt 200 Regionen mit „Wissen“ in der Universum-Simulation: Gold und Getriebe.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092905,
+        "name": "Welt am Draht",
+        "desc": "Sieh dir insgesamt 10 empfohlene Handlungen in der Universum-Simulation: Gold und Getriebe an.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092906,
+        "name": "Nach und nach verstehe ich alles",
+        "desc": "Selbstwahrnehmung in der Universum-Simulation: Gold und Getriebe erreicht 40.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092907,
+        "name": "Mentales Grau",
+        "desc": "Selbstwahrnehmung in der Universum-Simulation: Gold und Getriebe erreicht -40.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092909,
+        "name": "Gruppenbewusstsein",
+        "desc": "Erreiche insgesamt 50 Veränderungen der Selbstwahrnehmung in der Universum-Simulation: Gold und Getriebe.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092910,
+        "name": "Der Wolf der Wall Street",
+        "desc": "Erreiche beim Ereignis „Interastrales Investitionsgerät“ der Universum-Simulation: Gold und Getriebe großen Investitionserfolg.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092911,
+        "name": "Pacifica ist immer noch Pacifica",
+        "desc": "Verliere in der Universum-Simulation: Gold und Getriebe den Kampf, der vom Ereignis „Cheat-Code (Teil 2)“ ausgelöst wurde.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092912,
+        "name": "D-klassiges Personal",
+        "desc": "Verstärke beim Ereignis „Interastrales Friedens-Einkaufszentrum – Mechanische Filiale (Teil 2)“ der Universum-Simulation: Gold und Getriebe 1-mal eine Kuriosität.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092913,
+        "name": "Totengeläut auf Leibowitz",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und erringe dabei mindestens 25 Kampfsiege, während du den personalisierten Würfel Kampf-Ableitung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092914,
+        "name": "Tau Zero",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und führe dabei mindestens 20 Ereignisinteraktionen durch, während du den personalisierten Würfel Ereignis-Ableitung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092915,
+        "name": "Ebenen im Wandel",
+        "desc": "Betritt in der Universum-Simulation: Gold und Getriebe mindestens 5 nicht angrenzende Regionen in Folge, während du den personalisierten Würfel Verfolgungsjagd benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092916,
+        "name": "Liebesschwindel",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und besiege dabei mindestens 15 Sparschweine, während du den personalisierten Würfel Sparschwein-Ableitung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092917,
+        "name": "Sternhafen-Fluglotse",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und betritt dabei mindestens 15 Regionen mit Leuchtfeuer, während du den personalisierten Würfel Fußgänger-Symbiose benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092918,
+        "name": "Nach Terminus",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und betritt dabei Regionen mit allen Arten von Leuchtfeuer, während du den personalisierten Würfel Fernstrecken-Leuchtfeuer benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092919,
+        "name": "Der Mann, der den Mond verkaufte",
+        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens Kosmisches Fragment ×2048, während du den personalisierten Würfel Investitions-Verkauf benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092920,
+        "name": "Spezialist des Halcyon-Vorstands",
+        "desc": "Verwende in der Universum-Simulation: Gold und Getriebe den personalisierten Würfel: Bernstein-Barriere, um mindestens 30 Regionen mit „Wissen“ zu belegen.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092921,
+        "name": "Es ist immer Zeit für Vergnügen",
+        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 30 Pkt. des Countdowns, während du den personalisierten Würfel Countdown benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092922,
+        "name": "Spacer’s Choice Laden",
+        "desc": "Tätige beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 20-mal einen Einkauf in einem Segens-, Kuriositäten- oder Verstärkungsladen, während du den personalisierten Würfel Unternehmermoment benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092923,
+        "name": "Der Kaufmann und das Portal des Alchemisten",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe ab und verwende dabei mindestens 25 Bonus-Würfelversuche oder Mogelversuche, während du den personalisierten Würfel Datenerweiterung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092924,
+        "name": "Hertas Schatz",
+        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 30 Kuriositäten, während du den personalisierten Würfel Kuriosität-Ableitung benutzt.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092925,
+        "name": "Ich bin das Alpha",
+        "desc": "Sammle das Äonische Geheimnis „Der Anfang“ von Gold und Getriebe.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092926,
+        "name": "Ich bin das Omega",
+        "desc": "Sammle das Äonische Geheimnis „Das Ende“ von Gold und Getriebe.",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092927,
+        "name": "Sechzig-seitiger Würfel",
+        "desc": "Schalte 60 Würfelseiten in der Universum-Simulation: Gold und Getriebe frei.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092928,
+        "name": "Roulette des Schicksals",
+        "desc": "Schalte alle 12 personalisierten Würfel in der Universum-Simulation: Gold und Getriebe frei.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092929,
+        "name": "XK-klassiges Ende der Welt",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad V ab.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092930,
+        "name": "Mechanischer Aufstieg",
+        "desc": "Aktiviere im Neuronalen Netz in der Universum-Simulation: Gold und Getriebe Neuron 1.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092931,
+        "name": "Colossus: Das Forbin-Projekt",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad Extrem schwer ab, wenn die Attribut-Rätselstufe auf 6 oder höher ist.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092932,
+        "name": "Bubblegum-Krise",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad Extrem schwer ab, wenn die Zusätzliche Rätselstufe auf 6 oder höher ist.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092933,
+        "name": "Rostmeer",
+        "desc": "Schließe die Universum-Simulation: Gold und Getriebe auf Schwierigkeitsgrad Extrem schwer ab, wenn die Rätselstufe auf 12 oder höher ist.",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092934,
+        "name": "Schlüssel zu alten elektronischen Räumen",
+        "desc": "Die Störungsstufe von „Planaren Durcheinander!“ erreicht mindestens 20 beim Abschluss der Universum-Simulation: Gold und Getriebe.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092935,
+        "name": "König der Flüche",
+        "desc": "Besitze beim Abschluss der Universum-Simulation: Gold und Getriebe mindestens 10 negative Kuriositäten.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092936,
+        "name": "Normalverteilung",
+        "desc": "Würfle in der Universum-Simulation: Gold und Getriebe auf demselben Audienzgerät 6 unterschiedliche Würfelseiten in Folge.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092937,
+        "name": "Graue Blues",
+        "desc": "Habe beim Abschluss der Universum-Simulation: Gold und Getriebe (Schwierigkeitsgrad III oder höher) 6 blaue Würfelseiten ausgerüstet.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092938,
+        "name": "Über alle wachen Maschinen von liebender Gnade",
+        "desc": "Erleide in einem Kampf in der Universum-Simulation: Gold und Getriebe mindestens 10-mal Resonanz-Ableitung.",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092939,
+        "name": "Rad des Schicksals",
+        "desc": "Erhalte in „Herausforderung: Roulette“ der Universum-Simulation: Gold und Getriebe 1-mal den Hauptpreis.",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092940,

@@ -431,6 +431,34 @@
         "desc": "Seluruh Penacony akan menggila karenanya ....\\n<color=#8790abff>※ Saksikan kasus pembunuhan kedua</color>",
         "rarity": 2,
         "version": "2.0"
+      },
+      {
+        "id": 4033007,
+        "name": "Sibyl, Apa yang Kamu Mau?",
+        "desc": "Ke manakah keberuntungan akan membawa pejudi?\\n<color=#8790abff>※ Saksikan kehidupan \"Kakavasha\"</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033009,
+        "name": "Setetes Minuman Keras",
+        "desc": "Salam untuk mimpi indah dan orang yang bermimpi!\\n<color=#8790abff>※ Memperoleh racikan spesial Gallagher</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033010,
+        "name": "Dia Menjawab, \"Aku Ingin Kematian.\"",
+        "desc": "Menyaksikan penutup pertunjukan dari posisi terbaik\\n<color=#8790abff>※ Mengalahkan Aventurine, anggota \"Sepuluh Orang Berhati Batu\"</color>",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4033011,
+        "name": "Untuk Icarus",
+        "desc": "Mendengarkan kisah lama di negeri asing\\n<color=#8790abff>※ Mendengarkan percakapan antara Acheron dengan Welt</color>",
+        "rarity": 2,
+        "version": "2.1"
       }
     ]
   },
@@ -818,28 +846,28 @@
       {
         "id": 4043010,
         "name": "Fly Me 2 the Baloon",
-        "desc": "Pecahkan balon Tuan Stone khusus di Golden Hour",
+        "desc": "Pecahkan balon Bos Stone khusus di Golden Hour",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043011,
         "name": "Balloon Gakuen 2",
-        "desc": "Pecahkan balon Tuan Stone khusus di Dream's Edge",
+        "desc": "Pecahkan balon Bos Stone khusus di Dream's Edge",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043012,
         "name": "Balloon Impact 3rd",
-        "desc": "Pecahkan balon Tuan Stone khusus di A Child's Dream",
+        "desc": "Pecahkan balon Bos Stone khusus di A Child's Dream",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043013,
         "name": "Penacony: Balloon Rail",
-        "desc": "Pecahkan balon Tuan Stone khusus di \"Reverie\" Hotel — Dunia Mimpi",
+        "desc": "Pecahkan balon Bos Stone khusus di \"Reverie\" Hotel — Dunia Mimpi",
         "rarity": 1,
         "version": "2.0"
       },
@@ -898,6 +926,111 @@
         "desc": "Mengumpulkan 15 item bacaan di Penacony",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4043022,
+        "name": "Kecil-Kecil Cabe Rawit",
+        "desc": "Dalam 1 kali Petualangan Hanu, mengalahkan 3 kaki tangan Bos Stone dalam 1 kali aksi",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043023,
+        "name": "Anti-Balloon",
+        "desc": "Pecahkan balon Bos Stone khusus di Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043024,
+        "name": "Kronik Kota Mimpi",
+        "desc": "Pecahkan balon Bos Stone khusus di Dewlight Pavilion",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043025,
+        "name": "Mobil Keselamatan",
+        "desc": "Di Cerita Sampingan \"Clockie\" mode mana pun, menyelesaikan syuting tanpa terkena DMG",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043026,
+        "name": "Non-Garis Balap",
+        "desc": "Di Cerita Sampingan \"Clockie\" mode mana pun, terus berhenti di tengah jalur selama #1 detik",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043027,
+        "name": "Pole to Win",
+        "desc": "Di Cerita Sampingan \"Clockie\" mode mana pun, mengumpulkan Energy hingga penuh selama durasi \"Serbuan Kacang\" atau \"Waktu Hanu\"",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043028,
+        "name": "Menang Besar Karena DRS",
+        "desc": "Di \"Pas & Serius\" pada Cerita Sampingan \"Clockie\", menyelesaikan \"Libas Batas\" 10 kali berturut-turut tanpa kesalahan",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043029,
+        "name": "Jalur Lambat Menuju Neraka",
+        "desc": "Kalahkan seluruh musuh yang muncul di Cerita Sampingan \"Clockie\": \"Jalan Serigala\"",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043030,
+        "name": "Kota Kecil yang Indah, Surganya Oak!",
+        "desc": "Masuk ke dalam miniatur di Dewlight Pavilion untuk pertama kalinya",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043031,
+        "name": "Industrialisasi Pembangun Mimpi",
+        "desc": "Selesaikan tantangan Pejalan Mimpi di Dewlight Pavilion untuk mendapat pemasukan ekstra",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043032,
+        "name": "Hajar Batu sampai Bonyok",
+        "desc": "Berubah menjadi Bro Hanu dan gunakan \"Misil Hanu\" untuk mengalahkan anak buah Bos Stone untuk pertama kalinya",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043033,
+        "name": "Hidup Bersama Serigala",
+        "desc": "Mengumpulkan seluruh koleksi \"Petualangan Hanu - Bagian Kedua\"",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043034,
+        "name": "Kekuatan Tempur Maksimum",
+        "desc": "Di Petualangan Hanu, jumlah \"Misil Hanu\" yang dimiliki mencapai batas maksimal",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043035,
+        "name": "Pesta Rahasia",
+        "desc": "Menemukan area tersembunyi Clock Studios Theme Park melalui Pinball Gelembung",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4043036,
+        "name": "Pac-Man",
+        "desc": "Hancurkan semua objek yang bisa dihancurkan di kebun labirin di Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -2499,6 +2632,125 @@
         "desc": "Kalau semua orang memberi uang, sama saja dengan tidak memberi uang\\n<color=#8790abff>※ Memicu Cash-Spewer di jalanan terus-terusan</color>",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4053054,
+        "name": "Bolos Terus!",
+        "desc": "Buat Mobil Terbang yang Cemerlang kehilangan penggemarnya",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053055,
+        "name": "Burung, Seni, dan Kehidupan",
+        "desc": "Menjadi master pengamat burung di Dewlight Pavilion",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053056,
+        "name": "Semakin Banyak Semakin Baik",
+        "desc": "Memperoleh seluruh #1 merchandise Clockie",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053057,
+        "name": "Rumah Kecil di Tengah Hutan",
+        "desc": "Saksikan pengalaman aneh dari grup lima orang di suatu tempat di Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053058,
+        "name": "Bukti dan Bantahan",
+        "desc": "Saat sedang berdiskusi, beli barang dengan harga tinggi dari bos kereta makan.",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053059,
+        "name": "Sebuah Variasi Berjudul \"Aku\"",
+        "desc": "Bertemu \"detektif\" dengan tubuh yang unik di Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053060,
+        "name": "Wanita Bergaun Emas",
+        "desc": "Periksa gambar dari seorang seniman di Dewlight Pavilion",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053061,
+        "name": "Dewa Perang",
+        "desc": "Bawa Oksana untuk diadili",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053062,
+        "name": "Tidak Pernah Ada Kata Terlambat",
+        "desc": "Laporkan Oksana ke Bloodhound",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053063,
+        "name": "Memalukan",
+        "desc": "Biarkan Oksana pergi",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053064,
+        "name": "Tokoh Penting!",
+        "desc": "Tinggalkan racikan khusus milikmu di \"Dreamjolt Hostelry\"",
+        "rarity": 2,
+        "version": "2.1"
+      },
+      {
+        "id": 4053065,
+        "name": "Semuanya Harus Bermimpi Indah",
+        "desc": "Bantu semua monster di \"Dreamjolt Hostelry\" menyelesaikan masalah gangguan emosional mereka",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053066,
+        "name": "Sesuai Pesanan",
+        "desc": "Menyajikan minuman yang tepat ke tamu sebanyak #1 kali",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053067,
+        "name": "Omakase",
+        "desc": "Menyajikan minuman yang salah ke tamu sebanyak #1 kali",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053068,
+        "name": "Aksi Bartender Dreampunk",
+        "desc": "Selesaikan seluruh resep racikan \"Dreamjolt Hostelry\"",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053070,
+        "name": "Foto Keluarga",
+        "desc": "Ambil foto keluarga kru Astral Express di papan foto di Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4053071,
+        "name": "\"Clock\" In",
+        "desc": "Ambil foto bersama di papan foto di Clock Studios Theme Park",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -3566,6 +3818,62 @@
         "desc": "Dalam pertempuran melawan Stellaron Hunter: Sam, menggunakan Poin Skill yang terbakar dan membuat HP #1 rekan tim kurang dari #2%",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4073011,
+        "name": "Dobel Enam",
+        "desc": "Saat bertempur melawan Ten Stonehearts: Aventurine of Stratagems, membuat setidaknya #1 \"All or Nothing\" mengeluarkan #2 poin secara bersamaan dalam 1 kali serangan",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073012,
+        "name": "All My People, All My People...",
+        "desc": "Saat bertempur melawan Ten Stonehearts: Aventurine of Stratagems, #1 karakter dalam tim memenangkan taruhan di ronde yang sama",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073013,
+        "name": "Putri Salju Merah",
+        "desc": "Dalam 1 pertempuran, menggunakan Ultimate Acheron \"Slashed Dream Cries in Red\" untuk mengalahkan seluruh musuh dan memenangkan pertempuran",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073014,
+        "name": "Taruhan Buta",
+        "desc": "Dalam 1 pertempuran, saat \"Blind Bet\" berjumlah #1 poin, menggunakan Ultimate Aventurine \"Roulette Shark\" untuk memperoleh #2 poin \"Blind Bet\"",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073015,
+        "name": "Memadamkan Api",
+        "desc": "Dalam 1 kali Weakness Break, menghapus seluruh lapisan penuh \"Obscure Blaze\" milik Memory Zone Meme \"Shell of Faded Rage\"",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073016,
+        "name": "Melawan Api dengan Api",
+        "desc": "Dalam 1 pertempuran, mengalahkan Memory Zone Meme \"Shell of Faded Rage\" tanpa mengakibatkan Weakness Break",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4073017,
+        "name": "Evaluasi Performa Kerja",
+        "desc": "Menggunakan Aventurine untuk melancarkan serangan kemenangan melawan Senior Staff: Team Leader",
+        "rarity": 1,
+        "version": "2.1"
+      },
+      {
+        "id": 4083009,
+        "name": "Hukuman Langit Tidak Memandang Bulu",
+        "desc": "Selama menjelajah, menggunakan Technique Acheron \"Quadrivalent Ascendance\" untuk mengalahkan #1 musuh secara beruntun",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4075,6 +4383,13 @@
         "desc": "Ikut #1 pertempuran dalam Support menggunakan Dr. Ratio",
         "rarity": 1,
         "version": "2.0"
+      },
+      {
+        "id": 4083010,
+        "name": "Kenapa Burung Origami Besar Sekali?",
+        "desc": "Tarik Burung Origami Besar di Dewlight Pavilion",
+        "rarity": 1,
+        "version": "2.1"
       }
     ]
   },
@@ -4523,25 +4838,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092902,
-        "name": "Mengunjungi Dewa Mesin",
-        "desc": "Membuka 1 Blessing \"Erudition\" di \"Simulated Universe\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092602,
         "name": "Musim Berburu",
         "desc": "Menggunakan Path \"Hunt\" dan menangkap lebih dari 8 Trotter melalui pertempuran di permukaan yang sama di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092903,
-        "name": "Omnissiah",
-        "desc": "Bawa 10 atau lebih Blessing \"Erudition\" saat menyelesaikan \"Simulated Universe\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092603,
@@ -4551,25 +4852,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092904,
-        "name": "Dilema Empat Warna",
-        "desc": "Menambahkan efek \"Knowledge\" pada 200 Zona di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092604,
         "name": "Predator",
         "desc": "Saat menggunakan Path \"Destruction\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memperoleh 40 kemenangan di pertempuran",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092905,
-        "name": "Dalam Sekejap Malam",
-        "desc": "Menonton total 10 alur cerita rekomendasi di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092605,
@@ -4579,25 +4866,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092906,
-        "name": "Perlahan Paham Semuanya",
-        "desc": "Kesadaran Diri mencapai 40 di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092606,
         "name": "Simulated Universe Bukan Candi Prambanan",
         "desc": "Saat menggunakan Path \"Preservation\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", menambahkan \"Cornerstone\" ke 8 Zona yang berbeda",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092907,
-        "name": "Wilayah Abu-Abu Spiritual",
-        "desc": "Kesadaran Diri mencapai -40 di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092607,
@@ -4607,25 +4880,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092909,
-        "name": "Kesadaran Kolektif",
-        "desc": "Menyelesaikan total 50 kali perubahan Kesadaran Diri di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092608,
         "name": "Kembali ke Klendathu",
         "desc": "Saat menggunakan Path \"Propagation\" untuk menyelesaikan \"Simulated Universe: Bencana Swarm\", memasuki Zona \"Pertempuran: Swarm\", \"Event: Swarm\", atau \"Boss: Swarm\" sebanyak 15 kali",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092910,
-        "name": "Bagai Bob Sadino",
-        "desc": "Sukses besar dalam investasi pada event \"Perangkat Investasi Interastral Peace\" di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092609,
@@ -4635,25 +4894,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092911,
-        "name": "Pacifica Masih Tetap Pacifica",
-        "desc": "Kalah dalam pertempuran yang dipicu event \"Kode Cheat (2)\" di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092610,
         "name": "Sekeras-kerasnya Batu, Tertimpa Hujan akan Retak Juga",
         "desc": "Mengocok Dadu Interelasi: Hunt total 100 kali di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092912,
-        "name": "Staf Kelas D",
-        "desc": "Memperkuat Benda Langka 1 kali di event \"Mall Interastral Peace Cabang Mekanik (2)\" di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092611,
@@ -4663,25 +4908,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092913,
-        "name": "Detik-Detik Mematikan Leibowitz",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", memperoleh kemenangan 25 kali atau lebih di pertempuran saat menggunakan Dadu Kustom \"Combat Extrapolation\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092612,
         "name": "Dunia Sebagai Perwakilan",
         "desc": "Mengocok Dadu Interelasi: Nihility total 100 kali di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092914,
-        "name": "Pejuang Alam Semesta",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", menyelesaikan event interaksi 20 kali atau lebih saat menggunakan Dadu Kustom \"Occurrence Extrapolation\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092613,
@@ -4691,25 +4922,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092915,
-        "name": "Permukaan yang Berubah",
-        "desc": "Saat menggunakan Dadu Kustom \"Pursuit\", memasuki 5 atau lebih Zona yang tidak berdekatan berturut-turut di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092614,
         "name": "Pendengar dan Pengamat",
         "desc": "Mengocok Dadu Interelasi: Abundance total 100 kali di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092916,
-        "name": "Tukang PHP",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", menggunakan Dadu Kustom \"Trotter Extrapolation\" untuk mengalahkan Trotter sebanyak 15 atau lebih dalam pertempuran",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092615,
@@ -4719,25 +4936,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092917,
-        "name": "Petugas Pelabuhan Bintang",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Walker Symbiosis\", memasuki Zona yang memiliki Beacon sebanyak 15 atau lebih",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092616,
         "name": "Putra Methuselah",
         "desc": "Mengocok Dadu Interelasi: Propagation total 100 kali di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092918,
-        "name": "Menuju Bintang Terujung",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Ultra-Remote Beacon\", Zona yang pernah dimasuki memiliki segala jenis Beacon",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092617,
@@ -4747,25 +4950,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092919,
-        "name": "Penjual Rembulan",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Investment Sale\", memiliki Cosmic Fragment lebih dari atau sama dengan 2048",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092618,
         "name": "Tangan yang Meraih Bintang",
         "desc": "<u>Memperoleh kekuatan yang tak terbatas</u> di event Kisah Promosi IPC dalam \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092920,
-        "name": "Anggota Asosiasi Pengelola Halcyon",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Amber Barrier\", menambahkan efek \"Knowledge\" pada 30 Zona atau lebih",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092619,
@@ -4775,25 +4964,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092921,
-        "name": "Cukup Main-mainnya",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Countdown\", jumlah Hitung Mundur lebih dari atau sama dengan 30",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092620,
         "name": "Selamat Datang di Valhalla",
         "desc": "Kalah dalam pertempuran yang dipicu di event Genius Society #55 Yu Qingtu di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092922,
-        "name": "Toko Keajaiban di Ujung Bulan",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Company Time\", melakukan pembelian item sebanyak 20 buah atau lebih di \"Toko Blessing\", \"Toko Benda Langka\", atau \"Toko Penguatan\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092621,
@@ -4803,25 +4978,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092923,
-        "name": "Gerbang Pedagang dan Alkemis",
-        "desc": "Saat menyelesaikan \"Simulated Universe: Emas dan Mesin\" dan menggunakan Dadu Kustom \"Data Inflation\", menggunakan kesempatan kocok ulang atau cheat sebanyak 25 kali atau lebih",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092622,
         "name": "Kisah Peternakan",
         "desc": "Menangkap lebih dari atau sama dengan 16 Trotter di dalam 1 Zona \"Petualangan\" di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092924,
-        "name": "Harta Karun Herta",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Curio Extrapolation\", memiliki 30 atau lebih Benda Langka",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092623,
@@ -4831,25 +4992,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092925,
-        "name": "Aku Alpha",
-        "desc": "Mengumpulkan Rahasia Aeon \"Emas dan Mesin\" — \"Permulaan\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092624,
         "name": "Paduan Suara Solo",
         "desc": "Menghasilkan 2 kali Resonance Interplay dalam 1 kali \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092926,
-        "name": "Aku Omega",
-        "desc": "Mengumpulkan Rahasia Aeon \"Emas dan Mesin\" — \"Akhir\"",
-        "rarity": 2,
-        "version": "1.6"
       },
       {
         "id": 4092625,
@@ -4859,25 +5006,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092927,
-        "name": "Dadu Enam Puluh Permukaan",
-        "desc": "Membuka 60 Permukaan Dadu di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092626,
         "name": "Roda Takdir",
         "desc": "Menyelesaikan seluruh pilihan Path di Zona \"Event\" di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092928,
-        "name": "Putaran Takdir",
-        "desc": "Membuka seluruh 12 Dadu Kustom di \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092627,
@@ -4887,25 +5020,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092929,
-        "name": "Akhir Dunia Kelas XK",
-        "desc": "Menyelesaikan \"Simulated Universe: Emas dan Mesin\" tingkat kesulitan V",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092628,
         "name": "Kembali ke Masa Depan",
         "desc": "Kocok ulang 50 kali di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092930,
-        "name": "Kenaikan Mekanis",
-        "desc": "Mengaktifkan Saraf ke-1 di Jaringan Saraf \"Simulated Universe: Emas dan Mesin\"",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092629,
@@ -4915,25 +5034,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092931,
-        "name": "Colossus: The Forbin Project",
-        "desc": "Di Tingkat Kesulitan Menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Level Conundrum Stats lebih dari atau sama dengan 6",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092630,
         "name": "Menunggangi Komet",
         "desc": "Menyelesaikan seluruh target di Zona \"Petualangan\" mana pun di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092932,
-        "name": "Krisis Bubblegum",
-        "desc": "Di Tingkat Kesulitan menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Level Conundrum Tambahan lebih dari atau sama dengan 6",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092631,
@@ -4943,25 +5048,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092933,
-        "name": "Lautan Karat",
-        "desc": "Di Tingkat Kesulitan Menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Level Conundrum lebih besar atau sama dengan 12",
-        "rarity": 2,
-        "version": "1.6"
-      },
-      {
         "id": 4092632,
         "name": "Perangkat Relai",
         "desc": "Membuat Level Gangguan di Gangguan Permukaan lebih dari atau sama dengan Lv. 20 saat menyelesaikan \"Simulated Universe: Bencana Swarm\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092934,
-        "name": "Kunci Menuju Ruang Kuno",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", membuat \"Level Gangguan\" di \"Gangguan Permukaan\" lebih dari atau sama dengan Lv. 20",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092636,
@@ -4971,25 +5062,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092935,
-        "name": "Raja Kutukan",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", memiliki 10 atau lebih Benda Langka Negatif",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092637,
         "name": "Asing di Daratan Asing",
         "desc": "Mengumpulkan seluruh alur cerita Rahasia Trailblaze di \"Simulated Universe: Bencana Swarm\"",
         "rarity": 2,
         "version": "1.3"
-      },
-      {
-        "id": 4092936,
-        "name": "Penyebaran Standar",
-        "desc": "Di \"Simulated Universe: Emas dan Mesin\", di Perangkat Interelasi yang sama, mengocok 6 Permukaan Dadu yang berbeda secara berturut-turut",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092638,
@@ -4999,25 +5076,11 @@
         "version": "1.3"
       },
       {
-        "id": 4092937,
-        "name": "Melodi Musik Melankolis",
-        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", mengenakan 6 Permukaan Dadu kualitas biru (tingkat kesulitan 3 ke atas)",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092639,
         "name": "Wabah Empat Penjuru",
         "desc": "Mengumpulkan \"Bencana Swarm\" Chapter \"Hunt I\"",
         "rarity": 1,
         "version": "1.3"
-      },
-      {
-        "id": 4092938,
-        "name": "Segalanya Dilindungi Mesin yang Berbelas Kasih",
-        "desc": "Di \"Simulated Universe: Emas dan Mesin\", mengalami \"Resonance Extrapolation\" dalam satu pertempuran sebanyak 10 kali atau lebih",
-        "rarity": 1,
-        "version": "1.6"
       },
       {
         "id": 4092640,
@@ -5027,18 +5090,270 @@
         "version": "1.3"
       },
       {
-        "id": 4092939,
-        "name": "Roda Takdir",
-        "desc": "Di \"Simulated Universe: Emas dan Mesin\", memperoleh hadiah utama 1 kali di \"Tantangan Roda Keberuntungan\"",
-        "rarity": 1,
-        "version": "1.6"
-      },
-      {
         "id": 4092641,
         "name": "Lihat! Dasar Orang Ini",
         "desc": "Mengumpulkan \"Bencana Swarm\" Chapter \"Nihility I\"",
         "rarity": 1,
         "version": "1.3"
+      },
+      {
+        "id": 4092902,
+        "name": "Mengunjungi Dewa Mesin",
+        "desc": "Membuka 1 Blessing \"Erudition\" di \"Simulated Universe\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092903,
+        "name": "Omnissiah",
+        "desc": "Bawa 10 atau lebih Blessing \"Erudition\" saat menyelesaikan \"Simulated Universe\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092904,
+        "name": "Dilema Empat Warna",
+        "desc": "Menambahkan efek \"Knowledge\" pada 200 Zona di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092905,
+        "name": "Dalam Sekejap Malam",
+        "desc": "Menonton total 10 alur cerita rekomendasi di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092906,
+        "name": "Perlahan Paham Semuanya",
+        "desc": "Kesadaran Diri mencapai 40 di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092907,
+        "name": "Wilayah Abu-Abu Spiritual",
+        "desc": "Kesadaran Diri mencapai -40 di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092909,
+        "name": "Kesadaran Kolektif",
+        "desc": "Menyelesaikan total 50 kali perubahan Kesadaran Diri di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092910,
+        "name": "Bagai Bob Sadino",
+        "desc": "Sukses besar dalam investasi pada event \"Perangkat Investasi Interastral Peace\" di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092911,
+        "name": "Pacifica Masih Tetap Pacifica",
+        "desc": "Kalah dalam pertempuran yang dipicu event \"Kode Cheat (2)\" di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092912,
+        "name": "Staf Kelas D",
+        "desc": "Memperkuat Benda Langka 1 kali di event \"Mall Interastral Peace Cabang Mekanik (2)\" di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092913,
+        "name": "Detik-Detik Mematikan Leibowitz",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", memperoleh kemenangan 25 kali atau lebih di pertempuran saat menggunakan Dadu Kustom \"Combat Extrapolation\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092914,
+        "name": "Pejuang Alam Semesta",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", menyelesaikan event interaksi 20 kali atau lebih saat menggunakan Dadu Kustom \"Occurrence Extrapolation\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092915,
+        "name": "Permukaan yang Berubah",
+        "desc": "Saat menggunakan Dadu Kustom \"Pursuit\", memasuki 5 atau lebih Zona yang tidak berdekatan berturut-turut di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092916,
+        "name": "Tukang PHP",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", menggunakan Dadu Kustom \"Trotter Extrapolation\" untuk mengalahkan Trotter sebanyak 15 atau lebih dalam pertempuran",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092917,
+        "name": "Petugas Pelabuhan Bintang",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Walker Symbiosis\", memasuki Zona yang memiliki Beacon sebanyak 15 atau lebih",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092918,
+        "name": "Menuju Bintang Terujung",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Ultra-Remote Beacon\", Zona yang pernah dimasuki memiliki segala jenis Beacon",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092919,
+        "name": "Penjual Rembulan",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Investment Sale\", memiliki Cosmic Fragment lebih dari atau sama dengan 2048",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092920,
+        "name": "Anggota Asosiasi Pengelola Halcyon",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Amber Barrier\", menambahkan efek \"Knowledge\" pada 30 Zona atau lebih",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092921,
+        "name": "Cukup Main-mainnya",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Countdown\", jumlah Hitung Mundur lebih dari atau sama dengan 30",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092922,
+        "name": "Toko Keajaiban di Ujung Bulan",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Company Time\", melakukan pembelian item sebanyak 20 buah atau lebih di \"Toko Blessing\", \"Toko Benda Langka\", atau \"Toko Penguatan\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092923,
+        "name": "Gerbang Pedagang dan Alkemis",
+        "desc": "Saat menyelesaikan \"Simulated Universe: Emas dan Mesin\" dan menggunakan Dadu Kustom \"Data Inflation\", menggunakan kesempatan kocok ulang atau cheat sebanyak 25 kali atau lebih",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092924,
+        "name": "Harta Karun Herta",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", saat menggunakan Dadu Kustom \"Curio Extrapolation\", memiliki 30 atau lebih Benda Langka",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092925,
+        "name": "Aku Alpha",
+        "desc": "Mengumpulkan Rahasia Aeon \"Emas dan Mesin\" — \"Permulaan\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092926,
+        "name": "Aku Omega",
+        "desc": "Mengumpulkan Rahasia Aeon \"Emas dan Mesin\" — \"Akhir\"",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092927,
+        "name": "Dadu Enam Puluh Permukaan",
+        "desc": "Membuka 60 Permukaan Dadu di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092928,
+        "name": "Putaran Takdir",
+        "desc": "Membuka seluruh 12 Dadu Kustom di \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092929,
+        "name": "Akhir Dunia Kelas XK",
+        "desc": "Menyelesaikan \"Simulated Universe: Emas dan Mesin\" tingkat kesulitan V",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092930,
+        "name": "Kenaikan Mekanis",
+        "desc": "Mengaktifkan Saraf ke-1 di Jaringan Saraf \"Simulated Universe: Emas dan Mesin\"",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092931,
+        "name": "Colossus: The Forbin Project",
+        "desc": "Di Tingkat Kesulitan Menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Level Conundrum Stats lebih dari atau sama dengan 6",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092932,
+        "name": "Krisis Bubblegum",
+        "desc": "Di Tingkat Kesulitan menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Level Conundrum Tambahan lebih dari atau sama dengan 6",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092933,
+        "name": "Lautan Karat",
+        "desc": "Di Tingkat Kesulitan Menyiksa, menyelesaikan stage \"Simulated Universe: Emas dan Mesin\" saat Level Conundrum lebih besar atau sama dengan 12",
+        "rarity": 2,
+        "version": "1.6"
+      },
+      {
+        "id": 4092934,
+        "name": "Kunci Menuju Ruang Kuno",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", membuat \"Level Gangguan\" di \"Gangguan Permukaan\" lebih dari atau sama dengan Lv. 20",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092935,
+        "name": "Raja Kutukan",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", memiliki 10 atau lebih Benda Langka Negatif",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092936,
+        "name": "Penyebaran Standar",
+        "desc": "Di \"Simulated Universe: Emas dan Mesin\", di Perangkat Interelasi yang sama, mengocok 6 Permukaan Dadu yang berbeda secara berturut-turut",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092937,
+        "name": "Melodi Musik Melankolis",
+        "desc": "Saat menyelesaikan stage \"Simulated Universe: Emas dan Mesin\", mengenakan 6 Permukaan Dadu kualitas biru (tingkat kesulitan 3 ke atas)",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092938,
+        "name": "Segalanya Dilindungi Mesin yang Berbelas Kasih",
+        "desc": "Di \"Simulated Universe: Emas dan Mesin\", mengalami \"Resonance Extrapolation\" dalam satu pertempuran sebanyak 10 kali atau lebih",
+        "rarity": 1,
+        "version": "1.6"
+      },
+      {
+        "id": 4092939,
+        "name": "Roda Takdir",
+        "desc": "Di \"Simulated Universe: Emas dan Mesin\", memperoleh hadiah utama 1 kali di \"Tantangan Roda Keberuntungan\"",
+        "rarity": 1,
+        "version": "1.6"
       },
       {
         "id": 4092940,
