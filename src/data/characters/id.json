@@ -165,7 +165,7 @@
     "path": "the-hunt",
     "element": "fire",
     "rarity": 5,
-    "background": "Topaz adalah manajer tingkat tinggi \"Departemen Investasi Strategis\" di bawah Interastral Peace Corporation, dan juga pemimpin dari Tim Piket Utang Khusus.\\nMenjadi salah satu anggota \"Sepuluh Orang Berhati Batu\" di usia yang muda, bidang keahlian Topaz adalah \"menagih utang\".\\nRekannya, Warp Trotter yang bernama \"Numby\", memiliki kemampuan untuk melihat keberadaan \"kekayaan\". Pekerjaan yang berhubungan dengan keamanan, menagih utang, atau akuntansi tidak akan menjadi masalah.\\nSekarang ini, mereka bersama-sama mengembara di galaksi, menyelidiki berbagai sengketa utang yang memengaruhi jalannya bisnis IPC."
+    "background": "Topaz adalah manajer tingkat tinggi \"Departemen Investasi Strategis\" di bawah Interastral Peace Corporation, dan juga pemimpin dari Tim Piket Utang Khusus.\\nMenjadi salah satu anggota \"Sepuluh Orang Berhati Batu\" di usia yang muda, Batu Landasannya adalah \"Topaz - Menagih Utang\".\\nRekannya, Warp Trotter yang bernama \"Numby\", memiliki kemampuan untuk melihat keberadaan \"kekayaan\". Pekerjaan yang berhubungan dengan keamanan, menagih utang, atau akuntansi tidak akan menjadi masalah.\\nSekarang ini, mereka bersama-sama mengembara di galaksi, menyelidiki berbagai sengketa utang yang memengaruhi jalannya bisnis IPC."
   },
   "qingque": {
     "id": "qingque",
@@ -295,6 +295,14 @@
     "rarity": 5,
     "background": "Hakim magang Ten-Lords Commission dari Xianzhou Luofu, seorang gadis Foxian yang dirasuki oleh Heliobus.\\nDia adalah seorang gadis pemalu dan lemah yang takut pada segala macam hal-hal aneh, tapi bertanggung jawab untuk menarik dan menaklukkan roh jahat."
   },
+  "gallagher": {
+    "id": "gallagher",
+    "name": "Gallagher",
+    "path": "abundance",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Petugas keamanan dari Bloodhound Family saat ini di Penacony. Dia selalu sopan terhadap pengunjung, namun juga selalu waspada. Dia kelihatannya memiliki masa lalu yang rumit, tapi dia tidak pernah inisiatif membicarakannya."
+  },
   "argenti": {
     "id": "argenti",
     "name": "Argenti",
@@ -333,7 +341,15 @@
     "path": "nihility",
     "element": "wind",
     "rarity": 5,
-    "background": "Memokeeper dari Garden of Recollection, peramal yang pemalas dan misterius.\\nMendengarkan \"ingatan\" orang lain dengan sabar, dan segala jenis nasib ada dalam genggamannya."
+    "background": "Memokeeper dari Garden of Recollection, peramal yang pemalas dan misterius.\\nMendengarkan \"memori\" orang lain dengan sabar, dan segala jenis nasib ada dalam genggamannya."
+  },
+  "acheron": {
+    "id": "acheron",
+    "name": "Acheron",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Seorang pengelana yang mengaku dirinya adalah \"Galaxy Ranger\". Nama aslinya tidak diketahui.\\nDia mengenakan sebilah pedang panjang, dan dia menelusuri alam semesta seorang diri."
   },
   "misha": {
     "id": "misha",

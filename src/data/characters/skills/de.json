@@ -384,21 +384,21 @@
           250
         ],
         [
+          0,
+          8,
+          16,
+          24,
+          32,
           40,
-          44,
-          48,
-          52,
-          56,
+          50,
           60,
-          65,
           70,
-          75,
           80,
-          84,
           88,
-          92,
           96,
-          100
+          104,
+          112,
+          120
         ]
       ],
       "format": [
@@ -6965,6 +6965,186 @@
       ]
     }
   },
+  "gallagher": {
+    "attack": {
+      "name": "Entkorkungsgebühr",
+      "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Gallaghers ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Spezialmischung in der Dose",
+      "desc": "Stellt sofort <span style=\"color: #f29e38ff\">{1}</span> Pkt. LP eines Verbündeten wieder her.",
+      "values": [
+        [
+          200,
+          340,
+          480,
+          676,
+          830,
+          984,
+          1138,
+          1292,
+          1446,
+          1600,
+          1684,
+          1768,
+          1852,
+          1936,
+          2020
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Champagner-Zeremonie",
+      "desc": "Belegt alle Gegner für {2} Rd. mit „Berauschung“ und fügt ihnen gleichzeitig Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Gallaghers ANG zu. Verstärkt den nächsten Standardangriff zu „Hopfenschwall“.",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          113,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Trunken vom Kampf",
+      "desc": "„Berauschung“ erhöht den von Zielen erlittenen Bruch-SCH um <span style=\"color: #f29e38ff\">{1}</span>. Jedes Mal, wenn ein berauschtes Ziel von einem Verbündeten angegriffen wird, werden die LP des Angreifers um <span style=\"color: #f29e38ff\">{2}</span> Pkt. wiederhergestellt.",
+      "values": [
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.8,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          80,
+          136,
+          192,
+          270,
+          332,
+          394,
+          455,
+          517,
+          578,
+          640,
+          674,
+          707,
+          741,
+          774,
+          808
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Edler Tropfen",
+      "desc": "Greift sofort den Gegner an. Belegt nach Kampfeintritt alle Gegner für {1} Rd. mit „Berauschung“ und fügt ihnen Feuer-SCH in Höhe von {2} von Gallaghers ANG zu.",
+      "values": [
+        [
+          2
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Hopfenschwall",
+      "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Gallaghers ANG zu. Reduziert den ANG des Ziels für {3} Rd. um <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          125,
+          150,
+          175,
+          200,
+          225,
+          250,
+          275,
+          300,
+          325
+        ],
+        [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    }
+  },
   "argenti": {
     "attack": {
       "name": "Flüchtiger Duft",
@@ -7558,7 +7738,7 @@
     },
     "ultimate": {
       "name": "Ein Leben in tausend Rollen",
-      "desc": "Stellt für alle Verbündete {2} Fertigkeitspunkt(e) wieder her und verleiht ihnen „Rätselhaft“. Jeder Verbündete mit Rätselhaft erhöht den verursachten SCH von Sparkles Talent für {4} Rd. zusätzlich um <span style=\"color: #f29e38ff\">{3}</span>.",
+      "desc": "Stellt für alle Verbündeten {2} Fertigkeitspunkte wieder her und verleiht ihnen „Rätselhaft“. Für Verbündete mit Rätselhaft erhöht jede Stapelung der SCH-Erhöhung durch Sparkles Talent für {4} Rd. zusätzlich um <span style=\"color: #f29e38ff\">{3}</span>.",
       "values": [
         [
           2
@@ -7634,13 +7814,13 @@
     },
     "mazeattack": {
       "name": "Angriff",
-      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
       "values": [],
       "format": []
     },
     "technique": {
       "name": "Unzuverlässiger Erzähler",
-      "desc": "Nach dem Einsatz der Technik erhalten alle Verbündeten für {2} Sek. den Status „Irreführung“, der sie für Gegner unsichtbar macht. Stellt beim Kampfeintritt mit Irreführung {1} Fertigkeitspunkt(e) wieder her.",
+      "desc": "Nach dem Einsatz der Technik erhalten alle Verbündeten für {2} Sek. den Status „Irreführung“, der sie für Gegner unsichtbar macht. Stellt beim Kampfeintritt mit Irreführung {1} Fertigkeitspunkte wieder her.",
       "values": [
         [
           3
@@ -7702,7 +7882,7 @@
     },
     "skill": {
       "name": "Verlust, falsche Abenddämmerung",
-      "desc": "Fügt einem anvisierten Gegner und angrenzenden Einheiten Wind-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Schwarzer Schwan zu und hat eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, die Ziele mit 1 Stapelung <u>Arkana</u> zu belegen. Hat außerdem eine <u>Grundchance</u> von {3}, die VTD der Ziele für {5} Rd. um <span style=\"color: #f29e38ff\">{4}</span> zu reduzieren.",
+      "desc": "Fügt einem anvisierten Gegner und angrenzenden Einheiten Wind-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Schwarzer Schwan zu und hat eine <u>Grundchance</u> von {2}, die Ziele mit 1 Stapelung <u>Arkana</u> zu belegen. Hat außerdem eine <u>Grundchance</u> von {3}, die VTD der Ziele für {5} Rd. um <span style=\"color: #f29e38ff\">{4}</span> zu reduzieren.",
       "values": [
         [
           45,
@@ -7810,7 +7990,7 @@
     },
     "talent": {
       "name": "Die Launen des sinnlosen Schicksals",
-      "desc": "Jedes Mal, wenn ein Gegner zu Beginn der Runde DoT erleidet, besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, dass er mit 1 Stapelung <u>Arkana</u> belegt wird.\\nMit <u>Arkana</u> belegte Gegner erleiden Wind-DoT in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Schwarzer Schwan. Jede Stapelung von <u>Arkana</u> erhöht den SCH-Multiplikator um <span style=\"color: #f29e38ff\">{3}</span>. <u>Arkana</u> wird danach auf 1 Stapelung zurückgesetzt. <u>Arkana</u> kann bis zu {8}-fach gestapelt werden.\\nWenn <u>Arkana</u> zu Beginn einer gegnerischen Runde SCH verursacht, löst Schwarzer Schwan zusätzliche Effekte basierend auf der Stapelzahl von <u>Arkana</u> beim entsprechenden Ziel aus:\\nBei {4} oder mehr Stapelungen wird bei angrenzenden Einheiten Wind-DoT in Höhe von <span style=\"color: #f29e38ff\">{5}</span> des ANG von Schwarzer Schwan verursacht und es besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, diese mit 1 Stapelung <u>Arkana</u> zu belegen.\\nBei {6} oder mehr Stapelungen ignoriert der aktuell verursachte DoT {7} der VTD des Ziels und der angrenzenden Einheiten.<u>",
+      "desc": "Jedes Mal, wenn ein Gegner zu Beginn der Runde DoT erleidet, besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, dass er mit 1 Stapelung <u>Arkana</u> belegt wird.\\nMit <u>Arkana</u> belegte Gegner erleiden Wind-DoT in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG von Schwarzer Schwan. Jede Stapelung von <u>Arkana</u> erhöht den SCH-Multiplikator um <span style=\"color: #f29e38ff\">{3}</span>. <u>Arkana</u> wird danach auf 1 Stapelung zurückgesetzt. <u>Arkana</u> kann bis zu {8}-fach gestapelt werden.\\nNur wenn <u>Arkana</u> zu Beginn einer gegnerischen Runde SCH verursacht, löst Schwarzer Schwan zusätzliche Effekte basierend auf der Stapelzahl von <u>Arkana</u> beim entsprechenden Ziel aus:\\nBei {4} oder mehr Stapelungen wird bei angrenzenden Einheiten Wind-DoT in Höhe von <span style=\"color: #f29e38ff\">{5}</span> des ANG von Schwarzer Schwan verursacht und es besteht eine <u>Grundchance</u> von <span style=\"color: #f29e38ff\">{2}</span>, diese mit 1 Stapelung <u>Arkana</u> zu belegen.\\nBei {6} oder mehr Stapelungen ignoriert der aktuell verursachte DoT {7} der VTD des Ziels und der angrenzenden Einheiten.",
       "values": [
         [
           96,
@@ -7924,6 +8104,274 @@
       "format": [
         "[i]%",
         "[i]%"
+      ]
+    }
+  },
+  "acheron": {
+    "attack": {
+      "name": "Welke Pfade der Schreckenstriade",
+      "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Acherons ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Oktett des Donners",
+      "desc": "Erhält {3} Pkt. „Zerbrochener Traum“. Belegt einen anvisierten Gegner mit {3} Stapelung „Karminroter Knoten“ und fügt ihm Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Acherons ANG sowie angrenzenden Einheiten Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Acherons ANG zu.",
+      "values": [
+        [
+          80,
+          88,
+          96,
+          104,
+          112,
+          120,
+          130,
+          140,
+          150,
+          160,
+          168,
+          176,
+          184,
+          192,
+          200
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Verblassende Träume, ein Klingenstreich",
+      "desc": "Löst aufeinanderfolgend 3-mal „Regnerische Klage“ und 1-mal „Zurück ins Jenseits“ aus, wobei einem anvisierten Gegner Blitz-SCH in Höhe von bis zu <span style=\"color: #f29e38ff\">{6}</span> von Acherons ANG und anderen Zielen Blitz-SCH in Höhe von bis zu <span style=\"color: #f29e38ff\">{7}</span> von Acherons ANG zugefügt wird.\\nRegnerische Klage: Fügt einem anvisierten Gegner Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Acherons ANG zu und entfernt bis zu 3 Stapelungen „Karminroter Knoten“ des Ziels. Verursacht bei allen Gegnern sofort Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Acherons ANG, wenn Karminroter Knoten entfernt wird, wobei der SCH-Multiplikator mit jeder entfernten Stapelung zusätzlich erhöht wird, bis zu <span style=\"color: #f29e38ff\">{5}</span>.\\nZurück ins Jenseits: Fügt allen Gegnern Blitz-SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Acherons ANG zu und entfernt alle Stapelungen Karminroter Knoten.\\nGegner können nicht während des Ultimates mit Karminroter Knoten belegt werden.",
+      "values": [
+        [
+          14.4,
+          15.4,
+          16.3,
+          17.3,
+          18.2,
+          19.2,
+          20.4,
+          21.6,
+          22.8,
+          24,
+          25,
+          25.9,
+          26.9,
+          27.8,
+          28.8
+        ],
+        [
+          9,
+          9.6,
+          10.2,
+          10.8,
+          11.4,
+          12,
+          12.8,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18
+        ],
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ],
+        [
+          9
+        ],
+        [
+          36,
+          38.4,
+          40.8,
+          43.2,
+          45.6,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62.4,
+          64.8,
+          67.2,
+          69.6,
+          72
+        ],
+        [
+          223,
+          238,
+          253,
+          268,
+          283,
+          298,
+          316,
+          335,
+          353,
+          372,
+          387,
+          402,
+          417,
+          432,
+          446
+        ],
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]%",
+        "",
+        "[f1]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Tropfen auf den roten Blättern, Leere",
+      "desc": "Wenn „Zerbrochener Traum“ {1} Pkt. erreicht, kann der Ultimate aktiviert werden. Der Ultimate ignoriert Schwächetypen, verringert den Widerstand aller Gegner und reduziert ihren WDS aller Typen um <span style=\"color: #f29e38ff\">{2}</span>. Dies dauert bis zum Ende des Ultimates an.\\nWenn eine beliebige Einheit einem gegnerischen Ziel mit einer Fähigkeit einen Debuff zufügt, erhält Acheron 1 Pkt. Zerbrochener Traum und belegt das Ziel mit 1 Stapelung „Karminroter Knoten“. Wenn die Fähigkeit mehrere Gegner mit Debuffs belegt, wird Karminroter Knoten dem Gegner mit den meisten Stapelungen Karminroter Knoten zugefügt. Dieser Effekt kann bis zu 1-mal pro Einsatz der Fähigkeit ausgelöst werden.\\nWenn Acheron auf dem Kampffeld ist und ein gegnerisches Ziel das Feld verlässt oder von einer beliebigen Einheit besiegt wird, werden seine Stapelungen von Karminroter Knoten auf den Gegner mit den meisten Stapelungen Karminroter Knoten übertragen.",
+      "values": [
+        [
+          9
+        ],
+        [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Vier Phasen des Ich",
+      "desc": "Greift den Gegner an. Erhält zu Beginn jeder Kampfwelle „Vier Phasen des Ich“, fügt allen Gegnern Blitz-SCH in Höhe von {1} von Acherons ANG zu und reduziert ihr Widerstand ungeachtet des Schwächetyps. Beim Schwächebruch wird der Effekt „Schwächebruch: Blitz“ ausgelöst.\\nVier Phasen des Ich: Acheron erhält nach dem Einsatz des Ultimates {2} Pkt. „Zerbrochener Traum“ und belegt einen zufälligen Gegner mit {2} Stapelungen „Karminroter Knoten“.\\nWenn gewöhnliche Gegner angegriffen werden, werden sie sofort besiegt, ohne den Kampf zu betreten. Der Technikpunkt wird nicht verbraucht, wenn der Angriff keinen Gegner trifft.",
+      "values": [
+        [
+          200
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Zurück ins Jenseits",
+      "desc": "",
+      "values": [
+        [
+          0.72,
+          0.768,
+          0.816,
+          0.864,
+          0.912,
+          0.96,
+          1.02,
+          1.08,
+          1.14,
+          1.2,
+          1.248,
+          1.296,
+          1.344,
+          1.392,
+          1.44
+        ]
+      ],
+      "format": [
+        ""
       ]
     }
   },

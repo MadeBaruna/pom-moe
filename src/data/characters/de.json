@@ -295,6 +295,14 @@
     "rarity": 5,
     "background": "Dieses junge, foxianische Mädchen wird zur Richterin der Zehn-Fürsten-Kommission der Xianzhou Luofu ausgebildet und ist von einem Heliobus besessen.\\nSie ist schüchtern und schwach und fürchtet sich vor allen seltsamen Dingen. Trotzdem ist es ihre Aufgabe, böse Geister herauszulocken und zu bezwingen."
   },
+  "gallagher": {
+    "id": "gallagher",
+    "name": "Gallagher",
+    "path": "abundance",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Der Sicherheitsbeamte der Familie Bluthund in Penacony. Er ist Gästen gegenüber höflich, allerdings ist er stets wachsam. Er scheint jemand mit einer komplizierten Vergangenheit zu sein, erwähnt aber nie von sich aus irgendwelche Details."
+  },
   "argenti": {
     "id": "argenti",
     "name": "Argenti",
@@ -334,6 +342,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "Eine Wahrerin der Erinnerungen vom Garten des Gedächtnisses. Eine geheimnisvolle und elegante Wahrsagerin.\\nSie hört den Erinnerungen anderer geduldig zu, so erlangt sie die Macht über die Stränge des Schicksals."
+  },
+  "acheron": {
+    "id": "acheron",
+    "name": "Acheron",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Eine Herumtreiberin, die behauptet, eine Galaxierangerin zu sein.\\nIhr wahrer Name ist unbekannt. Sie wandert allein durch den Kosmos und trägt ein langes Schwert bei sich."
   },
   "misha": {
     "id": "misha",

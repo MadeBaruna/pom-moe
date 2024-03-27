@@ -295,6 +295,14 @@
     "rarity": 5,
     "background": "仙舟「羅浮」の十王司見習い判官。歳陽に取り憑かれた狐族の少女。\\n怪異を恐れる臆病で不憫な女の子だが、邪悪なるものを捕える責任を担っている。"
   },
+  "gallagher": {
+    "id": "gallagher",
+    "name": "ギャラガー",
+    "path": "abundance",
+    "element": "fire",
+    "rarity": 4,
+    "background": "ピノコニーのハウンド家の保安官。来賓には礼儀正しく接しているが、常に警戒心を持っている。何やら複雑な過去があるようだが、自分からそれについて言及することはない。"
+  },
   "argenti": {
     "id": "argenti",
     "name": "アルジェンティ",
@@ -334,6 +342,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "「ガーデン・オブ・リコレクション」のメモキーパーで、気だるげで謎めいた雰囲気の占い師。\\n他人の「記憶」に辛抱強く耳を傾け、その運命をすべて掌握している。"
+  },
+  "acheron": {
+    "id": "acheron",
+    "name": "{RUBY_B#よみ}黄泉{RUBY_E#}",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "「巡海レンジャー」を自称する旅人、本名は不明。\\n長い刀を携え、1人で銀河を旅している。"
   },
   "misha": {
     "id": "misha",

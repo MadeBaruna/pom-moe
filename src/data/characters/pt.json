@@ -295,6 +295,14 @@
     "rarity": 5,
     "background": "Juíza novata da Comissão dos Dez Senhores do Luofu do Xianzhou, ela é uma garota Vulpe possuída por um Heliobus.\\nÉ uma menina tímida e fraca que tem medo de tudo que é estranho, mas é responsável por atrair e subjugar espíritos malignos."
   },
+  "gallagher": {
+    "id": "gallagher",
+    "name": "Gallagher",
+    "path": "abundance",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Um oficial de segurança da Família Cão de Caça. Ele é sempre cortês com os hóspedes de visita, mas nunca deixa de estar de guarda. Ele parece ser um personagem com um passado complicado, mas ele nunca menciona detalhe nenhum voluntariamente."
+  },
   "argenti": {
     "id": "argenti",
     "name": "Argenti",
@@ -335,13 +343,21 @@
     "rarity": 5,
     "background": "Uma Memoriadora do Jardim da Recordação. Uma indolente e misteriosa profetisa.\\nA \"Recordação\" dos homens está sob a guarda dela, os fios do destino estão sob seu domínio."
   },
+  "acheron": {
+    "id": "acheron",
+    "name": "Acheron",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Uma viajante que diz ser uma Vigia da Galáxia. O nome verdadeiro dela é desconhecido.\\nEla caminha pelo cosmos sozinha, carregando consigo uma espada longa."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",
     "path": "destruction",
     "element": "ice",
     "rarity": 4,
-    "background": "Um jovem bem-comportado que trabalha como servente em Penacony.\\nMisha sente muita falta dos Inominados e sonha em um dia embarcar em sua própria jornada."
+    "background": "Um jovem bem-comportado que trabalha como servente em Penacony.\\nMisha tem uma grande admiração pelos Inominados e sonha em um dia embarcar em sua própria jornada."
   },
   "trailblazer": {
     "id": "trailblazer",

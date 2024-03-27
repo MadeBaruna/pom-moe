@@ -295,6 +295,14 @@
     "rarity": 5,
     "background": "Jueza en práctica de la Comisión de los Diez Líderes del Luofu de Xianzhou. Es una joven raposiana poseída por un heliobus.\\nTímida y débil. Le tiene miedo a todo tipo de cosas extrañas, pero es la encargada de someter a los espíritus malignos."
   },
+  "gallagher": {
+    "id": "gallagher",
+    "name": "Gallagher",
+    "path": "abundance",
+    "element": "fire",
+    "rarity": 4,
+    "background": "El actual oficial de seguridad de la familia Sabueso de Colonipenal. Trata con mucha cortesía a los huéspedes, a la vez que se mantiene alerta. Parece ser un personaje con un pasado complicado, pero nunca menciona ningún detalle sobre sí mismo."
+  },
   "argenti": {
     "id": "argenti",
     "name": "Argenti",
@@ -334,6 +342,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "Guardamemorias del Jardín de los Recuerdos. Es una vidente lánguida y misteriosa.\\nEscucha con paciencia los recuerdos de otras personas y tira de los hilos del destino."
+  },
+  "acheron": {
+    "id": "acheron",
+    "name": "Acheron",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Una viajera que dice ser una Vigilante de la Galaxia. Nadie sabe su verdadero nombre.\\nDeambula sola por el cosmos, llevando consigo una larga espada."
   },
   "misha": {
     "id": "misha",

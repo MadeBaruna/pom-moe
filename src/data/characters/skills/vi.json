@@ -384,21 +384,21 @@
           250
         ],
         [
+          0,
+          8,
+          16,
+          24,
+          32,
           40,
-          44,
-          48,
-          52,
-          56,
+          50,
           60,
-          65,
           70,
-          75,
           80,
-          84,
           88,
-          92,
           96,
-          100
+          104,
+          112,
+          120
         ]
       ],
       "format": [
@@ -6965,6 +6965,186 @@
       ]
     }
   },
+  "gallagher": {
+    "attack": {
+      "name": "Phí Mở Chai",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Gallagher.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Thức Uống Ủ Đặc Biệt",
+      "desc": "Hồi phục ngay <span style=\"color: #f29e38ff\">{1}</span> HP cho 1 đồng đội chỉ định.",
+      "values": [
+        [
+          200,
+          340,
+          480,
+          676,
+          830,
+          984,
+          1138,
+          1292,
+          1446,
+          1600,
+          1684,
+          1768,
+          1852,
+          1936,
+          2020
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Nghi Lễ Champagne",
+      "desc": "Khiến toàn bộ phe địch rơi vào trạng thái \"Say Mèm\", duy trì {2} hiệp, đồng thời gây Sát Thương Hỏa cho toàn bộ phe địch bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Gallagher, và cường hóa Tấn Công Thường lần sau thành \"Hoa Rượu Tuôn Trào\".",
+      "values": [
+        [
+          75,
+          83,
+          90,
+          98,
+          105,
+          113,
+          122,
+          131,
+          141,
+          150,
+          158,
+          165,
+          173,
+          180,
+          188
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Cuộc Chiến Say Ngà",
+      "desc": "\"Say Mèm\" sẽ tăng <span style=\"color: #f29e38ff\">{1}</span> Sát Thương Phá Vỡ mà mục tiêu phải chịu. Sau mỗi lần mục tiêu ở trạng thái \"Say Mèm\" bị nhân vật phe ta tấn công, sẽ hồi <span style=\"color: #f29e38ff\">{2}</span> HP cho người tấn công.",
+      "values": [
+        [
+          6,
+          6.6,
+          7.2,
+          7.8,
+          8.4,
+          9,
+          9.8,
+          10.5,
+          11.3,
+          12,
+          12.6,
+          13.2,
+          13.8,
+          14.4,
+          15
+        ],
+        [
+          80,
+          136,
+          192,
+          270,
+          332,
+          394,
+          455,
+          517,
+          578,
+          640,
+          674,
+          707,
+          741,
+          774,
+          808
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Rượu Ngọt Thủ Công",
+      "desc": "Lập tức tấn công kẻ địch, sau khi vào chiến đấu khiến toàn thể phe địch rơi vào trạng thái Say Mèm, duy trì {1} hiệp, đồng thời gây Sát Thương Hỏa lên toàn bộ phe địch bằng {2} Tấn Công của Gallagher.",
+      "values": [
+        [
+          2
+        ],
+        [
+          50
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "undefined": {
+      "name": "Hoa Rượu Tuôn Trào",
+      "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Gallagher. Đồng thời giảm <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của mục tiêu, duy trì {3} hiệp.",
+      "values": [
+        [
+          125,
+          150,
+          175,
+          200,
+          225,
+          250,
+          275,
+          300,
+          325
+        ],
+        [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    }
+  },
   "argenti": {
     "attack": {
       "name": "Hương Thơm Bay Xa",
@@ -7702,7 +7882,7 @@
     },
     "skill": {
       "name": "Sụp Đổ, Hoàng Hôn Giả Dối",
-      "desc": "Gây Sát Thương Phong lên kẻ địch chỉ định và mục tiêu bên cạnh bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Black Swan, đồng thời có {2} <u>xác suất cơ bản</u> khiến mục tiêu và mục tiêu bên cạnh rơi vào 1 tầng <u>Dấu Tích Bí Ẩn</u>, ngoài ra có {3} <u>xác suất cơ bản</u> giảm <span style=\"color: #f29e38ff\">{4}</span> Phòng Thủ của mục tiêu và mục tiêu bên cạnh, duy trì {5} hiệp.",
+      "desc": "Gây Sát Thương Phong lên 1 kẻ địch chỉ định và mục tiêu bên cạnh bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Black Swan, đồng thời có {2} <u>xác suất cơ bản</u> khiến mục tiêu và mục tiêu bên cạnh rơi vào 1 tầng <u>Dấu Tích Bí Ẩn</u>, ngoài ra có {3} <u>xác suất cơ bản</u> giảm <span style=\"color: #f29e38ff\">{4}</span> Phòng Thủ của mục tiêu và mục tiêu bên cạnh, duy trì {5} hiệp.",
       "values": [
         [
           45,
@@ -7924,6 +8104,274 @@
       "format": [
         "[i]%",
         "[i]%"
+      ]
+    }
+  },
+  "acheron": {
+    "attack": {
+      "name": "Ba Đường Thăng Trầm",
+      "desc": "Gây Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Acheron cho 1 kẻ địch chỉ định.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Bát Lôi Phi Độ",
+      "desc": "Nhận {3} điểm Mộng Tàn. Gắn {3} tầng Nút Thắt Đỏ lên 1 kẻ địch chỉ định, gây Sát Thương Lôi lên kẻ này bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Acheron, đồng thời gây Sát Thương Lôi cho mục tiêu lân cận kẻ đó bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Acheron.",
+      "values": [
+        [
+          80,
+          88,
+          96,
+          104,
+          112,
+          120,
+          130,
+          140,
+          150,
+          160,
+          168,
+          176,
+          184,
+          192,
+          200
+        ],
+        [
+          30,
+          33,
+          36,
+          39,
+          42,
+          45,
+          49,
+          53,
+          56,
+          60,
+          63,
+          66,
+          69,
+          72,
+          75
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Giấc Mộng Tàn Khuyết, Một Chém Đoạn Tuyệt",
+      "desc": "Lần lượt phát động 3 lần Lưỡi Chém Mưa và 1 lần Hoàng Tuyền Vượt Kiếp, tối đa gây cho 1 kẻ địch chỉ định Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{6}</span> Tấn Công của Acheron, tối đa gây cho các mục tiêu khác Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{7}</span> Tấn Công của Acheron.\\nLưỡi Chém Mưa: Gây cho 1 kẻ địch chỉ định Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Acheron đồng thời xóa tối đa 3 tầng Nút Thắt Đỏ của mục tiêu. Khi xóa Nút Thắt Đỏ sẽ lập tức gây cho toàn bộ phe địch Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Acheron, mỗi 1 tầng Nút Thắt Đỏ bị xóa sẽ tăng thêm Bội Số Sát Thương lần này, tối đa tăng đến <span style=\"color: #f29e38ff\">{5}</span>.\\nHoàng Tuyền Vượt Kiếp: Gây cho toàn bộ phe địch Sát Thương Lôi bằng <span style=\"color: #f29e38ff\">{3}</span> Tấn Công của Acheron và xóa tất cả Nút Thắt Đỏ.\\nTrong thời gian Tuyệt Kỹ không thể gắn thêm Nút Thắt Đỏ cho kẻ địch.",
+      "values": [
+        [
+          14.4,
+          15.4,
+          16.3,
+          17.3,
+          18.2,
+          19.2,
+          20.4,
+          21.6,
+          22.8,
+          24,
+          25,
+          25.9,
+          26.9,
+          27.8,
+          28.8
+        ],
+        [
+          9,
+          9.6,
+          10.2,
+          10.8,
+          11.4,
+          12,
+          12.8,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18
+        ],
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ],
+        [
+          9
+        ],
+        [
+          36,
+          38.4,
+          40.8,
+          43.2,
+          45.6,
+          48,
+          51,
+          54,
+          57,
+          60,
+          62.4,
+          64.8,
+          67.2,
+          69.6,
+          72
+        ],
+        [
+          223,
+          238,
+          253,
+          268,
+          283,
+          298,
+          316,
+          335,
+          353,
+          372,
+          387,
+          402,
+          417,
+          432,
+          446
+        ],
+        [
+          180,
+          192,
+          204,
+          216,
+          228,
+          240,
+          255,
+          270,
+          285,
+          300,
+          312,
+          324,
+          336,
+          348,
+          360
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[f1]%",
+        "[i]%",
+        "",
+        "[f1]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Mưa Lá Đỏ, Vạn Vật Hóa Hư Không",
+      "desc": "Khi \"Mộng Tàn\" đạt {1} điểm sẽ có thể kích hoạt Tuyệt Kỹ. Trong thời gian Tuyệt Kỹ có thể bỏ qua thuộc tính Điểm Yếu làm giảm Sức Bền của kẻ địch, đồng thời giảm <span style=\"color: #f29e38ff\">{2}</span> Kháng Toàn Thuộc Tính của toàn bộ phe địch, duy trì đến khi kết thúc Tuyệt Kỹ.\\nTrong thời gian đơn vị bất kỳ thi triển kỹ năng khiến kẻ địch rơi vào Hiệu Ứng Xấu, Acheron sẽ nhận 1 điểm Mộng Tàn, đồng thời gắn 1 tầng \"Nút Thắt Đỏ\" lên mục tiêu, nếu khiến nhiều mục tiêu rơi vào Hiệu Ứng Xấu, thì sẽ gắn 1 tầng \"Nút Thắt Đỏ\" lên một mục tiêu địch có nhiều \"Nút Thắt Đỏ\" nhất. Hiệu ứng này mỗi lần thi triển kỹ năng tối đa kích hoạt 1 lần.\\nKhi Acheron có mặt, kẻ địch rời khỏi trận hoặc bị đơn vị bất kỳ tiêu diệt, \"Nút Thắt Đỏ\" đang có sẽ chuyển sang kẻ địch có nhiều \"Nút Thắt Đỏ\" nhất.",
+      "values": [
+        [
+          9
+        ],
+        [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của kẻ địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Tứ Tướng Đoạn Ngã",
+      "desc": "Lập tức tấn công kẻ địch, khi bắt đầu mỗi đợt sẽ nhận Tứ Tướng Đoạn Ngã, gây Sát Thương Lôi cho tất cả kẻ địch bằng {1} Tấn Công của Acheron, đồng thời bỏ qua thuộc tính Điểm Yếu và làm giảm Sức Bền của toàn phe địch, khi phá vỡ Điểm Yếu sẽ kích hoạt hiệu ứng Phá Vỡ Điểm Yếu Lôi.\\nTứ Tướng Đoạn Ngã: Sau khi thi triển Tuyệt Kỹ, Acheron nhận {2} điểm Mộng Tàn đồng thời gắn {2} tầng Nút Thắt Đỏ lên 1 kẻ địch ngẫu nhiên.\\nNếu tấn công kẻ địch bình thường sẽ lập tức tiêu diệt kẻ đó, không vào chiến đấu. Khi chưa đánh trúng địch sẽ không tiêu hao Điểm Bí Kỹ.",
+      "values": [
+        [
+          200
+        ],
+        [
+          1
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Hoàng Tuyền Vượt Kiếp",
+      "desc": "",
+      "values": [
+        [
+          0.72,
+          0.768,
+          0.816,
+          0.864,
+          0.912,
+          0.96,
+          1.02,
+          1.08,
+          1.14,
+          1.2,
+          1.248,
+          1.296,
+          1.344,
+          1.392,
+          1.44
+        ]
+      ],
+      "format": [
+        ""
       ]
     }
   },

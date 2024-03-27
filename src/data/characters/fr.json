@@ -295,6 +295,14 @@
     "rarity": 5,
     "background": "Juge en formation de la Commission des dix seigneurs du Luofu possédée par un Héliobe.\\nJeune Foxienne timide et craintive, elle assume la responsabilité difficile de capturer les mauvais esprits malgré sa peur des phénomènes étranges."
   },
+  "gallagher": {
+    "id": "gallagher",
+    "name": "Gallagher",
+    "path": "abundance",
+    "element": "fire",
+    "rarity": 4,
+    "background": "Agent de la Maison Fin-Limier de Penacony. Il est toujours courtois avec les visiteurs, mais reste vigilant. Il semble porter le poids d'un lourd passé, mais il s'applique à ne pas jamais l'évoquer."
+  },
   "argenti": {
     "id": "argenti",
     "name": "Argenti",
@@ -334,6 +342,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "Une protectrice de la mémoire du Jardin de la mémoire. Une divinatrice insouciante et mystérieuse.\\nIl lui revient le devoir d'écouter les « Réminiscences » des hommes, il lui revient le devoir de tirer les fils du destin."
+  },
+  "acheron": {
+    "id": "acheron",
+    "name": "Achéron",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "Une voyageuse solitaire qui prétend faire partie des Rangers de la galaxie. Son véritable nom reste inconnu.\\nElle sillonne le cosmos munie d'une longue épée."
   },
   "misha": {
     "id": "misha",

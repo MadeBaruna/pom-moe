@@ -295,6 +295,14 @@
     "rarity": 5,
     "background": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus.\\nShe is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits."
   },
+  "gallagher": {
+    "id": "gallagher",
+    "name": "Gallagher",
+    "path": "abundance",
+    "element": "fire",
+    "rarity": 4,
+    "background": "A security officer of the Bloodhound Family at Penacony. He is always courteous toward visiting guests but keeps his vigilance about him. He seems to carry a weight of a complicated past, yet he never voluntarily divulges any details."
+  },
   "argenti": {
     "id": "argenti",
     "name": "Argenti",
@@ -325,7 +333,7 @@
     "path": "harmony",
     "element": "quantum",
     "rarity": 5,
-    "background": "A member of the Masked Fools. Inscrutable and unscrupulous.\\nA dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.\\nWealth, status, power... None of this matters to Sparkle. The only thing that can get her attention is \"amusement.\""
+    "background": "A member of the Masked Fools. Inscrutable and unscrupulous.\\nA dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.\\nWealth, status, power... None of those matters to Sparkle. The only thing that can get her attention is \"amusement.\""
   },
   "black-swan": {
     "id": "black-swan",
@@ -334,6 +342,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer.\\n\"Remembrance\" of men are hers to heed, threads of fate are hers to tug."
+  },
+  "acheron": {
+    "id": "acheron",
+    "name": "Acheron",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "A drifter claiming to be a Galaxy Ranger. Her true name is unknown.\\nShe walks the cosmos alone, carrying with her a long sword."
   },
   "misha": {
     "id": "misha",

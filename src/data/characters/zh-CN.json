@@ -295,6 +295,14 @@
     "rarity": 5,
     "background": "仙舟罗浮的十王司见习判官，被岁阳附身的狐人小女孩。\\n性格怯懦，弱小可怜，害怕种种怪异之事却肩负起勾摄邪魔的职责。"
   },
+  "gallagher": {
+    "id": "gallagher",
+    "name": "加拉赫",
+    "path": "abundance",
+    "element": "fire",
+    "rarity": 4,
+    "background": "匹诺康尼猎犬家系的治安官，对来访宾客以礼相待，但保有戒心。似乎有着诸多往事，却从不主动提及。"
+  },
   "argenti": {
     "id": "argenti",
     "name": "银枝",
@@ -334,6 +342,14 @@
     "element": "wind",
     "rarity": 5,
     "background": "流光忆庭的忆者，慵懒神秘的占卜师。\\n耐心聆听他人「记忆」，诸般命运尽在掌握。"
+  },
+  "acheron": {
+    "id": "acheron",
+    "name": "黄泉",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "自称「巡海游侠」的旅人，本名不详。\\n身佩一柄长刀，独行银河。"
   },
   "misha": {
     "id": "misha",
