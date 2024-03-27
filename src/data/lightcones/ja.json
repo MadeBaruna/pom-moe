@@ -383,6 +383,12 @@
     "path": "destruction",
     "rarity": 4
   },
+  "concert-for-two": {
+    "id": "concert-for-two",
+    "name": "{RUBY_B#ふたり}二人{RUBY_E#}だけのコンサート",
+    "path": "preservation",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "{RUBY_B#はじ}初{RUBY_E#}めてのクエストの{RUBY_B#まえ}前{RUBY_E#}に",
@@ -463,7 +469,7 @@
   },
   "she-already-shut-her-eyes": {
     "id": "she-already-shut-her-eyes",
-    "name": "{RUBY_B#とざ}閉{RUBY_E#}ざした{RUBY_B#ひとみ}瞳{RUBY_E#}",
+    "name": "{RUBY_B#と}閉{RUBY_E#}ざした{RUBY_B#ひとみ}瞳{RUBY_E#}",
     "path": "preservation",
     "rarity": 5
   },
@@ -530,6 +536,18 @@
   "reforged-remembrance": {
     "id": "reforged-remembrance",
     "name": "{RUBY_B#とき}時間{RUBY_E#}の{RUBY_B#きおく}記憶{RUBY_E#}を{RUBY_B#さいこうちく}再構築{RUBY_E#}して",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "inherently-unjust-destiny": {
+    "id": "inherently-unjust-destiny",
+    "name": "{RUBY_B#うんめい}運命{RUBY_E#}は{RUBY_B#つね}常{RUBY_E#}に{RUBY_B#ふこうへい}不公平{RUBY_E#}",
+    "path": "preservation",
+    "rarity": 5
+  },
+  "along-the-passing-shore": {
+    "id": "along-the-passing-shore",
+    "name": "{RUBY_B#なが}流{RUBY_E#}れ{RUBY_B#ゆ}逝{RUBY_E#}く{RUBY_B#きし}岸{RUBY_E#}を{RUBY_B#ある}歩{RUBY_E#}いて",
     "path": "nihility",
     "rarity": 5
   },

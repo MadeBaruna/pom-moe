@@ -383,6 +383,12 @@
     "path": "destruction",
     "rarity": 4
   },
+  "concert-for-two": {
+    "id": "concert-for-two",
+    "name": "两个人的演唱会",
+    "path": "preservation",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "新手任务开始前",
@@ -530,6 +536,18 @@
   "reforged-remembrance": {
     "id": "reforged-remembrance",
     "name": "重塑时光之忆",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "inherently-unjust-destiny": {
+    "id": "inherently-unjust-destiny",
+    "name": "命运从未公平",
+    "path": "preservation",
+    "rarity": 5
+  },
+  "along-the-passing-shore": {
+    "id": "along-the-passing-shore",
+    "name": "行于流逝的岸",
     "path": "nihility",
     "rarity": 5
   },

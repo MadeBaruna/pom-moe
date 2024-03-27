@@ -383,6 +383,12 @@
     "path": "destruction",
     "rarity": 4
   },
+  "concert-for-two": {
+    "id": "concert-for-two",
+    "name": "Concert for Two",
+    "path": "preservation",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Before the Tutorial Mission Starts",
@@ -530,6 +536,18 @@
   "reforged-remembrance": {
     "id": "reforged-remembrance",
     "name": "Reforged Remembrance",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "inherently-unjust-destiny": {
+    "id": "inherently-unjust-destiny",
+    "name": "Inherently Unjust Destiny",
+    "path": "preservation",
+    "rarity": 5
+  },
+  "along-the-passing-shore": {
+    "id": "along-the-passing-shore",
+    "name": "Along the Passing Shore",
     "path": "nihility",
     "rarity": 5
   },

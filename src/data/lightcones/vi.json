@@ -383,6 +383,12 @@
     "path": "destruction",
     "rarity": 4
   },
+  "concert-for-two": {
+    "id": "concert-for-two",
+    "name": "Buổi Hòa Nhạc Hai Người",
+    "path": "preservation",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ",
@@ -530,6 +536,18 @@
   "reforged-remembrance": {
     "id": "reforged-remembrance",
     "name": "Hun Đúc Ký Ức Thời Gian",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "inherently-unjust-destiny": {
+    "id": "inherently-unjust-destiny",
+    "name": "Vận Mệnh Chưa Từng Công Bằng",
+    "path": "preservation",
+    "rarity": 5
+  },
+  "along-the-passing-shore": {
+    "id": "along-the-passing-shore",
+    "name": "Bước Theo Bến Bờ Thời Gian",
     "path": "nihility",
     "rarity": 5
   },

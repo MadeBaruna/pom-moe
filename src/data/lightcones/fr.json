@@ -383,6 +383,12 @@
     "path": "destruction",
     "rarity": 4
   },
+  "concert-for-two": {
+    "id": "concert-for-two",
+    "name": "Concert pour deux",
+    "path": "preservation",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Avant que le tutoriel ne commence",
@@ -530,6 +536,18 @@
   "reforged-remembrance": {
     "id": "reforged-remembrance",
     "name": "Souvenirs refaçonnés",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "inherently-unjust-destiny": {
+    "id": "inherently-unjust-destiny",
+    "name": "Destin injuste",
+    "path": "preservation",
+    "rarity": 5
+  },
+  "along-the-passing-shore": {
+    "id": "along-the-passing-shore",
+    "name": "Le long de la rive",
     "path": "nihility",
     "rarity": 5
   },
