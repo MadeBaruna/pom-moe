@@ -344,7 +344,7 @@ export const banners: Banners = {
 			pos: '65% 20%',
 			zoom: 1.2,
 			featured5: ['sparkle'],
-			featured4: ['sampo', 'qingque', 'hanya'],
+			featured4: ['sampo', 'qingque', 'hanya']
 		},
 		{
 			code: 2024,
@@ -358,7 +358,7 @@ export const banners: Banners = {
 			pos: '65% 20%',
 			zoom: 1.2,
 			featured5: ['jing-yuan'],
-			featured4: ['sampo', 'qingque', 'hanya'],
+			featured4: ['sampo', 'qingque', 'hanya']
 		},
 		{
 			code: 2025,
@@ -389,6 +389,34 @@ export const banners: Banners = {
 			featured5: ['luocha'],
 			featured4: ['gallagher', 'dan-heng', 'pela'],
 			timezoneDependent: true
+		},
+		{
+			code: 2027,
+			type: 'character',
+			name: 'Gilded Imprisonment',
+			start: '2024-04-17 12:00:00',
+			end: '2024-05-07 15:00:00',
+			color: '#fff9ea',
+			version: '2.1',
+			image: 'Gilded Imprisonment 2027.jpg',
+			pos: '75% 0%',
+			zoom: 1.2,
+			featured5: ['aventurine'],
+			featured4: ['lynx', 'luka', 'serval']
+		},
+		{
+			code: 2028,
+			type: 'character',
+			name: 'Gentle Eclipse of the Moon',
+			start: '2024-04-17 12:00:00',
+			end: '2024-05-07 15:00:00',
+			color: '#51aaff',
+			version: '2.1',
+			image: 'Gentle Eclipse of the Moon 2028.jpg',
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['jingliu'],
+			featured4: ['lynx', 'luka', 'serval']
 		}
 	],
 	lightcone: [
@@ -706,7 +734,7 @@ export const banners: Banners = {
 			pos: '70% 20%',
 			zoom: 1.2,
 			featured5: ['earthly-escapade'],
-			featured4: ['planetary-rendezvous', 'under-the-blue-sky', 'geniuses-repose'],
+			featured4: ['planetary-rendezvous', 'under-the-blue-sky', 'geniuses-repose']
 		},
 		{
 			code: 3024,
@@ -720,7 +748,7 @@ export const banners: Banners = {
 			pos: '70% 20%',
 			zoom: 1.2,
 			featured5: ['before-dawn'],
-			featured4: ['planetary-rendezvous', 'under-the-blue-sky', 'geniuses-repose'],
+			featured4: ['planetary-rendezvous', 'under-the-blue-sky', 'geniuses-repose']
 		},
 		{
 			code: 3025,
@@ -751,6 +779,34 @@ export const banners: Banners = {
 			featured5: ['echoes-of-the-coffin'],
 			featured4: ['good-night-and-sleep-well', 'post-op-conversation', 'subscribe-for-more'],
 			timezoneDependent: true
+		},
+		{
+			code: 3027,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2024-04-17 12:00:00',
+			end: '2024-05-07 15:00:00',
+			color: '#fdf5c9',
+			version: '2.1',
+			image: 'Brilliant Fixation 3027.jpg',
+			pos: '70% 0%',
+			zoom: 1.2,
+			featured5: ['inherently-unjust-destiny'],
+			featured4: ['concert-for-two', 'shared-feeling', 'make-the-world-clamor']
+		},
+		{
+			code: 3028,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2024-04-17 12:00:00',
+			end: '2024-05-07 15:00:00',
+			color: '#c6d2ff',
+			version: '2.1',
+			image: 'Brilliant Fixation 3028.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['i-shall-be-my-own-sword'],
+			featured4: ['concert-for-two', 'shared-feeling', 'make-the-world-clamor']
 		}
 	],
 	standard: [
