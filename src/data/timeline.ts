@@ -63,7 +63,7 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/26239490',
 			timezoneDependent: true,
 			show: true
-		},
+		}
 	],
 	[
 		{
@@ -163,7 +163,7 @@ const timeline: Array<Timeline[]> = [
 			pos: '0%, 3%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/25550561',
-			show: true,
+			show: true
 		},
 		{
 			name: 'Laic Pursuit - Luocha Warp Event',
@@ -176,6 +176,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/26350508',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Gentle Eclipse of the Moon - Jingliu Warp Event',
+			start: '2024-04-17 12:00:00',
+			end: '2024-05-07 15:00:00',
+			image: 'Gentle Eclipse of the Moon 2028.jpg',
+			color: '#51aaff',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/27262568',
+			show: true
 		}
 	],
 	[
@@ -200,7 +211,7 @@ const timeline: Array<Timeline[]> = [
 			pos: '0%, 0%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/25550561',
-			show: true,
+			show: true
 		},
 		{
 			name: 'Words of Yore - Acheron Warp Event',
@@ -213,6 +224,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/26350508',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Gilded Imprisonment - Aventurine Warp Event',
+			start: '2024-04-17 12:00:00',
+			end: '2024-05-07 15:00:00',
+			image: 'Gilded Imprisonment 2027.jpg',
+			color: '#fff9ea',
+			pos: '-5%, 5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/27262568',
+			show: true
 		}
 	],
 	[
@@ -237,7 +259,7 @@ const timeline: Array<Timeline[]> = [
 			pos: '0%, 10%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/25550561',
-			show: true,
+			show: true
 		},
 		{
 			name: 'Brilliant Fixation - Light Cone Warp Event',
@@ -248,7 +270,18 @@ const timeline: Array<Timeline[]> = [
 			pos: '0%, -40%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/26350622',
-			show: true,
+			show: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2024-04-17 12:00:00',
+			end: '2024-05-07 15:00:00',
+			image: 'Brilliant Fixation 3027.jpg',
+			color: '#fdf5c9',
+			pos: '0%, 10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/27262674',
+			show: true
 		}
 	],
 	[
@@ -273,7 +306,7 @@ const timeline: Array<Timeline[]> = [
 			pos: '0%, 5%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/25550561',
-			show: true,
+			show: true
 		},
 		{
 			name: 'Bygone Reminiscence - Light Cone Warp Event',
@@ -284,7 +317,18 @@ const timeline: Array<Timeline[]> = [
 			pos: '0%, 10%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/26350622',
-			show: true,
+			show: true
+		},
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2024-04-17 12:00:00',
+			end: '2024-05-07 15:00:00',
+			image: 'Bygone Reminiscence 3028.jpg',
+			color: '#c6d2ff',
+			pos: '0%, 10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/27262674',
+			show: true
 		}
 	],
 	[
