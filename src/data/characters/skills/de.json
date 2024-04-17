@@ -7521,6 +7521,218 @@
       ]
     }
   },
+  "aventurine": {
+    "attack": {
+      "name": "Intuitiver Einsatz",
+      "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Aventurins VTD zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Eckpfeiler des Wohlstands",
+      "desc": "Gewährt allen Verbündeten für {3} Rd. den Schild „Verstärkter Einsatz“, der in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Aventurins VTD plus <span style=\"color: #f29e38ff\">{2}</span> absorbiert. Wenn Verstärkter Einsatz wiederholt erhalten wird, wird der Schild bis zu {4} der durch die aktuelle Fertigkeit gewährten Schildmenge gestapelt.",
+      "values": [
+        [
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24,
+          24.8,
+          25.6,
+          26.4,
+          27.2,
+          28
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          3
+        ],
+        [
+          200
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Lord Roulette",
+      "desc": "Erhält zufällig 1 bis {1} Pkt. „Blinde Wette“ und verursacht dann bei einem anvisierten Gegner für {4} Rd. „Panik“. Außerdem wird dem anvisierten Gegner imaginärer SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> von Aventurins VTD zugefügt. Wenn Verbündete panische Gegner angreifen, wird der verursachte KRIT-SCH um <span style=\"color: #f29e38ff\">{3}</span> erhöht.",
+      "values": [
+        [
+          7
+        ],
+        [
+          162,
+          173,
+          184,
+          194,
+          205,
+          216,
+          230,
+          243,
+          257,
+          270,
+          281,
+          292,
+          302,
+          313,
+          324
+        ],
+        [
+          9,
+          9.6,
+          10.2,
+          10.8,
+          11.4,
+          12,
+          12.8,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Ziele nach rechts",
+      "desc": "Besitzt ein Verbündeter „Verstärkter Einsatz“, wird sein Effekt-WDS um <span style=\"color: #f29e38ff\">{4}</span> erhöht. Nachdem er angegriffen wird, erhält Aventurin 1 Pkt. „Blinde Wette“. Besitzt Aventurin Verstärkter Einsatz, kann er <u>Mengenkontrolle-Debuffs</u> widerstehen. Dieser Effekt kann nach {5} Rd. erneut ausgelöst werden und Aventurin erhält nach dem erlittenen Angriff zusätzlich {1} Pkt. Blinde Wette. Nachdem Blinde Wette 7 Pkt. erreicht, verbraucht Aventurin diese 7 Pkt. Aufladung, um einen <u>Folgeangriff</u> mit {2} Treffern zu starten und bei jedem Treffer einem zufälligen Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{3}</span> von Aventurins VTD zuzufügen. Blinde Wette ist auf 10 Pkt. begrenzt.",
+      "values": [
+        [
+          1
+        ],
+        [
+          7
+        ],
+        [
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          22,
+          23,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31
+        ],
+        [
+          25,
+          27.5,
+          30,
+          32.5,
+          35,
+          37.5,
+          40.6,
+          43.8,
+          46.9,
+          50,
+          52.5,
+          55,
+          57.5,
+          60,
+          62.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Zwischen Rot und Schwarz",
+      "desc": "Nach dem Einsatz der Technik wird 1 der folgenden Effekte gewährt:\\nEs besteht eine bestimmte Chance, dass die VTD um {1} erhöht wird.\\nEs besteht eine hohe Chance, dass die VTD um {2} erhöht wird.\\nEs besteht eine geringe Chance, dass die VTD um {3} erhöht wird.\\nBei erneutem Einsatz wird der Effekt mit dem höchsten Verstärkungswert beibehalten.\\nZu Beginn des nächsten Kampfes wird die VTD aller Verbündeten für {4} Rd. entsprechend erhöht.",
+      "values": [
+        [
+          24
+        ],
+        [
+          36
+        ],
+        [
+          60
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "dr-ratio": {
     "attack": {
       "name": "Wissen ist Macht",

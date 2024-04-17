@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Miembro del Círculo de Genios y experta en las ciencias de la vida. Colaboró con Herta y el resto de genios para desarrollar el Universo Simulado."
   },
+  "aventurine": {
+    "id": "aventurine",
+    "name": "Aventurino",
+    "path": "preservation",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Un alto directivo del Departamento de Inversiones Estratégicas de la Corporación para la Paz Interastral.\\nUn amante del riesgo cuya constante sonrisa hace que sea difícil discernir sus verdaderos sentimientos."
+  },
   "dr-ratio": {
     "id": "dr-ratio",
     "name": "Dr. Ratio",

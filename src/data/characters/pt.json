@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Uma membro da Sociedade de Gênios e especialista em ciências biológicas. Ela se uniu à Herta e aos outros para desenvolver o Universo Simulado."
   },
+  "aventurine": {
+    "id": "aventurine",
+    "name": "Aventurine",
+    "path": "preservation",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Um executivo do alto escalão do Departamento de Investimento Estratégico da CPI.\\nUma pessoa que gosta de correr riscos, seu sorriso constante dificulta que as pessoas compreendam seus verdadeiros sentimentos."
+  },
   "dr-ratio": {
     "id": "dr-ratio",
     "name": "Dr. Ratio",

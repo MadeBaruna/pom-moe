@@ -7521,6 +7521,218 @@
       ]
     }
   },
+  "aventurine": {
+    "attack": {
+      "name": "Aposta Direta",
+      "desc": "Causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{1}</span> da DEF de Aventurine a um único inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Alicerce de Luxo",
+      "desc": "Fornece um Escudo de Aposta Fortificada que pode bloquear Dano igual a <span style=\"color: #f29e38ff\">{1}</span> da DEF de Aventurine + <span style=\"color: #f29e38ff\">{2}</span> para todos os aliados por {3} rodada(s). Ao ganhar Aposta Fortificada repetidamente, o efeito de Escudo pode acumular até {4} do Escudo fornecido pela Perícia atual.",
+      "values": [
+        [
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24,
+          24.8,
+          25.6,
+          26.4,
+          27.2,
+          28
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          3
+        ],
+        [
+          200
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Lorde da Roleta",
+      "desc": "Recebe aleatoriamente de 1 a {1} pontos de Aposta Cega e inflige Perturbação a um único inimigo, durando por {4} rodada(s). Causa Dano Imaginário igual a <span style=\"color: #f29e38ff\">{2}</span> da DEF de Aventurine a um único inimigo-alvo. Quando um aliado atinge um inimigo-alvo com Perturbação, o Dano CRIT causado aumenta em <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          7
+        ],
+        [
+          162,
+          173,
+          184,
+          194,
+          205,
+          216,
+          230,
+          243,
+          257,
+          270,
+          281,
+          292,
+          302,
+          313,
+          324
+        ],
+        [
+          9,
+          9.6,
+          10.2,
+          10.8,
+          11.4,
+          12,
+          12.8,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Bem na Mira",
+      "desc": "A RES a Efeito aumenta em <span style=\"color: #f29e38ff\">{4}</span> em um único aliado com Aposta Fortificada. E quando este aliado é atacado, Aventurine ganha 1 ponto de Aposta Cega. Quando Aventurine possui Aposta Fortificada, ele pode resistir a <u>penalidades de Controle Negativo</u>. Este efeito pode ser acionado novamente após {5} rodada(s). Aventurine ganha adicionalmente {1} ponto(s) de Aposta Cega após ser atacado. Ao atingir 7 pontos de Aposta Cega, Aventurine consome os 7 pontos para realizar um <u>Ataque Extra</u> de {2} golpes, com cada golpe causando Dano Imaginário igual a <span style=\"color: #f29e38ff\">{3}</span> da DEF de Aventurine a um único inimigo aleatório. Aposta Cega possui um máximo de 10 pontos.",
+      "values": [
+        [
+          1
+        ],
+        [
+          7
+        ],
+        [
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          22,
+          23,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31
+        ],
+        [
+          25,
+          27.5,
+          30,
+          32.5,
+          35,
+          37.5,
+          40.6,
+          43.8,
+          46.9,
+          50,
+          52.5,
+          55,
+          57.5,
+          60,
+          62.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "O Vermelho ou o Preto",
+      "desc": "Depois de usar a Técnica, 1 dos seguintes efeitos será concedido:\\nExiste uma chance de aumentar a DEF em {1}.\\nExiste uma chance alta de aumentar a DEF em {2}.\\nExiste uma chance pequena de aumentar a DEF em {3}.\\n\\nQuando essa Técnica for usada várias vezes, só o último efeito adquirido com o maior valor de melhoria será mantido.\\nQuando a próxima batalha começar, aumenta a DEF de todos os aliados pelo valor correspondente, durando por {4} rodada(s).",
+      "values": [
+        [
+          24
+        ],
+        [
+          36
+        ],
+        [
+          60
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "dr-ratio": {
     "attack": {
       "name": "A Mente É Poderosa",

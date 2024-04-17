@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Ein Mitglied der Geniusgesellschaft und Expertin im Bereich Lebenswissenschaft. Sie hat zusammen mit Herta und den anderen die Universum-Simulation entwickelt."
   },
+  "aventurine": {
+    "id": "aventurine",
+    "name": "Aventurin",
+    "path": "preservation",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Eine hochrangige Führungskraft in der Abteilung für strategische Investitionen der IFK.\\nEr scheut sich nicht, Risiken einzugehen und sein ständiges Lächeln macht es den Menschen schwer, seine wahren Gefühle zu erkennen."
+  },
   "dr-ratio": {
     "id": "dr-ratio",
     "name": "Dr. Wahrheit",

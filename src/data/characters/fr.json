@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Une membre de la Société des génies experte en sciences de la vie. Elle a collaboré avec Herta et d'autres génies pour développer l'Univers simulé."
   },
+  "aventurine": {
+    "id": "aventurine",
+    "name": "Aventurine",
+    "path": "preservation",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Membre haut placé du Département des investissements stratégiques de la CPI.\\nAmateur de risques, il ne se départit jamais de son sourire, mais ses véritables intentions restent un mystère."
+  },
   "dr-ratio": {
     "id": "dr-ratio",
     "name": "Dr Ratio",

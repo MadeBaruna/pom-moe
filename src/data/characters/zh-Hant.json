@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "天才俱樂部會員，生命科學領域專家，與黑塔等人聯手研發模擬宇宙。"
   },
+  "aventurine": {
+    "id": "aventurine",
+    "name": "砂金",
+    "path": "preservation",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "星際和平公司「策略投資部」的高層成員。\\n風險愛好者，常面帶笑容，真心卻難以揣測。"
+  },
   "dr-ratio": {
     "id": "dr-ratio",
     "name": "真理醫生",

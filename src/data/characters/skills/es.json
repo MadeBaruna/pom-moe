@@ -7521,6 +7521,218 @@
       ]
     }
   },
+  "aventurine": {
+    "attack": {
+      "name": "Apuesta directa",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> de la DEF de Aventurino como Daño Imaginario a un enemigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Piedra angular de la prosperidad",
+      "desc": "Otorga a todos los aliados un escudo Apuesta reforzada que absorbe un daño equivalente al <span style=\"color: #f29e38ff\">{1}</span> de la DEF de Aventurino + <span style=\"color: #f29e38ff\">{2}</span> durante {3} turnos. Al obtener Apuesta reforzada varias veces, el efecto de escudo se puede acumular hasta un máximo del {4} del efecto de escudo que proporciona la habilidad básica actual.",
+      "values": [
+        [
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24,
+          24.8,
+          25.6,
+          26.4,
+          27.2,
+          28
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          3
+        ],
+        [
+          200
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Prodigio de la ruleta",
+      "desc": "Obtiene de 1 a {1} pts. de Apuesta ciega al azar y después aplica Sobresalto a un enemigo durante {4} turnos. Además, inflige al enemigo un <span style=\"color: #f29e38ff\">{2}</span> de la DEF de Aventurino como Daño Imaginario. Cuando un objetivo aliado golpea a un enemigo con Sobresalto, el Daño CRIT infligido aumenta en un <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          7
+        ],
+        [
+          162,
+          173,
+          184,
+          194,
+          205,
+          216,
+          230,
+          243,
+          257,
+          270,
+          281,
+          292,
+          302,
+          313,
+          324
+        ],
+        [
+          9,
+          9.6,
+          10.2,
+          10.8,
+          11.4,
+          12,
+          12.8,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Bala cargada a la derecha",
+      "desc": "La RES a efecto de un aliado con Apuesta reforzada aumenta en un <span style=\"color: #f29e38ff\">{4}</span>, y cuando ese aliado recibe un ataque, Aventurino obtiene 1 pt. de Apuesta ciega. Aventurino es inmune a los <u>estados negativos de Control</u> cuando tiene Apuesta reforzada. Este efecto se puede activar de nuevo después de {5} turnos, y al recibir un ataque obtiene adicionalmente {1} pt. de Apuesta ciega. Tras alcanzar 7 pts. de Apuesta ciega, Aventurino los consume y lanza un <u>ataque adicional</u> de {2} golpes. Cada golpe inflige a un enemigo aleatorio un <span style=\"color: #f29e38ff\">{3}</span> de la DEF de Aventurino como Daño Imaginario. Apuesta ciega puede acumular 10 pts. como máximo.",
+      "values": [
+        [
+          1
+        ],
+        [
+          7
+        ],
+        [
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          22,
+          23,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31
+        ],
+        [
+          25,
+          27.5,
+          30,
+          32.5,
+          35,
+          37.5,
+          40.6,
+          43.8,
+          46.9,
+          50,
+          52.5,
+          55,
+          57.5,
+          60,
+          62.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Rojo o negro",
+      "desc": "Tras usar la técnica, se obtiene 1 de los siguientes efectos:\\nProbabilidad de aumentar la DEF en un {1}.\\nGran probabilidad de aumentar la DEF en un {2}.\\nPequeña probabilidad de aumentar la DEF en un {3}.\\nSi se usa repetidas veces, solo se conserva el efecto con el valor más alto.\\nCuando comienza la siguiente batalla, la DEF de todos los aliados aumenta en la cantidad correspondiente durante {4} turnos.",
+      "values": [
+        [
+          24
+        ],
+        [
+          36
+        ],
+        [
+          60
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "dr-ratio": {
     "attack": {
       "name": "El conocimiento es poder",

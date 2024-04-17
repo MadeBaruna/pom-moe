@@ -7521,6 +7521,218 @@
       ]
     }
   },
+  "aventurine": {
+    "attack": {
+      "name": "Straight Bet",
+      "desc": "Deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Aventurine's DEF to a single target enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Cornerstone Deluxe",
+      "desc": "Provides all allies with a Fortified Wager shield that can block DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Aventurine's DEF plus <span style=\"color: #f29e38ff\">{2}</span>, lasting for {3} turn(s). When repeatedly gaining Fortified Wager, the Shield effect can stack, up to {4} of the Shield provided by the current Skill.",
+      "values": [
+        [
+          16,
+          17,
+          18,
+          19,
+          20,
+          20.8,
+          21.6,
+          22.4,
+          23.2,
+          24,
+          24.8,
+          25.6,
+          26.4,
+          27.2,
+          28
+        ],
+        [
+          80,
+          128,
+          164,
+          200,
+          224,
+          248,
+          266,
+          284,
+          302,
+          320,
+          338,
+          356,
+          374,
+          392,
+          410
+        ],
+        [
+          3
+        ],
+        [
+          200
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]%"
+      ]
+    },
+    "ultimate": {
+      "name": "Roulette Shark",
+      "desc": "Randomly gains 1 to {1} points of Blind Bet. Then inflicts Unnerved on a single target enemy, lasting for {4} turn(s). And deals Imaginary DMG equal to <span style=\"color: #f29e38ff\">{2}</span> of Aventurine's DEF to the single target enemy. When an ally hits an Unnerved enemy target, the CRIT DMG dealt increases by <span style=\"color: #f29e38ff\">{3}</span>.",
+      "values": [
+        [
+          7
+        ],
+        [
+          162,
+          173,
+          184,
+          194,
+          205,
+          216,
+          230,
+          243,
+          257,
+          270,
+          281,
+          292,
+          302,
+          313,
+          324
+        ],
+        [
+          9,
+          9.6,
+          10.2,
+          10.8,
+          11.4,
+          12,
+          12.8,
+          13.5,
+          14.3,
+          15,
+          15.6,
+          16.2,
+          16.8,
+          17.4,
+          18
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Shot Loaded Right",
+      "desc": "The Effect RES increases by <span style=\"color: #f29e38ff\">{4}</span> for a single ally with Fortified Wager. And when this allied character gets attacked, Aventurine gains 1 point of Blind Bet. When Aventurine has Fortified Wager, he can resist <u>Crowd Control debuffs</u>. This effect can trigger again after {5} turn(s). Aventurine additionally gains {1} point(s) of Blind Bet after getting attacked. Upon reaching 7 points of Blind Bet, Aventurine consumes the 7 points to launch a {2}-hit <u>follow-up attack</u>, with each hit dealing Imaginary DMG equal to <span style=\"color: #f29e38ff\">{3}</span> of Aventurine's DEF to a single random enemy. Blind Bet is capped at 10 points.",
+      "values": [
+        [
+          1
+        ],
+        [
+          7
+        ],
+        [
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          22,
+          23,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31
+        ],
+        [
+          25,
+          27.5,
+          30,
+          32.5,
+          35,
+          37.5,
+          40.6,
+          43.8,
+          46.9,
+          50,
+          52.5,
+          55,
+          57.5,
+          60,
+          62.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "The Red or the Black",
+      "desc": "After using the Technique, 1 of the following effects will be granted:\\nThere is a chance for DEF to increase by {1}.\\nThere is a high chance for DEF to increase by {2}.\\nThere is a small chance for DEF to increase by {3}.\\n\\nWhen this Technique is used repeatedly, the acquired effect with the highest buff value is retained.\\nWhen the next battle starts, increases all allies' DEF by the corresponding value, lasting for {4} turn(s).",
+      "values": [
+        [
+          24
+        ],
+        [
+          36
+        ],
+        [
+          60
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    }
+  },
   "dr-ratio": {
     "attack": {
       "name": "Mind is Might",

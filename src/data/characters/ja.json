@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "天才クラブのメンバー、生命科学の専門家。ヘルタたちと協力して模擬宇宙を開発した。"
   },
+  "aventurine": {
+    "id": "aventurine",
+    "name": "アベンチュリン",
+    "path": "preservation",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "スターピースカンパニー「戦略投資部」の幹部。\\nリスクを好む性格で、常に笑顔を絶やさないが、その本心を人に見せることはない。"
+  },
   "dr-ratio": {
     "id": "dr-ratio",
     "name": "Dr.レイシオ",

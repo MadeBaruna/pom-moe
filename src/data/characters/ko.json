@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "지니어스 클럽 회원이자 생명과학 분야의 전문가로, 헤르타 일행과 함께 시뮬레이션 우주를 연구하고 있다"
   },
+  "aventurine": {
+    "id": "aventurine",
+    "name": "어벤츄린",
+    "path": "preservation",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "스타피스 컴퍼니 「전략투자부」의 고위 간부.\\n리스크를 즐기며, 미소를 띠고 있지만 진심을 가늠하기 어렵다"
+  },
   "dr-ratio": {
     "id": "dr-ratio",
     "name": "Dr. 레이시오",

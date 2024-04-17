@@ -319,6 +319,14 @@
     "rarity": 5,
     "background": "Hội viên Câu Lạc Bộ Thiên Tài, chuyên gia trong lĩnh vực khoa học sinh mệnh, cùng hợp tác với nhóm người Herta phát triển Vũ Trụ Mô Phỏng."
   },
+  "aventurine": {
+    "id": "aventurine",
+    "name": "Aventurine",
+    "path": "preservation",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "Thành viên cấp cao \"Bộ Phận Đầu Tư Chiến Lược\" của Công Ty Hành Tinh Hòa Bình.\\nLà một người yêu thích mạo hiểm, luôn nở nụ cười nhưng rất khó đoán được nội tâm đang nghĩ gì."
+  },
   "dr-ratio": {
     "id": "dr-ratio",
     "name": "Dr. Ratio",
