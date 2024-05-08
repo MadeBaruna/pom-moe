@@ -155,6 +155,13 @@
         "desc": "Melihat Buku Tamu untuk pertama kalinya",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4013201,
+        "name": "Nessun Dorma",
+        "desc": "Trailblazer melangkah ke Path \"Harmony\"",
+        "rarity": 3,
+        "version": "2.2"
       }
     ]
   },
@@ -459,6 +466,48 @@
         "desc": "Mendengarkan kisah lama di negeri asing\\n<color=#8790abff>※ Mendengarkan percakapan antara Acheron dengan Welt</color>",
         "rarity": 2,
         "version": "2.1"
+      },
+      {
+        "id": 4033201,
+        "name": "Taipan Terakhir",
+        "desc": "Bertemu dengan \"Watchmaker\"\\n<color=#8790abff>※ Bertemu dengan The Nameless pertama di Penacony</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033202,
+        "name": "Bebas, Seperti Para Leluhur Kami",
+        "desc": "Warisi warisan \"Watchmaker\"\\n<color=#8790abff>※ Lanjutkan perjalanan The Nameless terakhir yang belum selesai di Penacony</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033203,
+        "name": "Jika Kita Berjalan dalam Terang",
+        "desc": "Mulai perjalanan \"Trailblaze\" baru sesuai keinginan\\n<color=#8790abff>※ Kalahkan \"Harmonious Choir\" Dominicus ....</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033204,
+        "name": "Pada Akhirnya, Kita Terbangun dari Mimpi Kita",
+        "desc": "Saksikan cahaya fajar pertama di Penacony\\n<color=#8790abff>※ Kalahkan \"Embryo of Philosophy\" Sunday</color>",
+        "rarity": 3,
+        "version": "2.2"
+      },
+      {
+        "id": 4033205,
+        "name": "Ketulusan adalah Jurus Pamungkas Abadi",
+        "desc": "Berdamai dengan pelindung keadilan Penacony\\n<color=#8790abff>※ Bujuk Argenti di \"Pertarungan Puncak Superstar\"</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033206,
+        "name": "Jurus Pamungkas adalah Ketulusan Abadi",
+        "desc": "Kalahkan pelindung keadilan Penacony\\n<color=#8790abff>※ Kalahkan Argenti di \"Pertarungan Puncak Superstar\"</color>",
+        "rarity": 2,
+        "version": "2.2"
       }
     ]
   },
@@ -1031,6 +1080,167 @@
         "desc": "Hancurkan semua objek yang bisa dihancurkan di kebun labirin di Clock Studios Theme Park",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4043201,
+        "name": "Balon Elysian",
+        "desc": "Pecahkan balon Bos Stone khusus di Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043202,
+        "name": "Ledakan Balon Ke-2",
+        "desc": "Pecahkan balon Bos Stone khusus di Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043203,
+        "name": "Kisah Pasca-Balon",
+        "desc": "Pecahkan balon Bos Stone khusus di Penacony Grand Theater",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043205,
+        "name": "Mimpi Penacony Baru",
+        "desc": "Membuka Peti Harta 300 kali di Penacony",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4043206,
+        "name": "Kecepatan Meningkat, Gula Darah Naik",
+        "desc": "Makan semua item SoulGlad pada tantangan \"Pas & Serius\" di Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043207,
+        "name": "*Cuit* ... Aku Tidak Bisa Bergerak",
+        "desc": "Bantu 100 Burung Origami kembali ke \"Pohon Besar\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043208,
+        "name": "Rumah Ajaib Audisi",
+        "desc": "Temukan 1 tantangan tersembunyi mana pun di antarmuka \"Peron Kilat Audisi\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043209,
+        "name": "Raja Audisi Legendaris",
+        "desc": "Berhasil memicu total #1 tantangan tersembunyi \"Peron Kilat Audisi\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043210,
+        "name": "Diskualifikasi!",
+        "desc": "Pecahkan semua balon Bos Stone di Audition Plaza",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043211,
+        "name": "Tetesan Darah Pertama",
+        "desc": "Selesaikan tantangan \"Perang Hanu\" untuk pertama kalinya",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043212,
+        "name": "Bagai Serigala",
+        "desc": "Pantulkan setiap koin Bos Stone di stage \"Jalan Serigala (Epilog)\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043213,
+        "name": "Serigala Pulang",
+        "desc": "Selesaikan semua stage \"Jalan Serigala (Epilog)\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043214,
+        "name": "Hadir Bagai Serigala",
+        "desc": "Kalahkan Bos Stone di stage \"Jalan Serigala (Epilog)\" mana pun tanpa memantulkan satu serangan koin pun",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043215,
+        "name": "Tetesan Darah Ke-15",
+        "desc": "Selesaikan semua tantangan \"Perang Hanu\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043216,
+        "name": "Tetesan Darah Keberapa?",
+        "desc": "Selesaikan semua tantangan \"Perang Hanu\" dengan sempurna",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043217,
+        "name": "Peluru Penembus Zirah",
+        "desc": "Tembak #1 target dengan satu kali tembakan di \"Perang Hanu\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043218,
+        "name": "Musuh Buaya",
+        "desc": "Kalahkan \"Buaya Baja\" di stage final \"Petualangan Hanu\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043219,
+        "name": "Sampai Jumpa, Hanunue",
+        "desc": "Kumpulkan semua buku cerita \"Petualangan Hanu\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043220,
+        "name": "Darah Terakhir",
+        "desc": "Mengenai semua target untuk pertama kalinya di \"Perang Hanu\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043221,
+        "name": "Warisan Hanu",
+        "desc": "Temukan harta karun tersembunyi di \"Ujian Menembak\" pada Audisi Perayaan",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043222,
+        "name": "Za Warudo!",
+        "desc": "Mengenai #1 target dengan \"Waktu Jam\" di \"Perang Hanu\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043224,
+        "name": "Pengeboman Saturasi",
+        "desc": "Dalam 1 kali \"Petualangan Hanu\", mengalahkan #1 kaki tangan Bos Stone dalam 1 kali aksi",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043226,
+        "name": "Atas Nama Family",
+        "desc": "Bantu anggota Family mendapatkan kembali semua barang curian",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -2751,6 +2961,223 @@
         "desc": "Ambil foto bersama di papan foto di Clock Studios Theme Park",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4053201,
+        "name": "Masukkan Sejarah ke dalam Botol",
+        "desc": "Jelajahi Empat Harta Karun dari ruang penyimpanan soda di Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053202,
+        "name": "Kisah Obat Sirop",
+        "desc": "Temukan harta karun paling berharga dari ruang penyimpanan soda di Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053203,
+        "name": "Jam ... Emas dan Mesin?",
+        "desc": "Temukan rahasia Clockie yang mengubah batu menjadi emas di Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053204,
+        "name": "Hanya Sebuah Bayangan yang Berjalan",
+        "desc": "Dengarkan kisah tentang delapan puppet di samping panggung Penacony Grand Theater",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053206,
+        "name": "Syair Mimpi yang Belum Selesai",
+        "desc": "Bujuk Orla untuk bangun dari dunia mimpi",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053207,
+        "name": "Lebih Baik Pulang",
+        "desc": "Biarkan Orla pergi bersama rekan-rekannya",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053208,
+        "name": "Lahirnya Persatuan Hanu",
+        "desc": "Membawa seluruh pekerja papan iklan melarikan diri di Iklan \"Perampokan Besar Bro Hanu\" pada \"Kenangan Mimpi Indah\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053209,
+        "name": "Perwakilan SoulGlad",
+        "desc": "Menginjak semua \"Lantai SoulGlad\" di Iklan \"Clockie Pecinta Soda\" pada \"Kenangan Mimpi Indah\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053210,
+        "name": "Pesulap Dreamville",
+        "desc": "Semua pengambilan gambar memenuhi persyaratan sutradara dengan sempurna di Iklan \"Petualangan Ajaib Mimpi Indah\" pada \"Kenangan Mimpi Indah\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053211,
+        "name": "Clockie dan Teman-Temannya",
+        "desc": "Bantu animator \"Kenangan Mimpi Indah\" untuk membuat semua cerita sampingan animasi",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053212,
+        "name": "Railboard 100",
+        "desc": "Berhasil mendapat kaset rekaman Robin",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053213,
+        "name": "Sekoci Penyelamat",
+        "desc": "Bantu SoulGlad yang ingin menjadi superstar",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053214,
+        "name": "Kelompok Belajar Dreamflux",
+        "desc": "Ciptakan satu rumah baru untuk para gelandangan",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053215,
+        "name": "Gumaman Malaikat",
+        "desc": "Saksikan akhir dari \"Emanator Tong\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053216,
+        "name": "Bulu yang Dia Jatuhkan",
+        "desc": "Bantu Robin menemukan petunjuk tentang Sunday",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053217,
+        "name": "Tiket Permanen",
+        "desc": "Kendarai Spheroid untuk pergi ke stasiun misterius di Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053218,
+        "name": "Intinya, Sangat Keren",
+        "desc": "Temukan 7 tutup got spesial di Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053219,
+        "name": "Keindahan yang Menyebabkan Kesedihan",
+        "desc": "Temukan jejak Clockie di dalam poros lift di Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053220,
+        "name": "Betapa Ajaibnya Waktu",
+        "desc": "Selesaikan Misi Petualangan \"Suatu Hari di Dreamville ....\"",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4053221,
+        "name": "Semua Masa Lalu",
+        "desc": "Selesaikan pengeditan semua akhir film di \"Kenangan Mimpi Indah\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053222,
+        "name": "TOP 100 Dunia Mimpi",
+        "desc": "Capai #1 Skor Penonton dalam Omnibus di \"Kenangan Mimpi Indah\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053223,
+        "name": "Emosi yang Meluap ke Luar Layar",
+        "desc": "Ketiga Emosi Penonton secara bersamaan mencapai lebih dari #1 di \"Kenangan Mimpi Indah\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053224,
+        "name": "Generasi yang Kehilangan Arah",
+        "desc": "Masuk ke cabang alur cerita khusus di \"Kenangan Mimpi Indah\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053225,
+        "name": "Film Bermodal Tinggi",
+        "desc": "Dapatkan setidaknya #1 atau lebih Dadu Waktu #2 dalam satu giliran yang sama di \"Kenangan Mimpi Indah\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053226,
+        "name": "Sesuai Pesanan Ya",
+        "desc": "Saat melaksanakan penilaian uji coba tayang di \"Kenangan Mimpi Indah\", semua Emosi yang diperlukan harus setara persis dengan persyaratan penilaian.",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053227,
+        "name": "Rail Road, Take Me Home",
+        "desc": "Masuk ke A Child's Dream melalui gelembung mimpi \"Watchmaker\" di Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053228,
+        "name": "Kamu Mau ke Mana, Mikhail?",
+        "desc": "Aku telah menempuh jalan yang harus kulewati\\n<color=#8790abff>※ Setelah semuanya berakhir, kembali ke tempat anak-anak menatap bulan</color>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053229,
+        "name": "Permainan Kotak dan Tangga",
+        "desc": "Naik ke puncak tumpukan peti kayu di Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053230,
+        "name": "Menunggu Godot",
+        "desc": "Tunggu kedatangan kereta hantu dengan sabar",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053231,
+        "name": "Bisa Bersantai Sepanjang Siang",
+        "desc": "Nikmati waktu istirahat sesaat di sofa di Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053232,
+        "name": "Kita Bikin Romantis",
+        "desc": "Bantu papan iklan \"CintaBersemi\" menyampaikan pesan kepada kekasihnya",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -3874,6 +4301,90 @@
         "desc": "Selama menjelajah, menggunakan Technique Acheron \"Quadrivalent Ascendance\" untuk mengalahkan #1 musuh secara beruntun",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4073201,
+        "name": "JACKPOT!",
+        "desc": "Buat \"Dreamjolt Troupe's Fortune Seller\" mengeluarkan 1 kali \"Jackpot!\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073202,
+        "name": "Opera Sabun",
+        "desc": "Saat bertarung dengan \"Tomorrow in Harmonious Chords\", rata-rata ada #1 karakter tertidur",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073203,
+        "name": "Drama Tragedi",
+        "desc": "Gunakan 1 karakter untuk menerima seluruh DMG dari kemampuan \"Desmios Evangelion\" milik \"Past Confined and Caged\" tanpa dikalahkan",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073204,
+        "name": "Drama Ensambel",
+        "desc": "Pada tahap pertama \"The Past, Present, and Eternal Show\", buat #1 musuh bergantian menjadi \"Impresario\" sebanyak 1 kali",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073205,
+        "name": "Drama Tunggal",
+        "desc": "Pada tahap kedua \"The Past, Present, and Eternal Show\", musuh melancarkan \"Dance for Synchrony\" maksimal 1 kali",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073206,
+        "name": "Potongan Karya Sastra",
+        "desc": "Setelah \"Present Inebriated in Revelry\" memasuki status Charge, interupsi Charge miliknya.",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073207,
+        "name": "Durasi Sebuah Lagu",
+        "desc": "Dengarkan suara nyanyian Robin\\n<color=#8790abff>※ Setelah melancarkan Ultimate \"Vox Harmonique, Opus Cosmique\" dalam pertempuran, tonton Robin dengan Mode Memeriksa selama lebih dari #1 detik</color>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073208,
+        "name": "Peniup Seruling Hamelin",
+        "desc": "Setelah menggunakan Technique \"Overture of Inebriation\" milik Robin dalam penjelajahan, pancing lebih dari #1 musuh untuk mengikuti",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073209,
+        "name": "Tarian Maksimal!",
+        "desc": "Dalam pertempuran, gunakan efek \"Backup Dancer\" dari Ultimate \"All-Out Footlight Parade\" milik {NICKNAME} — Harmony untuk mengalahkan 1 musuh elite",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073210,
+        "name": "Kompetisi Pertaruhan Nyawa",
+        "desc": "Dalam pertempuran, rekan tim Boothill memperoleh total #1 lapis \"Pocket Trickshot\" dalam 1 giliran",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073211,
+        "name": "Hari Kerja Tanpa Dewa",
+        "desc": "Kalahkan semua Echo of Faded Dreams sebelum \"Harmonious Choir\" The Great Septimus melancarkan \"Volteggiando\" atau \"Tempestoso\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073212,
+        "name": "Lalu, Hari Senin ....",
+        "desc": "Kumpulkan Shield yang cukup untuk sepenuhnya menangkis DMG yang diakibatkan oleh kemampuan \"Im Anfang war die Tat\" milik \"Embryo of Philosophy\" Sunday",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -4205,7 +4716,7 @@
       {
         "id": 4072609,
         "name": "Bola Meriam Terbang",
-        "desc": "Dalam penjelajahan, memasuki pertempuran dengan cara menyerang musuh dari jarak yang sangat jauh menggunakan Natasha",
+        "desc": "Dalam penjelajahan, memasuki pertempuran dengan musuh atau menghancurkan objek yang bisa dihancurkan dengan cara menyerang dari jarak yang sangat jauh menggunakan Natasha",
         "rarity": 1,
         "version": "1.3"
       },
@@ -4390,6 +4901,20 @@
         "desc": "Tarik Burung Origami Besar di Dewlight Pavilion",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4083202,
+        "name": "Berhati-Hati Sebelum Bertindak",
+        "desc": "Setelah menempatkan Jembatan Gelembung Mimpi di Modul Mimpi, pindahkan Modul Mimpi tanpa melewati Jembatan Gelembung Mimpi",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4083203,
+        "name": "Patungan",
+        "desc": "Biarkan Boothill dan Aventurine berebut membayar tagihan\\n<color=#8790abff>※ Dalam 1 pertempuran yang sama, picu suara Aventurine \"Skill: 1\" dan Boothill \"Pertempuran Dimulai: Weakness Break\"</color>",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },

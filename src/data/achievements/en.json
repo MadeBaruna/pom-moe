@@ -155,6 +155,13 @@
         "desc": "Browse the Guest Book for the first time",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4013201,
+        "name": "Nessun Dorma",
+        "desc": "Tread on the Path of Harmony",
+        "rarity": 3,
+        "version": "2.2"
       }
     ]
   },
@@ -459,6 +466,48 @@
         "desc": "Relive the past in a faraway land\\n<color=#8790abff>※ Listen to Acheron and Welt's conversation</color>",
         "rarity": 2,
         "version": "2.1"
+      },
+      {
+        "id": 4033201,
+        "name": "The Last Tycoon",
+        "desc": "Commune with the Watchmaker\\n<color=#8790abff>※ Meet the first Nameless in Penacony</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033202,
+        "name": "We Will Be Freemen as Our Fathers Were",
+        "desc": "Inherit the Watchmaker's legacy\\n<color=#8790abff>※ Continue the unfinished journey of the last Nameless in Penacony</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033203,
+        "name": "If We Walk in the Light",
+        "desc": "Embark on a new trailblaze journey as desired\\n<color=#8790abff>※ Defeat the Harmonious Choir, Dominicus...</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033204,
+        "name": "In the End, We Awaken From Our Dreams",
+        "desc": "Witness the first light of dawn on Penacony\\n<color=#8790abff>Defeat \"Embryo of Philosophy\" Sunday</color>",
+        "rarity": 3,
+        "version": "2.2"
+      },
+      {
+        "id": 4033205,
+        "name": "Sincerity Is Eternally the Ultimate",
+        "desc": "Make peace with the Penacony's custodian of justice\\n<color=#8790abff>※ Persuade Argenti in Superstar Showdown</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033206,
+        "name": "The Ultimate is Eternal Sincerity",
+        "desc": "Defeat Penacony's custodian of justice\\n<color=#8790abff>※ Defeat Argenti in Superstar Showdown</color>",
+        "rarity": 2,
+        "version": "2.2"
       }
     ]
   },
@@ -1031,6 +1080,167 @@
         "desc": "Smash all destructible objects in Clock Studios Theme Park's maze garden",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4043201,
+        "name": "Elysian Balloon",
+        "desc": "Break the special Boss Stone balloon at Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043202,
+        "name": "Second Balloon Eruption",
+        "desc": "Break the special Boss Stone balloon at Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043203,
+        "name": "A Post-Balloon Odyssey",
+        "desc": "Break the special Boss Stone balloon at Penacony Grand Theater",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043205,
+        "name": "New Penacony Dreams",
+        "desc": "Open Treasures 300 time(s) in Penacony",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4043206,
+        "name": "Blood Sugar Highs",
+        "desc": "Eat all the SoulGlad items in the <i>Fast & Furynuts</i> challenge located at the Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043207,
+        "name": "Chirp... I Can't Move Anymore",
+        "desc": "Help 100 Origami Bird(s) return to the Great Tree.",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043208,
+        "name": "Audition Funhouse",
+        "desc": "Discover any hidden challenge on the Audition Shuttle interface",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043209,
+        "name": "Audition Rizzler",
+        "desc": "Successfully triggered a total of #1 Audition Shuttle hidden challenge(s)",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043210,
+        "name": "Disqualified!",
+        "desc": "Break all Boss Stone balloons in the Audition Plaza",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043211,
+        "name": "First Blood",
+        "desc": "Complete the Hanu Wars challenge for the first time",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043212,
+        "name": "Wolflike",
+        "desc": "Rebound every piece of Boss Stone's coins in any \"Way of the Wolf (End)\" stages",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043213,
+        "name": "Old Wolf Homecoming",
+        "desc": "Complete all \"Way of the Wolf (End)\" stages",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043214,
+        "name": "Like a Wolf Arrives!",
+        "desc": "Defeat Boss Stone in any \"Way of the Wolf (End)\" stages without rebounding any coin attacks",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043215,
+        "name": "Fifteenth Blood",
+        "desc": "Complete all Hanu Wars challenges",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043216,
+        "name": "How Many Drops Are We At Now?",
+        "desc": "Complete all Hanu Wars challenges flawlessly",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043217,
+        "name": "Armor-Piercing Bullet",
+        "desc": "Hit #1 target(s) with a single shot in Hanu Wars",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043218,
+        "name": "The Crocodile Enemy",
+        "desc": "Defeat Steely Gator in the final stage of <i>Hanu's Adventure</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043219,
+        "name": "Goodbye, Hanunue",
+        "desc": "Collect all <i>Hanu's Adventure</i> story books",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043220,
+        "name": "Final Blood",
+        "desc": "Hit all targets for the first time in Hanu Wars",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043221,
+        "name": "Hanu's Legacy",
+        "desc": "Find the hidden treasure in the Festivity Auditions' Gunfire Trial",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043222,
+        "name": "Za Warudo!",
+        "desc": "Hit #1 target(s) using Clock Time in Hanu Wars",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043224,
+        "name": "Saturation Bombing",
+        "desc": "Defeat #1 of Boss Stone's minions at once in a <i>Hanu's Adventure</i> stage",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043226,
+        "name": "In the Name of The Family",
+        "desc": "Help Family members retrieve all the stolen goods",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -2712,7 +2922,7 @@
       },
       {
         "id": 4053065,
-        "name": "Make Your Dream a Blast",
+        "name": "Make Your Dreams a Blast",
         "desc": "Help all the monsters in the Dreamjolt Hostelry deal with their emotional troubles",
         "rarity": 1,
         "version": "2.1"
@@ -2751,6 +2961,223 @@
         "desc": "Take a group photo at the photo board in Clock Studios Theme Park",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4053201,
+        "name": "Bottling History",
+        "desc": "Explore the Four Great Treasures of the soda cellar in the Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053202,
+        "name": "The Tale of Syrupy Medicine",
+        "desc": "Find the most precious hoard of the soda cellar in the Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053203,
+        "name": "Gold and Gear... Clock?",
+        "desc": "Uncover the mystery behind Clockie turning rocks into gold in the Scorchsand Audition Venue",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053204,
+        "name": "Just A Walking Shadow",
+        "desc": "Listen to the stories of the eight puppets by Penacony Grand Theater's stage",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053206,
+        "name": "Unfinished Dream Song",
+        "desc": "Persuade Orla to awaken from the Dreamscape",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053207,
+        "name": "Just Leave",
+        "desc": "Let Orla and her companions leave",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053208,
+        "name": "The Birth of Hanu Union",
+        "desc": "Help all the billboard staff escape in the <i>Brother Hanu's Great Heist</i> Commercial for <i>Dreamjoy Memoir</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053209,
+        "name": "SoulGlad Ambassador",
+        "desc": "Step across all SoulGlad Floor Tiles in all maps in the <i>Bubbly Clockie</i> Commercial for <i>Dreamjoy Memoir</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053210,
+        "name": "The Wonderful Wizard of Dreamville",
+        "desc": "Ensure that all shots perfectly meet the director's requirements in the <i>Dreamjoy Ascension</i> Commercial for <i>Dreamjoy Memoir</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053211,
+        "name": "Clockie and His Companions",
+        "desc": "Help <i>Dreamjoy Memoir</i>'s animators produce all of the extra stories",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053212,
+        "name": "Railboard 100",
+        "desc": "Obtain Robin's records",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053213,
+        "name": "Lifeboat",
+        "desc": "Help the SoulGlad who wants to become a superstar",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053214,
+        "name": "Dreamflux Study Group",
+        "desc": "Create a new home for the vagrants",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053215,
+        "name": "Angel's Murmur",
+        "desc": "Witness the end of Emanator of Cans",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053216,
+        "name": "The Feather He Dropped",
+        "desc": "Help Robin find clues about Sunday",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053217,
+        "name": "Permanent Boarding Pass",
+        "desc": "Ride the Spheroid to the mysterious station at the Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053218,
+        "name": "Anyway, It's Cool",
+        "desc": "Find seven special manhole covers at Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053219,
+        "name": "Where Splendor Meets Sorrow",
+        "desc": "Find Clockie's traces in the elevator shaft in Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053220,
+        "name": "Temporal Wonder",
+        "desc": "Complete the Adventure Mission \"Once Upon a Dreamville...\"",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4053221,
+        "name": "Whispers of the Past",
+        "desc": "Complete the editing work of all endings in <i>Dreamjoy Memoir</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053222,
+        "name": "Dreamscape Top 100",
+        "desc": "Reach an Audience Score of #1 in <i>Dreamjoy Memoir</i>'s Anthology",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053223,
+        "name": "Emotions Beyond the Lens",
+        "desc": "All three Audience Emotions reach at least #1 simultaneously in <i>Dreamjoy Memoir</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053224,
+        "name": "The Lost Generation",
+        "desc": "Enter a special story branch in <i>Dreamjoy Memoir</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053225,
+        "name": "High-Budget Movie",
+        "desc": "In <i>Dreamjoy Memoir</i>, obtain at least #1 Time Dice, \"#2\", in the same turn",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053226,
+        "name": "Natural 0 Roll",
+        "desc": "When conducting the test screening in <i>Dreamjoy Memoir</i>, all the required Emotions perfectly match the review criteria",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053227,
+        "name": "Rail Road, Take Me Home",
+        "desc": "Enter A Child's Dream through the Watchmaker's dream bubble in Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053228,
+        "name": "Where Are You Going, Mikhail?",
+        "desc": "I have walked the path I should have walked\\n<color=#8790abff>※ When the dust settles, return to A Child's Moongazing Spot</color>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053229,
+        "name": "Boxes and Ladders",
+        "desc": "Climb the mountain made from wooden boxes at Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053230,
+        "name": "Waiting for Godot",
+        "desc": "Patiently wait for the arrival of the ghost train",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053231,
+        "name": "An Afternoon's Worth of Sitting",
+        "desc": "Enjoy a brief moment of respite on the couch at Dreamflux Reef",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053232,
+        "name": "City of Love",
+        "desc": "Help the Billboard Hurrylove to pass a message to its lover",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -3836,7 +4263,7 @@
       {
         "id": 4073013,
         "name": "Lady Snowblood",
-        "desc": "In a single battle, using Acheron's Ultimate \"Slashed Dream Cries in Red\" to defeat all enemies and achieve victory in the battle",
+        "desc": "In a single battle, use Acheron's Ultimate \"Slashed Dream Cries in Red\" to defeat all enemies and achieve victory in the battle",
         "rarity": 1,
         "version": "2.1"
       },
@@ -3874,6 +4301,90 @@
         "desc": "During exploration, use Acheron's Technique \"Quadrivalent Ascendance\" to defeat #1 enemies consecutively",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4073201,
+        "name": "JACKPOT!",
+        "desc": "Make Dreamjolt Troupe's Fortune Seller produce \"Jackpot!\" once",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073202,
+        "name": "Soap Opera",
+        "desc": "Have #1 character(s) enter the sleeping state when battling \"Tomorrow in Harmonious Chords\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073203,
+        "name": "Passion Play",
+        "desc": "Use one character to take all DMG from \"Past Confined and Caged\"'s ability, \"Desmios Evangelion\" without being knocked down",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073204,
+        "name": "Ensemble Piece",
+        "desc": "In the first phase of \"The Past, Present, and Eternal Show,\" cause #1 enemies to take turns to become Impresario for 1 time",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073205,
+        "name": "One-Act Play",
+        "desc": "In the second phase of \"The Past, Present, and Eternal Show,\" the enemy uses \"Dance for Synchrony\" at most once",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073206,
+        "name": "Literary Fragment",
+        "desc": "After \"Present Inebriated in Revelry\" enters the Charge state, interrupt its Charging",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073207,
+        "name": "Duration of a Song",
+        "desc": "Listen to Robin's singing\\n<color=#8790abff>※ In combat, view Robin for more than #1 seconds in Checking Mode after using Robin's Ultimate \"Vox Harmonique, Opus Cosmique\"</color>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073208,
+        "name": "Pied Piper of Hamelin",
+        "desc": "After using Robin's Technique \"Overture of Inebriation\" in exploration, attract #1 or more enemies to follow",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073209,
+        "name": "Ultimate Dance Move!",
+        "desc": "In combat, use the Backup Dancer effect of {NICKNAME}: Harmony's Ultimate \"All-Out Footlight Parade\" to defeat an Elite Enemy",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073210,
+        "name": "Russian Roulette",
+        "desc": "In combat, ally Boothill accumulates a total of #1 stack(s) of Pocket Trickshot within 1 turn",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073211,
+        "name": "Workday Without God",
+        "desc": "Break all Echoes of Faded Dreams before The \"Harmonious Choir\" The Great Septimus uses \"Volteggiando\" or \"Tempestoso\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073212,
+        "name": "And Then It Is Monday...",
+        "desc": "Accumulate enough Shield to completely block \"Embryo of Philosophy\" Sunday's ability, Im Anfang war die Tat",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -4205,7 +4716,7 @@
       {
         "id": 4072609,
         "name": "Full Metal Racket",
-        "desc": "Enter a battle by attacking a distant enemy with Natasha during exploration",
+        "desc": "Enter a battle by attacking a distant enemy or destroy a destructible object at a distance with Natasha during exploration",
         "rarity": 1,
         "version": "1.3"
       },
@@ -4390,6 +4901,20 @@
         "desc": "Yank out the Origami Big Bird at Dewlight Pavilion",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4083202,
+        "name": "Think Thrice Before Acts",
+        "desc": "After placing Bubble Bridge on the Dream Module, move the Dream Module away without passing through the Bubble Bridge",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4083203,
+        "name": "Going Dutch",
+        "desc": "Let Boothill and Aventurine fight over taking the bill\\n<color=#8790abff>※ In the same battle, trigger Aventurine's \"Skill 1\" voice line and Boothill's \"Battle Begins: Weakness Break\" voice line</color>",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -5071,7 +5596,7 @@
       {
         "id": 4092638,
         "name": "Nuke Them From Orbit",
-        "desc": "Complete Simulated Universe: Swarm Disaster Difficulty V",
+        "desc": "Complete Simulated Universe: Swarm Disaster Difficulty 5",
         "rarity": 1,
         "version": "1.3"
       },
@@ -5281,7 +5806,7 @@
       {
         "id": 4092929,
         "name": "XK-Class Scenario",
-        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty V",
+        "desc": "Complete Simulated Universe: Gold and Gears at Difficulty 5",
         "rarity": 1,
         "version": "1.6"
       },
@@ -5337,7 +5862,7 @@
       {
         "id": 4092937,
         "name": "Gloomy Blues",
-        "desc": "When clearing Simulated Universe: Gold and Gears, have 6 blue Dice Face(s) equipped (Difficulty III or higher)",
+        "desc": "When clearing Simulated Universe: Gold and Gears, have 6 blue Dice Face(s) equipped (Difficulty 3 or higher)",
         "rarity": 1,
         "version": "1.6"
       },

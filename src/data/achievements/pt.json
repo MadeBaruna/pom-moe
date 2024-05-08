@@ -155,6 +155,13 @@
         "desc": "Veja o Livro de Convidados pela primeira vez",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4013201,
+        "name": "Nessun Dorma",
+        "desc": "Trilhe o Caminho da Harmonia",
+        "rarity": 3,
+        "version": "2.2"
       }
     ]
   },
@@ -459,6 +466,48 @@
         "desc": "Reviva o passado em uma terra distante\\n<color=#8790abff>※ Ouça a conversa entre Welt e Acheron</color>",
         "rarity": 2,
         "version": "2.1"
+      },
+      {
+        "id": 4033201,
+        "name": "O Último Magnata",
+        "desc": "Interaja com o Relojoeiro\\n<color=#8790abff>※ Conheça o primeiro Inominado de Penacony</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033202,
+        "name": "Seremos Livres Como Nossos Pais",
+        "desc": "Herde o legado do Relojoeiro\\n<color=#8790abff>※ Continue a jornada inacabada do último Inominado de Penacony</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033203,
+        "name": "Se Caminharmos Pela Luz",
+        "desc": "Embarque em uma nova jornada de Desbravamento como desejar\\n<color=#8790abff>※ Derrote o Coral Harmonioso, Dominicus...</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033204,
+        "name": "No Final, Despertamos de Nossos Sonhos",
+        "desc": "Testemunhe a primeira aurora do amanhecer de Penacony\\n<color=#8790abff>※ Derrote Sunday, \"Embrião da Filosofia\"</color>",
+        "rarity": 3,
+        "version": "2.2"
+      },
+      {
+        "id": 4033205,
+        "name": "A Sinceridade Será Sempre a Perícia Suprema",
+        "desc": "Faça as pazes com o guardião da justiça de Penacony\\n<color=#8790abff>※ Convença Argenti no Combate de Superestrelas</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033206,
+        "name": "A Perícia Suprema Será Sempre Sincera",
+        "desc": "Derrote o guardião da justiça de Penacony\\n<color=#8790abff>※ Derrote Argenti no Combate de Superestrelas</color>",
+        "rarity": 2,
+        "version": "2.2"
       }
     ]
   },
@@ -1031,6 +1080,167 @@
         "desc": "Destrua todos os objetos destrutíveis no jardim labirinto do Parque Temático dos Estúdios Clock",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4043201,
+        "name": "Balão Elisiano",
+        "desc": "Quebre o balão especial do Chefe Pedreira no Recife do Fluxonírico",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043202,
+        "name": "Segunda Erupção do Balão",
+        "desc": "Quebre o balão especial do Chefe Pedreira no Local da Audição da Brasareia",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043203,
+        "name": "Uma Odisséia Pós-Baloniana",
+        "desc": "Quebre o balão especial do Chefe Pedreira no Grande Teatro de Penacony",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043205,
+        "name": "Novos Sonhos Penaconianos",
+        "desc": "Abra Tesouros 300 vez(es) em Penacony",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4043206,
+        "name": "Alto em Açúcar Adicionado",
+        "desc": "Coma todos os itens de FelizAlma no desafio \"Nozes e Furiosos\" no Local das Audições da Brasareia",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043207,
+        "name": "Piu... Não Consigo Me Mexer",
+        "desc": "Ajude 100 Pássaro(s) de Origami a voltar para a Grande Árvore",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043208,
+        "name": "Casa de Diversões das Audições",
+        "desc": "Descubra qualquer desafio escondido na interface da Cabine da Audição",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043209,
+        "name": "Monarca Lendário das Audições",
+        "desc": "Acione com sucesso um total de #1 desafio(s) escondidos da Cabine da Audição",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043210,
+        "name": "Desqualificado!",
+        "desc": "Quebre todos os balões especiais do Chefe Pedreira na Praça da Audição",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043211,
+        "name": "Primeiro Dano",
+        "desc": "Conclua o desafio das Guerras do Hanu pela primeira vez",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043212,
+        "name": "Lupino",
+        "desc": "Rebata todas as moedas do Chefe Pedreira em qualquer um dos estágios de \"O Caminho Lupino (Final)\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043213,
+        "name": "O Retorno do Velho Lobo",
+        "desc": "Conclua todos os estágios de \"O Caminho Lupino (Final)\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043214,
+        "name": "Como um Lobo Chegando!",
+        "desc": "Derrote o Chefe Pedreira em qualquer estágio de \"O Caminho Lupino (Final)\" sem rebater nenhum ataque de moeda",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043215,
+        "name": "Décimo Quinto Sangue",
+        "desc": "Conclua todos os desafios das Guerras de Hanu",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043216,
+        "name": "Quadragésimo-sétimo-zilhonésimo Dano",
+        "desc": "Conclua todos os desafios das Guerras de Hanu perfeitamente",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043217,
+        "name": "Bala Fura-Armadura",
+        "desc": "Atinja #1 alvo(s) com um único tiro nas Guerras de Hanu",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043218,
+        "name": "O Inimigo Crocodilo",
+        "desc": "Derrote o Crocodilo de Aço",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043219,
+        "name": "Adeus, Hanunue",
+        "desc": "Colete todos os livro(s) de história das \"Aventuras de Hanu\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043220,
+        "name": "O Último Dano",
+        "desc": "Atinja todos os alvos pela primeira vez nas Guerras de Hanu",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043221,
+        "name": "Legado de Hanu",
+        "desc": "Encontre o tesouro escondido no Desafio de Tiro das Audições Festivas",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043222,
+        "name": "Za Warudo!",
+        "desc": "Atinja #1 alvo(s) usando a Hora do Relógio nas Guerras de Hanu",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043224,
+        "name": "Bombardeamento de Saturação",
+        "desc": "Derrote #1 capangas do Chefe Pedreira de uma vez no estágio das \"Aventuras de Hanu\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043226,
+        "name": "Em Nome da Família",
+        "desc": "Ajude os membros da Família a recuperar todos os bens roubados",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -2751,6 +2961,223 @@
         "desc": "Tire uma foto em grupo no quadro de fotos no Parque Temático dos Estúdios Clock",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4053201,
+        "name": "História Engarrafada",
+        "desc": "Explore os Quatro Grandes Tesouros da adega de refrigerantes do Local das Audições da Brasareia",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053202,
+        "name": "O Conto do Remédio Xaroposo",
+        "desc": "Encontre o depósito mais precioso da adega de refrigerantes no Local das Audições da Brasareia",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053203,
+        "name": "Ouro e Engrenagens... de Relógio?",
+        "desc": "Descubra o mistério por trás da transformação de pedras em ouro realizada pelo Relogin no Local das Audições da Brasareia",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053204,
+        "name": "Só uma Sombra Perambulante",
+        "desc": "Escute as histórias das oito marionetes no palco do Grande Teatro de Penacony",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053206,
+        "name": "Canção Onírica Inacabada",
+        "desc": "Convença Orla a despertar do Mundonírico",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053207,
+        "name": "É Só Sair",
+        "desc": "Deixe Orla e seus companheiros partirem",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053208,
+        "name": "O Nascimento da União Hanu",
+        "desc": "Ajude a equipe dos painéis publicitários a escapar no comercial do \"Grande Assalto do Irmão Hanu\" das \"Memórias de Sonhótimo\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053209,
+        "name": "Embaixador da FelizAlma",
+        "desc": "Pise em todos os Pisos de FelizAlma em todos os mapas do comercial do \"Relogin Borbulhante\" nas \"Memórias de Sonhótimo\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053210,
+        "name": "O Maravilhoso Mundo Mágico de Sonhópolis",
+        "desc": "Garanta que todos as tomadas preencham os requisitos da direção perfeitamente no comercial da \"Ascensão de Sonhótimo\" para as \"Memórias de Sonhótimo\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053211,
+        "name": "Relogin e seus Companheiros",
+        "desc": "Ajude os animadores das \"Memórias de Sonhótimo\" a produzir todas as Histórias Secundárias",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053212,
+        "name": "Top 100 das Paradas",
+        "desc": "Obtenha todos os registros da Robin",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053213,
+        "name": "Salva-Vidas",
+        "desc": "Ajude a FelizAlma que quer ser uma Superestrela",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053214,
+        "name": "Grupo de Estudos do Fluxonírico",
+        "desc": "Crie um novo lar para os andarilhos",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053215,
+        "name": "Murmúrio Angelical",
+        "desc": "Testemunhe o fim do Emanador das Latas",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053216,
+        "name": "A Pena Que Ele Derrubou",
+        "desc": "Ajude Robin a encontrar pistas sobre Sunday",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053217,
+        "name": "Passe de Embarque Permanente",
+        "desc": "Ande no Esferoide até a estação misteriosa no Recife do Fluxonírico",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053218,
+        "name": "Tanto Faz, É Daora",
+        "desc": "Encontre sete tampas de esgoto especiais no Recife do Fluxonírico",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053219,
+        "name": "Onde o Esplendor se Encontra com a Tristeza",
+        "desc": "Encontre os rastros do Relogin no poço do elevador do Recife do Fluxonírico",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053220,
+        "name": "Maravilha Temporal",
+        "desc": "Conclua a Missão de Aventura \"Era Uma Vez em Sonhópolis...\"",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4053221,
+        "name": "Sussurros do Passado",
+        "desc": "Conclua o trabalho de edição de todos os finais das \"Memórias de Sonhótimo\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053222,
+        "name": "Top 100 do Mundonírico",
+        "desc": "Alcance uma Pontuação de Audiência de #1 na Antologia das \"Memórias de Sonhótimo\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053223,
+        "name": "Emoções Além das Lentes",
+        "desc": "Todas as três Emoções da Plateia chegam, pelo menos, a #1 simultaneamente nas \"Memórias de Sonhótimo\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053224,
+        "name": "A Geração Perdida",
+        "desc": "Entre em um ramo de história especial nas \"Memórias de Sonhótimo\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053225,
+        "name": "Filme de Grande Orçamento",
+        "desc": "Obtenha ao menos \"#2\" em #1 Dados de Tempo ou mais em uma única rodada nas \"Memórias de Sonhótimo\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053226,
+        "name": "Jogada 0 Natural",
+        "desc": "Ao conduzir a exibição de teste nas \"Memórias de Sonhótimo\", todas as Emoções necessárias correspondem perfeitamente aos critérios de revisão",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053227,
+        "name": "Ferrovia, Me Leve Para Casa",
+        "desc": "Entre no Sonho de Uma Criança através da Bolha de Sonhos do Relojoeiro no Recife do Fluxonírico",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053228,
+        "name": "Onde Você Vai, Mikhail?",
+        "desc": "Eu caminhei pelo caminho devido\\n<color=#8790abff>※ Quando a poeira baixar, volte para o Local de Observação da Lua de Uma Criança</color>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053229,
+        "name": "Caixas e Escadas",
+        "desc": "Escale a montanha de caixas de madeira no Recife do Fluxonírico",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053230,
+        "name": "Esperando Godot",
+        "desc": "Espere pacientemente pela chegada do trem fantasma",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053231,
+        "name": "Uma Tarde para Ficar de Pernas para Cima",
+        "desc": "Aproveite um breve momento de descanso no sofá no Recife do Fluxonírico",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053232,
+        "name": "Cidade do Amor",
+        "desc": "Ajude o Painel Publicitário VemMozão a passar uma mensagem para sua amada",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -3874,6 +4301,90 @@
         "desc": "Durante a exploração, use a Técnica de Acheron, \"Ascendência Quadrivalente\", para derrotar #1 inimigos consecutivamente",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4073201,
+        "name": "NA MOSCA!",
+        "desc": "Faça o Vendedor de Sorte da Trupe dos Pesadelos Amargos produzir um \"Grande Fortuna\" uma vez",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073202,
+        "name": "Novelão",
+        "desc": "Tenha #1 personagem(s) em estado de sono durante o combate de \"Amanhã em Acordes Harmoniosos\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073203,
+        "name": "Via Crucis",
+        "desc": "Use um personagem para receber todo o Dano da habilidade de \"Passado Confinado e Enjaulado\", \"Desmios Evangelion\" sem ser derrubado",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073204,
+        "name": "Peça de Coro",
+        "desc": "Na primeira fase do \"Show do Passado, Presente e Eternidade\", faça com que #1 inimigos se revezem para se tornar o Empresário 1 vez",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073205,
+        "name": "Peça de Ato Único",
+        "desc": "Na segunda fase do \"Show do Passado, Presente e Eternidade\", o inimigo usa \"Dança pela Sincronicidade\" no máximo uma vez",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073206,
+        "name": "Fragmento Literário",
+        "desc": "Após \"Presente Embriagado em Folia\" entrar no estado de Carga, sua Carga é interrompida",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073207,
+        "name": "Duração de uma Canção",
+        "desc": "Ouça o canto de Robin\\n<color=#8790abff>※ Em combate, veja Robin cantando por mais de #1 segundos no Modo de Verificação após usar a Perícia Suprema de Robin \"Vox Harmonique, Opus Cosmique\"</color>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073208,
+        "name": "Flautista de Hamelin",
+        "desc": "Após usar a Técnica de Robin \"Prelúdio da Inebriação\" durante a exploração, atraia #1 ou mais inimigos para te seguir",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073209,
+        "name": "Passinho Supremo",
+        "desc": "Em combate, use o efeito de Dançarino de Apoio da Perícia Suprema de {NICKNAME} (A Harmonia) \"Desfile Clamoroso das Luzes\" para derrotar um inimigo de Elite",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073210,
+        "name": "Roleta Russa",
+        "desc": "Em combate, o Boothill aliado acumula um total de #1 acúmulo(s) de Truque de Bolso em 1 rodada",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073211,
+        "name": "Dia de Serviço Sem Deuses",
+        "desc": "Destrua todos os Ecos de Sonhos Desvanecidos antes que O Grande Septimus do \"Coral Harmonioso\" use \"Volteggiando\" ou \"Tempestoso\"",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073212,
+        "name": "E Então Já É Segunda...",
+        "desc": "Acumule Escudo suficiente para bloquear totalmente a habilidade de Sunday, \"Embrião da Filosofia\", Im Anfang war die Tat",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -4205,7 +4716,7 @@
       {
         "id": 4072609,
         "name": "Raquete de Aço",
-        "desc": "Entre em uma batalha atacando um inimigo distante com Natasha durante a exploração",
+        "desc": "Entre em uma batalha atacando um inimigo distante ou destrua um objeto destrutível à distância com Natasha durante a exploração",
         "rarity": 1,
         "version": "1.3"
       },
@@ -4390,6 +4901,20 @@
         "desc": "Arranque o Grande Pássaro de Origami do Pavilhão do Orvalho",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4083202,
+        "name": "Pense Três Vezes Antes de Agir",
+        "desc": "Depois de colocar uma Ponte de Bolha no Módulo Onírico, mova o Módulo Onírico para longe sem passar pela Ponte de Bolha",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4083203,
+        "name": "Rachar a Conta",
+        "desc": "Deixe Boothill e Aventurine brigarem para pagar a conta\\n<color=#8790abff>※ Na mesma batalha, acione a fala da \"Perícia - 1\"de Aventurine e a fala de \"Início da Batalha: Quebra de Fraqueza\" de Boothill</color>",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },

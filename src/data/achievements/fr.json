@@ -155,6 +155,13 @@
         "desc": "Consulter le Livre d'or pour la première fois",
         "rarity": 1,
         "version": "1.5"
+      },
+      {
+        "id": 4013201,
+        "name": "Nessun Dorma",
+        "desc": "Suivre la Voie de l'Harmonie",
+        "rarity": 3,
+        "version": "2.2"
       }
     ]
   },
@@ -260,7 +267,7 @@
       {
         "id": 4030101,
         "name": "Mon cœur repose avec les étoiles",
-        "desc": "Entamer un périple dans l'immensité du cosmos\\n<color=#8790abff>※ Félicitations ! Vous avez embarqué à bord de l'Astral Express !</color>",
+        "desc": "Entamer un périple dans l'immensité du cosmos.\\n<color=#8790abff>※ Félicitations ! Vous avez embarqué à bord de l'Astral Express !</color>",
         "rarity": 3,
         "version": "1.0"
       },
@@ -274,21 +281,21 @@
       {
         "id": 4030103,
         "name": "Monde oublié",
-        "desc": "Découvrir le secret qui entoure Jarilo-VI\\n<color=#8790abff>※ Il y a des gens qui vivent sous terre...</color>",
+        "desc": "Découvrir le secret qui entoure Jarilo-VI.\\n<color=#8790abff>※ Il y a des gens qui vivent sous terre...</color>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030104,
         "name": "La moitié du Magicien d'Oz",
-        "desc": "Vaincre l'homme de fer-blanc et la petite fille\\n<color=#8790abff>※ Svarog et Clara sont devenus vos amis !</color>",
+        "desc": "Vaincre l'homme de fer-blanc et la petite fille.\\n<color=#8790abff>※ Svarog et Clara sont devenus vos amis !</color>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030105,
         "name": "L'hiver s'en va",
-        "desc": "Transformer Belobog, en commençant par moi !\\n<color=#8790abff>※ 1re étape : vaincre la Gardienne suprême Cocolia...</color>",
+        "desc": "Transformer Belobog, en commençant par moi. !\\n<color=#8790abff>※ 1re étape : vaincre la Gardienne suprême Cocolia...</color>",
         "rarity": 3,
         "version": "1.0"
       },
@@ -302,7 +309,7 @@
       {
         "id": 4030202,
         "name": "L'omniscience n'épargne personne",
-        "desc": "Impossible de fuir\\n<color=#8790abff>※ Capturer Kafka, la Chasseuse de Stellaron</color>",
+        "desc": "Impossible de fuir.\\n<color=#8790abff>※ Capturer Kafka, la Chasseuse de Stellaron</color>",
         "rarity": 2,
         "version": "1.0"
       },
@@ -316,14 +323,14 @@
       {
         "id": 4032307,
         "name": "Les prophètes ne font pas de prophéties",
-        "desc": "Être témoin du mystère de la matrice de la Commission de divination\\n<color=#8790abff>※ Interroger Kafka avec la Matrice de la prémonition et confronter la divination à cette prédiction...</color>",
+        "desc": "Être témoin du mystère de la matrice de la Commission de divination.\\n<color=#8790abff>※ Interroger Kafka avec la Matrice de la prémonition et confronter la divination à cette prédiction...</color>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032308,
         "name": "Chasse au cerf",
-        "desc": "Quand la flamme du fourneau danse, le cerf est réduit au silence\\n<color=#8790abff>※ Sauver la Commission de l'artisanat de la crise</color>",
+        "desc": "Quand la flamme du fourneau danse, le cerf est réduit au silence.\\n<color=#8790abff>※ Sauver la Commission de l'artisanat de la crise</color>",
         "rarity": 2,
         "version": "1.0"
       },
@@ -358,35 +365,35 @@
       {
         "id": 4032601,
         "name": "La vie est éphémère",
-        "desc": "Adieux au Luofu\\n<color=#8790abff>※ Participer à la cérémonie d'apaisement des âmes et former une alliance avec Xianzhou</color>",
+        "desc": "Adieux au Luofu.\\n<color=#8790abff>※ Participer à la cérémonie d'apaisement des âmes et former une alliance avec Xianzhou</color>",
         "rarity": 2,
         "version": "1.3"
       },
       {
         "id": 4032701,
         "name": "Les bons comptes font les bons amis",
-        "desc": "Aider (encore) à résoudre la crise profonde que traversent Jarilo-VI et Belobog\\n<color=#8790abff>※ Terminer la continuité pionnière « Marché à terme »</color>",
+        "desc": "Aider (encore) à résoudre la crise profonde que traversent Jarilo-VI et Belobog.\\n<color=#8790abff>※ Terminer la continuité pionnière « Marché à terme »</color>",
         "rarity": 2,
         "version": "1.4"
       },
       {
         "id": 4032802,
         "name": "L'amour du risque",
-        "desc": "Vivre différentes aventures surnaturelles au Jardin de vulpeflâne en compagnie de Guinaifen\\n<color=#8790abff>※ Emprisonner la grande Cirrus, et résoudre la crise des Héliobes au Jardin de vulpeflâne.</color>",
+        "desc": "Vivre différentes aventures surnaturelles au Jardin de vulpeflâne en compagnie de Guinaifen.\\n<color=#8790abff>※ Emprisonner la grande Cirrus, et résoudre la crise des Héliobes au Jardin de vulpeflâne.</color>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032801,
         "name": "Pas de ménage sans Plumeau",
-        "desc": "Partir à l'aventure avec la brigade de chasse aux fantômes\\n<color=#8790abff>※ Retrouver Plumeau et emprisonner les Héliobes en cavale qui sévissent à bord du Luofu...</color>",
+        "desc": "Partir à l'aventure avec la brigade de chasse aux fantômes.\\n<color=#8790abff>※ Retrouver Plumeau et emprisonner les Héliobes en cavale qui sévissent à bord du Luofu...</color>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032901,
         "name": "Génies et Indigents",
-        "desc": "Résoudre la nouvelle crise à bord de la Station spatiale Herta\\n<color=#8790abff>※ Terminer la continuité pionnière « Couronne du commun et du divin »</color>.",
+        "desc": "Résoudre la nouvelle crise à bord de la Station spatiale Herta.\\n<color=#8790abff>※ Terminer la continuité pionnière « Couronne du commun et du divin »</color>.",
         "rarity": 2,
         "version": "1.6"
       },
@@ -407,14 +414,14 @@
       {
         "id": 4033003,
         "name": "Nocturne ou la Gentillesse",
-        "desc": "Assister à une pluie d'étoiles filantes dans le ciel onirique\\n<color=#8790abff>※ Découvrir les secrets de Luciole à la Frontière des rêves</color>",
+        "desc": "Assister à une pluie d'étoiles filantes dans le ciel onirique.\\n<color=#8790abff>※ Découvrir les secrets de Luciole à la Frontière des rêves</color>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033004,
         "name": "En quête de douceur",
-        "desc": "Découvrir une joie inattendue au Pays des rêves\\n<color=#8790abff>※ Échapper à l'ombre de la « Mort »</color>",
+        "desc": "Découvrir une joie inattendue au Pays des rêves.\\n<color=#8790abff>※ Échapper à l'ombre de la « Mort »</color>",
         "rarity": 2,
         "version": "2.0"
       },
@@ -449,16 +456,58 @@
       {
         "id": 4033010,
         "name": "Elle me répondit qu'elle voulait mourir",
-        "desc": "Être en première place pour assister au grand final\\n<color=#8790abff>※ Vaincre Aventurine des Dix cœurs de pierre</color>",
+        "desc": "Être en première place pour assister au grand final.\\n<color=#8790abff>※ Vaincre Aventurine des Dix cœurs de pierre</color>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033011,
         "name": "Pour Icare",
-        "desc": "Revivre le passé sur une terre lointaine\\n<color=#8790abff>※ Écouter la conversation entre Achéron et Welt</color>",
+        "desc": "Revivre le passé sur une terre lointaine.\\n<color=#8790abff>※ Écouter la conversation entre Achéron et Welt</color>",
         "rarity": 2,
         "version": "2.1"
+      },
+      {
+        "id": 4033201,
+        "name": "Le dernier magnat",
+        "desc": "Communier avec l'Horloger.\\n<color=#8790abff>※ Rencontrer le premier Sans Nom de Penacony</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033202,
+        "name": "Nous voulons être libres, comme l'étaient nos pères",
+        "desc": "Recevoir l'héritage de l'Horloger.\\n<color=#8790abff>※ Continuer le voyage entrepris par le dernier Sans Nom de Penacony</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033203,
+        "name": "Marche dans la lumière",
+        "desc": "Embarquer dans une nouvelle aventure pionnière\\n<color=#8790abff>※ Vaincre le Chœur de l'Harmonie, Dominicus...</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033204,
+        "name": "Nous finîmes par nous réveiller de nos songes",
+        "desc": "Assister aux premières lueurs de l'aube à Penacony.\\n<color=#8790abff>Vaincre Sunday « Embryon de la philosophie »</color>",
+        "rarity": 3,
+        "version": "2.2"
+      },
+      {
+        "id": 4033205,
+        "name": "La sincérité est le plus puissant des ultimes",
+        "desc": "Faire la paix avec le justicier de Penacony.\\n<color=#8790abff>※ Convaincre Argenti lors du Choc des superstars</color>",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4033206,
+        "name": "L'ultime est la sincérité éternelle",
+        "desc": "Vaincre le justicier de Penacony.\\n<color=#8790abff>※ Vaincre Argenti lors du Choc des superstars</color>",
+        "rarity": 2,
+        "version": "2.2"
       }
     ]
   },
@@ -951,35 +1000,35 @@
       {
         "id": 4043025,
         "name": "Voiture de sécurité",
-        "desc": "Terminer un tournage sans une égratignure dans n'importe quel mode des Amis de Chronou",
+        "desc": "Terminer un tournage sans une égratignure dans n'importe quel mode des séries dérivées de Chronou",
         "rarity": 1,
         "version": "2.1"
       },
       {
         "id": 4043026,
         "name": "Ligne de course peu conventionnelle",
-        "desc": "Rester sur la voie du milieu pendant #1 s dans n'importe quel mode des Amis de Chronou",
+        "desc": "Rester sur la voie du milieu pendant #1 s dans n'importe quel mode des séries dérivées de Chronou",
         "rarity": 1,
         "version": "2.1"
       },
       {
         "id": 4043027,
         "name": "Pole position",
-        "desc": "Récupérer un maximum d'énergie pendant le Dragster hamster ou le Moment de Hanu dans n'importe quel mode des Amis de Chronou",
+        "desc": "Récupérer un maximum d'énergie pendant le Dragster hamster ou le Moment de Hanu dans n'importe quel mode des séries dérivées de Chronou",
         "rarity": 1,
         "version": "2.1"
       },
       {
         "id": 4043028,
         "name": "Le DRS fait toute la différence",
-        "desc": "Faire 10 Turbo accélérations d'affilée dans « Amis de Chronou : Fast & Fruits secs »",
+        "desc": "Faire 10 Turbo accélérations d'affilée dans la série dérivée de Chronou « Fast & Fruits secs »",
         "rarity": 1,
         "version": "2.1"
       },
       {
         "id": 4043029,
         "name": "Lente descente en enfer",
-        "desc": "Vaincre tous les ennemis qui apparaissent dans « Amis de Chronou : La voie du loup »",
+        "desc": "Vaincre tous les ennemis qui apparaissent dans la série dérivée de Chronou « La voie du loup »",
         "rarity": 1,
         "version": "2.1"
       },
@@ -1031,6 +1080,167 @@
         "desc": "Détruire tous les objets destructibles dans le labyrinthe du Parc d'attractions des Studios Chrono",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4043201,
+        "name": "Ballon élyséen",
+        "desc": "Éclater le ballon spécial de Boss Stone au Bastion flonirique",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043202,
+        "name": "Deuxième éruption de ballon",
+        "desc": "Éclater le ballon spécial de Boss Stone à la Salle d'audition d'Écorchesable",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043203,
+        "name": "Une odyssée post-ballon",
+        "desc": "Éclater le ballon spécial de Boss Stone au Grand théâtre de Penacony",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043205,
+        "name": "Nouveaux rêves sauce Penacony",
+        "desc": "Ouvrir 300 coffres au trésor à Penacony",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4043206,
+        "name": "Hyperglycémie",
+        "desc": "Avaler tous les objets Félicitâme dans le défi <i>Fast & Fruits secs</i> de la Salle d'audition d'Écorchesable",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043207,
+        "name": "Cui-cui... Impossible de bouger",
+        "desc": "Aider 100 oiseau en origami à retourner au Grand arbre",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043208,
+        "name": "Merveille des auditions",
+        "desc": "Découvrir un défi caché depuis l'interface de l'Audition express",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043209,
+        "name": "Roi des auditions",
+        "desc": "Réussir à déclencher un total de #1 défis cachés de l'Audition express",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043210,
+        "name": "Disqualifié !",
+        "desc": "Éclater tous les ballons de Boss Stone à la Place des auditions",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043211,
+        "name": "Première victime",
+        "desc": "Réussir le défi de Comb-Hanu une fois",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043212,
+        "name": "Comme un loup",
+        "desc": "Faire rebondir toutes les pièces de Boss Stone dans un niveau de « La voie du loup (fin) »",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043213,
+        "name": "Retour d'un vieux loup dans sa tanière",
+        "desc": "Terminer tous les niveaux de « La voie du loup (fin) »",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043214,
+        "name": "À pas de loup",
+        "desc": "Vaincre Boss Stone dans un niveau de « La voie du loup (fin) » sans faire rebondir aucune pièce",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043215,
+        "name": "15ème victime",
+        "desc": "Terminer tous les défis de Comb-Hanu",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043216,
+        "name": "Une tuerie",
+        "desc": "Réussir à la perfection tous les défis de Comb-Hanu",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043217,
+        "name": "Brochette",
+        "desc": "Toucher #1 cibles avec une seule munition dans Comb-Hanu",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043218,
+        "name": "Ennemi des crocodiles",
+        "desc": "Vaincre le Méca-croco dans le dernier niveau des <i>Aventures de Hanu</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043219,
+        "name": "Au revoir, Hanunu",
+        "desc": "Récupérer tous les livres d'histoire des <i>Aventures de Hanu</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043220,
+        "name": "Dernière victime",
+        "desc": "Toucher toutes les cibles pour la première fois dans Comb-Hanu",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043221,
+        "name": "Héritage de Hanu",
+        "desc": "Trouver le trésor caché dans l'Épreuve de tir des Auditions du festival",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043222,
+        "name": "Za Warudo !",
+        "desc": "Toucher #1 cibles en utilisant le Moment Chrono dans Comb-Hanu",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043224,
+        "name": "Bombardement de saturation",
+        "desc": "Vaincre #1 sbires de Boss Stone simultanément dans un niveau des <i>Aventures de Hanu</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4043226,
+        "name": "Au nom de la Famille",
+        "desc": "Aider les membres de la Famille à récupérer tous les biens volés",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -1117,14 +1327,14 @@
       {
         "id": 4052507,
         "name": "Libre arbitre",
-        "desc": "Terminer la mission de compagnon « Lettre d'une femme étrange »\\n<color=#8790abff>※ Vous avez choisi d'aider Kafka</color>",
+        "desc": "Terminer la mission de compagnon « Lettre d'une femme étrange ».\\n<color=#8790abff>※ Vous avez choisi d'aider Kafka</color>",
         "rarity": 1,
         "version": "1.2"
       },
       {
         "id": 4052511,
         "name": "Véritable libre arbitre",
-        "desc": "Terminer la mission de compagnon « Lettre d'une femme étrange »\\n<color=#8790abff>※ Choix que peu ferait, vous avez décidé de ne pas aider Kafka et de démontrer votre libre arbitre</color>",
+        "desc": "Terminer la mission de compagnon « Lettre d'une femme étrange ».\\n<color=#8790abff>※ Choix que peu ferait, vous avez décidé de ne pas aider Kafka et de démontrer votre libre arbitre</color>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -2510,14 +2720,14 @@
       {
         "id": 4053036,
         "name": "Entre ciel et toi",
-        "desc": "Visiter à nouveau la planque secrète seul\\n<color=#8790abff>※ Retourner dans la planque secrète de Luciole après que tout soit terminé</color>",
+        "desc": "Visiter à nouveau la planque secrète seul.\\n<color=#8790abff>※ Retourner dans la planque secrète de Luciole après que tout soit terminé</color>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053037,
         "name": "Tu vois cette montagne ?",
-        "desc": "Essayer de gravir l'échelle à la Frontière des rêves\\n<color=#8790abff>※ En fait, c'est impossible.</color>",
+        "desc": "Essayer de gravir l'échelle à la Frontière des rêves.\\n<color=#8790abff>※ En fait, c'est impossible.</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2552,7 +2762,7 @@
       {
         "id": 4053042,
         "name": "Déjà-vu",
-        "desc": "Découvrir les « paysages » familiers du Pays des rêves\\n<color=#8790abff>※ Eh oui, c'est une poubelle !</color>",
+        "desc": "Découvrir les « paysages » familiers du Pays des rêves.\\n<color=#8790abff>※ Eh oui, c'est une poubelle !</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2573,7 +2783,7 @@
       {
         "id": 4053045,
         "name": "Ennemi des Pepeshi",
-        "desc": "Offenser tous les Pepeshi que vous rencontrez de manière outrageuse\\n<color=#8790abff>※ Essayer de toucher la boule de poils de tous les Pepeshi de l'Heure dorée</color>",
+        "desc": "Offenser tous les Pepeshi que vous rencontrez de manière outrageuse.\\n<color=#8790abff>※ Essayer de toucher la boule de poils de tous les Pepeshi de l'Heure dorée</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2594,7 +2804,7 @@
       {
         "id": 4053048,
         "name": "Incroyable",
-        "desc": "Être témoin d'une « incroyable vision »\\n<color=#8790abff>※ Recueillir les avis des membres de la Famille au sujet du projet de la Frontière des rêves</color>",
+        "desc": "Être témoin d'une « incroyable vision ».\\n<color=#8790abff>※ Recueillir les avis des membres de la Famille au sujet du projet de la Frontière des rêves</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2608,14 +2818,14 @@
       {
         "id": 4053050,
         "name": "Entre rêve et réalité",
-        "desc": "Après tout, les humains ne peuvent pas se comprendre\\n<color=#8790abff>※ Écouter la conversation entre Larose et Forla</color>",
+        "desc": "Après tout, les humains ne peuvent pas se comprendre.\\n<color=#8790abff>※ Écouter la conversation entre Larose et Forla</color>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053051,
         "name": "Un long au revoir",
-        "desc": "Puisse-t-elle dire adieu à son lourd passé\\n<color=#8790abff>※ Découvrir l'histoire de Lou Archer</color>",
+        "desc": "Puisse-t-elle dire adieu à son lourd passé.\\n<color=#8790abff>※ Découvrir l'histoire de Lou Archer</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2629,7 +2839,7 @@
       {
         "id": 4053053,
         "name": "Les sciences économiques d'Oti",
-        "desc": "Si tout le monde reçoit de l'argent, alors personne n'est vraiment gagnant\\n<color=#8790abff>※ Déclencher à plusieurs reprises la fontaine à sous dans la rue</color>",
+        "desc": "Si tout le monde reçoit de l'argent, alors personne n'est vraiment gagnant.\\n<color=#8790abff>※ Déclencher à plusieurs reprises la fontaine à sous dans la rue</color>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2751,6 +2961,223 @@
         "desc": "Prendre une photo de groupe au stand photo du Parc d'attractions des Studios Chrono",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4053201,
+        "name": "L'Histoire en bouteille",
+        "desc": "Explorer les quatre grands trésors de la cave à soda à la Salle d'audition d'Écorchesable",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053202,
+        "name": "L'Histoire d'un médicament sirupeux",
+        "desc": "Trouver la réserve de collection de la cave à soda à la Salle d'audition d'Écorchesable",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053203,
+        "name": "Or et machine... et temps ?",
+        "desc": "Découvrir le mystère derrière la capacité de Chronou à transformer la pierre en or à la Salle d'audition d'Écorchesable",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053204,
+        "name": "Une ombre errante",
+        "desc": "Écouter les histoires des huit poupées sur la scène du Grand théâtre de Penacony",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053206,
+        "name": "Chant des rêves inachevé",
+        "desc": "Convaincre Orla de se réveiller du Pays des rêves",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053207,
+        "name": "Partez",
+        "desc": "Laisser partir Orla et ses compagnons",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053208,
+        "name": "Naissance de l'Union de Hanu",
+        "desc": "Aider tous les employés publiciaires à s'échapper dans la publicité <i>Le gros coup de Hanu</i> pour <i>Au fil des beaux rêves</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053209,
+        "name": "Ambassadeur Félicitâme",
+        "desc": "Marcher sur toutes les dalles Félicitâme sur toutes les cartes de la publicité <i>Chronou le fana de soda</i> pour <i>Au fil des beaux rêves</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053210,
+        "name": "Le Magicien de Rêvopolis",
+        "desc": "Assurez-vous que tous les plans correspondent aux objectifs du réalisateur dans <i>Ascension des Beaux rêves</i> pour <i>Au fil des beaux rêves</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053211,
+        "name": "Chronou et ses amis",
+        "desc": "Aider les animateurs de la saga <i>Au fil des beaux rêves</i> à créer les séries dérivées",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053212,
+        "name": "Railboard 100",
+        "desc": "Obtenir le disque de Robin",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053213,
+        "name": "Canot de sauvetage",
+        "desc": "Aider le Félicitâme à accomplir son rêve de devenir une superstar",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053214,
+        "name": "Groupe de travail onirique",
+        "desc": "Créer un nouveau lieu de vie pour les vagabonds",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053215,
+        "name": "Murmure d'un ange",
+        "desc": "Assister à la chute de l'Émanateur des poubelles",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053216,
+        "name": "La plume qu'il a perdue",
+        "desc": "Aider Robin à rassembler des indices sur Sunday",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053217,
+        "name": "Carte d'embarquement permanente",
+        "desc": "Utiliser le sphéroïde jusqu'à l'étrange gare du Bastion flonirique",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053218,
+        "name": "Cowabunga !",
+        "desc": "Trouver les sept plaques d'égout spéciales au Bastion flonirique",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053219,
+        "name": "Triste splendeur",
+        "desc": "Retrouver la trace de Chronou dans la cage d'ascenseur au Bastion flonirique",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053220,
+        "name": "Merveille temporelle",
+        "desc": "Terminer la mission d'aventure « Il était une fois à Rêvopolis... »",
+        "rarity": 2,
+        "version": "2.2"
+      },
+      {
+        "id": 4053221,
+        "name": "Murmures du passé",
+        "desc": "Terminer le montage de toutes les fins d'<i>Au fil des beaux rêves</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053222,
+        "name": "Top 100 du Pays des rêves",
+        "desc": "Atteindre un score d'audience de #1 pour l'Anthologie dans <i>Au fil des beaux rêves</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053223,
+        "name": "Trop-plein d'émotions",
+        "desc": "Cumuler une valeur minimale de #1 pour les trois émotions du public dans <i>Au fil des beaux rêves</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053224,
+        "name": "La génération perdue",
+        "desc": "Explorer un embranchement narratif spécial dans <i>Au fil des beaux rêves</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053225,
+        "name": "Film à gros budget",
+        "desc": "Obtenir au moins #1 dés temporels#2 en un seul tour dans <i>Au fil des beaux rêves</i>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053226,
+        "name": "Mention passable",
+        "desc": "Lors de la projection test d'<i>Au fil des beaux rêves</i>, toutes les valeurs d'émotion correspondent exactement aux conditions requises.",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053227,
+        "name": "Rail Road, Take Me Home",
+        "desc": "Entrer dans le Rêve d'enfant par la bulle onirique de l'Horloger au Bastion flonirique",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053228,
+        "name": "Où vas-tu, Mikhail ?",
+        "desc": "J'ai emprunté la voie qui m'était destinée\\n<color=#8790abff>※ Alors que retombe la poussière, retourner là où l'enfant observe la Lune</color>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053229,
+        "name": "Attention à la boîte",
+        "desc": "Escalader la montagne faite de boîtes en bois au Bastion flonirique",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053230,
+        "name": "En attendant Godot",
+        "desc": "Attendre patiemment l'arrivée du train fantôme",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053231,
+        "name": "Un canapé où il fait bon s'asseoir",
+        "desc": "Profiter d'un court moment de répit sur le canapé au Bastion flonirique",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4053232,
+        "name": "La ville de l'amour",
+        "desc": "Aider le panneau Hamza Mour à transmettre un message à son amoureuse",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -3297,7 +3724,7 @@
       {
         "id": 4071505,
         "name": "Amateur de café",
-        "desc": "Un petit café trois fois par jour pour s'éclaircir les idées\\n<color=#8790abff>※ Lors d'un même combat, utiliser l'ultime de Himeko 3 fois</color>",
+        "desc": "Un petit café trois fois par jour pour s'éclaircir les idées.\\n<color=#8790abff>※ Lors d'un même combat, utiliser l'ultime de Himeko 3 fois</color>",
         "rarity": 2,
         "version": "1.0"
       },
@@ -3731,7 +4158,7 @@
       {
         "id": 4072905,
         "name": "Voyons voir ce qu'elle a à dire",
-        "desc": "Prendre le temps d'écouter Hanya parler\\n<color=#8790abff>※ Écoutez les répliques d'animations d'oisiveté de Hanya et ses répliques d'actions d'oisiveté dans leur intégralité.</color>",
+        "desc": "Prendre le temps d'écouter Hanya parler.\\n<color=#8790abff>※ Écoutez les répliques d'animations d'oisiveté de Hanya et ses répliques d'actions d'oisiveté dans leur intégralité.</color>",
         "rarity": 1,
         "version": "1.6"
       },
@@ -3850,7 +4277,7 @@
       {
         "id": 4073015,
         "name": "Éradiquer la chaleur",
-        "desc": "Supprimer tous les cumuls de Brasier obscur de la Créature mémorielle « Carapace de colère réprimée » lors d'une Rupture de faiblesse",
+        "desc": "Supprimer tous les cumuls de Brasier obscur de la Créature mémorielle « Carapace de colère réprimée » lorsqu'ils sont au maximum lors d'une Rupture de faiblesse",
         "rarity": 1,
         "version": "2.1"
       },
@@ -3874,6 +4301,90 @@
         "desc": "Utiliser la technique d'Achéron « Chemin de la réalisation » pour vaincre #1 ennemis à la fois en mode exploration",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4073201,
+        "name": "JACKPOT !",
+        "desc": "Faire en sorte que le Distributeur de chance de la Troupe Chocmar produise un « Jackpot ! »",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073202,
+        "name": "Soap opéra",
+        "desc": "Faire en sorte que #1 personnages entrent en état de sommeil face à « Futur harmonieux »",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073203,
+        "name": "Jeu de la passion",
+        "desc": "Faire en sorte qu'un personnage subisse tous les DGT de la capacité Évangile de la cage du « Passé enchaîné » sans tomber à terre",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073204,
+        "name": "Œuvre chorale",
+        "desc": "« Représentation du passé, présent et de l'éternel » désigne #1 ennemis comme Juge 1 fois à tour de rôle lors de sa première phase",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073205,
+        "name": "Pièce en un acte",
+        "desc": "La formation ennemie n'utilise pas plus d'une fois Danse de la loi unique lors de la deuxième phase de la « Représentation du passé, présent et de l'éternel »",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073206,
+        "name": "Fragment littéraire",
+        "desc": "Interrompre l'état de charge de « Présent ivre de la fête »",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073207,
+        "name": "Le temps d'une chanson",
+        "desc": "Écouter le chant de Robin\\n<color=#8790abff>※ En combat, consulter le mode d'analyse plus de #1 secondes après l'utilisation de l'ultime de Robin « Vox Harmonique, Opus Cosmique »</color>",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073208,
+        "name": "Le Joueur de flûte de Hamelin",
+        "desc": "Charmer au moins #1 ennemis à suivre Robin après utilisation de sa technique « Prélude à l'ivresse »",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073209,
+        "name": "Pas de danse ultime !",
+        "desc": "Utiliser l'effet Soutien sur scène de l'ultime « Performance sur scène » du protagoniste de l'Harmonie {NICKNAME} pour vaincre un ennemi élite",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073210,
+        "name": "Roulette russe",
+        "desc": "Rassembler en combat un total de #1 cumuls d'Avantage en poche sur un tour avec le Fossoyeur dans votre équipe",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073211,
+        "name": "Jour travaillé sans Dieu",
+        "desc": "Infligez une Rupture de faiblesse à tous les Échos des rêves passés avant que Septimus « Chœur de l'Harmonie » n'utilise « Volteggiando » ou « Tempestoso »",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4073212,
+        "name": "Puis lundi arriva...",
+        "desc": "Bénéficier d'une valeur de bouclier suffisamment élevée pour totalement bloquer la capacité de Sunday « Embryon de la philosophie » « Au commencement était l'action »",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
@@ -3918,21 +4429,21 @@
       {
         "id": 4080303,
         "name": "Mauvais goût",
-        "desc": "C'est pas perdu pour tout le monde\\n<color=#8790abff>※ Utiliser des poubelles pour synthétiser des consommables 10 fois</color>",
+        "desc": "C'est pas perdu pour tout le monde.\\n<color=#8790abff>※ Utiliser des poubelles pour synthétiser des consommables 10 fois</color>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080304,
         "name": "Karma",
-        "desc": "L'être supérieur qui vit dans nos cœurs pousse un soupir pour vous\\n<color=#8790abff>※ Trouver un moyen d'utiliser vos Éloges de moralité</color>",
+        "desc": "L'être supérieur qui vit dans nos cœurs pousse un soupir pour vous.\\n<color=#8790abff>※ Trouver un moyen d'utiliser vos Éloges de moralité</color>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080305,
         "name": "Saint",
-        "desc": "L'être supérieur qui vit dans nos cœurs vous encourage\\n<color=#8790abff>※ Obtenir un Éloge de moralité 20 fois</color>",
+        "desc": "L'être supérieur qui vit dans nos cœurs vous encourage.\\n<color=#8790abff>※ Obtenir un Éloge de moralité 20 fois</color>",
         "rarity": 1,
         "version": "1.0"
       },
@@ -4205,14 +4716,14 @@
       {
         "id": 4072609,
         "name": "Full Metal Racket",
-        "desc": "Engager le combat en phase d'exploration en attaquant un ennemi à distance avec Natasha",
+        "desc": "Engager le combat en attaquant un ennemi à distance ou briser un objet destructible à distance avec Natasha en phase d'exploration",
         "rarity": 1,
         "version": "1.3"
       },
       {
         "id": 4082701,
         "name": "Spammeur en série",
-        "desc": "Gaver le Magoret\\n<color=#8790abff>※ Envoyer beaucoup de messages avec la fenêtre de discussion {TEXTJOIN#54}</color>",
+        "desc": "Gaver le Magoret.\\n<color=#8790abff>※ Envoyer beaucoup de messages avec la fenêtre de discussion {TEXTJOIN#54}</color>",
         "rarity": 1,
         "version": "1.4"
       },
@@ -4390,6 +4901,20 @@
         "desc": "Sortir le Grand oiseau en origami du Manoir de la rosée",
         "rarity": 1,
         "version": "2.1"
+      },
+      {
+        "id": 4083202,
+        "name": "Bien réfléchir avant d'agir",
+        "desc": "Après avoir placé un pont de bulles sur un module onirique, déplacer le module onirique sans traverser le pont de bulles",
+        "rarity": 1,
+        "version": "2.2"
+      },
+      {
+        "id": 4083203,
+        "name": "Chacun paie sa part",
+        "desc": "Laisser le Fossoyeur et Aventurine se battre pour payer l'addition.\\n<color=#8790abff>※ Déclencher les répliques « Compétence 1 » d'Aventurine et « Rupture de faiblesse en début de combat » du Fossoyeur au cours du même combat</color>",
+        "rarity": 1,
+        "version": "2.2"
       }
     ]
   },
