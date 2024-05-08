@@ -417,6 +417,36 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['jingliu'],
 			featured4: ['lynx', 'luka', 'serval']
+		},
+		{
+			code: 2029,
+			type: 'character',
+			name: 'Just Intonation',
+			start: '2024-05-08 06:00:00',
+			end: '2024-05-29 11:59:00',
+			color: '#ff6934',
+			version: '2.2',
+			image: 'Just Intonation 2029.jpg',
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['robin'],
+			featured4: ['march-7th', 'hanya', 'xueyi'],
+			timezoneDependent: true
+		},
+		{
+			code: 2030,
+			type: 'character',
+			name: 'Sunset Clause',
+			start: '2024-05-08 06:00:00',
+			end: '2024-05-29 11:59:00',
+			color: '#ff6934',
+			version: '2.2',
+			image: 'Sunset Clause 2030.jpg',
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['topaz-numby'],
+			featured4: ['march-7th', 'hanya', 'xueyi'],
+			timezoneDependent: true
 		}
 	],
 	lightcone: [
@@ -797,16 +827,46 @@ export const banners: Banners = {
 		{
 			code: 3028,
 			type: 'lightcone',
-			name: 'Brilliant Fixation',
+			name: 'Bygone Reminiscence',
 			start: '2024-04-17 12:00:00',
 			end: '2024-05-07 15:00:00',
 			color: '#c6d2ff',
 			version: '2.1',
-			image: 'Brilliant Fixation 3028.jpg',
+			image: 'Bygone Reminiscence 3028.jpg',
 			pos: '70% 20%',
 			zoom: 1.2,
 			featured5: ['i-shall-be-my-own-sword'],
 			featured4: ['concert-for-two', 'shared-feeling', 'make-the-world-clamor']
+		},
+		{
+			code: 3029,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2024-05-08 06:00:00',
+			end: '2024-05-29 11:59:00',
+			color: '#c99ae4',
+			version: '2.2',
+			image: 'Brilliant Fixation 3029.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['flowing-nightglow'],
+			featured4: ['boundless-choreo', 'swordplay', 'perfect-timing'],
+			timezoneDependent: true
+		},
+		{
+			code: 3030,
+			type: 'lightcone',
+			name: 'Bygone Reminiscence',
+			start: '2024-05-08 06:00:00',
+			end: '2024-05-29 11:59:00',
+			color: '#f7f6fd',
+			version: '2.2',
+			image: 'Bygone Reminiscence 3030.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['worrisome-blissful'],
+			featured4: ['boundless-choreo', 'swordplay', 'perfect-timing'],
+			timezoneDependent: true
 		}
 	],
 	standard: [
