@@ -389,6 +389,12 @@
     "path": "preservation",
     "rarity": 4
   },
+  "boundless-choreo": {
+    "id": "boundless-choreo",
+    "name": "Danse endiablée",
+    "path": "nihility",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Avant que le tutoriel ne commence",
@@ -399,6 +405,12 @@
     "id": "hey-over-here",
     "name": "Hé, par ici !",
     "path": "abundance",
+    "rarity": 4
+  },
+  "for-tomorrows-journey": {
+    "id": "for-tomorrows-journey",
+    "name": "Au nom du voyage de demain",
+    "path": "harmony",
     "rarity": 4
   },
   "night-on-the-milky-way": {
@@ -549,6 +561,18 @@
     "id": "along-the-passing-shore",
     "name": "Le long de la rive",
     "path": "nihility",
+    "rarity": 5
+  },
+  "flowing-nightglow": {
+    "id": "flowing-nightglow",
+    "name": "Lumières nocturnes",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "sailing-towards-a-second-life": {
+    "id": "sailing-towards-a-second-life",
+    "name": "Le début d'une seconde vie",
+    "path": "the-hunt",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

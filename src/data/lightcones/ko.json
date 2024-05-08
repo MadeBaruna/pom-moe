@@ -389,6 +389,12 @@
     "path": "preservation",
     "rarity": 4
   },
+  "boundless-choreo": {
+    "id": "boundless-choreo",
+    "name": "끝없는 춤",
+    "path": "nihility",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "초보자 임무 시작 전",
@@ -399,6 +405,12 @@
     "id": "hey-over-here",
     "name": "저기, 나 여기 있어",
     "path": "abundance",
+    "rarity": 4
+  },
+  "for-tomorrows-journey": {
+    "id": "for-tomorrows-journey",
+    "name": "내일을 위한 여정",
+    "path": "harmony",
     "rarity": 4
   },
   "night-on-the-milky-way": {
@@ -549,6 +561,18 @@
     "id": "along-the-passing-shore",
     "name": "흘러가는 강가를 따라",
     "path": "nihility",
+    "rarity": 5
+  },
+  "flowing-nightglow": {
+    "id": "flowing-nightglow",
+    "name": "찬란하게 빛나는 밤",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "sailing-towards-a-second-life": {
+    "id": "sailing-towards-a-second-life",
+    "name": "두 번째 생명을 향해",
+    "path": "the-hunt",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {

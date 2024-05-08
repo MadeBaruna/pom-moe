@@ -389,6 +389,12 @@
     "path": "preservation",
     "rarity": 4
   },
+  "boundless-choreo": {
+    "id": "boundless-choreo",
+    "name": "{RUBY_B#お}終{RUBY_E#}わりなき{RUBY_B#ぶとう}舞踏{RUBY_E#}",
+    "path": "nihility",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "{RUBY_B#はじ}初{RUBY_E#}めてのクエストの{RUBY_B#まえ}前{RUBY_E#}に",
@@ -399,6 +405,12 @@
     "id": "hey-over-here",
     "name": "よぉ、ここにいるぜ",
     "path": "abundance",
+    "rarity": 4
+  },
+  "for-tomorrows-journey": {
+    "id": "for-tomorrows-journey",
+    "name": "{RUBY_B#あす}明日{RUBY_E#}のための{RUBY_B#たび}旅{RUBY_E#}",
+    "path": "harmony",
     "rarity": 4
   },
   "night-on-the-milky-way": {
@@ -549,6 +561,18 @@
     "id": "along-the-passing-shore",
     "name": "{RUBY_B#なが}流{RUBY_E#}れ{RUBY_B#ゆ}逝{RUBY_E#}く{RUBY_B#きし}岸{RUBY_E#}を{RUBY_B#ある}歩{RUBY_E#}いて",
     "path": "nihility",
+    "rarity": 5
+  },
+  "flowing-nightglow": {
+    "id": "flowing-nightglow",
+    "name": "{RUBY_B#ひかり}光{RUBY_E#}あふれる{RUBY_B#よる}夜{RUBY_E#}",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "sailing-towards-a-second-life": {
+    "id": "sailing-towards-a-second-life",
+    "name": "{RUBY_B#にどめ}二度目{RUBY_E#}の{RUBY_B#せい}生{RUBY_E#}に{RUBY_B#む}向{RUBY_E#}かって",
+    "path": "the-hunt",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
