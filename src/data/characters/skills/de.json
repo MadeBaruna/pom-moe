@@ -384,21 +384,21 @@
           250
         ],
         [
-          0,
-          8,
-          16,
-          24,
-          32,
           40,
-          50,
+          44,
+          48,
+          52,
+          56,
           60,
+          65,
           70,
+          75,
           80,
+          84,
           88,
+          92,
           96,
-          104,
-          112,
-          120
+          100
         ]
       ],
       "format": [
@@ -7044,7 +7044,7 @@
     },
     "talent": {
       "name": "Trunken vom Kampf",
-      "desc": "„Berauschung“ erhöht den von Zielen erlittenen Bruch-SCH um <span style=\"color: #f29e38ff\">{1}</span>. Jedes Mal, wenn ein berauschtes Ziel von einem Verbündeten angegriffen wird, werden die LP des Angreifers um <span style=\"color: #f29e38ff\">{2}</span> Pkt. wiederhergestellt.",
+      "desc": "„Berauschung“ erhöht den von Zielen erlittenen <u>Bruch-SCH</u> um <span style=\"color: #f29e38ff\">{1}</span>. Jedes Mal, wenn ein berauschtes Ziel von einem Verbündeten angegriffen wird, werden die LP des Angreifers um <span style=\"color: #f29e38ff\">{2}</span> Pkt. wiederhergestellt.",
       "values": [
         [
           6,
@@ -7392,7 +7392,7 @@
     },
     "ultimate": {
       "name": "Blütenblätter im Wasserwirbel",
-      "desc": "Ruan Mei erzeugt ein Feld, das für {2} Rd. anhält. Die Dauer dieses Felds verringert sich jeweils zu Beginn ihrer Rd. um 1.\\nWährend das Feld aktiv ist, wird die WDS-DUR aller Typen für alle Verbündeten um <span style=\"color: #f29e38ff\">{1}</span> erhöht. Weiterhin wird nach einem Angriff eines Verbündeten dem Ziel „Überreife“ zugefügt.\\nÜberreife wird ausgelöst, wenn der Gegner versucht, sich von einem Schwächebruch zu erholen. Sein Schwächebruch wird verlängert und seine Aktion um {3} von Ruan Meis Brucheffekt plus {4} verzögert. Weiterhin erleidet der Gegner Bruch-SCH in Höhe von <span style=\"color: #f29e38ff\">{5}</span> von Ruan Meis Eis-Bruch-SCH.\\nGegner, die sich noch nicht von ihrem Schwächebruch erholt haben, können nicht erneut mit Überreife belegt werden.",
+      "desc": "Ruan Mei erzeugt ein Feld, das für {2} Rd. anhält. Die Dauer dieses Felds verringert sich jeweils zu Beginn ihrer Rd. um 1.\\nWährend das Feld aktiv ist, wird die WDS-DUR aller Typen für alle Verbündeten um <span style=\"color: #f29e38ff\">{1}</span> erhöht. Weiterhin wird nach einem Angriff eines Verbündeten dem Ziel „Überreife“ zugefügt.\\nÜberreife wird ausgelöst, wenn der Gegner versucht, sich von einem <u>Schwächebruch</u> zu erholen. Sein <u>Schwächebruch</u> wird verlängert und seine Aktion um {3} von Ruan Meis Brucheffekt plus {4} <u>verzögert</u>. Weiterhin erleidet der Gegner <u>Bruch-SCH</u> in Höhe von <span style=\"color: #f29e38ff\">{5}</span> von Ruan Meis Eis-Bruch-SCH.\\nGegner, die sich noch nicht von ihrem <u>Schwächebruch</u> erholt haben, können nicht erneut mit Überreife belegt werden.",
       "values": [
         [
           15,
@@ -7448,7 +7448,7 @@
     },
     "talent": {
       "name": "Gespaltene Spirale",
-      "desc": "Erhöht die GES aller Verbündeten außer der eigenen um <span style=\"color: #f29e38ff\">{1}</span>. Wenn Verbündete bei einem Gegner Schwächebruch verursachen, fügt Ruan Mei diesem Gegner Bruch-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> ihres Eis-Bruch-SCH zu.",
+      "desc": "Erhöht die GES aller Verbündeten außer der eigenen um <span style=\"color: #f29e38ff\">{1}</span>. Wenn Verbündete bei einem Gegner Schwächebruch verursachen, fügt Ruan Mei diesem Gegner <u>Bruch-SCH</u> in Höhe von <span style=\"color: #f29e38ff\">{2}</span> ihres Eis-Bruch-SCH zu.",
       "values": [
         [
           8,
@@ -8510,7 +8510,7 @@
     },
     "talent": {
       "name": "Tropfen auf den roten Blättern, Leere",
-      "desc": "Wenn „Zerbrochener Traum“ {1} Pkt. erreicht, kann der Ultimate aktiviert werden. Der Ultimate ignoriert Schwächetypen, verringert den Widerstand aller Gegner und reduziert ihren WDS aller Typen um <span style=\"color: #f29e38ff\">{2}</span>. Dies dauert bis zum Ende des Ultimates an.\\nWenn eine beliebige Einheit einem gegnerischen Ziel mit einer Fähigkeit einen Debuff zufügt, erhält Acheron 1 Pkt. Zerbrochener Traum und belegt das Ziel mit 1 Stapelung „Karminroter Knoten“. Wenn die Fähigkeit mehrere Gegner mit Debuffs belegt, wird Karminroter Knoten dem Gegner mit den meisten Stapelungen Karminroter Knoten zugefügt. Dieser Effekt kann bis zu 1-mal pro Einsatz der Fähigkeit ausgelöst werden.\\nWenn Acheron auf dem Kampffeld ist und ein gegnerisches Ziel das Feld verlässt oder von einer beliebigen Einheit besiegt wird, werden seine Stapelungen von Karminroter Knoten auf den Gegner mit den meisten Stapelungen Karminroter Knoten übertragen.",
+      "desc": "Wenn „Zerbrochener Traum“ {1} Pkt. erreicht, kann der Ultimate aktiviert werden. Der Ultimate ignoriert Schwächetypen, verringert den Widerstand aller Gegner und reduziert ihren WDS aller Typen um <span style=\"color: #f29e38ff\">{2}</span>. Dies dauert bis zum Ende des Ultimates an.\\nWenn eine beliebige Einheit einem gegnerischen Ziel mit einer Fähigkeit einen Debuff zufügt, erhält Acheron 1 Pkt. Zerbrochener Traum und belegt ein Ziel mit 1 Stapelung „Karminroter Knoten“. Wenn die Fähigkeit mehrere Gegner mit Debuffs belegt, wird 1 Stapelung Karminroter Knoten dem Gegner mit den meisten Stapelungen Karminroter Knoten zugefügt. Dieser Effekt kann bis zu 1-mal pro Einsatz der Fähigkeit ausgelöst werden.\\nWenn Acheron auf dem Kampffeld ist und ein gegnerisches Ziel das Feld verlässt oder von einer beliebigen Einheit besiegt wird, werden seine Stapelungen von Karminroter Knoten auf den Gegner mit den meisten Stapelungen Karminroter Knoten übertragen.",
       "values": [
         [
           9
@@ -8546,7 +8546,7 @@
     },
     "technique": {
       "name": "Vier Phasen des Ich",
-      "desc": "Greift den Gegner an. Erhält zu Beginn jeder Kampfwelle „Vier Phasen des Ich“, fügt allen Gegnern Blitz-SCH in Höhe von {1} von Acherons ANG zu und reduziert ihr Widerstand ungeachtet des Schwächetyps. Beim Schwächebruch wird der Effekt „Schwächebruch: Blitz“ ausgelöst.\\nVier Phasen des Ich: Acheron erhält nach dem Einsatz des Ultimates {2} Pkt. „Zerbrochener Traum“ und belegt einen zufälligen Gegner mit {2} Stapelungen „Karminroter Knoten“.\\nWenn gewöhnliche Gegner angegriffen werden, werden sie sofort besiegt, ohne den Kampf zu betreten. Der Technikpunkt wird nicht verbraucht, wenn der Angriff keinen Gegner trifft.",
+      "desc": "Greift den Gegner an. Erhält zu Beginn jeder Kampfwelle „Vier Phasen des Ich“, fügt allen Gegnern Blitz-SCH in Höhe von {1} von Acherons ANG zu und reduziert ihr Widerstand ungeachtet des Schwächetyps. Beim Schwächebruch wird der Effekt „Schwächebruch: Blitz“ ausgelöst.\\nVier Phasen des Ich: Acheron erhält nach dem Einsatz des Ultimates {2} Pkt. „Zerbrochener Traum“ und belegt einen zufälligen Gegner mit {2} Stapelung „Karminroter Knoten“.\\nWenn gewöhnliche Gegner angegriffen werden, werden sie sofort besiegt, ohne den Kampf zu betreten. Der Technikpunkt wird nicht verbraucht, wenn der Angriff keinen Gegner trifft.",
       "values": [
         [
           200
@@ -8584,6 +8584,184 @@
       ],
       "format": [
         ""
+      ]
+    }
+  },
+  "robin": {
+    "attack": {
+      "name": "Flügelflattern",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Robins ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Arie der Feder",
+      "desc": "Erhöht den verursachten SCH aller Verbündeten für {2} Rd. um <span style=\"color: #f29e38ff\">{1}</span>. Diese Dauer wird jeweils zu Beginn von Robins Rd. um 1 verringert.",
+      "values": [
+        [
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          57,
+          60,
+          63
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Sternenfuge mit tausend Klängen",
+      "desc": "Robin tritt in den Status „Konzert“ ein, wodurch alle Verbündeten außer ihr selbst sofort eine Aktion ausführen.\\nIm Status Konzert wird der ANG aller Verbündeten in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Robins ANG plus <span style=\"color: #f29e38ff\">{3}</span> erhöht. Nach jedem Angriff eines Verbündeten verursacht Robin 1-mal <u>zusätzlich physischen SCH</u> in Höhe von <span style=\"color: #f29e38ff\">{4}</span> ihres ANG. Die KRIT-Rate für diesen SCH beträgt {5} und der KRIT-SCH {6}.\\nWenn Robin sich im Status Konzert befindet, ist Robin immun gegen <u>Mengenkontrolle-Debuffs</u>. Bis zum Ende des Status Konzert wird sie keine Runde haben und keine Aktion ausführen.\\nDer Countdown von Konzert erscheint in der Aktionsreihenfolge. Beginnt die Runde des Countdowns, verlässt Robin den Status Konzert und führt sofort eine Aktion aus. Der Countdown hat eine feste GES von {2}.",
+      "values": [
+        [
+          15.2,
+          16,
+          16.7,
+          17.5,
+          18.2,
+          19,
+          20,
+          20.9,
+          21.9,
+          22.8,
+          23.6,
+          24.3,
+          25.1,
+          25.8,
+          26.6
+        ],
+        [
+          90
+        ],
+        [
+          50,
+          65,
+          80,
+          95,
+          110,
+          125,
+          144,
+          163,
+          181,
+          200,
+          215,
+          230,
+          245,
+          260,
+          275
+        ],
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ],
+        [
+          100
+        ],
+        [
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Harmonische Ode",
+      "desc": "Erhöht den KRIT-SCH aller Verbündeten um <span style=\"color: #f29e38ff\">{1}</span>. Nach einem Angriff eines Verbündeten auf ein gegnerisches Ziel stellt Robin zusätzlich {2} Pkt. der eigenen Energie wieder her.",
+      "values": [
+        [
+          5,
+          6.5,
+          8,
+          9.5,
+          11,
+          12.5,
+          14.4,
+          16.3,
+          18.1,
+          20,
+          21.5,
+          23,
+          24.5,
+          26,
+          27.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Berauschte Ouvertüre",
+      "desc": "Erzeugt nach dem Einsatz der Technik eine spezielle Dimension um Robin, die {1} Sek. anhält. Gegner innerhalb dieser Dimension werden Robin nicht angreifen und folgen ihr, solange die Dimension aktiv ist. Nach Kampfeintritt mit dieser Dimension stellt Robin zu Beginn jeder Kampfwelle {2} Pkt. Energie wieder her. Es kann nur eine von Verbündeten erschaffene Dimension zur gleichen Zeit existieren.",
+      "values": [
+        [
+          15
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
       ]
     }
   },
@@ -8781,8 +8959,8 @@
   },
   "trailblazer": {
     "attack": {
-      "name": "Eisbrechendes Licht",
-      "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG {M#des Trailblazers}{F#der Trailblazerin} zu und erhält 1-fach „Magma-Wille“.",
+      "name": "Swing-Etikette",
+      "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG {M#des Trailblazers}{F#der Trailblazerin} zu.",
       "values": [
         [
           50,
@@ -8801,191 +8979,115 @@
       ]
     },
     "skill": {
-      "name": "Ewig brennender Bernstein",
-      "desc": "Nach dem Einsatz der Fertigkeit erleidet {M#der Trailblazer}{F#die Trailblazerin} <span style=\"color: #f29e38ff\">{1}</span> weniger SCH und erhält 1-fach „Magma-Wille“. Außerdem besteht eine <u>Grundchance</u> von {2}, bei allen Gegnern für {3} Rd. Verspotten zu verursachen.",
+      "name": "Regen im Intermezzo",
+      "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG {F#der Trailblazerin}{M#des Trailblazers} zu. Verursacht zusätzlich 4-mal SCH, der jedes Mal einem zufälligen Gegner imaginären SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG {F#der Trailblazerin}{M#des Trailblazers} zufügt.",
       "values": [
         [
-          40,
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
           41,
-          42,
-          43,
           44,
-          45,
-          46,
-          48,
-          49,
+          47,
           50,
-          51,
-          52,
           53,
-          54,
-          55
+          55,
+          57,
+          60,
+          63
         ],
         [
-          100
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]%",
-        "[i]"
+        ""
       ]
     },
     "ultimate": {
-      "name": "Flammenlanze hinter den gegnerischen Linien",
-      "desc": "Fügt allen Gegnern Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG {M#des Trailblazers}{F#der Trailblazerin} plus <span style=\"color: #f29e38ff\">{2}</span> {M#seiner}{F#ihrer} VTD zu. Der nächste Standardangriff wird automatisch verstärkt und kostet keinen „Magma-Willen“.",
+      "name": "Lärmende Laternenparade",
+      "desc": "Verleiht allen Verbündeten für {1} Rd. den Effekt „Backup-Tänzer“. Zu Beginn jeder Runde {F#der Trailblazerin}{M#des Trailblazers} wird die Dauer dieses Effekts um 1 Rd. verringert. Der Brucheffekt von Verbündeten mit Backup-Tänzer wird um <span style=\"color: #f29e38ff\">{3}</span> erhöht. Wenn sie Gegner im Status <u>Schwächebruch</u> angreifen, wandeln sie den WDS-Reduzierungswert dieses Angriffs 1-mal in <u>Super-Bruch-SCH</u> um.",
       "values": [
         [
-          50,
-          55,
-          60,
-          65,
-          70,
-          75,
-          81,
-          88,
-          94,
-          100,
-          105,
-          110,
-          115,
-          120,
-          125
+          3
         ],
         [
-          75,
-          83,
-          90,
-          98,
-          105,
-          113,
-          122,
-          131,
-          141,
-          150,
-          158,
-          165,
-          173,
-          180,
-          188
+          1
+        ],
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
         ]
       ],
       "format": [
-        "[i]%",
+        "[i]",
+        "",
         "[i]%"
       ]
     },
     "talent": {
-      "name": "Schatz der Architekten",
-      "desc": "Wenn {M#der Trailblazer}{F#die Trailblazerin} angegriffen wird, erhält {F#sie}{M#er} 1 Stapelung „Magma-Wille“, bis zu max. {3}-fach stapelbar.\\nAb 4 Stapelungen Magma-Willen wird der Standardangriff verstärkt und fügt einem anvisierten Gegner sowie angrenzenden Zielen SCH zu.\\n{M#Der Trailblazer}{F#Die Trailblazerin} gewährt allen Verbündeten einen Schild, nachdem {F#sie}{M#er} den Standardangriff, die Fertigkeit oder den Ultimate eingesetzt hat, der SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von der VTD {M#des Trailblazers}{F#der Trailblazerin} plus <span style=\"color: #f29e38ff\">{4}</span> für {2} Rd. blockieren kann.",
+      "name": "Tanzlieder auf ganzem Spektrum",
+      "desc": "Wenn die Schwäche eines Gegners gebrochen wird, stellt {F#die Trailblazerin}{M#der Trailblazer} sofort <span style=\"color: #f29e38ff\">{1}</span> Pkt. Energie wieder her.",
       "values": [
         [
-          4,
-          4.3,
-          4.5,
-          4.8,
           5,
-          5.2,
-          5.4,
-          5.6,
-          5.8,
+          5.5,
           6,
-          6.2,
-          6.4,
-          6.6,
-          6.8,
-          7
-        ],
-        [
-          2
-        ],
-        [
-          8
-        ],
-        [
-          20,
-          32,
-          41,
-          50,
-          56,
-          62,
-          67,
-          71,
-          76,
-          80,
-          85,
-          89,
-          94,
-          98,
-          103
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.8,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
         ]
       ],
       "format": [
-        "[f1]%",
-        "[i]",
-        "[i]",
-        "[i]"
+        "[f1]"
       ]
     },
     "mazeattack": {
       "name": "Angriff",
-      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den Widerstand des Ziels gegen den entsprechenden Typ.",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Ruf des Wächters",
-      "desc": "Erhält nach dem Einsatz der Technik und zu Beginn des nächsten Kampfes einen Schild, der SCH in Höhe von {1} von der VTD {M#des Trailblazers}{F#der Trailblazerin} plus {2} für {3} Rd. blockieren kann.",
+      "name": "Jetzt! Solo-Truppe!",
+      "desc": "Erhöht nach dem Einsatz der Technik den Brucheffekt aller Verbündeten zu Beginn des nächsten Kampfs für {2} Rd. um {1}.",
       "values": [
         [
           30
         ],
         [
-          384
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]",
         "[i]"
-      ]
-    },
-    "undefined": {
-      "name": "Eisbrechendes Licht",
-      "desc": "Verbraucht 4 Stapelungen „Magma-Wille“, um Standardangriff zu verstärken, der einem anvisierten Gegner Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> des ANG {M#des Trailblazers}{F#der Trailblazerin} und angrenzenden Zielen Feuer-SCH in Höhe von <span style=\"color: #f29e38ff\">{2}</span> des ANG {M#des Trailblazers}{F#der Trailblazerin} zufügt.",
-      "values": [
-        [
-          90,
-          99,
-          108,
-          117,
-          126,
-          135,
-          146,
-          158,
-          169
-        ],
-        [
-          36,
-          40,
-          43,
-          47,
-          50,
-          54,
-          59,
-          63,
-          68
-        ]
-      ],
-      "format": [
-        "[i]%",
-        "[i]%"
       ]
     }
   }

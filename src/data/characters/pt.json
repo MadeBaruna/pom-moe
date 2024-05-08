@@ -359,6 +359,14 @@
     "rarity": 5,
     "background": "Uma viajante que diz ser uma Vigia da Galáxia. O nome verdadeiro dela é desconhecido.\\nEla caminha pelo cosmos sozinha, carregando consigo uma espada longa."
   },
+  "robin": {
+    "id": "robin",
+    "name": "Robin",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Uma cantora Haloviana, nascida em Penacony, que alcançou fama cósmica. Uma moça elegante e recatada.\\nDesta vez, ela foi convidada pela Família para encantar a todos com sua música durante o Festival Carismonia.\\nEla pode usar o poder da \"Harmonia\" para transmitir sua música, manifestando \"ressonância\" entre todas as formas de vida, não apenas seus fãs."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",

@@ -293,7 +293,7 @@
     "path": "abundance",
     "element": "wind",
     "rarity": 5,
-    "background": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus.\\nShe is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits."
+    "background": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young foxian girl possessed by a heliobus.\\nShe is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits."
   },
   "gallagher": {
     "id": "gallagher",
@@ -358,6 +358,14 @@
     "element": "lightning",
     "rarity": 5,
     "background": "A drifter claiming to be a Galaxy Ranger. Her true name is unknown.\\nShe walks the cosmos alone, carrying with her a long sword."
+  },
+  "robin": {
+    "id": "robin",
+    "name": "Robin",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 5,
+    "background": "A Halovian singer who was born in Penacony and has risen to cosmic fame. An elegant and demure young lady.\\nThis time, she has been invited home by The Family to grace everyone with song during the Charmony Festival.\\nShe can use the power of \"Harmony\" to broadcast her music, manifesting \"resonance\" among not only her fans but all manner of lifeforms."
   },
   "misha": {
     "id": "misha",

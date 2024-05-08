@@ -161,7 +161,7 @@
   },
   "topaz-numby": {
     "id": "topaz-numby",
-    "name": "Topaz & Compti",
+    "name": "Topaz et Compti",
     "path": "the-hunt",
     "element": "fire",
     "rarity": 5,
@@ -359,6 +359,14 @@
     "rarity": 5,
     "background": "Une voyageuse solitaire qui prétend faire partie des Rangers de la galaxie. Son véritable nom reste inconnu.\\nElle sillonne le cosmos munie d'une longue épée."
   },
+  "robin": {
+    "id": "robin",
+    "name": "Robin",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Chanteuse halovienne née à Penacony et connue dans toute la galaxie. C'est une jeune femme élégante et discrète.\\nCette fois-ci, la Famille l'a invitée à jouer dans sa terre natale lors du Festival Ôdiapason.\\nElle peut utiliser le pouvoir de l'Harmonie pour diffuser sa musique qui « résonne » non seulement parmi ses fans mais également chez n'importe quelle forme de vie."
+  },
   "misha": {
     "id": "misha",
     "name": "Micha",
@@ -373,6 +381,6 @@
     "path": "adaptive",
     "element": "adaptive",
     "rarity": 5,
-    "background": "Une jeune fille montée/Un jeune garçon monté à bord de l'Astral Express.\\n{F#Elle}{M#Il} a choisi de voyager à bord de l'Astral Express afin d'éradiquer les dangers provoqués par les Stellarons."
+    "background": "Une fille/Un garçon à bord de l'Astral Express.\\n{F#Elle}{M#Il} a choisi d'y voyager pour éliminer les dangers causés par le Stellaron."
   }
 }

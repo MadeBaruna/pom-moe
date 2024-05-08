@@ -384,21 +384,21 @@
           250
         ],
         [
-          0,
-          8,
-          16,
-          24,
-          32,
           40,
-          50,
+          44,
+          48,
+          52,
+          56,
           60,
+          65,
           70,
+          75,
           80,
+          84,
           88,
+          92,
           96,
-          104,
-          112,
-          120
+          100
         ]
       ],
       "format": [
@@ -7044,7 +7044,7 @@
     },
     "talent": {
       "name": "Tipsy Tussle",
-      "desc": "\"Besotted\" meningkatkan Break DMG yang diterima target sebesar <span style=\"color: #f29e38ff\">{1}</span>. Setiap kali setelah target berstatus \"Besotted\" terkena serangan rekan tim, akan memulihkan <span style=\"color: #f29e38ff\">{2}</span> HP penyerang.",
+      "desc": "\"Besotted\" meningkatkan <u>Break DMG</u> yang diterima target sebesar <span style=\"color: #f29e38ff\">{1}</span>. Setiap kali setelah target berstatus \"Besotted\" terkena serangan rekan tim, akan memulihkan <span style=\"color: #f29e38ff\">{2}</span> HP penyerang.",
       "values": [
         [
           6,
@@ -7392,7 +7392,7 @@
     },
     "ultimate": {
       "name": "Petals to Stream, Repose in Dream",
-      "desc": "Ruan Mei membuka sebuah Field yang berlangsung selama {2} giliran. Durasi giliran Field akan berkurang 1 setiap kali giliran Ruan Mei dimulai.\\nSeluruh rekan tim yang berada dalam Field akan mendapat peningkatan <span style=\"color: #f29e38ff\">{1}</span> RES PEN Seluruh Tipe, dan setelah menyerang, akan menambahkan \"Thanatoplum Rebloom\" pada target musuh.\\n\"Thanatoplum Rebloom\" akan terpicu saat target musuh mencoba pulih dari status Weakness Break, memperpanjang status Weakness Break yang dimilikinya dan menunda aksinya. Penundaan aksinya adalah sebesar {3} Break Effect Ruan Mei + {4}, serta mengakibatkan Break DMG pada target tersebut sebesar <span style=\"color: #f29e38ff\">{5}</span> Ice Break DMG Ruan Mei.\\nTarget musuh yang belum pulih dari status Weakness Break tidak dapat terkena \"Thanatoplum Rebloom\" lagi.",
+      "desc": "Ruan Mei membuka sebuah Field yang berlangsung selama {2} giliran. Durasi giliran Field akan berkurang 1 setiap kali giliran Ruan Mei dimulai.\\nSeluruh rekan tim yang berada dalam Field akan mendapat peningkatan <span style=\"color: #f29e38ff\">{1}</span> RES PEN Seluruh Tipe, dan setelah menyerang, akan menambahkan \"Thanatoplum Rebloom\" pada target musuh.\\n\"Thanatoplum Rebloom\" akan terpicu saat target musuh mencoba pulih dari status <u>Weakness Break</u>, memperpanjang status <u>Weakness Break</u> yang dimilikinya dan <u>menunda aksinya</u>. Penundaan aksinya adalah sebesar {3} Break Effect Ruan Mei + {4}, serta mengakibatkan <u>Break DMG</u> pada target tersebut sebesar <span style=\"color: #f29e38ff\">{5}</span> Ice Break DMG Ruan Mei.\\nTarget musuh yang belum pulih dari status <u>Weakness Break</u> tidak dapat terkena \"Thanatoplum Rebloom\" lagi.",
       "values": [
         [
           15,
@@ -7448,7 +7448,7 @@
     },
     "talent": {
       "name": "Somatotypical Helix",
-      "desc": "Meningkatkan <span style=\"color: #f29e38ff\">{1}</span> SPD seluruh rekan tim selain diri sendiri. Saat mengakibatkan Weakness Break pada target musuh (berlaku untuk seluruh rekan tim), Ruan Mei akan mengakibatkan Break DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> Ice Break DMG Ruan Mei pada musuh tersebut.",
+      "desc": "Meningkatkan <span style=\"color: #f29e38ff\">{1}</span> SPD seluruh rekan tim selain diri sendiri. Saat mengakibatkan Weakness Break pada target musuh (berlaku untuk seluruh rekan tim), Ruan Mei akan mengakibatkan Break DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> Ice <u>Break DMG</u> Ruan Mei pada musuh tersebut.",
       "values": [
         [
           8,
@@ -8390,7 +8390,7 @@
     },
     "ultimate": {
       "name": "Slashed Dream Cries in Red",
-      "desc": "Melancarkan \"Rainblade\" 3 kali berturut-turut dan \"Stygian Resurge\" 1 kali, mengakibatkan Lightning DMG pada 1 musuh yang ditargetkan maksimal hingga sebesar <span style=\"color: #f29e38ff\">{6}</span> ATK Acheron, serta mengakibatkan Lightning DMG maksimal hingga sebesar <span style=\"color: #f29e38ff\">{7}</span> ATK Acheron pada target lainnya.\\n\"Rainblade\": Mengakibatkan Lightning DMG pada 1 musuh yang ditargetkan sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Acheron, dan menghilangkan maksimal hingga 3 lapis \"Crimson Knot\" dari target. Saat \"Crimson Knot\" dihilangkan, akan segera mengakibatkan Lightning DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Acheron pada seluruh musuh, dan DMG Multiplier dari serangan ini akan meningkat untuk setiap 1 lapis \"Crimson Knot\" yang dihilangkan, maksimal meningkat hingga <span style=\"color: #f29e38ff\">{5}</span>.\\n\"Stygian Resurge\": Mengakibatkan Lightning DMG sebesar <span style=\"color: #f29e38ff\">{3}</span> ATK Acheron pada seluruh musuh dan menghapus seluruh \"Crimson Knot\".\\nSaat Ultimate berlangsung, \"Crimson Knot\" tidak dapat ditambahkan pada musuh.",
+      "desc": "Melancarkan \"Rainblade\" 3 kali berturut-turut dan \"Stygian Resurge\" 1 kali, mengakibatkan Lightning DMG pada 1 musuh yang ditargetkan maksimal hingga sebesar <span style=\"color: #f29e38ff\">{6}</span> ATK Acheron, serta mengakibatkan Lightning DMG maksimal hingga sebesar <span style=\"color: #f29e38ff\">{7}</span> ATK Acheron pada target lainnya.\\n\\n\"Rainblade\": Mengakibatkan Lightning DMG pada 1 musuh yang ditargetkan sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Acheron, dan menghilangkan maksimal hingga 3 lapis \"Crimson Knot\" dari target. Saat \"Crimson Knot\" dihilangkan, akan segera mengakibatkan Lightning DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Acheron pada seluruh musuh, dan DMG Multiplier dari serangan ini akan meningkat untuk setiap 1 lapis \"Crimson Knot\" yang dihilangkan, maksimal meningkat hingga <span style=\"color: #f29e38ff\">{5}</span>.\\n\\n\"Stygian Resurge\": Mengakibatkan Lightning DMG sebesar <span style=\"color: #f29e38ff\">{3}</span> ATK Acheron pada seluruh musuh dan menghapus seluruh \"Crimson Knot\".\\n\\nSaat Ultimate berlangsung, \"Crimson Knot\" tidak dapat ditambahkan pada musuh.",
       "values": [
         [
           14.4,
@@ -8510,7 +8510,7 @@
     },
     "talent": {
       "name": "Atop Rainleaf Hangs Oneness",
-      "desc": "Saat \"Slashed Dream\" mencapai {1} poin, Ultimate dapat diaktifkan. Selama Ultimate berlangsung, akan mengabaikan Tipe Weakness dan mengurangi Toughness musuh, serta mengurangi <span style=\"color: #f29e38ff\">{2}</span> RES Seluruh Tipe milik seluruh musuh, berlangsung hingga Ultimate berakhir.\\nSaat unit mana pun melancarkan kemampuan dan kemampuan tersebut membuat target musuh memasuki status Debuff, Acheron akan memperoleh 1 poin \"Slashed Dream\" dan menambahkan 1 lapis \"Crimson Knot\" pada target. Jika unit tersebut membuat banyak target memasuki status Debuff, maka akan menambahkan 1 lapis \"Crimson Knot\" pada target musuh dengan \"Crimson Knot\" terbanyak. Efek ini dapat dipicu 1 kali per aksi.\\nSaat Acheron berada di medan pertempuran, setelah target musuh meninggalkan medan pertempuran atau dikalahkan, maka \"Crimson Knot\" yang dimilikinya akan ditransfer ke target musuh yang memiliki \"Crimson Knot\" terbanyak.",
+      "desc": "Saat \"Slashed Dream\" mencapai {1} poin, Ultimate dapat diaktifkan. Selama Ultimate berlangsung, akan mengabaikan Tipe Weakness dan mengurangi Toughness musuh, serta mengurangi <span style=\"color: #f29e38ff\">{2}</span> RES Seluruh Tipe milik seluruh musuh, berlangsung hingga Ultimate berakhir.\\nSaat unit mana pun melancarkan kemampuan dan kemampuan tersebut membuat target musuh memasuki status Debuff, Acheron akan memperoleh 1 poin \"Slashed Dream\" dan menambahkan 1 lapis \"Crimson Knot\" pada target. Jika unit tersebut membuat banyak target memasuki status Debuff, maka akan menambahkan 1 lapis \"Crimson Knot\" pada target musuh dengan \"Crimson Knot\" terbanyak. Efek ini hanya dapat dipicu 1 kali per pelancaran kemampuan.\\nSaat Acheron berada di medan pertempuran, setelah target musuh meninggalkan medan pertempuran atau dikalahkan, maka \"Crimson Knot\" yang dimilikinya akan ditransfer ke target musuh yang memiliki \"Crimson Knot\" terbanyak.",
       "values": [
         [
           9
@@ -8584,6 +8584,184 @@
       ],
       "format": [
         ""
+      ]
+    }
+  },
+  "robin": {
+    "attack": {
+      "name": "Wingflip White Noise",
+      "desc": "Mengakibatkan Physical DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Robin pada 1 musuh yang ditargetkan.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Pinion's Aria",
+      "desc": "Meningkatkan <span style=\"color: #f29e38ff\">{1}</span> DMG yang diakibatkan seluruh rekan tim, berlangsung selama {2} giliran. Setiap kali giliran Robin dimulai, durasi efek ini akan berkurang 1 giliran.",
+      "values": [
+        [
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          57,
+          60,
+          63
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Vox Harmonique, Opus Cosmique",
+      "desc": "Robin memasuki status \"Concerto\", membuat rekan tim selain dirinya segera beraksi.\\nSaat berstatus \"Concerto\", meningkatkan ATK seluruh rekan tim, peningkatannya adalah sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Robin + <span style=\"color: #f29e38ff\">{3}</span>, dan setiap kali setelah rekan tim melancarkan serangan, Robin akan mengakibatkan 1 kali Physical <u>DMG tambahan</u> sebesar <span style=\"color: #f29e38ff\">{4}</span> ATK dirinya (serangan ini memiliki CRIT Rate tetap sebesar {5} dan CRIT DMG tetap sebesar {6}).\\nSaat berstatus \"Concerto\", Robin kebal terhadap <u>Crowd Control Debuff</u>, dan Robin tidak akan memasuki gilirannya serta tidak dapat beraksi hingga hitung mundur berakhir.\\nHitung mundur \"Concerto\" akan muncul di Susunan Aksi. Saat giliran hitung mundur dimulai, Robin akan keluar dari status \"Concerto\" dan segera beraksi. Hitung mundur memiliki SPD tetap sebesar {2}.",
+      "values": [
+        [
+          15.2,
+          16,
+          16.7,
+          17.5,
+          18.2,
+          19,
+          20,
+          20.9,
+          21.9,
+          22.8,
+          23.6,
+          24.3,
+          25.1,
+          25.8,
+          26.6
+        ],
+        [
+          90
+        ],
+        [
+          50,
+          65,
+          80,
+          95,
+          110,
+          125,
+          144,
+          163,
+          181,
+          200,
+          215,
+          230,
+          245,
+          260,
+          275
+        ],
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ],
+        [
+          100
+        ],
+        [
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Tonal Resonance",
+      "desc": "Meningkatkan <span style=\"color: #f29e38ff\">{1}</span> CRIT DMG seluruh rekan tim, dan Robin akan memulihkan {2} Energy tambahan untuk dirinya sendiri setelah rekan tim menyerang target musuh.",
+      "values": [
+        [
+          5,
+          6.5,
+          8,
+          9.5,
+          11,
+          12.5,
+          14.4,
+          16.3,
+          18.1,
+          20,
+          21.5,
+          23,
+          24.5,
+          26,
+          27.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Overture of Inebriation",
+      "desc": "Setelah melancarkan Technique, akan menciptakan Dimension di sekeliling dirinya yang berlangsung selama {1} detik. Musuh dalam Dimension tidak akan menyerang Robin dan akan mengikuti Robin selama Dimension aktif. Setelah memasuki pertempuran saat Dimension aktif, Robin akan memulihkan {2} Energy saat setiap gelombang pertempuran dimulai. Hanya boleh ada 1 efek Dimension ciptaan rekan tim dalam satu waktu.",
+      "values": [
+        [
+          15
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
       ]
     }
   },
@@ -8781,8 +8959,8 @@
   },
   "trailblazer": {
     "attack": {
-      "name": "Ice-Breaking Light",
-      "desc": "Mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Trailblazer pada satu musuh yang ditarget dan memperoleh 1 lapis \"Magma Will\".",
+      "name": "Swing Dance Etiquette",
+      "desc": "Mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Trailblazer pada 1 musuh yang ditargetkan.",
       "values": [
         [
           50,
@@ -8801,191 +8979,115 @@
       ]
     },
     "skill": {
-      "name": "Ever-Burning Amber",
-      "desc": "Setelah melancarkan Skill, mengurangi <span style=\"color: #f29e38ff\">{1}</span> DMG yang diterima Trailblazer dan memperoleh 1 lapis \"Magma Will\", serta memiliki {2} <u>peluang dasar</u> untuk membuat musuh memasuki status \"Taunt\" selama {3} giliran.",
+      "name": "Halftime to Make It Rain",
+      "desc": "Mengakibatkan Imaginary DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Trailblazer pada 1 musuh yang ditargetkan, serta mengakibatkan 4 kali DMG tambahan, yang setiap DMG-nya akan mengakibatkan Imaginary DMG pada musuh secara acak sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Trailblazer.",
       "values": [
         [
-          40,
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
           41,
-          42,
-          43,
           44,
-          45,
-          46,
-          48,
-          49,
+          47,
           50,
-          51,
-          52,
           53,
-          54,
-          55
+          55,
+          57,
+          60,
+          63
         ],
         [
-          100
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]%",
-        "[i]"
+        ""
       ]
     },
     "ultimate": {
-      "name": "War-Flaming Lance",
-      "desc": "Mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK +<span style=\"color: #f29e38ff\">{2}</span> DEF Trailblazer pada seluruh musuh. Saat melancarkan Basic Attack selanjutnya, Trailblazer akan otomatis memperoleh peningkatan tanpa mengonsumsi \"Magma Will\".",
+      "name": "All-Out Footlight Parade",
+      "desc": "Menambahkan efek \"Backup Dancer\" pada seluruh rekan tim, berlangsung selama {1} giliran. Durasi giliran akan berkurang 1 setiap kali giliran Trailblazer dimulai. Break Effect rekan tim berstatus \"Backup Dancer\" akan meningkat <span style=\"color: #f29e38ff\">{3}</span>, dan setelah menyerang target musuh berstatus <u>Weakness Break</u>, akan mengubah pengurangan nilai Toughness dari serangan kali ini menjadi 1 kali <u>Super Break DMG</u>.",
       "values": [
         [
-          50,
-          55,
-          60,
-          65,
-          70,
-          75,
-          81,
-          88,
-          94,
-          100,
-          105,
-          110,
-          115,
-          120,
-          125
+          3
         ],
         [
-          75,
-          83,
-          90,
-          98,
-          105,
-          113,
-          122,
-          131,
-          141,
-          150,
-          158,
-          165,
-          173,
-          180,
-          188
+          1
+        ],
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
         ]
       ],
       "format": [
-        "[i]%",
+        "[i]",
+        "",
         "[i]%"
       ]
     },
     "talent": {
-      "name": "Treasure of the Architects",
-      "desc": "Setiap 1 serangan yang diterima akan menambah 1 lapis \"Magma Will\", maksimal hingga {3} lapis.\\nSaat jumlah \"Magma Will\" tidak kurang dari 4 lapis, Basic Attack akan memperoleh peningkatan dan dapat mengakibatkan DMG pada satu target musuh dan target di sekitarnya.\\nSetelah Trailblazer melancarkan Basic Attack, Skill, atau Ultimate, akan memberikan Shield yang dapat menahan DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> DEF Trailblazer +<span style=\"color: #f29e38ff\">{4}</span> selama {2} giliran pada seluruh rekan tim.",
+      "name": "Full-on Aerial Dance",
+      "desc": "Saat ada target musuh yang terkena Weakness Break, Trailblazer akan segera memulihkan <span style=\"color: #f29e38ff\">{1}</span> Energy.",
       "values": [
         [
-          4,
-          4.3,
-          4.5,
-          4.8,
           5,
-          5.2,
-          5.4,
-          5.6,
-          5.8,
+          5.5,
           6,
-          6.2,
-          6.4,
-          6.6,
-          6.8,
-          7
-        ],
-        [
-          2
-        ],
-        [
-          8
-        ],
-        [
-          20,
-          32,
-          41,
-          50,
-          56,
-          62,
-          67,
-          71,
-          76,
-          80,
-          85,
-          89,
-          94,
-          98,
-          103
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.8,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
         ]
       ],
       "format": [
-        "[f1]%",
-        "[i]",
-        "[i]",
-        "[i]"
+        "[f1]"
       ]
     },
     "mazeattack": {
       "name": "Attack",
-      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Call of the Guardian",
-      "desc": "Setelah menggunakan Technique, memberikan Shield yang dapat menahan DMG sebesar {1} DEF Trailblazer +{2} selama {3} giliran saat pertempuran selanjutnya dimulai.",
+      "name": "Now! I'm the Band!",
+      "desc": "Setelah melancarkan Technique, saat pertempuran berikutnya dimulai, Break Effect seluruh rekan tim akan meningkat {1} selama {2} giliran.",
       "values": [
         [
           30
         ],
         [
-          384
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]",
         "[i]"
-      ]
-    },
-    "undefined": {
-      "name": "Ice-Breaking Light",
-      "desc": "Mengonsumsi 4 lapis \"Magma Will\" untuk memperkuat Basic Attack, mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Trailblazer pada 1 target musuh, dan di saat bersamaan mengakibatkan Fire DMG sebesar <span style=\"color: #f29e38ff\">{2}</span> ATK Trailblazer pada musuh di sekitar target.",
-      "values": [
-        [
-          90,
-          99,
-          108,
-          117,
-          126,
-          135,
-          146,
-          158,
-          169
-        ],
-        [
-          36,
-          40,
-          43,
-          47,
-          50,
-          54,
-          59,
-          63,
-          68
-        ]
-      ],
-      "format": [
-        "[i]%",
-        "[i]%"
       ]
     }
   }

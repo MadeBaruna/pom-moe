@@ -359,6 +359,14 @@
     "rarity": 5,
     "background": "Lữ khách tự xưng là \"Cảnh Binh Thiên Hà\", tên thật không rõ.\\nĐeo thanh đao dài trên người, độc hành trong ngân hà."
   },
+  "robin": {
+    "id": "robin",
+    "name": "Robin",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Sinh ra ở Penacony, ca sĩ Tộc Halovian nổi tiếng vũ trụ, cô gái có phong thái trầm tĩnh và thanh lịch.\\nLần này được Gia Tộc mời về cố hương, để hát tặng cho mọi người trong \"Đại Nhạc Hội Hòa Hợp\".\\nCó thể dựa vào sức mạnh của \"Hòa Hợp\" để truyền tải giọng hát, thể hiện \"cộng hưởng\" giữa người hâm mộ và cả sinh linh vạn giới."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",
@@ -373,6 +381,6 @@
     "path": "adaptive",
     "element": "adaptive",
     "rarity": 5,
-    "background": "Thiếu nữ/Thiếu niên lên Đội Tàu Astral.\\nĐể diệt trừ hiểm họa mà Stellaron mang đến, đã quyết định đồng hành cùng đoàn tàu."
+    "background": "Thiếu nữ/Thiếu niên lên Đội Tàu Astral.\\nĐể diệt trừ hiểm họa mà Stellaron mang đến, đã quyết định đồng hành cùng đội tàu."
   }
 }

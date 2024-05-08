@@ -384,21 +384,21 @@
           250
         ],
         [
-          0,
-          8,
-          16,
-          24,
-          32,
           40,
-          50,
+          44,
+          48,
+          52,
+          56,
           60,
+          65,
           70,
+          75,
           80,
+          84,
           88,
+          92,
           96,
-          104,
-          112,
-          120
+          100
         ]
       ],
       "format": [
@@ -7014,7 +7014,7 @@
     },
     "ultimate": {
       "name": "C'est ma tournée !",
-      "desc": "Applique l'effet Ivresse à tous les ennemis pendant {2} tours. D'autre part, inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Gallagher à tous les ennemis et la prochaine ATQ normale de Gallagher est renforcée en Coup de fouet.",
+      "desc": "Applique l'effet Ivresse à tous les ennemis pendant {2} tours. D'autre part, inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Gallagher à tous les ennemis et renforce sa prochaine ATQ normale en Coup de fouet.",
       "values": [
         [
           75,
@@ -7044,7 +7044,7 @@
     },
     "talent": {
       "name": "Ébriété destructrice",
-      "desc": "L'effet Ivresse augmente de <span style=\"color: #f29e38ff\">{1}</span> les DGT de rupture subis par les cibles. Chaque fois qu'une cible affectée par Ivresse est attaquée par un allié, l'assaillant récupère <span style=\"color: #f29e38ff\">{2}</span> PV.",
+      "desc": "L'effet Ivresse augmente de <span style=\"color: #f29e38ff\">{1}</span> les <u>DGT de rupture</u> subis par les cibles. Chaque fois qu'une cible affectée par Ivresse est attaquée par un allié, l'assaillant récupère <span style=\"color: #f29e38ff\">{2}</span> PV.",
       "values": [
         [
           6,
@@ -7094,7 +7094,7 @@
     },
     "technique": {
       "name": "Sans modération",
-      "desc": "Engage immédiatement le combat contre les ennemis. Inflige Ivresse à tous les ennemis pour une durée de {1} tours en entrant en combat. Et inflige des DGT de feu équivalents à {2} de l'ATQ de Gallagher à tous les ennemis.",
+      "desc": "Engage immédiatement le combat contre les ennemis. Inflige Ivresse à tous les ennemis pour une durée de {1} tours en entrant en combat et inflige des DGT de feu équivalents à {2} de l'ATQ de Gallagher à tous les ennemis.",
       "values": [
         [
           2
@@ -7392,7 +7392,7 @@
     },
     "ultimate": {
       "name": "Ondée de pétales",
-      "desc": "Ruan Mei déploie un champ qui dure {2} tours. La durée de ce champ diminue de 1 au début de son tour.\\nLa PÉN de RÉS à tous les types de tous les alliés augmente de <span style=\"color: #f29e38ff\">{1}</span> lorsqu'ils se trouvent à l'intérieur du champ et leurs attaques appliquent Floraison incomplète aux ennemis touchés.\\nFloraison incomplète se déclenche lorsque ces ennemis tentent de se rétablir d'une Rupture de faiblesse, ce qui prolonge la durée de leur état de Rupture de faiblesse et retarde leur action à hauteur de {3} de l'effet de Rupture de Ruan Mei + {4}, tout en infligeant des DGT de rupture équivalents à <span style=\"color: #f29e38ff\">{5}</span> des DGT de rupture de glace de Ruan Mei.\\nLes cibles ennemies ne peuvent pas subir à nouveau Floraison incomplète tant qu'elles n'ont pas récupéré de l'état de Rupture de faiblesse.",
+      "desc": "Ruan Mei déploie un champ qui dure {2} tours. La durée de ce champ diminue de 1 au début de son tour.\\nLa PÉN de RÉS à tous les types de tous les alliés augmente de <span style=\"color: #f29e38ff\">{1}</span> lorsqu'ils se trouvent à l'intérieur du champ et leurs attaques appliquent Floraison incomplète aux ennemis touchés.\\nFloraison incomplète se déclenche lorsque ces ennemis tentent de se rétablir d'une <u>Rupture de faiblesse</u>, ce qui prolonge la durée de leur état de <u>Rupture de faiblesse</u> et <u>retarde leur action</u> à hauteur de {3} de l'effet de Rupture de Ruan Mei + {4}, tout en infligeant des DGT de rupture équivalents à <span style=\"color: #f29e38ff\">{5}</span> des <u>DGT de rupture</u> de glace de Ruan Mei.\\nLes cibles ennemies ne peuvent pas subir à nouveau Floraison incomplète tant qu'elles n'ont pas récupéré de l'état de <u>Rupture de faiblesse</u>.",
       "values": [
         [
           15,
@@ -7448,7 +7448,7 @@
     },
     "talent": {
       "name": "Spirale fractale",
-      "desc": "Augmente de <span style=\"color: #f29e38ff\">{1}</span> la VIT de toute l'équipe (à l'exception de ce personnage). Lorsqu'un allié inflige une Rupture de faiblesse à une cible ennemie, Ruan Mei inflige des DGT de rupture équivalents à <span style=\"color: #f29e38ff\">{2}</span> de ses DGT de rupture de glace à cette cible.",
+      "desc": "Augmente la VIT de toute l'équipe de <span style=\"color: #f29e38ff\">{1}</span> (à l'exception de ce personnage). Lorsqu'un allié inflige une Rupture de faiblesse à une cible ennemie, Ruan Mei inflige des DGT de rupture équivalents à <span style=\"color: #f29e38ff\">{2}</span> de ses propres <u>DGT de rupture</u> de glace à cette cible.",
       "values": [
         [
           8,
@@ -7544,7 +7544,7 @@
     },
     "skill": {
       "name": "Pierre angulaire de la prospérité",
-      "desc": "Accorde à tous les alliés un bouclier de Mise renforcée qui peut bloquer des DGT équivalents à <span style=\"color: #f29e38ff\">{1}</span> de la DÉF d'Aventurine + <span style=\"color: #f29e38ff\">{2}</span>pendant {3} tours. Lorsque l'effet Mise renforcée est obtenu à plusieurs reprises, la valeur de bouclier peut se cumuler jusqu'à {4} du bouclier fourni par la compétence actuelle.",
+      "desc": "Accorde à tous les alliés un bouclier de Mise renforcée qui peut bloquer des DGT équivalents à <span style=\"color: #f29e38ff\">{1}</span> de la DÉF d'Aventurine + <span style=\"color: #f29e38ff\">{2}</span> pendant {3} tours. Lorsque l'effet Mise renforcée est obtenu à plusieurs reprises, la valeur de bouclier peut se cumuler jusqu'à {4} du bouclier fourni par la compétence actuelle.",
       "values": [
         [
           16,
@@ -7648,7 +7648,7 @@
     },
     "talent": {
       "name": "Visé juste",
-      "desc": "Augmente de <span style=\"color: #f29e38ff\">{4}</span> la RÉS aux effets d'un allié qui bénéficie de Mise renforcée. Aventurine récupère 1 Pari aveugle chaque fois qu'un allié qui bénéficie de Mise renforcée subit une attaque. Lorsqu'Aventurine bénéficie de Mise renforcée, il peut résister aux <u>malus de contrôle</u> 1 fois tous les {5} tours et il récupère {1} Pari aveugle supplémentaire lorsqu'il est attaqué. À 7 Paris aveugles, Aventurine utilise tous les paris pour lancer une <u>attaque de suivi</u> qui inflige {2} frappes. Chacune de ces frappes inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{3}</span> de la DÉF d'Aventurine à un ennemi aléatoire. Aventurine peut cumuler un maximum de 10 Paris aveugles.",
+      "desc": "Tout allié qui bénéficie de Mise renforcée voit sa RÉS aux effets augmenter de <span style=\"color: #f29e38ff\">{4}</span>, et chaque fois qu'il est attaqué, Aventurine récupère 1 Pari aveugle. Lorsqu'Aventurine bénéficie de Mise renforcée, il peut résister aux <u>malus de contrôle</u> 1 fois tous les {5} tours et il récupère {1} Pari aveugle supplémentaire lorsqu'il est attaqué. À 7 Paris aveugles, Aventurine utilise tous les paris pour lancer une <u>attaque de suivi</u> qui inflige {2} frappes. Chacune de ces frappes inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{3}</span> de la DÉF d'Aventurine à un ennemi aléatoire. Aventurine peut cumuler un maximum de 10 Paris aveugles.",
       "values": [
         [
           1
@@ -7852,7 +7852,7 @@
     },
     "technique": {
       "name": "Fascination façonnée",
-      "desc": "Crée une dimension qui provoque les ennemis à proximité pendant {1} secondes après avoir utilisé la technique. Il y a {2} de <u>chances de base</u> de réduire de {3} la VIT de chaque cible ennemie pendant {4} tours en engageant le combat avec des ennemis dans la dimension. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "desc": "Crée une dimension spéciale qui provoque les ennemis proches pendant {1} secondes après avoir utilisé la technique. Il y a {2} de <u>chances de base</u> de réduire la VIT des ennemis de {3} pendant {4} tours en engageant le combat avec des ennemis dans la dimension. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
       "values": [
         [
           10
@@ -8390,7 +8390,7 @@
     },
     "ultimate": {
       "name": "Rêve flétri écarlate",
-      "desc": "Déclenche Lame de pluie 3 fois de suite et Vengeance du Styx 1 fois, infligeant des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{6}</span> de l'ATQ d'Achéron à une cible ennemie unique, et des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{7}</span> de l'ATQ d'Achéron aux autres ennemis.\\n\\nLame de pluie : Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ d'Achéron à une cible ennemie unique et supprime jusqu'à 3 cumuls d'Étreinte écarlate à la cible. Lorsque l'effet Étreinte écarlate est supprimé, inflige immédiatement des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ d'Achéron à tous les ennemis. Le multiplicateur de cette instance de DGT augmente pour chaque cumul d'Étreinte écarlate supprimé, jusqu'à un maximum de <span style=\"color: #f29e38ff\">{5}</span>.\\n\\nVengeance du Styx : Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{3}</span> de l'ATQ d'Achéron à tous les ennemis et supprime tous les effets d'Étreinte écarlate.\\nL'effet Étreinte écarlate ne peut pas être appliqué aux ennemis pendant l'ultime.",
+      "desc": "Déclenche Lame de pluie 3 fois de suite et Vengeance du Styx 1 fois, infligeant des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{6}</span> de l'ATQ d'Achéron à une cible ennemie unique, et des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{7}</span> de l'ATQ d'Achéron aux autres cibles.\\n\\nLame de pluie : Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ d'Achéron à une cible ennemie unique et supprime jusqu'à 3 cumuls d'Étreinte écarlate de la cible. Lorsque l'effet Étreinte écarlate est supprimé, inflige immédiatement des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{2}</span> de l'ATQ d'Achéron à tous les ennemis. Le multiplicateur de cette instance de DGT augmente pour chaque cumul d'Étreinte écarlate supprimé, jusqu'à un maximum de <span style=\"color: #f29e38ff\">{5}</span>.\\n\\nVengeance du Styx : Inflige des DGT de foudre équivalents à <span style=\"color: #f29e38ff\">{3}</span> de l'ATQ d'Achéron à tous les ennemis et supprime tous les effets d'Étreinte écarlate.\\n\\nL'effet Étreinte écarlate ne peut pas être appliqué à des ennemis pendant l'ultime.",
       "values": [
         [
           14.4,
@@ -8510,7 +8510,7 @@
     },
     "talent": {
       "name": "Pluie de feuillages rouges",
-      "desc": "L'ultime peut être activé quand Rêve flétri atteint {1} points. Pendant l'ultime, la robustesse des ennemis est réduite quels que soient leurs types de faiblesse, ainsi que toutes leurs RÉS de type de <span style=\"color: #f29e38ff\">{2}</span> jusqu'à la fin de l'ultime.\\nLorsqu'une unité applique un malus à une cible ennemie en utilisant une de ses capacités, Achéron gagne 1 point de Rêve flétri et applique 1 cumul d'Étreinte écarlate à cette cible ennemie. Si des malus sont appliqués à plusieurs ennemis, alors le cumul d'Étreinte écarlate est infligé à l'ennemi ayant le plus de cumuls d'Étreinte écarlate. Cet effet ne peut être déclenché qu'1 fois par utilisation de la capacité.\\nLorsqu'Achéron est sur le champ de bataille et après qu'une cible ennemie a quitté le champ de bataille ou a été vaincue, ses cumuls d'Étreinte écarlate sont transférés à la cible ennemie qui a le plus de cumuls d'Étreinte écarlate sur tout le champ de bataille.",
+      "desc": "L'ultime peut être activé quand Rêve flétri atteint {1} points. Pendant l'ultime, la robustesse des ennemis est réduite quels que soient leurs types de faiblesse, ainsi que toutes leurs RÉS de type de <span style=\"color: #f29e38ff\">{2}</span> jusqu'à la fin de l'ultime.\\nLorsqu'une unité applique un malus à une cible ennemie en utilisant une de ses capacités, Achéron gagne 1 point de Rêve flétri et applique 1 cumul d'Étreinte écarlate à une cible ennemie. Si des malus sont appliqués à plusieurs ennemis, alors le cumul d'Étreinte écarlate est infligé à l'ennemi ayant le plus de cumuls d'Étreinte écarlate. Cet effet ne peut être déclenché qu'1 fois par utilisation de la capacité.\\nLorsqu'Achéron est sur le champ de bataille et après qu'une cible ennemie a quitté le champ de bataille ou a été vaincue, ses cumuls d'Étreinte écarlate sont transférés à la cible ennemie qui a le plus de cumuls d'Étreinte écarlate sur tout le champ de bataille.",
       "values": [
         [
           9
@@ -8584,6 +8584,184 @@
       ],
       "format": [
         ""
+      ]
+    }
+  },
+  "robin": {
+    "attack": {
+      "name": "Battement d'aile silencieux",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Robin à une cible ennemie unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Aria de la plume",
+      "desc": "Augmente les DGT infligés par tous les alliés de <span style=\"color: #f29e38ff\">{1}</span>. Dure {2} tours. Cette durée diminue de 1 au début de chaque tour de Robin.",
+      "values": [
+        [
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          57,
+          60,
+          63
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Vox Harmonique, Opus Cosmique",
+      "desc": "Robin entre dans l'état Concerto, et permet à tous les alliés d'attaquer immédiatement.\\nLorsque Robin est dans l'état Concerto, l'attaque de tous les alliés augmente à hauteur de <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ de Robin + <span style=\"color: #f29e38ff\">{3}</span>. D'autre part, après chaque attaque d'un allié, Robin inflige des <u>DGT physiques additionnels</u> équivalents à <span style=\"color: #f29e38ff\">{4}</span> de son ATQ 1 fois, avec des chances de coup critique fixées à {5} et des DGT critiques fixés à {6}.\\nLorsque Robin est dans l'état Concerto, elle devient immunisée aux <u>malus de contrôle</u> et ne peut ni agir ni jouer son tour tant que l'état Concerto n'est pas terminé.\\nUn compte à rebours pour Concerto s'affiche dans la barre d'ordre d'action. Lorsque ce compte à rebours débute, Robin quitte l'état Concerto et agit immédiatement. Le compte à rebours a sa propre VIT fixe qui est de {2}.",
+      "values": [
+        [
+          15.2,
+          16,
+          16.7,
+          17.5,
+          18.2,
+          19,
+          20,
+          20.9,
+          21.9,
+          22.8,
+          23.6,
+          24.3,
+          25.1,
+          25.8,
+          26.6
+        ],
+        [
+          90
+        ],
+        [
+          50,
+          65,
+          80,
+          95,
+          110,
+          125,
+          144,
+          163,
+          181,
+          200,
+          215,
+          230,
+          245,
+          260,
+          275
+        ],
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ],
+        [
+          100
+        ],
+        [
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Résonance du chœur",
+      "desc": "Augmente les DGT critiques de tous les alliés de <span style=\"color: #f29e38ff\">{1}</span>. D'autre part, Robin régénère {2} points d'énergie lorsqu'un allié attaque une cible ennemie.",
+      "values": [
+        [
+          5,
+          6.5,
+          8,
+          9.5,
+          11,
+          12.5,
+          14.4,
+          16.3,
+          18.1,
+          20,
+          21.5,
+          23,
+          24.5,
+          26,
+          27.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Attaque un ennemi et réduit sa robustesse au type correspondant en entrant en combat.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Prélude à l'ivresse",
+      "desc": "Crée une dimension spéciale autour du personnage qui dure {1} secondes après avoir utilisé la technique. Les ennemis qui s'y trouvent n'attaquent pas Robin et la suivent tant que la dimension est active. Robin régénère {2} points d'énergie au début de chaque vague lorsque le combat est engagé alors que la dimension est active. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+      "values": [
+        [
+          15
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
       ]
     }
   },
@@ -8781,8 +8959,8 @@
   },
   "trailblazer": {
     "attack": {
-      "name": "Feu fendeur de glace",
-      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ {M#du pionnier}{F#de la pionnière} à un ennemi unique et gagne 1 cumul de Volonté du magma.",
+      "name": "Coup de chapeau",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ {M#du pionnier}{F#de la pionnière} à un ennemi unique.",
       "values": [
         [
           50,
@@ -8801,133 +8979,93 @@
       ]
     },
     "skill": {
-      "name": "Ambre incandescent",
-      "desc": "Augmente la réduction de DGT {M#du pionnier}{F#de la pionnière} de <span style=\"color: #f29e38ff\">{1}</span> et lui accorde 1 cumul de Volonté du magma, avec {2} de <u>chances de base</u> de provoquer tous les ennemis pendant {3} tour.",
+      "name": "Pluie d'applaudissements",
+      "desc": "Inflige des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ {M#du pionnier}{F#de la pionnière} à un ennemi unique et inflige des DGT 4 fois supplémentaires, infligeant à chaque fois des DGT imaginaires équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ {M#du pionnier}{F#de la pionnière} à un ennemi aléatoire.",
       "values": [
         [
-          40,
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
           41,
-          42,
-          43,
           44,
-          45,
-          46,
-          48,
-          49,
+          47,
           50,
-          51,
-          52,
           53,
-          54,
-          55
+          55,
+          57,
+          60,
+          63
         ],
         [
-          100
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]%",
-        "[i]"
+        ""
       ]
     },
     "ultimate": {
-      "name": "Lance de guerre enflammée",
-      "desc": "Inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ {M#du pionnier}{F#de la pionnière} + <span style=\"color: #f29e38ff\">{2}</span> de sa DÉF à tous les ennemis. La prochaine ATQ normale est automatiquement renforcée et ne coûte pas de Volonté du magma.",
+      "name": "Performance sur scène",
+      "desc": "Applique l'effet Soutien sur scène à tous les alliés, pour une durée de {1} tours. La durée de l'effet diminue de 1 tour au début de chaque tour {M#du pionnier}{F#de la pionnière}. L'effet de Rupture des alliés qui bénéficient de Soutien sur scène augmente de <span style=\"color: #f29e38ff\">{3}</span>. Lorsqu'ils attaquent des cibles ennemies qui sont en <u>état de Rupture de faiblesse</u>, la réduction de robustesse de cette attaque est convertie 1 fois en une instance de <u>DGT de rupture extrême</u>.",
       "values": [
         [
-          50,
-          55,
-          60,
-          65,
-          70,
-          75,
-          81,
-          88,
-          94,
-          100,
-          105,
-          110,
-          115,
-          120,
-          125
+          3
         ],
         [
-          75,
-          83,
-          90,
-          98,
-          105,
-          113,
-          122,
-          131,
-          141,
-          150,
-          158,
-          165,
-          173,
-          180,
-          188
+          1
+        ],
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
         ]
       ],
       "format": [
-        "[i]%",
+        "[i]",
+        "",
         "[i]%"
       ]
     },
     "talent": {
-      "name": "Trésor des Architectes",
-      "desc": "Chaque fois que {M#le pionnier}{F#la pionnière} est {M#touché}{F#touchée}, {M#il}{F#elle} obtient 1 cumul de Volonté du magma pour un maximum de {3} cumuls.\\nLorsque Volonté du magma atteint au moins 4 cumuls, l'ATQ normale {M#du pionnier}{F#de la pionnière} est renforcée, infligeant des DGT à un ennemi unique et aux ennemis adjacents.\\nLorsque {M#le pionnier}{F#la pionnière} utilise l'ATQ normale, la compétence ou l'ultime, {M#il}{F#elle} accorde un bouclier qui absorbe des DGT équivalents à <span style=\"color: #f29e38ff\">{1}</span> de sa propre DÉF + <span style=\"color: #f29e38ff\">{4}</span> à tous les alliés. Le bouclier dure {2} tours.",
+      "name": "Ballet aérien",
+      "desc": "{M#Le pionnier}{F#La pionnière} régénère immédiatement <span style=\"color: #f29e38ff\">{1}</span> points d'énergie lorsqu'une cible ennemie subit une Rupture de faiblesse.",
       "values": [
         [
-          4,
-          4.3,
-          4.5,
-          4.8,
           5,
-          5.2,
-          5.4,
-          5.6,
-          5.8,
+          5.5,
           6,
-          6.2,
-          6.4,
-          6.6,
-          6.8,
-          7
-        ],
-        [
-          2
-        ],
-        [
-          8
-        ],
-        [
-          20,
-          32,
-          41,
-          50,
-          56,
-          62,
-          67,
-          71,
-          76,
-          80,
-          85,
-          89,
-          94,
-          98,
-          103
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.8,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
         ]
       ],
       "format": [
-        "[f1]%",
-        "[i]",
-        "[i]",
-        "[i]"
+        "[f1]"
       ]
     },
     "mazeattack": {
@@ -8937,55 +9075,19 @@
       "format": []
     },
     "technique": {
-      "name": "Appel de la Gardienne",
-      "desc": "Après utilisation de la technique, gagne un bouclier qui absorbe des DGT équivalents à {1} de la DÉF {M#du pionnier}{F#de la pionnière} + {2} pendant {3} tour au début du combat suivant.",
+      "name": "Entrée fracassante",
+      "desc": "L'effet de Rupture de tous les alliés augmente de {1} pendant {2} tours au début du prochain combat après avoir utilisé la technique.",
       "values": [
         [
           30
         ],
         [
-          384
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]",
         "[i]"
-      ]
-    },
-    "undefined": {
-      "name": "Feu fendeur de glace",
-      "desc": "Consomme 4 cumuls de Volonté du magma pour renforcer l'ATQ normale, et inflige des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ {M#du pionnier}{F#de la pionnière} à un ennemi unique et des DGT de feu équivalents à <span style=\"color: #f29e38ff\">{2}</span> de son ATQ aux ennemis adjacents.",
-      "values": [
-        [
-          90,
-          99,
-          108,
-          117,
-          126,
-          135,
-          146,
-          158,
-          169
-        ],
-        [
-          36,
-          40,
-          43,
-          47,
-          50,
-          54,
-          59,
-          63,
-          68
-        ]
-      ],
-      "format": [
-        "[i]%",
-        "[i]%"
       ]
     }
   }

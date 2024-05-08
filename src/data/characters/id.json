@@ -359,6 +359,14 @@
     "rarity": 5,
     "background": "Seorang pengelana yang mengaku dirinya adalah \"Galaxy Ranger\". Nama aslinya tidak diketahui.\\nDia mengenakan sebilah pedang panjang, dan dia menelusuri alam semesta seorang diri."
   },
+  "robin": {
+    "id": "robin",
+    "name": "Robin",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Gadis yang anggun ini adalah penyanyi Halovian yang lahir di Penacony dan terkenal di seluruh penjuru alam semesta.\\nKali ini dia diundang oleh Family untuk kembali ke kampung halamannya dan mempersembahkan sebuah lagu di \"Festival Charmony\".\\nDia bisa menggunakan kekuatan \"Harmony\" untuk menyebarkan nyanyiannya, dan mewujudkan \"resonansi\" bukan hanya di antara para penggemarnya, tapi bahkan di antara segala makhluk hidup."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",

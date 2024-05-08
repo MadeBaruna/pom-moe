@@ -384,21 +384,21 @@
           250
         ],
         [
-          0,
-          8,
-          16,
-          24,
-          32,
           40,
-          50,
+          44,
+          48,
+          52,
+          56,
           60,
+          65,
           70,
+          75,
           80,
+          84,
           88,
+          92,
           96,
-          104,
-          112,
-          120
+          100
         ]
       ],
       "format": [
@@ -7044,7 +7044,7 @@
     },
     "talent": {
       "name": "Cuộc Chiến Say Ngà",
-      "desc": "\"Say Mèm\" sẽ tăng <span style=\"color: #f29e38ff\">{1}</span> Sát Thương Phá Vỡ mà mục tiêu phải chịu. Sau mỗi lần mục tiêu ở trạng thái \"Say Mèm\" bị nhân vật phe ta tấn công, sẽ hồi <span style=\"color: #f29e38ff\">{2}</span> HP cho người tấn công.",
+      "desc": "\"Say Mèm\" sẽ tăng <span style=\"color: #f29e38ff\">{1}</span> <u>Sát Thương Phá Vỡ</u> mà mục tiêu phải chịu. Sau mỗi lần mục tiêu ở trạng thái \"Say Mèm\" bị nhân vật phe ta tấn công, sẽ hồi <span style=\"color: #f29e38ff\">{2}</span> HP cho người tấn công.",
       "values": [
         [
           6,
@@ -7392,7 +7392,7 @@
     },
     "ultimate": {
       "name": "Hoa Rơi Chạm Nước Vương Vạt Áo",
-      "desc": "Ruan Mei triển khai kết giới, duy trì {2} hiệp, khi mỗi hiệp của bản thân bắt đầu, số hiệp duy trì kết giới sẽ giảm 1.\\nKhi ở trong kết giới, toàn thể phe ta tăng <span style=\"color: #f29e38ff\">{1}</span> Xuyên Kháng Toàn Thuộc Tính, đồng thời sau khi tấn công sẽ thi triển Mai Nở Phai Tàn lên kẻ địch.\\nMai Nở Phai Tàn sẽ kích hoạt khi kẻ địch cố gắng hồi phục từ trạng thái Phá Vỡ Điểm Yếu, kéo dài trạng thái Phá Vỡ Điểm Yếu của mục tiêu đồng thời khiến mục tiêu Trì Hoãn Hành Động bằng {3} Tấn Công Kích Phá của Ruan Mei +{4}, và gây cho kẻ đó Sát Thương Phá Vỡ tương đương <span style=\"color: #f29e38ff\">{5}</span> Sát Thương Phá Vỡ thuộc tính Băng của Ruan Mei.\\nTrước khi kẻ địch hồi phục khỏi trạng thái Phá Vỡ Điểm Yếu sẽ không thể bị đính kèm Mai Nở Phai Tàn nữa.",
+      "desc": "Ruan Mei triển khai kết giới, duy trì {2} hiệp, khi mỗi hiệp của bản thân bắt đầu, số hiệp duy trì kết giới sẽ giảm 1.\\nKhi ở trong kết giới, toàn thể phe ta tăng <span style=\"color: #f29e38ff\">{1}</span> Xuyên Kháng Toàn Thuộc Tính, đồng thời sau khi tấn công sẽ thi triển Mai Nở Phai Tàn lên kẻ địch.\\nMai Nở Phai Tàn sẽ kích hoạt khi kẻ địch cố gắng hồi phục từ <u>trạng thái Phá Vỡ Điểm Yếu</u>, kéo dài <u>trạng thái Phá Vỡ Điểm Yếu</u> của mục tiêu đồng thời khiến mục tiêu <u>Trì Hoãn Hành Động</u> bằng {3} Tấn Công Kích Phá của Ruan Mei +{4}, và gây cho kẻ đó <u>Sát Thương Phá Vỡ</u> tương đương <span style=\"color: #f29e38ff\">{5}</span> Sát Thương Phá Vỡ thuộc tính Băng của Ruan Mei.\\nTrước khi kẻ địch hồi phục khỏi <u>trạng thái Phá Vỡ Điểm Yếu</u> sẽ không thể bị đính kèm Mai Nở Phai Tàn nữa.",
       "values": [
         [
           15,
@@ -7448,7 +7448,7 @@
     },
     "talent": {
       "name": "Xoắn Ốc Phân Tách",
-      "desc": "Tăng <span style=\"color: #f29e38ff\">{1}</span> tốc độ cho cả đội (ngoại trừ bản thân). Khi toàn bộ phe ta phá vỡ Điểm Yếu của kẻ địch, Ruan Mei sẽ gây Sát Thương Phá Vỡ lên kẻ đó tương đương <span style=\"color: #f29e38ff\">{2}</span> Sát Thương Phá Vỡ thuộc tính Băng của bản thân.",
+      "desc": "Tăng <span style=\"color: #f29e38ff\">{1}</span> tốc độ cho cả đội (ngoại trừ bản thân). Khi toàn bộ phe ta phá vỡ Điểm Yếu của kẻ địch, Ruan Mei sẽ gây <u>Sát Thương Phá Vỡ</u> lên kẻ đó tương đương <span style=\"color: #f29e38ff\">{2}</span> Sát Thương Phá Vỡ thuộc tính Băng của bản thân.",
       "values": [
         [
           8,
@@ -8587,6 +8587,184 @@
       ]
     }
   },
+  "robin": {
+    "attack": {
+      "name": "Âm Thanh Trắng Vỗ Cánh",
+      "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Robin.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Khúc Hát Ngân Nga Của Đôi Cánh",
+      "desc": "Tăng <span style=\"color: #f29e38ff\">{1}</span> sát thương do toàn phe ta gây ra, duy trì {2} hiệp, mỗi khi bắt đầu hiệp của Robin, số hiệp duy trì giảm 1.",
+      "values": [
+        [
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          57,
+          60,
+          63
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Ngàn Âm Hợp Xướng, Tẩu Pháp Vạn Vì Sao",
+      "desc": "Khi Robin vào trạng thái Hợp Tấu, sẽ khiến đồng đội (ngoại trừ bản thân) lập tức hành động.\\nKhi trong trạng thái Hợp Tấu, tấn công của toàn thể phe ta tăng, giá trị tăng bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Robin +<span style=\"color: #f29e38ff\">{3}</span>. Sau mỗi lần mục tiêu phe ta tấn công, Robin sẽ gây thêm 1 lần <u>Sát Thương Vật Lý kèm theo</u> bằng <span style=\"color: #f29e38ff\">{4}</span> Tấn Công của bản thân, tỷ lệ Bạo Kích của sát thương này cố định là {5}, sát thương Bạo Kích cố định là {6}.\\nKhi trong trạng thái Hợp Tấu, Robin miễn dịch <u>Hiệu Ứng Xấu loại Khống Chế</u>, trước khi kết thúc trạng thái Hợp Tấu sẽ không vào hiệp của bản thân và không thể hành động.\\nKhi trên vị trí thứ tự hành động xuất hiện đếm ngược Hợp Tấu, thì lúc bắt đầu hiệp đếm ngược, Robin sẽ thoát khỏi trạng thái Hợp Tấu và lập tức hành động, thời gian đếm ngược cố định có {2} điểm Tốc Độ.",
+      "values": [
+        [
+          15.2,
+          16,
+          16.7,
+          17.5,
+          18.2,
+          19,
+          20,
+          20.9,
+          21.9,
+          22.8,
+          23.6,
+          24.3,
+          25.1,
+          25.8,
+          26.6
+        ],
+        [
+          90
+        ],
+        [
+          50,
+          65,
+          80,
+          95,
+          110,
+          125,
+          144,
+          163,
+          181,
+          200,
+          215,
+          230,
+          245,
+          260,
+          275
+        ],
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ],
+        [
+          100
+        ],
+        [
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Điệp Khúc Du Dương",
+      "desc": "Tăng <span style=\"color: #f29e38ff\">{1}</span> Sát Thương Bạo Kích cho toàn phe ta, và sau khi mục tiêu phe ta tấn công phe địch, Robin sẽ hồi thêm cho bản thân {2} Năng Lượng.",
+      "values": [
+        [
+          5,
+          6.5,
+          8,
+          9.5,
+          11,
+          12.5,
+          14.4,
+          16.3,
+          18.1,
+          20,
+          21.5,
+          23,
+          24.5,
+          26,
+          27.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của kẻ địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Khúc Dạo Đầu Say Men",
+      "desc": "Sau khi thi triển Bí Kỹ, sẽ tạo ra một vùng đặc biệt quanh bản thân duy trì {1} giây. Kẻ địch trong vùng này sẽ không tấn công Robin, đồng thời sẽ đi theo Robin trong thời gian vùng này được kích hoạt. Sau khi vào chiến đấu trong thời gian vùng đặc biệt được kích hoạt, khi bắt đầu mỗi đợt, Robin sẽ hồi {2} Năng Lượng. Cùng một lúc tối đa chỉ tồn tại 1 hiệu ứng vùng do phe ta tạo ra.",
+      "values": [
+        [
+          15
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
+      ]
+    }
+  },
   "misha": {
     "attack": {
       "name": "Xin Nhường Bước, Làm Ơn!",
@@ -8781,8 +8959,8 @@
   },
   "trailblazer": {
     "attack": {
-      "name": "Tia Sáng Xuyên Băng",
-      "desc": "Gây Sát Thương Hỏa tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Nhà Khai Phá cho 1 kẻ địch chỉ định đồng thời cộng thêm 1 tầng \"Ý Chí Sục Sôi\".",
+      "name": "Nghi Thức Điệu Swing",
+      "desc": "Gây Sát Thương Số Ảo cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Nhà Khai Phá.",
       "values": [
         [
           50,
@@ -8801,191 +8979,115 @@
       ]
     },
     "skill": {
-      "name": "Hổ Phách Lửa Bất Diệt",
-      "desc": "Sau khi thi triển Chiến Kỹ sẽ giảm <span style=\"color: #f29e38ff\">{1}</span> sát thương mà Nhà Khai Phá phải chịu và cộng thêm 1 tầng \"Ý Chí Sục Sôi\", ngoài ra có {2} <u>xác suất cơ bản</u> khiến toàn phe địch rơi vào trạng thái Khiêu Khích, duy trì {3} hiệp.",
+      "name": "Cơn Mưa Tiền Đột Ngột",
+      "desc": "Gây Sát Thương Số Ảo cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Nhà Khai Phá, đồng thời gây thêm 4 lần sát thương. Mỗi lần sát thương sẽ gây Sát Thương Số Ảo tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Nhà Khai Phá cho 1 kẻ địch ngẫu nhiên.",
       "values": [
         [
-          40,
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
           41,
-          42,
-          43,
           44,
-          45,
-          46,
-          48,
-          49,
+          47,
           50,
-          51,
-          52,
           53,
-          54,
-          55
+          55,
+          57,
+          60,
+          63
         ],
         [
-          100
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]%",
-        "[i]"
+        ""
       ]
     },
     "ultimate": {
-      "name": "Súng Lửa Xung Trận",
-      "desc": "Gây Sát Thương Hỏa cho toàn phe địch tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công +<span style=\"color: #f29e38ff\">{2}</span> Phòng Thủ của Nhà Khai Phá. Khi thi triển Tấn Công Thường ở lần sau, sẽ tự động được cường hóa mà không tiêu hao \"Ý Chí Sục Sôi\".",
+      "name": "Diễu Hành Đèn Sân Khấu Huyên Náo",
+      "desc": "Gắn hiệu ứng Bạn Nhảy cho toàn thể phe ta, duy trì {1} hiệp. Khi bắt đầu mỗi hiệp của Nhà Khai Phá, số hiệp duy trì giảm 1. Mục tiêu phe ta có Bạn Nhảy sẽ tăng <span style=\"color: #f29e38ff\">{3}</span> Tấn Công Kích Phá, đồng thời, sau khi tấn công kẻ địch trong <u>trạng thái Phá Vỡ Điểm Yếu</u>, sẽ khiến điểm Giảm Sức Bền của lần tấn công này chuyển hóa thành 1 lần <u>Siêu Sát Thương Phá Vỡ</u>.",
       "values": [
         [
-          50,
-          55,
-          60,
-          65,
-          70,
-          75,
-          81,
-          88,
-          94,
-          100,
-          105,
-          110,
-          115,
-          120,
-          125
+          3
         ],
         [
-          75,
-          83,
-          90,
-          98,
-          105,
-          113,
-          122,
-          131,
-          141,
-          150,
-          158,
-          165,
-          173,
-          180,
-          188
+          1
+        ],
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
         ]
       ],
       "format": [
-        "[i]%",
+        "[i]",
+        "",
         "[i]%"
       ]
     },
     "talent": {
-      "name": "Kho Báu Của Đấng Kiến Tạo",
-      "desc": "Mỗi khi bị tấn công 1 lần sẽ cộng 1 tầng \"Ý Chí Sục Sôi\", tối đa cộng dồn {3} tầng.\\nKhi số tầng \"Ý Chí Sục Sôi\" không dưới 4, Tấn Công Thường sẽ được cường hóa, gây sát thương cho 1 kẻ địch chỉ định và mục tiêu lân cận kẻ đó.\\nSau khi Nhà Khai Phá thi triển Tấn Công Thường, Chiến Kỹ, Tuyệt Kỹ, sẽ cung cấp Khiên cho toàn phe ta để triệt tiêu sát thương bằng <span style=\"color: #f29e38ff\">{1}</span> Phòng Thủ của Nhà Khai Phá +<span style=\"color: #f29e38ff\">{4}</span>, duy trì {2} hiệp.",
+      "name": "Ca Múa Trên Không Toàn Màn Hình",
+      "desc": "Khi có điểm yếu của kẻ địch bị phá vỡ, Nhà Khai Phá sẽ hồi ngay <span style=\"color: #f29e38ff\">{1}</span> Năng Lượng.",
       "values": [
         [
-          4,
-          4.3,
-          4.5,
-          4.8,
           5,
-          5.2,
-          5.4,
-          5.6,
-          5.8,
+          5.5,
           6,
-          6.2,
-          6.4,
-          6.6,
-          6.8,
-          7
-        ],
-        [
-          2
-        ],
-        [
-          8
-        ],
-        [
-          20,
-          32,
-          41,
-          50,
-          56,
-          62,
-          67,
-          71,
-          76,
-          80,
-          85,
-          89,
-          94,
-          98,
-          103
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.8,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
         ]
       ],
       "format": [
-        "[f1]%",
-        "[i]",
-        "[i]",
-        "[i]"
+        "[f1]"
       ]
     },
     "mazeattack": {
       "name": "Tấn Công",
-      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của địch.",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của kẻ địch.",
       "values": [],
       "format": []
     },
     "technique": {
-      "name": "Hiệu Lệnh Của Đấng Bảo Vệ",
-      "desc": "Sau khi dùng Bí Kỹ, khi bắt đầu lần chiến đấu tiếp theo sẽ tạo Khiên cho bản thân giúp triệt tiêu sát thương tương đương {1} Phòng Thủ của Nhà Khai Phá +{2}, duy trì {3} hiệp.",
+      "name": "Ngay Và Luôn! Nhóm Độc Tấu",
+      "desc": "Sau khi dùng Bí Kỹ, khi bắt đầu trận kế tiếp, sẽ tăng {1} Tấn Công Kích Phá của toàn bộ phe ta, duy trì {2} hiệp.",
       "values": [
         [
           30
         ],
         [
-          384
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]",
         "[i]"
-      ]
-    },
-    "undefined": {
-      "name": "Tia Sáng Xuyên Băng",
-      "desc": "Tiêu hao 4 tầng \"Ý Chí Sục Sôi\" để cường hóa Tấn Công Thường. Gây cho 1 kẻ địch chỉ định Sát Thương Hỏa bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Nhà Khai Phá, đồng thời gây cho mục tiêu lân cận của kẻ đó Sát Thương Hỏa tương đương <span style=\"color: #f29e38ff\">{2}</span> Tấn Công của Nhà Khai Phá.",
-      "values": [
-        [
-          90,
-          99,
-          108,
-          117,
-          126,
-          135,
-          146,
-          158,
-          169
-        ],
-        [
-          36,
-          40,
-          43,
-          47,
-          50,
-          54,
-          59,
-          63,
-          68
-        ]
-      ],
-      "format": [
-        "[i]%",
-        "[i]%"
       ]
     }
   }

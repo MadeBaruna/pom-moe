@@ -359,6 +359,14 @@
     "rarity": 5,
     "background": "Una viajera que dice ser una Vigilante de la Galaxia. Nadie sabe su verdadero nombre.\\nDeambula sola por el cosmos, llevando consigo una larga espada."
   },
+  "robin": {
+    "id": "robin",
+    "name": "Robin",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Una cantante aureoliana originaria de Colonipenal que saltó a la fama cósmica. Una joven elegante y modesta.\\nEsta vez, La Familia la invitó para agasajar a todos con sus canciones durante el Festival Carismonía.\\nPuede usar el poder de la Armonía para transmitir su música, manifestando \"resonancia\" entre sus fans y todo tipo de formas de vida."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",

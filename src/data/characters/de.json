@@ -301,7 +301,7 @@
     "path": "abundance",
     "element": "fire",
     "rarity": 4,
-    "background": "Der Sicherheitsbeamte der Familie Bluthund in Penacony. Er ist Gästen gegenüber höflich, allerdings ist er stets wachsam. Er scheint jemand mit einer komplizierten Vergangenheit zu sein, erwähnt aber nie von sich aus irgendwelche Details."
+    "background": "Der Sicherheitsbeamte der Familie Bluthund in Penacony. Er ist Gästen gegenüber immer höflich, aber auch wachsam. Er scheint ein Charakter mit schwieriger Vergangenheit zu sein, über die er allerdings nie etwas erzählt."
   },
   "argenti": {
     "id": "argenti",
@@ -333,7 +333,7 @@
     "path": "the-hunt",
     "element": "imaginary",
     "rarity": 5,
-    "background": "Mitglied der Intelligenzia-Gilde.\\nExzentrisches Temperament, scharfzüngig aber mit vornehmem Verhalten.\\nDas Gesicht unter der seltsamen Gipsskultur soll unerwartet hübsch sein."
+    "background": "Mitglied der Intelligenzia-Gilde.\\nExzentrisches Temperament, scharfzüngig aber mit vornehmem Verhalten.\\nDas Gesicht unter der seltsamen Gipsskulptur soll unerwartet hübsch sein."
   },
   "sparkle": {
     "id": "sparkle",
@@ -359,13 +359,21 @@
     "rarity": 5,
     "background": "Eine Herumtreiberin, die behauptet, eine Galaxierangerin zu sein.\\nIhr wahrer Name ist unbekannt. Sie wandert allein durch den Kosmos und trägt ein langes Schwert bei sich."
   },
+  "robin": {
+    "id": "robin",
+    "name": "Robin",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Eine in Penacony geborene halovianische Sängerin, die zu kosmischem Ruhm gelangt ist. Eine elegante, zurückhaltende junge Dame.\\nDiesmal wurde sie von der Familie nach Hause eingeladen, um während des Harmoniefests alle mit ihrem Gesang zu beehren.\\nSie kann die Kraft der „Harmonie“ einsetzen, um ihre Musik auszusenden, wobei sie nicht nur bei ihren Fans, sondern bei allen möglichen Lebensformen „Resonanz“ erzeugt."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",
     "path": "destruction",
     "element": "ice",
     "rarity": 4,
-    "background": "Ein vernünftiger junger Mann, der als Hotelportier in Penacony arbeitet.\\nHegt große Sehnsucht für die Namenlosen und träumt davon, eines Tages selbst eine Reise anzutreten."
+    "background": "Ein vernünftiger junger Mann, der als Hotelpage in Penacony arbeitet.\\nHegt große Sehnsucht für die Namenlosen und träumt davon, eines Tages selbst eine Reise anzutreten."
   },
   "trailblazer": {
     "id": "trailblazer",

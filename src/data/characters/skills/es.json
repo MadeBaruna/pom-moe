@@ -384,21 +384,21 @@
           250
         ],
         [
-          0,
-          8,
-          16,
-          24,
-          32,
           40,
-          50,
+          44,
+          48,
+          52,
+          56,
           60,
+          65,
           70,
+          75,
           80,
+          84,
           88,
+          92,
           96,
-          104,
-          112,
-          120
+          100
         ]
       ],
       "format": [
@@ -6124,7 +6124,7 @@
     },
     "technique": {
       "name": "Resplandor de la verdad",
-      "desc": "Tras usar la técnica, crea una zona especial a su alrededor que dura {3} segundos. Los enemigos que estén en la zona especial son afectados con Congelación. Al entrar en combate con los enemigos dentro de la zona, recupera {6} pts. de energía, obtiene {1} acumulación de Sizigia y tiene una <u>probabilidad base</u> del {2} de congelar a los enemigos durante {4} turno. Los enemigos congelados no se pueden mover y al principio de cada turno reciben un Daño de Hielo <u>adicional</u> equivalente al {5} del ATQ de Jingliu. Solo puede haber una zona especial creada por los aliados a la vez.",
+      "desc": "Tras usar la técnica, crea una zona especial a su alrededor que dura {3} segundos. Los enemigos que estén en la zona especial son afectados con Congelación. Al entrar en combate con los enemigos dentro de la zona, recupera {6} pts. de energía, obtiene {1} acumulación de Sizigia y tiene una <u>probabilidad base</u> del {2} de congelar a los enemigos durante {4} turno. Los enemigos congelados no pueden actuar y al principio de cada turno reciben un Daño de Hielo <u>adicional</u> equivalente al {5} del ATQ de Jingliu. Solo puede haber una zona especial creada por los aliados a la vez.",
       "values": [
         [
           1
@@ -7044,7 +7044,7 @@
     },
     "talent": {
       "name": "Pelea embriagante",
-      "desc": "Melopea aumenta el Daño de Ruptura que reciben los objetivos en un <span style=\"color: #f29e38ff\">{1}</span>. Cada vez que un objetivo afectado por Melopea recibe el ataque de un aliado, el atacante regenera <span style=\"color: #f29e38ff\">{2}</span> PV.",
+      "desc": "Melopea aumenta el <u>Daño de Ruptura</u> que reciben los objetivos en un <span style=\"color: #f29e38ff\">{1}</span>. Cada vez que un objetivo afectado por Melopea recibe el ataque de un aliado, el atacante regenera <span style=\"color: #f29e38ff\">{2}</span> PV.",
       "values": [
         [
           6,
@@ -7392,7 +7392,7 @@
     },
     "ultimate": {
       "name": "Flor delicada sobre el agua",
-      "desc": "Ruan Mei crea un campo que dura {2} turnos. Al comienzo de cada turno de Ruan Mei, los turnos del campo disminuyen en 1.\\nDentro del campo, la PEN de la RES a todos los tipos de todos los aliados aumenta en un <span style=\"color: #f29e38ff\">{1}</span> y los ataques aplican al enemigo golpeado Flores de ciruelo rotas.\\nFlores de ciruelo rotas se activará cuando el objetivo enemigo intente recuperarse del estado de Ruptura de Debilidad. Esto prolongará dicho estado y retrasará su acción en una cantidad equivalente al {3} del efecto de Ruptura de Ruan Mei + {4}. Además, inflige un <span style=\"color: #f29e38ff\">{5}</span> del Daño de Ruptura de Hielo de Ruan Mei como Daño de Ruptura.\\nEl objetivo enemigo no puede volver a ser afectado por Flores de ciruelo rotas hasta que no se recupere del estado de Ruptura de Debilidad.",
+      "desc": "Ruan Mei crea un campo que dura {2} turnos. Al comienzo de cada turno de Ruan Mei, los turnos del campo disminuyen en 1.\\nDentro del campo, la PEN de la RES a todos los tipos de todos los aliados aumenta en un <span style=\"color: #f29e38ff\">{1}</span> y los ataques aplican al enemigo golpeado Flores de ciruelo rotas.\\nFlores de ciruelo rotas se activará cuando el objetivo enemigo intente recuperarse del <u>estado de Ruptura de Debilidad</u>. Esto prolongará <u>dicho estado</u> y <u>retrasará su acción</u> en una cantidad equivalente al {3} del efecto de Ruptura de Ruan Mei + {4}. Además, inflige un <span style=\"color: #f29e38ff\">{5}</span> del Daño de Ruptura de Hielo de Ruan Mei como <u>Daño de Ruptura</u>.\\nEl objetivo enemigo no puede volver a ser afectado por Flores de ciruelo rotas hasta que no se recupere del <u>estado de Ruptura de Debilidad</u>.",
       "values": [
         [
           15,
@@ -7448,7 +7448,7 @@
     },
     "talent": {
       "name": "Espiral somatotípica",
-      "desc": "La VEL de todos los aliados (excepto Ruan Mei) aumenta en un <span style=\"color: #f29e38ff\">{1}</span>. Cuando los aliados rompen la Debilidad de un enemigo, Ruan Mei le inflige un <span style=\"color: #f29e38ff\">{2}</span> de su Daño de Ruptura de Hielo como Daño de Ruptura.",
+      "desc": "La VEL de todos los aliados (excepto Ruan Mei) aumenta en un <span style=\"color: #f29e38ff\">{1}</span>. Cuando los aliados rompen la Debilidad de un enemigo, Ruan Mei le inflige un <span style=\"color: #f29e38ff\">{2}</span> de su Daño de Ruptura de Hielo como <u>Daño de Ruptura</u>.",
       "values": [
         [
           8,
@@ -8510,7 +8510,7 @@
     },
     "talent": {
       "name": "Hojas otoñales, vacío colosal",
-      "desc": "La habilidad definitiva se puede activar cuando Sueños rotos alcanza {1} pts. Mientras dura la habilidad definitiva, se ignora el tipo de Debilidad y se consume la Firmeza de los enemigos, y además la RES a todos los tipos de todos los enemigos se reduce en un <span style=\"color: #f29e38ff\">{2}</span> hasta que finalice la habilidad definitiva.\\nSi cualquier unidad lanza una habilidad y afecta con un estado negativo a un enemigo, Acheron obtiene 1 pt. de Sueños rotos y aplica 1 acumulación de Rojo sacrificial al objetivo. Si afecta con estados negativos a más de un enemigo, aplica 1 acumulación de Rojo sacrificial al enemigo que tenga más acumulaciones. Este efecto se puede activar 1 vez por acción. \\nCuando Acheron esté en la batalla y un enemigo abandone la batalla o sea derrotado por cualquier unidad, las acumulaciones de Rojo sacrificial se traspasarán al objetivo que tenga más acumulaciones de Rojo sacrificial.",
+      "desc": "La habilidad definitiva se puede activar cuando Sueños rotos alcanza {1} pts. Mientras dura la habilidad definitiva, se ignora el tipo de Debilidad y se consume la Firmeza de los enemigos, y además la RES a todos los tipos de todos los enemigos se reduce en un <span style=\"color: #f29e38ff\">{2}</span> hasta que finalice la habilidad definitiva.\\nSi cualquier unidad lanza una habilidad y afecta con un estado negativo a un enemigo, Acheron obtiene 1 pt. de Sueños rotos y aplica 1 acumulación de Rojo sacrificial a un objetivo. Si afecta con estados negativos a más de un enemigo, aplica 1 acumulación de Rojo sacrificial al enemigo que tenga más acumulaciones. Este efecto se puede activar 1 vez por acción. \\nCuando Acheron esté en la batalla y un enemigo abandone la batalla o sea derrotado por cualquier unidad, las acumulaciones de Rojo sacrificial se traspasarán al objetivo que tenga más acumulaciones de Rojo sacrificial.",
       "values": [
         [
           9
@@ -8584,6 +8584,184 @@
       ],
       "format": [
         ""
+      ]
+    }
+  },
+  "robin": {
+    "attack": {
+      "name": "Ruido blanco de aleteo",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ de Robin como Daño Físico a un enemigo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Aria de la pluma",
+      "desc": "Aumenta en un <span style=\"color: #f29e38ff\">{1}</span> el daño que infligen todos los aliados durante {2} turnos. Cada vez que comience el turno de Robin, la duración se reduce en 1 turno.",
+      "values": [
+        [
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
+          41,
+          44,
+          47,
+          50,
+          53,
+          55,
+          57,
+          60,
+          63
+        ],
+        [
+          3
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Canon de mil voces, fuga estelar",
+      "desc": "Robin entra en el estado de Concierto y hace que todos los aliados excepto ella actúen inmediatamente.\\nMientras está en el estado de Concierto, el ATQ de todos los aliados aumenta en una cantidad equivalente al <span style=\"color: #f29e38ff\">{1}</span> + <span style=\"color: #f29e38ff\">{3}</span> del ATQ de Robin. Después de cada ataque de los aliados, Robin inflige 1 vez un <span style=\"color: #f29e38ff\">{4}</span> de su ATQ como <u>Daño Físico adicional</u>. La Prob. CRIT de este daño se fija en el {5} y el Daño CRIT se fija en el {6}.\\nMientras está en el estado de Concierto, Robin obtiene inmunidad a <u>estados negativos de Control</u> y no puede realizar ninguna acción ni usar su turno hasta que termine el estado de Concierto.\\nEn el orden de acción aparece una cuenta regresiva de Concierto. Cuando comienza el turno de la cuenta regresiva, Robin sale del estado de Concierto y actúa inmediatamente. La cuenta regresiva tiene una VEL fija de {2}.",
+      "values": [
+        [
+          15.2,
+          16,
+          16.7,
+          17.5,
+          18.2,
+          19,
+          20,
+          20.9,
+          21.9,
+          22.8,
+          23.6,
+          24.3,
+          25.1,
+          25.8,
+          26.6
+        ],
+        [
+          90
+        ],
+        [
+          50,
+          65,
+          80,
+          95,
+          110,
+          125,
+          144,
+          163,
+          181,
+          200,
+          215,
+          230,
+          245,
+          260,
+          275
+        ],
+        [
+          72,
+          77,
+          82,
+          86,
+          91,
+          96,
+          102,
+          108,
+          114,
+          120,
+          125,
+          130,
+          134,
+          139,
+          144
+        ],
+        [
+          100
+        ],
+        [
+          150
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]",
+        "[i]",
+        "[i]%",
+        "[i]%",
+        "[i]%"
+      ]
+    },
+    "talent": {
+      "name": "Oda melodiosa",
+      "desc": "Aumenta el Daño CRIT de todos los aliados en un <span style=\"color: #f29e38ff\">{1}</span>. Después de que un aliado ataque a un enemigo, Robin recupera {2} pts. de energía adicionales.",
+      "values": [
+        [
+          5,
+          6.5,
+          8,
+          9.5,
+          11,
+          12.5,
+          14.4,
+          16.3,
+          18.1,
+          20,
+          21.5,
+          23,
+          24.5,
+          26,
+          27.5
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[f1]%",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Obertura embriagadora",
+      "desc": "Tras usar la técnica, crea una zona especial a su alrededor que dura {1} s. Los enemigos que estén en la zona no pueden atacar a Robin y la siguen mientras la zona permanezca activa. Tras entrar en combate mientras la zona especial está activa, Robin recupera {2} pts. de energía al comienzo de cada oleada. Solo puede haber 1 efecto del área creado por los aliados a la vez.",
+      "values": [
+        [
+          15
+        ],
+        [
+          5
+        ]
+      ],
+      "format": [
+        "[i]",
+        "[i]"
       ]
     }
   },
@@ -8781,8 +8959,8 @@
   },
   "trailblazer": {
     "attack": {
-      "name": "Luz rompehielos",
-      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ {F#de la}{M#del} Trazacaminos como Daño de Fuego a un enemigo y obtiene una acumulación de Voluntad magmática.",
+      "name": "Etiqueta al bailar el swing",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ {F#de la}{M#del} Trazacaminos como Daño Imaginario a un enemigo.",
       "values": [
         [
           50,
@@ -8801,133 +8979,93 @@
       ]
     },
     "skill": {
-      "name": "Ámbar inextinguible",
-      "desc": "Tras usar la habilidad básica, el daño que recibe {F#la}{M#el} Trazacaminos se reduce en un <span style=\"color: #f29e38ff\">{1}</span> y obtiene una acumulación de Voluntad magmática. Además, tiene un {2} de <u>probabilidad base</u> de afectar a todos los enemigos con Provocación durante {3} turno.",
+      "name": "Aguacero en el intermedio",
+      "desc": "Inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ {F#de la}{M#del} Trazacaminos como Daño Imaginario a un enemigo y después inflige daño 4 veces más. Cada golpe inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ {F#de la}{M#del} Trazacaminos como Daño Imaginario a un enemigo al azar.",
       "values": [
         [
-          40,
+          25,
+          28,
+          30,
+          33,
+          35,
+          38,
           41,
-          42,
-          43,
           44,
-          45,
-          46,
-          48,
-          49,
+          47,
           50,
-          51,
-          52,
           53,
-          54,
-          55
+          55,
+          57,
+          60,
+          63
         ],
         [
-          100
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]%",
-        "[i]"
+        ""
       ]
     },
     "ultimate": {
-      "name": "Lanza llameante tras las líneas enemigas",
-      "desc": "Inflige a todos los enemigos un Daño de Fuego equivalente al <span style=\"color: #f29e38ff\">{1}</span> del ATQ + <span style=\"color: #f29e38ff\">{2}</span> de la DEF {F#de la}{M#del} Trazacaminos. La siguiente vez que se use el ATQ básico, gana automáticamente una potenciación sin consumir Voluntad magmática.",
+      "name": "Desfile clamoroso de luces",
+      "desc": "Aplica a todos los aliados el efecto Bailarín de apoyo durante {1} turnos. La duración del efecto se reduce en 1 cada vez que comience el turno {F#de la}{M#del} Trazacaminos. El efecto de Ruptura de los aliados bajo el efecto de Bailarín de apoyo aumenta en un <span style=\"color: #f29e38ff\">{3}</span>. Cuando atacan a enemigos con <u>Ruptura de Debilidad</u>, convierten la Reducción de Firmeza de este ataque en <u>Daño de Ultrarruptura</u> 1 vez.",
       "values": [
         [
-          50,
-          55,
-          60,
-          65,
-          70,
-          75,
-          81,
-          88,
-          94,
-          100,
-          105,
-          110,
-          115,
-          120,
-          125
+          3
         ],
         [
-          75,
-          83,
-          90,
-          98,
-          105,
-          113,
-          122,
-          131,
-          141,
-          150,
-          158,
-          165,
-          173,
-          180,
-          188
+          1
+        ],
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
         ]
       ],
       "format": [
-        "[i]%",
+        "[i]",
+        "",
         "[i]%"
       ]
     },
     "talent": {
-      "name": "Tesoro de los Arquitectos",
-      "desc": "Por cada ataque recibido, obtiene 1 acumulación de Voluntad magmática (puede tener hasta {3} acumulaciones).\\nCuando tiene 4 o más, el ATQ básico se potencia e inflige daño tanto al objetivo como a los enemigos adyacentes.\\nDespués de que {F#la}{M#el} Trazacaminos use el ATQ básico, la habilidad básica o la habilidad definitiva, todos los aliados obtienen un escudo que absorbe un daño equivalente al <span style=\"color: #f29e38ff\">{1}</span> de la DEF {F#de la}{M#del} Trazacaminos + <span style=\"color: #f29e38ff\">{4}</span> durante {2} turnos.",
+      "name": "Danza aérea panorámica",
+      "desc": "{F#La}{M#El} Trazacaminos recupera inmediatamente <span style=\"color: #f29e38ff\">{1}</span> pts. de energía cuando se rompe la Debilidad de un enemigo.",
       "values": [
         [
-          4,
-          4.3,
-          4.5,
-          4.8,
           5,
-          5.2,
-          5.4,
-          5.6,
-          5.8,
+          5.5,
           6,
-          6.2,
-          6.4,
-          6.6,
-          6.8,
-          7
-        ],
-        [
-          2
-        ],
-        [
-          8
-        ],
-        [
-          20,
-          32,
-          41,
-          50,
-          56,
-          62,
-          67,
-          71,
-          76,
-          80,
-          85,
-          89,
-          94,
-          98,
-          103
+          6.5,
+          7,
+          7.5,
+          8.1,
+          8.8,
+          9.4,
+          10,
+          10.5,
+          11,
+          11.5,
+          12,
+          12.5
         ]
       ],
       "format": [
-        "[f1]%",
-        "[i]",
-        "[i]",
-        "[i]"
+        "[f1]"
       ]
     },
     "mazeattack": {
@@ -8937,55 +9075,19 @@
       "format": []
     },
     "technique": {
-      "name": "Llamada del guardián",
-      "desc": "Tras usar la técnica, al comenzar la siguiente batalla obtiene un escudo que absorbe un daño equivalente al {1} de la DEF {F#de la}{M#del} Trazacaminos + {2} durante {3} turno.",
+      "name": "¡Que entren los solistas!",
+      "desc": "Tras usar la técnica, al comenzar la siguiente batalla, el efecto de Ruptura de todos los aliados aumenta en un {1} durante {2} turnos.",
       "values": [
         [
           30
         ],
         [
-          384
-        ],
-        [
-          1
+          2
         ]
       ],
       "format": [
         "[i]%",
-        "[i]",
         "[i]"
-      ]
-    },
-    "undefined": {
-      "name": "Luz rompehielos",
-      "desc": "Consume 4 acumulaciones de Voluntad magmática, potencia su ATQ básico e inflige un <span style=\"color: #f29e38ff\">{1}</span> del ATQ {F#de la}{M#del} Trazacaminos como Daño de Fuego a un enemigo y un <span style=\"color: #f29e38ff\">{2}</span> del ATQ {F#de la}{M#del} Trazacaminos como Daño de Fuego a los enemigos adyacentes.",
-      "values": [
-        [
-          90,
-          99,
-          108,
-          117,
-          126,
-          135,
-          146,
-          158,
-          169
-        ],
-        [
-          36,
-          40,
-          43,
-          47,
-          50,
-          54,
-          59,
-          63,
-          68
-        ]
-      ],
-      "format": [
-        "[i]%",
-        "[i]%"
       ]
     }
   }
