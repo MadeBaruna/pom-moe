@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "Ein vernünftiger junger Mann, der als Hotelpage in Penacony arbeitet.\\nHegt große Sehnsucht für die Namenlosen und träumt davon, eines Tages selbst eine Reise anzutreten."
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "Boothill",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Ein Cyborg-Cowboy, der sich zwischen den Sternen treiben lässt. Äußerst optimistisch und hemmungslos.\\nAls Mitglied der Galaxieranger hat er geschworen, das Böse mit allen Mitteln auszurotten ...\\nMit seinen extravaganten und forschen Aktionen will er die Aufmerksamkeit der Interastralen Friedenskorporation auf sich ziehen – das Ziel seiner Rache."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",

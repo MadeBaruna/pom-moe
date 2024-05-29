@@ -8957,6 +8957,222 @@
       ]
     }
   },
+  "boothill": {
+    "attack": {
+      "name": "Móng Sắt Nứt Sọ",
+      "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định tương đương <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Boothill.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Điệu Tango Của Vũ Công Cháy Bỏng",
+      "desc": "Khiến 1 kẻ địch chỉ định và bản thân vào trạng thái Đối Đầu Tuyệt Mệnh, Tấn Công Thường của Boothill được cường hóa và không thể thi triển Chiến Kỹ, duy trì {3} hiệp. Khi bắt đầu mỗi hiệp của Boothill, số hiệp duy trì giảm 1.\\nKẻ địch có Đối Đầu Tuyệt Mệnh sẽ rơi vào trạng thái Khiêu Khích. Khi mục tiêu này/Boothill bị đối phương tấn công, sát thương phải chịu tăng <span style=\"color: #f29e38ff\">{1}</span>/{2}.\\nSau khi mục tiêu này bị tiêu diệt hoặc Điểm Yếu bị phá vỡ, Boothill đều có thể nhận 1 tầng Cú Lừa Bỏ Túi, sau đó giải trừ \"Đối Đầu Tuyệt Mệnh\".\\nChiến Kỹ này không thể hồi Năng Lượng. Sau khi thi triển Chiến Kỹ này, hiệp này sẽ không kết thúc.",
+      "values": [
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Buổi Tranh Tài Hoàng Hôn Của Vũ Công Quỷ Bụi",
+      "desc": "Thêm Điểm Yếu Vật Lý cho 1 kẻ địch chỉ định, duy trì {3} hiệp.\\nGây sát thương Vật Lý cho mục tiêu này bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Boothill, và khiến mục tiêu <u>trì hoãn hành động</u> <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ],
+        [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Năm Hạt Đậu Nằm Trong Vỏ Đậu",
+      "desc": "Mỗi tầng Cú Lừa Bỏ Túi giúp điểm Giảm Sức Bền của Tấn Công Thường Cường Hóa tăng {4}, tối đa cộng dồn {5} tầng.\\nTrong thời gian thi triển Tấn Công Thường Cường Hóa, nếu mục tiêu trong <u>trạng thái Phá Vỡ Điểm Yếu</u>, sẽ căn cứ vào số tầng Cú Lừa Bỏ Túi, gây cho mục tiêu <u>Sát Thương Phá Vỡ</u> bằng <span style=\"color: #f29e38ff\">{1}</span>/<span style=\"color: #f29e38ff\">{2}</span>/<span style=\"color: #f29e38ff\">{3}</span> Sát Thương Phá Vỡ Vật Lý của Boothill. Sức Bền tối đa được tính vào của đòn sát thương này không vượt quá {6} lần điểm Giảm Sức Bền cơ bản của đòn Tấn Công Thường Móng Sắt Nứt Sọ.\\nSau khi chiến thắng, Boothill có thể giữ lại Cú Lừa Bỏ Túi cho trận tiếp theo.",
+      "values": [
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          113,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          85,
+          94,
+          102,
+          111,
+          119,
+          127,
+          138,
+          149,
+          159,
+          170,
+          179,
+          187,
+          196,
+          204,
+          213
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          16
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Tấn Công",
+      "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của kẻ địch.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Nụ Cười Ba Nhân Chín",
+      "desc": "Sau khi sử dụng Bí Kỹ, trong lần chiến đấu tiếp theo, lần đầu thi triển Chiến Kỹ, sẽ thêm cho mục tiêu Điểm Yếu Vật Lý giống với Tuyệt Kỹ, duy trì {1} hiệp.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Nỏ Chùy Kích",
+      "desc": "Gây cho 1 kẻ địch chỉ định Sát Thương Vật Lý bằng <span style=\"color: #f29e38ff\">{1}</span> Tấn Công của Boothill.\\nTấn Công Thường Cường Hóa không thể hồi điểm Chiến Kỹ, và chỉ có thể lấy kẻ địch có Đối Đầu Tuyệt Mệnh làm mục tiêu.",
+      "values": [
+        [
+          110,
+          132,
+          154,
+          176,
+          198,
+          220,
+          242,
+          264,
+          286
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Nghi Thức Điệu Swing",

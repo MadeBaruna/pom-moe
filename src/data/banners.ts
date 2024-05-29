@@ -447,6 +447,34 @@ export const banners: Banners = {
 			featured5: ['topaz-numby'],
 			featured4: ['march-7th', 'hanya', 'xueyi'],
 			timezoneDependent: true
+		},
+		{
+			code: 2031,
+			type: 'character',
+			name: "Dusty Trail's Lone Star",
+			start: '2024-05-29 12:00:00',
+			end: '2024-06-18 15:00:00',
+			color: '#f1f1ef',
+			version: '2.2',
+			image: "Dusty Trail's Lone Star 2031.jpg",
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['boothill'],
+			featured4: ['pela', 'luka', 'hook']
+		},
+		{
+			code: 2032,
+			type: 'character',
+			name: 'Foreseen, Foreknown, Foretold',
+			start: '2024-05-29 12:00:00',
+			end: '2024-06-18 15:00:00',
+			color: '#e2a6cc',
+			version: '2.2',
+			image: 'Foreseen, Foreknown, Foretold 2032.jpg',
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['fu-xuan'],
+			featured4: ['pela', 'luka', 'hook']
 		}
 	],
 	lightcone: [
@@ -867,6 +895,34 @@ export const banners: Banners = {
 			featured5: ['worrisome-blissful'],
 			featured4: ['boundless-choreo', 'swordplay', 'perfect-timing'],
 			timezoneDependent: true
+		},
+		{
+			code: 3031,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2024-05-29 12:00:00',
+			end: '2024-06-18 15:00:00',
+			color: '#cac3bb',
+			version: '2.2',
+			image: 'Brilliant Fixation 3031.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['sailing-towards-a-second-life'],
+			featured4: ['geniuses-repose', 'a-secret-vow', 'landaus-choice']
+		},
+		{
+			code: 3032,
+			type: 'lightcone',
+			name: 'Bygone Reminiscence',
+			start: '2024-05-29 12:00:00',
+			end: '2024-06-18 15:00:00',
+			color: '#fbc6e6',
+			version: '2.2',
+			image: 'Bygone Reminiscence 3032.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['she-already-shut-her-eyes'],
+			featured4: ['geniuses-repose', 'a-secret-vow', 'landaus-choice']
 		}
 	],
 	standard: [

@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "Penjaga pintu hotel Penacony. Anak laki-laki yang baik hati dan bijaksana.\\nSangat mengagumi The Nameless, dan memiliki impian bahwa suatu hari juga bisa memulai perjalanan petualangan."
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "Boothill",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Koboi siborg yang mengembara di galaksi. Sangat optimis dan berjiwa bebas.\\nSebagai anggota \"Galaxy Ranger\" dia akan menggunakan segala cara untuk menghukum orang jahat dan melenyapkan kejahatan.\\nPerilakunya yang mencolok dan gegabah bertujuan untuk menarik perhatian \"Interastral Peace Corporation\" — target balas dendamnya."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",

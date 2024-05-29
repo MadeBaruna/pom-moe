@@ -8957,6 +8957,222 @@
       ]
     }
   },
+  "boothill": {
+    "attack": {
+      "name": "Skullcrush Spurs",
+      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Boothill's ATK to a single target enemy.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Sizzlin' Tango",
+      "desc": "Forces Boothill and a single target enemy into the Standoff state. Boothill's Basic ATK gets Enhanced, and he cannot use his Skill, lasting for {3} turn(s). This duration reduces by 1 at the start of Boothill's every turn.\\nThe enemy target in the Standoff becomes Taunted. When this enemy target/Boothill gets attacked by the other party in the Standoff, the DMG they receive increases by <span style=\"color: #f29e38ff\">{1}</span>/{2}.\\nAfter this target is defeated or becomes Weakness Broken, Boothill gains 1 stack of Pocket Trickshot, then dispels the Standoff.\\nThis Skill cannot regenerate Energy. After using this Skill, the current turn does not end.",
+      "values": [
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Dust Devil's Sunset Rodeo",
+      "desc": "Applies Physical Weakness to a single target enemy, lasting for {3} turn(s).\\nDeals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Boothill's ATK to the target and <u>delays their action</u> by <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ],
+        [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Five Peas in a Pod",
+      "desc": "Each stack of Pocket Trickshot increases the Enhanced Basic Attack's Toughness Reduction by {4}, stacking up to {5} time(s).\\nIf the target is <u>Weakness Broken</u> while the Enhanced Basic ATK is being used, based on the number of Pocket Trickshot stacks, deals <u>Break DMG</u> to this target equal to <span style=\"color: #f29e38ff\">{1}</span>/<span style=\"color: #f29e38ff\">{2}</span>/<span style=\"color: #f29e38ff\">{3}</span> of Boothill's Physical Break DMG. The max Toughness taken into account for this DMG cannot exceed {6} times the base Toughness Reduction of the Basic Attack \"Skullcrush Spurs.\"\\nAfter winning the battle, Boothill can retain Pocket Trickshot for the next battle.",
+      "values": [
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          113,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          85,
+          94,
+          102,
+          111,
+          119,
+          127,
+          138,
+          149,
+          159,
+          170,
+          179,
+          187,
+          196,
+          204,
+          213
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          16
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "3-9× Smile",
+      "desc": "After the Technique is used, when casting the Skill for the first time in the next battle, applies the same Physical Weakness to the target as the one induced by the Ultimate, lasting for {1} turn(s).",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Fanning the Hammer",
+      "desc": "Deals Physical DMG equal to <span style=\"color: #f29e38ff\">{1}</span> of Boothill's ATK to a single target enemy.\\nThe Enhanced Basic Attack cannot recover Skill Points and can only target the enemy that is in the Standoff.",
+      "values": [
+        [
+          110,
+          132,
+          154,
+          176,
+          198,
+          220,
+          242,
+          264,
+          286
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Swing Dance Etiquette",

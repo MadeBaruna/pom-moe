@@ -8957,6 +8957,222 @@
       ]
     }
   },
+  "boothill": {
+    "attack": {
+      "name": "Skullcrush Spurs",
+      "desc": "Mengakibatkan Physical DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Boothill pada 1 musuh yang ditargetkan.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Sizzlin' Tango",
+      "desc": "Membuat 1 musuh yang ditargetkan dan Boothill memasuki status \"Standoff\". Basic Attack Boothill akan diperkuat, dan tidak dapat melancarkan Skill, berlangsung selama {3} giliran. Durasi giliran akan berkurang 1 setiap kali giliran Boothill dimulai.\\nMusuh yang berstatus \"Standoff\" akan memasuki status Taunt. Saat target musuh tersebut/Boothill terkena serangan dari satu sama lain, DMG yang diterima meningkat <span style=\"color: #f29e38ff\">{1}</span>/{2}.\\nSetelah target tersebut dikalahkan atau terkena Weakness Break, Boothill akan memperoleh 1 lapis \"Pocket Trickshot\", lalu menghapus \"Standoff\".\\nSkill ini tidak dapat memulihkan Energy. Giliran kali ini tidak akan berakhir setelah melancarkan Skill ini.",
+      "values": [
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Dust Devil's Sunset Rodeo",
+      "desc": "Menambahkan Physical Weakness pada 1 musuh yang ditargetkan, berlangsung selama {3} giliran.\\nMengakibatkan Physical DMG sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Boothill pada target tersebut dan <u>menunda aksinya</u> sebesar <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ],
+        [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Five Peas in a Pod",
+      "desc": "Setiap lapis \"Pocket Trickshot\" akan meningkatkan {4} pengurangan nilai Toughness yang diakibatkan Enhanced Basic Attack, dapat ditumpuk hingga {5} lapis.\\nJika target berstatus <u>Weakness Break</u> saat Enhanced Basic Attack dilancarkan, maka berdasarkan jumlah lapisan \"Pocket Trickshot\", akan mengakibatkan <u>Break DMG</u> pada target sebesar <span style=\"color: #f29e38ff\">{1}</span>/<span style=\"color: #f29e38ff\">{2}</span>/<span style=\"color: #f29e38ff\">{3}</span> Physical Break DMG Boothill. Maksimal nilai Toughness yang masuk dalam perhitungan Break DMG ini tidak bisa melebihi ×{6} dari pengurangan nilai Toughness yang diakibatkan Basic Attack \"Skullcrush Spurs\".\\nSetelah memenangkan pertempuran, Boothill akan menyimpan \"Pocket Trickshot\" hingga pertempuran berikutnya.",
+      "values": [
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          113,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          85,
+          94,
+          102,
+          111,
+          119,
+          127,
+          138,
+          149,
+          159,
+          170,
+          179,
+          187,
+          196,
+          204,
+          213
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          16
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attack",
+      "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "3-9× Smile",
+      "desc": "Setelah menggunakan Technique, saat melancarkan Skill untuk pertama kalinya dalam pertempuran berikutnya, akan menambahkan Physical Weakness yang sama dengan Ultimate pada target, berlangsung selama {1} giliran.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Fanning the Hammer",
+      "desc": "Mengakibatkan Physical DMG pada 1 musuh yang ditargetkan sebesar <span style=\"color: #f29e38ff\">{1}</span> ATK Boothill.\\nEnhanced Basic Attack ini tidak dapat memulihkan Poin Skill dan hanya bisa menargetkan target musuh berstatus \"Standoff\".",
+      "values": [
+        [
+          110,
+          132,
+          154,
+          176,
+          198,
+          220,
+          242,
+          264,
+          286
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Swing Dance Etiquette",

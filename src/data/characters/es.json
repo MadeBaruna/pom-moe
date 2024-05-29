@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "Botones del hotel de Colonipenal. Un chico muy amable y educado.\\nSiente gran admiración por los Anónimos y sueña con embarcarse en un viaje algún día."
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "Boothill",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Un vaquero androide, extremadamente optimista y desenfrenado, que va a la deriva por las estrellas.\\nEs miembro de los Vigilantes de la Galaxia y juró castigar a los viles y despreciables por todos y cada uno de los medios disponibles...\\nSus acciones, extravagantes y descaradas, no tienen otro propósito más que llamar la atención de la Corporación para la Paz Interastral, el objetivo de su venganza."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trazacaminos",

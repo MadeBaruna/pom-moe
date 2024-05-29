@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "匹诺康尼酒店的门童侍应，乖巧懂事的小男孩。\\n对无名客抱有极大憧憬，梦想有朝一日自己也能踏上旅途。"
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "波提欧",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "浪迹银河的改造人牛仔，极度乐观、放荡不羁。\\n身为「巡海游侠」的一员，为惩奸除恶，可以无所不用其极——\\n高调行事的背后，渴望以此引起复仇对象「星际和平公司」的注意。"
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "开拓者",

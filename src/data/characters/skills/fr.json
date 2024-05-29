@@ -8957,6 +8957,222 @@
       ]
     }
   },
+  "boothill": {
+    "attack": {
+      "name": "Coup de talon brise-crâne",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ du Fossoyeur à un cible ennemie unique.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Tango endiablé",
+      "desc": "Force le Fossoyeur à entrer en état de Confrontation avec une cible ennemie unique. L'ATQ normale du Fossoyeur devient renforcée et il ne peut pas utiliser sa compétence pour une durée de {3} tours. Cette durée est réduite de 1 au début de chaque tour du Fossoyeur.\\nLa cible ennemie qui est en état de Confrontation est provoquée. Lorsque la cible ennemie/le Fossoyeur subit une attaque de la part de l'autre partie, les DGT reçus augmentent de <span style=\"color: #f29e38ff\">{1}</span>/{2}.\\nLorsque la cible est éliminée ou qu'elle subit une Rupture de faiblesse, le Fossoyeur obtient 1 cumul d'Avantage en poche, et dissipe Confrontation.\\nCette compétence ne régénère pas d'énergie. Le tour ne se termine pas après l'utilisation de la compétence.",
+      "values": [
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Crépuscule des plaines du sud",
+      "desc": "Applique une Faiblesse physique à une cible ennemie unique pour {3} tours.\\nInflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ du Fossoyeur à la cible et <u>retarde son action</u> de <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ],
+        [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Barillet plein",
+      "desc": "Chaque cumul d'Avantage en poche accentue la réduction de robustesse de l'ATQ normale renforcée de {4}, cumulable jusqu'à {5} fois.\\nSi la cible est <u>en état de Rupture de faiblesse</u> lors de l'utilisation de l'ATQ normale renforcée, inflige à la cible des <u>DGT de rupture</u> équivalents à <span style=\"color: #f29e38ff\">{1}</span>/<span style=\"color: #f29e38ff\">{2}</span>/<span style=\"color: #f29e38ff\">{3}</span> des DGT de rupture physiques du Fossoyeur pour chaque cumul d'Avantage en poche. La robustesse maximale prise en compte pour ces DGT ne peut pas dépasser {6} fois la réduction de robustesse de base de l'ATQ normale « Coup de talon brise-crâne ».\\nEn cas de victoire, le Fossoyeur peut conserver Avantage en poche pour le prochain combat.",
+      "values": [
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          113,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          85,
+          94,
+          102,
+          111,
+          119,
+          127,
+          138,
+          149,
+          159,
+          170,
+          179,
+          187,
+          196,
+          204,
+          213
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          16
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Attaque",
+      "desc": "Réduit la robustesse de l'ennemi au type correspondant en entrant en combat après l'avoir attaqué.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Sourire carnassier",
+      "desc": "Après utilisation de la technique, lors de la première utilisation de la compétence au cours du prochain combat, applique une Faiblesse physique équivalente à celle appliquée par l'ultime à la cible pour {1} tours.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Tir en rafale",
+      "desc": "Inflige des DGT physiques équivalents à <span style=\"color: #f29e38ff\">{1}</span> de l'ATQ du Fossoyeur à une cible ennemie unique.\\nL'ATQ normale renforcée ne peut pas régénérer de points de compétence et ne peut cibler que l'ennemi qui est actuellement dans l'état Confrontation.",
+      "values": [
+        [
+          110,
+          132,
+          154,
+          176,
+          198,
+          220,
+          242,
+          264,
+          286
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Coup de chapeau",

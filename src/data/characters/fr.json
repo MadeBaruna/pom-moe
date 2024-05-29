@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "Un jeune homme bien élevé qui travaille comme groom à l'hôtel de Penacony.\\nMicha éprouve une grande admiration pour les Sans Noms et rêve d'entreprendre un jour son propre voyage."
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "Le Fossoyeur",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Un cow-boy cyborg qui erre parmi les étoiles. Extrêmement optimiste et sans retenue.\\nMembre des Rangers de la galaxie, il s'est juré de punir par tous les moyens ceux qui ont enfreint la loi.\\nDerrière ses coups d'éclat et son audace se cache le désir d'attirer l'attention de la Corporation pour la Paix Interastrale, véritable cible de sa vengeance."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Pionnier",

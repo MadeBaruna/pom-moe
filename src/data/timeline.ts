@@ -162,6 +162,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/28251947',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Foreseen, Foreknown, Foretold - Fu Xuan Warp Event',
+			start: '2024-05-29 12:00:00',
+			end: '2024-06-18 15:00:00',
+			image: 'Foreseen, Foreknown, Foretold 2032.jpg',
+			color: '#e2a6cc',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29127114',
+			show: true
 		}
 	],
 	[
@@ -199,6 +210,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/28251947',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: "Dusty Trail's Lone Star - Boothill Warp Event",
+			start: '2024-05-29 12:00:00',
+			end: '2024-06-18 15:00:00',
+			image: "Dusty Trail's Lone Star 2031.jpg",
+			color: '#f1f1ef',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29127114',
+			show: true
 		}
 	],
 	[
@@ -236,6 +258,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/28252074',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2024-05-29 12:00:00',
+			end: '2024-06-18 15:00:00',
+			image: 'Brilliant Fixation 3031.jpg',
+			color: '#cac3bb',
+			pos: '0%, 10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29127114',
+			show: true
 		}
 	],
 	[
@@ -272,6 +305,17 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/28252074',
 			show: true,
 			timezoneDependent: true
+		},
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2024-05-29 12:00:00',
+			end: '2024-06-18 15:00:00',
+			image: 'Bygone Reminiscence 3032.jpg',
+			color: '#fbc6e6',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29127114',
+			show: true
 		}
 	],
 	[

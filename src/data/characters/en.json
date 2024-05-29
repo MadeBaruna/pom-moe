@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "A well-behaved young man serving as a hotel bellboy in Penacony.\\nMisha has a great longing for the Nameless and dreams of one day embarking on a journey of his own."
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "Boothill",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "A cyborg cowboy drifting among the stars. Extremely optimistic and unrestrained.\\nHe is a member of the Galaxy Rangers who swore to punish the wretched by any and all means...\\nHis flamboyant and brash actions were all to draw the attention of the Interastral Peace Corporation — the target of his revenge."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Trailblazer",

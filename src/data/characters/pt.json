@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "Um jovem bem-comportado que trabalha como servente em Penacony.\\nMisha tem uma grande admiração pelos Inominados e sonha em um dia embarcar em sua própria jornada."
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "Boothill",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Um caubói ciborgue vagando pelas estrelas. Extremamente otimista e desimpedido.\\nEle é um membro dos Vigias da Galáxia que jurou punir os malditos a qualquer custo...\\nSuas ações extravagantes e audaciosas foram todas para chamar a atenção da Corporação da Paz Interastral, o alvo de sua vingança."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Desbravador",

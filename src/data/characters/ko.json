@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "예의바른 페나코니 호텔의 벨보이.\\n무명객을 동경하며, 언젠가 자신만의 여행을 떠나는 걸 꿈꾼다"
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "부트힐",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "은하를 떠도는 개조 인간 카우보이. 극도로 낙관적이고 자유분방하다.\\n「갤럭시 레인저」의 일원으로, 악을 처단하기 위해서라면 무슨 짓이든 할 수 있다——\\n그의 대담한 행동은 복수의 대상인 「스타피스 컴퍼니」의 이목을 끌기 위함이다"
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "개척자",

@@ -8957,6 +8957,222 @@
       ]
     }
   },
+  "boothill": {
+    "attack": {
+      "name": "Schädelsplitter-Hufeisen",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Boothills ANG zu.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Tango des Tänzers auf brennendem Kies",
+      "desc": "Lässt einen anvisierten Gegner und Boothill in den Status „Tödliche Konfrontation“ eintreten. Boothill erhält für {3} Rd. einen verstärkten Standardangriff und kann seine Fertigkeit nicht einsetzen. Diese Dauer wird jeweils zu Beginn von Boothills Rd. um 1 verringert.\\nDas gegnerische Ziel mit Tödliche Konfrontation wird verspottet. Wenn das Ziel / Boothill voneinander angegriffen wird, erleiden sie jeweils <span style=\"color: #f29e38ff\">{1}</span>/{2} mehr SCH.\\nNachdem das Ziel besiegt wurde oder Schwächebruch erlitten hat, erhält Boothill 1 Stapelung „Trumpf in der Tasche“ und Tödliche Konfrontation wird dann aufgehoben.\\nDiese Fertigkeit stellt keine Energie wieder her. Nach dem Einsatz dieser Fertigkeit wird die aktuelle Runde nicht beendet.",
+      "values": [
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Staubteufels Tanz bei Sonnenuntergang",
+      "desc": "Fügt einem anvisierten Gegner für {3} Rd. eine physische Schwäche hinzu.\\nFügt dem Ziel physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Boothills ANG zu und <u>verzögert die Aktion</u> des Ziels um <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ],
+        [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Fünf Bohnen, eine Schote",
+      "desc": "Jede Stapelung „Trumpf in der Tasche“ erhöht den WDS-Reduzierungswert des verstärkten Standardangriffs um {4}, bis zu {5} Stapelungen.\\nBefindet sich das Ziel im <u>Schwächebruch</u>, wenn der verstärkte Standardangriff eingesetzt wird, wird diesem Ziel für jede Stapelung Trumpf in der Tasche <u>Bruch-SCH</u> in Höhe von <span style=\"color: #f29e38ff\">{1}</span>/<span style=\"color: #f29e38ff\">{2}</span>/<span style=\"color: #f29e38ff\">{3}</span> von Boothills physischem Bruch-SCH zugefügt. Die max. Menge an WDS, die bei diesem SCH gezählt werden kann, darf {6}-fach des Basis-WDS-Reduzierungswerts, der durch den Standardangriff „Schädelsplitter-Hufeisen“ verursacht wird, nicht überschreiten.\\nNach einem gewonnenen Kampf wird Boothill Trumpf in der Tasche bis zum nächsten Kampf beibehalten.",
+      "values": [
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          113,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          85,
+          94,
+          102,
+          111,
+          119,
+          127,
+          138,
+          149,
+          159,
+          170,
+          179,
+          187,
+          196,
+          204,
+          213
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          16
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Angriff",
+      "desc": "Greift den Gegner an und schwächt nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Drei-mal-Neun-Lächeln",
+      "desc": "Nachdem die Technik verwendet wurde, wird beim ersten Einsatz der Fertigkeit im nächsten Kampf dem Ziel für {1} Rd. dieselbe physische Schwäche wie die des Ultimates hinzugefügt.",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Finger am Abzug",
+      "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von <span style=\"color: #f29e38ff\">{1}</span> von Boothills ANG zu.\\nDer verstärkte Standardangriff stellt keine Fertigkeitspunkte wieder her und kann nur gegnerische Ziele im Status „Tödliche Konfrontation“ angreifen.",
+      "values": [
+        [
+          110,
+          132,
+          154,
+          176,
+          198,
+          220,
+          242,
+          264,
+          286
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Swing-Etikette",

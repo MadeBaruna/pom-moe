@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "匹諾康尼飯店的接待，乖巧懂事的小男孩。\\n對無名客抱有極大憧憬，夢想有朝一日自己也能踏上旅途。"
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "波提歐",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "浪跡銀河的改造人牛仔，極度樂觀、放蕩不羈。\\n身為「巡海遊俠」的一員，為懲奸除惡，可以無所不用其極。\\n高調行事的背後，渴望以此引起復仇對象「星際和平公司」的注意。"
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "開拓者",

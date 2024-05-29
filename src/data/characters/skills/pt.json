@@ -8957,6 +8957,222 @@
       ]
     }
   },
+  "boothill": {
+    "attack": {
+      "name": "Esporas Esmaga-Crânio",
+      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Boothill a um único inimigo-alvo.",
+      "values": [
+        [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    },
+    "skill": {
+      "name": "Tango Crepitante",
+      "desc": "Força Boothill e um inimigo-alvo a entrar no estado de Confronto. O ATQ Básico de Boothill é Aprimorado, e ele não pode usar sua Perícia, com duração de {3} rodada(s). A duração diminui em 1 no início de cada rodada de Boothill.\\nO inimigo-alvo no Confronto fica Provocado. Quando esse inimigo-alvo ou Boothill é atacado pela outra parte no Confronto, o Dano que recebem aumenta em <span style=\"color: #f29e38ff\">{1}</span>/{2}.\\nApós esse alvo ser derrotado ou sofrer Quebra de Fraqueza, Boothill ganha 1 acúmulo de Truque de Bolso e então dissolve o Confronto.\\nEsta Perícia não regenera Energia. Após usar esta Perícia, o turno atual não termina.",
+      "values": [
+        [
+          15,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          36,
+          38
+        ],
+        [
+          15
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "ultimate": {
+      "name": "Rodeio Crepuscular do Demônio da Areia",
+      "desc": "Aplica Fraqueza contra Físico a um inimigo-alvo, durando por {3} rodada(s).\\nCausa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Boothill ao alvo e <u>retarda suas ações</u> em <span style=\"color: #f29e38ff\">{2}</span>.",
+      "values": [
+        [
+          240,
+          256,
+          272,
+          288,
+          304,
+          320,
+          340,
+          360,
+          380,
+          400,
+          416,
+          432,
+          448,
+          464,
+          480
+        ],
+        [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]"
+      ]
+    },
+    "talent": {
+      "name": "Cinco Balas no Tambor",
+      "desc": "Cada acúmulo do Truque de Bolso aumenta a Redução de Tenacidade do ATQ Básico Aprimorado em {4}, podendo acumular até {5} vez(es).\\nSe o alvo estiver com <u>Quebra de Fraqueza</u> quando o ATQ Básico Aprimorado for usado, com base no número de acúmulos de Truque de Bolso, causa <u>Dano de Quebra</u> a esse alvo igual a <span style=\"color: #f29e38ff\">{1}</span>/<span style=\"color: #f29e38ff\">{2}</span>/<span style=\"color: #f29e38ff\">{3}</span> do Dano de Quebra Físico de Boothill. A Tenacidade máxima considerada para este dano não pode exceder {6} vezes a Redução de Tenacidade base causada pelo ATQ Básico \"Esporas Esmaga-Crânio\".\\nApós vencer a batalha, Boothill pode manter o Truque de Bolso para a próxima batalha.",
+      "values": [
+        [
+          35,
+          39,
+          42,
+          46,
+          49,
+          53,
+          57,
+          61,
+          66,
+          70,
+          74,
+          77,
+          81,
+          84,
+          88
+        ],
+        [
+          60,
+          66,
+          72,
+          78,
+          84,
+          90,
+          98,
+          105,
+          113,
+          120,
+          126,
+          132,
+          138,
+          144,
+          150
+        ],
+        [
+          85,
+          94,
+          102,
+          111,
+          119,
+          127,
+          138,
+          149,
+          159,
+          170,
+          179,
+          187,
+          196,
+          204,
+          213
+        ],
+        [
+          50
+        ],
+        [
+          3
+        ],
+        [
+          16
+        ]
+      ],
+      "format": [
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]%",
+        "[i]",
+        "[i]"
+      ]
+    },
+    "mazeattack": {
+      "name": "Ataque",
+      "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+      "values": [],
+      "format": []
+    },
+    "technique": {
+      "name": "Sorriso 3x9",
+      "desc": "Após a Técnica ser utilizada, ao usar a Perícia pela primeira vez na próxima batalha, adiciona Fraqueza contra Físico igual àquela aplicada pela Perícia Suprema ao alvo, durando por {1} rodada(s).",
+      "values": [
+        [
+          2
+        ]
+      ],
+      "format": [
+        "[i]"
+      ]
+    },
+    "undefined": {
+      "name": "Martelada Sequencial",
+      "desc": "Causa Dano Físico igual a <span style=\"color: #f29e38ff\">{1}</span> do ATQ de Boothill a um único inimigo-alvo.\\nO ATQ Básico Aprimorado não pode recuperar Pontos de Perícia e só pode focar o inimigo-alvo com Confronto.",
+      "values": [
+        [
+          110,
+          132,
+          154,
+          176,
+          198,
+          220,
+          242,
+          264,
+          286
+        ]
+      ],
+      "format": [
+        "[i]%"
+      ]
+    }
+  },
   "trailblazer": {
     "attack": {
       "name": "Etiqueta da Dança de Swing",

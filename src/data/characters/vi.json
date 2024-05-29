@@ -375,6 +375,14 @@
     "rarity": 4,
     "background": "Đứa trẻ gác cửa ở Khách Sạn Penacony, một cậu bé ngoan ngoãn hiểu chuyện.\\nÔm khát vọng dõi theo dấu chân Khách Vô Danh, mơ ước một ngày bản thân cũng có thể bước lên cuộc hành trình."
   },
+  "boothill": {
+    "id": "boothill",
+    "name": "Boothill",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "Anh chàng cao bồi \"người cải tạo\" lang thang trong vũ trụ, cực kỳ lạc quan, không bị ràng buộc.\\nLà một thành viên của \"Cảnh Binh Thiên Hà\", có thể làm bất cứ điều gì để trừ gian diệt ác...\\nNhững hành động phách lối của anh ta đều nhằm mục đích thu hút sự chú ý của Công Ty Hành Tinh Hòa Bình - mục tiêu trả thù của anh ta."
+  },
   "trailblazer": {
     "id": "trailblazer",
     "name": "Nhà Khai Phá",
