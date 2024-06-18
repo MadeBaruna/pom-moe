@@ -45,6 +45,7 @@
 		category = id;
 		list = $achievements[category].achievements;
 		updateFiltered();
+		window.scrollTo(0, 0);
 	}
 
 	async function getLocalData() {

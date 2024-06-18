@@ -158,7 +158,7 @@
       },
       {
         "id": 4013201,
-        "name": "Đêm Nay Không Ai Ngủ",
+        "name": "Đêm Nay Không Ai Được Ngủ (Nessun Dorma)",
         "desc": "Nhà Khai Phá bước lên Vận Mệnh \"Hòa Hợp\"",
         "rarity": 3,
         "version": "2.2"
@@ -267,247 +267,289 @@
       {
         "id": 4030101,
         "name": "Quần Tinh - Nơi Ta Thuộc Về",
-        "desc": "Mở Chuyến Hành Trình Đến Dải Ngân Hà Bao La\\n<color=#8790abff>※Chúc mừng! Bạn đã tham gia vào Đội Tàu Astral!</color>",
+        "desc": "Mở Chuyến Hành Trình Đến Dải Ngân Hà Bao La\\n<span style=\"color: #8790abff;\">※Chúc mừng! Bạn đã tham gia vào Đội Tàu Astral!</span>",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4030102,
         "name": "Đêm Ở Thành Everwinter",
-        "desc": "Sau màn tuyết phủ trắng trời...\\n<color=#8790abff>※Bạn đã đến thành phố mang tên Belobog</color>",
+        "desc": "Sau màn tuyết phủ trắng trời...\\n<span style=\"color: #8790abff;\">※Bạn đã đến thành phố mang tên Belobog</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030103,
         "name": "Thế Giới Thất Lạc",
-        "desc": "Phát hiện bí mật bên dưới Jarilo-VI\\n<color=#8790abff>※Quả nhiên có người sống ở dưới lòng đất...</color>",
+        "desc": "Phát hiện bí mật bên dưới Jarilo-VI\\n<span style=\"color: #8790abff;\">※Quả nhiên có người sống ở dưới lòng đất...</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030104,
         "name": "1/2 Phù Thuỷ Xứ Oz",
-        "desc": "Đánh bại Người Sắt và Bé Gái\\n<color=#8790abff>※Svarog và Clara trở thành đồng hành của bạn!</color>",
+        "desc": "Đánh bại Người Sắt và Bé Gái\\n<span style=\"color: #8790abff;\">※Svarog và Clara trở thành đồng hành của bạn!</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030105,
         "name": "Mùa Đông Sẽ Qua",
-        "desc": "Thay đổi Belobog, bắt đầu từ chỗ của ta\\n<color=#8790abff>※Đầu tiên chính là lật đổ Đấng Bảo Vệ Tối Cao Cocolia...</color>",
+        "desc": "Thay đổi Belobog, bắt đầu từ chỗ của ta\\n<span style=\"color: #8790abff;\">※Đầu tiên chính là lật đổ Đấng Bảo Vệ Tối Cao Cocolia...</span>",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4030201,
         "name": "Cáo Đang Đi Dạo",
-        "desc": "Cái gọi là ngoại giao, chính là trao đổi ý kiến với nhau...\\n<color=#8790abff>※Gặp gỡ (những) người lãnh đạo của Xianzhou Luofu</color>",
+        "desc": "Cái gọi là ngoại giao, chính là trao đổi ý kiến với nhau...\\n<span style=\"color: #8790abff;\">※Gặp gỡ (những) người lãnh đạo của Xianzhou Luofu</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030202,
         "name": "Pháp Nhãn Tinh Thông",
-        "desc": "Thiên đạo luân hồi, kẻ phạm pháp chắc chắn bị bắt\\n<color=#8790abff>※Bắt Thợ Săn Stellaron Kafka thành công</color>",
+        "desc": "Thiên đạo luân hồi, kẻ phạm pháp chắc chắn bị bắt\\n<span style=\"color: #8790abff;\">※Bắt Thợ Săn Stellaron Kafka thành công</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032305,
         "name": "Thăm Hỏi Ân Cần",
-        "desc": "Người quản gió ở bàn bên cạnh nhìn bạn... \\n<color=#8790abff>※Tìm thấy Qingque đang mải mê chơi bài...</color>",
+        "desc": "Người quản gió ở bàn bên cạnh nhìn bạn... \\n<span style=\"color: #8790abff;\">※Tìm thấy Qingque đang mải mê chơi bài...</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032307,
         "name": "Người Thông Tỏ Sẽ Không Mê Tín",
-        "desc": "Chứng kiến bí mật trận pháp của Sở Thiên Tượng\\n<color=#8790abff>※Dùng Ma Trận Tiên Tri thẩm vấn Kafka, nhìn thấu để chống lại lời tiên tri...</color>",
+        "desc": "Chứng kiến bí mật trận pháp của Sở Thiên Tượng\\n<span style=\"color: #8790abff;\">※Dùng Ma Trận Tiên Tri thẩm vấn Kafka, nhìn thấu để chống lại lời tiên tri...</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032308,
         "name": "Vòng Xoáy Tranh Đoạt",
-        "desc": "Lò lửa rực cháy, tiếng kêu tắt lịm\\n<color=#8790abff>※Cứu Sở Công Nghiệp khỏi mối nguy</color>",
+        "desc": "Lò lửa rực cháy, tiếng kêu tắt lịm\\n<span style=\"color: #8790abff;\">※Cứu Sở Công Nghiệp khỏi mối nguy</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032306,
         "name": "Chưa Biết Ai Thắng Ai",
-        "desc": "Thử bước đi trên vận mệnh Săn Bắn...\\n<color=#8790abff>※Giúp Xianzhou đánh bại Tà Vật Trù Phú \"Huyền Lộc\"</color>",
+        "desc": "Thử bước đi trên vận mệnh Săn Bắn...\\n<span style=\"color: #8790abff;\">※Giúp Xianzhou đánh bại Tà Vật Trù Phú \"Huyền Lộc\"</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032501,
         "name": "Trường Sinh Đoản Mộng",
-        "desc": "Nếu chúng sống lại thì giết thêm lần nữa...\\n<color=#8790abff>※Đánh bại kẻ đứng đầu \"Bí Truyền Dược Vương\"</color>",
+        "desc": "Nếu chúng sống lại thì giết thêm lần nữa...\\n<span style=\"color: #8790abff;\">※Đánh bại kẻ đứng đầu \"Bí Truyền Dược Vương\"</span>",
         "rarity": 2,
         "version": "1.2"
       },
       {
         "id": 4032502,
         "name": "Ẩm Nguyệt Quân Đến",
-        "desc": "Biển không giấu ngọc sáng, rồng nhẹ nhả ánh trăng\\n<color=#8790abff>※Chứng kiến cảnh Dan Heng chia cắt nước biển ở Lân Uyên Cảnh</color>",
+        "desc": "Biển không giấu ngọc sáng, rồng nhẹ nhả ánh trăng\\n<span style=\"color: #8790abff;\">※Chứng kiến cảnh Dan Heng chia cắt nước biển ở Lân Uyên Cảnh</span>",
         "rarity": 2,
         "version": "1.2"
       },
       {
         "id": 4032503,
         "name": "Nhánh Cây Kiến Tạo",
-        "desc": "Tất cả âm mưu quỷ kế đều sẽ bị phá tan\\n<color=#8790abff>※Giúp Jing Yuan đánh bại Phantylia</color>",
+        "desc": "Tất cả âm mưu quỷ kế đều sẽ bị phá tan\\n<span style=\"color: #8790abff;\">※Giúp Jing Yuan đánh bại Phantylia</span>",
         "rarity": 3,
         "version": "1.2"
       },
       {
         "id": 4032601,
         "name": "Đời Chỉ Là Tạm Bợ",
-        "desc": "Tạm biệt Xianzhou Luofu\\n<color=#8790abff>※Tham gia Lễ Truy Điệu và kết liên minh với Xianzhou</color>",
+        "desc": "Tạm biệt Xianzhou Luofu\\n<span style=\"color: #8790abff;\">※Tham gia Lễ Truy Điệu và kết liên minh với Xianzhou</span>",
         "rarity": 2,
         "version": "1.3"
       },
       {
         "id": 4032701,
         "name": "Ngày Nắng Xếp Dù, Ngày Mưa Mượn Dù",
-        "desc": "(Lặp lại) Giúp Jarilo-VI và Belobog giải quyết mối nguy cực lớn\\n<color=#8790abff>※Hoàn thành Khai Phá Tiếp Diễn \"Thị Trường Tương Lai\"</color>",
+        "desc": "(Lặp lại) Giúp Jarilo-VI và Belobog giải quyết mối nguy cực lớn\\n<span style=\"color: #8790abff;\">※Hoàn thành Khai Phá Tiếp Diễn \"Thị Trường Tương Lai\"</span>",
         "rarity": 2,
         "version": "1.4"
       },
       {
         "id": 4032802,
         "name": "Thứ Nguy Hiểm Trong Lòng Tôi",
-        "desc": "Cùng Guinaifen khám phá hiện tượng siêu nhiên ở Khu Vườn Tĩnh Mịch\\n<color=#8790abff>※Trấn áp Tuế Dương Phù Yên, giải quyết mối nguy Tuế Dương ở Khu Vườn Tĩnh Mịch</color>",
+        "desc": "Cùng Guinaifen khám phá hiện tượng siêu nhiên ở Khu Vườn Tĩnh Mịch\\n<span style=\"color: #8790abff;\">※Trấn áp Tuế Dương Phù Yên, giải quyết mối nguy Tuế Dương ở Khu Vườn Tĩnh Mịch</span>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032801,
         "name": "Có Đuôi To To",
-        "desc": "Cùng Biệt Đội Bắt Ma thu thập tin tức ma quái\\n<color=#8790abff>※Tìm Lão Đuôi, trấn áp Tuế Dương bỏ trốn ở Luofu...</color>",
+        "desc": "Cùng Biệt Đội Bắt Ma thu thập tin tức ma quái\\n<span style=\"color: #8790abff;\">※Tìm Lão Đuôi, trấn áp Tuế Dương bỏ trốn ở Luofu...</span>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032901,
         "name": "Thiên Tài Bên Trái, Người Thường Bên Phải",
-        "desc": "Dẹp yên sóng gió mới trỗi dậy ở Trạm Không Gian Herta\\n<color=#8790abff>※Hoàn thành Khai Phá Tiếp Diễn Vương Miện Của Phàm Nhân Và Thần Thánh</color>",
+        "desc": "Dẹp yên sóng gió mới trỗi dậy ở Trạm Không Gian Herta\\n<span style=\"color: #8790abff;\">※Hoàn thành Khai Phá Tiếp Diễn Vương Miện Của Phàm Nhân Và Thần Thánh</span>",
         "rarity": 2,
         "version": "1.6"
       },
       {
         "id": 4033001,
         "name": "Còn Nhớ Tôi Không?",
-        "desc": "Gặp gỡ một người ngoài ý muốn khi bắt đầu hành trình...\\n<color=#8790abff>※Gặp gỡ Acheron trong Cõi Mộng xa lạ</color>",
+        "desc": "Gặp gỡ một người ngoài ý muốn khi bắt đầu hành trình...\\n<span style=\"color: #8790abff;\">※Gặp gỡ Acheron trong Cõi Mộng xa lạ</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033002,
         "name": "Nhà Khai Phá Cõi Mộng",
-        "desc": "Bước vào Vùng Đất Trong Mơ diệu kỳ!\\n<color=#8790abff>※Vào \"Thời Khắc Hoàng Kim\"</color>",
+        "desc": "Bước vào Vùng Đất Trong Mơ diệu kỳ!\\n<span style=\"color: #8790abff;\">※Vào \"Thời Khắc Hoàng Kim\"</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033003,
         "name": "Dịu Dàng Là Tên Của Màn Đêm",
-        "desc": "Chứng kiến sao băng lướt qua bầu trời trong mơ\\n<color=#8790abff>※Biết được bí mật của Firefly ở Ranh Giới Xây Mộng</color>",
+        "desc": "Chứng kiến sao băng lướt qua bầu trời trong mơ\\n<span style=\"color: #8790abff;\">※Biết được bí mật của Firefly ở Ranh Giới Xây Mộng</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033004,
         "name": "Sự Ngọt Ngào Tìm Đến",
-        "desc": "Phát hiện niềm vui bất ngờ trong thế giới Cõi Mộng\\n<color=#8790abff>※Thoát khỏi cái bóng của \"Tử Vong\"</color>",
+        "desc": "Phát hiện niềm vui bất ngờ trong thế giới Cõi Mộng\\n<span style=\"color: #8790abff;\">※Thoát khỏi cái bóng của \"Tử Vong\"</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033005,
         "name": "Bạn Cũ, Bạn Mới",
-        "desc": "Cảm nhận sự ấm áp trong biển sâu ký ức...\\n<color=#8790abff>※Giao chiến với Thợ Săn Stellaron Sam</color>",
+        "desc": "Cảm nhận sự ấm áp trong biển sâu ký ức...\\n<span style=\"color: #8790abff;\">※Giao chiến với Thợ Săn Stellaron Sam</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033006,
         "name": "Để Trái Tim Không Còn Đau Thương",
-        "desc": "Cả Penacony sẽ điên đảo vì điều này...\\n<color=#8790abff>※Chứng kiến vụ án mạng thứ hai</color>",
+        "desc": "Cả Penacony sẽ điên đảo vì điều này...\\n<span style=\"color: #8790abff;\">※Chứng kiến vụ án mạng thứ hai</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033007,
         "name": "\"Sibyl, Cô Muốn Gì?\"",
-        "desc": "Vận may sẽ dẫn dắt con bạc đi về đâu?\\n<color=#8790abff>※Chứng kiến cuộc đời của \"Kakavasha\"</color>",
+        "desc": "Vận may sẽ dẫn dắt con bạc đi về đâu?\\n<span style=\"color: #8790abff;\">※Chứng kiến cuộc đời của \"Kakavasha\"</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033009,
         "name": "Một Giọt Rượu Mạnh",
-        "desc": "Gửi lời chào đến giấc mộng đẹp và người đang nằm mộng!\\n<color=#8790abff>※Nhận được Thức Uống Đặc Biệt của Gallagher</color>",
+        "desc": "Gửi lời chào đến giấc mộng đẹp và người đang nằm mộng!\\n<span style=\"color: #8790abff;\">※Nhận được Thức Uống Đặc Biệt của Gallagher</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033010,
         "name": "Cô Ấy Trả Lời, Tôi Muốn Chết",
-        "desc": "Thưởng thức tiết mục hạ màn long trọng tại vị trí tốt nhất\\n<color=#8790abff>※Đánh bại Aventurine - một trong \"10 Người Có Trái Tim Đá\"</color>",
+        "desc": "Thưởng thức màn hạ màn long trọng tại vị trí tốt nhất\\n<span style=\"color: #8790abff;\">※ Đánh bại \"10 Người Có Trái Tim Đá\" Aventurine</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033011,
         "name": "Gửi Đến Icarus",
-        "desc": "Nghe lại chuyện xưa ở nơi đất khách\\n<color=#8790abff>※Lắng nghe cuộc nói chuyện giữa Acheron và Welt</color>",
+        "desc": "Nghe lại chuyện xưa ở nơi đất khách\\n<span style=\"color: #8790abff;\">※Lắng nghe cuộc nói chuyện giữa Acheron và Welt</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033201,
         "name": "Trùm Cuối",
-        "desc": "Gặp mặt Thợ Đồng Hồ\\n<color=#8790abff>※Gặp gỡ Khách Vô Danh đầu tiên ở Penacony</color>",
+        "desc": "Gặp gỡ Thợ Đồng Hồ\\n<span style=\"color: #8790abff;\">※ Gặp gỡ Khách Vô Danh đầu tiên ở Penacony</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033202,
         "name": "Chúng Ta Sẽ Là Những Người Tự Do Như Cha Ông Chúng Ta",
-        "desc": "Kế thừa di sản của Thợ Đồng Hồ\\n<color=#8790abff>※Tiếp tục hành trình chưa kết thúc của vị Khách Vô Danh cuối cùng ở Penacony</color>",
+        "desc": "Kế thừa di sản của Thợ Đồng Hồ\\n<span style=\"color: #8790abff;\">※Tiếp tục hành trình chưa kết thúc của vị Khách Vô Danh cuối cùng ở Penacony</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033203,
         "name": "Nếu Chúng Ta Đi Trong Ánh Sáng",
-        "desc": "Bước vào hành trình \"Khai Phá\" mới như mong muốn\\n<color=#8790abff>※Đánh bại \"Dàn Hợp Xướng Hòa Hợp\" Dominicus...</color>",
+        "desc": "Bước vào hành trình \"Khai Phá\" mới như mong muốn\\n<span style=\"color: #8790abff;\">※Đánh bại \"Dàn Hợp Xướng Hòa Hợp\" Dominicus...</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033204,
         "name": "Cuối Cùng, Chúng Ta Tỉnh Dậy Từ Trong Giấc Mộng",
-        "desc": "Chứng kiến ánh bình minh đầu tiên của Penacony\\n<color=#8790abff>※Đánh bại Sunday \"Bào Thai Triết Học\"</color>",
+        "desc": "Chứng kiến ánh bình minh đầu tiên của Penacony\\n<span style=\"color: #8790abff;\">※Đánh bại Sunday \"Bào Thai Triết Học\"</span>",
         "rarity": 3,
         "version": "2.2"
       },
       {
         "id": 4033205,
         "name": "Chân Thành Là Tuyệt Kỹ Vĩnh Hằng",
-        "desc": "Giảng hòa với người bảo vệ chính nghĩa của Penacony\\n<color=#8790abff>※Thuyết phục Argenti tại Trận Chiến Siêu Sao Đỉnh Cao</color>",
+        "desc": "Giảng hòa với người bảo vệ chính nghĩa của Penacony\\n<span style=\"color: #8790abff;\">※Thuyết phục Argenti tại Trận Chiến Siêu Sao Đỉnh Cao</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033206,
         "name": "Tuyệt Kỹ Là Chân Thành Mãi Mãi",
-        "desc": "Đánh bại người bảo vệ chính nghĩa của Penacony\\n<color=#8790abff>※Đánh bại Argenti tại Trận Chiến Siêu Sao Đỉnh Cao</color>",
+        "desc": "Đánh bại người bảo vệ chính nghĩa của Penacony\\n<span style=\"color: #8790abff;\">※Đánh bại Argenti tại Trận Chiến Siêu Sao Đỉnh Cao</span>",
         "rarity": 2,
         "version": "2.2"
+      },
+      {
+        "id": 4033301,
+        "name": "Tất Cả Những Bông Hoa Đang Chết (All the Flowers are Dying)",
+        "desc": "Cạn ly vì người đã khuất, kính chúc hiện thực đau khổ\\n<span style=\"color: #8790abff;\">※ Thức uống pha chế đặc biệt \"Giấc Mộng Cay Đắng\"</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033302,
+        "name": "Cuộc Sống Thật Tuyệt Vời (It's a Wonderful Life)",
+        "desc": "Cạn ly vì người đã khuất, kính chúc ngày mai ngọt ngào\\n<span style=\"color: #8790abff;\">※ Thức uống pha chế đặc biệt \"Ngọt Ngấy\"</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033303,
+        "name": "Đồng Hành Với Tôi (Going My Way)",
+        "desc": "Bất ngờ gặp gỡ Đội Tàu Astral\\n<span style=\"color: #8790abff;\">※ Bằng góc nhìn của Firefly, nhìn thấy Đội Tàu Astral trên Tàu Radiant Feldspar</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033304,
+        "name": "Đang Trên Đường (On the Road)",
+        "desc": "Lướt qua Đội Tàu Astral\\n<span style=\"color: #8790abff;\">※ Bằng góc nhìn của Firefly, tập trung tìm kiếm Hiệu Cầm Đồ Bonajade trên Tàu Radiant Feldspar</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033305,
+        "name": "Thuyền Của Những Kẻ Ngốc (Ship of Fools)",
+        "desc": "Thêm một chú thích mới cho vận mệnh của chúng ta\\n<span style=\"color: #8790abff;\">※ Giải quyết thành công nguy cơ về \"bom\", thưởng thức màn pháo hoa hoành tráng</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033306,
+        "name": "Nàng Thơ, Hãy Kể Tôi Nghe (Tell Me, O Muse)",
+        "desc": "Quyết định trạm tiếp theo trong hành trình Penacony\\n<span style=\"color: #8790abff;\">※ Xuất phát - \"Vùng Đất Vĩnh Hằng\" Amphoreus!</span>",
+        "rarity": 2,
+        "version": "2.3"
       }
     ]
   },
@@ -566,7 +608,7 @@
       {
         "id": 4042507,
         "name": "Cát Tinh Chiếu Rọi",
-        "desc": "Mở 170 lần Chiến Lợi Phẩm ở Xianzhou Luofu",
+        "desc": "Mở 170 lần Chiến Lợi Phẩm Xianzhou Luofu",
         "rarity": 2,
         "version": "1.2"
       },
@@ -979,7 +1021,7 @@
       {
         "id": 4043022,
         "name": "Ở Nhà Một Mình",
-        "desc": "Tham gia 1 Cuộc Phiêu Lưu Của Hanu, đánh bại 3 Tay Sai Ông Chủ Đá trong 1 lần",
+        "desc": "Trong 1 lần Cuộc Phiêu Lưu Của Hanu, đánh bại một lượt 3 Tay Sai của Ông Chủ Đá",
         "rarity": 1,
         "version": "2.1"
       },
@@ -1063,7 +1105,7 @@
       {
         "id": 4043034,
         "name": "Hỏa Lực Toàn Diện",
-        "desc": "Trong Cuộc Phiêu Lưu Của Hanu, đạn dược của \"Đạn Hanu\" đạt giới hạn",
+        "desc": "Đạn Hanu đạt giới hạn tối đa trong Cuộc Phiêu Lưu Của Hanu",
         "rarity": 1,
         "version": "2.1"
       },
@@ -1241,6 +1283,20 @@
         "desc": "Giúp thành viên Gia tộc tìm lại tất cả tang vật",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4043301,
+        "name": "Bong Bóng, Bay Đến Ngày Mai",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong {Tàu Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4043302,
+        "name": "Tiếc Là Không Phải Một Ban Nhạc",
+        "desc": "Giải cứu \"Sếp\" Đồng Hồ trên {Tàu Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -1313,7 +1369,7 @@
       {
         "id": 4052403,
         "name": "Vũ Công Quan Tài",
-        "desc": "Chứng kiến mặt trái không để người khác biết của Luocha\\n<color=#8790abff>※Xem đoạn ghi hình sau khi sửa chữa, nghe Luocha độc thoại</color>",
+        "desc": "Chứng kiến mặt trái không để người khác biết của Luocha\\n<span style=\"color: #8790abff;\">※Xem đoạn ghi hình sau khi sửa chữa, nghe Luocha độc thoại</span>",
         "rarity": 1,
         "version": "1.1"
       },
@@ -1327,14 +1383,14 @@
       {
         "id": 4052507,
         "name": "Ý Chí Tự Do",
-        "desc": "Hoàn thành nhiệm vụ đồng hành \"Bức Thư Từ Người Phụ Nữ Xa Lạ\"\\n<color=#8790abff>※Bạn đã chọn giúp đỡ Kafka</color>",
+        "desc": "Hoàn thành nhiệm vụ đồng hành \"Bức Thư Từ Người Phụ Nữ Xa Lạ\"\\n<span style=\"color: #8790abff;\">※Bạn đã chọn giúp đỡ Kafka</span>",
         "rarity": 1,
         "version": "1.2"
       },
       {
         "id": 4052511,
         "name": "Ý Chí Tự Do Chân Chính",
-        "desc": "Hoàn thành nhiệm vụ đồng hành \"Bức Thư Từ Người Phụ Nữ Xa Lạ\"\\n<color=#8790abff>※Bạn đã chọn rời khỏi Kafka, rất ít người làm như vậy, nhưng việc này chứng minh bạn có ý chí tự do</color>",
+        "desc": "Hoàn thành nhiệm vụ đồng hành \"Bức Thư Từ Người Phụ Nữ Xa Lạ\"\\n<span style=\"color: #8790abff;\">※Bạn đã chọn rời khỏi Kafka, rất ít người làm như vậy, nhưng việc này chứng minh bạn có ý chí tự do</span>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -1649,7 +1705,7 @@
       {
         "id": 4052720,
         "name": "Bước Đầu Tiên Của Tương Lai",
-        "desc": "Quan tâm động thái phát triển của Belobog\\n<color=#8790abff>※Mua \"Tuần Báo Thợ Mỏ Kỳ 226\"</color>",
+        "desc": "Quan tâm động thái phát triển của Belobog\\n<span style=\"color: #8790abff;\">※Mua \"Tuần Báo Thợ Mỏ Kỳ 226\"</span>",
         "rarity": 1,
         "version": "1.4"
       },
@@ -1817,14 +1873,14 @@
       {
         "id": 4052718,
         "name": "Chiến Thắng, Sau Đó Là Tạm Biệt",
-        "desc": "Sau khi mọi chuyện lắng xuống, trả lại {TEXTJOIN#54}",
+        "desc": "Sau khi mọi chuyện lắng xuống, trả lại {Heo Đất Không Gian}",
         "rarity": 1,
         "version": "1.4"
       },
       {
         "id": 4052719,
         "name": "Kết Thúc, Sau Đó Là Bắt Đầu",
-        "desc": "Sau khi mọi chuyện lắng xuống, giữ lại {TEXTJOIN#54}",
+        "desc": "Sau khi mọi chuyện lắng xuống, giữ lại {Heo Đất Không Gian}",
         "rarity": 1,
         "version": "1.4"
       },
@@ -2559,28 +2615,28 @@
       {
         "id": 4053012,
         "name": "Tận Hưởng Cảm Xúc",
-        "desc": "\"Thủ Thuật Đồng Hồ\" có thể đem lại những gì?\\n<color=#8790abff>※Dẫn dắt cảm xúc của #1 người trong Cõi Mộng</color>",
+        "desc": "\"Thủ Thuật Đồng Hồ\" có thể đem lại những gì?\\n<span style=\"color: #8790abff;\">※Dẫn dắt cảm xúc của #1 người trong Cõi Mộng</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053014,
         "name": "Cảm Nhận Sự Ấm Áp",
-        "desc": "\"Thủ Thuật Đồng Hồ\" có thể giúp con người tìm lại chính mình\\n<color=#8790abff>※Giải quyết #1 lần Sự Kiện Bất Ngờ của Thủ Thuật Đồng Hồ</color>",
+        "desc": "\"Thủ Thuật Đồng Hồ\" có thể giúp con người tìm lại chính mình\\n<span style=\"color: #8790abff;\">※Giải quyết #1 lần Sự Kiện Bất Ngờ của Thủ Thuật Đồng Hồ</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053015,
         "name": "Trái Tim Đập Thình Thịch",
-        "desc": "Trong mơ, ngay cả cảm xúc cũng có thực thể\\n<color=#8790abff>※Thu thập #1 Bánh Răng Cảm Xúc</color>",
+        "desc": "Trong mơ, ngay cả cảm xúc cũng có thực thể\\n<span style=\"color: #8790abff;\">※Thu thập #1 Bánh Răng Cảm Xúc</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053016,
         "name": "Tôi Hiểu Tâm Tư Bạn",
-        "desc": "Bạn có thể cưỡng lại cám dỗ của việc tư vấn tâm lý không?\\n<color=#8790abff>※Dẫn dắt cảm xúc của ít nhất #1 người trong Cõi Mộng</color>",
+        "desc": "Bạn có thể cưỡng lại cám dỗ của việc tư vấn tâm lý không?\\n<span style=\"color: #8790abff;\">※Dẫn dắt cảm xúc của ít nhất #1 người trong Cõi Mộng</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2601,7 +2657,7 @@
       {
         "id": 4053019,
         "name": "Số Máy Vừa Gọi Hiện Không Liên Lạc Được",
-        "desc": "Luôn có những nơi không mở cửa cho người ngoài\\n<color=#8790abff>※Gọi cho một số điện thoại không kết nối được</color>",
+        "desc": "Luôn có những nơi không mở cửa cho người ngoài\\n<span style=\"color: #8790abff;\">※Gọi cho một số điện thoại không kết nối được</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2629,7 +2685,7 @@
       {
         "id": 4053023,
         "name": "Đừng Nhặt Những Thứ Không Lành",
-        "desc": "Không phải tất cả truyền thuyết đô thị đều là truyền thuyết\\n<color=#8790abff>※Nhặt được một cuộn băng kỳ dị</color>",
+        "desc": "Không phải tất cả truyền thuyết đô thị đều là truyền thuyết\\n<span style=\"color: #8790abff;\">※Nhặt được một cuộn băng kỳ dị</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2657,28 +2713,28 @@
       {
         "id": 4053027,
         "name": "Mỗi Người Nói Mỗi Khác",
-        "desc": "Vậy... là ai tông trúng ai?\\n<color=#8790abff>※Chứng kiến đầu đuôi tai nạn giao thông tại Đại Lộ Glaux</color>",
+        "desc": "Vậy... là ai tông trúng ai?\\n<span style=\"color: #8790abff;\">※Chứng kiến đầu đuôi tai nạn giao thông tại Đại Lộ Glaux</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053028,
         "name": "Pepeshi Biến Hình",
-        "desc": "Pepeshi? Quái biến hình?\\n<color=#8790abff>※Tìm ra thân phận thật của \"Pepeshi\" tại đại sảnh khách sạn</color>",
+        "desc": "Pepeshi? Quái biến hình?\\n<span style=\"color: #8790abff;\">※Tìm ra thân phận thật của \"Pepeshi\" tại đại sảnh khách sạn</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053029,
         "name": "Hành Tinh Lễ Hội Và 6 Xu Alfalfa",
-        "desc": "Tình yêu và mơ ước rốt cuộc cái nào quan trọng hơn?\\n<color=#8790abff>※Tìm hiểu câu chuyện về một gia đình bị ước mơ xé nát</color>",
+        "desc": "Tình yêu và mơ ước rốt cuộc cái nào quan trọng hơn?\\n<span style=\"color: #8790abff;\">※Tìm hiểu câu chuyện về một gia đình bị ước mơ xé nát</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053030,
         "name": "Vệ Sinh Tinh Thần",
-        "desc": "Bảo vệ môi trường, bắt đầu từ chính bản thân\\n<color=#8790abff>※Giúp đỡ Go-Ray thu hồi rác trong Cõi Mộng</color>",
+        "desc": "Bảo vệ môi trường, bắt đầu từ chính bản thân\\n<span style=\"color: #8790abff;\">※Giúp đỡ Go-Ray thu hồi rác trong Cõi Mộng</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2699,7 +2755,7 @@
       {
         "id": 4053033,
         "name": "Bản Giao Hưởng Không Người",
-        "desc": "Khi người biểu diễn nhạc vui trở nên vui vẻ hơn sẽ xảy ra chuyện gì?\\n<color=#8790abff>※Âm nhạc của Max trở nên rộn ràng hơn</color>",
+        "desc": "Khi người biểu diễn nhạc vui trở nên vui vẻ hơn sẽ xảy ra chuyện gì?\\n<span style=\"color: #8790abff;\">※Âm nhạc của Max trở nên rộn ràng hơn</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2720,14 +2776,14 @@
       {
         "id": 4053036,
         "name": "Giữa Bạn Và Bầu Trời",
-        "desc": "Một mình ghé thăm chốn cũ\\n<color=#8790abff>※Sau khi tất cả kết thúc, trở về căn cứ bí mật của Firefly</color>",
+        "desc": "Một mình ghé thăm chốn cũ\\n<span style=\"color: #8790abff;\">※Sau khi tất cả kết thúc, trở về căn cứ bí mật của Firefly</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053037,
         "name": "Có Thấy Cái Thang Đó Không?",
-        "desc": "Thử trèo lên cầu thang Ranh Giới Xây Mộng\\n<color=#8790abff>※Nhưng trèo lên không được</color>",
+        "desc": "Thử trèo lên cầu thang Ranh Giới Xây Mộng\\n<span style=\"color: #8790abff;\">※Nhưng trèo lên không được</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2762,7 +2818,7 @@
       {
         "id": 4053042,
         "name": "Déjà Vu",
-        "desc": "Gặp được \"phong cảnh\" quen thuộc trong Cõi Mộng\\n<color=#8790abff>※Đúng vậy, là thùng rác!</color>",
+        "desc": "Gặp được \"phong cảnh\" quen thuộc trong Cõi Mộng\\n<span style=\"color: #8790abff;\">※Đúng vậy, là thùng rác!</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2783,7 +2839,7 @@
       {
         "id": 4053045,
         "name": "Kẻ Địch Quốc Dân",
-        "desc": "Mạo phạm chính xác và nhanh chóng tất cả Pepeshi gặp phải\\n<color=#8790abff>※Thử chạm vào cục bông của tất cả Pepeshi trong Thời Khắc Hoàng Kim</color>",
+        "desc": "Mạo phạm chính xác và nhanh chóng tất cả Pepeshi gặp phải\\n<span style=\"color: #8790abff;\">※Thử chạm vào cục bông của tất cả Pepeshi trong Thời Khắc Hoàng Kim</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2797,35 +2853,35 @@
       {
         "id": 4053047,
         "name": "Cánh Cổng Sao Xa",
-        "desc": "Nhà thám hiểm hay hải tặc?\\n<color=#8790abff>※Nghe ngóng câu chuyện về vũ trụ của Colleen</color>",
+        "desc": "Nhà thám hiểm hay hải tặc?\\n<span style=\"color: #8790abff;\">※Nghe ngóng câu chuyện về vũ trụ của Colleen</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053048,
         "name": "Đúng Là Siêu Đỉnh",
-        "desc": "Chứng kiến một \"Tầm Nhìn Vĩ Đại\"\\n<color=#8790abff>※Thu thập đánh giá của thành viên Gia Tộc về dự án Ranh Giới Xây Mộng</color>",
+        "desc": "Chứng kiến một \"Tầm Nhìn Vĩ Đại\"\\n<span style=\"color: #8790abff;\">※Thu thập đánh giá của thành viên Gia Tộc về dự án Ranh Giới Xây Mộng</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053049,
         "name": "Giấc Mơ Bảo Vệ Bản Quyền",
-        "desc": "Những gì bạn nhìn thấy đều thuộc bản quyền của tôi!\\n<color=#8790abff>※Giúp đỡ Emmrich hoàn thành kế hoạch của anh ấy</color>",
+        "desc": "Những gì bạn nhìn thấy đều thuộc bản quyền của tôi!\\n<span style=\"color: #8790abff;\">※Giúp đỡ Emmrich hoàn thành kế hoạch của anh ấy</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053050,
         "name": "Hiện Thực Quá Nặng, Ước Mơ Quá Nhẹ",
-        "desc": "Cuối cùng con người cũng không thể thấu hiểu nhau\\n<color=#8790abff>※Nghe cuộc nói chuyện giữa Larose và Forla</color>",
+        "desc": "Cuối cùng con người cũng không thể thấu hiểu nhau\\n<span style=\"color: #8790abff;\">※Nghe cuộc nói chuyện giữa Larose và Forla</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053051,
         "name": "Lời Từ Biệt Lâu Dài",
-        "desc": "Mong rằng cô ấy sớm ngày từ biệt bóng đen quá khứ\\n<color=#8790abff>※Chứng kiến câu chuyện của Lew Archer</color>",
+        "desc": "Mong rằng cô ấy sớm ngày từ biệt bóng đen quá khứ\\n<span style=\"color: #8790abff;\">※Chứng kiến câu chuyện của Lew Archer</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2839,7 +2895,7 @@
       {
         "id": 4053053,
         "name": "Kinh Tế Học Oti",
-        "desc": "Khi mọi người đều nhận được tiền, đồng nghĩa với việc không ai thật sự nhận được tiền\\n<color=#8790abff>※Kích hoạt nhiều lần Máy Phun Tiền trên đường</color>",
+        "desc": "Khi mọi người đều nhận được tiền, đồng nghĩa với việc không ai thật sự nhận được tiền\\n<span style=\"color: #8790abff;\">※Kích hoạt nhiều lần Máy Phun Tiền trên đường</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -3147,7 +3203,7 @@
       {
         "id": 4053228,
         "name": "Mikhail, Ông Đi Đâu Vậy?",
-        "desc": "Con đường nên đi, ta đã đi cả rồi\\n<color=#8790abff>※Rồi khi tất cả bụi trần lắng xuống, ta lại về nơi ngắm trăng thuở nhỏ</color>",
+        "desc": "Con đường nên đi, ta đã đi cả rồi\\n<span style=\"color: #8790abff;\">※Rồi khi tất cả bụi trần lắng xuống, ta lại về nơi ngắm trăng thuở nhỏ</span>",
         "rarity": 1,
         "version": "2.2"
       },
@@ -3178,6 +3234,202 @@
         "desc": "Giúp Bảng Quảng Cáo \"Gặp Gỡ Tình Yêu\" chuyển lời đến người yêu của nó",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4053205,
+        "name": "Nhãn Dán, Thật Nhiều Nhãn Dán",
+        "desc": "Toàn bộ các trang \"Hộ Chiếu Cõi Mộng\" hoàn thành 100%",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4053301,
+        "name": "Nhiệm Vụ Bị Cấm Trong Khách Sạn",
+        "desc": "Hoàn thành Nhiệm Vụ Thám Hiểm \"Trả Phòng\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053302,
+        "name": "Tang Lễ Của Hoa Hồng",
+        "desc": "Hoàn thành Nhiệm Vụ Thám Hiểm \"Cuốn Phim Ác Nghiệt Cuối Cùng\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053303,
+        "name": "Tàu Trưởng Của Tôi, Tàu Của Tôi",
+        "desc": "Hoàn thành Nhiệm Vụ Thám Hiểm \"Cánh Buồm Trở Về Trái Tim\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053304,
+        "name": "Tấm Ảnh Nhóm Bất Ngờ",
+        "desc": "Chụp ảnh nhóm trong sự kiện Chim Giấy Đại Chiến",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4053305,
+        "name": "Omega Ruby",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, đặt Chim Sói Bạc, Chim Firefly và Chim Khai Phá trên cùng một bên của Game Thùng",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053306,
+        "name": "Alpha Sapphire",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, đặt Chim Khai Phá và Chim March trên Game Thùng cạnh nhau",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053307,
+        "name": "Không Làm Khó Được Đâu",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận kích hoạt #1 lần kỹ năng Chim",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053308,
+        "name": "Chim Giấy Giận Dữ",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận tự tay kích hoạt #1 lần tổ hợp Bom",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053309,
+        "name": "Chim! Chim! Chim!",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận, lực chiến cao nhất của Chim đạt #1",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053310,
+        "name": "Vườn Bách Thú Gấp Giấy",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, chiến thắng tất cả Khiêu Chiến Tự Do",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053311,
+        "name": "Sự Ra Đời Của Một Ngôi Sao (A Star Is Born)",
+        "desc": "Bố trí diễn viên phù hợp trên sân khấu của {Tàu Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053312,
+        "name": "Xe Bay Siêu Cấp (Need For Speed)",
+        "desc": "Đậu xe tại vị trí dành riêng của {Tàu Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053313,
+        "name": "Rạp Chiếu Phim Gia Đình",
+        "desc": "Dùng máy chiếu trên {Tàu Radiant Feldspar}, và mời thành viên Đội Tàu Astral đến xem",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053315,
+        "name": "Mười Tám Thùng Quý Tộc",
+        "desc": "Hoàn thành tất cả khiêu chiến Thùng Thí Luyện trên {Tàu Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053316,
+        "name": "Vận Chuyển Nhanh May Mắn",
+        "desc": "Ký tên nhận bưu kiện của Aventurine gửi đến trên {Tàu Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053317,
+        "name": "Trực Tiếp Đêm Đội Tàu Astral",
+        "desc": "Dùng Xu Quay Trứng Vàng mua Tivi Người Anh Em Hanu Bé Nhỏ, và lắp đặt nó vào trong Toa Tàu",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053318,
+        "name": "Vị Khách Vô Hình (The Invisible Guest)",
+        "desc": "Biến thành Người Anh Em Hanu xông vào phòng của thành viên Đội Tàu Astral khác",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053319,
+        "name": "Quà Lưu Niệm Tự Trả Tiền",
+        "desc": "Nhận được quà lưu niệm tàu trưởng của {NICKNAME}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053320,
+        "name": "Tàu Trưởng Bóng Tối",
+        "desc": "Nói chuyện với Bảng Quảng Cáo của tàu trưởng {NICKNAME}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053322,
+        "name": "Dưới Chiếc Kính Đen",
+        "desc": "Trong phòng điều khiển, kích hoạt camera giám sát, quan sát thân tàu {Tàu Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053323,
+        "name": "Vinh Quang Trở Lại",
+        "desc": "Đổi tên và sơn cánh đuôi cho Tàu Radiant Feldspar",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053324,
+        "name": "Thành Phố Vô Hình (Invisible Cities)",
+        "desc": "Dùng kính quan sát trên {Tàu Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053325,
+        "name": "Trái Tim Vĩnh Hằng (My Heart Will Go On)",
+        "desc": "Từ phía đầu tàu của {Tàu Radiant Feldspar}, nhìn về nơi xa",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053326,
+        "name": "Câu Chuyện Kinh Dị Hoàn Chỉnh",
+        "desc": "Dùng Thủ Thuật Đồng Hồ đọc tất cả cảm xúc của Bella",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053327,
+        "name": "Quỷ Đoạt Hồn (The Evil Within)",
+        "desc": "Dùng Thủ Thuật Đồng Hồ đọc cảm xúc vui vẻ của Stefano",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053328,
+        "name": "Tiền Vàng Ngôi Sao",
+        "desc": "Thu thập tất cả Xu Quay Trứng Vàng ở Penacony",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053329,
+        "name": "Captain! My Captain!",
+        "desc": "Lần đầu vào không gian riêng của tàu trưởng {Tàu Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -3724,7 +3976,7 @@
       {
         "id": 4071505,
         "name": "Người Yêu Thích Cà Phê",
-        "desc": "Mỗi Sáng Trưa Tối Một Ly Cà Phê, Sảng Khoái\\n<color=#8790abff>※Trong 1 trận đấu, dùng Himeko thi triển Tuyệt Kỹ 3 lần</color>",
+        "desc": "Mỗi Sáng Trưa Tối Một Ly Cà Phê, Sảng Khoái\\n<span style=\"color: #8790abff;\">※Trong 1 trận đấu, dùng Himeko thi triển Tuyệt Kỹ 3 lần</span>",
         "rarity": 2,
         "version": "1.0"
       },
@@ -3962,7 +4214,7 @@
       {
         "id": 4072504,
         "name": "Không Thể Cưỡng Cầu",
-        "desc": "Nhiều Chuyện\\n<color=#8790abff>※Trong 1 trận, dùng Blade để hồi HP cho anh ấy từ mức HP nhỏ hơn hoặc bằng 0% đến lượng HP lớn hơn hoặc bằng <unbreak>30%</unbreak> <unbreak>2</unbreak> lần trong một lần tấn công</color>",
+        "desc": "Nhiều Chuyện\\n<span style=\"color: #8790abff;\">※Trong 1 trận, dùng Blade để hồi HP cho anh ấy từ mức HP nhỏ hơn hoặc bằng 0% đến lượng HP lớn hơn hoặc bằng <unbreak>30%</unbreak> <unbreak>2</unbreak> lần trong một lần tấn công</span>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -4158,7 +4410,7 @@
       {
         "id": 4072905,
         "name": "Lắng Nghe Là Người Bạn Tuyệt Vời",
-        "desc": "Dừng lại lắng nghe những suy nghĩ vụn vặt của Hanya\\n<color=#8790abff>※Lắng nghe trọn vẹn lồng tiếng động tác chờ và lồng tiếng chờ lượt của Hanya</color>",
+        "desc": "Dừng lại lắng nghe những suy nghĩ vụn vặt của Hanya\\n<span style=\"color: #8790abff;\">※Lắng nghe trọn vẹn lồng tiếng động tác chờ và lồng tiếng chờ lượt của Hanya</span>",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4305,7 +4557,7 @@
       {
         "id": 4073201,
         "name": "JACKPOT!",
-        "desc": "Khiến \"Người Bán Hàng May Mắn Của Đoàn Kịch Ác Mộng\" lắc ra 1 lần \"Xuất Hàng!\"",
+        "desc": "Khiến Người Bán Hàng May Mắn Của Đoàn Kịch Ác Mộng lắc ra 1 lần \"Xuất Hàng!\"",
         "rarity": 1,
         "version": "2.2"
       },
@@ -4347,7 +4599,7 @@
       {
         "id": 4073207,
         "name": "Thời Gian Một Bài Hát",
-        "desc": "Lắng nghe tiếng hát của Robin\\n<color=#8790abff>※Trong chiến đấu, sau khi thi triển Tuyệt Kỹ \"Ngàn Âm Hợp Xướng, Tẩu Pháp Vạn Vì Sao\" của Robin, quan sát Robin #1 giây trở lên</color> ở chế độ xem",
+        "desc": "Lắng nghe tiếng hát của Robin\\n<span style=\"color: #8790abff;\">※ Trong chiến đấu, sau khi thi triển Tuyệt Kỹ \"Ngàn Âm Hợp Xướng, Tẩu Pháp Vạn Vì Sao\" của Robin, quan sát Robin trong chiến đấu #1 giây trở lên</span>",
         "rarity": 1,
         "version": "2.2"
       },
@@ -4385,6 +4637,48 @@
         "desc": "Tích lũy đủ Khiên, chống đỡ hoàn toàn sát thương do kỹ năng Thái Sơ Hữu Vi của Sunday \"Bào Thai Triết Học\" gây ra",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4073301,
+        "name": "Nhóm Đặc Biệt Hành Tinh Lễ Hội",
+        "desc": "Dùng đội đồng thời có Topaz & Numby, Dr. Ratio, Aventurine, Jade đánh thắng 1 trận",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073302,
+        "name": "Cứu Con Mèo (Save the Cat!)",
+        "desc": "Dùng đội đồng thời có Sói Bạc, Blade, Kafka, Firefly đánh thắng 1 trận",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073303,
+        "name": "Nhà Thầu (The Contractor)",
+        "desc": "Trong 1 trận đấu, khi phe ta có hiệu ứng Chiến Kỹ \"Người Thu Nợ\" của Jade , sẽ tiêu hao HP hiện tại đến #1",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073304,
+        "name": "Đi Đi, SAM",
+        "desc": "Dùng nhân vật Firefly phe ta chiến đấu với Kafka và vào trạng thái Chi Phối",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073305,
+        "name": "Tôi Sẽ... Đốt Cháy Biển Cả!",
+        "desc": "Trong 1 trận đấu, sử dụng Chiến Giáp SAM thi triển #1 lần \"Đom Đóm IV - Sao Chết Quá Tải\" trước khi trạng thái Thiêu Đốt Hoàn Toàn kết thúc",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073306,
+        "name": "Đã Từng Thấy Mùa Hè",
+        "desc": "Dùng đội đồng thời có Firefly, {NICKNAME} đánh thắng 1 trận",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -4415,35 +4709,35 @@
       {
         "id": 4080301,
         "name": "Địa Đàng Diogenes",
-        "desc": "Danh thiếp khám phá Belobog!\\n<color=#8790abff>※Đồ vật còn xài được trong thùng rác đều vô túi của bạn!</color>",
+        "desc": "Danh thiếp khám phá Belobog!\\n<span style=\"color: #8790abff;\">※Đồ vật còn xài được trong thùng rác đều vô túi của bạn!</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080302,
         "name": "Không Thể Đủ Đầy",
-        "desc": "Có lúc quá đầy đủ cũng không phải chuyện tốt...\\n<color=#8790abff>※Dùng 1 lần \"Thuốc Gây Nôn\"</color>",
+        "desc": "Có lúc quá đầy đủ cũng không phải chuyện tốt...\\n<span style=\"color: #8790abff;\">※Dùng 1 lần \"Thuốc Gây Nôn\"</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080303,
         "name": "Mùi Vị Tệ Hại",
-        "desc": "Ngay cả một mảnh rác cũng có công dụng của nó\\n<color=#8790abff>※Tích lũy dùng \"rác\" để ghép vật tiêu hao 10 lần</color>",
+        "desc": "Ngay cả một mảnh rác cũng có công dụng của nó\\n<span style=\"color: #8790abff;\">※Tích lũy dùng \"rác\" để ghép vật tiêu hao 10 lần</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080304,
         "name": "Nghiệp Báo",
-        "desc": "Hãy để sự tồn tại cao cả trong tim chúng tôi cũng phải lắc đầu thở dài với bạn\\n<color=#8790abff>※Nghĩ cách dùng hết \"Lời Khen Cao Thượng\"</color>",
+        "desc": "Hãy để sự tồn tại cao cả trong tim chúng tôi cũng phải lắc đầu thở dài với bạn\\n<span style=\"color: #8790abff;\">※Nghĩ cách dùng hết \"Lời Khen Cao Thượng\"</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080305,
         "name": "Thánh Nhân",
-        "desc": "Hãy để sự tồn tại cao cả trong tim chúng tôi giơ ngón cái lên \"like\"\\n<color=#8790abff>※Tích lũy nhận 20 lần \"Lời Khen Cao Thượng\"</color>",
+        "desc": "Hãy để sự tồn tại cao cả trong tim chúng tôi giơ ngón cái lên \"like\"\\n<span style=\"color: #8790abff;\">※Tích lũy nhận 20 lần \"Lời Khen Cao Thượng\"</span>",
         "rarity": 1,
         "version": "1.0"
       },
@@ -4723,7 +5017,7 @@
       {
         "id": 4082701,
         "name": "SPAM Tin Nhắn",
-        "desc": "Cho Heo Đất ăn no căng\\n<color=#8790abff>※Dùng khung trò chuyện {TEXTJOIN#54}, gửi thật nhiều nội dung văn bản</color>",
+        "desc": "Cho Heo Đất ăn no căng\\n<span style=\"color: #8790abff;\">※Dùng khung trò chuyện {Heo Đất Không Gian}, gửi thật nhiều nội dung văn bản</span>",
         "rarity": 1,
         "version": "1.4"
       },
@@ -4912,9 +5206,23 @@
       {
         "id": 4083203,
         "name": "Chia Tiền Công Bằng",
-        "desc": "Để Boothill và Aventurine tranh nhau trả tiền\\n<color=#8790abff>※Trong cùng 1 trận kích hoạt lồng tiếng của Aventurine \"Chiến Kỹ 1\" và lồng tiếng của Boothill \"Bắt Đầu Chiến Đấu - Phá Vỡ Điểm Yếu\"</color>",
+        "desc": "Để Boothill và Aventurine tranh nhau trả tiền\\n<span style=\"color: #8790abff;\">※Trong cùng 1 trận kích hoạt lồng tiếng của Aventurine \"Chiến Kỹ 1\" và lồng tiếng của Boothill \"Bắt Đầu Chiến Đấu - Phá Vỡ Điểm Yếu\"</span>",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4053321,
+        "name": "Chủ Sao Khách Vậy",
+        "desc": "Trước khi nhận được quyền sở hữu {Tàu Radiant Feldspar}, nghịch nước hồ bơi và bị khiển trách",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4083301,
+        "name": "Khách Sao Chủ Vậy",
+        "desc": "Sau khi nhận được quyền sở hữu {Tàu Radiant Feldspar}, nghịch nước trong hồ bơi",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },

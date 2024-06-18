@@ -267,247 +267,289 @@
       {
         "id": 4030101,
         "name": "Rumahku di Lautan Bintang",
-        "desc": "Mulai perjalanan di galaksi yang luas\\n<color=#8790abff>※ Selamat! Kamu sudah naik ke Astral Express!</color>",
+        "desc": "Mulai perjalanan di galaksi yang luas\\n<span style=\"color: #8790abff;\">※ Selamat! Kamu sudah naik ke Astral Express!</span>",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4030102,
         "name": "Malam Kota Salju Abadi",
-        "desc": "Setelah bertahan dari badai salju yang menutupi langit ....\\n<color=#8790abff>※ Kamu telah tiba di sebuah kota bernama Belobog</color>",
+        "desc": "Setelah bertahan dari badai salju yang menutupi langit ....\\n<span style=\"color: #8790abff;\">※ Kamu telah tiba di sebuah kota bernama Belobog</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030103,
         "name": "Dunia yang Hilang",
-        "desc": "Menemukan rahasia Jarilo-Ⅵ\\n<color=#8790abff>※ Ternyata ada orang yang tinggal di bawah tanah ....</color>",
+        "desc": "Menemukan rahasia Jarilo-Ⅵ\\n<span style=\"color: #8790abff;\">※ Ternyata ada orang yang tinggal di bawah tanah ....</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030104,
         "name": "1/2 Wizard of Oz",
-        "desc": "Mengalahkan manusia besi dan anak perempuan\\n<color=#8790abff>※ Svarog dan Clara telah menjadi temanmu!</color>",
+        "desc": "Mengalahkan manusia besi dan anak perempuan\\n<span style=\"color: #8790abff;\">※ Svarog dan Clara telah menjadi temanmu!</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030105,
         "name": "Akhir Musim Dingin",
-        "desc": "Mengubah Belobog, dimulai dari diriku sendiri\\n<color=#8790abff>※ Langkah pertama adalah kalahkan Supreme Guardian Cocolia ....</color>",
+        "desc": "Mengubah Belobog, dimulai dari diriku sendiri\\n<span style=\"color: #8790abff;\">※ Langkah pertama adalah kalahkan Supreme Guardian Cocolia ....</span>",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4030201,
         "name": "Rubah yang Berjalan Bagai Kura-Kura",
-        "desc": "Yang dimaksud dari diplomasi adalah pertukaran pendapat ....\\n<color=#8790abff>※ Bertemu dan bicara dengan (para) pemimpin Xianzhou \"Luofu\"</color>",
+        "desc": "Yang dimaksud dari diplomasi adalah pertukaran pendapat ....\\n<span style=\"color: #8790abff;\">※ Bertemu dan bicara dengan (para) pemimpin Xianzhou \"Luofu\"</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030202,
         "name": "Yang Maha Tahu Tanpa Cela",
-        "desc": "Apa yang terjadi, terjadilah. Semua pelanggar akan tertangkap.\\n<color=#8790abff>※ Berhasil menangkap Stellaron Hunter \"Kafka\"</color>",
+        "desc": "Apa yang terjadi, terjadilah. Semua pelanggar akan tertangkap.\\n<span style=\"color: #8790abff;\">※ Berhasil menangkap Stellaron Hunter \"Kafka\"</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032305,
         "name": "Kunjungan Rutin",
-        "desc": "Orang yang mengawasi sedang melihatmu di dekat meja ....\\n<color=#8790abff>※ Temukan Qingque yang sedang asyik dengan permainannya ....</color>",
+        "desc": "Orang yang mengawasi sedang melihatmu di dekat meja ....\\n<span style=\"color: #8790abff;\">※ Temukan Qingque yang sedang asyik dengan permainannya ....</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032307,
         "name": "Yang Mengerti Tak Bernubuat",
-        "desc": "Saksikan misteri dari formasi Divination Commission\\n<color=#8790abff>※ Interogasi Kafka dengan Matrix of Prescience, gunakan penglihatan untuk melawan ramalan ....</color>",
+        "desc": "Saksikan misteri dari formasi Divination Commission\\n<span style=\"color: #8790abff;\">※ Interogasi Kafka dengan Matrix of Prescience, gunakan penglihatan untuk melawan ramalan ....</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032308,
         "name": "Mengejar Rusa yang Hilang",
-        "desc": "Tungku tidak padam dan rusa menghentikan suaranya\\n<color=#8790abff>※ Selamatkan Artisanship Commission dari krisis</color>",
+        "desc": "Tungku tidak padam dan rusa menghentikan suaranya\\n<span style=\"color: #8790abff;\">※ Selamatkan Artisanship Commission dari krisis</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032306,
         "name": "Pemburu Rusa",
-        "desc": "Cobalah berjalan di Path \"Hunt\" ....\\n<color=#8790abff>※ Bantu Xianzhou kalahkan Abominations of Abundance \"Ebon Deer\"</color>",
+        "desc": "Cobalah berjalan di Path \"Hunt\" ....\\n<span style=\"color: #8790abff;\">※ Bantu Xianzhou kalahkan Abominations of Abundance \"Ebon Deer\"</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032501,
         "name": "Mimpi Kekal, Hidup Singkat",
-        "desc": "Jika hidup kembali setelah mati, maka renggut nyawanya sekali lagi ....\\n<color=#8790abff>※ Mengalahkan Master of the Disciples of Sanctus Medicus</color>",
+        "desc": "Jika hidup kembali setelah mati, maka renggut nyawanya sekali lagi ....\\n<span style=\"color: #8790abff;\">※ Mengalahkan Master of the Disciples of Sanctus Medicus</span>",
         "rarity": 2,
         "version": "1.2"
       },
       {
         "id": 4032502,
         "name": "Kedatangan Imbibitor Lunae",
-        "desc": "Laut tak menyembunyikan mutiara, napas naga mengungkapkan rembulan\\n<color=#8790abff>※ Saksikan Dan Heng membelah air di Scalegorge Waterscape</color>",
+        "desc": "Laut tak menyembunyikan mutiara, napas naga mengungkapkan rembulan\\n<span style=\"color: #8790abff;\">※ Saksikan Dan Heng membelah air di Scalegorge Waterscape</span>",
         "rarity": 2,
         "version": "1.2"
       },
       {
         "id": 4032503,
         "name": "Arbor Patah",
-        "desc": "Segala konspirasi dan tipu muslihat pasti akan hancur\\n<color=#8790abff>※ Bantu Jing Yuan mengalahkan Phantylia</color>",
+        "desc": "Segala konspirasi dan tipu muslihat pasti akan hancur\\n<span style=\"color: #8790abff;\">※ Bantu Jing Yuan mengalahkan Phantylia</span>",
         "rarity": 3,
         "version": "1.2"
       },
       {
         "id": 4032601,
         "name": "Yang Hidup Hanyalah Tamu Sementara",
-        "desc": "Selamat Tinggal, Xianzhou \"Luofu\"\\n<color=#8790abff>※ Mengikuti upacara penghiburan jiwa dan membangun aliansi bersama Xianzhou</color>",
+        "desc": "Selamat Tinggal, Xianzhou \"Luofu\"\\n<span style=\"color: #8790abff;\">※ Mengikuti upacara penghiburan jiwa dan membangun aliansi bersama Xianzhou</span>",
         "rarity": 2,
         "version": "1.3"
       },
       {
         "id": 4032701,
         "name": "Bagai Air dengan Tebing",
-        "desc": "Bantu Jarilo-Ⅵ dan Belobog selesaikan krisis besar (lagi)\\n<color=#8790abff>※ Selesaikan Misi Trailblaze Lanjutan \"Pasar Masa Depan\"</color>",
+        "desc": "Bantu Jarilo-Ⅵ dan Belobog selesaikan krisis besar (lagi)\\n<span style=\"color: #8790abff;\">※ Selesaikan Misi Trailblaze Lanjutan \"Pasar Masa Depan\"</span>",
         "rarity": 2,
         "version": "1.4"
       },
       {
         "id": 4032802,
         "name": "Bahaya dalam Hatiku",
-        "desc": "Pergi selidiki hal mistis di Fyxestroll Garden bersama Guinaifen\\n<color=#8790abff>※ Bereskan Heliobus Cirrus untuk menyelesaikan krisis Heliobus di Fyxestroll Garden</color>",
+        "desc": "Pergi selidiki hal mistis di Fyxestroll Garden bersama Guinaifen\\n<span style=\"color: #8790abff;\">※ Bereskan Heliobus Cirrus untuk menyelesaikan krisis Heliobus di Fyxestroll Garden</span>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032801,
         "name": "Ekor Berbulu dan Gemas",
-        "desc": "Mengumpulkan cerita mistis bersama dengan tim pemburu hantu\\n<color=#8790abff>※ Cari kembali Tail dan bereskan Heliobus yang melarikan diri di Luofu ....</color>",
+        "desc": "Mengumpulkan cerita mistis bersama dengan tim pemburu hantu\\n<span style=\"color: #8790abff;\">※ Cari kembali Tail dan bereskan Heliobus yang melarikan diri di Luofu ....</span>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032901,
         "name": "Jenius dan Awam",
-        "desc": "Menyelesaikan krisis baru di Stasiun Luar Angkasa Herta\\n<color=#8790abff>※ Menyelesaikan Misi Trailblaze Lanjutan \"Mahkota Kefanaan dan Keilahian\"</color>",
+        "desc": "Menyelesaikan krisis baru di Stasiun Luar Angkasa Herta\\n<span style=\"color: #8790abff;\">※ Menyelesaikan Misi Trailblaze Lanjutan \"Mahkota Kefanaan dan Keilahian\"</span>",
         "rarity": 2,
         "version": "1.6"
       },
       {
         "id": 4033001,
         "name": "Kamu Masih Ingat Aku?",
-        "desc": "Bertemu dengan orang yang tak terduga di awal perjalanan ....\\n<color=#8790abff>※ Bertemu dengan Acheron di dunia mimpi yang asing</color>",
+        "desc": "Bertemu dengan orang yang tak terduga di awal perjalanan ....\\n<span style=\"color: #8790abff;\">※ Bertemu dengan Acheron di dunia mimpi yang asing</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033002,
         "name": "Trailblazer di Negara Mimpi",
-        "desc": "Tiba di Negeri Mimpi yang luar biasa!\\n<color=#8790abff>※ Tiba di \"Golden Hour\"</color>",
+        "desc": "Tiba di Negeri Mimpi yang luar biasa!\\n<span style=\"color: #8790abff;\">※ Tiba di \"Golden Hour\"</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033003,
         "name": "Kelembutan dalam Kegelapan",
-        "desc": "Menyaksikan bintang jatuh melintasi langit dalam mimpi\\n<color=#8790abff>※ Mengetahui rahasia Firefly di Dream's Edge</color>",
+        "desc": "Menyaksikan bintang jatuh melintasi langit dalam mimpi\\n<span style=\"color: #8790abff;\">※ Mengetahui rahasia Firefly di Dream's Edge</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033004,
         "name": "Ketika Kemanisan Mengetuk Pintu",
-        "desc": "Menemukan kejutan bahagia di dunia mimpi\\n<color=#8790abff>※ Kabur dari bayangan \"kematian\"</color>",
+        "desc": "Menemukan kejutan bahagia di dunia mimpi\\n<span style=\"color: #8790abff;\">※ Kabur dari bayangan \"kematian\"</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033005,
         "name": "Teman Lama, Teman Baru",
-        "desc": "Merasakan kehangatan di kedalaman lautan kenangan ....\\n<color=#8790abff>※ Bertarung dengan Stellaron Hunter Sam</color>",
+        "desc": "Merasakan kehangatan di kedalaman lautan kenangan ....\\n<span style=\"color: #8790abff;\">※ Bertarung dengan Stellaron Hunter Sam</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033006,
         "name": "Menyelamatkan Hati dari Kesedihan",
-        "desc": "Seluruh Penacony akan menggila karenanya ....\\n<color=#8790abff>※ Saksikan kasus pembunuhan kedua</color>",
+        "desc": "Seluruh Penacony akan menggila karenanya ....\\n<span style=\"color: #8790abff;\">※ Saksikan kasus pembunuhan kedua</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033007,
         "name": "Sibyl, Apa yang Kamu Mau?",
-        "desc": "Ke manakah keberuntungan akan membawa pejudi?\\n<color=#8790abff>※ Saksikan kehidupan \"Kakavasha\"</color>",
+        "desc": "Ke manakah keberuntungan akan membawa pejudi?\\n<span style=\"color: #8790abff;\">※ Saksikan kehidupan \"Kakavasha\"</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033009,
         "name": "Setetes Minuman Keras",
-        "desc": "Salam untuk mimpi indah dan orang yang bermimpi!\\n<color=#8790abff>※ Memperoleh racikan spesial Gallagher</color>",
+        "desc": "Salam untuk mimpi indah dan orang yang bermimpi!\\n<span style=\"color: #8790abff;\">※ Memperoleh racikan spesial Gallagher</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033010,
         "name": "Dia Menjawab, \"Aku Ingin Kematian.\"",
-        "desc": "Menyaksikan penutup pertunjukan dari posisi terbaik\\n<color=#8790abff>※ Mengalahkan Aventurine, anggota \"Sepuluh Orang Berhati Batu\"</color>",
+        "desc": "Menyaksikan penutup pertunjukan dari posisi terbaik\\n<span style=\"color: #8790abff;\">※ Mengalahkan Aventurine, anggota \"Sepuluh Orang Berhati Batu\"</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033011,
         "name": "Untuk Icarus",
-        "desc": "Mendengarkan kisah lama di negeri asing\\n<color=#8790abff>※ Mendengarkan percakapan antara Acheron dengan Welt</color>",
+        "desc": "Mendengarkan kisah lama di negeri asing\\n<span style=\"color: #8790abff;\">※ Mendengarkan percakapan antara Acheron dengan Welt</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033201,
         "name": "Taipan Terakhir",
-        "desc": "Bertemu dengan \"Watchmaker\"\\n<color=#8790abff>※ Bertemu dengan The Nameless pertama di Penacony</color>",
+        "desc": "Bertemu dengan \"Watchmaker\"\\n<span style=\"color: #8790abff;\">※ Bertemu dengan The Nameless pertama di Penacony</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033202,
         "name": "Bebas, Seperti Para Leluhur Kami",
-        "desc": "Warisi warisan \"Watchmaker\"\\n<color=#8790abff>※ Lanjutkan perjalanan The Nameless terakhir yang belum selesai di Penacony</color>",
+        "desc": "Warisi warisan \"Watchmaker\"\\n<span style=\"color: #8790abff;\">※ Lanjutkan perjalanan The Nameless terakhir yang belum selesai di Penacony</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033203,
         "name": "Jika Kita Berjalan dalam Terang",
-        "desc": "Mulai perjalanan \"Trailblaze\" baru sesuai keinginan\\n<color=#8790abff>※ Kalahkan \"Harmonious Choir\" Dominicus ....</color>",
+        "desc": "Mulai perjalanan \"Trailblaze\" baru sesuai keinginan\\n<span style=\"color: #8790abff;\">※ Kalahkan \"Harmonious Choir\" Dominicus ....</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033204,
         "name": "Pada Akhirnya, Kita Terbangun dari Mimpi Kita",
-        "desc": "Saksikan cahaya fajar pertama di Penacony\\n<color=#8790abff>※ Kalahkan \"Embryo of Philosophy\" Sunday</color>",
+        "desc": "Saksikan cahaya fajar pertama di Penacony\\n<span style=\"color: #8790abff;\">※ Kalahkan \"Embryo of Philosophy\" Sunday</span>",
         "rarity": 3,
         "version": "2.2"
       },
       {
         "id": 4033205,
         "name": "Ketulusan adalah Jurus Pamungkas Abadi",
-        "desc": "Berdamai dengan pelindung keadilan Penacony\\n<color=#8790abff>※ Bujuk Argenti di \"Pertarungan Puncak Superstar\"</color>",
+        "desc": "Berdamai dengan pelindung keadilan Penacony\\n<span style=\"color: #8790abff;\">※ Bujuk Argenti di \"Pertarungan Puncak Superstar\"</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033206,
         "name": "Jurus Pamungkas adalah Ketulusan Abadi",
-        "desc": "Kalahkan pelindung keadilan Penacony\\n<color=#8790abff>※ Kalahkan Argenti di \"Pertarungan Puncak Superstar\"</color>",
+        "desc": "Kalahkan pelindung keadilan Penacony\\n<span style=\"color: #8790abff;\">※ Kalahkan Argenti di \"Pertarungan Puncak Superstar\"</span>",
         "rarity": 2,
         "version": "2.2"
+      },
+      {
+        "id": 4033301,
+        "name": "Bunga di Ambang Kelayuan",
+        "desc": "Bersulang demi yang sudah tiada, untuk kenyataan yang pahit\\n<span style=\"color: #8790abff;\">※ Racik minuman \"Bitter Dreams\"</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033302,
+        "name": "Hidup Begitu Indah",
+        "desc": "Bersulang demi yang sudah tiada, untuk hari esok yang manis\\n<span style=\"color: #8790abff;\">※ Racik minuman \"Drowning Sweetness\"</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033303,
+        "name": "Perjalanan Bersamaku",
+        "desc": "Pertemuan tak terduga dengan Astral Express\\n<span style=\"color: #8790abff;\">※ Dengan sudut pandang Firefly, melihat kru dari atas Radiant Feldspar</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033304,
+        "name": "Dalam Perjalanan",
+        "desc": "Berpapasan dengan Astral Express\\n<span style=\"color: #8790abff;\">※ Dengan sudut pandang Firefly, fokus mencari \"Pegadaian Bonajade\" dari atas Radiant Feldspar</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033305,
+        "name": "Ship of Fools",
+        "desc": "Tambahan catatan baru pada takdir kita\\n<span style=\"color: #8790abff;\">※ Atasi krisis \"bom\" dan saksikan kembang api yang luar biasa</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033306,
+        "name": "Ceritakan Padaku, Hai Muse",
+        "desc": "Tentukan perhentian perjalanan Penacony selanjutnya\\n<span style=\"color: #8790abff;\">※ Menuju \"Negeri Abadi\" Amphoreus!</span>",
+        "rarity": 2,
+        "version": "2.3"
       }
     ]
   },
@@ -566,7 +608,7 @@
       {
         "id": 4042507,
         "name": "Bintang Kemakmuran Menyinarimu",
-        "desc": "Membuka Peti Harta 170 kali di Xianzhou \"Luofu\"",
+        "desc": "Buka Peti Harta 170 kali di Xianzhou \"Luofu\"",
         "rarity": 2,
         "version": "1.2"
       },
@@ -979,7 +1021,7 @@
       {
         "id": 4043022,
         "name": "Kecil-Kecil Cabe Rawit",
-        "desc": "Dalam 1 kali Petualangan Hanu, mengalahkan 3 kaki tangan Bos Stone dalam 1 kali aksi",
+        "desc": "Dalam 1 kali \"Petualangan Hanu\", mengalahkan 3 kaki tangan Bos Stone dalam 1 kali aksi",
         "rarity": 1,
         "version": "2.1"
       },
@@ -1063,7 +1105,7 @@
       {
         "id": 4043034,
         "name": "Kekuatan Tempur Maksimum",
-        "desc": "Di Petualangan Hanu, jumlah \"Misil Hanu\" yang dimiliki mencapai batas maksimal",
+        "desc": "Di \"Petualangan Hanu\", jumlah \"Misil Hanu\" yang dimiliki mencapai batas maksimal",
         "rarity": 1,
         "version": "2.1"
       },
@@ -1241,6 +1283,20 @@
         "desc": "Bantu anggota Family mendapatkan kembali semua barang curian",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4043301,
+        "name": "Balon, Menuju Hari Esok",
+        "desc": "Pecahkan balon Bos Stone khusus di {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4043302,
+        "name": "Sayangnya, Bukan Grup Musik",
+        "desc": "Selamatkan \"Bos Besar\" Jam Dunia Mimpi di {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -1313,7 +1369,7 @@
       {
         "id": 4052403,
         "name": "Penari Keranda",
-        "desc": "Menyaksikan sisi tersembunyi Luocha\\n<color=#8790abff>※ Periksa rekaman yang diperbaiki dan dengarkan kata-kata Luocha</color>",
+        "desc": "Menyaksikan sisi tersembunyi Luocha\\n<span style=\"color: #8790abff;\">※ Periksa rekaman yang diperbaiki dan dengarkan kata-kata Luocha</span>",
         "rarity": 1,
         "version": "1.1"
       },
@@ -1327,14 +1383,14 @@
       {
         "id": 4052507,
         "name": "Kehendak Bebas",
-        "desc": "Menyelesaikan Misi Bersama \"Surat dari Wanita Misterius\"\\n<color=#8790abff>※ Kamu memilih untuk membantu Kafka</color>",
+        "desc": "Menyelesaikan Misi Bersama \"Surat dari Wanita Misterius\"\\n<span style=\"color: #8790abff;\">※ Kamu memilih untuk membantu Kafka</span>",
         "rarity": 1,
         "version": "1.2"
       },
       {
         "id": 4052511,
         "name": "Kehendak Bebas yang Sebenarnya",
-        "desc": "Menyelesaikan Misi Bersama \"Surat dari Wanita Misterius\"\\n<color=#8790abff>※ Kamu memilih untuk meninggalkan Kafka. Jarang sekali ada orang yang akan berbuat seperti ini, tapi ini adalah bukti bahwa kamu punya kehendak bebas</color>",
+        "desc": "Menyelesaikan Misi Bersama \"Surat dari Wanita Misterius\"\\n<span style=\"color: #8790abff;\">※ Kamu memilih untuk meninggalkan Kafka. Jarang sekali ada orang yang akan berbuat seperti ini, tapi ini adalah bukti bahwa kamu punya kehendak bebas</span>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -1649,7 +1705,7 @@
       {
         "id": 4052720,
         "name": "Langkah Pertama dari Masa Depan",
-        "desc": "Peduli terhadap perkembangan Belobog\\n<color=#8790abff>※ Membeli \"Tabloid Mingguan Penambang edisi 226\"</color>",
+        "desc": "Peduli terhadap perkembangan Belobog\\n<span style=\"color: #8790abff;\">※ Membeli \"Tabloid Mingguan Penambang edisi 226\"</span>",
         "rarity": 1,
         "version": "1.4"
       },
@@ -1817,14 +1873,14 @@
       {
         "id": 4052718,
         "name": "Setelah Kemenangan, Datanglah Perpisahan",
-        "desc": "Mengembalikan {TEXTJOIN#54} setelah semuanya selesai",
+        "desc": "Mengembalikan {Warp Trotter} setelah semuanya selesai",
         "rarity": 1,
         "version": "1.4"
       },
       {
         "id": 4052719,
         "name": "Setelah Akhir, Datanglah Awal",
-        "desc": "Menyimpan {TEXTJOIN#54} setelah semuanya selesai",
+        "desc": "Menyimpan {Warp Trotter} setelah semuanya selesai",
         "rarity": 1,
         "version": "1.4"
       },
@@ -2559,28 +2615,28 @@
       {
         "id": 4053012,
         "name": "Rasakan Perasaan",
-        "desc": "Apa yang bisa dilakukan \"Clockwork\"?\\n<color=#8790abff>※ Memandu emosi #1 orang di dunia mimpi</color>",
+        "desc": "Apa yang bisa dilakukan \"Clockwork\"?\\n<span style=\"color: #8790abff;\">※ Memandu emosi #1 orang di dunia mimpi</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053014,
         "name": "Segolak Rasa Hangat",
-        "desc": "\"Clockwork\" dapat membantu orang-orang menemukan kembali jati diri yang sebenarnya\\n<color=#8790abff>※ Selesaikan #1 kali Event Tak Terduga Clockwork</color>",
+        "desc": "\"Clockwork\" dapat membantu orang-orang menemukan kembali jati diri yang sebenarnya\\n<span style=\"color: #8790abff;\">※ Selesaikan #1 kali Event Tak Terduga Clockwork</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053015,
         "name": "Jantung Berdegup Kencang",
-        "desc": "Di dalam mimpi, bahkan emosi pun memiliki wujud fisik\\n<color=#8790abff>※ Mengumpulkan #1 Gir Emosi</color>",
+        "desc": "Di dalam mimpi, bahkan emosi pun memiliki wujud fisik\\n<span style=\"color: #8790abff;\">※ Mengumpulkan #1 Gir Emosi</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053016,
         "name": "Aku Paham Perasaanmu",
-        "desc": "Bisakah kamu menahan godaan konsultasi psikologis?\\n<color=#8790abff>※ Memandu emosi minimal #1 orang di dalam dunia mimpi</color>",
+        "desc": "Bisakah kamu menahan godaan konsultasi psikologis?\\n<span style=\"color: #8790abff;\">※ Memandu emosi minimal #1 orang di dalam dunia mimpi</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2601,7 +2657,7 @@
       {
         "id": 4053019,
         "name": "Nomor yang Anda Tuju Tidak Dapat Dihubungi",
-        "desc": "Selalu ada beberapa tempat yang tidak terbuka untuk umum\\n<color=#8790abff>※ Panggil nomor yang tidak bisa dihubungi</color>",
+        "desc": "Selalu ada beberapa tempat yang tidak terbuka untuk umum\\n<span style=\"color: #8790abff;\">※ Panggil nomor yang tidak bisa dihubungi</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2629,7 +2685,7 @@
       {
         "id": 4053023,
         "name": "Jangan Pungut Benda Pembawa Sial",
-        "desc": "Tidak semua legenda urban itu legenda\\n<color=#8790abff>※ Menemukan satu kaset yang aneh</color>",
+        "desc": "Tidak semua legenda urban itu legenda\\n<span style=\"color: #8790abff;\">※ Menemukan satu kaset yang aneh</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2657,28 +2713,28 @@
       {
         "id": 4053027,
         "name": "Rashomon",
-        "desc": "Jadi ... siapa tabrak siapa?\\n<color=#8790abff>※ Saksikan keseluruhan proses kecelakaan di Glaux Avenue</color>",
+        "desc": "Jadi ... siapa tabrak siapa?\\n<span style=\"color: #8790abff;\">※ Saksikan keseluruhan proses kecelakaan di Glaux Avenue</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053028,
         "name": "Magique Pepeshi",
-        "desc": "Pepeshi? Atau monster metamorfosis?\\n<color=#8790abff>※ Ungkap identitas asli \"Pepeshi\" di lobi hotel</color>",
+        "desc": "Pepeshi? Atau monster metamorfosis?\\n<span style=\"color: #8790abff;\">※ Ungkap identitas asli \"Pepeshi\" di lobi hotel</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053029,
         "name": "Planet Perayaan dan Enam Alfalfa Credit",
-        "desc": "Mana yang lebih penting, cinta atau impian?\\n<color=#8790abff>※ Pelajari kisah keluarga yang hancur karena mimpi</color>",
+        "desc": "Mana yang lebih penting, cinta atau impian?\\n<span style=\"color: #8790abff;\">※ Pelajari kisah keluarga yang hancur karena mimpi</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053030,
         "name": "Kesehatan Mental",
-        "desc": "Lindungi lingkungan sekitar, dimulai dari diri sendiri\\n<color=#8790abff>※ Bantu Go-Ray mendaur ulang sampah di dunia mimpi</color>",
+        "desc": "Lindungi lingkungan sekitar, dimulai dari diri sendiri\\n<span style=\"color: #8790abff;\">※ Bantu Go-Ray mendaur ulang sampah di dunia mimpi</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2699,7 +2755,7 @@
       {
         "id": 4053033,
         "name": "Simfoni Tanpa Manusia",
-        "desc": "Apa yang terjadi saat musisi yang ceria menjadi lebih ceria?\\n<color=#8790abff>※ Musik Max menjadi lebih ceria</color>",
+        "desc": "Apa yang terjadi saat musisi yang ceria menjadi lebih ceria?\\n<span style=\"color: #8790abff;\">※ Musik Max menjadi lebih ceria</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2720,14 +2776,14 @@
       {
         "id": 4053036,
         "name": "Antara Langit dan Kamu",
-        "desc": "Jelajahi kembali tempat rahasia sendirian\\n<color=#8790abff>※ Setelah semuanya berakhir, kembali ke markas rahasia Firefly</color>",
+        "desc": "Jelajahi kembali tempat rahasia sendirian\\n<span style=\"color: #8790abff;\">※ Setelah semuanya berakhir, kembali ke markas rahasia Firefly</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053037,
         "name": "Lihat Tangga Itu? Kamu Bisa Memanjatnya!",
-        "desc": "Coba memanjat tangga di Dream's Edge\\n<color=#8790abff>※ Tapi gagal memanjat</color>",
+        "desc": "Coba memanjat tangga di Dream's Edge\\n<span style=\"color: #8790abff;\">※ Tapi gagal memanjat</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2762,7 +2818,7 @@
       {
         "id": 4053042,
         "name": "Déjà vu",
-        "desc": "Menemukan pemandangan yang familier di dunia mimpi\\n<color=#8790abff>※ Benar sekali, tong sampah!</color>",
+        "desc": "Menemukan pemandangan yang familier di dunia mimpi\\n<span style=\"color: #8790abff;\">※ Benar sekali, tong sampah!</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2783,7 +2839,7 @@
       {
         "id": 4053045,
         "name": "Musuh Bebuyutan Pepeshi",
-        "desc": "Menyinggung setiap Pepeshi yang kamu temui dengan akurat dan cepat\\n<color=#8790abff>※ Coba sentuh bola bulu semua Pepeshi di \"Golden Hour\"</color>",
+        "desc": "Menyinggung setiap Pepeshi yang kamu temui dengan akurat dan cepat\\n<span style=\"color: #8790abff;\">※ Coba sentuh bola bulu semua Pepeshi di \"Golden Hour\"</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2797,35 +2853,35 @@
       {
         "id": 4053047,
         "name": "Gerbang Bintang Jauh",
-        "desc": "Petualang atau bajak laut?\\n<color=#8790abff>※ Dengarkan kisah Colleen tentang alam semesta</color>",
+        "desc": "Petualang atau bajak laut?\\n<span style=\"color: #8790abff;\">※ Dengarkan kisah Colleen tentang alam semesta</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053048,
         "name": "Sehebat Ini",
-        "desc": "Menyaksikan sebuah \"mimpi yang mulia\"\\n<color=#8790abff>※ Mengumpulkan penilaian anggota Family terhadap proyek Dream's Edge</color>",
+        "desc": "Menyaksikan sebuah \"mimpi yang mulia\"\\n<span style=\"color: #8790abff;\">※ Mengumpulkan penilaian anggota Family terhadap proyek Dream's Edge</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053049,
         "name": "Mimpi Kepatenan",
-        "desc": "Semua yang kamu lihat itu ada hak paten milikku!\\n<color=#8790abff>※ Bantu Emmrich menyelesaikan rencananya</color>",
+        "desc": "Semua yang kamu lihat itu ada hak paten milikku!\\n<span style=\"color: #8790abff;\">※ Bantu Emmrich menyelesaikan rencananya</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053050,
         "name": "Seberat Realitas, Seringan Mimpi",
-        "desc": "Pada akhirnya manusia tidak dapat saling memahami\\n<color=#8790abff>※ Mendengarkan percakapan Larose dan Forla</color>",
+        "desc": "Pada akhirnya manusia tidak dapat saling memahami\\n<span style=\"color: #8790abff;\">※ Mendengarkan percakapan Larose dan Forla</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053051,
         "name": "Perpisahan Panjang",
-        "desc": "Semoga dia segera meninggalkan masa lalu yang suram\\n<color=#8790abff>※ Menyaksikan kisah Lew Archer</color>",
+        "desc": "Semoga dia segera meninggalkan masa lalu yang suram\\n<span style=\"color: #8790abff;\">※ Menyaksikan kisah Lew Archer</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2839,7 +2895,7 @@
       {
         "id": 4053053,
         "name": "Teori Ekonomi Oti",
-        "desc": "Kalau semua orang memberi uang, sama saja dengan tidak memberi uang\\n<color=#8790abff>※ Memicu Cash-Spewer di jalanan terus-terusan</color>",
+        "desc": "Kalau semua orang memberi uang, sama saja dengan tidak memberi uang\\n<span style=\"color: #8790abff;\">※ Memicu Cash-Spewer di jalanan terus-terusan</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -3147,7 +3203,7 @@
       {
         "id": 4053228,
         "name": "Kamu Mau ke Mana, Mikhail?",
-        "desc": "Aku telah menempuh jalan yang harus kulewati\\n<color=#8790abff>※ Setelah semuanya berakhir, kembali ke tempat anak-anak menatap bulan</color>",
+        "desc": "Aku telah menempuh jalan yang harus kulewati\\n<span style=\"color: #8790abff;\">※ Setelah semuanya berakhir, kembali ke tempat anak-anak menatap bulan</span>",
         "rarity": 1,
         "version": "2.2"
       },
@@ -3178,6 +3234,202 @@
         "desc": "Bantu papan iklan \"CintaBersemi\" menyampaikan pesan kepada kekasihnya",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4053205,
+        "name": "Stiker, Stikernya Banyak Sekali",
+        "desc": "Progres penyelesaian semua halaman \"Paspor Dunia Mimpi\" mencapai 100%",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4053301,
+        "name": "Dilarang Melaksanakan Misi di Hotel",
+        "desc": "Selesaikan Misi Petualangan \"Check-Out\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053302,
+        "name": "Pemakaman Mawar",
+        "desc": "Selesaikan Misi Petualangan \"Rol Film 'Finality' yang Kelam\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053303,
+        "name": "Kaptenku, Kapalku",
+        "desc": "Selesaikan Misi Petualangan \"Awan Berlayar ke Hati\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053304,
+        "name": "Foto Bersama yang Tak Terduga",
+        "desc": "Ambil foto bersama pada event \"Adu Jotos Burung Origami\"",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4053305,
+        "name": "Omega Ruby",
+        "desc": "Dalam event \"Adu Jotos Burung Origami\", tempatkan Burungwolf, Burungfly, dan Burungzer pada sisi yang sama di mesin arkade",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053306,
+        "name": "Alpha Sapphire",
+        "desc": "Dalam event \"Adu Jotos Burung Origami\", tempatkan Burungzer dan Burung 7th di mesin arkade yang berdekatan",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053307,
+        "name": "Semudah Membalikkan Tangan",
+        "desc": "Pada event \"Adu Jotos Burung Origami\", kemampuan Burung Origami terpicu sebanyak #1 kali dalam duel 1 ronde",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053308,
+        "name": "Burung Origami yang Marah",
+        "desc": "Pada event \"Adu Jotos Burung Origami\", picu kombinasi bom sebanyak #1 kali secara manual dalam duel 1 ronde",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053309,
+        "name": "Burung! Burung! Burung!",
+        "desc": "Pada event \"Adu Jotos Burung Origami\", kekuatan tempur tertinggi Burung Origami dalam duel 1 ronde mencapai #1",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053310,
+        "name": "Kebun Binatang Origami",
+        "desc": "Menangkan semua Tantangan Bebas dalam event \"Adu Jotos Burung Origami\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053311,
+        "name": "Kelahiran Seorang Bintang",
+        "desc": "Atur pemain pertunjukan yang sesuai di atas panggung {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053312,
+        "name": "Need for Speed",
+        "desc": "Memarkirkan kendaraan di tempat parkir khusus di {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053313,
+        "name": "Bioskop Keluarga",
+        "desc": "Gunakan proyektor di {Radiant Feldspar} dan undang kru untuk menonton",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053315,
+        "name": "Delapan Belas Raja Tong",
+        "desc": "Selesaikan semua tantangan Tong Ujian di {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053316,
+        "name": "Paket Keberuntungan Kilat",
+        "desc": "Tanda tangan di {Radiant Feldspar} untuk menerima paket dari Aventurine",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053317,
+        "name": "Acara Malam Astral Express",
+        "desc": "Gunakan Koin Mesin Kapsul Emas untuk membeli televisi Bro Hanu dan pasang di gerbong Express",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053318,
+        "name": "Tamu Tak Kasat Mata",
+        "desc": "Berubah menjadi Bro Hanu dan menyusup masuk ke kamar kru lain",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053319,
+        "name": "Merchandise Berbayar",
+        "desc": "Dapatkan merchandise Kapten {NICKNAME}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053320,
+        "name": "Kapten Bayangan",
+        "desc": "Bicara dengan papan iklan Kapten {NICKNAME}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053322,
+        "name": "Di Bawah Cermin Hitam",
+        "desc": "Aktifkan kamera pengawas di ruang kendali untuk mengamati badan kapal {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053323,
+        "name": "Kembali Pada Kejayaan",
+        "desc": "Ganti nama Radiant Feldspar dan ubah gambar yang ada di bagian ekornya",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053324,
+        "name": "Kota Tak Kasat Mata",
+        "desc": "Gunakan teleskop di {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053325,
+        "name": "Hatiku Tetap Abadi",
+        "desc": "Menatap ke kejauhan di haluan kapal {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053326,
+        "name": "Cerita Horor yang Lengkap",
+        "desc": "Gunakan Clockwork untuk membaca semua emosi Bella",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053327,
+        "name": "Dirasuki Roh Jahat",
+        "desc": "Gunakan Clockwork untuk membaca emosi \"Senang\" Stefano",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053328,
+        "name": "Koin Emas Bintang",
+        "desc": "Kumpulkan semua Koin Mesin Kapsul Emas di Penacony",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053329,
+        "name": "Kapten! Kaptenku!",
+        "desc": "Masuk ke ruangan eksklusif Kapten {Radiant Feldspar} untuk pertama kalinya",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -3724,7 +3976,7 @@
       {
         "id": 4071505,
         "name": "Pencinta Kopi",
-        "desc": "Secangkir kopi setiap pagi, siang dan malam untuk menyegarkan pikiran\\n<color=#8790abff>※ Menggunakan Ultimate Himeko sebanyak 3 kali dalam 1 pertempuran</color>",
+        "desc": "Secangkir kopi setiap pagi, siang dan malam untuk menyegarkan pikiran\\n<span style=\"color: #8790abff;\">※ Menggunakan Ultimate Himeko sebanyak 3 kali dalam 1 pertempuran</span>",
         "rarity": 2,
         "version": "1.0"
       },
@@ -3962,7 +4214,7 @@
       {
         "id": 4072504,
         "name": "Tak Terpenuhi",
-        "desc": "Merepotkan\\n<color=#8790abff>※ Dalam satu pertempuran, 2 kali menggunakan Blade untuk pulihkan HP-nya dari ≤ <unbreak>0%</unbreak> ke <unbreak>30%</unbreak> HP atau lebih dalam 1 kali serangan</color>",
+        "desc": "Merepotkan\\n<span style=\"color: #8790abff;\">※ Dalam satu pertempuran, 2 kali menggunakan Blade untuk pulihkan HP-nya dari ≤ <unbreak>0%</unbreak> ke <unbreak>30%</unbreak> HP atau lebih dalam 1 kali serangan</span>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -4158,7 +4410,7 @@
       {
         "id": 4072905,
         "name": "Jadi Tong Sampah Tempat Curhat",
-        "desc": "Berhenti dan dengarkan ceramah Hanya\\n<color=#8790abff>※ Menyelesaikan suara Hanya di gerakan standby dan menunggu giliran</color>",
+        "desc": "Berhenti dan dengarkan ceramah Hanya\\n<span style=\"color: #8790abff;\">※ Menyelesaikan suara Hanya di gerakan standby dan menunggu giliran</span>",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4347,7 +4599,7 @@
       {
         "id": 4073207,
         "name": "Durasi Sebuah Lagu",
-        "desc": "Dengarkan suara nyanyian Robin\\n<color=#8790abff>※ Setelah melancarkan Ultimate \"Vox Harmonique, Opus Cosmique\" dalam pertempuran, tonton Robin dengan Mode Memeriksa selama lebih dari #1 detik</color>",
+        "desc": "Dengarkan suara nyanyian Robin\\n<span style=\"color: #8790abff;\">※ Setelah melancarkan Ultimate \"Vox Harmonique, Opus Cosmique\" dalam pertempuran, tonton Robin di antarmuka Kondisi Pertempuran selama lebih dari #1 detik</span>",
         "rarity": 1,
         "version": "2.2"
       },
@@ -4385,6 +4637,48 @@
         "desc": "Kumpulkan Shield yang cukup untuk sepenuhnya menangkis DMG yang diakibatkan oleh kemampuan \"Im Anfang war die Tat\" milik \"Embryo of Philosophy\" Sunday",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4073301,
+        "name": "Tim Khusus Planet Perayaan",
+        "desc": "Memenangkan 1 pertempuran dengan tim yang terdiri dari Topaz & Numby, Dr. Ratio, Aventurine, dan Jade",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073302,
+        "name": "\"Selamatkan Kucing\"",
+        "desc": "Memenangkan 1 pertempuran dengan tim yang terdiri dari Silver Wolf, Blade, Kafka, dan Firefly",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073303,
+        "name": "Perjanjian Mematikan",
+        "desc": "Dalam 1 pertempuran, mengonsumsi HP rekan tim yang memiliki efek \"Debt Collector\" dari Skill Jade hingga #1",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073304,
+        "name": "Pergilah ... A— SAM",
+        "desc": "Gunakan Firefly untuk melawan Kafka dan membuat Firefly terkena status \"Dominated\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073305,
+        "name": "Aku Akan Membakar Lautan!",
+        "desc": "Dalam 1 pertempuran, gunakan SAM untuk melancarkan #1 kali \"Fyrefly Type-IV: Deathstar Overload\" sebelum status \"Complete Combustion\" berakhir",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073306,
+        "name": "Berjumpa di Musim Panas",
+        "desc": "Memenangkan 1 pertempuran dengan tim yang terdiri dari Firefly dan {NICKNAME}",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -4415,35 +4709,35 @@
       {
         "id": 4080301,
         "name": "Republik Diogenes",
-        "desc": "Jelajahilah area terkenal Belobog!\\n<color=#8790abff>※ Kamu sudah mendapatkan semua properti yang berguna di tong sampah!</color>",
+        "desc": "Jelajahilah area terkenal Belobog!\\n<span style=\"color: #8790abff;\">※ Kamu sudah mendapatkan semua properti yang berguna di tong sampah!</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080302,
         "name": "Tidak Puas",
-        "desc": "Terkadang terlalu puas bukanlah hal yang baik .... \\n<color=#8790abff>※ Gunakan \"Vomit Inducing Agent\" 1 kali</color>",
+        "desc": "Terkadang terlalu puas bukanlah hal yang baik .... \\n<span style=\"color: #8790abff;\">※ Gunakan \"Vomit Inducing Agent\" 1 kali</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080303,
         "name": "Humor Buruk",
-        "desc": "Bahkan sepotong sampah pun memiliki kegunaannya\\n<color=#8790abff>※ Gunakan \"Sampah\" untuk Synthesis Bahan Konsumsi 10 kali</color>",
+        "desc": "Bahkan sepotong sampah pun memiliki kegunaannya\\n<span style=\"color: #8790abff;\">※ Gunakan \"Sampah\" untuk Synthesis Bahan Konsumsi 10 kali</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080304,
         "name": "Konsekuensi Karma",
-        "desc": "Biarkan Keberadaan Mulia yang hidup di dalam hati kami berbisik padamu\\n<color=#8790abff>※ Temukan cara untuk menggunakan \"Praise of High Moral\"</color>",
+        "desc": "Biarkan Keberadaan Mulia yang hidup di dalam hati kami berbisik padamu\\n<span style=\"color: #8790abff;\">※ Temukan cara untuk menggunakan \"Praise of High Moral\"</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080305,
         "name": "Si Hati Mulia",
-        "desc": "Biarkan Keberadaan Mulia yang hidup di dalam hati kami memberimu acungan jempol\\n<color=#8790abff>※ Dapatkan \"Pengakuan Moral Tertinggi\" 20 kali</color>",
+        "desc": "Biarkan Keberadaan Mulia yang hidup di dalam hati kami memberimu acungan jempol\\n<span style=\"color: #8790abff;\">※ Dapatkan \"Pengakuan Moral Tertinggi\" 20 kali</span>",
         "rarity": 1,
         "version": "1.0"
       },
@@ -4723,7 +5017,7 @@
       {
         "id": 4082701,
         "name": "Gembul ... Gembul Sekali",
-        "desc": "Memberi makan Trotter dalam jumlah besar\\n<color=#8790abff>※ Menggunakan bingkai percakapan \"{TEXTJOIN#54}\" untuk mengirim isi teks dalam jumlah banyak</color>",
+        "desc": "Memberi makan Trotter dalam jumlah besar\\n<span style=\"color: #8790abff;\">※ Menggunakan bingkai percakapan \"{Warp Trotter}\" untuk mengirim isi teks dalam jumlah banyak</span>",
         "rarity": 1,
         "version": "1.4"
       },
@@ -4912,9 +5206,23 @@
       {
         "id": 4083203,
         "name": "Patungan",
-        "desc": "Biarkan Boothill dan Aventurine berebut membayar tagihan\\n<color=#8790abff>※ Dalam 1 pertempuran yang sama, picu suara Aventurine \"Skill: 1\" dan Boothill \"Pertempuran Dimulai: Weakness Break\"</color>",
+        "desc": "Biarkan Boothill dan Aventurine berebut membayar tagihan\\n<span style=\"color: #8790abff;\">※ Dalam 1 pertempuran yang sama, picu suara Aventurine \"Skill: 1\" dan Boothill \"Pertempuran Dimulai: Weakness Break\"</span>",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4053321,
+        "name": "Ikut Aturan Tuan Rumah",
+        "desc": "Sebelum mengambil alih hak kepemilikan {Radiant Feldspar}, dimarahi karena berlari dan bermain di dalam kolam renang",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4083301,
+        "name": "Ikut Aturan Tamu",
+        "desc": "Berlari dan bermain di dalam kolam renang setelah memperoleh hak kepemilikan {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },

@@ -267,247 +267,289 @@
       {
         "id": 4030101,
         "name": "My Heart Lies With the Stars",
-        "desc": "Launch a journey into the vast cosmos\\n<color=#8790abff>※ Congratulations! You've boarded the Astral Express!</color>",
+        "desc": "Launch a journey into the vast cosmos\\n<span style=\"color: #8790abff;\">※ Congratulations! You've boarded the Astral Express!</span>",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4030102,
         "name": "Everwinter Night",
-        "desc": "After enduring the snow storm...\\n<color=#8790abff>※ You have arrived at the city named Belobog</color>",
+        "desc": "After enduring the snow storm...\\n<span style=\"color: #8790abff;\">※ You have arrived at the city named Belobog</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030103,
         "name": "Lost World",
-        "desc": "Discover the secret beneath Jarilo-VI\\n<color=#8790abff>※ There are people living underground...</color>",
+        "desc": "Discover the secret beneath Jarilo-VI\\n<span style=\"color: #8790abff;\">※ There are people living underground...</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030104,
         "name": "Half the Wizard of Oz",
-        "desc": "Defeat the tin man and the little girl\\n<color=#8790abff>※ Svarog and Clara became your friends!</color>",
+        "desc": "Defeat the tin man and the little girl\\n<span style=\"color: #8790abff;\">※ Svarog and Clara became your friends!</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030105,
         "name": "Winter Is Leaving",
-        "desc": "Let's change Belobog, starting with me!\\n<color=#8790abff>※ Step One: Defeat Supreme Guardian Cocolia...</color>",
+        "desc": "Let's change Belobog, starting with me!\\n<span style=\"color: #8790abff;\">※ Step One: Defeat Supreme Guardian Cocolia...</span>",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4030201,
         "name": "Sauntering Fox",
-        "desc": "Diplomacy is but a trade of opinions...\\n<color=#8790abff>※ Confer with the leader(s) of the Xianzhou Luofu</color>",
+        "desc": "Diplomacy is but a trade of opinions...\\n<span style=\"color: #8790abff;\">※ Confer with the leader(s) of the Xianzhou Luofu</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030202,
         "name": "Omniscia Spares None",
-        "desc": "What goes around comes around. No rogue shall escape capture.\\n<color=#8790abff>※ Successfully capture the Stellaron Hunter Kafka</color>",
+        "desc": "What goes around comes around. No rogue shall escape capture.\\n<span style=\"color: #8790abff;\">※ Successfully capture the Stellaron Hunter Kafka</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032305,
         "name": "A Professional Onlooker",
-        "desc": "When the wind-watcher watches you...\\n<color=#8790abff>※ Find Qingque, who is \"working hard\" at playing games...</color>",
+        "desc": "When the wind-watcher watches you...\\n<span style=\"color: #8790abff;\">※ Find Qingque, who is \"working hard\" at playing games...</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032307,
         "name": "Prophets Do Not Prophesize",
-        "desc": "Witness the mystery of the Divination Commission's matrix\\n<color=#8790abff>※ Interrogate Kafka with the Matrix of Prescience, and challenge the divination with this foresight...</color>",
+        "desc": "Witness the mystery of the Divination Commission's matrix\\n<span style=\"color: #8790abff;\">※ Interrogate Kafka with the Matrix of Prescience, and challenge the divination with this foresight...</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032308,
         "name": "The Deer Hunter",
-        "desc": "The furnace undoused, the deer silenced\\n<color=#8790abff>※ Save the Artisanship Commission from the crisis</color>",
+        "desc": "The furnace undoused, the deer silenced\\n<span style=\"color: #8790abff;\">※ Save the Artisanship Commission from the crisis</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032306,
         "name": "Slayer of a Very \"Deer\" Friend",
-        "desc": "Try to walk on the Path of The Hunt...\\n<color=#8790abff>※ Help Xianzhou to defeat the Abomination of Abundance, \"Ebon Deer\"</color>",
+        "desc": "Try to walk on the Path of The Hunt...\\n<span style=\"color: #8790abff;\">※ Help Xianzhou to defeat the Abomination of Abundance, \"Ebon Deer\"</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032501,
         "name": "Svah Sanishyu",
-        "desc": "If they come back to life, then just kill them again...\\n<color=#8790abff>※ Defeat the Master of the Disciples of Sanctus Medicus</color>",
+        "desc": "If they come back to life, then just kill them again...\\n<span style=\"color: #8790abff;\">※ Defeat the Master of the Disciples of Sanctus Medicus</span>",
         "rarity": 2,
         "version": "1.2"
       },
       {
         "id": 4032502,
         "name": "The Imbibitor Lunae Arrives",
-        "desc": "Sea's Depths Conceal No Stone, Dragon's Breaths Reveal the Moon.\\n<color=#8790abff>※ Witness Dan Heng part the waters in Scalegorge Waterscape</color>",
+        "desc": "Sea's Depths Conceal No Stone, Dragon's Breaths Reveal the Moon.\\n<span style=\"color: #8790abff;\">※ Witness Dan Heng part the waters in Scalegorge Waterscape</span>",
         "rarity": 2,
         "version": "1.2"
       },
       {
         "id": 4032503,
         "name": "The Arbor Snaps",
-        "desc": "All plots shall be overturned\\n<color=#8790abff>※ Help Jing Yuan to defeat Phantylia</color>",
+        "desc": "All plots shall be overturned\\n<span style=\"color: #8790abff;\">※ Help Jing Yuan to defeat Phantylia</span>",
         "rarity": 3,
         "version": "1.2"
       },
       {
         "id": 4032601,
         "name": "Transient Are the Living",
-        "desc": "Farewell, Xianzhou Luofu\\n<color=#8790abff>※ Participate in the soul-soothing ceremony and form an alliance with the Xianzhou</color>",
+        "desc": "Farewell, Xianzhou Luofu\\n<span style=\"color: #8790abff;\">※ Participate in the soul-soothing ceremony and form an alliance with the Xianzhou</span>",
         "rarity": 2,
         "version": "1.3"
       },
       {
         "id": 4032701,
         "name": "Sunny Deeds Beget Rainy Needs",
-        "desc": "Help Jarilo-VI and Belobog solve their enormous crisis (again)\\n<color=#8790abff>※ Complete Trailblaze Continuance \"Future Market\"</color>",
+        "desc": "Help Jarilo-VI and Belobog solve their enormous crisis (again)\\n<span style=\"color: #8790abff;\">※ Complete Trailblaze Continuance \"Future Market\"</span>",
         "rarity": 2,
         "version": "1.4"
       },
       {
         "id": 4032802,
         "name": "The Dangers in My Heart",
-        "desc": "Explore supernatural events in Fyxestroll Garden with Guinaifen\\n<color=#8790abff>※ Subdue the great heliobus Cirrus and resolve the heliobus crisis in Fyxestroll Garden.</color>",
+        "desc": "Explore supernatural events in Fyxestroll Garden with Guinaifen\\n<span style=\"color: #8790abff;\">※ Subdue the great heliobus Cirrus and resolve the heliobus crisis in Fyxestroll Garden.</span>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032801,
         "name": "Fluffy, Puffy Tail",
-        "desc": "Collect ghost stories with the ghost-hunting squad\\n<color=#8790abff>※ Retrieve Tail and subdue the heliobi that have escaped on the Luofu...</color>",
+        "desc": "Collect ghost stories with the ghost-hunting squad\\n<span style=\"color: #8790abff;\">※ Retrieve Tail and subdue the heliobi that have escaped on the Luofu...</span>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032901,
         "name": "Divine Verso, Mundane Recto",
-        "desc": "Resolve the new crisis on the Herta Space Station\\n<color=#8790abff>※ Finish the Trailblaze Continuance \"Crown of the Mundane and Divine\"</color>",
+        "desc": "Resolve the new crisis on the Herta Space Station\\n<span style=\"color: #8790abff;\">※ Finish the Trailblaze Continuance \"Crown of the Mundane and Divine\"</span>",
         "rarity": 2,
         "version": "1.6"
       },
       {
         "id": 4033001,
         "name": "Do You Remember Me?",
-        "desc": "At the outset of your journey, you find yourself accompanied by someone unexpected...\\n<color=#8790abff>※ Encounter Acheron in a strange dreamland.</color>",
+        "desc": "At the outset of your journey, you find yourself accompanied by someone unexpected...\\n<span style=\"color: #8790abff;\">※ Encounter Acheron in a strange dreamland.</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033002,
         "name": "Trailblazer in Dreamscape",
-        "desc": "You have arrived at the Incredible Land of the Dreams!\\n<color=#8790abff>※ Arrive at the Golden Hour.</color>",
+        "desc": "You have arrived at the Incredible Land of the Dreams!\\n<span style=\"color: #8790abff;\">※ Arrive at the Golden Hour.</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033003,
         "name": "Gentleness, the Name of Nocturne",
-        "desc": "See how shooting stars fly across the dream sky.\\n<color=#8790abff>※ Learn Firefly's secrets at the Dream's Edge.</color>",
+        "desc": "See how shooting stars fly across the dream sky.\\n<span style=\"color: #8790abff;\">※ Learn Firefly's secrets at the Dream's Edge.</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033004,
         "name": "The Pursuit of Sweetness",
-        "desc": "Discover the serendipitous joy in dreamscape\\n<color=#8790abff>※ Escape from the shadow of \"death\"</color>",
+        "desc": "Discover the serendipitous joy in dreamscape\\n<span style=\"color: #8790abff;\">※ Escape from the shadow of \"death\"</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033005,
         "name": "Old Friends, New Friends",
-        "desc": "Embrace the warmth in the ocean of memories...\\n<color=#8790abff>※ Fight Stellaron Hunter Sam.</color>",
+        "desc": "Embrace the warmth in the ocean of memories...\\n<span style=\"color: #8790abff;\">※ Fight Stellaron Hunter Sam.</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033006,
         "name": "If I Can Stop One Heart From Breaking",
-        "desc": "The entire Penacony will go mad...\\n<color=#8790abff>※ Witness the second murder.</color>",
+        "desc": "The entire Penacony will go mad...\\n<span style=\"color: #8790abff;\">※ Witness the second murder.</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033007,
         "name": "Sibyl, What Do You Want?",
-        "desc": "Where will good fortune lead gamblers?\\n<color=#8790abff>※ Witness the life of Kakavasha</color>",
+        "desc": "Where will good fortune lead gamblers?\\n<span style=\"color: #8790abff;\">※ Witness the life of Kakavasha</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033009,
         "name": "A Drop of the Hard Stuff",
-        "desc": "Cheers to sweet dreams and the dreamer!\\n<color=#8790abff>※ Obtain Gallagher's special mix</color>",
+        "desc": "Cheers to sweet dreams and the dreamer!\\n<span style=\"color: #8790abff;\">※ Obtain Gallagher's special mix</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033010,
         "name": "She Replied, I Want to Die.",
-        "desc": "Sit in the best seat and watch the grand finale\\n<color=#8790abff>※ Defeat \"Ten Stonehearts\" Aventurine</color>",
+        "desc": "Sit in the best seat and watch the grand finale\\n<span style=\"color: #8790abff;\">※ Defeat \"Ten Stonehearts\" Aventurine</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033011,
         "name": "To Icarus",
-        "desc": "Relive the past in a faraway land\\n<color=#8790abff>※ Listen to Acheron and Welt's conversation</color>",
+        "desc": "Relive the past in a faraway land\\n<span style=\"color: #8790abff;\">※ Listen to Acheron and Welt's conversation</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033201,
         "name": "The Last Tycoon",
-        "desc": "Commune with the Watchmaker\\n<color=#8790abff>※ Meet the first Nameless in Penacony</color>",
+        "desc": "Commune with the Watchmaker\\n<span style=\"color: #8790abff;\">※ Meet the first Nameless in Penacony</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033202,
         "name": "We Will Be Freemen as Our Fathers Were",
-        "desc": "Inherit the Watchmaker's legacy\\n<color=#8790abff>※ Continue the unfinished journey of the last Nameless in Penacony</color>",
+        "desc": "Inherit the Watchmaker's legacy\\n<span style=\"color: #8790abff;\">※ Continue the unfinished journey of the last Nameless in Penacony</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033203,
         "name": "If We Walk in the Light",
-        "desc": "Embark on a new trailblaze journey as desired\\n<color=#8790abff>※ Defeat the Harmonious Choir, Dominicus...</color>",
+        "desc": "Embark on a new trailblaze journey as desired\\n<span style=\"color: #8790abff;\">※ Defeat the Harmonious Choir, Dominicus...</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033204,
         "name": "In the End, We Awaken From Our Dreams",
-        "desc": "Witness the first light of dawn on Penacony\\n<color=#8790abff>Defeat \"Embryo of Philosophy\" Sunday</color>",
+        "desc": "Witness the first light of dawn on Penacony\\n<span style=\"color: #8790abff;\">Defeat \"Embryo of Philosophy\" Sunday</span>",
         "rarity": 3,
         "version": "2.2"
       },
       {
         "id": 4033205,
         "name": "Sincerity Is Eternally the Ultimate",
-        "desc": "Make peace with the Penacony's custodian of justice\\n<color=#8790abff>※ Persuade Argenti in Superstar Showdown</color>",
+        "desc": "Make peace with the Penacony's custodian of justice\\n<span style=\"color: #8790abff;\">※ Persuade Argenti in Superstar Showdown</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033206,
         "name": "The Ultimate is Eternal Sincerity",
-        "desc": "Defeat Penacony's custodian of justice\\n<color=#8790abff>※ Defeat Argenti in Superstar Showdown</color>",
+        "desc": "Defeat Penacony's custodian of justice\\n<span style=\"color: #8790abff;\">※ Defeat Argenti in Superstar Showdown</span>",
         "rarity": 2,
         "version": "2.2"
+      },
+      {
+        "id": 4033301,
+        "name": "All the Flowers are Dying",
+        "desc": "Here's to the departed, toasting the bitter reality\\n<span style=\"color: #8790abff;\">※ Crafting the special drink \"Bitter Dreams\"</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033302,
+        "name": "It's a Wonderful Life",
+        "desc": "Here's to the departed, toasting the honeyed tomorrow\\n<span style=\"color: #8790abff;\">※ Crafting the special drink \"Drowning Sweetness\"</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033303,
+        "name": "Going my Way",
+        "desc": "Encounter the Astral Express unexpectedly\\n<span style=\"color: #8790abff;\">※ As Firefly, run into the Express Crew on the Radiant Feldspar</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033304,
+        "name": "On the Road",
+        "desc": "Pass by the Astral Express\\n<span style=\"color: #8790abff;\">※ As Firefly, focus on finding the \"Bonajade Exchange\" aboard the Radiant Feldspar</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033305,
+        "name": "Ship of Fools",
+        "desc": "Add new footnotes to our destiny.\\n<span style=\"color: #8790abff;\">※ Successfully resolve the \"bomb\" threat and watch the grand fireworks</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033306,
+        "name": "Tell Me, O Muse",
+        "desc": "Decide upon the next stop at Penacony\\n<span style=\"color: #8790abff;\">※ To Amphoreus, The Eternal Land!</span>",
+        "rarity": 2,
+        "version": "2.3"
       }
     ]
   },
@@ -566,7 +608,7 @@
       {
         "id": 4042507,
         "name": "The Star of Wealth Shines Upon You",
-        "desc": "Open Treasures 170 times on the Xianzhou Luofu",
+        "desc": "Open Treasures 170 time(s) on the Xianzhou Luofu",
         "rarity": 2,
         "version": "1.2"
       },
@@ -852,14 +894,14 @@
       },
       {
         "id": 4043004,
-        "name": "Chirp?",
+        "name": "Tweet?",
         "desc": "Help 1 Origami Bird(s) return to the Great Tree.",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043005,
-        "name": "Chirp! Chirp!",
+        "name": "Tweet! Tweet!",
         "desc": "Help 60 Origami Bird(s) return to the Great Tree.",
         "rarity": 1,
         "version": "2.0"
@@ -944,28 +986,28 @@
       {
         "id": 4043017,
         "name": "Walks with Wolves",
-        "desc": "Collect the complete <i>Hanu's Adventure (Part 1)</i> collection",
+        "desc": "Collect the complete <i>Hanu's Adventure (I)</i> collection",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043018,
         "name": "Lie in Wait",
-        "desc": "Push down objects in Hanu's Adventure without hitting any enemies.",
+        "desc": "Push down objects in <i>Hanu's Adventure</i> without hitting any enemies",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043019,
         "name": "Escape Velocity Reached",
-        "desc": "The rocket teleportation in Hanu's Adventure lasts more than #1 seconds.",
+        "desc": "The rocket teleportation in <i>Hanu's Adventure</i> lasts more than #1 seconds",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043020,
         "name": "100% Alertness",
-        "desc": "Survive in Hanu's Adventure",
+        "desc": "Brush past death in <i>Hanu's Adventure</i>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -979,7 +1021,7 @@
       {
         "id": 4043022,
         "name": "Home Alone",
-        "desc": "Defeat 3 of Boss Stone's minions at once in a Hanu's Adventure stage",
+        "desc": "Defeat 3 of Boss Stone's minions at once in a <i>Hanu's Adventure</i> stage",
         "rarity": 1,
         "version": "2.1"
       },
@@ -1056,14 +1098,14 @@
       {
         "id": 4043033,
         "name": "Living With a Wolf",
-        "desc": "Collect the complete <i>Hanu's Adventure (Part 2)</i> collection",
+        "desc": "Collect the complete <i>Hanu's Adventure (II)</i> collection",
         "rarity": 1,
         "version": "2.1"
       },
       {
         "id": 4043034,
         "name": "Maximum Firepower",
-        "desc": "Obtain the maximum ammo limit of Hanu Rocket in Hanu's Adventure",
+        "desc": "Obtain the maximum ammo limit of Hanu Rocket in <i>Hanu's Adventure</i>",
         "rarity": 1,
         "version": "2.1"
       },
@@ -1118,7 +1160,7 @@
       },
       {
         "id": 4043207,
-        "name": "Chirp... I Can't Move Anymore",
+        "name": "Tweet... I Can't Move Anymore",
         "desc": "Help 100 Origami Bird(s) return to the Great Tree.",
         "rarity": 1,
         "version": "2.2"
@@ -1241,6 +1283,20 @@
         "desc": "Help Family members retrieve all the stolen goods",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4043301,
+        "name": "Balloons, Towards Tomorrow~",
+        "desc": "Break the special Boss Stone balloon at {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4043302,
+        "name": "Alas, Not a Concert Band",
+        "desc": "Rescue the Boss Ticker on {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -1313,7 +1369,7 @@
       {
         "id": 4052403,
         "name": "Coffin Dancer",
-        "desc": "Witness Luocha's hidden side.\\n<color=#8790abff>※ Check the restored recording and listen to Luocha's monologue.</color>",
+        "desc": "Witness Luocha's hidden side.\\n<span style=\"color: #8790abff;\">※ Check the restored recording and listen to Luocha's monologue.</span>",
         "rarity": 1,
         "version": "1.1"
       },
@@ -1327,14 +1383,14 @@
       {
         "id": 4052507,
         "name": "Free Will",
-        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n<color=#8790abff>※ You chose to help Kafka</color>",
+        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n<span style=\"color: #8790abff;\">※ You chose to help Kafka</span>",
         "rarity": 1,
         "version": "1.2"
       },
       {
         "id": 4052511,
         "name": "True Free Will",
-        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n<color=#8790abff>※ You chose to leave Kafka. Not many people would, but this is how you proved your free will</color>",
+        "desc": "Complete the Companion Mission \"Letter from a Strange Woman\"\\n<span style=\"color: #8790abff;\">※ You chose to leave Kafka. Not many people would, but this is how you proved your free will</span>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -1390,14 +1446,14 @@
       {
         "id": 4051110,
         "name": "The Lifecycle of Software Objects",
-        "desc": "Choose not to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
+        "desc": "Choose not to format Little Robot in the mission \"Rarely Affectionate (II)\"",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4051111,
         "name": "For a Breath I Tarry",
-        "desc": "Choose to format Little Robot in the mission \"Rarely Affectionate (Part 2)\"",
+        "desc": "Choose to format Little Robot in the mission \"Rarely Affectionate (II)\"",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1649,7 +1705,7 @@
       {
         "id": 4052720,
         "name": "The First Step of the Future",
-        "desc": "Stay updated on the development progress of Belobog.\\n<color=#8790abff>※ Purchase <i>Miners Weekly</i> Issue 226</color>",
+        "desc": "Stay updated on the development progress of Belobog.\\n<span style=\"color: #8790abff;\">※ Purchase <i>Miners Weekly</i> Issue 226</span>",
         "rarity": 1,
         "version": "1.4"
       },
@@ -1817,14 +1873,14 @@
       {
         "id": 4052718,
         "name": "Victory, and Then Comes Farewell",
-        "desc": "Return {TEXTJOIN#54} once the dust settles",
+        "desc": "Return {Warp Trotter} once the dust settles",
         "rarity": 1,
         "version": "1.4"
       },
       {
         "id": 4052719,
         "name": "The End, and Then Comes the Beginning",
-        "desc": "Keep {TEXTJOIN#54} once the dust settles",
+        "desc": "Keep {Warp Trotter} once the dust settles",
         "rarity": 1,
         "version": "1.4"
       },
@@ -2209,7 +2265,7 @@
       {
         "id": 4052605,
         "name": "Outclassed by None",
-        "desc": "{LAYOUT_MOBILE#Tap}{LAYOUT_CONTROLLER#Press}{LAYOUT_KEYBOARD#Click} on 24 freight starskiff(s) during Aurum Alley's Hustle and Bustle",
+        "desc": "Tap on 24 freight starskiff(s) during Aurum Alley's Hustle and Bustle",
         "rarity": 2,
         "version": "1.3"
       },
@@ -2559,28 +2615,28 @@
       {
         "id": 4053012,
         "name": "Savor Emotions",
-        "desc": "What does Clockwork do?\\n<color=#8790abff>※ Guide the emotions of #1 people in the Dreamscape.</color>",
+        "desc": "What does Clockwork do?\\n<span style=\"color: #8790abff;\">※ Guide the emotions of #1 people in the Dreamscape.</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053014,
         "name": "Surge of Warmth",
-        "desc": "Clockwork helps people discover their true selves.\\n<color=#8790abff>※ Resolve #1 emergencies in Clockwork.</color>",
+        "desc": "Clockwork helps people discover their true selves.\\n<span style=\"color: #8790abff;\">※ Resolve #1 emergencies in Clockwork.</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053015,
         "name": "Thumping Heart",
-        "desc": "In dreams, even emotions are tangible.\\n<color=#8790abff>※ Collect #1 Emo Gears.</color>",
+        "desc": "In dreams, even emotions are tangible.\\n<span style=\"color: #8790abff;\">※ Collect #1 Emo Gears.</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053016,
         "name": "I Know Your Thoughts",
-        "desc": "Can you resist the temptation of counseling?\\n<color=#8790abff>※ Guide the emotions of at least #1 people in the Dreamscape.</color>",
+        "desc": "Can you resist the temptation of counseling?\\n<span style=\"color: #8790abff;\">※ Guide the emotions of at least #1 people in the Dreamscape.</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2601,7 +2657,7 @@
       {
         "id": 4053019,
         "name": "The Number You Have Dialed Is Unavailable",
-        "desc": "There are always off-limits places.\\n<color=#8790abff>※ Call an unreachable number.</color>",
+        "desc": "There are always off-limits places.\\n<span style=\"color: #8790abff;\">※ Call an unreachable number.</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2629,7 +2685,7 @@
       {
         "id": 4053023,
         "name": "Don't Pick Up Anything Ominous",
-        "desc": "Not all urban myths are just myths.\\n<color=#8790abff>※ Pick up an eerie tape.</color>",
+        "desc": "Not all urban myths are just myths.\\n<span style=\"color: #8790abff;\">※ Pick up an eerie tape.</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2657,28 +2713,28 @@
       {
         "id": 4053027,
         "name": "Rashomon",
-        "desc": "So... who hit whom?\\n<color=#8790abff>※ Witness the entire process of the car accident at Glaux Avenue.</color>",
+        "desc": "So... who hit whom?\\n<span style=\"color: #8790abff;\">※ Witness the entire process of the car accident at Glaux Avenue.</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053028,
         "name": "Magique Pepeshi",
-        "desc": "Pepeshi? Or mimic?\\n<color=#8790abff>※ Figure out the true identity of the \"Pepeshi\" at the hotel lobby.</color>",
+        "desc": "Pepeshi? Or mimic?\\n<span style=\"color: #8790abff;\">※ Figure out the true identity of the \"Pepeshi\" at the hotel lobby.</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053029,
         "name": "The Planet of Festivities and Six Alfalfa Credits",
-        "desc": "Which is more important? Love, or dream?\\n<color=#8790abff>※ Discover the story of a family torn apart by the dreams of its members.</color>",
+        "desc": "Which is more important? Love, or dream?\\n<span style=\"color: #8790abff;\">※ Discover the story of a family torn apart by the dreams of its members.</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053030,
         "name": "Mental Health Care",
-        "desc": "The environment must be protected.\\n<color=#8790abff>※ Help Go-Ray recycle trash in the Dreamscape.</color>",
+        "desc": "The environment must be protected.\\n<span style=\"color: #8790abff;\">※ Help Go-Ray recycle trash in the Dreamscape.</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2699,7 +2755,7 @@
       {
         "id": 4053033,
         "name": "No Man's Symphony",
-        "desc": "What happens when a joyful player becomes even more joyful?\\n<color=#8790abff>※ Enhance Max's music with even more joy</color>",
+        "desc": "What happens when a joyful player becomes even more joyful?\\n<span style=\"color: #8790abff;\">※ Enhance Max's music with even more joy</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2720,14 +2776,14 @@
       {
         "id": 4053036,
         "name": "Between the Sky and You",
-        "desc": "Revisit the secret place alone\\n<color=#8790abff>※ Return to Firefly's secret base after everything has concluded</color>",
+        "desc": "Revisit the secret place alone\\n<span style=\"color: #8790abff;\">※ Return to Firefly's secret base after everything has concluded</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053037,
         "name": "See That Ladder? You Can Climb It!",
-        "desc": "Attempt to climb the ladder at the Dream's Edge\\n<color=#8790abff>※ Actually, you can't climb it</color>",
+        "desc": "Attempt to climb the ladder at the Dream's Edge\\n<span style=\"color: #8790abff;\">※ Actually, you can't climb it</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2762,7 +2818,7 @@
       {
         "id": 4053042,
         "name": "Deja Vu",
-        "desc": "Encounter the familiar \"sights\" in the Dreamscape\\n<color=#8790abff>※ Yep, it's the trashcans!</color>",
+        "desc": "Encounter the familiar \"sights\" in the Dreamscape\\n<span style=\"color: #8790abff;\">※ Yep, it's the trashcans!</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2783,7 +2839,7 @@
       {
         "id": 4053045,
         "name": "Enemy of the Pepeshi",
-        "desc": "Offend every Pepeshi you encounter with precision and speed.\\n<color=#8790abff>※ Try to touch the fluff ball of every Pepeshi in the Golden Hour</color>",
+        "desc": "Offend every Pepeshi you encounter with precision and speed.\\n<span style=\"color: #8790abff;\">※ Try to touch the fluff ball of every Pepeshi in the Golden Hour</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2797,35 +2853,35 @@
       {
         "id": 4053047,
         "name": "Gate to Stars",
-        "desc": "Explorer or pirate?\\n<color=#8790abff>※ Listen to Colleen's story about the universe</color>",
+        "desc": "Explorer or pirate?\\n<span style=\"color: #8790abff;\">※ Listen to Colleen's story about the universe</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053048,
         "name": "This Is Simply Amazing",
-        "desc": "Witness a \"great vision\"\\n<color=#8790abff>※ Collect Family members' comments on the Dream's Edge project</color>",
+        "desc": "Witness a \"great vision\"\\n<span style=\"color: #8790abff;\">※ Collect Family members' comments on the Dream's Edge project</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053049,
         "name": "Dream of Trustification",
-        "desc": "Everything you see is MY invention!\\n<color=#8790abff>※ Help Emmrich complete his plan</color>",
+        "desc": "Everything you see is MY invention!\\n<span style=\"color: #8790abff;\">※ Help Emmrich complete his plan</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053050,
         "name": "Reality Sinks, Dream Drifts",
-        "desc": "Humans can't empathize with each other after all\\n<color=#8790abff>※ Listen to the conversation between Larose and Forla</color>",
+        "desc": "Humans can't empathize with each other after all\\n<span style=\"color: #8790abff;\">※ Listen to the conversation between Larose and Forla</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053051,
         "name": "The Long Goodbye",
-        "desc": "May she bid farewell to her troubled past\\n<color=#8790abff>※ Witness Lew Archer's story</color>",
+        "desc": "May she bid farewell to her troubled past\\n<span style=\"color: #8790abff;\">※ Witness Lew Archer's story</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2839,7 +2895,7 @@
       {
         "id": 4053053,
         "name": "Oti's Economics",
-        "desc": "If everyone gets money, then no one gets money\\n<color=#8790abff>※ Repeatedly trigger the cash-spewer on the streets</color>",
+        "desc": "If everyone gets money, then no one gets money\\n<span style=\"color: #8790abff;\">※ Repeatedly trigger the cash-spewer on the streets</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -3147,7 +3203,7 @@
       {
         "id": 4053228,
         "name": "Where Are You Going, Mikhail?",
-        "desc": "I have walked the path I should have walked\\n<color=#8790abff>※ When the dust settles, return to A Child's Moongazing Spot</color>",
+        "desc": "I have walked the path I should have walked\\n<span style=\"color: #8790abff;\">※ When the dust settles, return to A Child's Moongazing Spot</span>",
         "rarity": 1,
         "version": "2.2"
       },
@@ -3178,6 +3234,202 @@
         "desc": "Help the Billboard Hurrylove to pass a message to its lover",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4053205,
+        "name": "Stickers, So Many Stickers",
+        "desc": "Achieve 100% page completion progress for Dreamscape Pass",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4053301,
+        "name": "No Business on Continental Grounds",
+        "desc": "Complete the Adventure Mission \"Checking Out\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053302,
+        "name": "Requiem of the Rose",
+        "desc": "Complete the Adventure Mission \"Grim Film of Finality\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053303,
+        "name": "My Captain, My Ship",
+        "desc": "Complete the Adventure Mission \"Cloud-Bound Hearts\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053304,
+        "name": "Unplanned Group Photo",
+        "desc": "Take a group photo during the Origami Bird Clash event",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4053305,
+        "name": "Omega Ruby",
+        "desc": "During the Origami Bird Clash event, place Silbird Wolf, Birefly, and Trailbirder on arcade machines of the same side",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053306,
+        "name": "Alpha Sapphire",
+        "desc": "During the Origami Bird Clash event, place Trailbirder and March Bird on arcade machines adjacent to each other",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053307,
+        "name": "Easy As Pie",
+        "desc": "During the Origami Bird Clash event, trigger Origami Bird abilities #1 time(s) in a single match",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053308,
+        "name": "Angry Origami Birds",
+        "desc": "During the Origami Bird Clash event, manually trigger bomb combos #1 time(s) in a single match",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053309,
+        "name": "For the Birds",
+        "desc": "During the Origami Bird Clash event, achieve a Combat Power value of #1 in a single match",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053310,
+        "name": "Origami Zoo",
+        "desc": "Obtain victory in all Open Challenges in the Origami Bird Clash Event",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053311,
+        "name": "A Star is Born",
+        "desc": "Appoint the appropriate performers on the stage of {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053312,
+        "name": "Need for Speed",
+        "desc": "Park your car in the exclusive parking space at {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053313,
+        "name": "Family Cinema",
+        "desc": "Use the projector on {Radiant Feldspar} and invite the Express Crew to take a look",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053315,
+        "name": "Eighteen Lordly Trashcans",
+        "desc": "Complete all Trashcan of Trials's challenges on {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053316,
+        "name": "LuckEx",
+        "desc": "Receive the package delivered by Aventurine on {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053317,
+        "name": "Astral Express Night Live",
+        "desc": "Purchase Lil' Brother Hanu TV with golden capsule coins and install it in the coach of the Astral Express",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053318,
+        "name": "The Invisible Guest",
+        "desc": "Transform into Brother Hanu and enter other Crew members' rooms",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053319,
+        "name": "Self-Funded Merch",
+        "desc": "Obtain {NICKNAME}'s captain merchandise",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053320,
+        "name": "Shadow Captain",
+        "desc": "Speak with {NICKNAME}'s Captain Billboard",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053322,
+        "name": "Beneath the Black Mirror",
+        "desc": "Activate surveillance in the control room and observe the hull of {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053323,
+        "name": "Return to Glory",
+        "desc": "Rename the Radiant Feldspar and change its empennage's paint scheme",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053324,
+        "name": "Invisible Cities",
+        "desc": "Use the telescope on {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053325,
+        "name": "My Heart Will Go On",
+        "desc": "Look into the distance from the bow of {Radiant Feldspar}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053326,
+        "name": "Utter Horror Story",
+        "desc": "Read all of Bella's Emotions with Clockwork",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053327,
+        "name": "The Evil Within",
+        "desc": "Read all of Stefano's Happy Emotions with Clockwork",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053328,
+        "name": "Gold Coins of Starlight",
+        "desc": "Collect all the golden capsule coins on Penacony",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053329,
+        "name": "O Captain! My Captain!",
+        "desc": "Enter the Captain's quarters on {Radiant Feldspar} for the first time",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -3724,7 +3976,7 @@
       {
         "id": 4071505,
         "name": "Coffee Lover",
-        "desc": "A cup of coffee thrice a day, keeps the foggy head at bay\\n<color=#8790abff>※ In a single battle, use Himeko's Ultimate 3 times</color>",
+        "desc": "A cup of coffee thrice a day, keeps the foggy head at bay\\n<span style=\"color: #8790abff;\">※ In a single battle, use Himeko's Ultimate 3 times</span>",
         "rarity": 2,
         "version": "1.0"
       },
@@ -3962,7 +4214,7 @@
       {
         "id": 4072504,
         "name": "Unfulfilled Wish",
-        "desc": "\"Unnecessary.\"\\n<color=#8790abff>※ In a single battle, use the character Blade to restore his HP from less than or equal to 0% to greater than or equal to <unbreak>30%</unbreak> in one single attack for <unbreak>2</unbreak> time(s)</color>",
+        "desc": "\"Unnecessary.\"\\n<span style=\"color: #8790abff;\">※ In a single battle, use the character Blade to restore his HP from less than or equal to 0% to greater than or equal to <unbreak>30%</unbreak> in one single attack for <unbreak>2</unbreak> time(s)</span>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -4158,7 +4410,7 @@
       {
         "id": 4072905,
         "name": "Let Her Cook",
-        "desc": "Stop and listen to Hanya's prattling\\n<color=#8790abff>※ Fully listen to all of Hanya's idle animation voice-over lines, and her action idle voice-over lines</color>",
+        "desc": "Stop and listen to Hanya's prattling\\n<span style=\"color: #8790abff;\">※ Fully listen to all of Hanya's idle animation voice-over lines, and her action idle voice-over lines</span>",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4172,7 +4424,7 @@
       {
         "id": 4072907,
         "name": "Chain Peoplebreaker",
-        "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito Ergo Sum, for 4 consecutive turns",
+        "desc": "In a single battle, trigger the follow-up attack effect from Dr. Ratio's Talent, Cogito, Ergo Sum, for 4 consecutive turns",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4347,7 +4599,7 @@
       {
         "id": 4073207,
         "name": "Duration of a Song",
-        "desc": "Listen to Robin's singing\\n<color=#8790abff>※ In combat, view Robin for more than #1 seconds in Checking Mode after using Robin's Ultimate \"Vox Harmonique, Opus Cosmique\"</color>",
+        "desc": "Listen to Robin's singing\\n<span style=\"color: #8790abff;\">※ In combat, view Robin for more than #1 seconds in Real-Time Combat View after using Robin's Ultimate \"Vox Harmonique, Opus Cosmique\"</span>",
         "rarity": 1,
         "version": "2.2"
       },
@@ -4385,6 +4637,48 @@
         "desc": "Accumulate enough Shield to completely block \"Embryo of Philosophy\" Sunday's ability, Im Anfang war die Tat",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4073301,
+        "name": "Planet of Festivities Special Team",
+        "desc": "Win 1 battle(s) with a team comprising Topaz & Numby, Dr. Ratio, Aventurine, and Jade",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073302,
+        "name": "Save the Cat!",
+        "desc": "Win 1 battle(s) with a team comprising Silver Wolf, Blade, Kafka, and Firefly",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073303,
+        "name": "The Contractor",
+        "desc": "In a single battle, reduce an ally's HP to #1 when they are under the Debt Collector effect from Jade's Skill",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073304,
+        "name": "Go Now, A— SAM",
+        "desc": "Use ally Firefly in combat against boss Kafka and be Dominated by her",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073305,
+        "name": "I Will... Set the Seas Ablaze!",
+        "desc": "In a single battle, use Fyrefly Type-IV: Deathstar Overload #1 time(s) before the Complete Combustion state ends while using SAM",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073306,
+        "name": "Seeing Summer",
+        "desc": "Win 1 battle(s) with a team comprising Firefly and {NICKNAME}",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -4415,35 +4709,35 @@
       {
         "id": 4080301,
         "name": "Diogenes' Utopia",
-        "desc": "See what Belobog is famous for!\\n<color=#8790abff>※ You've obtained every useful prop in the trashcans!</color>",
+        "desc": "See what Belobog is famous for!\\n<span style=\"color: #8790abff;\">※ You've obtained every useful prop in the trashcans!</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080302,
         "name": "Insatiable",
-        "desc": "Sometimes, there can be too much of a good thing...\\n<color=#8790abff>※ Use Vomit Inducing Agent 1 time(s)</color>",
+        "desc": "Sometimes, there can be too much of a good thing...\\n<span style=\"color: #8790abff;\">※ Use Vomit Inducing Agent 1 time(s)</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080303,
         "name": "Trashy Humor",
-        "desc": "One man's trash is another man's treasure\\n<color=#8790abff>※ Use Trash to synthesize Consumables 10 times</color>",
+        "desc": "One man's trash is another man's treasure\\n<span style=\"color: #8790abff;\">※ Use Trash to synthesize Consumables 10 times</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080304,
         "name": "Karmic Wheel",
-        "desc": "Let the Higher Existence that lives within our hearts sigh at you\\n<color=#8790abff>※ Find a way to use up your Praise of High Morals</color>",
+        "desc": "Let the Higher Existence that lives within our hearts sigh at you\\n<span style=\"color: #8790abff;\">※ Find a way to use up your Praise of High Morals</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080305,
         "name": "Saint",
-        "desc": "Let the Higher Existence that lives within our hearts give you a thumbs-up\\n<color=#8790abff>※ Obtain Praise of High Morals 20 time(s)</color>",
+        "desc": "Let the Higher Existence that lives within our hearts give you a thumbs-up\\n<span style=\"color: #8790abff;\">※ Obtain Praise of High Morals 20 time(s)</span>",
         "rarity": 1,
         "version": "1.0"
       },
@@ -4723,7 +5017,7 @@
       {
         "id": 4082701,
         "name": "Spamming SPAM",
-        "desc": "Feed Trotter in large quantities\\n<color=#8790abff>※ Use the \"{TEXTJOIN#54}\" Chat Box to send a large amount of text content</color>",
+        "desc": "Feed Trotter in large quantities\\n<span style=\"color: #8790abff;\">※ Use the \"{Warp Trotter}\" Chat Box to send a large amount of text content</span>",
         "rarity": 1,
         "version": "1.4"
       },
@@ -4912,9 +5206,23 @@
       {
         "id": 4083203,
         "name": "Going Dutch",
-        "desc": "Let Boothill and Aventurine fight over taking the bill\\n<color=#8790abff>※ In the same battle, trigger Aventurine's \"Skill 1\" voice line and Boothill's \"Battle Begins: Weakness Break\" voice line</color>",
+        "desc": "Let Boothill and Aventurine fight over taking the bill\\n<span style=\"color: #8790abff;\">※ In the same battle, trigger Aventurine's \"Skill 1\" voice line and Boothill's \"Battle Begins: Weakness Break\" voice line</span>",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4053321,
+        "name": "Host's Choice",
+        "desc": "Before gaining ownership of {Radiant Feldspar}, sprint and play in its swimming pool and get reprimanded",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4083301,
+        "name": "Guest's Choice",
+        "desc": "After gaining ownership of {Radiant Feldspar}, sprint and play in its swimming pool",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -5680,7 +5988,7 @@
       {
         "id": 4092911,
         "name": "Pacifica Is Still Pacifica",
-        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheating Code (II) Occurrence.",
+        "desc": "In Simulated Universe: Gold and Gears, lose the battle triggered by the Cheat Code (II) Occurrence.",
         "rarity": 1,
         "version": "1.6"
       },

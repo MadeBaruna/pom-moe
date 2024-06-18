@@ -267,247 +267,289 @@
       {
         "id": 4030101,
         "name": "Meu Coração Está Com as Estrelas",
-        "desc": "Parta em uma jornada pelo vasto cosmos\\n<color=#8790abff>※ Parabéns! Você embarcou no Expresso Astral!</color>",
+        "desc": "Parta em uma jornada pelo vasto cosmos\\n<span style=\"color: #8790abff;\">※ Parabéns! Você embarcou no Expresso Astral!</span>",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4030102,
         "name": "Noite do Inverno Eterno",
-        "desc": "Depois de suportar a tempestade de neve...\\n<color=#8790abff>※ Você chegou a Belobog</color>",
+        "desc": "Depois de suportar a tempestade de neve...\\n<span style=\"color: #8790abff;\">※ Você chegou a Belobog</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030103,
         "name": "Mundo Perdido",
-        "desc": "Descubra o segredo embaixo de Jarilo-VI\\n<color=#8790abff>※ Há pessoas vivendo no subterrâneo...</color>",
+        "desc": "Descubra o segredo embaixo de Jarilo-VI\\n<span style=\"color: #8790abff;\">※ Há pessoas vivendo no subterrâneo...</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030104,
         "name": "Metade do Mágico de Oz",
-        "desc": "Derrote o homem de lata e a garotinha\\n<color=#8790abff>※ Svarog e Clara viraram seus amigos!</color>",
+        "desc": "Derrote o homem de lata e a garotinha\\n<span style=\"color: #8790abff;\">※ Svarog e Clara viraram seus amigos!</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030105,
         "name": "O Inverno Está Partindo",
-        "desc": "Vamos mudar Belobog, começando por mim!\\n<color=#8790abff>※ Primeiro Passo: Derrotar a Guardiã Suprema Cocolia...</color>",
+        "desc": "Vamos mudar Belobog, começando por mim!\\n<span style=\"color: #8790abff;\">※ Primeiro Passo: Derrotar a Guardiã Suprema Cocolia...</span>",
         "rarity": 3,
         "version": "1.0"
       },
       {
         "id": 4030201,
         "name": "Raposa Andarilha",
-        "desc": "Diplomacia é apenas troca de opiniões...\\n<color=#8790abff>※ Converse com o(s) líder(es) do Luofu do Xianzhou</color>",
+        "desc": "Diplomacia é apenas troca de opiniões...\\n<span style=\"color: #8790abff;\">※ Converse com o(s) líder(es) do Luofu do Xianzhou</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4030202,
         "name": "A Omniscia Não Poupa Ninguém",
-        "desc": "O que vai, volta. Nenhum bandido deixará de ser capturado.\\n<color=#8790abff>※ Capture a Caçadora de Stellaron Kafka</color>",
+        "desc": "O que vai, volta. Nenhum bandido deixará de ser capturado.\\n<span style=\"color: #8790abff;\">※ Capture a Caçadora de Stellaron Kafka</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032305,
         "name": "Um Espectador Profissional",
-        "desc": "Quando o Vigia-Ventos te observa...\\n<color=#8790abff>※ Encontre Qingque, que está \"dando duro\" nos seus jogos...</color>",
+        "desc": "Quando o Vigia-Ventos te observa...\\n<span style=\"color: #8790abff;\">※ Encontre Qingque, que está \"dando duro\" nos seus jogos...</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032307,
         "name": "Profetisas Não Profetizam",
-        "desc": "Testemunhe o mistério da matriz da Comissão de Divinação\\n<color=#8790abff>※ Interrogue Kafka com a Matriz de Presciência e desafie a divinação com essa previsão...</color>",
+        "desc": "Testemunhe o mistério da matriz da Comissão de Divinação\\n<span style=\"color: #8790abff;\">※ Interrogue Kafka com a Matriz de Presciência e desafie a divinação com essa previsão...</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032308,
         "name": "O Caçador de Cervos",
-        "desc": "A fornalha está seca, e o cervo, silenciado\\n<color=#8790abff>※ Salve a Comissão de Artesanato da crise</color>",
+        "desc": "A fornalha está seca, e o cervo, silenciado\\n<span style=\"color: #8790abff;\">※ Salve a Comissão de Artesanato da crise</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032306,
         "name": "Assassino do \"Cerviçal\" da Abundância",
-        "desc": "Experimente trilhar o Caminho da Caça...\\n<color=#8790abff>※ Ajude o Xianzhou contra a Abominação da Abundância, o \"Cervo de Ébano\"</color>",
+        "desc": "Experimente trilhar o Caminho da Caça...\\n<span style=\"color: #8790abff;\">※ Ajude o Xianzhou contra a Abominação da Abundância, o \"Cervo de Ébano\"</span>",
         "rarity": 2,
         "version": "1.0"
       },
       {
         "id": 4032501,
         "name": "Svah Sanishyu",
-        "desc": "Se eles voltarem a vida, então é só matá-los novamente...\\n<color=#8790abff>※ Derrote a mestra dos Discípulos do Sanctus Medicus</color>",
+        "desc": "Se eles voltarem a vida, então é só matá-los novamente...\\n<span style=\"color: #8790abff;\">※ Derrote a mestra dos Discípulos do Sanctus Medicus</span>",
         "rarity": 2,
         "version": "1.2"
       },
       {
         "id": 4032502,
         "name": "O Embebidor Lunae Chegou",
-        "desc": "As Profundezas Marinhas Não Escondem Pedras, a Respiração do Dragão Revela a Lua.\\n<color=#8790abff>※ Testemunhe Dan Heng partindo as águas do Desfiladeiro Escamado Aquático</color>",
+        "desc": "As Profundezas Marinhas Não Escondem Pedras, a Respiração do Dragão Revela a Lua.\\n<span style=\"color: #8790abff;\">※ Testemunhe Dan Heng partindo as águas do Desfiladeiro Escamado Aquático</span>",
         "rarity": 2,
         "version": "1.2"
       },
       {
         "id": 4032503,
         "name": "A Árvore se Rompe",
-        "desc": "Todos os planos devem ser subjugados\\n<color=#8790abff>※ Ajude Jing Yuan a derrotar Phantylia</color>",
+        "desc": "Todos os planos devem ser subjugados\\n<span style=\"color: #8790abff;\">※ Ajude Jing Yuan a derrotar Phantylia</span>",
         "rarity": 3,
         "version": "1.2"
       },
       {
         "id": 4032601,
         "name": "Os Vivos São Transitórios",
-        "desc": "Até Logo, Luofu do Xianzhou\\n<color=#8790abff>※ Participe da cerimônia de apaziguamento de espírito e forme uma aliança com o Xianzhou</color>",
+        "desc": "Até Logo, Luofu do Xianzhou\\n<span style=\"color: #8790abff;\">※ Participe da cerimônia de apaziguamento de espírito e forme uma aliança com o Xianzhou</span>",
         "rarity": 2,
         "version": "1.3"
       },
       {
         "id": 4032701,
         "name": "Tarefas Solares Pedem Chuvas Exemplares",
-        "desc": "Ajude Jarilo-VI e Belobog a solucionar sua grande crise (novamente)\\n<color=#8790abff>※ Conclua a Continuidade de Desbravamento \"Mercado Futuro\"</color>",
+        "desc": "Ajude Jarilo-VI e Belobog a solucionar sua grande crise (novamente)\\n<span style=\"color: #8790abff;\">※ Conclua a Continuidade de Desbravamento \"Mercado Futuro\"</span>",
         "rarity": 2,
         "version": "1.4"
       },
       {
         "id": 4032802,
         "name": "Os Perigos do Meu Coração",
-        "desc": "Explore os eventos sobrenaturais no Jardim Flamavulpe com Guinaifen\\n<color=#8790abff>※ Subjugue o grande Heliobus Cirrus e resolva a crise Heliobi no Jardim Flamavulpe.</color>",
+        "desc": "Explore os eventos sobrenaturais no Jardim Flamavulpe com Guinaifen\\n<span style=\"color: #8790abff;\">※ Subjugue o grande Heliobus Cirrus e resolva a crise Heliobi no Jardim Flamavulpe.</span>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032801,
         "name": "Rabin Fofin, Rabin Assim",
-        "desc": "Colete histórias de fantasmas com o Esquadrão Caça-Fantasmas\\n<color=#8790abff>※ Recupere o Rabin e subjugue os Heliobi que escaparam para o Luofu...</color>",
+        "desc": "Colete histórias de fantasmas com o Esquadrão Caça-Fantasmas\\n<span style=\"color: #8790abff;\">※ Recupere o Rabin e subjugue os Heliobi que escaparam para o Luofu...</span>",
         "rarity": 2,
         "version": "1.5"
       },
       {
         "id": 4032901,
         "name": "Verso Divino, Recto Mundano",
-        "desc": "Resolva a nova crise na Estação Espacial Herta\\n<color=#8790abff>※ Conclua a Continuidade de Desbravamento \"Coroa do Mundano e do Divino\"</color>",
+        "desc": "Resolva a nova crise na Estação Espacial Herta\\n<span style=\"color: #8790abff;\">※ Conclua a Continuidade de Desbravamento \"Coroa do Mundano e do Divino\"</span>",
         "rarity": 2,
         "version": "1.6"
       },
       {
         "id": 4033001,
         "name": "Você Se lembra de Mim?",
-        "desc": "No início de sua jornada, você se encontra acompanhado por alguém inesperado... \\n<color=#8790abff>※ Encontre Acheron em uma Terra dos Sonhos estranha.</color>",
+        "desc": "No início de sua jornada, você se encontra acompanhado por alguém inesperado... \\n<span style=\"color: #8790abff;\">※ Encontre Acheron em uma Terra dos Sonhos estranha.</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033002,
         "name": "Desbravador no Mundonírico",
-        "desc": "Você chegou à Terra dos Sonhos Incríveis!\\n<color=#8790abff>※ Chegue na Hora Dourada</color>",
+        "desc": "Você chegou à Terra dos Sonhos Incríveis!\\n<span style=\"color: #8790abff;\">※ Chegue na Hora Dourada</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033003,
         "name": "Gentileza, o Nome do Noturno",
-        "desc": "Veja como as estrelas cadentes voam pelo céu do sonho.\\n<color=#8790abff>※ Descubra os segredos da Vaga-lume na Margem do Sonho.</color>",
+        "desc": "Veja como as estrelas cadentes voam pelo céu do sonho.\\n<span style=\"color: #8790abff;\">※ Descubra os segredos da Vaga-lume na Margem do Sonho.</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033004,
         "name": "A Busca pela Doçura",
-        "desc": "Descubra a alegria inesperada no Mundonírico\\n<color=#8790abff>※ Escape da sombra da \"morte\"</color>",
+        "desc": "Descubra a alegria inesperada no Mundonírico\\n<span style=\"color: #8790abff;\">※ Escape da sombra da \"morte\"</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033005,
         "name": "Velhos Amigos, Novos Amigos",
-        "desc": "Abrace o calor no oceano das memórias...\\n<color=#8790abff>※ Lute contra Sam, o Caçador de Stellaron</color>",
+        "desc": "Abrace o calor no oceano das memórias...\\n<span style=\"color: #8790abff;\">※ Lute contra Sam, o Caçador de Stellaron</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033006,
         "name": "Se Eu Pudesse Salvar um Coração de Ser Partido",
-        "desc": "Penacony inteira vai enlouquecer...\\n<color=#8790abff>※ Presencie o segundo assassinato</color>",
+        "desc": "Penacony inteira vai enlouquecer...\\n<span style=\"color: #8790abff;\">※ Presencie o segundo assassinato</span>",
         "rarity": 2,
         "version": "2.0"
       },
       {
         "id": 4033007,
         "name": "Sybil, O Que Você Quer?",
-        "desc": "Onde a boa sorte levará os apostadores?\\n<color=#8790abff>※ Testemunhe a vida de Akavasha</color>",
+        "desc": "Onde a boa sorte levará os apostadores?\\n<span style=\"color: #8790abff;\">※ Testemunhe a vida de Akavasha</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033009,
         "name": "Uma Gota das Coisas Difíceis",
-        "desc": "Um brinde aos doces sonhos do sonhador!\\n<color=#8790abff>※ Obtenha a mistura especial de Gallagher</color>",
+        "desc": "Um brinde aos doces sonhos do sonhador!\\n<span style=\"color: #8790abff;\">※ Obtenha a mistura especial de Gallagher</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033010,
         "name": "Ela Respondeu, Eu Quero Morrer",
-        "desc": "Sente-se no melhor lugar e assista o grand finale\\n<color=#8790abff>※ Derrote Aventurine dos Dez Corações de Pedra</color>",
+        "desc": "Sente-se no melhor lugar e assista o grand finale\\n<span style=\"color: #8790abff;\">※ Derrote Aventurine dos Dez Corações de Pedra</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033011,
         "name": "Para Ícaro",
-        "desc": "Reviva o passado em uma terra distante\\n<color=#8790abff>※ Ouça a conversa entre Welt e Acheron</color>",
+        "desc": "Reviva o passado em uma terra distante\\n<span style=\"color: #8790abff;\">※ Ouça a conversa entre Welt e Acheron</span>",
         "rarity": 2,
         "version": "2.1"
       },
       {
         "id": 4033201,
         "name": "O Último Magnata",
-        "desc": "Interaja com o Relojoeiro\\n<color=#8790abff>※ Conheça o primeiro Inominado de Penacony</color>",
+        "desc": "Interaja com o Relojoeiro\\n<span style=\"color: #8790abff;\">※ Conheça o primeiro Inominado de Penacony</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033202,
         "name": "Seremos Livres Como Nossos Pais",
-        "desc": "Herde o legado do Relojoeiro\\n<color=#8790abff>※ Continue a jornada inacabada do último Inominado de Penacony</color>",
+        "desc": "Herde o legado do Relojoeiro\\n<span style=\"color: #8790abff;\">※ Continue a jornada inacabada do último Inominado de Penacony</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033203,
         "name": "Se Caminharmos Pela Luz",
-        "desc": "Embarque em uma nova jornada de Desbravamento como desejar\\n<color=#8790abff>※ Derrote o Coral Harmonioso, Dominicus...</color>",
+        "desc": "Embarque em uma nova jornada de Desbravamento como desejar\\n<span style=\"color: #8790abff;\">※ Derrote o Coral Harmonioso, Dominicus...</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033204,
         "name": "No Final, Despertamos de Nossos Sonhos",
-        "desc": "Testemunhe a primeira aurora do amanhecer de Penacony\\n<color=#8790abff>※ Derrote Sunday, \"Embrião da Filosofia\"</color>",
+        "desc": "Testemunhe a primeira aurora do amanhecer de Penacony\\n<span style=\"color: #8790abff;\">※ Derrote Sunday, \"Embrião da Filosofia\"</span>",
         "rarity": 3,
         "version": "2.2"
       },
       {
         "id": 4033205,
         "name": "A Sinceridade Será Sempre a Perícia Suprema",
-        "desc": "Faça as pazes com o guardião da justiça de Penacony\\n<color=#8790abff>※ Convença Argenti no Combate de Superestrelas</color>",
+        "desc": "Faça as pazes com o guardião da justiça de Penacony\\n<span style=\"color: #8790abff;\">※ Convença Argenti no Combate de Superestrelas</span>",
         "rarity": 2,
         "version": "2.2"
       },
       {
         "id": 4033206,
         "name": "A Perícia Suprema Será Sempre Sincera",
-        "desc": "Derrote o guardião da justiça de Penacony\\n<color=#8790abff>※ Derrote Argenti no Combate de Superestrelas</color>",
+        "desc": "Derrote o guardião da justiça de Penacony\\n<span style=\"color: #8790abff;\">※ Derrote Argenti no Combate de Superestrelas</span>",
         "rarity": 2,
         "version": "2.2"
+      },
+      {
+        "id": 4033301,
+        "name": "Todas as Flores Estão Morrendo",
+        "desc": "Aos que partiram, brindando à amarga realidade\\n<span style=\"color: #8790abff;\">※ Prepare a bebida especial \"Sonhos Amargos\"</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033302,
+        "name": "A Vida é Maravilhosa",
+        "desc": "Aos que partiram, brindando ao doce amanhã\\n<span style=\"color: #8790abff;\">※ Prepare a bebida especial \"Doçura Submersa\"</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033303,
+        "name": "O Bom Pastor",
+        "desc": "Encontre o Expresso Astral inesperadamente\\n<span style=\"color: #8790abff;\">※ Como Vaga-lume, encontre a tripulação do Expresso Astral na Feldspato Radiante</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033304,
+        "name": "Na Estrada",
+        "desc": "Passe pelo Expresso Astral\\n<span style=\"color: #8790abff;\">※ Como Vaga-lume, se concentre em encontrar a \"Loja de Penhores Bonajade\" a bordo da Feldspato Radiante</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033305,
+        "name": "O Navio dos Tolos",
+        "desc": "Adicione novas notas de rodapé ao nosso destino\\n<span style=\"color: #8790abff;\">※ Resolva com sucesso a ameaça de \"bomba\" e assista aos grandiosos fogos de artifício</span>",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4033306,
+        "name": "Diga-me, Ó Musa",
+        "desc": "Decida sobre a próxima parada em Penacony\\n<span style=\"color: #8790abff;\">※ Para Amphoreus, A Terra Eterna!</span>",
+        "rarity": 2,
+        "version": "2.3"
       }
     ]
   },
@@ -566,7 +608,7 @@
       {
         "id": 4042507,
         "name": "A Estrela da Fortuna Brilha Sobre Você",
-        "desc": "Abra 170 Tesouros no Luofu do Xianzhou",
+        "desc": "Abra 170 Tesouro(s) no Luofu do Xianzhou",
         "rarity": 2,
         "version": "1.2"
       },
@@ -944,28 +986,28 @@
       {
         "id": 4043017,
         "name": "Lobos em Pele de Cordeiro",
-        "desc": "Colete e complete a coleção \"Aventuras de Hanu (Parte 1)\"",
+        "desc": "Colete e complete a coleção \"Aventuras de Hanu (I)\"",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043018,
         "name": "À Espreita",
-        "desc": "Empurre objetos para baixo sem acertar nenhum inimigo nas Aventuras de Hanu",
+        "desc": "Empurre objetos para baixo sem acertar nenhum inimigo nas \"Aventuras de Hanu\"",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043019,
         "name": "Velocidade de Escape Atingida",
-        "desc": "O teletransporte de foguete nas Aventuras de Hanu durou mais que #1 segundos",
+        "desc": "O teletransporte de foguete nas \"Aventuras de Hanu\" durou mais que #1 segundos",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4043020,
         "name": "100% Alerta",
-        "desc": "Sobreviva nas Aventuras de Hanu",
+        "desc": "Passe de raspão pela morte nas \"Aventuras de Hanu\"",
         "rarity": 1,
         "version": "2.0"
       },
@@ -979,7 +1021,7 @@
       {
         "id": 4043022,
         "name": "Esqueceram de Mim",
-        "desc": "Derrote 3 capangas do Chefe Pedreira de uma vez no estágio das Aventuras de Hanu",
+        "desc": "Derrote 3 capangas do Chefe Pedreira de uma vez no estágio das \"Aventuras de Hanu\"",
         "rarity": 1,
         "version": "2.1"
       },
@@ -1056,14 +1098,14 @@
       {
         "id": 4043033,
         "name": "Vivendo com um Lobo",
-        "desc": "Colete e complete a coleção \"Aventuras de Hanu (Parte 2)\"",
+        "desc": "Colete e complete a coleção \"Aventuras de Hanu (II)\"",
         "rarity": 1,
         "version": "2.1"
       },
       {
         "id": 4043034,
         "name": "Poder de Fogo Máximo",
-        "desc": "Obtenha o limite máximo de munição do Foguete Hanu nas Aventuras de Hanu",
+        "desc": "Obtenha o limite máximo de munição do Foguete Hanu nas \"Aventuras de Hanu\"",
         "rarity": 1,
         "version": "2.1"
       },
@@ -1241,6 +1283,20 @@
         "desc": "Ajude os membros da Família a recuperar todos os bens roubados",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4043301,
+        "name": "Balões, em Direção ao Amanhã!",
+        "desc": "Estoure o balão especial do Chefe Pedreira na {Feldspato Radiante}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4043302,
+        "name": "Infelizmente, Não é Uma Banda de Concerto",
+        "desc": "Resgate o Relógio Onírico Chefe na {Feldspato Radiante}",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -1313,7 +1369,7 @@
       {
         "id": 4052403,
         "name": "Dançando no Caixão",
-        "desc": "Presencie o lado oculto do Luocha.\\n<color=#8790abff>※ Confira a gravação recuperada e ouça o monólogo do Luocha.</color>",
+        "desc": "Presencie o lado oculto do Luocha.\\n<span style=\"color: #8790abff;\">※ Confira a gravação recuperada e ouça o monólogo do Luocha.</span>",
         "rarity": 1,
         "version": "1.1"
       },
@@ -1327,14 +1383,14 @@
       {
         "id": 4052507,
         "name": "Livre Arbítrio",
-        "desc": "Conclua a Missão de Companheiro \"Carta de uma Mulher Estranha\"\\n<color=#8790abff>※ Você escolheu ajudar Kafka</color>",
+        "desc": "Conclua a Missão de Companheiro \"Carta de uma Mulher Estranha\"\\n<span style=\"color: #8790abff;\">※ Você escolheu ajudar Kafka</span>",
         "rarity": 1,
         "version": "1.2"
       },
       {
         "id": 4052511,
         "name": "Livre Arbítrio Verdadeiro",
-        "desc": "Conclua a Missão de Companheiro \"Carta de uma Mulher Estranha\"\\n<color=#8790abff>※ Você escolheu deixar Kafka. Não seriam muitas pessoas que fariam essa escolha, mas foi assim que você provou seu livre arbítrio</color>",
+        "desc": "Conclua a Missão de Companheiro \"Carta de uma Mulher Estranha\"\\n<span style=\"color: #8790abff;\">※ Você escolheu deixar Kafka. Não seriam muitas pessoas que fariam essa escolha, mas foi assim que você provou seu livre arbítrio</span>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -1390,14 +1446,14 @@
       {
         "id": 4051110,
         "name": "O Ciclo da Vida Dos Objetos Eletrônicos",
-        "desc": "Escolha não formatar o Robozinho na missão \"Pouca Afeição (Parte 2)\"",
+        "desc": "Escolha não formatar o Robozinho na missão \"Pouca Afeição (II)\"",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4051111,
         "name": "Por Um Suspiro a Mais",
-        "desc": "Escolha formatar o Robozinho na missão \"Pouca Afeição (Parte 2)\"",
+        "desc": "Escolha formatar o Robozinho na missão \"Pouca Afeição (II)\"",
         "rarity": 1,
         "version": "1.0"
       },
@@ -1649,7 +1705,7 @@
       {
         "id": 4052720,
         "name": "O Primeiro Passo para o Futuro",
-        "desc": "Se mantenha atualizado sobre o progresso do desenvolvimento de Belobog.\\n<color=#8790abff>※ Compre a Edição 226 do \"Minerador Semanal\"</color>",
+        "desc": "Se mantenha atualizado sobre o progresso do desenvolvimento de Belobog.\\n<span style=\"color: #8790abff;\">※ Compre a Edição 226 do \"Minerador Semanal\"</span>",
         "rarity": 1,
         "version": "1.4"
       },
@@ -1817,14 +1873,14 @@
       {
         "id": 4052718,
         "name": "Vitória, e Então Vem o Adeus",
-        "desc": "Devolva \"{TEXTJOIN#54}\" quando a poeira baixar",
+        "desc": "Devolva \"{Cofrinho Dimensional}\" quando a poeira baixar",
         "rarity": 1,
         "version": "1.4"
       },
       {
         "id": 4052719,
         "name": "O Fim, e Então Vem o Início",
-        "desc": "Mantenha {TEXTJOIN#54} quando a poeira baixar",
+        "desc": "Mantenha {Cofrinho Dimensional} quando a poeira baixar",
         "rarity": 1,
         "version": "1.4"
       },
@@ -2209,7 +2265,7 @@
       {
         "id": 4052605,
         "name": "Superado por Ninguém",
-        "desc": "{LAYOUT_MOBILE#Toque}{LAYOUT_CONTROLLER#Pressione}{LAYOUT_KEYBOARD#Clique} em 24 esquife(s) estelar(es) de carga em \"Agitação do Beco Aurum\"",
+        "desc": "Toque em 24 esquife(s) estelar(es) de carga em \"Agitação do Beco Aurum\"",
         "rarity": 2,
         "version": "1.3"
       },
@@ -2559,28 +2615,28 @@
       {
         "id": 4053012,
         "name": "Saboreie as Emoções",
-        "desc": "O que o Truquelógio faz?\\n<color=#8790abff>※ Guie as emoções de #1 pessoa(s) no Mundonírico</color>",
+        "desc": "O que o Truquelógio faz?\\n<span style=\"color: #8790abff;\">※ Guie as emoções de #1 pessoa(s) no Mundonírico</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053014,
         "name": "Onda de Calor",
-        "desc": "O Truquelógio ajuda as pessoas a descobrirem seu verdadeiro eu\\n<color=#8790abff>※ Resolva #1 emergência(s) com o Truquelógio</color>",
+        "desc": "O Truquelógio ajuda as pessoas a descobrirem seu verdadeiro eu\\n<span style=\"color: #8790abff;\">※ Resolva #1 emergência(s) com o Truquelógio</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053015,
         "name": "Coração Batendo",
-        "desc": "Em sonhos, até mesmo as emoções são tangíveis\\n<color=#8790abff>※ Colete #1 Engrenagen(s) Emo</color>",
+        "desc": "Em sonhos, até mesmo as emoções são tangíveis\\n<span style=\"color: #8790abff;\">※ Colete #1 Engrenagen(s) Emo</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053016,
         "name": "Eu Conheço Seus Pensamentos",
-        "desc": "Você consegue resistir a tentação do aconselhamento?\\n<color=#8790abff>※ Guie as emoções de pelo menos #1 pessoa(s) no Mundonírico</color>",
+        "desc": "Você consegue resistir a tentação do aconselhamento?\\n<span style=\"color: #8790abff;\">※ Guie as emoções de pelo menos #1 pessoa(s) no Mundonírico</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2601,7 +2657,7 @@
       {
         "id": 4053019,
         "name": "O Número Chamado Não Está Disponível No Momento",
-        "desc": "Sempre existirão lugares proibidos\\n<color=#8790abff>※ Ligue para um número inacessível</color>",
+        "desc": "Sempre existirão lugares proibidos\\n<span style=\"color: #8790abff;\">※ Ligue para um número inacessível</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2629,7 +2685,7 @@
       {
         "id": 4053023,
         "name": "Não Pegue Nada Sinistro",
-        "desc": "Nem todas as lendas urbanas são apenas lendas.\\n<color=#8790abff>※ Pegue uma fita assustadora</color>",
+        "desc": "Nem todas as lendas urbanas são apenas lendas.\\n<span style=\"color: #8790abff;\">※ Pegue uma fita assustadora</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2657,28 +2713,28 @@
       {
         "id": 4053027,
         "name": "Rashomon",
-        "desc": "Então... quem bateu em quem?\\n<color=#8790abff>※ Testemunhe todo o processo do acidente de carro na Avenida Glaux</color>",
+        "desc": "Então... quem bateu em quem?\\n<span style=\"color: #8790abff;\">※ Testemunhe todo o processo do acidente de carro na Avenida Glaux</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053028,
         "name": "Pepeshiano Mágico",
-        "desc": "Pepeshiano? Ou mímico?\\n<color=#8790abff>※ Descubra a verdadeira identidade do \"Pepeshiano\" no saguão do hotel</color>",
+        "desc": "Pepeshiano? Ou mímico?\\n<span style=\"color: #8790abff;\">※ Descubra a verdadeira identidade do \"Pepeshiano\" no saguão do hotel</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053029,
         "name": "O Planeta das Festividades e Seis Créditos de Alfafa",
-        "desc": "O que é mais importante? Amor ou sonhos?\\n<color=#8790abff>※ Descubra a história de uma família despedaçada pelos sonhos de seus membros</color>",
+        "desc": "O que é mais importante? Amor ou sonhos?\\n<span style=\"color: #8790abff;\">※ Descubra a história de uma família despedaçada pelos sonhos de seus membros</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053030,
         "name": "Cuidado com a Saúde Mental",
-        "desc": "O meio-ambiente deve ser protegido\\n<color=#8790abff>※ Ajude Go-Ray a reciclar lixo no Mundonírico</color>",
+        "desc": "O meio-ambiente deve ser protegido\\n<span style=\"color: #8790abff;\">※ Ajude Go-Ray a reciclar lixo no Mundonírico</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2699,7 +2755,7 @@
       {
         "id": 4053033,
         "name": "Sinfonia de Ninguém",
-        "desc": "O que acontece quando um artista alegre fica ainda mais contente?\\n<color=#8790abff>※ Aprimore a música de Max com ainda mais alegria</color>",
+        "desc": "O que acontece quando um artista alegre fica ainda mais contente?\\n<span style=\"color: #8790abff;\">※ Aprimore a música de Max com ainda mais alegria</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2720,14 +2776,14 @@
       {
         "id": 4053036,
         "name": "Entre o Céu e Você",
-        "desc": "Revisite o lugar secreto sozinho\\n<color=#8790abff>※ Retorne à base secreta da Vaga-lume após tudo ter sido concluído</color>",
+        "desc": "Revisite o lugar secreto sozinho\\n<span style=\"color: #8790abff;\">※ Retorne à base secreta da Vaga-lume após tudo ter sido concluído</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053037,
         "name": "Vê Aquela Escada? Você Pode Subir Ela!",
-        "desc": "Tente subir a escada na Margem do Sonho.\\n<color=#8790abff>※ Na verdade, não dá para subir.</color>",
+        "desc": "Tente subir a escada na Margem do Sonho.\\n<span style=\"color: #8790abff;\">※ Na verdade, não dá para subir.</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2762,7 +2818,7 @@
       {
         "id": 4053042,
         "name": "Déjà Vu",
-        "desc": "Encontre \"paisagens\" familiares no Mundonírico\\n<color=#8790abff>※ Sim, são as latas de lixo!</color>",
+        "desc": "Encontre \"paisagens\" familiares no Mundonírico\\n<span style=\"color: #8790abff;\">※ Sim, são as latas de lixo!</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2783,7 +2839,7 @@
       {
         "id": 4053045,
         "name": "Pepeshifóbico",
-        "desc": "Ofenda todo Pepeshiano que encontrar com precisão e rapidez.\\n<color=#8790abff>※ Tente tocar na bola fofa de todos os Pepeshianos na Hora Dourada</color>",
+        "desc": "Ofenda todo Pepeshiano que encontrar com precisão e rapidez.\\n<span style=\"color: #8790abff;\">※ Tente tocar na bola fofa de todos os Pepeshianos na Hora Dourada</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2797,35 +2853,35 @@
       {
         "id": 4053047,
         "name": "Portão para as Estrelas",
-        "desc": "Exploradora ou pirata?\\n<color=#8790abff>※ Ouça a história de Colleen sobre o universo</color>",
+        "desc": "Exploradora ou pirata?\\n<span style=\"color: #8790abff;\">※ Ouça a história de Colleen sobre o universo</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053048,
         "name": "Isso é Simplesmente Incrível",
-        "desc": "Testemunhe uma \"grande visão\"\\n<color=#8790abff>※ Colete os comentários dos membros da Família sobre o projeto da Margem do Sonho</color>",
+        "desc": "Testemunhe uma \"grande visão\"\\n<span style=\"color: #8790abff;\">※ Colete os comentários dos membros da Família sobre o projeto da Margem do Sonho</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053049,
         "name": "Sonho ou Confiança",
-        "desc": "Tudo que você vê é MINHA invenção!\\n<color=#8790abff>※ Ajude Emmrich a concluir o plano dele</color>",
+        "desc": "Tudo que você vê é MINHA invenção!\\n<span style=\"color: #8790abff;\">※ Ajude Emmrich a concluir o plano dele</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053050,
         "name": "Uma Realidade Cansada, Um Sonho Etéreo",
-        "desc": "Humanos não conseguem ter empatia uns com os outros, no fim das contas\\n<color=#8790abff>※ Ouça a conversa entre Larose e Forla</color>",
+        "desc": "Humanos não conseguem ter empatia uns com os outros, no fim das contas\\n<span style=\"color: #8790abff;\">※ Ouça a conversa entre Larose e Forla</span>",
         "rarity": 1,
         "version": "2.0"
       },
       {
         "id": 4053051,
         "name": "A Longa Despedida",
-        "desc": "Que ela dê adeus ao seu passado conturbado\\n<color=#8790abff>※ Testemunhe a história de Lew Archer</color>",
+        "desc": "Que ela dê adeus ao seu passado conturbado\\n<span style=\"color: #8790abff;\">※ Testemunhe a história de Lew Archer</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -2839,7 +2895,7 @@
       {
         "id": 4053053,
         "name": "Economia de Oti",
-        "desc": "Quando todos ganham dinheiro, ninguém ganha dinheiro\\n<color=#8790abff>※ Ative o Caixa Eletrônico nas ruas repetidamente</color>",
+        "desc": "Quando todos ganham dinheiro, ninguém ganha dinheiro\\n<span style=\"color: #8790abff;\">※ Ative o Caixa Eletrônico nas ruas repetidamente</span>",
         "rarity": 1,
         "version": "2.0"
       },
@@ -3147,7 +3203,7 @@
       {
         "id": 4053228,
         "name": "Onde Você Vai, Mikhail?",
-        "desc": "Eu caminhei pelo caminho devido\\n<color=#8790abff>※ Quando a poeira baixar, volte para o Local de Observação da Lua de Uma Criança</color>",
+        "desc": "Eu caminhei pelo caminho devido\\n<span style=\"color: #8790abff;\">※ Quando a poeira baixar, volte para o Local de Observação da Lua de Uma Criança</span>",
         "rarity": 1,
         "version": "2.2"
       },
@@ -3178,6 +3234,202 @@
         "desc": "Ajude o Painel Publicitário VemMozão a passar uma mensagem para sua amada",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4053205,
+        "name": "Figurinhas Para Dar e Vender!",
+        "desc": "Atinja um progresso de 100% das páginas no Passe do Mundonírico",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4053301,
+        "name": "Sem Negócios no Continente",
+        "desc": "Conclua a Missão de Aventura \"Hora de Partir\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053302,
+        "name": "Requiem da Rosa",
+        "desc": "Conclua a Missão de Aventura \"Filme Macabro Derradeiro\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053303,
+        "name": "Meu Capitão, Minha Nave",
+        "desc": "Conclua a Missão de Aventura \"Nostalgia de Vento em Popa\"",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053304,
+        "name": "Foto de Grupo não Planejada",
+        "desc": "Tire uma foto em grupo durante o evento Choque de Pássaro de Origami",
+        "rarity": 2,
+        "version": "2.3"
+      },
+      {
+        "id": 4053305,
+        "name": "Ômega Rubi",
+        "desc": "Durante o evento Choque de Pássaro de Origami, coloque Loba Passarada, Ave-lume, Desbr-ave-ador em máquinas de fliperama do mesmo lado",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053306,
+        "name": "Alfa Safira",
+        "desc": "Durante o evento Choque de Pássaro de Origami, coloque Desbr-ave-ador e 7 de Pássaro em máquinas de fliperama adjacentes um ao outro",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053307,
+        "name": "Mamão com Açúcar",
+        "desc": "Durante o evento Choque de Pássaro de Origami, ative habilidades de Pássaro de Origami #1 vez(es) em uma única partida",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053308,
+        "name": "Canarinhos Pistola de Origami",
+        "desc": "Durante o evento Choque de Pássaro de Origami, ative manualmente combinações de bombas #1 vez(es) em uma única partida",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053309,
+        "name": "Pelos Pássaros!",
+        "desc": "Durante o evento Choque de Pássaro de Origami, alcance um valor de Poder de Combate de #1 em uma única partida",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053310,
+        "name": "Zoológico de Origami",
+        "desc": "Consiga a vitória em todos os Desafios Abertos no evento Choque de Pássaro de Origami",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053311,
+        "name": "Nasce Uma Estrela",
+        "desc": "Nomeie os artistas apropriados no palco da {Feldspato Radiante}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053312,
+        "name": "Hoje não! Hoje não! Hoje sim...",
+        "desc": "Estacione seu carro na vaga de estacionamento exclusiva da {Feldspato Radiante}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053313,
+        "name": "Cinema Familiar",
+        "desc": "Use o projetor na {Feldspato Radiante} e convide a Tripulação do Expresso Astral para dar uma olhada",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053315,
+        "name": "Dezoito Lordes Latas de Lixo",
+        "desc": "Conclua todos os desafios da Lata de Lixo dos Desafios na {Feldspato Radiante}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053316,
+        "name": "Sortex 10",
+        "desc": "Receba o pacote entregue por Aventurine na {Feldspato Radiante}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053317,
+        "name": "A Grande Família do Expresso Astral",
+        "desc": "Compre a TV do Irmãozinho Hanu com moedas da cápsula dourada e instale-a no sofá do Expresso Astral",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053318,
+        "name": "Um Contratempo",
+        "desc": "Se transforme no Irmão Hanu e entre nos quartos dos outros membros da Tripulação",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053319,
+        "name": "Mercadoria Autofinanciada",
+        "desc": "Obtenha a mercadoria do capitão {NICKNAME}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053320,
+        "name": "Capitão das Sombras",
+        "desc": "Fale com o Painel Publicitário Capitão do {NICKNAME}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053322,
+        "name": "Sob o Espelho Negro",
+        "desc": "Ative a vigilância na sala de controle e observe o casco da {Feldspato Radiante}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053323,
+        "name": "Retorno à Glória",
+        "desc": "Renomeie a Feldspato Radiante e troque o padrão de pintura da empenagem",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053324,
+        "name": "Cidades Invisíveis",
+        "desc": "Use o telescópio na {Feldspato Radiante}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053325,
+        "name": "Eu Sou o Rei do Mundo!",
+        "desc": "Observe a distância a partir da proa da {Feldspato Radiante}",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053326,
+        "name": "História de Terror Absoluto",
+        "desc": "Leia todas as emoções de Bella com o Truquelógio",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053327,
+        "name": "O Mal Encarnado",
+        "desc": "Leia todas as emoções Felizes de Stefano com o Truquelógio",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053328,
+        "name": "Moedas de Ouro da Luz Estelar",
+        "desc": "Colete todas as moedas da cápsula dourada em Penacony",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4053329,
+        "name": "Ó, Capitão! Meu Capitão!",
+        "desc": "Entre nas acomodações do Capitão na {Feldspato Radiante} pela primeira vez",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -3724,7 +3976,7 @@
       {
         "id": 4071505,
         "name": "Amante de Café",
-        "desc": "Três cafézinhos por dia, acorda e dá taquicardia\\n<color=#8790abff>※ Use a Perícia Suprema da Himeko 3 vezes em uma única batalha</color>",
+        "desc": "Três cafézinhos por dia, acorda e dá taquicardia\\n<span style=\"color: #8790abff;\">※ Use a Perícia Suprema da Himeko 3 vezes em uma única batalha</span>",
         "rarity": 2,
         "version": "1.0"
       },
@@ -3962,7 +4214,7 @@
       {
         "id": 4072504,
         "name": "Desejo Não Realizado",
-        "desc": "\"Desnecessário\"\\n<color=#8790abff>※ Em uma única batalha, use o personagem Blade para restaurar seus PV de uma quantidade menor ou igual a 0% até uma quantidade maior ou igual a <unbreak>30%</unbreak>, em um único ataque <unbreak>2</unbreak> vez(es)</color>",
+        "desc": "\"Desnecessário\"\\n<span style=\"color: #8790abff;\">※ Em uma única batalha, use o personagem Blade para restaurar seus PV de uma quantidade menor ou igual a 0% até uma quantidade maior ou igual a <unbreak>30%</unbreak>, em um único ataque <unbreak>2</unbreak> vez(es)</span>",
         "rarity": 1,
         "version": "1.2"
       },
@@ -4158,7 +4410,7 @@
       {
         "id": 4072905,
         "name": "Sou Todo Ouvidos",
-        "desc": "Pare e escute a conversa de Hanya\\n<color=#8790abff>※ Escute todas as falas de inatividade de Hanya e suas falas de ação inativas</color>",
+        "desc": "Pare e escute a conversa de Hanya\\n<span style=\"color: #8790abff;\">※ Escute todas as falas de inatividade de Hanya e suas falas de ação inativas</span>",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4172,7 +4424,7 @@
       {
         "id": 4072907,
         "name": "Corrente Quebra-Gente",
-        "desc": "Em uma única batalha, ative o efeito de Ataque Extra do Talento do Dr. Ratio, Cogito Ergo Sum por 4 rodadas consecutivas",
+        "desc": "Em uma única batalha, ative o efeito de Ataque Extra do Talento do Dr. Ratio, Cogito, Ergo Sum por 4 rodadas consecutivas",
         "rarity": 1,
         "version": "1.6"
       },
@@ -4305,7 +4557,7 @@
       {
         "id": 4073201,
         "name": "NA MOSCA!",
-        "desc": "Faça o Vendedor de Sorte da Trupe dos Pesadelos Amargos produzir um \"Grande Fortuna\" uma vez",
+        "desc": "Faça o Vendedor de Sorte da Trupe dos Pesadelos Amargos produzir um \"Ganhou a Mega da Virada!\" uma vez",
         "rarity": 1,
         "version": "2.2"
       },
@@ -4347,7 +4599,7 @@
       {
         "id": 4073207,
         "name": "Duração de uma Canção",
-        "desc": "Ouça o canto de Robin\\n<color=#8790abff>※ Em combate, veja Robin cantando por mais de #1 segundos no Modo de Verificação após usar a Perícia Suprema de Robin \"Vox Harmonique, Opus Cosmique\"</color>",
+        "desc": "Ouça o canto de Robin\\n<span style=\"color: #8790abff;\">※ Em combate, veja Robin cantando por mais de #1 segundos na Visualização de Combate em Tempo Real após usar a Perícia Suprema de Robin \"Vox Harmonique, Opus Cosmique\"</span>",
         "rarity": 1,
         "version": "2.2"
       },
@@ -4385,6 +4637,48 @@
         "desc": "Acumule Escudo suficiente para bloquear totalmente a habilidade de Sunday, \"Embrião da Filosofia\", Im Anfang war die Tat",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4073301,
+        "name": "Equipe Especial do Planeta das Festividades",
+        "desc": "Vença 1 batalha(s) com uma equipe composta por Topaz e Dinheirinho, Dr. Ratio, Aventurine e Jade",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073302,
+        "name": "Salve o Gato!",
+        "desc": "Vença 1 batalha(s) com uma equipe composta por Loba Prateada, Blade, Kafka e Vaga-lume",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073303,
+        "name": "O Empreiteiro",
+        "desc": "Em uma única batalha, reduza os PV de um aliado para #1 quando ele estiver sob o efeito de Coletor de Dívidas da Perícia de Jade.",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073304,
+        "name": "Avante, SAM",
+        "desc": "Tenha uma Vaga-lume aliada afetada por Dominação em combate contra a chefe Kafka",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073305,
+        "name": "Eu Vou... Incendiar os Mares!",
+        "desc": "Em uma única batalha, use Vaga-lume Tipo-IV: Sobrecarga da Estrela da Morte #1 vez(es) antes do estado de Combustão Completa se encerrar enquanto usa SAM",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4073306,
+        "name": "Eu Já Vi o Verão",
+        "desc": "Vença 1 batalha(s) com uma equipe composta por Vaga-lume e {NICKNAME}",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -4415,35 +4709,35 @@
       {
         "id": 4080301,
         "name": "Utopia de Diógenes",
-        "desc": "Veja de onde vem a fama de Belobog!\\n<color=#8790abff>※ Você obteve todos os objetos cenográficos úteis nas latas de lixo!</color>",
+        "desc": "Veja de onde vem a fama de Belobog!\\n<span style=\"color: #8790abff;\">※ Você obteve todos os objetos cenográficos úteis nas latas de lixo!</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080302,
         "name": "Insaciável",
-        "desc": "Às vezes, uma coisa boa pode ser demais...\\n<color=#8790abff>※ Use o Agente Indutor de Vômito 1 vez(es)</color>",
+        "desc": "Às vezes, uma coisa boa pode ser demais...\\n<span style=\"color: #8790abff;\">※ Use o Agente Indutor de Vômito 1 vez(es)</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080303,
         "name": "Humor Sem Graça",
-        "desc": "O lixo de alguém pode ser o tesouro de outra pessoa\\n<color=#8790abff>※ Utilize Lixo para sintetizar Consumíveis 10 vezes</color>",
+        "desc": "O lixo de alguém pode ser o tesouro de outra pessoa\\n<span style=\"color: #8790abff;\">※ Utilize Lixo para sintetizar Consumíveis 10 vezes</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080304,
         "name": "Roda Cármica",
-        "desc": "Permita que a Alta Moral que vive dentro de nossos corações suspire de dentro de você\\n<color=#8790abff>※ Encontre uma maneira de usar a sua Prece de Alta Moral</color>",
+        "desc": "Permita que a Alta Moral que vive dentro de nossos corações suspire de dentro de você\\n<span style=\"color: #8790abff;\">※ Encontre uma maneira de usar a sua Prece de Alta Moral</span>",
         "rarity": 1,
         "version": "1.0"
       },
       {
         "id": 4080305,
         "name": "Santo",
-        "desc": "Permita que a Alta Moral que vive dentro de nossos corações seja totalmente afirmativa\\n<color=#8790abff>※ Obtenha a Prece de Alta Moral 20 vez(es)</color>",
+        "desc": "Permita que a Alta Moral que vive dentro de nossos corações seja totalmente afirmativa\\n<span style=\"color: #8790abff;\">※ Obtenha a Prece de Alta Moral 20 vez(es)</span>",
         "rarity": 1,
         "version": "1.0"
       },
@@ -4723,7 +5017,7 @@
       {
         "id": 4082701,
         "name": "Spam de SPAM",
-        "desc": "Alimente bastante um Cofrinho\\n<color=#8790abff>※ Use a Caixa de Bate-Papo \"{TEXTJOIN#54}\" para enviar um grande volume de texto</color>",
+        "desc": "Alimente bastante um Cofrinho\\n<span style=\"color: #8790abff;\">※ Use a Caixa de Bate-Papo \"{Cofrinho Dimensional}\" para enviar um grande volume de texto</span>",
         "rarity": 1,
         "version": "1.4"
       },
@@ -4912,9 +5206,23 @@
       {
         "id": 4083203,
         "name": "Rachar a Conta",
-        "desc": "Deixe Boothill e Aventurine brigarem para pagar a conta\\n<color=#8790abff>※ Na mesma batalha, acione a fala da \"Perícia - 1\"de Aventurine e a fala de \"Início da Batalha: Quebra de Fraqueza\" de Boothill</color>",
+        "desc": "Deixe Boothill e Aventurine brigarem para pagar a conta\\n<span style=\"color: #8790abff;\">※ Na mesma batalha, acione a fala da \"Perícia - 1\"de Aventurine e a fala de \"Início da Batalha: Quebra de Fraqueza\" de Boothill</span>",
         "rarity": 1,
         "version": "2.2"
+      },
+      {
+        "id": 4053321,
+        "name": "O Anfitrião Sempre Tem Razão",
+        "desc": "Antes de ganhar posse da {Feldspato Radiante}, corra e brinque na piscina e seja repreendido",
+        "rarity": 1,
+        "version": "2.3"
+      },
+      {
+        "id": 4083301,
+        "name": "O Cliente Sempre Tem Razão",
+        "desc": "Depois de adquirir a posse da {Feldspato Radiante}, corra e vá brincar na piscina",
+        "rarity": 1,
+        "version": "2.3"
       }
     ]
   },
@@ -5596,7 +5904,7 @@
       {
         "id": 4092638,
         "name": "Exploda-os Para Fora da Órbita",
-        "desc": "Conclua a Dificuldade V do Universo Simulado: O Desastre do Enxame",
+        "desc": "Conclua a Dificuldade 5 do Universo Simulado: O Desastre do Enxame",
         "rarity": 1,
         "version": "1.3"
       },
@@ -5806,7 +6114,7 @@
       {
         "id": 4092929,
         "name": "Fim do Mundo: Classe XK",
-        "desc": "Conclua o Universo Simulado: Ouro e Engrenagens na Dificuldade V",
+        "desc": "Conclua o Universo Simulado: Ouro e Engrenagens na Dificuldade 5",
         "rarity": 1,
         "version": "1.6"
       },
@@ -5862,7 +6170,7 @@
       {
         "id": 4092937,
         "name": "Blues Melancólico",
-        "desc": "Tenha 6 Face(s) de Dado(s) azul(is) equipadas ao concluir O Universo Simulado: Ouro e Engrenagens",
+        "desc": "Tenha 6 Face(s) de Dado(s) azul(is) equipadas ao concluir O Universo Simulado: Ouro e Engrenagens (Dificuldade 3 ou maior)",
         "rarity": 1,
         "version": "1.6"
       },
