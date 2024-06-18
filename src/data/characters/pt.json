@@ -309,7 +309,7 @@
     "path": "erudition",
     "element": "physical",
     "rarity": 5,
-    "background": "Um cavaleiro clássico dos \"Cavaleiros da Beleza\" que busca piamente por seu Aeon perdido, Idrila, \"a Beleza\".\\nDireto e franco, ele vaga pelo cosmos defendendo as virtudes do bom nome de Idrila."
+    "background": "Um protótipo de cavaleiro dos Cavaleiros da Beleza que busca piamente por seu Aeon perdido, Idrila, a Beleza.\\nDireto e franco, ele vaga pelo cosmos defendendo as virtudes do bom nome de Idrila."
   },
   "ruan-mei": {
     "id": "ruan-mei",
@@ -366,6 +366,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "Uma cantora Haloviana, nascida em Penacony, que alcançou fama cósmica. Uma moça elegante e recatada.\\nDesta vez, ela foi convidada pela Família para encantar a todos com sua música durante o Festival Carismonia.\\nEla pode usar o poder da \"Harmonia\" para transmitir sua música, manifestando \"ressonância\" entre todas as formas de vida, não apenas seus fãs."
+  },
+  "firefly": {
+    "id": "firefly",
+    "name": "Vaga-lume",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Membro dos Caçadores de Stellaron, que utiliza uma armadura mecanizada conhecida como \"SAM\". A personalidade dela é marcada por uma lealdade e determinação inabaláveis.\\nProjetada como uma arma contra o Enxame, seu crescimento é acelerado, mas tem uma expectativa de vida tragicamente encurtada.\\nEla se juntou aos Caçadores de Stellaron em busca de um caminho para desafiar seu destino final."
   },
   "misha": {
     "id": "misha",

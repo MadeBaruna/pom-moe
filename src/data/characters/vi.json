@@ -367,6 +367,14 @@
     "rarity": 5,
     "background": "Sinh ra ở Penacony, ca sĩ Tộc Halovian nổi tiếng vũ trụ, cô gái có phong thái trầm tĩnh và thanh lịch.\\nLần này được Gia Tộc mời về cố hương, để hát tặng cho mọi người trong \"Đại Nhạc Hội Hòa Hợp\".\\nCó thể dựa vào sức mạnh của \"Hòa Hợp\" để truyền tải giọng hát, thể hiện \"cộng hưởng\" giữa người hâm mộ và cả sinh linh vạn giới."
   },
+  "firefly": {
+    "id": "firefly",
+    "name": "Firefly",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Thành viên Thợ Săn Stellaron, mặc Chiến Giáp SAM khi chiến đấu. Trung thành với nhiệm vụ, kiên cường khó lay chuyển.\\nSinh ra làm vũ khí để đánh bại Đàn Côn Trùng, tốc độ trưởng thành khác người, nhưng tuổi thọ rất ngắn.\\nĐể tìm cơ hội \"sống\", đã gia nhập Thợ Săn Stellaron, tìm cách chống lại vận mệnh."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",

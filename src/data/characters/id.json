@@ -367,6 +367,14 @@
     "rarity": 5,
     "background": "Gadis yang anggun ini adalah penyanyi Halovian yang lahir di Penacony dan terkenal di seluruh penjuru alam semesta.\\nKali ini dia diundang oleh Family untuk kembali ke kampung halamannya dan mempersembahkan sebuah lagu di \"Festival Charmony\".\\nDia bisa menggunakan kekuatan \"Harmony\" untuk menyebarkan nyanyiannya, dan mewujudkan \"resonansi\" bukan hanya di antara para penggemarnya, tapi bahkan di antara segala makhluk hidup."
   },
+  "firefly": {
+    "id": "firefly",
+    "name": "Firefly",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Anggota Stellaron Hunter yang bertempur mengenakan zirah mekanis \"SAM\". Dia setia pada misinya dan pantang menyerah.\\nTerlahir sebagai senjata untuk mengalahkan Swarm, kecepatan pertumbuhannya jauh di atas rata-rata, tetapi umur hidupnya sangat singkat.\\nDia bergabung dengan Stellaron Hunter demi menemukan peluang untuk \"hidup\" dan menemukan cara untuk melawan takdir."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",

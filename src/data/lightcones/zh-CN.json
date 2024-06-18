@@ -395,6 +395,12 @@
     "path": "nihility",
     "rarity": 4
   },
+  "after-the-charmony-fall": {
+    "id": "after-the-charmony-fall",
+    "name": "谐乐静默之后",
+    "path": "erudition",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "新手任务开始前",
@@ -563,6 +569,12 @@
     "path": "nihility",
     "rarity": 5
   },
+  "whereabouts-should-dreams-rest": {
+    "id": "whereabouts-should-dreams-rest",
+    "name": "梦应归于何处",
+    "path": "destruction",
+    "rarity": 5
+  },
   "flowing-nightglow": {
     "id": "flowing-nightglow",
     "name": "夜色流光溢彩",
@@ -573,6 +585,12 @@
     "id": "sailing-towards-a-second-life",
     "name": "驶向第二次生命",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "yet-hope-is-priceless": {
+    "id": "yet-hope-is-priceless",
+    "name": "偏偏希望无价",
+    "path": "erudition",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
@@ -597,6 +615,12 @@
     "id": "solitary-healing",
     "name": "孤独的疗愈",
     "path": "nihility",
+    "rarity": 5
+  },
+  "eternal-calculus": {
+    "id": "eternal-calculus",
+    "name": "不息的演算",
+    "path": "erudition",
     "rarity": 5
   }
 }

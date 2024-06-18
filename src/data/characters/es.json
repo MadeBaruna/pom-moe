@@ -367,6 +367,14 @@
     "rarity": 5,
     "background": "Una cantante aureoliana originaria de Colonipenal que saltó a la fama cósmica. Una joven elegante y modesta.\\nEsta vez, La Familia la invitó para agasajar a todos con sus canciones durante el Festival Carismonía.\\nPuede usar el poder de la Armonía para transmitir su música, manifestando \"resonancia\" entre sus fans y todo tipo de formas de vida."
   },
+  "firefly": {
+    "id": "firefly",
+    "name": "Luciérnaga",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Un miembro de los Cazadores de Estelaron que usa un equipo de armadura mecanizada conocido como \"SAM\". Su personalidad se caracteriza por su determinación y lealtad inquebrantable.\\nDiseñada y nacida como un arma contra El Enjambre, crece a una velocidad extremadamente rápida, pero su esperanza de vida es muy corta.\\nSe unió a los Cazadores de Estelaron en búsqueda de una oportunidad de \"sobrevivir\" y encontrar la forma de desafiar su destino."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",

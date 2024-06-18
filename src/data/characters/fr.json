@@ -69,7 +69,7 @@
     "path": "erudition",
     "element": "ice",
     "rarity": 4,
-    "background": "Membre n°<unbreak>83</unbreak> de la Société des génies. Véritable capitaine de la station spatiale.\\nUne scientifique antipathique, mais prodigieusement intelligente."
+    "background": "Membre n° <unbreak>83</unbreak> de la Société des génies. Véritable capitaine de la station spatiale.\\nUne scientifique antipathique, mais prodigieusement intelligente."
   },
   "bronya": {
     "id": "bronya",
@@ -165,7 +165,7 @@
     "path": "the-hunt",
     "element": "fire",
     "rarity": 5,
-    "background": "Topaz est à la tête de l'équipe de surveillance des dettes spéciales et a un poste haut placé au sein du Département des investissements stratégiques de la Corporation pour la Paix Interastrale.\\nElle a rejoint très jeune les « Dix cœurs de pierre » et se spécialise dans le « recouvrement de dettes ».\\nSon acolyte, le Magoret « Compti », est capable de détecter avec précision où se trouvent les « richesses », ce qui en fait un cador dans les domaines de la sécurité, la récupération de dettes et toutes les activités en rapport avec les finances.\\nIls parcourent ensemble le cosmos à la recherche de tout ce qui pourrait nuire aux affaires de la CPI."
+    "background": "Cadre du Département des investissements stratégiques de la Corporation pour la Paix Interastrale à la tête de l'Équipe spéciale de surveillance des dettes.\\nMalgré son jeune âge, elle fait déjà partie des Dix cœurs de pierre, sa pierre angulaire est la « Topaze du Recouvrement ».\\nSon partenaire, Compti, a la faculté de pouvoir détecter avec précision où se trouvent les richesses. Il peut même effectuer des tâches en rapport avec la sécurité, le recouvrement de dettes ou l'analyse financière.\\nIls parcourent actuellement la galaxie ensemble à la recherche de tout litige de dette qui pourrait nuire aux affaires de la CPI."
   },
   "qingque": {
     "id": "qingque",
@@ -309,7 +309,7 @@
     "path": "erudition",
     "element": "physical",
     "rarity": 5,
-    "background": "Un chevalier des Chevaliers de la Beauté, dont la quête pieuse est de retrouver l'Aiôn disparu, Idrila la Beauté.\\nFranc et candide, il erre à travers l'espace, défendant les vertus prônées par Idrila."
+    "background": "Chevalier de la Beauté et fervent admirateur de l'Aiôn disparu, Idrila la Beauté.\\nIntègre et droit, il erre à travers l'univers, défendant la vertu d'Idrila."
   },
   "ruan-mei": {
     "id": "ruan-mei",
@@ -366,6 +366,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "Chanteuse halovienne née à Penacony et connue dans toute la galaxie. C'est une jeune femme élégante et discrète.\\nCette fois-ci, la Famille l'a invitée à jouer dans sa terre natale lors du Festival Ôdiapason.\\nElle peut utiliser le pouvoir de l'Harmonie pour diffuser sa musique qui « résonne » non seulement parmi ses fans mais également chez n'importe quelle forme de vie."
+  },
+  "firefly": {
+    "id": "firefly",
+    "name": "Luciole",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Membre des Chasseurs de Stellaron protégée par une armure mécanique appelée « SAM ». Son caractère est marqué par une loyauté et une détermination sans faille.\\nConçue comme arme pour lutter contre l'Essaim, elle subit une croissance accélérée, ce qui lui vaut une vie éphémère.\\nElle a rejoint les Chasseurs de Stellaron dans l'espoir de survivre en changeant le cours de son destin."
   },
   "misha": {
     "id": "misha",

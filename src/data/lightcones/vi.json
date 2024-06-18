@@ -395,6 +395,12 @@
     "path": "nihility",
     "rarity": 4
   },
+  "after-the-charmony-fall": {
+    "id": "after-the-charmony-fall",
+    "name": "Sau Sự Im Lặng Hài Hòa",
+    "path": "erudition",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ",
@@ -563,6 +569,12 @@
     "path": "nihility",
     "rarity": 5
   },
+  "whereabouts-should-dreams-rest": {
+    "id": "whereabouts-should-dreams-rest",
+    "name": "Giấc Mộng Sẽ Đi Về Đâu",
+    "path": "destruction",
+    "rarity": 5
+  },
   "flowing-nightglow": {
     "id": "flowing-nightglow",
     "name": "Sắc Đêm Rực Sáng",
@@ -573,6 +585,12 @@
     "id": "sailing-towards-a-second-life",
     "name": "Hướng Đến Sinh Mệnh Thứ Hai",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "yet-hope-is-priceless": {
+    "id": "yet-hope-is-priceless",
+    "name": "Hi Vọng Là Vô Giá",
+    "path": "erudition",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
@@ -597,6 +615,12 @@
     "id": "solitary-healing",
     "name": "Một Mình Chữa Trị",
     "path": "nihility",
+    "rarity": 5
+  },
+  "eternal-calculus": {
+    "id": "eternal-calculus",
+    "name": "Ngoại Suy Vô Tận",
+    "path": "erudition",
     "rarity": 5
   }
 }

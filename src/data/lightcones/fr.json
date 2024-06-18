@@ -395,6 +395,12 @@
     "path": "nihility",
     "rarity": 4
   },
+  "after-the-charmony-fall": {
+    "id": "after-the-charmony-fall",
+    "name": "Après la chute",
+    "path": "erudition",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Avant que le tutoriel ne commence",
@@ -563,6 +569,12 @@
     "path": "nihility",
     "rarity": 5
   },
+  "whereabouts-should-dreams-rest": {
+    "id": "whereabouts-should-dreams-rest",
+    "name": "Là où les rêves se reposent",
+    "path": "destruction",
+    "rarity": 5
+  },
   "flowing-nightglow": {
     "id": "flowing-nightglow",
     "name": "Lumières nocturnes",
@@ -573,6 +585,12 @@
     "id": "sailing-towards-a-second-life",
     "name": "Le début d'une seconde vie",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "yet-hope-is-priceless": {
+    "id": "yet-hope-is-priceless",
+    "name": "L'espoir n'a pas de prix",
+    "path": "erudition",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
@@ -597,6 +615,12 @@
     "id": "solitary-healing",
     "name": "Remède à la solitude",
     "path": "nihility",
+    "rarity": 5
+  },
+  "eternal-calculus": {
+    "id": "eternal-calculus",
+    "name": "Calcul éternel",
+    "path": "erudition",
     "rarity": 5
   }
 }

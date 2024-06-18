@@ -309,7 +309,7 @@
     "path": "erudition",
     "element": "physical",
     "rarity": 5,
-    "background": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"\\nForthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
+    "background": "A paragon knight of the Knights of Beauty who is piously seeking his missing Aeon, Idrila the Beauty.\\nForthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
   },
   "ruan-mei": {
     "id": "ruan-mei",
@@ -366,6 +366,14 @@
     "element": "physical",
     "rarity": 5,
     "background": "A Halovian singer who was born in Penacony and has risen to cosmic fame. An elegant and demure young lady.\\nThis time, she has been invited home by The Family to grace everyone with song during the Charmony Festival.\\nShe can use the power of \"Harmony\" to broadcast her music, manifesting \"resonance\" among not only her fans but all manner of lifeforms."
+  },
+  "firefly": {
+    "id": "firefly",
+    "name": "Firefly",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 5,
+    "background": "A member of the Stellaron Hunters, clad in a set of mechanized armor known as \"SAM.\" Her character is marked by unwavering loyalty and steely resolve.\\nEngineered as a weapon against the Swarm, she experiences accelerated growth, but a tragically shortened lifespan.\\nShe joined the Stellaron Hunters in a quest for a chance at \"life,\" seeking to defy her fated demise."
   },
   "misha": {
     "id": "misha",

@@ -395,6 +395,12 @@
     "path": "nihility",
     "rarity": 4
   },
+  "after-the-charmony-fall": {
+    "id": "after-the-charmony-fall",
+    "name": "{RUBY_B#ちょうわ}調和{RUBY_E#}が{RUBY_B#ちんもく}沈黙{RUBY_E#}した{RUBY_B#あと}後{RUBY_E#}",
+    "path": "erudition",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "{RUBY_B#はじ}初{RUBY_E#}めてのクエストの{RUBY_B#まえ}前{RUBY_E#}に",
@@ -563,6 +569,12 @@
     "path": "nihility",
     "rarity": 5
   },
+  "whereabouts-should-dreams-rest": {
+    "id": "whereabouts-should-dreams-rest",
+    "name": "{RUBY_B#ゆめ}夢{RUBY_E#}が{RUBY_B#かえ}帰{RUBY_E#}り{RUBY_B#つ}着{RUBY_E#}く{RUBY_B#ばしょ}場所{RUBY_E#}",
+    "path": "destruction",
+    "rarity": 5
+  },
   "flowing-nightglow": {
     "id": "flowing-nightglow",
     "name": "{RUBY_B#ひかり}光{RUBY_E#}あふれる{RUBY_B#よる}夜{RUBY_E#}",
@@ -573,6 +585,12 @@
     "id": "sailing-towards-a-second-life",
     "name": "{RUBY_B#にどめ}二度目{RUBY_E#}の{RUBY_B#せい}生{RUBY_E#}に{RUBY_B#む}向{RUBY_E#}かって",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "yet-hope-is-priceless": {
+    "id": "yet-hope-is-priceless",
+    "name": "されど{RUBY_B#きぼう}希望{RUBY_E#}の{RUBY_B#めい}銘{RUBY_E#}は{RUBY_B#むか}無価{RUBY_E#}",
+    "path": "erudition",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
@@ -595,8 +613,14 @@
   },
   "solitary-healing": {
     "id": "solitary-healing",
-    "name": "{RUBY_B#こどく}孤独{RUBY_E#}の{RUBY_B#いや}癒{RUBY_E#}やし",
+    "name": "{RUBY_B#こどく}孤独{RUBY_E#}の{RUBY_B#いや}癒{RUBY_E#}し",
     "path": "nihility",
+    "rarity": 5
+  },
+  "eternal-calculus": {
+    "id": "eternal-calculus",
+    "name": "{RUBY_B#た}絶{RUBY_E#}え{RUBY_B#ま}間{RUBY_E#}ない{RUBY_B#えんざん}演算{RUBY_E#}",
+    "path": "erudition",
     "rarity": 5
   }
 }

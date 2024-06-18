@@ -367,6 +367,14 @@
     "rarity": 5,
     "background": "Eine in Penacony geborene halovianische Sängerin, die zu kosmischem Ruhm gelangt ist. Eine elegante, zurückhaltende junge Dame.\\nDiesmal wurde sie von der Familie nach Hause eingeladen, um während des Harmoniefests alle mit ihrem Gesang zu beehren.\\nSie kann die Kraft der „Harmonie“ einsetzen, um ihre Musik auszusenden, wobei sie nicht nur bei ihren Fans, sondern bei allen möglichen Lebensformen „Resonanz“ erzeugt."
   },
+  "firefly": {
+    "id": "firefly",
+    "name": "Glühwürmchen",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 5,
+    "background": "Ein Mitglied der Stellaron-Jäger. Sie kämpft in ihrer mechanischen Rüstung namens „SAM“ und ihr Charakter ist von Loyalität und Entschlossenheit gekennzeichnet.\\nSie wurde als Waffe gegen den Schwarm entwickelt und erfährt ein beschleunigtes Wachstum, hat aber eine tragisch verkürzte Lebenserwartung.\\nSie schloss sich den Stellaron-Jägern an, um einen Weg zu finden, dem Schicksal zu trotzen."
+  },
   "misha": {
     "id": "misha",
     "name": "Misha",

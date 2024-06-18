@@ -395,6 +395,12 @@
     "path": "nihility",
     "rarity": 4
   },
+  "after-the-charmony-fall": {
+    "id": "after-the-charmony-fall",
+    "name": "After the Charmony Fall",
+    "path": "erudition",
+    "rarity": 4
+  },
   "before-the-tutorial-mission-starts": {
     "id": "before-the-tutorial-mission-starts",
     "name": "Before the Tutorial Mission Starts",
@@ -563,6 +569,12 @@
     "path": "nihility",
     "rarity": 5
   },
+  "whereabouts-should-dreams-rest": {
+    "id": "whereabouts-should-dreams-rest",
+    "name": "Whereabouts Should Dreams Rest",
+    "path": "destruction",
+    "rarity": 5
+  },
   "flowing-nightglow": {
     "id": "flowing-nightglow",
     "name": "Flowing Nightglow",
@@ -573,6 +585,12 @@
     "id": "sailing-towards-a-second-life",
     "name": "Sailing Towards a Second Life",
     "path": "the-hunt",
+    "rarity": 5
+  },
+  "yet-hope-is-priceless": {
+    "id": "yet-hope-is-priceless",
+    "name": "Yet Hope Is Priceless",
+    "path": "erudition",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
@@ -597,6 +615,12 @@
     "id": "solitary-healing",
     "name": "Solitary Healing",
     "path": "nihility",
+    "rarity": 5
+  },
+  "eternal-calculus": {
+    "id": "eternal-calculus",
+    "name": "Eternal Calculus",
+    "path": "erudition",
     "rarity": 5
   }
 }
