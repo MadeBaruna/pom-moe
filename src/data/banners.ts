@@ -475,6 +475,36 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['fu-xuan'],
 			featured4: ['pela', 'luka', 'hook']
+		},
+		{
+			code: 2033,
+			type: 'character',
+			name: 'Firefull Flyshine',
+			start: '2024-06-19 06:00:00',
+			end: '2024-07-10 11:59:00',
+			color: '#dcffe5',
+			version: '2.3',
+			image: 'Firefull Flyshine 2033.jpg',
+			pos: '75% 20%',
+			zoom: 1.2,
+			featured5: ['firefly'],
+			featured4: ['gallagher', 'misha', 'xueyi'],
+			timezoneDependent: true
+		},
+		{
+			code: 2034,
+			type: 'character',
+			name: 'Floral Triptych',
+			start: '2024-06-19 06:00:00',
+			end: '2024-07-10 11:59:00',
+			color: '#ccdde1',
+			version: '2.3',
+			image: 'Floral Triptych 2034.jpg',
+			pos: '65% 20%',
+			zoom: 1.2,
+			featured5: ['ruan-mei'],
+			featured4: ['gallagher', 'misha', 'xueyi'],
+			timezoneDependent: true
 		}
 	],
 	lightcone: [
@@ -923,6 +953,36 @@ export const banners: Banners = {
 			zoom: 1.2,
 			featured5: ['she-already-shut-her-eyes'],
 			featured4: ['geniuses-repose', 'a-secret-vow', 'landaus-choice']
+		},
+		{
+			code: 3033,
+			type: 'lightcone',
+			name: 'Brilliant Fixation',
+			start: '2024-06-19 06:00:00',
+			end: '2024-07-10 11:59:00',
+			color: '#a3d1aa',
+			version: '2.3',
+			image: 'Brilliant Fixation 3033.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['whereabouts-should-dreams-rest'],
+			featured4: ['memories-of-the-past', 'day-one-of-my-new-life', 'eyes-of-the-prey'],
+			timezoneDependent: true
+		},
+		{
+			code: 3034,
+			type: 'lightcone',
+			name: 'Bygone Reminiscence',
+			start: '2024-06-19 06:00:00',
+			end: '2024-07-10 11:59:00',
+			color: '#e9e9e9',
+			version: '2.3',
+			image: 'Bygone Reminiscence 3034.jpg',
+			pos: '70% 20%',
+			zoom: 1.2,
+			featured5: ['past-self-in-mirror'],
+			featured4: ['memories-of-the-past', 'day-one-of-my-new-life', 'eyes-of-the-prey'],
+			timezoneDependent: true
 		}
 	],
 	standard: [
