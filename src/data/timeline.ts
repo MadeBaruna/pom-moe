@@ -3,67 +3,6 @@ import type { Timeline } from '$types';
 const timeline: Array<Timeline[]> = [
 	[
 		{
-			name: 'Planar Fissure',
-			start: '2024-04-10 04:00:00',
-			end: '2024-04-17 03:59:00',
-			image: 'Planar Fissure.png',
-			color: '#6262ff',
-			pos: '0%, 0%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/26239490',
-			timezoneDependent: true,
-			show: true
-		},
-		{
-			name: 'Realm of the Strange',
-			start: '2024-04-26 04:00:00',
-			end: '2024-05-03 03:59:00',
-			image: 'Realm of the Strange.png',
-			color: '#6262ff',
-			pos: '0%, 0%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/26239490',
-			timezoneDependent: true,
-			show: true
-		},
-		{
-			name: 'Planar Fissure',
-			start: '2024-05-22 04:00:00',
-			end: '2024-05-29 03:59:00',
-			image: 'Planar Fissure.png',
-			color: '#5556ff',
-			pos: '30%, -25%',
-			zoom: 1,
-			url: 'https://www.hoyolab.com/article/27977689',
-			timezoneDependent: true,
-			show: true
-		},
-		{
-			name: 'Garden of Plenty',
-			start: '2024-06-07 04:00:00',
-			end: '2024-06-14 03:59:00',
-			image: 'Garden of Plenty.png',
-			color: '#eed533',
-			pos: '30%, -25%',
-			zoom: 1,
-			url: 'https://www.hoyolab.com/article/27977689',
-			timezoneDependent: true,
-			show: true
-		}
-	],
-	[
-		{
-			name: 'Tides of War',
-			start: '2024-04-13 12:00:00',
-			end: '2024-05-06 03:59:00',
-			image: 'Tides of War.png',
-			color: '#afcceb',
-			pos: '30%, -10%',
-			zoom: 1.5,
-			url: 'https://www.hoyolab.com/article/26239490',
-			show: true
-		},
-		{
 			name: 'The Legend of Galactic Baseballer',
 			start: '2024-05-29 12:00:00',
 			end: '2024-06-17 03:59:00',
@@ -72,22 +11,32 @@ const timeline: Array<Timeline[]> = [
 			pos: '30%, -25%',
 			zoom: 1,
 			url: 'https://www.hoyolab.com/article/27977689',
-			timezoneDependent: true,
+			show: true
+		},
+		{
+			name: 'Planar Fissure',
+			start: '2024-06-28 04:00:00',
+			end: '2024-04-05 03:59:00',
+			image: 'Planar Fissure.png',
+			color: '#6262ff',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29896988',
+			show: true
+		},
+		{
+			name: 'Realm of the Strange',
+			start: '2024-07-19 04:00:00',
+			end: '2024-07-26 03:59:00',
+			image: 'Realm of the Strange.png',
+			color: '#6262ff',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29896988',
 			show: true
 		}
 	],
 	[
-		{
-			name: 'Vignettes in a Cup',
-			start: '2024-03-29 12:00:00',
-			end: '2024-05-06 03:59:00',
-			image: 'Vignettes in a Cup.png',
-			color: '#78cee5',
-			pos: '30%, -10%',
-			zoom: 1.5,
-			url: 'https://www.hoyolab.com/article/26384268',
-			show: true
-		},
 		{
 			name: 'All About Boothill...',
 			start: '2024-05-17 04:00:00',
@@ -99,21 +48,20 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/27977689',
 			timezoneDependent: true,
 			show: true
+		},
+		{
+			name: 'Stellar Shimmer',
+			start: '2024-07-05 12:00:00',
+			end: '2024-07-29 03:59:00',
+			image: 'Stellar Shimmer.png',
+			color: '#466cf1',
+			pos: '30%, -25%',
+			zoom: 1.5,
+			url: 'https://www.hoyolab.com/article/29896988',
+			show: true
 		}
 	],
 	[
-		{
-			name: 'Cosmodyssey',
-			start: '2024-03-27 06:00:00',
-			end: '2024-05-06 03:59:00',
-			image: 'Cosmodyssey.png',
-			color: '#697cfd',
-			pos: '30%, -20%',
-			zoom: 1.5,
-			url: 'https://www.hoyolab.com/article/26352401',
-			timezoneDependent: true,
-			show: true
-		},
 		{
 			name: 'Clockie: Dreamjoy Memoir',
 			start: '2024-05-08 06:00:00',
@@ -125,32 +73,20 @@ const timeline: Array<Timeline[]> = [
 			url: 'https://www.hoyolab.com/article/28207325',
 			timezoneDependent: true,
 			show: true
+		},
+		{
+			name: 'Origami Bird Clash',
+			start: '2024-06-21 12:00:00',
+			end: '2024-07-29 03:59:00',
+			image: 'Origami Bird Clash.png',
+			color: '#6daffb',
+			pos: '30%, -50%',
+			zoom: 1,
+			url: 'https://www.hoyolab.com/article/29896988',
+			show: true
 		}
 	],
 	[
-		{
-			name: 'Laic Pursuit - Luocha Warp Event',
-			start: '2024-03-27 06:00:00',
-			end: '2024-04-17 11:59:00',
-			image: 'Laic Pursuit 2026.jpg',
-			color: '#f7f0da',
-			pos: '0%, 0%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/26350508',
-			show: true,
-			timezoneDependent: true
-		},
-		{
-			name: 'Gentle Eclipse of the Moon - Jingliu Warp Event',
-			start: '2024-04-17 12:00:00',
-			end: '2024-05-07 15:00:00',
-			image: 'Gentle Eclipse of the Moon 2028.jpg',
-			color: '#51aaff',
-			pos: '0%, 0%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/27262568',
-			show: true
-		},
 		{
 			name: 'Sunset Clause - Topaz & Numby Warp Event',
 			start: '2024-05-08 06:00:00',
@@ -173,32 +109,32 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29127114',
 			show: true
-		}
-	],
-	[
+		},
 		{
-			name: 'Words of Yore - Acheron Warp Event',
-			start: '2024-03-27 06:00:00',
-			end: '2024-04-17 11:59:00',
-			image: 'Words of Yore 2025.jpg',
-			color: '#b2b0d1',
+			name: 'Floral Triptych - Ruan Mei Warp Event',
+			start: '2024-06-19 06:00:00',
+			end: '2024-07-10 11:59:00',
+			image: 'Floral Triptych 2034.jpg',
+			color: '#ccdde1',
 			pos: '0%, 0%',
 			zoom: 2,
-			url: 'https://www.hoyolab.com/article/26350508',
+			url: 'https://www.hoyolab.com/article/29992036',
 			show: true,
 			timezoneDependent: true
 		},
 		{
-			name: 'Gilded Imprisonment - Aventurine Warp Event',
-			start: '2024-04-17 12:00:00',
-			end: '2024-05-07 15:00:00',
-			image: 'Gilded Imprisonment 2027.jpg',
-			color: '#fff9ea',
-			pos: '-5%, 5%',
+			name: 'Thorns of Scented Crown - Argenti Warp Event',
+			start: '2024-07-10 12:00:00',
+			end: '2024-07-30 15:00:00',
+			image: 'Thorns of Scented Crown 2036.jpg',
+			color: '#e97762',
+			pos: '0%, 0%',
 			zoom: 2,
-			url: 'https://www.hoyolab.com/article/27262568',
+			url: 'https://www.hoyolab.com/article/29896988',
 			show: true
-		},
+		}
+	],
+	[
 		{
 			name: 'Just Intonation - Robin Warp Event',
 			start: '2024-05-08 06:00:00',
@@ -221,32 +157,32 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29127114',
 			show: true
-		}
-	],
-	[
+		},
 		{
-			name: 'Brilliant Fixation - Light Cone Warp Event',
-			start: '2024-03-27 06:00:00',
-			end: '2024-04-17 11:59:00',
-			image: 'Brilliant Fixation 3025.jpg',
-			color: '#adbfbd',
-			pos: '0%, -40%',
+			name: 'Firefull Flyshine - Firefly Warp Event',
+			start: '2024-06-19 06:00:00',
+			end: '2024-07-10 11:59:00',
+			image: 'Firefull Flyshine 2033.jpg',
+			color: '#dcffe5',
+			pos: '-5%, -2%',
 			zoom: 2,
-			url: 'https://www.hoyolab.com/article/26350622',
+			url: 'https://www.hoyolab.com/article/29992036',
 			show: true,
 			timezoneDependent: true
 		},
 		{
-			name: 'Brilliant Fixation - Light Cone Warp Event',
-			start: '2024-04-17 12:00:00',
-			end: '2024-05-07 15:00:00',
-			image: 'Brilliant Fixation 3027.jpg',
-			color: '#fdf5c9',
-			pos: '0%, 10%',
+			name: 'Lien on Life, Lease on Fate - Jade Warp Event',
+			start: '2024-07-10 12:00:00',
+			end: '2024-07-30 15:00:00',
+			image: 'Lien on Life, Lease on Fate 2035.jpg',
+			color: '#d89bde',
+			pos: '0%, 0%',
 			zoom: 2,
-			url: 'https://www.hoyolab.com/article/27262674',
+			url: 'https://www.hoyolab.com/article/29896988',
 			show: true
-		},
+		}
+	],
+	[
 		{
 			name: 'Brilliant Fixation - Light Cone Warp Event',
 			start: '2024-05-08 06:00:00',
@@ -269,31 +205,32 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29127114',
 			show: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2024-06-19 06:00:00',
+			end: '2024-07-10 11:59:00',
+			image: 'Brilliant Fixation 3033.jpg',
+			color: '#a3d1aa',
+			pos: '0%, 10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29992142',
+			show: true,
+			timezoneDependent: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2024-07-10 12:00:00',
+			end: '2024-07-30 15:00:00',
+			image: 'Brilliant Fixation 3035.jpg',
+			color: '#d89bde',
+			pos: '0%, 10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29992142',
+			show: true
 		}
 	],
 	[
-		{
-			name: 'Bygone Reminiscence - Light Cone Warp Event',
-			start: '2024-03-27 06:00:00',
-			end: '2024-04-17 11:59:00',
-			image: 'Bygone Reminiscence 3026.jpg',
-			color: '#fbefd1',
-			pos: '0%, 10%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/26350622',
-			show: true
-		},
-		{
-			name: 'Bygone Reminiscence - Light Cone Warp Event',
-			start: '2024-04-17 12:00:00',
-			end: '2024-05-07 15:00:00',
-			image: 'Bygone Reminiscence 3028.jpg',
-			color: '#c6d2ff',
-			pos: '0%, 10%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/27262674',
-			show: true
-		},
 		{
 			name: 'Bygone Reminiscence - Light Cone Warp Event',
 			start: '2024-05-08 06:00:00',
@@ -316,21 +253,32 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29127114',
 			show: true
+		},
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2024-06-19 06:00:00',
+			end: '2024-07-10 11:59:00',
+			image: 'Bygone Reminiscence 3034.jpg',
+			color: '#e9e9e9',
+			pos: '0%, -10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29992142',
+			show: true,
+			timezoneDependent: true
+		},
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2024-07-10 12:00:00',
+			end: '2024-07-30 15:00:00',
+			image: 'Bygone Reminiscence 3036.jpg',
+			color: '#e97762',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29127114',
+			show: true
 		}
 	],
 	[
-		{
-			name: 'Nameless Honor - Battle Pass',
-			start: '2024-03-27 06:00:00',
-			end: '2024-05-06 03:59:00',
-			image: 'Nameless Honor.png',
-			color: '#ff9d92',
-			pos: '30%, -5%',
-			zoom: 2,
-			url: 'https://www.hoyolab.com/article/26283612',
-			timezoneDependent: true,
-			show: true
-		},
 		{
 			name: 'Nameless Honor - Battle Pass',
 			start: '2024-05-08 06:00:00',
@@ -340,6 +288,18 @@ const timeline: Array<Timeline[]> = [
 			pos: '30%, -5%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/28163838',
+			timezoneDependent: true,
+			show: true
+		},
+		{
+			name: 'Nameless Honor - Battle Pass',
+			start: '2024-06-19 06:00:00',
+			end: '2024-07-29 03:59:00',
+			image: 'Nameless Honor.png',
+			color: '#ff9d92',
+			pos: '30%, -5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/29897602',
 			timezoneDependent: true,
 			show: true
 		}

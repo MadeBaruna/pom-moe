@@ -77,7 +77,7 @@
 			<img
 				draggable="false"
 				src="/images/events/{event.image}"
-				alt={event.name}
+				alt=""
 				style="--zoom: {event.zoom}; --pos: {event.pos};"
 			/>
 		</div>
