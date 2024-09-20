@@ -4,6 +4,7 @@
 	import type { Dayjs } from 'dayjs';
 	import dayjs from 'dayjs';
 	import Detail from './Detail.svelte';
+	import Modal from './Modal.svelte';
 
 	export let event: Timeline;
 	export let next: Timeline | null = null;
@@ -50,6 +51,15 @@
 		open(Detail, { event, start: _start, end: _end });
 	}
 
+	let showDuration = false;
+	function openModal(){
+		showDuration = true;
+	}
+	
+	function closeModal(){
+		showDuration = false;
+	}
+
 	$: started = now.isAfter(_start);
 	$: now, updateDuration();
 	$: afterNow = now.isBefore(_end);
@@ -63,8 +73,15 @@
 	style:height="{height}px"
 	style:top="{_top}px"
 	on:click={openDetail}
+    on:mouseenter={openModal}
+    on:mouseleave={closeModal}
 	on:keydown
->
+>	
+	{#if showDuration}
+		<div class="absolute bg-black text-white p-1 rounded-md -top-8 text-sm md:text-md shadow-md ml-24">
+			<Modal start={_start} end={_end} />
+		</div>
+	{/if}
 	<div
 		class="absolute bottom-0 top-0 flex w-full items-center overflow-hidden pl-4 text-base font-medium"
 		class:rounded-r-md={!nextNearby}

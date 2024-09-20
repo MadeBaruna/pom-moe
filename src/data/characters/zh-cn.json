@@ -159,6 +159,14 @@
     "rarity": 4,
     "background": "贝洛伯格下层区的冠军拳手，「地火」的得力干将之一。\\n搏击俱乐部的蝉联冠军，以自身的热情激励着下层区有梦想的孩子们。"
   },
+  "topaz-numby": {
+    "id": "topaz-numby",
+    "name": "托帕&账账",
+    "path": "the-hunt",
+    "element": "fire",
+    "rarity": 5,
+    "background": "星际和平公司旗下「战略投资部」高级干部托帕，领导特殊债务纠察小组。\\n年纪轻轻便已成为「石心十人」之一，基石为「催讨黄玉」。\\n搭档次元扑满「账账」则能敏锐感知「财富」所在，即便是安保、催债、精算等工作也不在话下。\\n如今他们正一同巡行银河，追究各类影响公司业务开展的债务纠纷。"
+  },
   "qingque": {
     "id": "qingque",
     "name": "青雀",
@@ -231,6 +239,14 @@
     "rarity": 5,
     "background": "将军景元的侍卫，不过总角之年的御剑天才。\\n手中握剑，即立于不败之地。"
   },
+  "guinaifen": {
+    "id": "guinaifen",
+    "name": "桂乃芬",
+    "path": "nihility",
+    "element": "fire",
+    "rarity": 4,
+    "background": "客居仙舟「罗浮」的行为艺术家——或者说，街头艺人。\\n在三餐温饱之余，追逐着自己在罗浮的新生活。"
+  },
   "bailu": {
     "id": "bailu",
     "name": "白露",
@@ -239,6 +255,14 @@
     "rarity": 5,
     "background": "仙舟「罗浮」持明族的尊长，有「衔药龙女」之称的医士。\\n以独门医理和唯有龙脉方可施行的「医疗手段」救死扶伤。"
   },
+  "jingliu": {
+    "id": "jingliu",
+    "name": "镜流",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 5,
+    "background": "曾经的罗浮剑首，云骑军不败盛名的缔造者。\\n而今其名字已被抹去，成为行走于魔阴身边缘的仙舟叛徒。"
+  },
   "dan-heng-imbibitor-lunae": {
     "id": "dan-heng-imbibitor-lunae",
     "name": "丹恒•饮月",
@@ -246,6 +270,126 @@
     "element": "imaginary",
     "rarity": 5,
     "background": "丹恒身为持明族的本相，其上一世「饮月君」所遗存的力量。\\n接受了额顶的峥嵘角冠，就要接受那罪人所立的一切功过。"
+  },
+  "xueyi": {
+    "id": "xueyi",
+    "name": "雪衣",
+    "path": "destruction",
+    "element": "quantum",
+    "rarity": 4,
+    "background": "仙舟「罗浮」上监察生死的机构「十王司」的判官。\\n早已身死道消多年，借偃偶身躯「还阳」，履行使命。"
+  },
+  "hanya": {
+    "id": "hanya",
+    "name": "寒鸦",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 4,
+    "background": "仙舟「罗浮」十王司的判官之一。\\n受命十王，执掌冥谶天笔，读取罪业种种，并下达业报判罚。"
+  },
+  "huohuo": {
+    "id": "huohuo",
+    "name": "藿藿",
+    "path": "abundance",
+    "element": "wind",
+    "rarity": 5,
+    "background": "仙舟罗浮的十王司见习判官，被岁阳附身的狐人小女孩。\\n性格怯懦，弱小可怜，害怕种种怪异之事却肩负起勾摄邪魔的职责。"
+  },
+  "gallagher": {
+    "id": "gallagher",
+    "name": "加拉赫",
+    "path": "abundance",
+    "element": "fire",
+    "rarity": 4,
+    "background": "匹诺康尼猎犬家系的治安官，对来访宾客以礼相待，但保有戒心。似乎有着诸多往事，却从不主动提及。"
+  },
+  "argenti": {
+    "id": "argenti",
+    "name": "银枝",
+    "path": "erudition",
+    "element": "physical",
+    "rarity": 5,
+    "background": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。\\n为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉的美名。"
+  },
+  "ruan-mei": {
+    "id": "ruan-mei",
+    "name": "阮•梅",
+    "path": "harmony",
+    "element": "ice",
+    "rarity": 5,
+    "background": "天才俱乐部会员，生命科学领域专家，与黑塔等人联手研发模拟宇宙。"
+  },
+  "aventurine": {
+    "id": "aventurine",
+    "name": "砂金",
+    "path": "preservation",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "星际和平公司「战略投资部」的高层成员。\\n风险爱好者，常面带笑容，真心却难以揣测。"
+  },
+  "dr-ratio": {
+    "id": "dr-ratio",
+    "name": "真理医生",
+    "path": "the-hunt",
+    "element": "imaginary",
+    "rarity": 5,
+    "background": "博识学会学者。\\n性情古怪、言辞刻薄却又风度翩翩。\\n奇异石膏头雕下的面容似乎出人意料的俊美。"
+  },
+  "sparkle": {
+    "id": "sparkle",
+    "name": "花火",
+    "path": "harmony",
+    "element": "quantum",
+    "rarity": 5,
+    "background": "「假面愚者」的成员之一，难以捉摸，不择手段。\\n危险的戏剧大师，沉迷于扮演，身怀千张假面，能化万种面相。\\n财富、地位、权利…于花火而言都不重要，能让她出手的，唯有「乐趣」。"
+  },
+  "black-swan": {
+    "id": "black-swan",
+    "name": "黑天鹅",
+    "path": "nihility",
+    "element": "wind",
+    "rarity": 5,
+    "background": "流光忆庭的忆者，慵懒神秘的占卜师。\\n耐心聆听他人「记忆」，诸般命运尽在掌握。"
+  },
+  "acheron": {
+    "id": "acheron",
+    "name": "黄泉",
+    "path": "nihility",
+    "element": "lightning",
+    "rarity": 5,
+    "background": "自称「巡海游侠」的旅人，本名不详。\\n身佩一柄长刀，独行银河。"
+  },
+  "robin": {
+    "id": "robin",
+    "name": "知更鸟",
+    "path": "harmony",
+    "element": "physical",
+    "rarity": 5,
+    "background": "出生于匹诺康尼，闻名银河的天环族歌者，举止从容优雅的少女。\\n此次受家族宴请回到故乡，在「谐乐大典」为众宾献歌一曲。\\n可以依靠「同谐」的力量传递歌声，在歌迷乃至万界生灵之中展现「共鸣」。"
+  },
+  "firefly": {
+    "id": "firefly",
+    "name": "流萤",
+    "path": "destruction",
+    "element": "fire",
+    "rarity": 5,
+    "background": "星核猎手成员，身着机械装甲「萨姆」战斗。忠于任务，性格坚强。\\n作为战胜虫群的兵器而诞生，其生长速度异于常人，但生命非常短暂。\\n为了找寻「生」的机会而加入星核猎手，找寻违抗命运的方式。"
+  },
+  "misha": {
+    "id": "misha",
+    "name": "米沙",
+    "path": "destruction",
+    "element": "ice",
+    "rarity": 4,
+    "background": "匹诺康尼酒店的门童侍应，乖巧懂事的小男孩。\\n对无名客抱有极大憧憬，梦想有朝一日自己也能踏上旅途。"
+  },
+  "boothill": {
+    "id": "boothill",
+    "name": "波提欧",
+    "path": "the-hunt",
+    "element": "physical",
+    "rarity": 5,
+    "background": "浪迹银河的改造人牛仔，极度乐观、放荡不羁。\\n身为「巡海游侠」的一员，为惩奸除恶，可以无所不用其极——\\n高调行事的背后，渴望以此引起复仇对象「星际和平公司」的注意。"
   },
   "trailblazer": {
     "id": "trailblazer",

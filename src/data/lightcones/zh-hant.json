@@ -335,6 +335,90 @@
     "path": "erudition",
     "rarity": 4
   },
+  "what-is-real": {
+    "id": "what-is-real",
+    "name": "何物為真",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "dreamville-adventure": {
+    "id": "dreamville-adventure",
+    "name": "美夢小鎮大冒險",
+    "path": "harmony",
+    "rarity": 4
+  },
+  "final-victor": {
+    "id": "final-victor",
+    "name": "最後的贏家",
+    "path": "the-hunt",
+    "rarity": 4
+  },
+  "flames-afar": {
+    "id": "flames-afar",
+    "name": "在火的遠處",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "destinys-threads-forewoven": {
+    "id": "destinys-threads-forewoven",
+    "name": "織造命運之線",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "the-day-the-cosmos-fell": {
+    "id": "the-day-the-cosmos-fell",
+    "name": "銀河淪陷日",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "its-showtime": {
+    "id": "its-showtime",
+    "name": "好戲開演",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "indelible-promise": {
+    "id": "indelible-promise",
+    "name": "銘記於心的約定",
+    "path": "destruction",
+    "rarity": 4
+  },
+  "concert-for-two": {
+    "id": "concert-for-two",
+    "name": "兩個人的演唱會",
+    "path": "preservation",
+    "rarity": 4
+  },
+  "boundless-choreo": {
+    "id": "boundless-choreo",
+    "name": "無邊曼舞",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "after-the-charmony-fall": {
+    "id": "after-the-charmony-fall",
+    "name": "諧樂靜默之後",
+    "path": "erudition",
+    "rarity": 4
+  },
+  "before-the-tutorial-mission-starts": {
+    "id": "before-the-tutorial-mission-starts",
+    "name": "新手任務開始前",
+    "path": "nihility",
+    "rarity": 4
+  },
+  "hey-over-here": {
+    "id": "hey-over-here",
+    "name": "嘿，我在這裡",
+    "path": "abundance",
+    "rarity": 4
+  },
+  "for-tomorrows-journey": {
+    "id": "for-tomorrows-journey",
+    "name": "為了明日的旅途",
+    "path": "harmony",
+    "rarity": 4
+  },
   "night-on-the-milky-way": {
     "id": "night-on-the-milky-way",
     "name": "銀河鐵道之夜",
@@ -371,10 +455,40 @@
     "path": "preservation",
     "rarity": 5
   },
+  "patience-is-all-you-need": {
+    "id": "patience-is-all-you-need",
+    "name": "只需等待",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "incessant-rain": {
+    "id": "incessant-rain",
+    "name": "雨一直下",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "echoes-of-the-coffin": {
+    "id": "echoes-of-the-coffin",
+    "name": "棺的迴響",
+    "path": "abundance",
+    "rarity": 5
+  },
+  "the-unreachable-side": {
+    "id": "the-unreachable-side",
+    "name": "到不了的彼岸",
+    "path": "destruction",
+    "rarity": 5
+  },
   "before-dawn": {
     "id": "before-dawn",
     "name": "拂曉之前",
     "path": "erudition",
+    "rarity": 5
+  },
+  "she-already-shut-her-eyes": {
+    "id": "she-already-shut-her-eyes",
+    "name": "她已閉上雙眼",
+    "path": "preservation",
     "rarity": 5
   },
   "sleep-like-the-dead": {
@@ -387,6 +501,96 @@
     "id": "time-waits-for-no-one",
     "name": "時節不居",
     "path": "abundance",
+    "rarity": 5
+  },
+  "i-shall-be-my-own-sword": {
+    "id": "i-shall-be-my-own-sword",
+    "name": "此身為劍",
+    "path": "destruction",
+    "rarity": 5
+  },
+  "brighter-than-the-sun": {
+    "id": "brighter-than-the-sun",
+    "name": "比陽光更明亮的",
+    "path": "destruction",
+    "rarity": 5
+  },
+  "worrisome-blissful": {
+    "id": "worrisome-blissful",
+    "name": "煩惱著，幸福著",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "night-of-fright": {
+    "id": "night-of-fright",
+    "name": "驚魂夜",
+    "path": "abundance",
+    "rarity": 5
+  },
+  "an-instant-before-a-gaze": {
+    "id": "an-instant-before-a-gaze",
+    "name": "片刻，留在眼底",
+    "path": "erudition",
+    "rarity": 5
+  },
+  "past-self-in-mirror": {
+    "id": "past-self-in-mirror",
+    "name": "鏡中故我",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "baptism-of-pure-thought": {
+    "id": "baptism-of-pure-thought",
+    "name": "純粹思維的洗禮",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "earthly-escapade": {
+    "id": "earthly-escapade",
+    "name": "遊戲塵寰",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "reforged-remembrance": {
+    "id": "reforged-remembrance",
+    "name": "重塑時光之憶",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "inherently-unjust-destiny": {
+    "id": "inherently-unjust-destiny",
+    "name": "命運從未公平",
+    "path": "preservation",
+    "rarity": 5
+  },
+  "along-the-passing-shore": {
+    "id": "along-the-passing-shore",
+    "name": "行於流逝的岸",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "whereabouts-should-dreams-rest": {
+    "id": "whereabouts-should-dreams-rest",
+    "name": "夢應歸於何處",
+    "path": "destruction",
+    "rarity": 5
+  },
+  "flowing-nightglow": {
+    "id": "flowing-nightglow",
+    "name": "夜色流光溢彩",
+    "path": "harmony",
+    "rarity": 5
+  },
+  "sailing-towards-a-second-life": {
+    "id": "sailing-towards-a-second-life",
+    "name": "駛向第二次生命",
+    "path": "the-hunt",
+    "rarity": 5
+  },
+  "yet-hope-is-priceless": {
+    "id": "yet-hope-is-priceless",
+    "name": "偏偏希望無價",
+    "path": "erudition",
     "rarity": 5
   },
   "on-the-fall-of-an-aeon": {
@@ -405,6 +609,18 @@
     "id": "texture-of-memories",
     "name": "記憶的質料",
     "path": "preservation",
+    "rarity": 5
+  },
+  "solitary-healing": {
+    "id": "solitary-healing",
+    "name": "孤獨的療癒",
+    "path": "nihility",
+    "rarity": 5
+  },
+  "eternal-calculus": {
+    "id": "eternal-calculus",
+    "name": "不息的演算",
+    "path": "erudition",
     "rarity": 5
   }
 }

@@ -34,7 +34,31 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29896988',
 			show: true
-		}
+		},
+		{
+			name: 'Planar Fissure',
+			start: '2024-09-23 04:00:00',
+			end: '2024-09-30 03:59:00',
+			image: 'Planar Fissure.png',
+			color: '#6262ff',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true
+		},
+		{
+			name: 'Realm of the Strange',
+			start: '2024-10-11 04:00:00',
+			end: '2024-10-18 03:59:00',
+			image: 'Realm of the Strange.png',
+			color: '#6262ff',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true
+		},
 	],
 	[
 		{
@@ -59,7 +83,20 @@ const timeline: Array<Timeline[]> = [
 			zoom: 1.5,
 			url: 'https://www.hoyolab.com/article/29896988',
 			show: true
+		},
+		{
+			name: 'Festive Revelry',
+			start: '2024-09-30 12:00:00',
+			end: '2024-10-21 03:59:00',
+			image: 'Festive Revelry.jpg',
+			color: '#8b6b66',
+			pos: '30%, -50%',
+			zoom: 1,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true
 		}
+
 	],
 	[
 		{
@@ -84,6 +121,18 @@ const timeline: Array<Timeline[]> = [
 			zoom: 1,
 			url: 'https://www.hoyolab.com/article/29896988',
 			show: true
+		},
+		{
+			name: 'Luminary Wardance Ceremony',
+			start: '2024-09-10 06:00:00',
+			end: '2024-10-21 03:59:00',
+			image: 'Luminary Wardance Ceremony.jpg',
+			color: '#2e4a87',
+			pos: '30%, -20%',
+			zoom: 1.5,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true
 		}
 	],
 	[
@@ -132,6 +181,30 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29896988',
 			show: true
+		},
+		{
+			name: "Stormrider's Bolt - Feixiao Warp Event",
+			start: '2024-09-10 06:00:00',
+			end: '2024-10-02 11:59:00',
+			image: "Stormrider's Bolt 2037.jpg",
+			color: '#91cbcc',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/32661409',
+			show: true,
+			timezoneDependent: true,
+		},
+		{
+			name: "Let Scent Sink In - Lingsha Warp Event",
+			start: '2024-10-2 12:00:00',
+			end: '2024-10-22 15:00:00',
+			image: "Let Scent Sink In 2038.jpg",
+			color: '#d77867',
+			pos: '10%, -10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true,
 		}
 	],
 	[
@@ -180,6 +253,30 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29896988',
 			show: true
+		},
+		{
+			name: 'Indelible Coterie - Kafka / Black Swan / Robin Wrap Event',
+			start: '2024-09-10 05:00:00',
+			end: '2024-10-02 11:59:00',
+			image: 'Indelible Coterie.png',
+			color: '#d3b9ad',
+			pos: '30%, -30%',
+			zoom: 0.7,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true,
+		},
+		{
+			name: "Sunset Clause - Topaz Warp Event",
+			start: '2024-10-2 12:00:00',
+			end: '2024-10-22 15:00:00',
+			image: "Sunset Clause 2038.jpg",
+			color: '#c1c4f8',
+			pos: '0%, 4%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true,
 		}
 	],
 	[
@@ -228,6 +325,30 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29992142',
 			show: true
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2024-09-10 06:00:00',
+			end: '2024-10-02 11:59:00',
+			image: 'Brilliant Fixation 3036.jpg',
+			color: '#a9c2ad',
+			pos: '-5%, 0%',
+			zoom: 3,
+			url: 'https://www.hoyolab.com/article/32661628',
+			show: true,
+			timezoneDependent: true,
+		},
+		{
+			name: 'Brilliant Fixation - Light Cone Warp Event',
+			start: '2024-10-2 12:00:00',
+			end: '2024-10-22 15:00:00',
+			image: 'Brilliant Fixation 3037.jpg',
+			color: '#cc6958',
+			pos: '0%, 0%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true,
 		}
 	],
 	[
@@ -276,6 +397,30 @@ const timeline: Array<Timeline[]> = [
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29127114',
 			show: true
+		},
+		{
+			name: 'Coalesced Truths - Light Cone Warp Event',
+			start: '2024-09-10 06:00:00',
+			end: '2024-10-02 11:59:00',
+			image: 'Coalesced Truths 3027.jpg',
+			color: '#dddce3',
+			pos: '25%, -40%',
+			zoom: 0.7,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true,
+		},
+		{
+			name: 'Bygone Reminiscence - Light Cone Warp Event',
+			start: '2024-10-2 12:00:00',
+			end: '2024-10-22 15:00:00',
+			image: 'Bygone Reminiscence 3038.jpg',
+			color: '#f7f6fd',
+			pos: '0%, 10%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/32927745',
+			show: true,
+			timezoneDependent: true,
 		}
 	],
 	[
@@ -300,6 +445,18 @@ const timeline: Array<Timeline[]> = [
 			pos: '30%, -5%',
 			zoom: 2,
 			url: 'https://www.hoyolab.com/article/29897602',
+			timezoneDependent: true,
+			show: true
+		},
+		{
+			name: 'Nameless Honor - Battle Pass',
+			start: '2024-09-10 6:00:00',
+			end: '2024-10-21 03:59:00',
+			image: 'Nameless Honor.png',
+			color: '#ff9d92',
+			pos: '30%, -5%',
+			zoom: 2,
+			url: 'https://www.hoyolab.com/article/32966312',
 			timezoneDependent: true,
 			show: true
 		}
